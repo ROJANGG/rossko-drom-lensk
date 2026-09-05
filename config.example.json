@@ -1,0 +1,61 @@
+{
+  "rossko": {
+    "price_source": "url",
+    "local_price_path": "input/rossko_price.xlsx",
+    "price_url": "https://webprice.rossko.ru/service/getPriceList.php?t=%D0%9E%D0%A2-000039",
+    "download_timeout_seconds": 120
+  },
+  "drom": {
+    "template_path": "input/auto-parts-GT.xlsx",
+    "public_dir": "public",
+    "supplier_name": "ИП Досаева А.В.",
+    "supplier_inn": "380801997918",
+    "stock_address": "664019, г. Иркутск, ул. Каховского, дом 11/1",
+    "photo_map_path": "input/photos.csv"
+  },
+  "pricing": {
+    "markup_percent": 37,
+    "round_up_to": 50,
+    "min_price": 0
+  },
+  "profiles": [
+    {
+      "name": "Ленск",
+      "enabled": true,
+      "output_filename": "drom_lensk.xlsx",
+      "availability_text": "Под заказ",
+      "local_delivery_text": "2-5 дней",
+      "extra_days_min": 2,
+      "extra_days_max": 5,
+      "use_source_delivery_days": true
+    },
+    {
+      "name": "Иркутск",
+      "enabled": false,
+      "output_filename": "drom_irkutsk.xlsx",
+      "availability_text": "Под заказ",
+      "local_delivery_text": "2-4 часа",
+      "extra_days_min": 0,
+      "extra_days_max": 0,
+      "use_source_delivery_days": true
+    }
+  ],
+  "filters": {
+    "export_all_products": true,
+    "skip_without_stock": true,
+    "skip_without_price": true,
+    "max_delivery_days": null,
+    "allowed_brands": [],
+    "blocked_brands": [],
+    "blocked_articles": []
+  },
+  "schedule": {
+    "timezone_note": "Запуск по расписанию настраивается средствами Windows Task Scheduler или cron на сервере.",
+    "recommended_runs_per_day": [
+      "07:00",
+      "11:00",
+      "15:00",
+      "18:00"
+    ]
+  }
+}
