@@ -14,7 +14,6 @@ from __future__ import annotations
 import argparse
 import csv
 import re
-import sys
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -27,7 +26,14 @@ from openpyxl import load_workbook
 from update_prices import download_price_if_needed, load_config, normalize_key, text
 
 REQUIRED_HEADERS = ["Номенклатура", "Бренд", "Артикул"]
-DIRECT_IMG_RE = re.compile(r"https?://imgs\.rossko\.ru/[^\"'<>\s)]+?\.jpg", re.IGNORECASE)
+
+# Rossko pages may contain both absolute URLs and protocol-relative URLs:
+# https://imgs.rossko.ru/15/5A/NSII0012963910/1.jpg
+# //imgs.rossko.ru/15/5A/NSII0012963910/1.jpg
+DIRECT_IMG_RE = re.compile(
+    r"(?:(?:https?:)?//)imgs\.rossko\.ru/[^\"'<>\s)]+?\.jpg",
+    re.IGNORECASE,
+)
 
 
 @dataclass(frozen=True)
@@ -42,12 +48,7 @@ class PriceRow:
 
 
 def slugify(value: str) -> str:
-    """Build the visible part of Rossko card URL.
-
-    Example confirmed from public Rossko catalog:
-    NGN + V172485315 + NSII0012963887 ->
-    https://rossko.ru/card/ngn-v172485315-nsii0012963887/
-    """
+    """Build the visible part of Rossko card URL."""
     raw = text(value).casefold()
     raw = re.sub(r"[^0-9a-zа-яё]+", "-", raw, flags=re.IGNORECASE)
     raw = re.sub(r"-+", "-", raw).strip("-")
@@ -55,7 +56,9 @@ def slugify(value: str) -> str:
 
 
 def card_url(row: PriceRow) -> str:
-    slug = "-".join(part for part in [slugify(row.brand), slugify(row.article), slugify(row.nomenclature)] if part)
+    slug = "-".join(
+        part for part in [slugify(row.brand), slugify(row.article), slugify(row.nomenclature)] if part
+    )
     return f"https://rossko.ru/card/{slug}/"
 
 
@@ -128,10 +131,10 @@ def save_photos(path: Path, photos: Dict[str, tuple[str, str, str]]) -> None:
 
 
 def decode_html(html: str) -> str:
-    # Rossko pages may contain raw URLs, escaped URLs, or thumbor URLs with
-    # encoded nested imgs.rossko.ru URL inside them.
+    # Rossko pages may contain raw URLs, escaped URLs, protocol-relative URLs,
+    # or percent-encoded nested image URLs.
     decoded = html.replace("\\/", "/")
-    for _ in range(3):
+    for _ in range(5):
         new_value = unquote(decoded)
         if new_value == decoded:
             break
@@ -139,9 +142,22 @@ def decode_html(html: str) -> str:
     return decoded
 
 
+def clean_image_url(url: str) -> str:
+    cleaned = text(url).replace("&amp;", "&").split("?")[0]
+    if cleaned.startswith("//"):
+        cleaned = "https:" + cleaned
+    return cleaned
+
+
 def image_exists(session: requests.Session, url: str, timeout: int) -> bool:
     try:
-        response = session.get(url, timeout=timeout, stream=True, headers={"Range": "bytes=0-1024"})
+        response = session.get(
+            url,
+            timeout=timeout,
+            stream=True,
+            allow_redirects=True,
+            headers={"Range": "bytes=0-1024", "Referer": "https://rossko.ru/"},
+        )
         response.close()
     except requests.RequestException:
         return False
@@ -152,10 +168,11 @@ def image_exists(session: requests.Session, url: str, timeout: int) -> bool:
 
 
 def normalize_to_main_image(session: requests.Session, found_url: str, timeout: int, verify: bool) -> Optional[str]:
-    cleaned = found_url.split("?")[0]
+    cleaned = clean_image_url(found_url)
     base = re.sub(r"/\d+\.jpg$", "/", cleaned, flags=re.IGNORECASE)
 
-    # Drom should receive the original Rossko image, not thumbor resize URL.
+    # Drom should receive the original Rossko image. Prefer 1.jpg, but test nearby
+    # numbers because some cards expose another image first.
     candidates = [f"{base}{num}.jpg" for num in (1, 2, 3, 4, 5, 6, 7, 8, 9)]
     if cleaned not in candidates:
         candidates.insert(0, cleaned)
@@ -166,24 +183,31 @@ def normalize_to_main_image(session: requests.Session, found_url: str, timeout: 
     return None
 
 
+def extract_image_candidates(html: str, row: PriceRow) -> list[str]:
+    html = decode_html(html)
+    nomenclature_key = f"/{row.nomenclature}/".casefold()
+    matches: list[str] = []
+
+    for match in DIRECT_IMG_RE.findall(html):
+        clean = clean_image_url(match)
+        if nomenclature_key in clean.casefold() and clean not in matches:
+            matches.append(clean)
+
+    return matches
+
+
 def find_photo_url(session: requests.Session, row: PriceRow, timeout: int, verify_image: bool) -> Optional[str]:
     url = card_url(row)
     try:
         response = session.get(url, timeout=timeout, allow_redirects=True)
-    except requests.RequestException:
+    except requests.RequestException as exc:
+        print(f"HTTP ERROR: {row.brand} {row.article} {url} -> {exc}")
         return None
     if response.status_code >= 400:
+        print(f"HTTP {response.status_code}: {row.brand} {row.article} {url}")
         return None
 
-    html = decode_html(response.text)
-    nomenclature_key = f"/{row.nomenclature}/".casefold()
-    matches = []
-    for match in DIRECT_IMG_RE.findall(html):
-        clean = match.replace("&amp;", "&")
-        if nomenclature_key in clean.casefold():
-            matches.append(clean)
-
-    for match in matches:
+    for match in extract_image_candidates(response.text, row):
         normalized = normalize_to_main_image(session, match, timeout, verify_image)
         if normalized:
             return normalized
@@ -214,8 +238,10 @@ def main() -> int:
 
     session = requests.Session()
     session.headers.update({
-        "User-Agent": "Mozilla/5.0 (compatible; RosskoDromPhotoUpdater/1.0)",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/123.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "ru-RU,ru;q=0.9,en;q=0.8",
     })
 
     scanned = 0
