@@ -118,42 +118,55 @@ def download_price_if_needed(config: Dict[str, Any], base_dir: Path) -> Path:
         url = text(rossko.get("price_url"))
         if not url:
             raise ValueError("В config.json выбран price_source=url, но price_url пустой.")
+
         timeout = int(rossko.get("download_timeout_seconds") or 120)
         local_path.parent.mkdir(parents=True, exist_ok=True)
         tmp_path = local_path.with_suffix(".download")
-        print("Скачиваю прайс Росско по ссылке...")
-        response = requests.get(url, timeout=timeout)
-        response.raise_for_status()
 
-        # Простая проверка: не перезаписывать рабочий файл HTML-страницей ошибки
-        # или пустым ответом. Хэши/сравнение версий специально не используем.
-        content = response.content
-        if len(content) < 10_000 or not content.startswith(b"PK"):
-            raise ValueError("Росско отдал не XLSX-файл или файл слишком маленький. Старый прайс не перезаписан.")
+        last_error = None
 
-        tmp_path.write_bytes(content)
-        tmp_path.replace(local_path)
-        print(f"Прайс обновлен: {local_path}")
+        for attempt in range(1, 4):
+            try:
+                print(f"Скачиваю прайс Росско по ссылке... попытка {attempt}/3")
+                response = requests.get(url, timeout=timeout)
+                response.raise_for_status()
+
+                content = response.content
+
+                # Простая проверка: не перезаписывать рабочий файл HTML-страницей ошибки
+                # или пустым ответом.
+                if len(content) < 10_000 or not content.startswith(b"PK"):
+                    raise ValueError(
+                        "Росско отдал не XLSX-файл или файл слишком маленький. "
+                        "Старый прайс не перезаписан."
+                    )
+
+                tmp_path.write_bytes(content)
+                tmp_path.replace(local_path)
+                print(f"Прайс обновлен: {local_path}")
+                break
+
+            except (requests.exceptions.RequestException, ValueError) as exc:
+                last_error = exc
+                print(f"Не удалось скачать прайс Росско, попытка {attempt}/3: {exc}")
+
+                if attempt < 3:
+                    time.sleep(30 * attempt)
+
+        else:
+            if local_path.exists() and local_path.stat().st_size >= 10_000:
+                print("Росско временно недоступен. Использую ранее сохраненный прайс.")
+                print(f"Локальный прайс: {local_path}")
+                return local_path
+
+            raise RuntimeError(
+                "Не удалось скачать прайс Росско, а локального файла для fallback нет."
+            ) from last_error
 
     if not local_path.exists():
         raise FileNotFoundError(f"Не найден прайс Росско: {local_path}")
+
     return local_path
-
-
-def read_header_map(ws) -> Dict[str, int]:
-    header_map: Dict[str, int] = {}
-    for col_idx, cell in enumerate(ws[1], start=1):
-        name = text(cell.value)
-        if name:
-            header_map[name] = col_idx
-    return header_map
-
-
-def get_cell(row, header_map: Dict[str, int], header: str) -> Any:
-    idx = header_map.get(header)
-    if not idx:
-        return None
-    return row[idx - 1].value
 
 
 def read_rossko_products(path: Path, config: Dict[str, Any]) -> List[Product]:
