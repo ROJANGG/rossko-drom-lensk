@@ -169,6 +169,22 @@ def download_price_if_needed(config: Dict[str, Any], base_dir: Path) -> Path:
     return local_path
 
 
+def read_header_map(ws) -> Dict[str, int]:
+    header_map: Dict[str, int] = {}
+    for col_idx, cell in enumerate(ws[1], start=1):
+        name = text(cell.value)
+        if name:
+            header_map[name] = col_idx
+    return header_map
+
+
+def get_cell(row, header_map: Dict[str, int], header: str) -> Any:
+    idx = header_map.get(header)
+    if not idx:
+        return None
+    return row[idx - 1].value
+
+
 def read_rossko_products(path: Path, config: Dict[str, Any]) -> List[Product]:
     wb = load_workbook(path, read_only=True, data_only=True)
     ws = wb.active
