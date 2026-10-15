@@ -47,7 +47,8 @@ def photo_candidates(products, photo_map):
     grouped = {key: [] for key in GROUPS}
     for row in products:
         key = identity(row)
-        if key in KNOWN_DIAGRAMS:
+        if key in KNOWN_DIAGRAMS or (row["Группа"] == "Тормозные диски" and key[0] == "blitz"):
+            # The current Blitz image batch often uses schematics rather than a product photo.
             continue
         link = photo_map.get("|".join(key), "")
         if not approved_url(link):
