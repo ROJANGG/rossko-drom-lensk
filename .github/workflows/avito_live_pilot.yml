@@ -6,6 +6,7 @@ on:
     branches: [feature/avito-irkutsk-draft]
     paths:
       - '.github/workflows/avito_live_pilot.yml'
+      - 'avito_irkutsk.py'
 
 permissions:
   contents: read
