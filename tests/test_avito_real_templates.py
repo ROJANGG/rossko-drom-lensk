@@ -52,6 +52,9 @@ class RealAvitoTemplatesTest(unittest.TestCase):
                 book = make_book([fields], group, path)
                 try:
                     self.assertEqual(book.sheetnames, ["Инструкция", "Объявления", "Справочники"])
+                    # The visible reference tab was interpreted by Avito as hundreds
+                    # of false listings without an ID in an earlier upload.
+                    self.assertEqual(book["Справочники"].sheet_state, "hidden")
                     ws = book["Объявления"]
                     self.assertEqual(ws.cell(5, 49).value, 1400)
                     self.assertEqual(ws.cell(5, 55).value, "Новое")
