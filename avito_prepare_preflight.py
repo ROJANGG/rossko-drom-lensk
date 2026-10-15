@@ -37,6 +37,8 @@ def read_pilot_confirmations():
         raise ValueError("Condition is not seller-confirmed")
     if info.get("rossko_photo_permission_confirmed_by_seller") is not True:
         raise ValueError("Supplier photo permission is not confirmed by seller")
+    if info.get("pickup_immediate_confirmed_by_seller") is not True:
+        raise ValueError("Immediate pickup is not confirmed by the seller")
     return info
 
 
@@ -67,7 +69,7 @@ def add_qa_sheet(book, rows):
     sheet["A1"].fill = RED
     sheet["A1"].alignment = Alignment(wrap_text=True, vertical="center")
     sheet.row_dimensions[1].height = 32
-    sheet.append(["Новое состояние и разрешение на фото РОССКО подтверждены продавцом. Совпадение фото с артикулом, применимость и готовность выдачи требуют отдельной проверки."])
+    sheet.append(["Новое состояние, право на фото и возможность самовывоза подтверждены продавцом. Наличие в свежем прайсе РОССКО проверено при сборке, однако применимость и точное соответствие фото требуют сверки."])
     sheet.merge_cells(start_row=2, start_column=1, end_row=2, end_column=12)
     sheet["A2"].alignment = Alignment(wrap_text=True)
     sheet.row_dimensions[2].height = 32
@@ -87,7 +89,7 @@ def add_qa_sheet(book, rows):
             i - 4, product["Группа"], product["Бренд"], product["Артикул"],
             product["Цена Авито"], product["Остаток РОССКО"],
             product.get("Применимость", ""), url, "", "Да (со слов продавца)", "",
-            "Новое (со слов продавца); выдача не подтверждена",
+            "Новое; выдача по адресу подтверждена продавцом, остатки обновляются",
         ]
         for j, value in enumerate(values, 1):
             c = sheet.cell(i, j, value)
@@ -117,10 +119,11 @@ def populate_group(group, items, config):
             "Выдача по согласованию: " + address + ".\n"
             "Пожалуйста, уточняйте наличие и совместимость по VIN перед покупкой."
         )
-        # Status must NOT assert unverified seller inventory or condition.
-        # Seller confirmed these 50 pilot items are new; do NOT infer pickup readiness.
+        # Seller confirmed "new" and immediate pickup for this 50-SKU pilot.
+        # Each SKU is included only after a fresh Rossko local-stock check.
+        # Avoid claims about inventory persisting after the timestamp of export.
         fields["Состояние"] = "Новое"
-        fields.pop("Доступность", None)
+        fields["Доступность"] = "В наличии"
         for j, header in enumerate(HEADERS, 1):
             value=fields.get(header)
             if value not in ("", None):
@@ -178,18 +181,18 @@ def main():
         writer.writerow(["Группа","Бренд","Артикул","Цена ₽","Остаток","Фото URL","Применимость РОССКО","Фото/артикул проверены?","Права на фото подтверждены?","Применимость проверена?","Новое и пункт выдачи подтверждены?","Можно публиковать?"])
         for name,items in groups.items():
             for p,url in items:
-                writer.writerow([name,p["Бренд"],p["Артикул"],p["Цена Авито"],p["Остаток РОССКО"],url,p.get("Применимость",""),"","","","",""])
+                writer.writerow([name,p["Бренд"],p["Артикул"],p["Цена Авито"],p["Остаток РОССКО"],url,p.get("Применимость",""),"","Да, со слов продавца","","Новое и самовывоз подтверждены продавцом",""])
     (OUT/"README_PREVIEW.txt").write_text(
         "ПРОВЕРОЧНЫЙ КОМПЛЕКТ, НЕ ДЛЯ ПУБЛИКАЦИИ.\n"
         "Два XLSX созданы на базе оригинальных шаблонов Авито от 13 октября 2026 года.\n"
         "50 артикулов присутствовали в свежем прайсе РОССКО и 50 фото технически открылись.\n"
-        "Новое состояние и разрешение на фотографии РОССКО подтверждены продавцом.\n"
-        "Соответствие фото артикулу, применимость и готовность выдачи ещё требуют проверки.\n"
+        "Новое состояние, разрешение на фото РОССКО и возможность самовывоза подтверждены продавцом.\n"
+        "Остатки проверяются по свежему прайсу перед экспортом. Применимость и соответствие фото артикулу требуют дополнительной сверки.\n"
         "Прежде чем публиковать, проверьте справочники Авито и все 50 строк чек-листа.\n"
         "Никакая автопубликация не включена.\n",
         encoding="utf-8",
     )
-    print("PREFLIGHT_OK=50; seller_confirmed_condition=Новое; supplier_photo_rights=seller_reported; publication_approvals=0",flush=True)
+    print("PREFLIGHT_OK=50; seller_confirmed_condition=Новое; pickup_immediate_confirmed=true; availability=В наличии; publication_approvals=0",flush=True)
 
 
 if __name__=="__main__":
