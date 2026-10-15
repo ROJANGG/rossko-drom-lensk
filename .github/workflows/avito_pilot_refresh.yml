@@ -9,7 +9,6 @@ on:
     branches:
       - feature/avito-irkutsk-draft
     paths:
-      - 'avito_pilot_refresh.yml'
       - '.github/workflows/avito_pilot_refresh.yml'
       - 'avito_feed_transition.py'
   schedule:
@@ -35,7 +34,7 @@ jobs:
       - name: Install dependencies
         run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0.0'
       - name: Test 4-item stable IDs and removal scenarios
-        run: python -m unittest -v tests.test_avito_feed_transition
+        run: python -m unittest discover -s tests -p 'test_avito_feed_transition.py' -v
       - name: Download FRESH ROSSKO and recalculate four eligible SKUs
         run: python avito_sync_staging.py
       - name: Check full initial pilot and XML fields - REVIEW ONLY
