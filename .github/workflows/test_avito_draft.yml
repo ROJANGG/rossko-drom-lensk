@@ -7,12 +7,16 @@ on:
       - 'avito_irkutsk.py'
       - 'avito_feed.py'
       - 'avito_photo_check.py'
+      - 'avito_xml_v3_diagnostic.py'
+      - 'avito_sync_staging.py'
+      - 'input/avito_oem_verified.csv'
       - 'tests/test_avito*.py'
       - '.github/workflows/test_avito_draft.yml'
   pull_request:
     paths:
       - 'avito_irkutsk.py'
       - 'avito_feed.py'
+      - 'avito_sync_staging.py'
       - 'tests/test_avito*.py'
       - '.github/workflows/test_avito_draft.yml'
 
