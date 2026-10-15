@@ -9,6 +9,13 @@ class SelectionTests(unittest.TestCase):
         self.assertEqual(category("Диск тормозной"), "Тормозные диски")
         self.assertIsNone(category("Тормозные колодки"))
         self.assertIsNone(category("Рулевая тяга"))
+        self.assertIsNone(category("Сайлентблок рулевой рейки"))
+        self.assertIsNone(category("Съемник шарнира рулевой рейки"))
+        self.assertIsNone(category("Очиститель тормозных дисков, 650 мл"))
+        self.assertIsNone(category("Проставка рулевой рейки"))
+        self.assertIsNone(category("Сальник рулевой рейки"))
+        self.assertEqual(category("Диск тормозной передний"), "Тормозные диски")
+        self.assertEqual(category("Рулевая рейка в сборе"), "Рулевые рейки")
 
     def test_pickup_address_required(self):
         wb = Workbook()
