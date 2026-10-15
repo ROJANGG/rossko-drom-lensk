@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>irk-ea1d405620b41b630ca339</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>584110U300</OEM>
+    <Title>Тормозной диск CTR GD0156 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0156.
+Состояние: новое.
+Применимость по данным РОССКО: HYUNDAI Solaris 2017 ~ / Accent 2010 ~ 2019 / i20 2020 ~ / i20 2014 ~ / KIA Rio 2010 ~ 2017 / Rio 2017 ~ / Stonic 2017 ~.
+Наличие в Иркутске по последнему прайсу РОССКО.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>3850</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://imgs.rossko.ru/5F/48/NSII0026903735/9.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-fefa241908a1a220c26ec8</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Рулевое управление</SparePartType>
+    <OEM>4001L1</OEM>
+    <Title>Рулевая рейка Krauf HNQ2139GQ новый</Title>
+    <Description>Рулевая рейка, производитель Krauf, артикул HNQ2139GQ.
+Состояние: новое.
+Применимость по данным РОССКО: PEUGEOT 308 2008-2011/ PEUGEOT 3008 2009-/ PEUGEOT 5008 2009-/ PEUGEOT 408.
+Наличие в Иркутске по последнему прайсу РОССКО.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>50150</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Krauf</Brand>
+    <Images>
+      <Image url="https://imgs.rossko.ru/99/ED/NSII0025296649/7.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-0720005820b4a218b889a5</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>517120U000</OEM>
+    <Title>Тормозной диск Marshall M2000404 новый</Title>
+    <Description>Тормозной диск, производитель Marshall, артикул M2000404.
+Состояние: новое.
+Применимость по данным РОССКО: SOLARIS RB 2010-2017,RIO III UB 2011-2017.
+Наличие в Иркутске по последнему прайсу РОССКО.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>4400</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Marshall</Brand>
+    <Images>
+      <Image url="https://imgs.rossko.ru/2A/F7/NSII0021333792/1.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-8e94570436e9641959d28c</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Рулевое управление</SparePartType>
+    <OEM>48001JD900</OEM>
+    <Title>Рулевая рейка Master KiT 77R036 новый</Title>
+    <Description>Рулевая рейка, производитель Master KiT, артикул 77R036.
+Состояние: новое.
+Применимость по данным РОССКО: NISSAN QASHQAI 2007-2014, NISSAN X-TRAIL T31 2007-.
+Наличие в Иркутске по последнему прайсу РОССКО.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>21400</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>MasterKit</Brand>
+    <Images>
+      <Image url="https://imgs.rossko.ru/12/89/NSII0018148865/1.jpg" />
+    </Images>
+  </Ad>
+</Ads>
