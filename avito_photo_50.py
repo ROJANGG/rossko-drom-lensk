@@ -19,7 +19,15 @@ from update_prices import load_config, normalize_key, read_photo_map, text
 
 GROUPS = ("Рулевые рейки", "Тормозные диски")
 # Previous photo sheet showed a diagram rather than a product photo.
-KNOWN_DIAGRAMS = {("blitz", "bs0332"), ("blitz", "bs0478")}
+# Visual review of the first 50-item contact sheet (2026-10-15):
+# pure technical drawings and one suspicious mismatched component image.
+KNOWN_DIAGRAMS = {
+    ("blitz", "bs0332"), ("blitz", "bs0478"),
+    ("alliednippon", "adc3216v"),
+    ("blitz", "bs0164"), ("blitz", "bs0202"), ("blitz", "bs0212"),
+    ("blitz", "bs0355"), ("blitz", "bs0360"),
+    ("krauf", "hnq5129gq"),
+}
 COLUMNS = (
     "Группа", "Бренд", "Артикул", "Описание РОССКО", "Цена Авито",
     "Остаток РОССКО", "Срок поставки", "Город", "Адрес выдачи",
