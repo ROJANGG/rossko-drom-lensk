@@ -40,8 +40,8 @@ def retrieve_image(url: str):
                           allow_redirects=False) as response:
             if response.status_code != 200:
                 return None, f"http_{response.status_code}", "", "", ""
-            if not (response.headers.get("Content-Type") or "").casefold().startswith("image/"):
-                return None, "not_image", "", "", ""
+            # ROSSKO can serve image bytes with a non-image Content-Type.
+            # Pillow must decode and validate the actual bytes instead.
             raw = bytearray()
             for block in response.iter_content(chunk_size=65536):
                 raw.extend(block)
@@ -50,6 +50,8 @@ def retrieve_image(url: str):
         digest = hashlib.sha256(raw).hexdigest()
         pic = Image.open(io.BytesIO(raw))
         pic.load()
+        if (pic.format or "").upper() not in {"JPEG", "PNG", "WEBP"}:
+            return None, "unexpected_image_format", str(pic.width), str(pic.height), ""
         if pic.width < 180 or pic.height < 180:
             return None, "too_small", str(pic.width), str(pic.height), ""
         return pic.convert("RGB"), "available_unverified", str(pic.width), str(pic.height), digest
