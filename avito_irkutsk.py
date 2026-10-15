@@ -20,7 +20,7 @@ EXCLUDE = re.compile(r"ремкомплект|ремкомпл|тяга|нако
 RACK = re.compile(r"(?:рулев\w*\s+рейк\w*|рейк\w*\s+рулев\w*)", re.I)
 BRAKE = re.compile(r"(?:тормозн\w*\s+диск\w*|диск\w*\s+тормозн\w*)", re.I)
 FIELDS = ("Группа", "Бренд", "Артикул", "Описание РОССКО", "Цена Авито", "Остаток РОССКО",
-          "Срок поставки", "Город", "Применимость", "Каталожный номер", "Статус проверки")
+          "Срок поставки", "Город", "Адрес выдачи", "Применимость", "Каталожный номер", "Статус проверки")
 
 
 def category(name: str) -> str | None:
@@ -44,6 +44,9 @@ def select_rows(ws, config: dict) -> list[dict]:
     if missing:
         raise ValueError("В прайсе отсутствуют поля: " + ", ".join(sorted(missing)))
     cities = [x for x in CITY_FIELDS if x in headers]
+    pickup_address = text(config.get("avito", {}).get("pickup_address"))
+    if not pickup_address:
+        raise ValueError("Не указан адрес выдачи Авито в настройках avito.pickup_address")
     seen: set[str] = set()
     result = []
     for row in ws.iter_rows(min_row=2):
@@ -68,10 +71,10 @@ def select_rows(ws, config: dict) -> list[dict]:
         result.append({
             "Группа": group, "Бренд": brand, "Артикул": article,
             "Описание РОССКО": desc, "Цена Авито": sale_price(price, config.get("pricing", {})),
-            "Остаток РОССКО": quantity, "Срок поставки": 0, "Город": "Иркутск",
+            "Остаток РОССКО": quantity, "Срок поставки": 0, "Город": "Иркутск", "Адрес выдачи": pickup_address,
             "Применимость": text(get_cell(row, headers, "Применимость")),
             "Каталожный номер": text(get_cell(row, headers, "Каталожный номер")),
-            "Статус проверки": "Черновик — нужны фото, применимость и адрес продавца",
+            "Статус проверки": "Черновик — проверить фото, применимость и наличие",
         })
     return result
 
