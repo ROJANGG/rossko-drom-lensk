@@ -75,6 +75,12 @@ def is_yes(value: object) -> bool:
     return text(value).casefold() in TRUE_VALUES
 
 
+def avito_brand_name(brand: str) -> str:
+    """Canonical dictionary spelling for known Brand values."""
+    aliases = {"masterkit": "MasterKit"}
+    return aliases.get(normalize_key(brand), brand)
+
+
 def product_key(brand: str, article: str) -> str:
     return normalize_key(brand) + "|" + normalize_key(article)
 
@@ -164,7 +170,7 @@ def make_fields(product: dict, verified: dict, address: str) -> dict:
         "Вид запчасти": group["category"],
         "Состояние": "Новое",
         "Доступность": "В наличии",
-        "Производитель": brand,
+        "Производитель": avito_brand_name(brand),
         "Номер детали OEM": verified["oem_number"],
         "Авто для которых подходит запчасть": verified["fitment"],
     }
