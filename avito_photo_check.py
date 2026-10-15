@@ -34,24 +34,24 @@ def approved_url(url: str) -> bool:
 
 def retrieve_image(url: str):
     if not approved_url(url):
-        return None, "blocked_url", "", ", ""
+        return None, "blocked_url", "", "", ""
     try:
         with requests.get(url, stream=True, timeout=(8, 15), headers=HEADERS,
                           allow_redirects=False) as response:
             if response.status_code != 200:
-                return None, f"http_{response.status_code}", "", ", ""
+                return None, f"http_{response.status_code}", "", "", ""
             if not (response.headers.get("Content-Type") or "").casefold().startswith("image/"):
-                return None, "not_image", "", ", ""
+                return None, "not_image", "", "", ""
             raw = bytearray()
             for block in response.iter_content(chunk_size=65536):
                 raw.extend(block)
                 if len(raw) > MAX_BYTES:
-                    return None, "image_too_large", "", ", ""
+                    return None, "image_too_large", "", "", ""
         digest = hashlib.sha256(raw).hexdigest()
         pic = Image.open(io.BytesIO(raw))
         pic.load()
         if pic.width < 180 or pic.height < 180:
-            return None, "too_small", str(pic.width), str(pic.height)
+            return None, "too_small", str(pic.width), str(pic.height), ""
         return pic.convert("RGB"), "available_unverified", str(pic.width), str(pic.height), digest
     except (requests.RequestException, UnidentifiedImageError, OSError, ValueError) as exc:
         return None, type(exc).__name__, "", "", ""
