@@ -17,8 +17,8 @@ from update_prices import (get_cell, load_config, normalize_key, parse_decimal,
 REQUIRED = ("Бренд", "Артикул", "Описание", "Цена, руб.", "Наличие", "Срок поставки, дн.")
 CITY_FIELDS = ("Город склада", "Склад отгрузки", "Филиал", "Город")
 EXCLUDE = re.compile(r"ремкомплект|ремкомпл|тяга|наконечник|пыльник|колодк|суппорт|диск сцепления|втулк|болт|подшипник|щиток", re.I)
-RACK = re.compile(r"(?:рулев\w*\s+рейк\w*|рейк\w*\s+рулев\w*)", re.I)
-BRAKE = re.compile(r"(?:тормозн\w*\s+диск\w*|диск\w*\s+тормозн\w*)", re.I)
+RACK = re.compile(r"^(?:рулев\w*\s+рейк\w*|рейк\w*\s+рулев\w*)\b", re.I)
+BRAKE = re.compile(r"^(?:тормозн\w*\s+диск\w*|диск\w*\s+тормозн\w*)\b", re.I)
 FIELDS = ("Группа", "Бренд", "Артикул", "Описание РОССКО", "Цена Авито", "Остаток РОССКО",
           "Срок поставки", "Город", "Адрес выдачи", "Применимость", "Каталожный номер", "Фото для проверки", "Статус проверки")
 REVIEW_FIELDS = ("brand", "article", "approved", "pickup_confirmed",
@@ -26,7 +26,7 @@ REVIEW_FIELDS = ("brand", "article", "approved", "pickup_confirmed",
 
 
 def category(name: str) -> str | None:
-    s = re.sub(r"[-_/(),;]+", " ", name.casefold())
+    s = re.sub(r"[-_/(),;]+", " ", name.casefold()).strip()
     if EXCLUDE.search(s):
         return None
     if RACK.search(s):
