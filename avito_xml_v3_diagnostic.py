@@ -48,6 +48,17 @@ def verified_oem(brand: str, article: str) -> str:
         )
     return value
 
+# ROSSKO uses "Master KiT", while Avito's Brand dictionary expects
+# the continuous commercial spelling "MasterKit" (check via XML validator).
+# Never change stable_id / article / OEM when normalizing the display brand.
+BRAND_AVITO_ALIASES = {
+    "masterkit": "MasterKit",
+}
+
+
+def avito_brand_name(value: str) -> str:
+    return BRAND_AVITO_ALIASES.get(normalize_key(value), value)
+
 
 def build_xml(rows):
     root = ET.Element("Ads", {"formatVersion": "3", "target": "Avito.ru"})
@@ -91,7 +102,7 @@ def build_xml(rows):
         field("Price", price)
         field("Condition", "Новое")
         field("Availability", "В наличии")
-        field("Brand", brand)
+        field("Brand", avito_brand_name(brand))
         ET.SubElement(ET.SubElement(ad, "Images"), "Image", {"url": photo})
 
     ET.indent(root, space="  ")
