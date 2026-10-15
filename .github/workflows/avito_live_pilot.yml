@@ -37,6 +37,7 @@ jobs:
           path: |
             output/avito_irkutsk_pilot_review.csv
             output/avito_photo_review/photo_validation.csv
+            output/avito_photo_review/candidate_approvals.csv
             output/avito_photo_review/contact_sheet.jpg
           if-no-files-found: error
           retention-days: 1
