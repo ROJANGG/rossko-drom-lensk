@@ -8,5 +8,9 @@
   "pickup_ready_per_sku_confirmed": false,
   "fitment_confirmed_per_sku": false,
   "photo_to_article_match_independently_confirmed": false,
-  "autopublish_enabled": false
+  "autopublish_enabled": false,
+  "pickup_immediate_confirmed_by_seller": true,
+  "pickup_point": "г. Иркутск, ул. Каховского, 11/1",
+  "stock_source": "fresh ROSSKO Irkutsk price list, quantity > 0, availability 0 days",
+  "notes": "Immediate pickup stated by seller; stock rechecked before every export. Do not treat this as permanent warehouse inventory guarantee."
 }
