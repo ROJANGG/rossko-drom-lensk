@@ -23,6 +23,31 @@ META = {
     "Тормозные диски": ("Тормозной диск", "Тормозная система"),
 }
 
+# Confirmed genuine OE cross-references, NOT third-party brand articles.
+# Evidence from ROSSKO product pages for discs, from Motorherz / Avto.pro for racks:
+# https://rossko.ru/card/ctr-gd0156-nsii0026903735/
+# https://rossko.ru/card/marshall-m2000404-nsii0021333792/
+# https://www.motorherz.ru/product.php?id=19337
+# https://avto.pro/part-77R036-MASTERKIT-422/
+# Avito's checker requests Latin letters and digits; remove hyphens in OEM values.
+VERIFIED_OEM_BY_SKU = {
+    ("ctr", "gd0156"): "584110U300",
+    ("marshall", "m2000404"): "517120U000",
+    ("krauf", "hnq2139gq"): "4001L1",
+    ("masterkit", "77r036"): "48001JD900",
+}
+
+
+def verified_oem(brand: str, article: str) -> str:
+    key = (normalize_key(brand), normalize_key(article))
+    value = VERIFIED_OEM_BY_SKU.get(key)
+    if not value:
+        raise ValueError(
+            f"No sourced OEM cross-reference for {brand} {article}; "
+            "do not substitute supplier article number"
+        )
+    return value
+
 
 def build_xml(rows):
     root = ET.Element("Ads", {"formatVersion": "3", "target": "Avito.ru"})
@@ -52,6 +77,7 @@ def build_xml(rows):
         field("AdType", "Товар приобретен на продажу")
         field("ProductType", "Для автомобилей")
         field("SparePartType", part_type)
+        field("OEM", verified_oem(brand, article))
         field("Title", f"{label} {brand} {article} новый")
         fit = row.get("Применимость РОССКО", "").strip()
         desc = (f"{label}, производитель {brand}, артикул {article}.\n"
