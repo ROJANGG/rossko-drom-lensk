@@ -45,6 +45,23 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
             self.assertIsNotNone(ad.find("./Images/Image").attrib.get("url"))
             self.assertRegex(ad.findtext("OEM") or "", r"^[A-Z0-9]+$")
 
+    def test_avito_brand_alias_keeps_stable_id(self):
+        from avito_xml_v3_diagnostic import avito_brand_name
+        self.assertEqual(avito_brand_name("Master KiT"), "MasterKit")
+        self.assertEqual(avito_brand_name("Krauf"), "Krauf")
+        source = {
+            "Группа": "Рулевые рейки",
+            "Бренд": "Master KiT",
+            "Артикул": "77R036",
+            "Цена ₽": "21400", "Остаток": "6",
+            "Фото URL": "https://imgs.rossko.ru/12/89/NSII0018148865/1.jpg",
+            "Применимость РОССКО": "Nissan Qashqai",
+        }
+        ad = ET.fromstring(build_xml([source])).find("./Ad")
+        self.assertEqual(ad.findtext("Brand"), "MasterKit")
+        self.assertIn("Master KiT", ad.findtext("Title"))
+        self.assertEqual(ad.findtext("Id"), stable_id("Рулевые рейки", "Master KiT", "77R036"))
+
     def test_real_oem_for_all_four_pilot_articles(self):
         from avito_xml_v3_diagnostic import verified_oem
         self.assertEqual(verified_oem("CTR", "GD0156"), "584110U300")
