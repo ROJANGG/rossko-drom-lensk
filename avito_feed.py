@@ -182,6 +182,11 @@ def make_book(fields_list: list[dict], group_name: str, template: Path | None = 
         if not template.is_file():
             raise FileNotFoundError(f"Не найден шаблон Авито: {template}")
         wb = load_workbook(template)
+        # Avito may parse visible reference tabs as listings without an ID.
+        # Hide the lookups, preserving their Excel dropdown references.
+        for auxiliary in wb.worksheets:
+            if auxiliary.title not in {"Инструкция", "Объявления"}:
+                auxiliary.sheet_state = "hidden"
         if "Объявления" not in wb.sheetnames:
             raise ValueError("Шаблон Авито не содержит лист «Объявления»")
         ws = wb["Объявления"]
