@@ -18,6 +18,7 @@ from xml.etree import ElementTree as ET
 
 from avito_irkutsk import load_fresh_price, load_sku_whitelist, select_rows
 from avito_photo_check import approved_url
+from update_prices import get_cell, read_header_map
 from avito_xml_v3_diagnostic import build_xml, verified_oem
 from update_prices import load_config, normalize_key, read_photo_map, text
 
@@ -51,8 +52,9 @@ def load_verified_oem(csv_path: Path, whitelist: set[str]) -> dict[str, str]:
 
 
 def evaluate(allowlist: set[str], products: list[dict], photos: dict[str, str],
-             verified: dict[str, str]):
+             verified: dict[str, str], supplier_oem: dict[str, str] | None = None):
     """Return rows for test XML and complete pilot audit (including missing stock)."""
+    supplier_oem = supplier_oem or {}
     by_sku = {}
     for p in products:
         k = product_key(p["Бренд"], p["Артикул"])
@@ -71,6 +73,7 @@ def evaluate(allowlist: set[str], products: list[dict], photos: dict[str, str],
             "local_stock": p["Остаток РОССКО"] if p else 0,
             "price_rub": p["Цена Авито"] if p else "",
             "OEM": verified.get(k, ""),
+            "supplier_OEM_as_listed": supplier_oem.get(k, ""),
             "status": "",
         }
         if p is None:
@@ -106,18 +109,30 @@ def build_report(config_path: Path, whitelist_path: Path, evidence_path: Path,
     verified = load_verified_oem(evidence_path, allowlist)
     photos = read_photo_map(base / text(cfg.get("drom", {}).get("photo_map_path") or "input/photos.csv"))
     workbook = load_fresh_price(cfg, base, 2)
+    supplier_oem = {}
     try:
         # select_rows guarantees Irkutsk, local stock >0 and delivery exactly 0.
         products = select_rows(workbook.active, cfg)
+        header_map = read_header_map(workbook.active)
+        if "OEМ Номер" not in header_map:
+            print("SOURCE_OEM_COLUMN_MISSING; original-OEM cross-reference not supplied", flush=True)
+        else:
+            for excel_row in workbook.active.iter_rows(min_row=2):
+                k = product_key(
+                    text(get_cell(excel_row, header_map, "Бренд")),
+                    text(get_cell(excel_row, header_map, "Артикул")),
+                )
+                if k in allowlist and k not in supplier_oem:
+                    supplier_oem[k] = text(get_cell(excel_row, header_map, "OEМ Номер"))
     finally:
         workbook.close()
     if len(products) < 10:
         # Guard against an accidentally empty/wrong-warehouse supplier file.
         raise RuntimeError("Unexpectedly few local-stock candidates; refusing new XML")
 
-    ready, audit = evaluate(allowlist, products, photos, verified)
+    ready, audit = evaluate(allowlist, products, photos, verified, supplier_oem)
     target.mkdir(parents=True, exist_ok=True)
-    fields = ["sku_key", "brand", "article", "group", "local_stock", "price_rub", "OEM", "status"]
+    fields = ["sku_key", "brand", "article", "group", "local_stock", "price_rub", "OEM", "supplier_OEM_as_listed", "status"]
     with (target / "avito_50_sync_audit.csv").open("w", newline="", encoding="utf-8-sig") as fp:
         writer = csv.DictWriter(fp, fieldnames=fields, delimiter=";")
         writer.writeheader()
@@ -132,6 +147,7 @@ def build_report(config_path: Path, whitelist_path: Path, evidence_path: Path,
         "round_up_to": cfg["pricing"]["round_up_to"],
         "state": "REVIEW_ONLY_NOT_CONNECTED_TO_AVITO",
         "ready_count": len(ready),
+        "supplier_oem_nonempty_count": sum(bool(supplier_oem.get(k)) for k in allowlist),
         "status_counts": status_count,
         "stock_failure_policy": "abort without modifying last known-good artifact",
         "out_of_stock_policy": "omit expired SKU from staged XML; verify Avito feed ownership/removal before using on a live URL",
