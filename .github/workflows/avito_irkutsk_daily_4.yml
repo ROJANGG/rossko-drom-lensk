@@ -1,0 +1,83 @@
+name: Avito Irkutsk - daily 4-SKU XML refresh
+
+# One independent workflow in main. Drom workflow/code is untouched.
+# 23:17 UTC == 07:17 next day Irkutsk (UTC+8).
+# Avito will NOT read this XML until the owner saves the link in Avito Pro.
+on:
+  schedule:
+    - cron: '17 23 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_irkutsk_daily_4.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - name: Checkout isolated Avito generator (never change Drom main files)
+        uses: actions/checkout@v4
+        with:
+          ref: feature/avito-irkutsk-draft
+          path: generator
+          persist-credentials: false
+      - name: Checkout existing preview XML branch
+        uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: preview
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install required packages
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Check safeguards for ID, price and missing-stock changes
+        working-directory: generator
+        run: python -m unittest discover -s tests -p 'test_avito_feed_transition.py' -v
+      - name: Download fresh ROSSKO price, only four source-verified OEM SKUs
+        working-directory: generator
+        run: python avito_sync_staging.py
+      - name: Compare candidate against current public XML - fail closed
+        working-directory: generator
+        run: |
+          python avito_feed_transition.py \
+            --previous ../preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --candidate output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
+            --report output/avito_price_stock_staging/transition_precheck.json
+      - name: Replace ONLY the isolated pilot XML when validated
+        env:
+          TARGET_BRANCH: avito-irkutsk-feed
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp generator/output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          cd preview
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          if git diff --cached --quiet; then
+            echo "No price or stock change: public XML unchanged"
+          else
+            git commit -m "Avito pilot: daily fresh Rossko price and local stock"
+            git push origin "HEAD:${TARGET_BRANCH}"
+          fi
+      - name: Save short-lived private audit (not a public auto-publisher)
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-four-daily-audit
+          path: |
+            generator/output/avito_price_stock_staging/summary.json
+            generator/output/avito_price_stock_staging/avito_50_sync_audit.csv
+            generator/output/avito_price_stock_staging/transition_precheck.json
+          retention-days: 2
+          if-no-files-found: error
