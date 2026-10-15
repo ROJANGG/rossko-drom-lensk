@@ -1,5 +1,7 @@
 import unittest
-from avito_irkutsk import category, zero_days, select_rows
+from avito_irkutsk import category, zero_days, select_rows, load_sku_whitelist
+from pathlib import Path
+import tempfile
 from openpyxl import Workbook
 
 
@@ -41,6 +43,15 @@ class SelectionTests(unittest.TestCase):
         self.assertEqual({x["Артикул"] for x in rows}, {"123", "129"})
         self.assertEqual(next(x["Цена Авито"] for x in rows if x["Артикул"] == "123"), 1400)
         self.assertTrue(all(x["Город"] == "Иркутск" for x in rows))
+
+    def test_pilot_sku_whitelist(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "pilot.csv"
+            path.write_text("brand;article\nKrauf;HNQ2139GQ\nCTR;GD0156\n", encoding="utf-8")
+            self.assertEqual(load_sku_whitelist(path), {"krauf|hnq2139gq", "ctr|gd0156"})
+            path.write_text("brand;article\nCTR;GD0156\nCTR;GD0156\n", encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "повторяется"):
+                load_sku_whitelist(path)
 
     def test_local_zero(self):
         self.assertTrue(zero_days("0"))
