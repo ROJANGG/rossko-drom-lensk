@@ -109,6 +109,28 @@ def scan(csv_path: Path, out_dir: Path):
         writer = csv.DictWriter(f, fieldnames=OUT_FIELDS, delimiter=";")
         writer.writeheader()
         writer.writerows(report)
+    # Подготовим CSV для следующего шага: URL технически доступных
+    # изображений уже привязаны к SKU, но все подтверждения остаются пустыми.
+    # Это НЕ готовый импорт Авито и не автоматическое разрешение на публикацию.
+    review_fields = list(items[0]) + ["photo_status", "review_note"] if items else []
+    if items:
+        with (out_dir / "candidate_approvals.csv").open("w", newline="", encoding="utf-8-sig") as f:
+            writer = csv.DictWriter(f, fieldnames=review_fields, delimiter=";")
+            writer.writeheader()
+            for entry, photo_entry in zip(items, report):
+                draft = dict(entry)
+                draft["photo_urls"] = (
+                    entry["Фото для проверки"].strip()
+                    if photo_entry["photo_status"] == "available_unverified" else ""
+                )
+                for field in ("approved", "pickup_confirmed", "condition_confirmed", "fitment", "oem_number"):
+                    draft[field] = ""
+                draft["photo_status"] = photo_entry["photo_status"]
+                draft["review_note"] = (
+                    "Только технический чертёж; требуется товарная фотография"
+                    if entry["Бренд"].casefold() == "blitz" and entry["Артикул"].upper() in {"BS0332", "BS0478"} else ""
+                )
+                writer.writerow(draft)
     if tiles:
         tw, th, cols = 260, 290, 4
         count_rows = (len(tiles) + cols - 1) // cols
