@@ -26,7 +26,9 @@ class RealAvitoTemplatesTest(unittest.TestCase):
                     actual = tuple(ws.cell(2, j).value for j in range(1, 72))
                     self.assertEqual(actual, HEADERS)
                     self.assertTrue(ws.cell(1, 1).value.endswith(GROUPS[group]["category"]))
-                    # В режиме read_only библиотека может брать неверный max_row из метаданных XLSX.\n                    # Наличие пустой первой строки объявлений проверяем напрямую.\n                    self.assertIsNone(ws.cell(5, 1).value)
+                    # В режиме read_only библиотека может брать неверный max_row из метаданных XLSX.
+                    # Наличие пустой первой строки объявлений проверяем напрямую.
+                    self.assertIsNone(ws.cell(5, 1).value)
                 finally:
                     wb.close()
 
