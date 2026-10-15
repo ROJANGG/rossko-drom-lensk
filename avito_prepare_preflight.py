@@ -50,6 +50,11 @@ def check_original_template(path, group):
     if not path.is_file():
         raise FileNotFoundError(path)
     book = load_workbook(path)
+    # Reference sheets must be hidden: otherwise Avito may treat the
+    # reference values as hundreds of additional ads with no ID.
+    for auxiliary in book.worksheets:
+        if auxiliary.title not in {"Инструкция", "Объявления"}:
+            auxiliary.sheet_state = "hidden"
     ws = book["Объявления"]
     headers = tuple(text(ws.cell(2, col).value) for col in range(1, 72))
     if headers != HEADERS:
