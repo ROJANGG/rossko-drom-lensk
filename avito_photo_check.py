@@ -18,7 +18,12 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps, UnidentifiedImageError
 
 MAX_BYTES = 6_000_000
 ALLOWED_HOSTS = {"imgs.rossko.ru"}
-HEADERS = {"User-Agent": "rossko-avito-photo-validator/1.0"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36",
+    "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "Accept-Language": "ru-RU,ru;q=0.9,en;q=0.8",
+    "Referer": "https://rossko.ru/",
+}
 OUT_FIELDS = ("Группа", "Бренд", "Артикул", "Фото для проверки", "photo_status",
               "width", "height", "sha256", "manual_review_required")
 
