@@ -21,6 +21,8 @@ RACK = re.compile(r"(?:рулев\w*\s+рейк\w*|рейк\w*\s+рулев\w*)"
 BRAKE = re.compile(r"(?:тормозн\w*\s+диск\w*|диск\w*\s+тормозн\w*)", re.I)
 FIELDS = ("Группа", "Бренд", "Артикул", "Описание РОССКО", "Цена Авито", "Остаток РОССКО",
           "Срок поставки", "Город", "Адрес выдачи", "Применимость", "Каталожный номер", "Статус проверки")
+REVIEW_FIELDS = ("brand", "article", "approved", "pickup_confirmed",
+                 "condition_confirmed", "photo_urls", "fitment", "oem_number")
 
 
 def category(name: str) -> str | None:
@@ -132,9 +134,15 @@ def main():
     target = config_path.parent / args.out
     target.parent.mkdir(parents=True, exist_ok=True)
     with target.open("w", encoding="utf-8-sig", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDS, delimiter=";")
+        writer = csv.DictWriter(f, fieldnames=FIELDS + REVIEW_FIELDS, delimiter=";")
         writer.writeheader()
-        writer.writerows(rows)
+        for row in rows:
+            review = dict(row)
+            review.update({"brand": row["Бренд"], "article": row["Артикул"],
+                           "approved": "", "pickup_confirmed": "",
+                           "condition_confirmed": "", "photo_urls": "",
+                           "fitment": "", "oem_number": ""})
+            writer.writerow(review)
     print(f"Черновик: {target}; рулевые рейки: {sum(r['Группа'] == 'Рулевые рейки' for r in rows)}; тормозные диски: {sum(r['Группа'] == 'Тормозные диски' for r in rows)}")
     print("Это НЕ файл автозагрузки. Объявления не созданы.")
     return 0
