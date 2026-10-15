@@ -58,7 +58,11 @@ def select_rows(ws, config: dict) -> list[dict]:
             continue
         if not zero_days(get_cell(row, headers, "Срок поставки, дн.")):
             continue
-        quantity = parse_stock_count(get_cell(row, headers, "Наличие"))
+        raw_stock = text(get_cell(row, headers, "Наличие"))
+        # Не трактовать отрицательный остаток как положительный: общий парсер извлекает цифры.
+        if raw_stock.lstrip().startswith("-"):
+            continue
+        quantity = parse_stock_count(raw_stock)
         price = parse_decimal(get_cell(row, headers, "Цена, руб."))
         brand = text(get_cell(row, headers, "Бренд"))
         article = text(get_cell(row, headers, "Артикул"))
