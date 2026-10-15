@@ -43,6 +43,16 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
             self.assertTrue(ad.findtext("Price"))
             self.assertTrue(ad.findtext("Address"))
             self.assertIsNotNone(ad.find("./Images/Image").attrib.get("url"))
+            self.assertRegex(ad.findtext("OEM") or "", r"^[A-Z0-9]+$")
+
+    def test_real_oem_for_all_four_pilot_articles(self):
+        from avito_xml_v3_diagnostic import verified_oem
+        self.assertEqual(verified_oem("CTR", "GD0156"), "584110U300")
+        self.assertEqual(verified_oem("Marshall", "M2000404"), "517120U000")
+        self.assertEqual(verified_oem("Krauf", "HNQ2139GQ"), "4001L1")
+        self.assertEqual(verified_oem("Master KiT", "77R036"), "48001JD900")
+        with self.assertRaises(ValueError):
+            verified_oem("Unknown", "NOSUCHSKU")
 
 
 if __name__ == "__main__":
