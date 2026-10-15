@@ -2,6 +2,11 @@ name: Avito catalog photo-to-article audit
 
 on:
   workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - '.github/workflows/avito_catalog_audit.yml'
+      - 'avito_catalog_audit.py'
 
 permissions:
   contents: read
