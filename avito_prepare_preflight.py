@@ -22,10 +22,22 @@ from update_prices import load_config, normalize_key, read_photo_map, text
 CONFIG_PATH = Path("config.json")
 ALLOWLIST = Path("input/avito_pilot_articles.csv")
 OUT = Path("output/avito_irkutsk_preflight")
+CONFIRMATIONS = Path("avito_pilot_confirmations.json")
 RED = PatternFill("solid", fgColor="FCE8E6")
 YELLOW = PatternFill("solid", fgColor="FFF2CC")
 BLUE = PatternFill("solid", fgColor="DCEAF7")
 HIGHLIGHT = Font(bold=True, color="9C0006")
+
+
+def read_pilot_confirmations():
+    info = json.loads(CONFIRMATIONS.read_text(encoding="utf-8"))
+    if info.get("scope_file") != str(ALLOWLIST) or info.get("sku_count") != 50:
+        raise ValueError("Seller statements must apply to the exact 50 SKU pilot")
+    if not (info.get("condition") == "Новое" and info.get("condition_confirmed_by_seller") is True):
+        raise ValueError("Condition is not seller-confirmed")
+    if info.get("rossko_photo_permission_confirmed_by_seller") is not True:
+        raise ValueError("Supplier photo permission is not confirmed by seller")
+    return info
 
 
 def key(brand, article):
@@ -55,7 +67,7 @@ def add_qa_sheet(book, rows):
     sheet["A1"].fill = RED
     sheet["A1"].alignment = Alignment(wrap_text=True, vertical="center")
     sheet.row_dimensions[1].height = 32
-    sheet.append(["Данные взяты из свежего прайса РОССКО. Фото технически открываются, но права, совпадение с артикулом и применимость не подтверждены."])
+    sheet.append(["Новое состояние и разрешение на фото РОССКО подтверждены продавцом. Совпадение фото с артикулом, применимость и готовность выдачи требуют отдельной проверки."])
     sheet.merge_cells(start_row=2, start_column=1, end_row=2, end_column=12)
     sheet["A2"].alignment = Alignment(wrap_text=True)
     sheet.row_dimensions[2].height = 32
@@ -74,7 +86,8 @@ def add_qa_sheet(book, rows):
         values = [
             i - 4, product["Группа"], product["Бренд"], product["Артикул"],
             product["Цена Авито"], product["Остаток РОССКО"],
-            product.get("Применимость", ""), url, "", "", "", "",
+            product.get("Применимость", ""), url, "", "Да (со слов продавца)", "",
+            "Новое (со слов продавца); выдача не подтверждена",
         ]
         for j, value in enumerate(values, 1):
             c = sheet.cell(i, j, value)
@@ -105,7 +118,8 @@ def populate_group(group, items, config):
             "Пожалуйста, уточняйте наличие и совместимость по VIN перед покупкой."
         )
         # Status must NOT assert unverified seller inventory or condition.
-        fields.pop("Состояние", None)
+        # Seller confirmed these 50 pilot items are new; do NOT infer pickup readiness.
+        fields["Состояние"] = "Новое"
         fields.pop("Доступность", None)
         for j, header in enumerate(HEADERS, 1):
             value=fields.get(header)
@@ -120,6 +134,7 @@ def populate_group(group, items, config):
 
 def main():
     config = load_config(CONFIG_PATH)
+    read_pilot_confirmations()
     allow = load_sku_whitelist(ALLOWLIST)
     if len(allow) != 50:
         raise RuntimeError(f"Expected exact 50 pinned SKU pairs, got {len(allow)}")
@@ -168,13 +183,13 @@ def main():
         "ПРОВЕРОЧНЫЙ КОМПЛЕКТ, НЕ ДЛЯ ПУБЛИКАЦИИ.\n"
         "Два XLSX созданы на базе оригинальных шаблонов Авито от 13 октября 2026 года.\n"
         "50 артикулов присутствовали в свежем прайсе РОССКО и 50 фото технически открылись.\n"
-        "Для карточек НЕТ подтверждения прав на фото, точного соответствия артикулам,\n"
-        "применимости, нового состояния и готовности выдачи. В шаблонах эти поля помечены.\n"
+        "Новое состояние и разрешение на фотографии РОССКО подтверждены продавцом.\n"
+        "Соответствие фото артикулу, применимость и готовность выдачи ещё требуют проверки.\n"
         "Прежде чем публиковать, проверьте справочники Авито и все 50 строк чек-листа.\n"
         "Никакая автопубликация не включена.\n",
         encoding="utf-8",
     )
-    print("PREFLIGHT_OK=50; verified publication approvals=0",flush=True)
+    print("PREFLIGHT_OK=50; seller_confirmed_condition=Новое; supplier_photo_rights=seller_reported; publication_approvals=0",flush=True)
 
 
 if __name__=="__main__":
