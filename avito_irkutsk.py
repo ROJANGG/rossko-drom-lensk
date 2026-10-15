@@ -12,7 +12,7 @@ import requests
 from openpyxl import load_workbook
 
 from update_prices import (get_cell, load_config, normalize_key, parse_decimal,
-                           parse_stock_count, read_header_map, sale_price, text)
+                           parse_stock_count, read_header_map, read_photo_map, sale_price, text)
 
 REQUIRED = ("Бренд", "Артикул", "Описание", "Цена, руб.", "Наличие", "Срок поставки, дн.")
 CITY_FIELDS = ("Город склада", "Склад отгрузки", "Филиал", "Город")
@@ -20,7 +20,7 @@ EXCLUDE = re.compile(r"ремкомплект|ремкомпл|тяга|нако
 RACK = re.compile(r"(?:рулев\w*\s+рейк\w*|рейк\w*\s+рулев\w*)", re.I)
 BRAKE = re.compile(r"(?:тормозн\w*\s+диск\w*|диск\w*\s+тормозн\w*)", re.I)
 FIELDS = ("Группа", "Бренд", "Артикул", "Описание РОССКО", "Цена Авито", "Остаток РОССКО",
-          "Срок поставки", "Город", "Адрес выдачи", "Применимость", "Каталожный номер", "Статус проверки")
+          "Срок поставки", "Город", "Адрес выдачи", "Применимость", "Каталожный номер", "Фото для проверки", "Статус проверки")
 REVIEW_FIELDS = ("brand", "article", "approved", "pickup_confirmed",
                  "condition_confirmed", "photo_urls", "fitment", "oem_number")
 
@@ -40,7 +40,7 @@ def zero_days(value: object) -> bool:
     return bool(re.fullmatch(r"0+(?:[.,]0+)?", text(value)))
 
 
-def select_rows(ws, config: dict) -> list[dict]:
+def select_rows(ws, config: dict, photos: dict[str, str] | None = None) -> list[dict]:
     headers = read_header_map(ws)
     missing = set(REQUIRED) - set(headers)
     if missing:
@@ -80,6 +80,7 @@ def select_rows(ws, config: dict) -> list[dict]:
             "Остаток РОССКО": quantity, "Срок поставки": 0, "Город": "Иркутск", "Адрес выдачи": pickup_address,
             "Применимость": text(get_cell(row, headers, "Применимость")),
             "Каталожный номер": text(get_cell(row, headers, "Каталожный номер")),
+            "Фото для проверки": (photos or {}).get(key, ""),
             "Статус проверки": "Черновик — проверить фото, применимость и наличие",
         })
     return result
@@ -116,6 +117,7 @@ def main():
     parser.add_argument("--confirm-irkutsk-source", action="store_true")
     parser.add_argument("--max-local-age-hours", type=float, default=2)
     parser.add_argument("--out", default="output/avito_irkutsk_candidates.csv")
+    parser.add_argument("--pilot-per-category", type=int, default=25, help="Максимум кандидатов каждой группы (0 = все)")
     args = parser.parse_args()
     if not args.confirm_irkutsk_source:
         parser.error("Подтвердите, что исходный прайс относится к складу РОССКО в Иркутске")
@@ -123,14 +125,26 @@ def main():
         parser.error("Срок свежести должен быть положительным")
     config_path = Path(args.config).resolve()
     cfg = load_config(config_path)
+    if args.pilot_per_category < 0:
+        parser.error("--pilot-per-category не может быть отрицательным")
+    photos_path = config_path.parent / text(cfg.get("drom", {}).get("photo_map_path") or "input/photos.csv")
+    photos = read_photo_map(photos_path)
     wb = load_fresh_price(cfg, config_path.parent, args.max_local_age_hours)
     try:
-        rows = select_rows(wb.active, cfg)
+        rows = select_rows(wb.active, cfg, photos)
     finally:
         wb.close()
     if not rows:
         print("Нет товаров, удовлетворяющих фильтру. Публикация запрещена.")
         return 2
+    total_counts = {group: sum(p["Группа"] == group for p in rows) for group in ("Рулевые рейки", "Тормозные диски")}
+    if args.pilot_per_category:
+        pilot = []
+        for group in ("Рулевые рейки", "Тормозные диски"):
+            sorted_group = sorted((p for p in rows if p["Группа"] == group),
+                                  key=lambda p: (-p["Остаток РОССКО"], p["Бренд"], p["Артикул"]))
+            pilot.extend(sorted_group[:args.pilot_per_category])
+        rows = pilot
     target = config_path.parent / args.out
     target.parent.mkdir(parents=True, exist_ok=True)
     with target.open("w", encoding="utf-8-sig", newline="") as f:
@@ -143,7 +157,8 @@ def main():
                            "condition_confirmed": "", "photo_urls": "",
                            "fitment": "", "oem_number": ""})
             writer.writerow(review)
-    print(f"Черновик: {target}; рулевые рейки: {sum(r['Группа'] == 'Рулевые рейки' for r in rows)}; тормозные диски: {sum(r['Группа'] == 'Тормозные диски' for r in rows)}")
+    print(f"Свежий прайс: найдено всего по категориям {total_counts}; отобрано для проверки: {len(rows)}; с предлагаемым фото: {sum(bool(p['Фото для проверки']) for p in rows)}")
+    print(f"Черновик: {target}")
     print("Это НЕ файл автозагрузки. Объявления не созданы.")
     return 0
 
