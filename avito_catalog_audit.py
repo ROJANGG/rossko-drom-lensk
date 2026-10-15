@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "output/avito_catalog_verification"
 HEADERS = (
     "Бренд", "Артикул", "Категория", "Код номенклатуры РОССКО",
-    "Карточка поставщика", "Фото из проекта", "Проверка изображения в карточке",
+    "Карточка поставщика", "Фото из проекта", "Номенклатура совпадает с путём фото", "Проверка изображения в карточке",
     "Применимость в прайсе", "Внешняя проверка применимости", "Права на фотографию",
     "Физическое состояние и выдача",
 )
@@ -88,10 +88,15 @@ def main():
         for k,brand,article,nom,src,fit,group in tasks:
             page, status=results[k]
             count[status]=count.get(status,0)+1
-            writer.writerow([brand,article,group,nom,page,src,status,fit,
-                             "не подтверждена независимо","не подтверждены",
+            code_match = bool(nom and ("/" + nom.casefold() + "/") in src.casefold())
+            writer.writerow([brand,article,group,nom,page,src,
+                             "да" if code_match else "нет",status,fit,
+                             "не подтверждена независимо",
+                             "сообщено продавцом, 15.10.2026",
                              "требует подтверждения продавца"])
     print("CATALOG_AUDIT_50",count,flush=True)
+    print("PHOTO_NOMENCLATURE_MATCHES",sum(bool(nom and ("/" + nom.casefold() + "/") in src.casefold()) for _,_,_,nom,src,_,_ in tasks),flush=True)
+    print("PHOTO_RIGHTS source=user statement 2026-10-15; NOT independently audited",flush=True)
 
 if __name__=="__main__":
     main()
