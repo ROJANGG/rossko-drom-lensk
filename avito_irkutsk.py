@@ -111,6 +111,29 @@ def load_fresh_price(config: dict, base: Path, max_age_hours: float):
     return load_workbook(path, read_only=True, data_only=True)
 
 
+def load_sku_whitelist(path: Path) -> set[str]:
+    """Строго разрешённые пары бренд/артикул, остальные не включать."""
+    if not path.is_file():
+        raise FileNotFoundError(path)
+    with path.open("r", encoding="utf-8-sig", newline="") as fp:
+        reader = csv.DictReader(fp, delimiter=";")
+        if not {"brand", "article"}.issubset(set(reader.fieldnames or [])):
+            raise ValueError("CSV списка должен содержать brand;article")
+        keys = set()
+        for row in reader:
+            brand = normalize_key(row["brand"])
+            article = normalize_key(row["article"])
+            if not brand or not article:
+                raise ValueError("В списке пробной партии обнаружена пустая пара бренд/артикул")
+            key = brand + "|" + article
+            if key in keys:
+                raise ValueError("В пробной партии повторяется артикул: " + key)
+            keys.add(key)
+    if not keys:
+        raise ValueError("Файл пробной партии пуст")
+    return keys
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", default="config.json")
@@ -118,6 +141,7 @@ def main():
     parser.add_argument("--max-local-age-hours", type=float, default=2)
     parser.add_argument("--out", default="output/avito_irkutsk_candidates.csv")
     parser.add_argument("--pilot-per-category", type=int, default=25, help="Максимум кандидатов каждой группы (0 = все)")
+    parser.add_argument("--sku-whitelist", help="CSV с брендом и артикулом 50 закреплённых позиций (brand;article)")
     args = parser.parse_args()
     if not args.confirm_irkutsk_source:
         parser.error("Подтвердите, что исходный прайс относится к складу РОССКО в Иркутске")
@@ -134,6 +158,13 @@ def main():
         rows = select_rows(wb.active, cfg, photos)
     finally:
         wb.close()
+    if args.sku_whitelist:
+        whitelist_path = Path(args.sku_whitelist)
+        if not whitelist_path.is_absolute():
+            whitelist_path = config_path.parent / whitelist_path
+        keys = load_sku_whitelist(whitelist_path)
+        rows = [p for p in rows if (normalize_key(p["Бренд"]) + "|" + normalize_key(p["Артикул"])) in keys]
+        print(f"Закреплённый список: {len(keys)} SKU, доступны в свежем прайсе: {len(rows)}")
     if not rows:
         print("Нет товаров, удовлетворяющих фильтру. Публикация запрещена.")
         return 2
