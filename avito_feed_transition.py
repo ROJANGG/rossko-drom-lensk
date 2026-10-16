@@ -57,7 +57,7 @@ def analyze_transition(previous: bytes | None, proposed: bytes, *,
         if not allow_initial_pilot:
             raise ValueError("Initial publication must be explicitly enabled")
         if len(newer) != len(expected):
-            raise ValueError("Initial four-item pilot must contain all four available items")
+            raise ValueError("Initial pilot must contain all documented pilot items")
         return {
             "added": len(newer), "removed": 0, "repriced": 0,
             "current_ads": len(newer), "initial": True,
