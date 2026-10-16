@@ -71,6 +71,8 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
         self.assertEqual(verified_oem("Marshall", "M2000404"), "517120U000")
         self.assertEqual(verified_oem("Krauf", "HNQ2139GQ"), "4001L1")
         self.assertEqual(verified_oem("Master KiT", "77R036"), "48001JD900")
+        self.assertEqual(verified_oem("CTR", "GD0063"), "6R0615301A")
+        self.assertEqual(verified_oem("Marshall", "M2000408"), "517120Z000")
         with self.assertRaises(ValueError):
             verified_oem("Unknown", "NOSUCHSKU")
 
