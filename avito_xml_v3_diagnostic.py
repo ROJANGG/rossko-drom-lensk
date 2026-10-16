@@ -17,7 +17,11 @@ ADDRESS = "г. Иркутск, ул. Каховского, д. 11/1"
 TEST_SKUS = {
     "Рулевые рейки": [("Krauf", "HNQ2139GQ"), ("Master KiT", "77R036")],
     "Тормозные диски": [("CTR", "GD0156"), ("Marshall", "M2000404"),
-                        ("CTR", "GD0063"), ("Marshall", "M2000408")],
+                        ("CTR", "GD0063"), ("Marshall", "M2000408"),
+                        ("CTR", "GD0004"), ("CTR", "GD0008"),
+                        ("CTR", "GD0009"), ("CTR", "GD0026"),
+                        ("Fenox", "TB219353"), ("Marshall", "M2000429"),
+                        ("Marshall", "M2000745")],
 }
 META = {
     "Рулевые рейки": ("Рулевая рейка", "Рулевое управление"),
@@ -39,6 +43,14 @@ VERIFIED_OEM_BY_SKU = {
     # Product-to-OE evidence: official supplier for CTR, official manufacturer for Marshall.
     ("ctr", "gd0063"): "6R0615301A",
     ("marshall", "m2000408"): "517120Z000",
+    # Cross-references documented in input/avito_oem_verified.csv with source URLs.
+    ("ctr", "gd0004"): "1K0615601AB",
+    ("ctr", "gd0008"): "5Q0615601G",
+    ("ctr", "gd0009"): "1K0615301AC",
+    ("ctr", "gd0026"): "4615A117",
+    ("fenox", "tb219353"): "9064230112",
+    ("marshall", "m2000429"): "5Q0615301F",
+    ("marshall", "m2000745"): "51712L0000",
 }
 
 
