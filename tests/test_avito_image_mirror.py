@@ -7,7 +7,7 @@ from avito_image_mirror import image_urls_for_pilot, render_jpeg
 
 
 class PhotoMirrorTests(unittest.TestCase):
-    def test_all_forty_two_ids_will_be_mirrored(self):
+    def test_all_fifty_ids_will_be_mirrored(self):
         rows=[]
         for group,pairs in TEST_SKUS.items():
             for brand,article in pairs:
@@ -17,7 +17,7 @@ class PhotoMirrorTests(unittest.TestCase):
                     "Фото URL":"https://imgs.rossko.ru/AB/CD/NSII0000000000/test.jpg",
                     "Применимость РОССКО":"",
                 })
-        self.assertEqual(len(image_urls_for_pilot(build_xml(rows))),42)
+        self.assertEqual(len(image_urls_for_pilot(build_xml(rows))),50)
         with self.assertRaisesRegex(ValueError,"missing IDs"):
             image_urls_for_pilot(build_xml(rows[:2]))
 
