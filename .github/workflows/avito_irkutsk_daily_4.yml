@@ -1,6 +1,8 @@
 name: Avito Irkutsk - daily 4-SKU XML refresh
 
 # One independent workflow in main. Drom workflow/code is untouched.
+# Customer-facing descriptions were updated on 2026-10-16 to omit supplier names.
+# This push also runs a one-time refresh of the same four existing Avito IDs.
 # 23:17 UTC == 07:17 next day Irkutsk (UTC+8).
 # Avito will NOT read this XML until the owner saves the link in Avito Pro.
 on:
