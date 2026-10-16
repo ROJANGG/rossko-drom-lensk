@@ -120,8 +120,8 @@ def populate_group(group, items, config):
         fields = make_fields(p, candidate, address)
         fields["Описание объявления"] = (
             f"{GROUPS[group]['name']} {p['Бренд']}, артикул {p['Артикул']}.\n"
-            "Товар есть в актуальном прайсе поставщика РОССКО по Иркутску на момент проверки.\n"
-            "Выдача по согласованию: " + address + ".\n"
+            "Состояние: новое. Доступно к самовывозу в Иркутске.\n"
+            "Адрес самовывоза: " + address + ".\n"
             "Пожалуйста, уточняйте наличие и совместимость по VIN перед покупкой."
         )
         # Seller confirmed "new" and immediate pickup for this 50-SKU pilot.
