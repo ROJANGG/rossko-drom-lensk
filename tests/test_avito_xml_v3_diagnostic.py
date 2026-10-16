@@ -109,6 +109,14 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
         self.assertEqual(verified_oem("CTR", "GD0162"), "40206JD00B")
         self.assertEqual(verified_oem("Brave", "BRBD198"), "3502102XGW02A")
         self.assertEqual(verified_oem("Allied Nippon", "ADC0832V"), "45251S1AG60")
+        self.assertEqual(verified_oem("CTR", "GD0166"), "402066478R")
+        self.assertEqual(verified_oem("CTR", "GD0010"), "1K0615301T")
+        self.assertEqual(verified_oem("CTR", "GD0015"), "8K0615601B")
+        self.assertEqual(verified_oem("CTR", "GD0016"), "G25Y26251A")
+        self.assertEqual(verified_oem("Allied Nippon", "ADC0456V"), "BP4Y3325XC")
+        self.assertEqual(verified_oem("Allied Nippon", "ADC01128V"), "4351260151")
+        self.assertEqual(verified_oem("Allied Nippon", "ADC3722V"), "3502108XPW01A")
+        self.assertEqual(verified_oem("NGN", "361427"), "5Q0615601F")
         with self.assertRaises(ValueError):
             verified_oem("Unknown", "NOSUCHSKU")
 
