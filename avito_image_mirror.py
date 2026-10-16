@@ -94,7 +94,7 @@ def write_mirrors_and_rewrite(xml_bytes: bytes, photo_dir: Path) -> tuple[bytes,
     ET.indent(root, space="  ")
     output = ET.tostring(root, encoding="utf-8", xml_declaration=True)
     manifest = {sku: {"url":row["url"], "source":source_urls[sku]} for sku,row in staging.items()}
-    if len(manifest) != 4:
+    if len(manifest) != len(pilot_ids()):
         raise ValueError("Unexpected pilot manifest count")
     return output, manifest
 
@@ -115,7 +115,7 @@ def main():
         path=Path(a.manifest)
         path.parent.mkdir(parents=True,exist_ok=True)
         path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("AVITO_PHOTOS_MIRRORED_4",len(manifest),"with unique JPEG URLs",flush=True)
+    print("AVITO_PHOTOS_MIRRORED",len(manifest),"with unique JPEG URLs",flush=True)
 
 
 if __name__=="__main__":
