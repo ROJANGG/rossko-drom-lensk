@@ -1,8 +1,8 @@
-name: Avito Irkutsk - daily 42-SKU XML refresh
+name: Avito Irkutsk - daily 50-SKU XML refresh
 
 # One independent workflow in main. Drom workflow/code is untouched.
 # Customer-facing descriptions were updated on 2026-10-16 to omit supplier names.
-# Incremental rollout adds twelve sourced-OEM listings; preserves all 30 existing IDs.
+# Final pilot rollout adds eight sourced-OEM listings; preserves all 42 existing IDs.
 # 23:17 UTC == 07:17 next day Irkutsk (UTC+8).
 # Avito Pro already reads the existing stable XML URL; a push updates real listings.
 on:
@@ -46,10 +46,10 @@ jobs:
       - name: Check safeguards for ID, price and missing-stock changes
         working-directory: generator
         run: python -m unittest discover -s tests -p 'test_avito_feed_transition.py' -v
-      - name: Download fresh ROSSKO price, forty-two source-verified OEM SKUs
+      - name: Download fresh ROSSKO price, fifty source-verified OEM SKUs
         working-directory: generator
         run: python avito_sync_staging.py
-      - name: Mirror forty-two supplier photos into independent JPEG links
+      - name: Mirror fifty supplier photos into independent JPEG links
         working-directory: generator
         run: |
           python avito_image_mirror.py \
@@ -84,7 +84,7 @@ jobs:
       - name: Save short-lived private audit (not a public auto-publisher)
         uses: actions/upload-artifact@v4
         with:
-          name: avito-forty-two-daily-audit
+          name: avito-fifty-daily-audit
           path: |
             generator/output/avito_price_stock_staging/summary.json
             generator/output/avito_price_stock_staging/avito_50_sync_audit.csv
