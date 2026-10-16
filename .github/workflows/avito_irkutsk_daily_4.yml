@@ -51,7 +51,7 @@ jobs:
         working-directory: generator
         run: |
           python avito_image_mirror.py \
-            --candidate output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
+            --candidate output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
             --image-dir ../preview/avito-images \
             --output output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
             --manifest output/avito_price_stock_staging/avito_photo_manifest.json
@@ -60,7 +60,7 @@ jobs:
         run: |
           python avito_feed_transition.py \
             --previous ../preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
-            --candidate output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
+            --candidate output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
             --report output/avito_price_stock_staging/transition_precheck.json
       - name: Replace ONLY the isolated pilot XML when validated
         env:
