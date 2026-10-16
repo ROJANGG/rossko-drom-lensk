@@ -97,6 +97,18 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
         self.assertEqual(verified_oem("Master KiT", "77R046"), "4551042030")
         self.assertEqual(verified_oem("Master KiT", "77R047"), "4420033320")
         self.assertEqual(verified_oem("Master KiT", "77R070"), "565002L301")
+        self.assertEqual(verified_oem("Krauf", "HNQ2434GQ"), "49001ES60A")
+        self.assertEqual(verified_oem("Krauf", "HNQ2470GQ"), "8D1422052")
+        self.assertEqual(verified_oem("Krauf", "HNQ2724GQ"), "577004H100")
+        self.assertEqual(verified_oem("Krauf", "HNQ5054GQ"), "565000X500")
+        self.assertEqual(verified_oem("Krauf", "HNQ5082GQ"), "480014EH0A")
+        self.assertEqual(verified_oem("Krauf", "HNQ9011GQ"), "D65132110A")
+        self.assertEqual(verified_oem("Master KiT", "77R015"), "577000Z801")
+        self.assertEqual(verified_oem("Master KiT", "77R025"), "4410A723")
+        self.assertEqual(verified_oem("Master KiT", "77R040"), "490013367R")
+        self.assertEqual(verified_oem("CTR", "GD0162"), "40206JD00B")
+        self.assertEqual(verified_oem("Brave", "BRBD198"), "3502102XGW02A")
+        self.assertEqual(verified_oem("Allied Nippon", "ADC0832V"), "45251S1AG60")
         with self.assertRaises(ValueError):
             verified_oem("Unknown", "NOSUCHSKU")
 
