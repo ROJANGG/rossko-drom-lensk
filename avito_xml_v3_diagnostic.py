@@ -16,7 +16,8 @@ from update_prices import normalize_key
 ADDRESS = "г. Иркутск, ул. Каховского, д. 11/1"
 TEST_SKUS = {
     "Рулевые рейки": [("Krauf", "HNQ2139GQ"), ("Master KiT", "77R036")],
-    "Тормозные диски": [("CTR", "GD0156"), ("Marshall", "M2000404")],
+    "Тормозные диски": [("CTR", "GD0156"), ("Marshall", "M2000404"),
+                        ("CTR", "GD0063"), ("Marshall", "M2000408")],
 }
 META = {
     "Рулевые рейки": ("Рулевая рейка", "Рулевое управление"),
@@ -35,6 +36,9 @@ VERIFIED_OEM_BY_SKU = {
     ("marshall", "m2000404"): "517120U000",
     ("krauf", "hnq2139gq"): "4001L1",
     ("masterkit", "77r036"): "48001JD900",
+    # Product-to-OE evidence: official supplier for CTR, official manufacturer for Marshall.
+    ("ctr", "gd0063"): "6R0615301A",
+    ("marshall", "m2000408"): "517120Z000",
 }
 
 
@@ -131,17 +135,17 @@ def main():
                 raise ValueError("No fresh Irkutsk stock for test article: " + repr(k))
             items.append(by_key[k])
         four.extend(items)
-        fname = "AVITO_XML_TEST_2_BRAKES.xml" if group == "Тормозные диски" else "AVITO_XML_TEST_2_STEERING.xml"
+        fname = f"AVITO_XML_TEST_{len(items)}_BRAKES.xml" if group == "Тормозные диски" else f"AVITO_XML_TEST_{len(items)}_STEERING.xml"
         content = build_xml(items)
         target = output / fname
         target.write_bytes(content)
         doc = ET.parse(target)
-        assert len(doc.findall("./Ad")) == 2
+        assert len(doc.findall("./Ad")) == len(items)
         print(f"XML_DIAGNOSTIC {fname}: 2 ads, real stable IDs, no publication")
-    together = output / "AVITO_XML_TEST_4_COMBINED.xml"
+    together = output / f"AVITO_XML_TEST_{len(four)}_COMBINED.xml"
     together.write_bytes(build_xml(four))
-    assert len(ET.parse(together).findall("./Ad")) == 4
-    print("XML_DIAGNOSTIC done. Category field validity requires Avito validator report.")
+    assert len(ET.parse(together).findall("./Ad")) == len(four)
+    print(f"XML_DIAGNOSTIC {len(four)} ads; category field validity requires Avito validator report.")
 
 
 if __name__ == "__main__":
