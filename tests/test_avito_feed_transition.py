@@ -49,6 +49,25 @@ class TransitionTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,"Unexpected removal"):
             analyze_transition(build_xml(r),build_xml(r[:2]))
 
+    def test_two_new_skus_join_four_existing_without_id_changes(self):
+        all_rows = rows()
+        previous = build_xml([
+            p for p in all_rows
+            if (p["Бренд"], p["Артикул"]) not in {
+                ("CTR", "GD0063"), ("Marshall", "M2000408")
+            }
+        ])
+        proposed = build_xml(all_rows)
+        result = analyze_transition(previous, proposed)
+        self.assertEqual(result["added"], 2)
+        self.assertEqual(result["removed"], 0)
+        self.assertEqual(result["current_ads"], 6)
+        self.assertTrue(all("росско" not in d.lower()
+                            for d in __import__("re").findall(
+                                r"<Description>(.*?)</Description>",
+                                proposed.decode("utf-8"), __import__("re").S
+                            )))
+
     def test_zero_stock_feed_fails_closed(self):
         with self.assertRaisesRegex(ValueError,"empty feed"):
             analyze_transition(build_xml(rows()),b'<Ads formatVersion="3" target="Avito.ru" />')
