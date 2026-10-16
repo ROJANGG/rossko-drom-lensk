@@ -15,13 +15,15 @@ from update_prices import normalize_key
 
 ADDRESS = "г. Иркутск, ул. Каховского, д. 11/1"
 TEST_SKUS = {
-    "Рулевые рейки": [("Krauf", "HNQ2139GQ"), ("Master KiT", "77R036")],
+    "Рулевые рейки": [("Krauf", "HNQ2139GQ"), ("Master KiT", "77R036"),
+                      ("Krauf", "HNQ5020GQ"), ("Krauf", "HNQ5047GQ")],
     "Тормозные диски": [("CTR", "GD0156"), ("Marshall", "M2000404"),
                         ("CTR", "GD0063"), ("Marshall", "M2000408"),
                         ("CTR", "GD0004"), ("CTR", "GD0008"),
                         ("CTR", "GD0009"), ("CTR", "GD0026"),
                         ("Fenox", "TB219353"), ("Marshall", "M2000429"),
-                        ("Marshall", "M2000745")],
+                        ("Marshall", "M2000745"), ("CTR", "GD0021"),
+                        ("CTR", "GD0024"), ("CTR", "GD0019")],
 }
 META = {
     "Рулевые рейки": ("Рулевая рейка", "Рулевое управление"),
@@ -51,6 +53,11 @@ VERIFIED_OEM_BY_SKU = {
     ("fenox", "tb219353"): "9064230112",
     ("marshall", "m2000429"): "5Q0615301F",
     ("marshall", "m2000745"): "51712L0000",
+    ("krauf", "hnq5020gq"): "48001BG10A",
+    ("krauf", "hnq5047gq"): "56500A7500",
+    ("ctr", "gd0021"): "1K0615601AA",
+    ("ctr", "gd0024"): "04743999AA",
+    ("ctr", "gd0019"): "7H0615601B",
 }
 
 
