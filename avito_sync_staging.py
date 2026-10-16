@@ -158,7 +158,7 @@ def build_report(config_path: Path, whitelist_path: Path, evidence_path: Path,
     }
     (target / "summary.json").write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if ready:
-        # Only the four source-verified OEMs may appear. Do not publish XML
+        # Only source-verified OEMs may appear. Do not publish XML
         # before checking removal semantics, any Avito category changes, and
         # that the feed cannot unintentionally control unrelated listings.
         xml_path = target / "AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml"
