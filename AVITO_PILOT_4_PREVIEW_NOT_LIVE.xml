@@ -1,6 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
+    <Id>irk-5478a143c2f5e846d76864</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>6R0615301A</OEM>
+    <Title>Тормозной диск CTR GD0063 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0063.
+Состояние: новое.
+Применимость (справочно): VOLKSWAGEN Bora 1998 ~ 2013 / Golf 1997 ~ 2006 / Jetta (Vento) 2007 ~  / Polo 2002 ~ 2014 / SKODA Octavia 1996 ~ 2010 / Fabia 2006 ~ 2014 / Fabia 2014 ~ / Rapid 2011 ~ / Roomster 2006 ~ 2015 / SEAT Leon 1998 ~ 2006 / Toledo 1998 ~ 2006 / Cordoba 1996 ~ 2009 / Ibiza 2002 ~ 2010 / AUDI A3 1996 ~ 2003 / A1 2010 ~.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>6300</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5478a143c2f5e846d76864-900c2e24899a.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>irk-ea1d405620b41b630ca339</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -70,6 +94,30 @@
     <Brand>Marshall</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0720005820b4a218b889a5-5d8451ebbe91.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-31da7f4f0ee399b6b4c122</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>517120Z000</OEM>
+    <Title>Тормозной диск Marshall M2000408 новый</Title>
+    <Description>Тормозной диск, производитель Marshall, артикул M2000408.
+Состояние: новое.
+Применимость (справочно): HYUNDAI CRETA: I 16-, i30: I 07-, II 11-, ix35: I 10-, SONATA: V (NF) 04-, VII (LF) 14-, TUCSON: I 04-, KIA CEED: II 12-, CERATO: II 08-, III 13-, OPT.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>6750</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Marshall</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-31da7f4f0ee399b6b4c122-91de32790836.jpg" />
     </Images>
   </Ad>
   <Ad>
