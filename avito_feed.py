@@ -151,7 +151,7 @@ def make_fields(product: dict, verified: dict, address: str) -> dict:
         f"Артикул: {article}.\n"
         f"Состояние: новое.\n"
         f"Выдача: {address}.\n"
-        "Наличие актуально на момент проверки прайса поставщика. "
+        "Самовывоз в Иркутске. "
         "Перед приездом уточните доступность и совместимость по VIN."
     )
     if verified["fitment"]:
