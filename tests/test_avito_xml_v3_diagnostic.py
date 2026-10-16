@@ -44,6 +44,9 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
             self.assertTrue(ad.findtext("Address"))
             self.assertIsNotNone(ad.find("./Images/Image").attrib.get("url"))
             self.assertRegex(ad.findtext("OEM") or "", r"^[A-Z0-9]+$")
+            # The wholesaler's name belongs in private sourcing, not the public ad.
+            self.assertNotIn("росско", (ad.findtext("Description") or "").casefold())
+            self.assertIn("совместимость", (ad.findtext("Description") or "").casefold())
 
     def test_avito_brand_alias_keeps_stable_id(self):
         from avito_xml_v3_diagnostic import avito_brand_name
