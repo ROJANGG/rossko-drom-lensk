@@ -85,6 +85,18 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
         self.assertEqual(verified_oem("CTR", "GD0021"), "1K0615601AA")
         self.assertEqual(verified_oem("CTR", "GD0024"), "04743999AA")
         self.assertEqual(verified_oem("CTR", "GD0019"), "7H0615601B")
+        self.assertEqual(verified_oem("Krauf", "HNQ2424GQ"), "LR007501")
+        self.assertEqual(verified_oem("Krauf", "HNQ5090GQ"), "4550005030")
+        self.assertEqual(verified_oem("Krauf", "HNQ9012GQ"), "4551052041")
+        self.assertEqual(verified_oem("Krauf", "HNQ9048GQ"), "490018H305")
+        self.assertEqual(verified_oem("Krauf", "HNQ9065GQ"), "53601S10013")
+        self.assertEqual(verified_oem("Krauf", "HNQ2025GQ"), "4420060012")
+        self.assertEqual(verified_oem("Krauf", "HNQ5056GQ"), "4551006061")
+        self.assertEqual(verified_oem("Krauf", "HNQ5119GQ"), "4551078022")
+        self.assertEqual(verified_oem("Master KiT", "77R010"), "BV613A500AH")
+        self.assertEqual(verified_oem("Master KiT", "77R046"), "4551042030")
+        self.assertEqual(verified_oem("Master KiT", "77R047"), "4420033320")
+        self.assertEqual(verified_oem("Master KiT", "77R070"), "565002L301")
         with self.assertRaises(ValueError):
             verified_oem("Unknown", "NOSUCHSKU")
 
