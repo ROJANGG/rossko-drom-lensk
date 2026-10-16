@@ -1,0 +1,60 @@
+name: Avito public image links test (no publication)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_image_public_check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  image-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install image parser
+        run: python -m pip install 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Verify four public images from fresh XML without referer or cookies
+        shell: bash
+        run: |
+          python - <<'PY'
+          import io
+          import requests
+          from pathlib import Path
+          from PIL import Image
+          from xml.etree import ElementTree as ET
+          root = ET.parse('AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml').getroot()
+          ads = root.findall('Ad')
+          if len(ads) != 4:
+              raise ValueError('Expected exactly 4 pilot products')
+          seen=set()
+          for ad in ads:
+              sku=ad.findtext('Id')
+              url=ad.find('Images/Image').get('url')
+              if not url.startswith('https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/'):
+                  raise ValueError('Incorrect public image URL for '+str(sku))
+              if sku in seen:
+                  raise ValueError('duplicate ID')
+              seen.add(sku)
+              response=requests.get(url,timeout=(8,20),allow_redirects=False)
+              content_type=response.headers.get('Content-Type','')
+              print('PUBLIC_IMAGE_CHECK',sku,'HTTP',response.status_code,
+                    'mime',content_type,'bytes',len(response.content),flush=True)
+              response.raise_for_status()
+              if not content_type.startswith('image/jpeg'):
+                  raise ValueError('Image host returns wrong MIME: '+content_type)
+              image=Image.open(io.BytesIO(response.content))
+              image.verify()
+              if len(response.content)<1000:
+                  raise ValueError('Image too small')
+          print('PUBLIC_IMAGE_CHECK_SUCCESS=4')
+          PY
