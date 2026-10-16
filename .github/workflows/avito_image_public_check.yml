@@ -23,7 +23,7 @@ jobs:
           python-version: '3.11'
       - name: Install image parser
         run: python -m pip install 'requests>=2.31.0' 'pillow>=10.0'
-      - name: Verify thirteen public images from fresh XML without referer or cookies
+      - name: Verify eighteen public images from fresh XML without referer or cookies
         shell: bash
         run: |
           python - <<'PY'
@@ -34,8 +34,8 @@ jobs:
           from xml.etree import ElementTree as ET
           root = ET.parse('AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml').getroot()
           ads = root.findall('Ad')
-          if len(ads) != 13:
-              raise ValueError('Expected exactly 13 pilot products')
+          if len(ads) != 18:
+              raise ValueError('Expected exactly 18 pilot products')
           seen=set()
           for ad in ads:
               sku=ad.findtext('Id')
@@ -56,5 +56,5 @@ jobs:
               image.verify()
               if len(response.content)<1000:
                   raise ValueError('Image too small')
-          print('PUBLIC_IMAGE_CHECK_SUCCESS=13')
+          print('PUBLIC_IMAGE_CHECK_SUCCESS=18')
           PY
