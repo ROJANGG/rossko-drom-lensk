@@ -1,6 +1,102 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
+    <Id>irk-568e274843e30707a3a34d</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>1K0615601AB</OEM>
+    <Title>Тормозной диск CTR GD0004 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0004.
+Состояние: новое.
+Применимость (справочно): VOLKSWAGEN Golf 2003 ~ 2014 / Golf 2008 ~  / Caddy 2004 ~ 2014 / Beetle 2011 ~ / Jetta 2005 ~ 2010 / Scirocco 2008 ~ 2017 / SKODA Octavia 2004 ~ 2013 / Yeti 2008 ~ 2017 / AUDI  A3 1996 ~ 2003 / A3 2003 ~ 2013 / Q2 2016 / SEAT Altea 2004 ~ / Leon 2005 ~ 2012 / Leon 2012 ~.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>3850</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-568e274843e30707a3a34d-cb84d8102f3c.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-98a9cded4b61b130cda790</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>5Q0615601G</OEM>
+    <Title>Тормозной диск CTR GD0008 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0008.
+Состояние: новое.
+Применимость (справочно): VOLKSWAGEN Golf 2003 ~ 2022 /  Jetta 2005 ~ 2019 / Passat 2005 ~ 2014 / Tiguan 2007 ~ 2018 / Touran 2003 ~ 2010 / Sharan 2010 ~ / Eos 2006 ~ / Caddy 2004 ~ /  SKODA Octavia 2004 ~ 2013 / Superb 2008 ~ 2015 / Yeti 2009 ~  / SEAT Leon 2005 ~ 2012 / Toledo 2004 ~ 2009 / Alhambra 2010 ~  / AUDI A3 1996 ~ 2012 / Q3 2011 ~.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>4400</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-98a9cded4b61b130cda790-2d276ddd36a6.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-7b20292bd73b7157877057</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>1K0615301AC</OEM>
+    <Title>Тормозной диск CTR GD0009 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0009.
+Состояние: новое.
+Применимость (справочно): VOLKSWAGEN Golf 2003 ~ 2009 / Golf 2008 ~ 2014 / Golf Plus 2004 ~ 2013 / Caddy 2004 ~ 2015 / Beetle 2011 ~ / Jetta 2005 ~ 2010 / Jetta 2010 ~ / Jetta 2017 ~ / SKODA Octavia 2004 ~ 2013 / Yeti 2009 ~ 2017 / AUDI A3 1996 ~ 2003 / A3 2003 ~ 2012 / SEAT Altea 2004 ~ / Leon 2005 ~ 2012 / Toledo 2004 ~ 2009.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>5850</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7b20292bd73b7157877057-7e0e694378c5.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-87ee120dadd6862511d8a0</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>4615A117</OEM>
+    <Title>Тормозной диск CTR GD0026 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0026.
+Состояние: новое.
+Применимость (справочно): MITSUBISHI ASX 2010 ~ / Outlander 2012 ~ / Delica 2007 ~ / Eclipse Cross 2017 ~ / Lancer 2007 ~ / MITSUBISHI (BJC) Outlander 2004 ~ / MITSUBISHI (GAC) ASX 2012 ~ / Outlander 2016 ~ / PEUGEOT 4008 2012 ~ / CITROEN C3 2013 ~ / C4 2010 ~ / DODGE Avenger 2007 ~ / Caliber 2006 ~ / JEEP Compass 2007 ~ / Patriot 2006 ~ / CHRYSLER 200 2010 ~ / Sebring 2010 ~ / BAIC Senova 2015 ~ / BAIC WEIWANG S50 2016 ~ / LANCIA Flavia 2021 ~.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>6550</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-87ee120dadd6862511d8a0-29d1020df715.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>irk-5478a143c2f5e846d76864</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -46,6 +142,30 @@
     <Brand>CTR</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ea1d405620b41b630ca339-3af6f8888193.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-7aad34bbd5cc858b1bd4d7</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>9064230112</OEM>
+    <Title>Тормозной диск Fenox TB219353 новый</Title>
+    <Description>Тормозной диск, производитель Fenox, артикул TB219353.
+Состояние: новое.
+Применимость (справочно): Mercedes-Benz Sprinter 06-/ VW Crafter Tdi 50 06-.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>8250</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Fenox</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7aad34bbd5cc858b1bd4d7-79e1c92d851b.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -118,6 +238,54 @@
     <Brand>Marshall</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-31da7f4f0ee399b6b4c122-91de32790836.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-7f563b7b89e0630d8ac780</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>5Q0615301F</OEM>
+    <Title>Тормозной диск Marshall M2000429 новый</Title>
+    <Description>Тормозной диск, производитель Marshall, артикул M2000429.
+Состояние: новое.
+Применимость (справочно): Audi A3 (8P, 8V) 03-, Audi Q3 (8U, F3) 11-, Skoda Karoq 17-, Skoda Kodiaq 16-, Skoda Octavia III (A7), IV (A8) 12-, VW Golf V-VII 03-, VW Passat (B6, B7) 05-, VW Tiguan I, II 07-.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>6650</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Marshall</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7f563b7b89e0630d8ac780-465ba8ed6ff7.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-fe112e45a350604342ee9a</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>51712L0000</OEM>
+    <Title>Тормозной диск Marshall M2000745 новый</Title>
+    <Description>Тормозной диск, производитель Marshall, артикул M2000745.
+Состояние: новое.
+Применимость (справочно): Hyundai Sonata VIII 19-, Kia K5 20-.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>11250</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Marshall</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fe112e45a350604342ee9a-adfd40e3c0ec.jpg" />
     </Images>
   </Ad>
   <Ad>
