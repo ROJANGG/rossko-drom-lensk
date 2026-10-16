@@ -24,15 +24,15 @@ def rows():
 
 
 class TransitionTests(unittest.TestCase):
-    def test_forty_two_stable_ids(self):
-        self.assertEqual(len(expected_pilot_ids()), 42)
+    def test_fifty_stable_ids(self):
+        self.assertEqual(len(expected_pilot_ids()), 50)
         self.assertEqual({stable_id(x["Группа"], x["Бренд"], x["Артикул"]) for x in rows()},expected_pilot_ids())
 
     def test_initial_requires_explicit_switch(self):
         data = build_xml(rows())
         with self.assertRaisesRegex(ValueError, "explicitly"):
             analyze_transition(None, data)
-        self.assertEqual(analyze_transition(None, data, allow_initial_pilot=True)["added"],42)
+        self.assertEqual(analyze_transition(None, data, allow_initial_pilot=True)["added"],50)
 
     def test_one_disappears_and_reappears(self):
         r=rows()
@@ -61,7 +61,7 @@ class TransitionTests(unittest.TestCase):
         result = analyze_transition(previous, proposed)
         self.assertEqual(result["added"], 2)
         self.assertEqual(result["removed"], 0)
-        self.assertEqual(result["current_ads"], 42)
+        self.assertEqual(result["current_ads"], 50)
         self.assertTrue(all("росско" not in d.lower()
                             for d in __import__("re").findall(
                                 r"<Description>(.*?)</Description>",
