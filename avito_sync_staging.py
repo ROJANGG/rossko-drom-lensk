@@ -167,6 +167,7 @@ def build_report(config_path: Path, whitelist_path: Path, evidence_path: Path,
         assert len(parsed.findall("./Ad")) == len(ready)
     print("AVITO_SYNC_STAGING", json.dumps(metadata, ensure_ascii=False), flush=True)
     print("VERIFIED_OEM_PILOT_ARTICLES", len(verified), "OF", len(allowlist), flush=True)
+    print("ALL_50_DOCUMENTED_OEM_CANDIDATES", len(verified) == len(allowlist), flush=True)
     return metadata
 
 
