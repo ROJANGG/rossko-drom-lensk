@@ -1,6 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
+    <Id>irk-835ecc9248cd222933fb4c</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>4351260151</OEM>
+    <Title>Тормозной диск Allied Nippon ADC01128V новый</Title>
+    <Description>Тормозной диск, производитель Allied Nippon, артикул ADC01128V.
+Состояние: новое.
+Применимость (справочно): LEXUS,TOYOTA.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>6150</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Allied Nippon</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-835ecc9248cd222933fb4c-c92cf5dc654e.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-56a6c59e0a14ccef23240c</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>BP4Y3325XC</OEM>
+    <Title>Тормозной диск Allied Nippon ADC0456V новый</Title>
+    <Description>Тормозной диск, производитель Allied Nippon, артикул ADC0456V.
+Состояние: новое.
+Применимость (справочно): MAZDA 3 1.4/1.6 03&gt; / 5 R15 1.8/2.0/2.0D 03&gt;.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>5050</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Allied Nippon</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-56a6c59e0a14ccef23240c-eeb06a76aa76.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>irk-7573cfd8861e5d8a79902f</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -22,6 +70,30 @@
     <Brand>Allied Nippon</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7573cfd8861e5d8a79902f-95c4fee85c0e.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-421ead2c39b8fe12f43546</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>3502108XPW01A</OEM>
+    <Title>Тормозной диск Allied Nippon ADC3722V новый</Title>
+    <Description>Тормозной диск, производитель Allied Nippon, артикул ADC3722V.
+Состояние: новое.
+Применимость (справочно): TANK 500 23- 2000/3000 E20NA CC2030BNTANK 300 21- 2000 E20CB CC2030BEHAVAL H9 II 24- 2000/2400 GW4C20B CC2030CYGreat Wall Poer King Kong 22- 2000 GW4C20B CC1030UA.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>6400</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Allied Nippon</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-421ead2c39b8fe12f43546-25c15bc0856c.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -118,6 +190,78 @@
     <Brand>CTR</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7b20292bd73b7157877057-7e0e694378c5.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-cb8ed108a7e77bab4b5a12</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>1K0615301T</OEM>
+    <Title>Тормозной диск CTR GD0010 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0010.
+Состояние: новое.
+Применимость (справочно): VOLKSWAGEN Golf 2003 ~ 2009 / Golf 2008 ~ / Golf Plus 2004 ~ 2014 / Caddy 2004 ~ 2015 / Caddy 2020 ~ / Beetle 2011 ~ / Eos 2006 ~ 2015 / Jetta 2005 ~ 2010 / Jetta 2010 ~ / Jetta 2017 ~  / Scirocco 2008 ~ 2017 / T-Roc 2017 ~ / Taos 2020 ~ / Touran 2005 ~ 2015 / SKODA Octavia 2004 ~ 2013 / Octavia 2013 ~ / Yeti 2009 ~ 2017 / Karoq 2017 ~ / Superb 2008 ~ 2015 / AUDI A3 1996 ~ 2003 / A3 2003 ~ 2012 / A3 2013 ~ 2021 / Q2 2016 ~ / SEAT Altea 2004 ~ /.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>6500</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cb8ed108a7e77bab4b5a12-6e5b7f5e4d67.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-925f105c86f2830e963f25</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>8K0615601B</OEM>
+    <Title>Тормозной диск CTR GD0015 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0015.
+Состояние: новое.
+Применимость (справочно): AUDI A4 2009 ~ 2016 / A5 2009 ~ 2017 / A6 2010 ~ / A7 2010 ~ 2018 / Q5 2008 ~ 2017.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>5300</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-925f105c86f2830e963f25-16d4eff6b007.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-2c1c93598657045285dea9</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>G25Y26251A</OEM>
+    <Title>Тормозной диск CTR GD0016 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0016.
+Состояние: новое.
+Применимость (справочно): MAZDA 6 2002 ~ 2008 / 6 2007 ~ 2013 / 323 1998 ~ 2004 / 626 1997 ~ 2002 / MX5 2005 ~ 2014 / Premacy 1999 ~ 2005 / MAZDA (FAW) 6 2009 ~ / ZHONGHUA (BRILLIANCE) Junjie 2006 ~ 2015 / ISUZU Impulse 1990 ~ 1993 / HAIMA (FAW) M8 2013 ~ / BESTURN (FAW) B50 2013 ~ / B70 2014 ~ / B90 2012 ~ / X80 2013 ~.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>4050</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2c1c93598657045285dea9-e9947695566c.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -286,6 +430,30 @@
     <Brand>CTR</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-84f458d7d2d90f4c8953dc-1c35d6abd847.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-ea032a2938f7b0980491c6</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>402066478R</OEM>
+    <Title>Тормозной диск CTR GD0166 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0166.
+Состояние: новое.
+Применимость (справочно): NISSAN Note 2005 ~ 2013 / Note 2012 ~ / Micra 2002 ~ 2010 / Micra 2016 ~ / March 2002 ~ 2010 / NP200 2008 ~ / Platina 2008 ~ 2010 / Bluebird Sylphy 2005 ~ 2012 / RENAULT Clio 2005 ~ / Logan 2007 ~ / Logan 2013 / Megane 2001 ~ 2012 / Modus 2004 ~  / Grand Modus 2004 ~ / Thalia 2008 ~ / LADA Largus 2012 ~ / DACIA Logan 2007 ~.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>4600</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ea032a2938f7b0980491c6-63ec38ec0e34.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -1006,6 +1174,30 @@
     <Brand>MasterKit</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-10c31fda936cd059a64a47-2ab00c666c02.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-5f17f96dbf8c4f081e04b9</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>5Q0615601F</OEM>
+    <Title>Тормозной диск NGN 361427 новый</Title>
+    <Description>Тормозной диск, производитель NGN, артикул 361427.
+Состояние: новое.
+Применимость (справочно): A3 8P 2004-2012,OCTAVIA II 1Z 2004-2013,BEETLE A5 2011-2019,JETTA VI 162 2010-2018,GOLF IV 1J5 / 1J1 1998-2004,GOLF V 1K1 / 1K5 2003-2009,CADDY III 2K / 2C 2004-2015.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>4250</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>NGN</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5f17f96dbf8c4f081e04b9-5ba147d77e0b.jpg" />
     </Images>
   </Ad>
 </Ads>
