@@ -80,6 +80,11 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
         self.assertEqual(verified_oem("Fenox", "TB219353"), "9064230112")
         self.assertEqual(verified_oem("Marshall", "M2000429"), "5Q0615301F")
         self.assertEqual(verified_oem("Marshall", "M2000745"), "51712L0000")
+        self.assertEqual(verified_oem("Krauf", "HNQ5020GQ"), "48001BG10A")
+        self.assertEqual(verified_oem("Krauf", "HNQ5047GQ"), "56500A7500")
+        self.assertEqual(verified_oem("CTR", "GD0021"), "1K0615601AA")
+        self.assertEqual(verified_oem("CTR", "GD0024"), "04743999AA")
+        self.assertEqual(verified_oem("CTR", "GD0019"), "7H0615601B")
         with self.assertRaises(ValueError):
             verified_oem("Unknown", "NOSUCHSKU")
 
