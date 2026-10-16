@@ -36,7 +36,11 @@ TEST_SKUS = {
                         ("Marshall", "M2000745"), ("CTR", "GD0021"),
                         ("CTR", "GD0024"), ("CTR", "GD0019"),
                         ("CTR", "GD0162"), ("Brave", "BRBD198"),
-                        ("Allied Nippon", "ADC0832V")],
+                        ("Allied Nippon", "ADC0832V"),
+                        ("CTR", "GD0166"), ("CTR", "GD0010"),
+                        ("CTR", "GD0015"), ("CTR", "GD0016"),
+                        ("Allied Nippon", "ADC0456V"), ("Allied Nippon", "ADC01128V"),
+                        ("Allied Nippon", "ADC3722V"), ("NGN", "361427")],
 }
 META = {
     "Рулевые рейки": ("Рулевая рейка", "Рулевое управление"),
@@ -96,6 +100,15 @@ VERIFIED_OEM_BY_SKU = {
     ("ctr", "gd0162"): "40206JD00B",
     ("brave", "brbd198"): "3502102XGW02A",
     ("alliednippon", "adc0832v"): "45251S1AG60",
+    # Verified specific-brand cross references for the final eight products.
+    ("ctr", "gd0166"): "402066478R",
+    ("ctr", "gd0010"): "1K0615301T",
+    ("ctr", "gd0015"): "8K0615601B",
+    ("ctr", "gd0016"): "G25Y26251A",
+    ("alliednippon", "adc0456v"): "BP4Y3325XC",
+    ("alliednippon", "adc01128v"): "4351260151",
+    ("alliednippon", "adc3722v"): "3502108XPW01A",
+    ("ngn", "361427"): "5Q0615601F",
 }
 
 
