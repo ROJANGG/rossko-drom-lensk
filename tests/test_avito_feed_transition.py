@@ -24,15 +24,15 @@ def rows():
 
 
 class TransitionTests(unittest.TestCase):
-    def test_all_four_stable_ids(self):
-        self.assertEqual(len(expected_pilot_ids()), 4)
+    def test_six_stable_ids(self):
+        self.assertEqual(len(expected_pilot_ids()), 6)
         self.assertEqual({stable_id(x["Группа"], x["Бренд"], x["Артикул"]) for x in rows()},expected_pilot_ids())
 
     def test_initial_requires_explicit_switch(self):
         data = build_xml(rows())
         with self.assertRaisesRegex(ValueError, "explicitly"):
             analyze_transition(None, data)
-        self.assertEqual(analyze_transition(None, data, allow_initial_pilot=True)["added"],4)
+        self.assertEqual(analyze_transition(None, data, allow_initial_pilot=True)["added"],6)
 
     def test_one_disappears_and_reappears(self):
         r=rows()
