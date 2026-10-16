@@ -1,9 +1,10 @@
-"""STAGING ONLY: refreshed ROSSKO price/stock → Avito XML + 50-SKU audit.
+"""Build a validated XML candidate from fresh ROSSKO price/stock and OEM evidence.
 
-Only source-verified OEM cross-references are allowed into XML. The artifact is
-NOT connected to Avito; it never publishes. A failed price download MUST abort.
-Use identical stable IDs across update cycles. Do not put output into public
-GitHub or a URL until complete feed ownership/removal semantics are tested.
+Only source-verified OEM cross-references are allowed into XML. The script itself never uploads to Avito or commits to the public XML branch.
+A separately configured GitHub Actions workflow may publish after safety checks.
+A failed price download MUST abort.
+Use identical stable IDs across update cycles. Do not bypass change checks
+or publish supplier price files and audits to a public URL.
 """
 from __future__ import annotations
 
@@ -145,7 +146,7 @@ def build_report(config_path: Path, whitelist_path: Path, evidence_path: Path,
         "source": "fresh Rossko Irkutsk XLSX (never cached)",
         "markup_percent": cfg["pricing"]["markup_percent"],
         "round_up_to": cfg["pricing"]["round_up_to"],
-        "state": "REVIEW_ONLY_NOT_CONNECTED_TO_AVITO",
+        "state": "CANDIDATE_XML_GENERATOR_ONLY_PUBLICATION_HANDLED_BY_WORKFLOW",
         "ready_count": len(ready),
         "verified_oem_count": len(verified),
         "note": "Only documented original-equipment cross-references. Missing ones never enter Avito.",
