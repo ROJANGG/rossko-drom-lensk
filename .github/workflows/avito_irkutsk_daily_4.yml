@@ -47,6 +47,14 @@ jobs:
       - name: Download fresh ROSSKO price, only four source-verified OEM SKUs
         working-directory: generator
         run: python avito_sync_staging.py
+      - name: Mirror four supplier photos into independent JPEG links
+        working-directory: generator
+        run: |
+          python avito_image_mirror.py \
+            --candidate output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
+            --image-dir ../preview/avito-images \
+            --output output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
+            --manifest output/avito_price_stock_staging/avito_photo_manifest.json
       - name: Compare candidate against current public XML - fail closed
         working-directory: generator
         run: |
@@ -60,11 +68,11 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cp generator/output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          cp generator/output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
           cd preview
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml avito-images/
           if git diff --cached --quiet; then
             echo "No price or stock change: public XML unchanged"
           else
@@ -79,5 +87,6 @@ jobs:
             generator/output/avito_price_stock_staging/summary.json
             generator/output/avito_price_stock_staging/avito_50_sync_audit.csv
             generator/output/avito_price_stock_staging/transition_precheck.json
+            generator/output/avito_price_stock_staging/avito_photo_manifest.json
           retention-days: 2
           if-no-files-found: error
