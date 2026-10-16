@@ -16,7 +16,13 @@ from update_prices import normalize_key
 ADDRESS = "г. Иркутск, ул. Каховского, д. 11/1"
 TEST_SKUS = {
     "Рулевые рейки": [("Krauf", "HNQ2139GQ"), ("Master KiT", "77R036"),
-                      ("Krauf", "HNQ5020GQ"), ("Krauf", "HNQ5047GQ")],
+                      ("Krauf", "HNQ5020GQ"), ("Krauf", "HNQ5047GQ"),
+                      ("Krauf", "HNQ2424GQ"), ("Krauf", "HNQ5090GQ"),
+                      ("Krauf", "HNQ9012GQ"), ("Krauf", "HNQ9048GQ"),
+                      ("Krauf", "HNQ9065GQ"), ("Krauf", "HNQ2025GQ"),
+                      ("Krauf", "HNQ5056GQ"), ("Krauf", "HNQ5119GQ"),
+                      ("Master KiT", "77R010"), ("Master KiT", "77R046"),
+                      ("Master KiT", "77R047"), ("Master KiT", "77R070")],
     "Тормозные диски": [("CTR", "GD0156"), ("Marshall", "M2000404"),
                         ("CTR", "GD0063"), ("Marshall", "M2000408"),
                         ("CTR", "GD0004"), ("CTR", "GD0008"),
@@ -58,6 +64,19 @@ VERIFIED_OEM_BY_SKU = {
     ("ctr", "gd0021"): "1K0615601AA",
     ("ctr", "gd0024"): "04743999AA",
     ("ctr", "gd0019"): "7H0615601B",
+    # Further documented OEM matches (source URLs in avito_oem_verified.csv).
+    ("krauf", "hnq2424gq"): "LR007501",
+    ("krauf", "hnq5090gq"): "4550005030",
+    ("krauf", "hnq9012gq"): "4551052041",
+    ("krauf", "hnq9048gq"): "490018H305",
+    ("krauf", "hnq9065gq"): "53601S10013",
+    ("krauf", "hnq2025gq"): "4420060012",
+    ("krauf", "hnq5056gq"): "4551006061",
+    ("krauf", "hnq5119gq"): "4551078022",
+    ("masterkit", "77r010"): "BV613A500AH",
+    ("masterkit", "77r046"): "4551042030",
+    ("masterkit", "77r047"): "4420033320",
+    ("masterkit", "77r070"): "565002L301",
 }
 
 
