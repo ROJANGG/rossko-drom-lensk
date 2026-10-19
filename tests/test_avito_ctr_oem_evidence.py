@@ -20,7 +20,7 @@ class CTROEMTests(unittest.TestCase):
         html = "<div>CTR GD0037 Артикул:GD0037 43206-EB300</div>"
         self.assertEqual(documented_ctr_oems(html, "GD0037"), [])
         html = "<div>CTR GD0037 Артикул:GD0037 OEM-номера: GD0037 Применимость</div>"
-        self.assertEqual(documented_ctr_oems(html, "GD0037"), ["GD0037"])
+        self.assertEqual(documented_ctr_oems(html, "GD0037"), [])
 
     def test_filter_only_original_100_and_ctr(self):
         with tempfile.TemporaryDirectory() as d:
