@@ -27,6 +27,8 @@ KNOWN_DIAGRAMS = {
     ("blitz", "bs0164"), ("blitz", "bs0202"), ("blitz", "bs0212"),
     ("blitz", "bs0355"), ("blitz", "bs0360"),
     ("krauf", "hnq5129gq"),
+    # 2026-10-19: source image is a technical drawing in the contact sheet.
+    ("marshall", "m2000532"), ("marshall", "m2000583"),
 }
 COLUMNS = (
     "Группа", "Бренд", "Артикул", "Описание РОССКО", "Цена Авито",
