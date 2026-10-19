@@ -48,6 +48,8 @@ class TestAvitoXmlDiagnostic(unittest.TestCase):
             self.assertNotIn("росско", (ad.findtext("Description") or "").casefold())
             self.assertIn("совместимость", (ad.findtext("Description") or "").casefold())
             self.assertNotIn("Применимость (справочно)", ad.findtext("Description") or "")
+        for ad, item in zip(ads, items):
+            self.assertNotIn(item["Применимость РОССКО"], ad.findtext("Description") or "")
 
     def test_avito_brand_alias_keeps_stable_id(self):
         from avito_xml_v3_diagnostic import avito_brand_name
