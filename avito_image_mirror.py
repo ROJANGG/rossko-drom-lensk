@@ -20,6 +20,7 @@ from xml.etree import ElementTree as ET
 from PIL import ImageOps
 
 from avito_feed import stable_id
+from avito_expand_canary import approved_canary_ids
 from avito_photo_check import approved_url, retrieve_image
 from avito_xml_v3_diagnostic import TEST_SKUS
 
@@ -52,7 +53,7 @@ def render_jpeg(image) -> bytes:
     return encoded
 
 
-def image_urls_for_pilot(xml_bytes: bytes) -> dict[str, str]:
+def image_urls_for_pilot(xml_bytes: bytes, *, extra_ids: set[str] | None = None) -> dict[str, str]:
     root = ET.fromstring(xml_bytes)
     if root.tag != "Ads" or root.get("formatVersion") != "3":
         raise ValueError("Expected Avito XML v3")
@@ -65,7 +66,9 @@ def image_urls_for_pilot(xml_bytes: bytes) -> dict[str, str]:
         if sku in items or not sku or not approved_url(url):
             raise ValueError(f"Invalid supplier image or repeated SKU: {sku}")
         items[sku] = url
-    allowed = pilot_ids()
+    allowed = pilot_ids() | (extra_ids or set())
+    if len(extra_ids or set()) > 2:
+        raise ValueError("Too many additional Avito IDs")
     if not set(items) <= allowed or len(items) < MIN_ACTIVE_PILOT:
         raise ValueError(
             f"Refusing to mirror unexpected or too many missing IDs: {set(items)^allowed}"
@@ -73,8 +76,8 @@ def image_urls_for_pilot(xml_bytes: bytes) -> dict[str, str]:
     return items
 
 
-def write_mirrors_and_rewrite(xml_bytes: bytes, photo_dir: Path) -> tuple[bytes, dict]:
-    source_urls = image_urls_for_pilot(xml_bytes)
+def write_mirrors_and_rewrite(xml_bytes: bytes, photo_dir: Path, *, extra_ids: set[str] | None = None) -> tuple[bytes, dict]:
+    source_urls = image_urls_for_pilot(xml_bytes, extra_ids=extra_ids)
     # Fail-closed: stage everything in memory; write only after all
     # currently available SKU images have been decoded and checked.
     staging = {}
@@ -111,9 +114,11 @@ def main():
     p.add_argument("--image-dir", required=True)
     p.add_argument("--output", required=True)
     p.add_argument("--manifest", default="")
+    p.add_argument("--approved-new", default="")
     a=p.parse_args()
     content, manifest=write_mirrors_and_rewrite(
-        Path(a.candidate).read_bytes(),Path(a.image_dir))
+        Path(a.candidate).read_bytes(),Path(a.image_dir),
+        extra_ids=approved_canary_ids(Path(a.approved_new)) if a.approved_new else None)
     target=Path(a.output)
     target.parent.mkdir(parents=True,exist_ok=True)
     target.write_bytes(content)
