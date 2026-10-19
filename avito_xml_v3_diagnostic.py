@@ -134,7 +134,10 @@ def avito_brand_name(value: str) -> str:
     return BRAND_AVITO_ALIASES.get(normalize_key(value), value)
 
 
-def build_xml(rows):
+def build_xml(rows, *, verified_extra_oems: dict[str, str] | None = None):
+    # Never override sourced OEM data for the original pilot; extras are
+    # explicitly approved by identity and source in the separate staging step.
+    extra = verified_extra_oems or {}
     root = ET.Element("Ads", {"formatVersion": "3", "target": "Avito.ru"})
     ids = set()
     for row in rows:
@@ -162,7 +165,16 @@ def build_xml(rows):
         field("AdType", "Товар приобретен на продажу")
         field("ProductType", "Для автомобилей")
         field("SparePartType", part_type)
-        field("OEM", verified_oem(brand, article))
+        key = normalize_key(brand) + "|" + normalize_key(article)
+        if key in extra:
+            if (normalize_key(brand), normalize_key(article)) in VERIFIED_OEM_BY_SKU:
+                raise ValueError("Cannot override pilot OEM: " + key)
+            oem = extra[key]
+            if not oem or not oem.isalnum() or len(oem) > 32:
+                raise ValueError("Invalid extra OEM: " + key)
+        else:
+            oem = verified_oem(brand, article)
+        field("OEM", oem)
         field("Title", f"{label} {brand} {article} новый")
         # Supplier fitment is not independently verified for public ad text.
         # Do not insert bulk vehicle keywords into Avito descriptions.

@@ -1,0 +1,68 @@
+name: Avito 2-CTR expansion full preflight (NOT LIVE)
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - '.github/workflows/avito_canary_preflight.yml'
+      - 'avito_expand_canary.py'
+      - 'input/avito_canary_2_new.csv'
+permissions:
+  contents: read
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/avito-irkutsk-draft
+          path: generator
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: feed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install parsers and photo tools
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Test existing feed and expansion protections
+        working-directory: generator
+        run: python -m unittest discover -s tests -v
+      - name: Fetch FRESH Rossko local Irkutsk supplier price
+        working-directory: generator
+        run: python avito_sync_staging.py
+      - name: Extend complete pilot with 2 source-verified CTR disks
+        working-directory: generator
+        run: |
+          python avito_expand_canary.py \
+            --pilot-xml output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
+            --out output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml \
+            --require-two
+      - name: Download and validate product photos but DO NOT commit them
+        working-directory: generator
+        run: |
+          python avito_image_mirror.py \
+            --candidate output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml \
+            --image-dir ../temporary-photos \
+            --output output/avito_price_stock_staging/AVITO_TWO_NEW_MIRRORED_TEST.xml \
+            --manifest output/avito_price_stock_staging/avito_photo_manifest.json \
+            --approved-new input/avito_canary_2_new.csv
+      - name: Validate existing and newly approved stable IDs and prices
+        working-directory: generator
+        run: |
+          python avito_feed_transition.py \
+            --previous ../feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --candidate output/avito_price_stock_staging/AVITO_TWO_NEW_MIRRORED_TEST.xml \
+            --approved-new input/avito_canary_2_new.csv \
+            --report output/avito_price_stock_staging/transition_precheck.json
+      - name: Keep non-public test audit (NOT an Avito autoload file)
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-2-ctr-expansion-preflight-not-live
+          path: |
+            generator/output/avito_price_stock_staging/summary.json
+            generator/output/avito_price_stock_staging/transition_precheck.json
+          retention-days: 2
+          if-no-files-found: error
