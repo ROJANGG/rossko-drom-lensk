@@ -33,6 +33,17 @@ class ExpansionTests(unittest.TestCase):
         self.assertEqual(found[a], [])
         self.assertEqual([r["Артикул"] for r in found[b]], ["NEW2"])
 
+    def test_remanufactured_motorherz_excluded_from_new_ads(self):
+        group = GROUPS[0]
+        restored = candidate(group, "Motorherz", "J50031RB")
+        new_part = candidate(group, "Motorherz", "J50031NW")
+        urls = {
+            "motorherz|j50031rb": restored["Фото для проверки"],
+            "motorherz|j50031nw": new_part["Фото для проверки"],
+        }
+        found = new_candidates([restored, new_part], urls, set())
+        self.assertEqual([r["Артикул"] for r in found[group]], ["J50031NW"])
+
     def test_balanced_selection_and_fill_if_shortage(self):
         a, b = GROUPS
         groups = {
