@@ -1,8 +1,8 @@
-name: Avito Irkutsk - four daily 50-SKU XML refresh
+name: Avito Irkutsk - four daily 50+2 controlled XML refresh
 
 # One independent workflow in main. Drom workflow/code is untouched.
 # Customer-facing descriptions were updated on 2026-10-16 to omit supplier names.
-# Final pilot rollout adds eight sourced-OEM listings; preserves all 42 existing IDs.
+# Two separately documented CTR extras are checked on every run; all base IDs preserved.
 # 23:17, 03:17, 07:17, 11:17 UTC = 07:17, 11:17, 15:17, 19:17 Irkutsk (UTC+8).
 # Avito Pro already reads the existing stable XML URL; a push updates real listings.
 on:
@@ -49,21 +49,29 @@ jobs:
       - name: Download fresh ROSSKO price, fifty source-verified OEM SKUs
         working-directory: generator
         run: python avito_sync_staging.py
+      - name: Add only two CTR discs with manufacturer OEM and verified supplier photo nomenclature
+        working-directory: generator
+        run: |
+          python avito_expand_canary.py \
+            --pilot-xml output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
+            --out output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml
       - name: Mirror fifty supplier photos into independent JPEG links
         working-directory: generator
         run: |
           python avito_image_mirror.py \
-            --candidate output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
+            --candidate output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml \
             --image-dir ../preview/avito-images \
             --output output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
-            --manifest output/avito_price_stock_staging/avito_photo_manifest.json
+            --manifest output/avito_price_stock_staging/avito_photo_manifest.json \
+            --approved-new input/avito_canary_2_new.csv
       - name: Compare candidate against current public XML - fail closed
         working-directory: generator
         run: |
           python avito_feed_transition.py \
             --previous ../preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
             --candidate output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
-            --report output/avito_price_stock_staging/transition_precheck.json
+            --report output/avito_price_stock_staging/transition_precheck.json \
+            --approved-new input/avito_canary_2_new.csv
       - name: Replace ONLY the isolated pilot XML when validated
         env:
           TARGET_BRANCH: avito-irkutsk-feed
