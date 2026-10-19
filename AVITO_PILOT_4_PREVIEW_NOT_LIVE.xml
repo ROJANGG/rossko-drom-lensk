@@ -1104,4 +1104,50 @@
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5f17f96dbf8c4f081e04b9-5ba147d77e0b.jpg" />
     </Images>
   </Ad>
+  <Ad>
+    <Id>irk-8d3dc8b1c101c75182ecf8</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>43206EB300</OEM>
+    <Title>Тормозной диск CTR GD0037 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0037.
+Состояние: новое.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>5450</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8d3dc8b1c101c75182ecf8-a66033c90550.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-b342dbe6c18076cf82aa71</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>40206EM10A</OEM>
+    <Title>Тормозной диск CTR GD0053 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0053.
+Состояние: новое.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>5250</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b342dbe6c18076cf82aa71-8bfa9a02d08d.jpg" />
+    </Images>
+  </Ad>
 </Ads>
