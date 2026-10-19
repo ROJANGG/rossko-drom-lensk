@@ -71,6 +71,17 @@ class CanaryTests(unittest.TestCase):
             image_urls_for_pilot(new)
         self.assertEqual(len(image_urls_for_pilot(new,extra_ids=ids)),52)
 
+    def test_returning_original_and_new_canary_at_same_time(self):
+        old,new,_=full()
+        from xml.etree import ElementTree as ET
+        prevroot=ET.fromstring(old)
+        prevroot.remove(prevroot.findall("Ad")[-1])
+        previous=ET.tostring(prevroot,encoding="utf-8",xml_declaration=True)
+        ids={stable_id("Тормозные диски","CTR",s) for s in ("GD0037","GD0053")}
+        report=analyze_transition(previous,new,approved_extra_ids=ids)
+        self.assertEqual(report["added"],3)
+        self.assertEqual(report["current_ads"],52)
+
     def test_unavailable_on_first_release_fails_closed(self):
         old,_,_=full()
         approved={("ctr","gd0037"):"43206EB300", ("ctr","gd0053"):"40206EM10A"}
