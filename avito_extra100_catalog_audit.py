@@ -97,7 +97,8 @@ def main():
                 nomenclature=text(get_cell(row,h,"Номенклатура"))
                 image=photos.get(key,"")
                 fitment=text(get_cell(row,h,"Применимость"))
-                raw_oem=text(get_cell(row,h,"OEМ Номер"))\n                scan[key]=(key,brand,article,nomenclature,image,fitment,group,prod,raw_oem)
+                raw_oem=text(get_cell(row,h,"OEМ Номер"))
+                scan[key]=(key,brand,article,nomenclature,image,fitment,group,prod,raw_oem)
     finally:
         book.close()
     if set(scan)!=pinned:
