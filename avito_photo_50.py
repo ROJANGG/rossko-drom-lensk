@@ -47,6 +47,10 @@ def photo_candidates(products, photo_map):
     grouped = {key: [] for key in GROUPS}
     for row in products:
         key = identity(row)
+        # Motorherz RB steering racks are factory-remanufactured, not "new".
+        # The Avito pilot advertises only NEW parts. Ref: motorherz.ru/faq/
+        if key[0] == "motorherz" and key[1].endswith("rb"):
+            continue
         if key in KNOWN_DIAGRAMS or (row["Группа"] == "Тормозные диски" and key[0] == "blitz"):
             # The current Blitz image batch often uses schematics rather than a product photo.
             continue
