@@ -49,15 +49,15 @@ def documented_ctr_oems(html: str, requested_article: str) -> list[str]:
     """Accept exact CTR article and OEM block only; false positives fail closed."""
     parsed = _TextOnly()
     parsed.feed(html)
-    content = re.sub(r"\\s+", " ", " ".join(parsed.fragments)).strip()
+    content = re.sub(r"\s+", " ", " ".join(parsed.fragments)).strip()
     sku = requested_article.upper()
-    if not re.search(r"Артикул\\s*:\\s*" + re.escape(sku) + r"\\b", content, re.I):
+    if not re.search(r"Артикул\s*:\s*" + re.escape(sku) + r"\b", content, re.I):
         return []
-    if not re.search(r"CTR\\s+" + re.escape(sku) + r"\\b", content, re.I):
+    if not re.search(r"CTR\s+" + re.escape(sku) + r"\b", content, re.I):
         return []
     match = re.search(
-        r"OEM-номера\\s*:\\s*(.{4,700}?)"
-        r"(?=\\s*(?:Результаты поиска|Применимость|Как убедиться|\\* Результаты))",
+        r"OEM-номера\s*:\s*(.{4,700}?)"
+        r"(?=\s*(?:Результаты поиска|Применимость|Как убедиться|\* Результаты))",
         content, re.I
     )
     if not match:
@@ -128,7 +128,7 @@ def main():
         "missing_or_unreadable": sum(not x[2] for x in results),
         "publication": "NEVER; review source, article, image and local stock first",
     }
-    (OUT / "summary.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2)+"\\n", encoding="utf-8")
+    (OUT / "summary.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2)+"\n", encoding="utf-8")
     print("CTR_OEM_MANUFACTURER_AUDIT", json.dumps(summary, ensure_ascii=False), flush=True)
 
 
