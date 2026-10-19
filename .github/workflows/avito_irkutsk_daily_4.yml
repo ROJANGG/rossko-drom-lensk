@@ -1,13 +1,13 @@
-name: Avito Irkutsk - daily 50-SKU XML refresh
+name: Avito Irkutsk - four daily 50-SKU XML refresh
 
 # One independent workflow in main. Drom workflow/code is untouched.
 # Customer-facing descriptions were updated on 2026-10-16 to omit supplier names.
 # Final pilot rollout adds eight sourced-OEM listings; preserves all 42 existing IDs.
-# 23:17 UTC == 07:17 next day Irkutsk (UTC+8).
+# 23:17, 03:17, 07:17, 11:17 UTC = 07:17, 11:17, 15:17, 19:17 Irkutsk (UTC+8).
 # Avito Pro already reads the existing stable XML URL; a push updates real listings.
 on:
   schedule:
-    - cron: '17 23 * * *'
+    - cron: '17 3,7,11,23 * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -84,7 +84,7 @@ jobs:
       - name: Save short-lived private audit (not a public auto-publisher)
         uses: actions/upload-artifact@v4
         with:
-          name: avito-fifty-daily-audit
+          name: avito-fifty-refresh-audit
           path: |
             generator/output/avito_price_stock_staging/summary.json
             generator/output/avito_price_stock_staging/avito_50_sync_audit.csv
