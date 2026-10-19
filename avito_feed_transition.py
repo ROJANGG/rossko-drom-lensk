@@ -12,6 +12,7 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 from avito_feed import stable_id
+from avito_expand_canary import approved_canary_ids
 from avito_xml_v3_diagnostic import TEST_SKUS
 
 
@@ -46,13 +47,16 @@ def parse_feed(xml_bytes: bytes) -> dict[str, int]:
 def analyze_transition(previous: bytes | None, proposed: bytes, *,
                        allow_initial_pilot: bool = False,
                        max_removed: int = 2,
-                       max_jump_pct: int = 40) -> dict:
-    expected = expected_pilot_ids()
+                       max_jump_pct: int = 40,
+                       approved_extra_ids: set[str] | None = None) -> dict:
+    expected = expected_pilot_ids() | (approved_extra_ids or set())
+    if len(approved_extra_ids or set()) > 2:
+        raise ValueError("More than two additional Avito IDs are not approved")
     newer = parse_feed(proposed)
     if not newer:
         raise ValueError("Refuse empty feed: Avito might retain stale offers or remove all")
     if not set(newer) <= expected:
-        raise ValueError("Unexpected new listing ID outside the four-item pilot")
+        raise ValueError("Unexpected new listing ID outside approved 50+2 catalog")
     if previous is None:
         if not allow_initial_pilot:
             raise ValueError("Initial publication must be explicitly enabled")
@@ -68,6 +72,8 @@ def analyze_transition(previous: bytes | None, proposed: bytes, *,
         raise ValueError("Previous feed controlled an unexpected ID")
     removed = set(older) - set(newer)
     added = set(newer) - set(older)
+    if len(added) > 2:
+        raise ValueError("Unexpected addition of more than two Avito listings")
     # Genuine local sell-outs are permitted in small batches; a sudden large
     # shrinkage could mean a wrong warehouse, broken input or missing CSV rows.
     if len(removed) > max_removed:
@@ -93,11 +99,13 @@ def main():
     p.add_argument("--previous", help="Required except for explicit first-time dry run")
     p.add_argument("--allow-initial-pilot", action="store_true")
     p.add_argument("--report", default="")
+    p.add_argument("--approved-new", default="")
     args = p.parse_args()
     result = analyze_transition(
         Path(args.previous).read_bytes() if args.previous else None,
         Path(args.candidate).read_bytes(),
         allow_initial_pilot=args.allow_initial_pilot,
+        approved_extra_ids=approved_canary_ids(Path(args.approved_new)) if args.approved_new else None,
     )
     print("AVITO_FEED_TRANSITION_REVIEW", json.dumps(result, ensure_ascii=False), flush=True)
     if args.report:
