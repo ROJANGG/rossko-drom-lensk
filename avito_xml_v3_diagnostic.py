@@ -164,11 +164,11 @@ def build_xml(rows):
         field("SparePartType", part_type)
         field("OEM", verified_oem(brand, article))
         field("Title", f"{label} {brand} {article} новый")
-        fit = row.get("Применимость РОССКО", "").strip()
+        # Supplier fitment is not independently verified for public ad text.
+        # Do not insert bulk vehicle keywords into Avito descriptions.
         desc = (f"{label}, производитель {brand}, артикул {article}.\n"
                 "Состояние: новое.\n"
-                + (f"Применимость (справочно): {fit}.\n" if fit else "")
-                + "Доступно к самовывозу в Иркутске.\n"
+                "Доступно к самовывозу в Иркутске.\n"
                 + f"Самовывоз: {ADDRESS}.\n"
                 + "Наличие перед приездом уточняйте, совместимость проверяйте по VIN.")
         field("Description", desc)

@@ -12,7 +12,8 @@ import requests
 from openpyxl import load_workbook
 
 from update_prices import (get_cell, load_config, normalize_key, parse_decimal,
-                           parse_stock_count, read_header_map, read_photo_map, sale_price, text)
+                           parse_stock_count, read_header_map, read_photo_map, text)
+from avito_pricing import progressive_price
 
 REQUIRED = ("Бренд", "Артикул", "Описание", "Цена, руб.", "Наличие", "Срок поставки, дн.")
 CITY_FIELDS = ("Город склада", "Склад отгрузки", "Филиал", "Город")
@@ -76,7 +77,7 @@ def select_rows(ws, config: dict, photos: dict[str, str] | None = None) -> list[
         seen.add(key)
         result.append({
             "Группа": group, "Бренд": brand, "Артикул": article,
-            "Описание РОССКО": desc, "Цена Авито": sale_price(price, config.get("pricing", {})),
+            "Описание РОССКО": desc, "Цена Авито": progressive_price(price, config.get("avito", {}).get("pricing")),
             "Остаток РОССКО": quantity, "Срок поставки": 0, "Город": "Иркутск", "Адрес выдачи": pickup_address,
             "Применимость": text(get_cell(row, headers, "Применимость")),
             "Каталожный номер": text(get_cell(row, headers, "Каталожный номер")),
