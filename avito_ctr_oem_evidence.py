@@ -65,7 +65,7 @@ def documented_ctr_oems(html: str, requested_article: str) -> list[str]:
     numbers = []
     for token in re.findall(r"(?<![A-Z0-9])[A-Z0-9][A-Z0-9-]{3,28}(?![A-Z0-9])", match.group(1).upper()):
         normalized = token.replace("-", "")
-        if 5 <= len(normalized) <= 25 and any(c.isdigit() for c in normalized):
+        if normalized != sku and 5 <= len(normalized) <= 25 and any(c.isdigit() for c in normalized):
             if normalized not in numbers:
                 numbers.append(normalized)
     return numbers[:12]
