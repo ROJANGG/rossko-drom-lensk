@@ -44,6 +44,30 @@ class SelectionTests(unittest.TestCase):
         self.assertEqual(next(x["Цена Авито"] for x in rows if x["Артикул"] == "123"), 1400)
         self.assertTrue(all(x["Город"] == "Иркутск" for x in rows))
 
+    def test_avito_price_tiers_are_applied_to_supplier_stock(self):
+        from avito_pricing import progressive_price
+        wb = Workbook()
+        ws = wb.active
+        ws.append(["Бренд", "Артикул", "Описание", "Цена, руб.",
+                   "Наличие", "Срок поставки, дн.", "Город склада"])
+        ws.append(["CTR", "CHEAP", "Диск тормозной", 3000, 2, 0, "Иркутск"])
+        ws.append(["CTR", "EXPENSIVE", "Диск тормозной", 30000, 2, 0, "Иркутск"])
+        pricing = {"round_up_to": 50, "tiers": [
+            {"up_to": 2000, "rate_percent": 37},
+            {"up_to": 5000, "rate_percent": 25},
+            {"up_to": 10000, "rate_percent": 18},
+            {"up_to": 20000, "rate_percent": 12},
+            {"up_to": None, "rate_percent": 9},
+        ]}
+        config = {"avito": {
+            "pickup_address": "г. Иркутск, ул. Каховского, д. 11/1",
+            "pricing": pricing,
+        }, "pricing": {"markup_percent": 37, "round_up_to": 50}}
+        result = {row["Артикул"]: row["Цена Авито"] for row in select_rows(ws, config)}
+        self.assertEqual(result, {"CHEAP": 4000, "EXPENSIVE": 34500})
+        self.assertEqual(result["EXPENSIVE"], progressive_price(30000, pricing))
+
+
     def test_pilot_sku_whitelist(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "pilot.csv"
