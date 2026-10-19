@@ -17,9 +17,11 @@ class PhotoMirrorTests(unittest.TestCase):
                     "Фото URL":"https://imgs.rossko.ru/AB/CD/NSII0000000000/test.jpg",
                     "Применимость РОССКО":"",
                 })
-        self.assertEqual(len(image_urls_for_pilot(build_xml(rows))),50)
-        with self.assertRaisesRegex(ValueError,"missing IDs"):
-            image_urls_for_pilot(build_xml(rows[:2]))
+        self.assertEqual(len(image_urls_for_pilot(build_xml(rows))), 50)
+        # Two locally unavailable items may disappear without inventing SKUs.
+        self.assertEqual(len(image_urls_for_pilot(build_xml(rows[:-2]))), 48)
+        with self.assertRaisesRegex(ValueError, "too many missing IDs"):
+            image_urls_for_pilot(build_xml(rows[:39]))
 
     def test_output_is_valid_jpeg(self):
         data=render_jpeg(Image.new("RGB",(640,480),"white"))

@@ -45,7 +45,7 @@ def parse_feed(xml_bytes: bytes) -> dict[str, int]:
 
 def analyze_transition(previous: bytes | None, proposed: bytes, *,
                        allow_initial_pilot: bool = False,
-                       max_removed: int = 1,
+                       max_removed: int = 2,
                        max_jump_pct: int = 40) -> dict:
     expected = expected_pilot_ids()
     newer = parse_feed(proposed)
@@ -68,6 +68,8 @@ def analyze_transition(previous: bytes | None, proposed: bytes, *,
         raise ValueError("Previous feed controlled an unexpected ID")
     removed = set(older) - set(newer)
     added = set(newer) - set(older)
+    # Genuine local sell-outs are permitted in small batches; a sudden large
+    # shrinkage could mean a wrong warehouse, broken input or missing CSV rows.
     if len(removed) > max_removed:
         raise ValueError(f"Unexpected removal of {len(removed)} SKUs, needs manual review")
     repriced = 0

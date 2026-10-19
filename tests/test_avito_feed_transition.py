@@ -44,10 +44,14 @@ class TransitionTests(unittest.TestCase):
         self.assertEqual(back["added"],1)
         self.assertEqual(back["removed"],0)
 
-    def test_more_than_one_removed_fails(self):
-        r=rows()
-        with self.assertRaisesRegex(ValueError,"Unexpected removal"):
-            analyze_transition(build_xml(r),build_xml(r[:2]))
+    def test_two_stock_removals_allowed_but_three_fails(self):
+        r = rows()
+        before = build_xml(r)
+        result = analyze_transition(before, build_xml(r[:-2]))
+        self.assertEqual(result["removed"], 2)
+        self.assertEqual(result["current_ads"], 48)
+        with self.assertRaisesRegex(ValueError, "Unexpected removal"):
+            analyze_transition(before, build_xml(r[:-3]))
 
     def test_two_new_skus_join_four_existing_without_id_changes(self):
         all_rows = rows()

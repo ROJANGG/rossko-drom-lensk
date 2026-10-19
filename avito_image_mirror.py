@@ -26,6 +26,9 @@ from avito_xml_v3_diagnostic import TEST_SKUS
 REPO = "ROJANGG/rossko-drom-lensk"
 IMAGE_BRANCH = "avito-irkutsk-feed"
 REMOTE_BASE = f"https://raw.githubusercontent.com/{REPO}/{IMAGE_BRANCH}/avito-images"
+# A feed may legitimately shrink when local Rossko stock disappears. Do not
+# mirror surprise new IDs or a drastically incomplete supplier snapshot.
+MIN_ACTIVE_PILOT = 40
 
 
 def pilot_ids() -> set[str]:
@@ -62,15 +65,18 @@ def image_urls_for_pilot(xml_bytes: bytes) -> dict[str, str]:
         if sku in items or not sku or not approved_url(url):
             raise ValueError(f"Invalid supplier image or repeated SKU: {sku}")
         items[sku] = url
-    if set(items) != pilot_ids():
-        raise ValueError(f"Refusing to mirror unexpected or missing IDs: {set(items)^pilot_ids()}")
+    allowed = pilot_ids()
+    if not set(items) <= allowed or len(items) < MIN_ACTIVE_PILOT:
+        raise ValueError(
+            f"Refusing to mirror unexpected or too many missing IDs: {set(items)^allowed}"
+        )
     return items
 
 
 def write_mirrors_and_rewrite(xml_bytes: bytes, photo_dir: Path) -> tuple[bytes, dict]:
     source_urls = image_urls_for_pilot(xml_bytes)
-    # Fail-closed: stage everything in temporary memory; write only after all
-    # four supplier JPEGs have been decoded and checked.
+    # Fail-closed: stage everything in memory; write only after all
+    # currently available SKU images have been decoded and checked.
     staging = {}
     for sku, url in source_urls.items():
         pic, status, _w, _h, _digest = retrieve_image(url)
@@ -94,7 +100,7 @@ def write_mirrors_and_rewrite(xml_bytes: bytes, photo_dir: Path) -> tuple[bytes,
     ET.indent(root, space="  ")
     output = ET.tostring(root, encoding="utf-8", xml_declaration=True)
     manifest = {sku: {"url":row["url"], "source":source_urls[sku]} for sku,row in staging.items()}
-    if len(manifest) != len(pilot_ids()):
+    if len(manifest) != len(source_urls):
         raise ValueError("Unexpected pilot manifest count")
     return output, manifest
 
