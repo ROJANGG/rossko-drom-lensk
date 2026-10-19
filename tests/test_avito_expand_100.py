@@ -44,6 +44,19 @@ class ExpansionTests(unittest.TestCase):
         found = new_candidates([restored, new_part], urls, set())
         self.assertEqual([r["Артикул"] for r in found[group]], ["J50031NW"])
 
+    def test_supplier_technical_drawings_are_rejected(self):
+        from avito_photo_50 import photo_candidates
+        group = GROUPS[1]
+        sketch1 = candidate(group, "Marshall", "M2000532")
+        sketch2 = candidate(group, "Marshall", "M2000583")
+        valid = candidate(group, "Marshall", "M2000400")
+        photos = {
+            f"marshall|{p['Артикул'].lower()}": p["Фото для проверки"]
+            for p in (sketch1, sketch2, valid)
+        }
+        found = photo_candidates([sketch1, sketch2, valid], photos)
+        self.assertEqual([r["Артикул"] for r in found[group]], ["M2000400"])
+
     def test_balanced_selection_and_fill_if_shortage(self):
         a, b = GROUPS
         groups = {
