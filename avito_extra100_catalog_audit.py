@@ -43,7 +43,7 @@ def image_risk(brand, article):
     return "MANUAL_PRODUCT_IMAGE_REVIEW_REQUIRED"
 
 def analyze_record(item, card_result):
-    key, brand, article, nomenclature, image, fitment, group, product = item
+    key, brand, article, nomenclature, image, fitment, group, product, raw_oem = item
     page, status = card_result
     path_match = bool(nomenclature and ("/" + nomenclature.casefold() + "/") in image.casefold())
     matched = bool(path_match and status in {"exact_image_present_on_supplier_card", "same_nomenclature_photo_folder"})
@@ -64,7 +64,7 @@ def analyze_record(item, card_result):
         "supplier_nomenclature": nomenclature,
         "photo_path_matches_nomenclature": "yes" if path_match else "no",
         "supplier_card_photo_status": status,
-        "raw_supplier_OEM_not_verified": "",
+        "raw_supplier_OEM_not_verified": raw_oem,
         "verified_original_OEM": "", "verified_OEM_source": "",
         "condition_risk": condition,
         "image_moderation_risk": image_risk(brand, article),
@@ -97,7 +97,7 @@ def main():
                 nomenclature=text(get_cell(row,h,"Номенклатура"))
                 image=photos.get(key,"")
                 fitment=text(get_cell(row,h,"Применимость"))
-                scan[key]=(key,brand,article,nomenclature,image,fitment,group,prod)
+                raw_oem=text(get_cell(row,h,"OEМ Номер"))\n                scan[key]=(key,brand,article,nomenclature,image,fitment,group,prod,raw_oem)
     finally:
         book.close()
     if set(scan)!=pinned:
@@ -105,7 +105,7 @@ def main():
     tasks=list(scan.values())
     # Supplier page verification in an isolated, bounded parallel read-only audit.
     with ThreadPoolExecutor(max_workers=8) as pool:
-        checks=list(pool.map(lambda t:get_matches(t[:7]),tasks))
+        checks=list(pool.map(lambda t:get_matches([t[:7]]),tasks))
     output = [analyze_record(t,check[1]) for t,check in zip(tasks,checks)]
     if len(output)!=100 or len({r["avito_id"] for r in output})!=100:
         raise RuntimeError("Unexpected ID count in 100 SKU audit")
