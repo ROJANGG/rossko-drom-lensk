@@ -1,0 +1,59 @@
+name: Avito second five CDN photo check (read only)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_second_five_cdn_check.yml']
+permissions:
+  contents: read
+jobs:
+  test-cdn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Check exact new public JPEGs on CDN against GitHub original
+        run: |
+          python - <<'PY'
+          import hashlib, io
+          from xml.etree import ElementTree as ET
+          from PIL import Image
+          import requests
+          from urllib.parse import urlsplit
+          expected={'GD0088','GD0092','GD0127','GD0135','GD0137'}
+          root=ET.parse('AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml').getroot()
+          matches={}
+          for ad in root.findall('Ad'):
+              title=ad.findtext('Title') or ''
+              for code in expected:
+                  if f'CTR {code} ' in title:
+                      matches[code]=ad.find('./Images/Image').get('url','')
+          if set(matches)!=expected:
+              raise ValueError('Missing new CTR item in public feed')
+          for code,url in sorted(matches.items()):
+              if not url.startswith('https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/'):
+                  raise ValueError('Bad new photo hosting: '+code)
+              name=url.rsplit('/',1)[-1]
+              raw='https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/'+name
+              fingerprints=[]
+              for provider,target in [('CDN',url),('RAW',raw)]:
+                  res=requests.get(target,timeout=(8,20),allow_redirects=False)
+                  print('AVITO_SECOND_FIVE_CDN',code,provider,res.status_code,len(res.content),res.headers.get('Content-Type'),flush=True)
+                  res.raise_for_status()
+                  if 'image/jpeg' not in res.headers.get('Content-Type','').lower() or not res.content.startswith(bytes([255,216,255])):
+                      raise ValueError('Missing JPEG '+code+' '+provider)
+                  img=Image.open(io.BytesIO(res.content))
+                  img.verify()
+                  if len(res.content)<1000:
+                      raise ValueError('Truncated JPEG '+code)
+                  fingerprints.append(hashlib.sha256(res.content).hexdigest())
+              if fingerprints[0]!=fingerprints[1]:
+                  raise ValueError('Photo checksum mismatch '+code)
+          print('AVITO_SECOND_FIVE_CDN_SUCCESS 5 photos / 10 direct jpeg downloads',flush=True)
+          PY
