@@ -89,6 +89,23 @@ class NextFiveTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,"Photo filename"):
             assemble(xml,rows,photos,noms,oems)
 
+    def test_small_confirmed_stock_removals_dont_block_remaining_prices(self):
+        from avito_feed_transition import analyze_transition
+        from avito_next_five_preflight import approved_next_five_ids
+        old=base_xml()
+        rows,photos,noms,oems=data()
+        published,_=assemble(old,rows,photos,noms,oems)
+        updated,report=assemble(old,rows[:-1],photos,noms,oems,
+                                allow_small_stock_removals=True)
+        self.assertEqual(report["new"],4)
+        self.assertEqual(report["omitted_for_local_stock"],["ctr|gd0123"])
+        transition=analyze_transition(published,updated,
+                                      approved_extra_ids=approved_next_five_ids())
+        self.assertEqual(transition["removed"],1)
+        self.assertEqual(transition["current_ads"],54)
+        with self.assertRaisesRegex(ValueError,"freshly verified"):
+            assemble(old,rows[:-3],photos,noms,oems,allow_small_stock_removals=True)
+
     def test_evidence_source_must_match_exact_ctr_article(self):
         with tempfile.TemporaryDirectory() as d:
             path=Path(d)/"evidence.csv"
