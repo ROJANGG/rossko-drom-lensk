@@ -13,6 +13,7 @@ from xml.etree import ElementTree as ET
 
 from avito_feed import stable_id
 from avito_expand_canary import approved_canary_ids
+from avito_next_five_preflight import approved_next_five_ids
 from avito_xml_v3_diagnostic import TEST_SKUS
 
 
@@ -49,14 +50,17 @@ def analyze_transition(previous: bytes | None, proposed: bytes, *,
                        max_removed: int = 2,
                        max_jump_pct: int = 40,
                        approved_extra_ids: set[str] | None = None) -> dict:
+    from avito_feed import stable_id
+    from avito_expand_canary import CANARY
+    permitted_extra = {stable_id("Тормозные диски", "CTR", article) for _, article in CANARY} | approved_next_five_ids()
+    if not (approved_extra_ids or set()) <= permitted_extra:
+        raise ValueError("Unexpected additional Avito ID outside fixed catalog")
     expected = expected_pilot_ids() | (approved_extra_ids or set())
-    if len(approved_extra_ids or set()) > 2:
-        raise ValueError("More than two additional Avito IDs are not approved")
     newer = parse_feed(proposed)
     if not newer:
         raise ValueError("Refuse empty feed: Avito might retain stale offers or remove all")
     if not set(newer) <= expected:
-        raise ValueError("Unexpected new listing ID outside approved 50+2 catalog")
+        raise ValueError("Unexpected new listing ID outside approved 50+2+5 catalog")
     if previous is None:
         if not allow_initial_pilot:
             raise ValueError("Initial publication must be explicitly enabled")
@@ -76,8 +80,8 @@ def analyze_transition(previous: bytes | None, proposed: bytes, *,
     # A source restock must not block a safe two-product expansion.
     newly_approved = added & (approved_extra_ids or set())
     returning_pilot = added & expected_pilot_ids()
-    if len(newly_approved) > 2 or len(returning_pilot) > 2:
-        raise ValueError("Unexpected addition of more than two new or returning SKUs")
+    if len(newly_approved) > (5 if approved_next_five_ids() & (approved_extra_ids or set()) else 2) or len(returning_pilot) > 2:
+        raise ValueError("Unexpected addition of too many new or returning SKUs")
     # Genuine local sell-outs are permitted in small batches; a sudden large
     # shrinkage could mean a wrong warehouse, broken input or missing CSV rows.
     if len(removed) > max_removed:
@@ -104,12 +108,14 @@ def main():
     p.add_argument("--allow-initial-pilot", action="store_true")
     p.add_argument("--report", default="")
     p.add_argument("--approved-new", default="")
+    p.add_argument("--approved-next-five", action="store_true")
     args = p.parse_args()
     result = analyze_transition(
         Path(args.previous).read_bytes() if args.previous else None,
         Path(args.candidate).read_bytes(),
         allow_initial_pilot=args.allow_initial_pilot,
-        approved_extra_ids=approved_canary_ids(Path(args.approved_new)) if args.approved_new else None,
+        approved_extra_ids=(approved_canary_ids(Path(args.approved_new)) if args.approved_new else set())
+        | (approved_next_five_ids() if args.approved_next_five else set()),
     )
     print("AVITO_FEED_TRANSITION_REVIEW", json.dumps(result, ensure_ascii=False), flush=True)
     if args.report:
