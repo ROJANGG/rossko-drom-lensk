@@ -81,7 +81,7 @@ def analyze_transition(previous: bytes | None, proposed: bytes, *,
     # A source restock must not block a safe two-product expansion.
     newly_approved = added & (approved_extra_ids or set())
     returning_pilot = added & expected_pilot_ids()
-    if len(newly_approved) > (5 if approved_next_five_ids() & (approved_extra_ids or set()) else 2) or len(returning_pilot) > 2:
+    if len(newly_approved) > (5 if (approved_next_five_ids() | approved_second_five_ids()) & (approved_extra_ids or set()) else 2) or len(returning_pilot) > 2:
         raise ValueError("Unexpected addition of too many new or returning SKUs")
     # Genuine local sell-outs are permitted in small batches; a sudden large
     # shrinkage could mean a wrong warehouse, broken input or missing CSV rows.
