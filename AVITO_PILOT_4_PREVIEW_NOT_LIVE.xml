@@ -415,29 +415,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>irk-f9ebf5efcdcfbc8348cadd</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Рулевое управление</SparePartType>
-    <OEM>4420060012</OEM>
-    <Title>Рулевая рейка Krauf HNQ2025GQ новый</Title>
-    <Description>Рулевая рейка, производитель Krauf, артикул HNQ2025GQ.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>29000</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>Krauf</Brand>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f9ebf5efcdcfbc8348cadd-b5f0d4c523c5.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>irk-fefa241908a1a220c26ec8</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -1125,6 +1102,121 @@
     <Brand>CTR</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b342dbe6c18076cf82aa71-8bfa9a02d08d.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-d51adeeb48bb9ca91b9e40</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>MR205215</OEM>
+    <Title>Тормозной диск CTR GD0031 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0031.
+Состояние: новое.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>5550</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d51adeeb48bb9ca91b9e40-1faf610546d8.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-fc38e5696a2a328f75177d</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>1610623080</OEM>
+    <Title>Тормозной диск CTR GD0068 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0068.
+Состояние: новое.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>6000</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fc38e5696a2a328f75177d-c0205f2aff7c.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-e326dfd4ae85f0e138175e</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>5561180J01</OEM>
+    <Title>Тормозной диск CTR GD0103 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0103.
+Состояние: новое.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>4550</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e326dfd4ae85f0e138175e-f44129411978.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-3ca30f01b857295a2e9290</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>4243105060</OEM>
+    <Title>Тормозной диск CTR GD0109 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0109.
+Состояние: новое.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>3750</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3ca30f01b857295a2e9290-942823963584.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>irk-01fccb1dfa660147ad0d39</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Тормозная система</SparePartType>
+    <OEM>C00004246W1</OEM>
+    <Title>Тормозной диск CTR GD0123 новый</Title>
+    <Description>Тормозной диск, производитель CTR, артикул GD0123.
+Состояние: новое.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>4250</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>CTR</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-01fccb1dfa660147ad0d39-7ed8b1b90761.jpg" />
     </Images>
   </Ad>
 </Ads>
