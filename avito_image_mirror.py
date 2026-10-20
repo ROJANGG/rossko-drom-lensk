@@ -87,7 +87,7 @@ def image_urls_for_pilot(xml_bytes: bytes, *, extra_ids: set[str] | None = None)
         items[sku] = url
     from avito_feed import stable_id
     from avito_expand_canary import CANARY
-    permitted_extra = {stable_id("Тормозные диски", "CTR", article) for _, article in CANARY} | approved_next_five_ids() | approved_second_five_ids()
+    permitted_extra = {stable_id("Тормозные диски", "CTR", article) for _, article in CANARY} | approved_next_five_ids() | approved_second_five_ids() | approved_third_ten_ids()
     if not (extra_ids or set()) <= permitted_extra:
         raise ValueError("Unexpected additional Avito ID")
     allowed = pilot_ids() | (extra_ids or set())
