@@ -129,7 +129,7 @@ class SecondFiveTests(unittest.TestCase):
         updated,report=assemble(old,rows[:-1],photos,noms,oems,
                                 allow_small_stock_removals=True)
         self.assertEqual(report["new"],4)
-        self.assertEqual(report["omitted_for_local_stock"],["ctr|gd0123"])
+        self.assertEqual(report["omitted_for_local_stock"],["ctr|gd0137"])
         transition=analyze_transition(published,updated,
                                       approved_extra_ids=approved_second_five_ids())
         self.assertEqual(transition["removed"],1)
