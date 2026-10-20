@@ -1,8 +1,8 @@
-name: Avito Irkutsk - four daily 50+2 controlled XML refresh
+name: Avito Irkutsk - four daily 50+2+5 controlled XML refresh
 
 # One independent workflow in main. Drom workflow/code is untouched.
 # Customer-facing descriptions were updated on 2026-10-16 to omit supplier names.
-# Two separately documented CTR extras are checked on every run; all base IDs preserved.
+# First two accepted CTR discs and five additional manufacturer-OEM CTR discs are checked every run; base IDs are preserved.
 # 23:17, 03:17, 07:17, 11:17 UTC = 07:17, 11:17, 15:17, 19:17 Irkutsk (UTC+8).
 # Avito Pro already reads the existing stable XML URL; a push updates real listings.
 on:
@@ -55,15 +55,23 @@ jobs:
           python avito_expand_canary.py \
             --pilot-xml output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
             --out output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml
-      - name: Mirror fifty supplier photos into independent JPEG links
+      - name: Add five more verified CTR discs from fresh Irkutsk supplier stock
+        working-directory: generator
+        run: |
+          python avito_next_five_preflight.py \
+            --base-xml output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml \
+            --out output/avito_next_five_live \
+            --live-candidate
+      - name: Mirror supplier photos for strictly allowlisted 50 plus 2 plus 5
         working-directory: generator
         run: |
           python avito_image_mirror.py \
-            --candidate output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml \
+            --candidate output/avito_next_five_live/AVITO_NEXT_FIVE_LIVE_CANDIDATE.xml \
             --image-dir ../preview/avito-images \
             --output output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
             --manifest output/avito_price_stock_staging/avito_photo_manifest.json \
-            --approved-new input/avito_canary_2_new.csv
+            --approved-new input/avito_canary_2_new.csv \
+            --approved-next-five
       - name: Compare candidate against current public XML - fail closed
         working-directory: generator
         run: |
@@ -71,7 +79,8 @@ jobs:
             --previous ../preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
             --candidate output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
             --report output/avito_price_stock_staging/transition_precheck.json \
-            --approved-new input/avito_canary_2_new.csv
+            --approved-new input/avito_canary_2_new.csv \
+            --approved-next-five
       - name: Replace ONLY the isolated pilot XML when validated
         env:
           TARGET_BRANCH: avito-irkutsk-feed
@@ -86,7 +95,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No price or stock change: public XML unchanged"
           else
-            git commit -m "Avito pilot: daily fresh Rossko price and local stock"
+            git commit -m "Avito 55-SKU feed: fresh Rossko price and local stock"
             git push origin "HEAD:${TARGET_BRANCH}"
           fi
       - name: Save short-lived private audit (not a public auto-publisher)
