@@ -23,6 +23,11 @@ EXTRA_ARTICLES = ("GD0031", "GD0068", "GD0103", "GD0109", "GD0123")
 EXTRA = {("ctr", article.casefold()) for article in EXTRA_ARTICLES}
 GROUP = "Тормозные диски"
 
+def approved_next_five_ids() -> set[str]:
+    """Fixed, explicit stable IDs allowed for the next five CTR items only."""
+    return {stable_id(GROUP, "CTR", article) for article in EXTRA_ARTICLES}
+
+
 
 def sku(brand, article):
     return normalize_key(brand), normalize_key(article)
