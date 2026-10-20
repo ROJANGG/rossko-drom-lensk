@@ -78,6 +78,37 @@ class SecondFiveTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,"Unexpected additional"):
             analyze_transition(old,proposed,approved_extra_ids=approved_second_five_ids()|{other})
 
+    def test_existing_first_five_survive_second_five_expansion(self):
+        from avito_next_five_preflight import assemble as first_assemble, EXTRA_ARTICLES as first_articles, approved_next_five_ids
+        from avito_second_five_preflight import approved_second_five_ids
+        from avito_feed_transition import analyze_transition
+        from avito_image_mirror import image_urls_for_pilot, public_photo_url
+        first_products=[]
+        first_photos={}
+        first_noms={}
+        first_oems={}
+        for i, article in enumerate(first_articles):
+            nom=f"NSII_FIRST_{i:04d}"
+            first_products.append({"Группа":GROUP, "Бренд":"CTR", "Артикул":article,
+                                   "Остаток РОССКО":3, "Цена Авито":5000+i*50})
+            first_photos["ctr|"+article.casefold()]=f"https://imgs.rossko.ru/12/34/{nom}/1.jpg"
+            first_noms[("ctr",article.casefold())]=nom
+            first_oems["ctr|"+article.casefold()]=str(100000+i)
+        before,_=first_assemble(base_xml(),first_products,first_photos,first_noms,first_oems)
+        rows, photos, noms, oems=data()
+        proposed, report=assemble(before, rows, photos, noms, oems, image_check=lambda url:True)
+        self.assertEqual(report["previous"],55)
+        self.assertEqual(report["total"],60)
+        self.assertEqual(report["new"],5)
+        allowed=approved_second_five_ids()|approved_next_five_ids()
+        self.assertEqual(len(allowed),10)
+        transition=analyze_transition(before,proposed,approved_extra_ids=allowed)
+        self.assertEqual(transition["added"],5)
+        self.assertEqual(transition["removed"],0)
+        self.assertEqual(len(image_urls_for_pilot(proposed,extra_ids=allowed)),60)
+        trial_id=stable_id(GROUP,"CTR","GD0088")
+        self.assertTrue(public_photo_url(trial_id,"example.jpg").startswith("https://cdn.jsdelivr.net/"))
+
     def test_missing_stock_bad_photo_duplicate_id_fail_closed(self):
         xml=base_xml()
         rows,photos,noms,oems=data()
