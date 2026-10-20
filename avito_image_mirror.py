@@ -28,6 +28,22 @@ from avito_xml_v3_diagnostic import TEST_SKUS
 REPO = "ROJANGG/rossko-drom-lensk"
 IMAGE_BRANCH = "avito-irkutsk-feed"
 REMOTE_BASE = f"https://raw.githubusercontent.com/{REPO}/{IMAGE_BRANCH}/avito-images"
+# Avito failed to reach the raw.githubusercontent.com IP for GD0123 on
+# 2026-10-20. Use the independently tested jsDelivr HTTPS CDN for this
+# particular JPEG without changing any other ad or its permanent Id.
+CDN_BASE = f"https://cdn.jsdelivr.net/gh/{REPO}@{IMAGE_BRANCH}/avito-images"
+PHOTO_CDN_PILOT_IDS = {stable_id("Тормозные диски", "CTR", "GD0123")}
+
+
+def public_photo_url(sku: str, filename: str) -> str:
+    if sku not in pilot_ids() | approved_next_five_ids() | {
+        stable_id("Тормозные диски", "CTR", "GD0037"),
+        stable_id("Тормозные диски", "CTR", "GD0053"),
+    }:
+        raise ValueError("Unexpected Avito image ID: " + sku)
+    host = CDN_BASE if sku in PHOTO_CDN_PILOT_IDS else REMOTE_BASE
+    return f"{host}/{filename}"
+
 # A feed may legitimately shrink when local Rossko stock disappears. Do not
 # mirror surprise new IDs or a drastically incomplete supplier snapshot.
 MIN_ACTIVE_PILOT = 40
@@ -92,7 +108,7 @@ def write_mirrors_and_rewrite(xml_bytes: bytes, photo_dir: Path, *, extra_ids: s
         image_bytes = render_jpeg(pic)
         fingerprint = hashlib.sha256(image_bytes).hexdigest()[:12]
         fname = f"{sku}-{fingerprint}.jpg"
-        staging[sku] = {"filename": fname, "bytes": image_bytes, "url": f"{REMOTE_BASE}/{fname}"}
+        staging[sku] = {"filename": fname, "bytes": image_bytes, "url": public_photo_url(sku, fname)}
     photo_dir.mkdir(parents=True, exist_ok=True)
     for item in staging.values():
         target = photo_dir / item["filename"]
