@@ -56,7 +56,7 @@ jobs:
                   print('AVITO_PHOTO_HOST_PROBE',part,host,'HTTP',response.status_code,
                         'seconds',elapsed,'bytes',len(response.content),'MIME',content_type,flush=True)
                   response.raise_for_status()
-                  if 'image/jpeg' not in content_type.lower() or not response.content.startswith(b'\\xff\\xd8\\xff'):
+                  if 'image/jpeg' not in content_type.lower() or not response.content.startswith(b'\xff\xd8\xff'):
                       raise SystemExit('Host did not serve direct JPEG for '+part+' '+host)
                   img=Image.open(io.BytesIO(response.content))
                   img.verify()
