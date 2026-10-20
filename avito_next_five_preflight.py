@@ -61,20 +61,23 @@ def read_evidence(path: Path) -> dict[str, str]:
 
 def assemble(base_xml: bytes, products: list[dict], photos: dict[str, str],
              nomenclatures: dict[tuple[str, str], str], oems: dict[str, str],
-             image_check=None) -> tuple[bytes, dict]:
+             image_check=None, *, allow_small_stock_removals: bool = False) -> tuple[bytes, dict]:
     root = ET.fromstring(base_xml)
     if root.tag != "Ads" or root.get("formatVersion") != "3":
         raise ValueError("Previous feed not Avito XML v3")
     old_ads = root.findall("Ad")
     ids = [x.findtext("Id") for x in old_ads]
-    if len(ids) < 48 or len(set(ids)) != len(ids) or any(not s for s in ids):
+    if len(ids) < 40 or len(set(ids)) != len(ids) or any(not s for s in ids):
         raise ValueError("Existing catalog incomplete or duplicated; no next batch")
     existing = set(ids)
     matches = {sku(p["Бренд"], p["Артикул"]):p for p in products if sku(p["Бренд"],p["Артикул"]) in EXTRA}
-    if set(matches) != EXTRA:
+    missing = sorted(EXTRA - set(matches))
+    if missing and (not allow_small_stock_removals or len(missing) > 2):
         raise ValueError("Some five CTR SKUs are not in freshly verified Irkutsk stock")
     new = []
     for brand, article in sorted(EXTRA):
+        if (brand,article) not in matches:
+            continue  # Local zero stock: omit this previously approved ad on refresh.
         p = matches[(brand,article)]
         catalog_number = nomenclatures.get((brand,article), "")
         link = photos.get(brand + "|" + article, "")
@@ -104,6 +107,7 @@ def assemble(base_xml: bytes, products: list[dict], photos: dict[str, str],
     return ET.tostring(root, encoding="utf-8", xml_declaration=True), {
         "previous":len(old_ads), "new":len(new), "total":len(root.findall("Ad")),
         "added_ids":sorted(set(existing)-set(ids)),
+        "omitted_for_local_stock":["|".join(k) for k in missing],
         "new_prices_rub":{p["Артикул"]:p["Цена ₽"] for p in new},
     }
 
@@ -115,6 +119,7 @@ def main():
     parser.add_argument("--config",default="config.json")
     parser.add_argument("--evidence",default="input/avito_ctr_33_oem_REVIEW.csv")
     parser.add_argument("--live-candidate",action="store_true",help="Stage approved release; still does NOT upload by itself")
+    parser.add_argument("--allow-small-stock-removals",action="store_true",help="On recurring refresh only, omit up to 2 unavailable CTR SKUs")
     args=parser.parse_args()
     cfg_path=Path(args.config).resolve()
     project=cfg_path.parent
@@ -139,7 +144,8 @@ def main():
         image,status,width,height,digest=retrieve_image(url)
         return image is not None and status=="available_unverified" and bool(digest)
 
-    xml, report=assemble(Path(args.base_xml).read_bytes(),items,photos,nomenclatures,oems,image_check=verify_image)
+    xml, report=assemble(Path(args.base_xml).read_bytes(),items,photos,nomenclatures,oems,
+                         image_check=verify_image,allow_small_stock_removals=args.allow_small_stock_removals)
     target=project/args.out
     target.mkdir(parents=True,exist_ok=True)
     xml_name="AVITO_NEXT_FIVE_LIVE_CANDIDATE.xml" if args.live_candidate else "AVITO_NEXT_FIVE_REVIEW_NOT_FOR_UPLOAD.xml"
