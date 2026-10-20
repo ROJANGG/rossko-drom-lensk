@@ -21,6 +21,7 @@ from PIL import ImageOps
 
 from avito_feed import stable_id
 from avito_expand_canary import approved_canary_ids
+from avito_next_five_preflight import approved_next_five_ids
 from avito_photo_check import approved_url, retrieve_image
 from avito_xml_v3_diagnostic import TEST_SKUS
 
@@ -66,9 +67,12 @@ def image_urls_for_pilot(xml_bytes: bytes, *, extra_ids: set[str] | None = None)
         if sku in items or not sku or not approved_url(url):
             raise ValueError(f"Invalid supplier image or repeated SKU: {sku}")
         items[sku] = url
+    from avito_feed import stable_id
+    from avito_expand_canary import CANARY
+    permitted_extra = {stable_id("Тормозные диски", "CTR", article) for _, article in CANARY} | approved_next_five_ids()
+    if not (extra_ids or set()) <= permitted_extra:
+        raise ValueError("Unexpected additional Avito ID")
     allowed = pilot_ids() | (extra_ids or set())
-    if len(extra_ids or set()) > 2:
-        raise ValueError("Too many additional Avito IDs")
     if not set(items) <= allowed or len(items) < MIN_ACTIVE_PILOT:
         raise ValueError(
             f"Refusing to mirror unexpected or too many missing IDs: {set(items)^allowed}"
@@ -115,10 +119,12 @@ def main():
     p.add_argument("--output", required=True)
     p.add_argument("--manifest", default="")
     p.add_argument("--approved-new", default="")
+    p.add_argument("--approved-next-five", action="store_true")
     a=p.parse_args()
     content, manifest=write_mirrors_and_rewrite(
         Path(a.candidate).read_bytes(),Path(a.image_dir),
-        extra_ids=approved_canary_ids(Path(a.approved_new)) if a.approved_new else None)
+        extra_ids=(approved_canary_ids(Path(a.approved_new)) if a.approved_new else set())
+        | (approved_next_five_ids() if a.approved_next_five else set()))
     target=Path(a.output)
     target.parent.mkdir(parents=True,exist_ok=True)
     target.write_bytes(content)
