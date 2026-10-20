@@ -61,7 +61,8 @@ jobs:
           python avito_next_five_preflight.py \
             --base-xml output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml \
             --out output/avito_next_five_live \
-            --live-candidate
+            --live-candidate \
+            --allow-small-stock-removals
       - name: Mirror supplier photos for strictly allowlisted 50 plus 2 plus 5
         working-directory: generator
         run: |
