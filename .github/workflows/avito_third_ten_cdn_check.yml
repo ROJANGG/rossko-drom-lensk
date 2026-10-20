@@ -1,0 +1,69 @@
+name: Avito next ten CTR CDN photo check (read only)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_third_ten_cdn_check.yml']
+permissions:
+  contents: read
+jobs:
+  test-cdn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Check exact new public JPEGs on CDN against GitHub original
+        run: |
+          python - <<'PY'
+          import hashlib, io, time
+          from xml.etree import ElementTree as ET
+          from PIL import Image
+          import requests
+          from urllib.parse import urlsplit
+          expected={'GD0058','GD0149','GD0153','GD0155','GD0157','GD0167','GD0170','GD0172','GD0175','GD0177'}
+          root=ET.parse('AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml').getroot()
+          matches={}
+          for ad in root.findall('Ad'):
+              title=ad.findtext('Title') or ''
+              for code in expected:
+                  if f'CTR {code} ' in title:
+                      matches[code]=ad.find('./Images/Image').get('url','')
+          if set(matches)!=expected:
+              raise ValueError('Missing new CTR item in public feed')
+          for code,url in sorted(matches.items()):
+              if not url.startswith('https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/'):
+                  raise ValueError('Bad new photo hosting: '+code)
+              name=url.rsplit('/',1)[-1]
+              raw='https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/'+name
+              fingerprints=[]
+              for provider,target in [('CDN',url),('RAW',raw)]:
+                  for attempt in range(1,4):
+                      try:
+                          res=requests.get(target,timeout=(8,30),allow_redirects=False)
+                          if res.status_code in (429,500,502,503,504):
+                              raise requests.HTTPError('Temporary host status '+str(res.status_code))
+                          res.raise_for_status()
+                          break
+                      except requests.RequestException as ex:
+                          print('AVITO_CDN_RETRY',code,provider,attempt,str(ex)[:140],flush=True)
+                          if attempt == 3:
+                              raise
+                          time.sleep(attempt*2)
+                  print('AVITO_THIRD_TEN_CDN',code,provider,res.status_code,len(res.content),res.headers.get('Content-Type'),flush=True)
+                  if 'image/jpeg' not in res.headers.get('Content-Type','').lower() or not res.content.startswith(bytes([255,216,255])):
+                      raise ValueError('Missing JPEG '+code+' '+provider)
+                  img=Image.open(io.BytesIO(res.content))
+                  img.verify()
+                  if len(res.content)<1000:
+                      raise ValueError('Truncated JPEG '+code)
+                  fingerprints.append(hashlib.sha256(res.content).hexdigest())
+              if fingerprints[0]!=fingerprints[1]:
+                  raise ValueError('Photo checksum mismatch '+code)
+          print('AVITO_THIRD_TEN_CDN_SUCCESS 10 photos / 20 direct jpeg downloads',flush=True)
+          PY
