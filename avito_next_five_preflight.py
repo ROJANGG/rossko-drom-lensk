@@ -114,6 +114,7 @@ def main():
     parser.add_argument("--out",default="output/avito_next_five_review")
     parser.add_argument("--config",default="config.json")
     parser.add_argument("--evidence",default="input/avito_ctr_33_oem_REVIEW.csv")
+    parser.add_argument("--live-candidate",action="store_true",help="Stage approved release; still does NOT upload by itself")
     args=parser.parse_args()
     cfg_path=Path(args.config).resolve()
     project=cfg_path.parent
@@ -141,10 +142,11 @@ def main():
     xml, report=assemble(Path(args.base_xml).read_bytes(),items,photos,nomenclatures,oems,image_check=verify_image)
     target=project/args.out
     target.mkdir(parents=True,exist_ok=True)
-    (target/"AVITO_NEXT_FIVE_REVIEW_NOT_FOR_UPLOAD.xml").write_bytes(xml)
+    xml_name="AVITO_NEXT_FIVE_LIVE_CANDIDATE.xml" if args.live_candidate else "AVITO_NEXT_FIVE_REVIEW_NOT_FOR_UPLOAD.xml"
+    (target/xml_name).write_bytes(xml)
     report["generated_at_utc"]=datetime.now(timezone.utc).isoformat()
-    report["state"]="PRIVATE_REVIEW_ONLY_NO_AVITO_PUBLICATION"
-    report["needs_avito_moderation_report"]=True
+    report["state"]="LIVE_CANDIDATE_AWAITING_WORKFLOW_SAFETY_CHECKS" if args.live_candidate else "PRIVATE_REVIEW_ONLY_NO_AVITO_PUBLICATION"
+    report["needs_avito_moderation_report"]=not args.live_candidate
     (target/"summary.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("AVITO_NEXT_FIVE_PREFLIGHT",json.dumps(report,ensure_ascii=False),flush=True)
 
