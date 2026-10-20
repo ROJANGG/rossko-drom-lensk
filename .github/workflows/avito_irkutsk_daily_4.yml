@@ -3,6 +3,7 @@ name: Avito Irkutsk - four daily 50+2+5 controlled XML refresh
 # One independent workflow in main. Drom workflow/code is untouched.
 # Customer-facing descriptions were updated on 2026-10-16 to omit supplier names.
 # First two accepted CTR discs and five additional manufacturer-OEM CTR discs are checked every run; base IDs are preserved.
+# 2026-10-20: GD0123 JPEG goes through tested jsDelivr CDN after Avito timeout on GitHub raw; all IDs unchanged.
 # 23:17, 03:17, 07:17, 11:17 UTC = 07:17, 11:17, 15:17, 19:17 Irkutsk (UTC+8).
 # Avito Pro already reads the existing stable XML URL; a push updates real listings.
 on:
