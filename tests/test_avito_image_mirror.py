@@ -3,7 +3,8 @@ import unittest
 from xml.etree import ElementTree as ET
 from PIL import Image
 from avito_xml_v3_diagnostic import build_xml, TEST_SKUS
-from avito_image_mirror import image_urls_for_pilot, render_jpeg
+from avito_image_mirror import image_urls_for_pilot, render_jpeg, public_photo_url
+from avito_feed import stable_id
 
 
 class PhotoMirrorTests(unittest.TestCase):
@@ -22,6 +23,18 @@ class PhotoMirrorTests(unittest.TestCase):
         self.assertEqual(len(image_urls_for_pilot(build_xml(rows[:-2]))), 48)
         with self.assertRaisesRegex(ValueError, "too many missing IDs"):
             image_urls_for_pilot(build_xml(rows[:39]))
+
+    def test_exactly_gd0123_uses_alternative_cdn_without_changing_id(self):
+        gd0123 = stable_id("Тормозные диски", "CTR", "GD0123")
+        gd0109 = stable_id("Тормозные диски", "CTR", "GD0109")
+        same_name = "irktest-abcdef012345.jpg"
+        a = public_photo_url(gd0123, same_name)
+        b = public_photo_url(gd0109, same_name)
+        self.assertTrue(a.startswith("https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/"))
+        self.assertTrue(b.startswith("https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/"))
+        self.assertEqual(a.split("/")[-1], b.split("/")[-1])
+        with self.assertRaisesRegex(ValueError, "Unexpected Avito image ID"):
+            public_photo_url("untrusted-new-ID", same_name)
 
     def test_output_is_valid_jpeg(self):
         data=render_jpeg(Image.new("RGB",(640,480),"white"))
