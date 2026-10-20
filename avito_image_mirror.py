@@ -22,6 +22,7 @@ from PIL import ImageOps
 from avito_feed import stable_id
 from avito_expand_canary import approved_canary_ids
 from avito_next_five_preflight import approved_next_five_ids
+from avito_second_five_preflight import approved_second_five_ids
 from avito_photo_check import approved_url, retrieve_image
 from avito_xml_v3_diagnostic import TEST_SKUS
 
@@ -32,11 +33,11 @@ REMOTE_BASE = f"https://raw.githubusercontent.com/{REPO}/{IMAGE_BRANCH}/avito-im
 # 2026-10-20. Use the independently tested jsDelivr HTTPS CDN for this
 # particular JPEG without changing any other ad or its permanent Id.
 CDN_BASE = f"https://cdn.jsdelivr.net/gh/{REPO}@{IMAGE_BRANCH}/avito-images"
-PHOTO_CDN_PILOT_IDS = {stable_id("Тормозные диски", "CTR", "GD0123")}
+PHOTO_CDN_PILOT_IDS = {stable_id("Тормозные диски", "CTR", "GD0123")} | approved_second_five_ids()
 
 
 def public_photo_url(sku: str, filename: str) -> str:
-    if sku not in pilot_ids() | approved_next_five_ids() | {
+    if sku not in pilot_ids() | approved_next_five_ids() | approved_second_five_ids() | {
         stable_id("Тормозные диски", "CTR", "GD0037"),
         stable_id("Тормозные диски", "CTR", "GD0053"),
     }:
@@ -85,7 +86,7 @@ def image_urls_for_pilot(xml_bytes: bytes, *, extra_ids: set[str] | None = None)
         items[sku] = url
     from avito_feed import stable_id
     from avito_expand_canary import CANARY
-    permitted_extra = {stable_id("Тормозные диски", "CTR", article) for _, article in CANARY} | approved_next_five_ids()
+    permitted_extra = {stable_id("Тормозные диски", "CTR", article) for _, article in CANARY} | approved_next_five_ids() | approved_second_five_ids()
     if not (extra_ids or set()) <= permitted_extra:
         raise ValueError("Unexpected additional Avito ID")
     allowed = pilot_ids() | (extra_ids or set())
@@ -136,11 +137,13 @@ def main():
     p.add_argument("--manifest", default="")
     p.add_argument("--approved-new", default="")
     p.add_argument("--approved-next-five", action="store_true")
+    p.add_argument("--approved-second-five", action="store_true")
     a=p.parse_args()
     content, manifest=write_mirrors_and_rewrite(
         Path(a.candidate).read_bytes(),Path(a.image_dir),
         extra_ids=(approved_canary_ids(Path(a.approved_new)) if a.approved_new else set())
-        | (approved_next_five_ids() if a.approved_next_five else set()))
+        | (approved_next_five_ids() if a.approved_next_five else set())
+        | (approved_second_five_ids() if a.approved_second_five else set()))
     target=Path(a.output)
     target.parent.mkdir(parents=True,exist_ok=True)
     target.write_bytes(content)
