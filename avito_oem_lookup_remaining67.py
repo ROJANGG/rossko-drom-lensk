@@ -116,18 +116,23 @@ def pairs_from_manufacturer_html(html: str, brand: str, article: str):
     for i,value in enumerate(strings):
         s = re.sub(r"\s+", " ", value.strip())
         maker,code = None,None
-        if i and s.upper() in CAR_MAKERS:
-            maker,code=s.upper(),strings[i-1]
-        elif i+1<len(strings) and strings[i+1].strip().upper() in CAR_MAKERS:
-            maker,code=strings[i+1].strip().upper(),s
-        else:
-            m=FORWARD_PATTERN.fullmatch(s)
-            if m:
-                maker,code=m.group(1).upper(),m.group(2)
+        if brand == "NGN":
+            # NGN lists part number first, then brand (e.g. "1J0 615 301 D", "VAG").
+            if i and s.upper() in CAR_MAKERS:
+                maker,code=s.upper(),strings[i-1]
             else:
                 m=REVERSE_PATTERN.fullmatch(s)
                 if m:
                     maker,code=m.group(2).upper(),m.group(1)
+        else:
+            # Marshall lists OEM manufacturer first, then OE part code.
+            # Never use previous token: that can be a BENDIX/TRW aftermarket code.
+            if s.upper() in CAR_MAKERS and i+1 < len(strings):
+                maker,code=s.upper(),strings[i+1]
+            else:
+                m=FORWARD_PATTERN.fullmatch(s)
+                if m:
+                    maker,code=m.group(1).upper(),m.group(2)
         if maker and code:
             norm=normalized_oem(code,article)
             if norm and (maker,norm) not in found:
