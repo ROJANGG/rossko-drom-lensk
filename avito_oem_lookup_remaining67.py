@@ -15,7 +15,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 import requests
-from bs4 import BeautifulSoup
+from html.parser import HTMLParser
 from update_prices import normalize_key
 
 ROOT = Path(__file__).resolve().parent
@@ -50,24 +50,52 @@ def normalized_oem(value: str, own_part: str) -> str:
     return cleaned
 
 
+class TextChunks(HTMLParser):
+    """Extract HTML text chunks while omitting scripts, footer, and style."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.chunks=[]
+        self.headline=[]
+        self.skipped=0
+        self.in_h1=0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style", "noscript", "footer"):
+            self.skipped+=1
+        if tag=="h1":
+            self.in_h1+=1
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style", "noscript", "footer") and self.skipped:
+            self.skipped-=1
+        if tag=="h1" and self.in_h1:
+            self.in_h1-=1
+
+    def handle_data(self, data):
+        chunk=" ".join(data.split())
+        if not chunk or self.skipped:
+            return
+        self.chunks.append(chunk)
+        if self.in_h1:
+            self.headline.append(chunk)
+
+
 def pairs_from_manufacturer_html(html: str, brand: str, article: str):
-    soup = BeautifulSoup(html, "html.parser")
-    for unwanted in soup(["script", "style", "noscript", "footer"]):
-        unwanted.decompose()
-    title = soup.find("h1")
-    headline = title.get_text(" ", strip=True) if title else ""
+    parsed=TextChunks()
+    parsed.feed(html)
+    headline=" ".join(parsed.headline)
     if brand == "NGN":
         # The supplier SKU omits hyphen, official NGN uses 36-1431.
         expected = article[:2] + "-" + article[2:]
         if not re.search(r"\bNGN\s+" + re.escape(expected) + r"\b", headline, re.I):
             return [], "article_mismatch"
     elif brand == "Marshall":
-        page_text = soup.get_text(" ", strip=True)
+        page_text = " ".join(parsed.chunks)
         if not re.search(r"\bАртикул\s*:\s*" + re.escape(article) + r"\b", page_text, re.I):
             return [], "article_mismatch"
     else:
         return [], "unsupported_brand"
-    snippets = list(soup.stripped_strings)
+    snippets = parsed.chunks
     if brand == "NGN":
         start = next((i+1 for i,v in enumerate(snippets) if v.strip().casefold()=="analogs"), None)
         if start is None:
