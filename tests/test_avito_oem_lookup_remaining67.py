@@ -29,6 +29,14 @@ class MakerOEMEvidenceTests(unittest.TestCase):
         self.assertEqual(pairs_from_manufacturer_html(html,"Marshall","M2000401")[1],"article_mismatch")
         self.assertEqual(manufacturer_url("Marshall","M2000400"),"https://cars.marshall.parts/product/m2000400/")
 
+    def test_year_ranges_are_never_oem_even_after_maker_name(self):
+        html="""<h1>Brake disc M2000400</h1><div>Артикул: M2000400</div>
+        <div>FORD</div><div>2003 - 2010</div>
+        <div>VOLVO 2006 - 2013</div>
+        <div>FORD 1223663</div><div>Volvo 30666800</div><div>Описание</div>"""
+        found,status=pairs_from_manufacturer_html(html,"Marshall","M2000400")
+        self.assertEqual(found,[("FORD","1223663"),("VOLVO","30666800")])
+
     def test_never_turn_aftermarket_code_into_original(self):
         self.assertEqual(normalized_oem("361431","361431"),"")
         self.assertEqual(normalized_oem("M2000400","M2000400"),"")
