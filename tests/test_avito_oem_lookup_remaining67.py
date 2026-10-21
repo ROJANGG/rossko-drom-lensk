@@ -44,6 +44,16 @@ class MakerOEMEvidenceTests(unittest.TestCase):
         actual,_=pairs_from_manufacturer_html(html,"Marshall","M2000400")
         self.assertEqual(actual,[("FORD","1223663"),("VOLVO","30666800")])
 
+    def test_joint_car_manufacturer_labels_in_ngn_and_marshall(self):
+        ngn_html="""<h1>NGN 36-1286</h1><div>Analogs</div>
+        <div>51712-25010</div><div>HYUNDAI/KIA</div><div>Model</div>"""
+        self.assertEqual(pairs_from_manufacturer_html(ngn_html,"NGN","361286")[0],
+                         [("HYUNDAI/KIA","5171225010")])
+        marshall_html="""<h1>Disc (M2000666)</h1><div>Артикул: M2000666</div>
+        <div>CITROEN / PEUGEOT 424965</div><div>Описание</div>"""
+        self.assertEqual(pairs_from_manufacturer_html(marshall_html,"Marshall","M2000666")[0],
+                         [("CITROEN / PEUGEOT","424965")])
+
     def test_never_turn_aftermarket_code_into_original(self):
         self.assertEqual(normalized_oem("361431","361431"),"")
         self.assertEqual(normalized_oem("M2000400","M2000400"),"")
