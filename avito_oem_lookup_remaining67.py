@@ -16,7 +16,9 @@ from urllib.parse import quote
 
 import requests
 from html.parser import HTMLParser
-from update_prices import normalize_key
+def normalize_key(value):
+    # Equivalent supplier SKU normalization, without importing XLSX dependencies.
+    return re.sub(r"[^0-9a-zа-я]+", "", str(value or "").strip().casefold())
 
 ROOT = Path(__file__).resolve().parent
 MANIFEST = ROOT / "input/avito_remaining_67_NOT_READY_FOR_UPLOAD.csv"
