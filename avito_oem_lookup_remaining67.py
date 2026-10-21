@@ -47,6 +47,9 @@ def normalized_oem(value: str, own_part: str) -> str:
     cleaned = re.sub(r"[^A-Z0-9]", "", value.upper())
     if not 6 <= len(cleaned) <= 24 or sum(c.isdigit() for c in cleaned) < 4:
         return ""
+    # Vehicle generations use date ranges like 2003-2010; these are NEVER OEM.
+    if re.fullmatch(r"(?:19|20)\d{2}(?:19|20)\d{2}", cleaned):
+        return ""
     if cleaned == re.sub(r"[^A-Z0-9]", "", own_part.upper()):
         return ""
     return cleaned
