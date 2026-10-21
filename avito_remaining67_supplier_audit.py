@@ -104,8 +104,9 @@ def main():
                 }
     finally:
         book.close()
-    if set(source_map) != wanted:
-        raise ValueError("Cannot map all 67 SKU to fresh supplier price")
+    # A pinned SKU can disappear from a later supplier price. Report it as unavailable,
+    # rather than crash or falsely declare it in stock. Never use stale data.
+    missing_from_supplier = sorted(wanted - set(source_map))
     photos = read_photo_map(ROOT / text(cfg.get("drom", {}).get("photo_map_path") or "input/photos.csv"))
     rows = audit(records, product_map, source_map, photos)
     OUTPUT.mkdir(parents=True, exist_ok=True)
@@ -119,6 +120,8 @@ def main():
         "candidates":len(rows),
         "brands":dict(counts),
         "in_fresh_irkutsk_stock":sum(bool(r["fresh_irkutsk_stock"]) for r in rows),
+        "absent_from_fresh_supplier_file":len(missing_from_supplier),
+        "absent_articles":[r["article"] for r in records if sku(r["brand"],r["article"]) in missing_from_supplier],
         "raw_supplier_oem_nonempty":sum(bool(r["supplier_raw_oem_candidate"]) for r in rows),
         "photo_url_nonempty":sum(bool(r["photo_url"]) for r in rows),
         "photo_path_matches_supplier_nomenclature":sum(r["photo_source_nomenclature_match"]=="yes" for r in rows),
