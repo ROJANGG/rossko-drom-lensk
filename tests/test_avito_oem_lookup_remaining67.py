@@ -37,6 +37,13 @@ class MakerOEMEvidenceTests(unittest.TestCase):
         found,status=pairs_from_manufacturer_html(html,"Marshall","M2000400")
         self.assertEqual(found,[("FORD","1223663"),("VOLVO","30666800")])
 
+    def test_marshall_does_not_assign_bendix_number_to_ford(self):
+        html="""<h1>Brake disc M2000400</h1><div>Артикул: M2000400</div>
+        <div>BENDIX</div><div>562364B</div><div>FORD</div><div>1223663</div>
+        <div>Volvo</div><div>30666800</div><div>Описание</div>"""
+        actual,_=pairs_from_manufacturer_html(html,"Marshall","M2000400")
+        self.assertEqual(actual,[("FORD","1223663"),("VOLVO","30666800")])
+
     def test_never_turn_aftermarket_code_into_original(self):
         self.assertEqual(normalized_oem("361431","361431"),"")
         self.assertEqual(normalized_oem("M2000400","M2000400"),"")
