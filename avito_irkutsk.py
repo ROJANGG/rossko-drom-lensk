@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import csv
 import io
+import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
@@ -95,11 +96,30 @@ def load_fresh_price(config: dict, base: Path, max_age_hours: float):
         url = text(source.get("price_url"))
         if not url.startswith("https://"):
             raise ValueError("Для РОССКО нужна HTTPS-ссылка")
+        # A single ephemeral GitHub Actions run should use the SAME price
+        # snapshot across all batch stages; never mix different warehouse
+        # snapshots or download the huge XLSX seven times. Each run has an
+        # independent file path containing GITHUB_RUN_ID.
+        cached = os.environ.get("ROSSKO_RUN_PRICE_CACHE", "").strip()
+        path = Path(cached) if cached else None
+        if path and path.exists():
+            age_hours = (now.timestamp() - path.stat().st_mtime) / 3600
+            if 0 <= age_hours <= max_age_hours and path.stat().st_size > 10000:
+                return load_workbook(path, read_only=True, data_only=True)
+            raise ValueError("Устаревший/неполный прайс в кэше запуска GitHub: публикация запрещена")
         response = requests.get(url, timeout=int(source.get("download_timeout_seconds") or 120))
         response.raise_for_status()
         data = response.content
         if len(data) < 10000 or not data.startswith(b"PK"):
             raise ValueError("РОССКО вернул некорректный файл")
+        if path:
+            path.parent.mkdir(parents=True, exist_ok=True)
+            temp = path.with_name(path.name + ".writing")
+            temp.write_bytes(data)
+            # Fully validate the supplier XLSX BEFORE making cached snapshot available.
+            checked = load_workbook(temp, read_only=True, data_only=True)
+            checked.close()
+            os.replace(temp, path)
         return load_workbook(io.BytesIO(data), read_only=True, data_only=True)
     if mode != "local":
         raise ValueError("Неизвестный источник прайса")
