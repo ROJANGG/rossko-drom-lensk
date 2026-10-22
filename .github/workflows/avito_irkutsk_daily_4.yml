@@ -20,7 +20,7 @@ permissions:
 
 concurrency:
   group: avito-irkutsk-four-daily-feed
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh:
