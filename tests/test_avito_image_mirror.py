@@ -47,13 +47,13 @@ class PhotoMirrorTests(unittest.TestCase):
         ET.SubElement(ET.SubElement(ad,"Images"),"Image",{"url":photo})
         content=ET.tostring(source)
         image=Image.new("RGB",(640,480),"white")
-        with tempfile.TemporaryDirectory() as tmp, \\
-             patch("avito_image_mirror.image_urls_for_pilot",return_value={"test-1":photo}), \\
-             patch("avito_image_mirror.public_photo_url",return_value="https://cdn.jsdelivr.net/safe.jpg"), \\
+        with tempfile.TemporaryDirectory() as tmp, \
+             patch("avito_image_mirror.image_urls_for_pilot",return_value={"test-1":photo}), \
+             patch("avito_image_mirror.public_photo_url",return_value="https://cdn.jsdelivr.net/safe.jpg"), \
              patch("avito_image_mirror.retrieve_image",side_effect=[
                  (None,"ReadTimeout","","",""),
                  (image,"available_unverified","640","480","sampledigest")
-             ]) as fetch, \\
+             ]) as fetch, \
              patch("avito_image_mirror.time.sleep"):
             output, manifest=write_mirrors_and_rewrite(content,Path(tmp))
             self.assertEqual(fetch.call_count,2)
@@ -67,9 +67,9 @@ class PhotoMirrorTests(unittest.TestCase):
         ad=ET.SubElement(source,"Ad")
         ET.SubElement(ad,"Id").text="test-1"
         ET.SubElement(ET.SubElement(ad,"Images"),"Image",{"url":photo})
-        with tempfile.TemporaryDirectory() as tmp, \\
-             patch("avito_image_mirror.image_urls_for_pilot",return_value={"test-1":photo}), \\
-             patch("avito_image_mirror.retrieve_image",return_value=(None,"ReadTimeout","","","")) as fetch, \\
+        with tempfile.TemporaryDirectory() as tmp, \
+             patch("avito_image_mirror.image_urls_for_pilot",return_value={"test-1":photo}), \
+             patch("avito_image_mirror.retrieve_image",return_value=(None,"ReadTimeout","","","")) as fetch, \
              patch("avito_image_mirror.time.sleep"):
             with self.assertRaisesRegex(ValueError,"after 3 attempts"):
                 write_mirrors_and_rewrite(ET.tostring(source),Path(tmp))
