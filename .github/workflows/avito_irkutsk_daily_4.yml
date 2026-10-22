@@ -6,6 +6,7 @@ name: Avito Irkutsk - four daily 145-SKU controlled XML refresh
 # 2026-10-20: GD0123 JPEG goes through tested jsDelivr CDN after Avito timeout on GitHub raw; all IDs unchanged.
 # 23:17, 03:17, 07:17, 11:17 UTC = 07:17, 11:17, 15:17, 19:17 Irkutsk (UTC+8).
 # Avito Pro already reads the existing stable XML URL; a push updates real listings.
+# Supplier XLSX cache verified with a true .xlsx temporary filename before use.
 on:
   schedule:
     - cron: '17 3,7,11,23 * * *'
