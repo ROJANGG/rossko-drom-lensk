@@ -28,7 +28,7 @@ jobs:
     timeout-minutes: 26
     # Ephemeral file, unique by GitHub run ID; no cross-run stale pricing.
     env:
-      ROSSKO_RUN_PRICE_CACHE: ${{ runner.temp }}/rossko_${{ github.run_id }}.xlsx
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
     steps:
       - name: Checkout isolated Avito generator (never change Drom main files)
         uses: actions/checkout@v4
