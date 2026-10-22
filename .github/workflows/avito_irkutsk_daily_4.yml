@@ -18,11 +18,6 @@ on:
 permissions:
   contents: write
 
-# One immutable verified supplier snapshot within this ephemeral CI run.
-# Run ID in path prevents reuse of a previous/old ROSSKO price.
-env:
-  ROSSKO_RUN_PRICE_CACHE: ${{ runner.temp }}/rossko_${{ github.run_id }}.xlsx
-
 concurrency:
   group: avito-irkutsk-four-daily-feed
   cancel-in-progress: false
@@ -31,6 +26,9 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 26
+    # Ephemeral file, unique by GitHub run ID; no cross-run stale pricing.
+    env:
+      ROSSKO_RUN_PRICE_CACHE: ${{ runner.temp }}/rossko_${{ github.run_id }}.xlsx
     steps:
       - name: Checkout isolated Avito generator (never change Drom main files)
         uses: actions/checkout@v4
