@@ -141,8 +141,8 @@ def main():
         book.close()
 
     def verify_image(url):
-        image,status,width,height,digest=retrieve_image(url)
-        return image is not None and status=="available_unverified" and bool(digest)
+        from avito_photo_check import verified_image_with_retry
+        return verified_image_with_retry(url)
 
     xml, report=assemble(Path(args.base_xml).read_bytes(),items,photos,nomenclatures,oems,
                          image_check=verify_image,allow_small_stock_removals=args.allow_small_stock_removals)
