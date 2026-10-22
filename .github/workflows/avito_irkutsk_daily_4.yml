@@ -18,6 +18,11 @@ on:
 permissions:
   contents: write
 
+# One immutable verified supplier snapshot within this ephemeral CI run.
+# Run ID in path prevents reuse of a previous/old ROSSKO price.
+env:
+  ROSSKO_RUN_PRICE_CACHE: ${{ runner.temp }}/rossko_${{ github.run_id }}.xlsx
+
 concurrency:
   group: avito-irkutsk-four-daily-feed
   cancel-in-progress: false
