@@ -13,6 +13,8 @@ import io
 import json
 import os
 import re
+import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlparse
 from xml.etree import ElementTree as ET
@@ -104,15 +106,26 @@ def write_mirrors_and_rewrite(xml_bytes: bytes, photo_dir: Path, *, extra_ids: s
     source_urls = image_urls_for_pilot(xml_bytes, extra_ids=extra_ids)
     # Fail-closed: stage everything in memory; write only after all
     # currently available SKU images have been decoded and checked.
-    staging = {}
-    for sku, url in source_urls.items():
-        pic, status, _w, _h, _digest = retrieve_image(url)
-        if status != "available_unverified" or pic is None:
-            raise ValueError(f"Could not download source image for {sku}: {status}")
-        image_bytes = render_jpeg(pic)
-        fingerprint = hashlib.sha256(image_bytes).hexdigest()[:12]
-        fname = f"{sku}-{fingerprint}.jpg"
-        staging[sku] = {"filename": fname, "bytes": image_bytes, "url": public_photo_url(sku, fname)}
+    def download_and_render(entry):
+        sku, url = entry
+        last_status = "no_attempt"
+        for attempt in range(3):
+            pic, status, _w, _h, _digest = retrieve_image(url)
+            if status == "available_unverified" and pic is not None:
+                image_bytes = render_jpeg(pic)
+                fingerprint = hashlib.sha256(image_bytes).hexdigest()[:12]
+                fname = f"{sku}-{fingerprint}.jpg"
+                return sku, {"filename":fname,"bytes":image_bytes,
+                             "url":public_photo_url(sku,fname)}
+            last_status = status
+            if attempt < 2:
+                time.sleep(1 + attempt * 2)
+        # Never publish missing or unverified photos, including for old listings.
+        raise ValueError(f"Could not download source image for {sku} after 3 attempts: {last_status}")
+    # Supplier intermittently times out on serial requests. Parallelism is bounded
+    # and still stages ALL photos before writing any new public file.
+    with ThreadPoolExecutor(max_workers=5) as pool:
+        staging = dict(pool.map(download_and_render, source_urls.items()))
     photo_dir.mkdir(parents=True, exist_ok=True)
     for item in staging.values():
         target = photo_dir / item["filename"]
