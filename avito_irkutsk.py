@@ -114,7 +114,7 @@ def load_fresh_price(config: dict, base: Path, max_age_hours: float):
             raise ValueError("РОССКО вернул некорректный файл")
         if path:
             path.parent.mkdir(parents=True, exist_ok=True)
-            temp = path.with_name(path.name + ".writing")
+            temp = path.with_name(path.stem + ".writing.xlsx")
             temp.write_bytes(data)
             # Fully validate the supplier XLSX BEFORE making cached snapshot available.
             checked = load_workbook(temp, read_only=True, data_only=True)
