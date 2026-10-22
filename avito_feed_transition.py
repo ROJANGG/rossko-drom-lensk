@@ -17,6 +17,7 @@ from avito_next_five_preflight import approved_next_five_ids
 from avito_second_five_preflight import approved_second_five_ids
 from avito_third_ten_preflight import approved_third_ten_ids
 from avito_fourth_eleven_preflight import approved_fourth_eleven_ids
+from avito_bulk66_preflight import approved_bulk_ids
 from avito_xml_v3_diagnostic import TEST_SKUS
 
 
@@ -55,7 +56,7 @@ def analyze_transition(previous: bytes | None, proposed: bytes, *,
                        approved_extra_ids: set[str] | None = None) -> dict:
     from avito_feed import stable_id
     from avito_expand_canary import CANARY
-    permitted_extra = {stable_id("Тормозные диски", "CTR", article) for _, article in CANARY} | approved_next_five_ids() | approved_second_five_ids() | approved_third_ten_ids() | approved_fourth_eleven_ids()
+    permitted_extra = {stable_id("Тормозные диски", "CTR", article) for _, article in CANARY} | approved_next_five_ids() | approved_second_five_ids() | approved_third_ten_ids() | approved_fourth_eleven_ids() | approved_bulk_ids()
     if not (approved_extra_ids or set()) <= permitted_extra:
         raise ValueError("Unexpected additional Avito ID outside fixed catalog")
     expected = expected_pilot_ids() | (approved_extra_ids or set())
@@ -83,7 +84,7 @@ def analyze_transition(previous: bytes | None, proposed: bytes, *,
     # A source restock must not block a safe two-product expansion.
     newly_approved = added & (approved_extra_ids or set())
     returning_pilot = added & expected_pilot_ids()
-    new_cap = 11 if approved_fourth_eleven_ids() & (approved_extra_ids or set()) else (10 if approved_third_ten_ids() & (approved_extra_ids or set()) else (5 if (approved_next_five_ids() | approved_second_five_ids()) & (approved_extra_ids or set()) else 2))
+    new_cap = 66 if approved_bulk_ids() & (approved_extra_ids or set()) else (11 if approved_fourth_eleven_ids() & (approved_extra_ids or set()) else (10 if approved_third_ten_ids() & (approved_extra_ids or set()) else (5 if (approved_next_five_ids() | approved_second_five_ids()) & (approved_extra_ids or set()) else 2)))
     if len(newly_approved) > new_cap or len(returning_pilot) > 2:
         raise ValueError("Unexpected addition of too many new or returning SKUs")
     # Genuine local sell-outs are permitted in small batches; a sudden large
@@ -116,6 +117,7 @@ def main():
     p.add_argument("--approved-second-five", action="store_true")
     p.add_argument("--approved-third-ten", action="store_true")
     p.add_argument("--approved-fourth-eleven", action="store_true")
+    p.add_argument("--approved-bulk66", action="store_true")
     args = p.parse_args()
     result = analyze_transition(
         Path(args.previous).read_bytes() if args.previous else None,
@@ -125,7 +127,8 @@ def main():
         | (approved_next_five_ids() if args.approved_next_five else set())
         | (approved_second_five_ids() if args.approved_second_five else set())
         | (approved_third_ten_ids() if args.approved_third_ten else set())
-        | (approved_fourth_eleven_ids() if args.approved_fourth_eleven else set()),
+        | (approved_fourth_eleven_ids() if args.approved_fourth_eleven else set())
+        | (approved_bulk_ids() if args.approved_bulk66 else set()),
     )
     print("AVITO_FEED_TRANSITION_REVIEW", json.dumps(result, ensure_ascii=False), flush=True)
     if args.report:
