@@ -9,6 +9,7 @@ import argparse
 import csv
 import hashlib
 import io
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -62,6 +63,22 @@ def retrieve_image(url: str):
         return pic.convert("RGB"), "available_unverified", str(pic.width), str(pic.height), digest
     except (requests.RequestException, UnidentifiedImageError, OSError, ValueError) as exc:
         return None, type(exc).__name__, "", "", ""
+
+
+
+def verified_image_with_retry(url: str, attempts: int = 3) -> bool:
+    """Retry only transient supplier download failures; never skip real image checks."""
+    if attempts < 1 or attempts > 4:
+        raise ValueError("Image attempts must be 1..4")
+    for attempt in range(attempts):
+        pic,status,w,h,digest=retrieve_image(url)
+        if pic is not None and status=="available_unverified" and bool(digest):
+            return True
+        if status in {"blocked_url","image_too_large","unexpected_image_format","too_small"}:
+            return False
+        if attempt < attempts-1:
+            time.sleep(1+2*attempt)
+    return False
 
 
 def scan(csv_path: Path, out_dir: Path):
