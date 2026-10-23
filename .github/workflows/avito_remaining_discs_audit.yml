@@ -6,6 +6,8 @@ on:
     branches: [feature/avito-irkutsk-draft]
     paths:
       - 'avito_remaining_discs_audit.py'
+      - 'avito_remaining_discs_oem_research.py'
+      - 'tests/test_avito_remaining_discs_oem_research.py'
       - 'tests/test_avito_remaining_discs_audit.py'
       - '.github/workflows/avito_remaining_discs_audit.yml'
 
@@ -35,13 +37,20 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0' 'beautifulsoup4>=4.12'
       - name: Validate stable-ID and local-stock guardrails
         run: python -m unittest discover -s tests -p 'test_avito_remaining_discs_audit.py' -v
       - name: Check unpublished brake discs against fresh Irkutsk ROSSKO price and real photo bytes
         run: |
           python avito_remaining_discs_audit.py \
             --public-feed live/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --out output/avito_remaining_discs_review
+      - name: Test exact-SKU manufacturer OEM parsing (not automatic approval)
+        run: python -m unittest discover -s tests -p 'test_avito_remaining_discs_oem_research.py' -v
+      - name: Research NGN original OEM crosses against exact manufacturer SKU pages
+        run: |
+          python avito_remaining_discs_oem_research.py \
+            --candidates output/avito_remaining_discs_review/remaining_discs_review.csv \
             --out output/avito_remaining_discs_review
       - name: Save short-lived private review bundle (not for Avito import)
         uses: actions/upload-artifact@v4
