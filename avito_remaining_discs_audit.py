@@ -25,6 +25,14 @@ from update_prices import (get_cell, load_config, normalize_key,
                            read_header_map, read_photo_map, text)
 
 ROOT = Path(__file__).resolve().parent
+# Manually inspected contact sheets, 2026-10-23: diagrams are not product photos.
+KNOWN_DRAWING_ONLY = {
+    ("nibk", "rn1664"),
+    ("nisshinbo", "nd1089k"),
+    ("nisshinbo", "nd2030k"),
+    ("nisshinbo", "nd1048k"),
+    ("bosch", "0986479t00"),
+}
 FIELDS = (
     "brand", "article", "avito_id", "supplier_price_rub", "avito_price_rub",
     "irkutsk_stock", "delivery_days", "photo_url", "photo_status",
@@ -122,7 +130,9 @@ def run(preview: Path, output: Path):
         nom = entry.get("nomenclature", "")
         path_match = bool(nom and ("/" + nom.casefold() + "/") in
                           item["Фото для проверки"].casefold())
-        if digest and len(hashes[digest]) > 1:
+        if k in KNOWN_DRAWING_ONLY:
+            status = "technical_drawing_replace_photo"
+        elif digest and len(hashes[digest]) > 1:
             status = "duplicate_photo_needs_review"
         # Technical photo access is not proof of exact SKU or OEM matching.
         state = ("PHOTO_READY_OEM_UNVERIFIED"
@@ -181,6 +191,8 @@ def run(preview: Path, output: Path):
         "all_irkutsk_discs_with_links_before_live_id_exclusion": all_photo_linked,
         "unlisted_irkutsk_discs_with_photo_links": len(rows),
         "downloadable_images": len(tiles),
+        "technical_drawings_needing_replacement": sum(r["photo_status"] == "technical_drawing_replace_photo" for r in rows),
+        "actual_product_images_pending_sku_review": sum(r["photo_status"] == "available_unverified" for r in rows),
         "exact_photo_nomenclature_path": sum(r["photo_path_matches_nomenclature"] == "yes" for r in rows),
         "photo_status": dict(Counter(r["photo_status"] for r in rows)),
         "brand_counts": dict(Counter(r["brand"] for r in rows)),
