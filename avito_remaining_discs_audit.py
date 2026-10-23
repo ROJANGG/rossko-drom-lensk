@@ -18,7 +18,7 @@ from xml.etree import ElementTree as ET
 from PIL import Image, ImageDraw, ImageOps
 
 from avito_feed import stable_id
-from avito_irkutsk import load_fresh_price, select_rows
+from avito_irkutsk import load_fresh_price, load_sku_whitelist, select_rows
 from avito_photo_50 import photo_candidates
 from avito_photo_check import retrieve_image
 from update_prices import (get_cell, load_config, normalize_key,
@@ -39,8 +39,8 @@ def current_ids(xml_path: Path) -> set[str]:
     if root.tag != "Ads" or root.get("formatVersion") != "3":
         raise ValueError("Wrong public Avito XML version")
     ids = [(ad.findtext("Id") or "").strip() for ad in root.findall("Ad")]
-    if len(ids) < 145 or "" in ids or len(set(ids)) != len(ids):
-        raise ValueError("Public Avito feed is smaller than 145 or has duplicate IDs")
+    if len(ids) < 140 or "" in ids or len(set(ids)) != len(ids):
+        raise ValueError("Public Avito feed is smaller than 140 or has duplicate IDs")
     return set(ids)
 
 
@@ -80,7 +80,18 @@ def check_one(item):
 
 def run(preview: Path, output: Path):
     cfg = load_config(ROOT / "config.json")
-    published = current_ids(preview)
+    live_ids = current_ids(preview)
+    # Reserve IDs of every originally selected item, including temporarily
+    # out-of-stock listings absent from the current public XML.
+    base_pins = load_sku_whitelist(ROOT / "input/avito_pilot_articles.csv")
+    extra_pins = load_sku_whitelist(ROOT / "input/avito_extra_100_pinned_REVIEW.csv")
+    if len(base_pins) != 50 or len(extra_pins) != 100 or base_pins & extra_pins:
+        raise ValueError("The pinned 50+100 catalog is incomplete or overlapping")
+    pinned_discs = {
+        stable_id("Тормозные диски", brand, article)
+        for brand, article in (pair.split("|", 1) for pair in base_pins | extra_pins)
+    }
+    published = live_ids | pinned_discs
     photos = read_photo_map(ROOT / text(cfg.get("drom", {}).get("photo_map_path") or "input/photos.csv"))
     if not photos:
         raise ValueError("Empty ROSSKO image source mapping")
@@ -165,7 +176,8 @@ def run(preview: Path, output: Path):
 
     summary = {
         "checked_utc": datetime.now(timezone.utc).isoformat(),
-        "public_feed_ids_preserved": len(published),
+        "public_feed_ids_preserved": len(live_ids),
+        "original_and_extra_pinned_skus_excluded": len(base_pins | extra_pins),
         "all_irkutsk_discs_with_links_before_live_id_exclusion": all_photo_linked,
         "unlisted_irkutsk_discs_with_photo_links": len(rows),
         "downloadable_images": len(tiles),
