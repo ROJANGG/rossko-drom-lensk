@@ -27,7 +27,7 @@ class RemainingDiscsAuditTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "duplicate"):
                 current_ids(path)
             path.write_bytes(b'<Ads formatVersion="3"><Ad><Id>a</Id></Ad></Ads>')
-            with self.assertRaisesRegex(ValueError, "smaller than 145"):
+            with self.assertRaisesRegex(ValueError, "smaller than 140"):
                 current_ids(path)
 
     def test_only_unpublished_local_in_stock_discs(self):
