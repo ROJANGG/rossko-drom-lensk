@@ -37,7 +37,7 @@ def parse_exact_ngn_oems(html, article):
     soup = BeautifulSoup(html, "html.parser")
     heading = soup.find("h1")
     expected = f"36-{article[2:]}"
-    if not heading or not re.search(r"\\bNGN\\s+" + re.escape(expected) + r"\\b",
+    if not heading or not re.search(r"\bNGN\s+" + re.escape(expected) + r"\b",
                                      heading.get_text(" ", strip=True), re.I):
         return []
     tokens = list(soup.stripped_strings)
@@ -47,7 +47,7 @@ def parse_exact_ngn_oems(html, article):
         if raw.strip().upper() not in ORIGINAL_MAKES or i == 0:
             continue
         number = tokens[i-1].strip().upper()
-        canonical = re.sub(r"[\\s.\\-/]+", "", number)
+        canonical = re.sub(r"[\s.\-/]+", "", number)
         if not re.fullmatch(r"[A-Z0-9]{6,24}", canonical) or not re.search(r"[0-9]", canonical):
             continue
         if canonical in seen or canonical == article:
@@ -118,7 +118,7 @@ def main():
         "published":0,
         "state":"MANUFACTURER_OEM_CANDIDATES_REVIEW_ONLY",
     }
-    (out/"manufacturer_oem_summary.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+    (out/"manufacturer_oem_summary.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("AVITO_REMAINING_OEM_RESEARCH",json.dumps(summary,ensure_ascii=False),flush=True)
 
 
