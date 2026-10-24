@@ -1,0 +1,45 @@
+name: Avito next five CTR - private live-stock preflight (NO PUBLICATION)
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - avito_next_five_preflight.py
+      - tests/test_avito_next_five_preflight.py
+      - .github/workflows/avito_next_five_preflight.yml
+permissions:
+  contents: read
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/avito-irkutsk-draft
+          path: generator
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: current-feed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install 'requests>=2.31.0' 'openpyxl>=3.1.2' 'pillow>=10.0'
+      - name: Offline safety and regression tests
+        working-directory: generator
+        run: python -m unittest discover -s tests -v
+      - name: Fresh Rossko Irkutsk stock / documented CTR OEM / photo byte verification
+        working-directory: generator
+        run: |
+          python avito_next_five_preflight.py \
+            --base-xml ../current-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --out output/avito_next_five_review
+      - name: Keep private test XML / summary for Avito review, NEVER publish automatically
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-five-ctr-private-preflight-DO-NOT-UPLOAD
+          path: generator/output/avito_next_five_review/
+          retention-days: 2
+          if-no-files-found: error

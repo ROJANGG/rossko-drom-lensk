@@ -57,5 +57,37 @@
       "15:00",
       "18:00"
     ]
+  },
+  "avito": {
+    "city": "Иркутск",
+    "pickup_address": "664019, г. Иркутск, ул. Каховского, д. 11/1",
+    "mode": "draft",
+    "template_brakes": "input/avito_templates/Для автомобилей - Тормозная система - Шаблон 13-10-2026.xlsx",
+    "template_steering": "input/avito_templates/Для автомобилей - Рулевое управление - Шаблон 13-10-2026.xlsx",
+    "pricing": {
+      "round_up_to": 50,
+      "tiers": [
+        {
+          "up_to": 2000,
+          "rate_percent": 37
+        },
+        {
+          "up_to": 5000,
+          "rate_percent": 25
+        },
+        {
+          "up_to": 10000,
+          "rate_percent": 18
+        },
+        {
+          "up_to": 20000,
+          "rate_percent": 12
+        },
+        {
+          "up_to": null,
+          "rate_percent": 9
+        }
+      ]
+    }
   }
 }

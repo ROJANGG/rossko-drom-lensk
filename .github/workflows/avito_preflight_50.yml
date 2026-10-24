@@ -1,0 +1,33 @@
+name: Avito 50 official-template PREVIEWS (no publication)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - 'avito_prepare_preflight.py'
+      - '.github/workflows/avito_preflight_50.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Check fresh Irkutsk ROSSKO stock, photos, official templates and generate previews
+        run: python avito_prepare_preflight.py
+      - name: Upload two review workbooks and 50-line checklist (temporary)
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-50-two-template-previews-NOT-FOR-UPLOAD
+          path: output/avito_irkutsk_preflight/
+          retention-days: 3
+          if-no-files-found: error
