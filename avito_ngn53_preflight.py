@@ -50,6 +50,12 @@ def pinned_oem_evidence(path=MANIFEST):
     return evidence
 
 
+
+def approved_ngn53_ids():
+    """All reserved IDs in the source-verified 53-SKU addition, including sellouts."""
+    return {stable_id(CATEGORY, "NGN", article) for article in pinned_oem_evidence()}
+
+
 def assemble(previous, products, photo_map, nomenclatures, evidence, *, max_missing=2):
     root = ET.fromstring(previous)
     if root.tag != "Ads" or root.get("formatVersion") != "3":
