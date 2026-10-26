@@ -7,6 +7,8 @@ on:
     paths:
       - 'avito_remaining_discs_audit.py'
       - 'avito_remaining_discs_oem_research.py'
+      - 'avito_remaining_discs_candidate_xml.py'
+      - 'tests/test_avito_remaining_discs_candidate_xml.py'
       - 'tests/test_avito_remaining_discs_oem_research.py'
       - 'tests/test_avito_remaining_discs_audit.py'
       - '.github/workflows/avito_remaining_discs_audit.yml'
@@ -51,6 +53,15 @@ jobs:
         run: |
           python avito_remaining_discs_oem_research.py \
             --candidates output/avito_remaining_discs_review/remaining_discs_review.csv \
+            --out output/avito_remaining_discs_review
+      - name: Test fail-closed candidate XML staging
+        run: python -m unittest discover -s tests -p 'test_avito_remaining_discs_candidate_xml.py' -v
+      - name: Assemble only sourced OEM candidates in private XML (not live)
+        run: |
+          python avito_remaining_discs_candidate_xml.py \
+            --public-feed live/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --stock-review output/avito_remaining_discs_review/remaining_discs_review.csv \
+            --oem-review output/avito_remaining_discs_review/manufacturer_oem_candidates_REVIEW.csv \
             --out output/avito_remaining_discs_review
       - name: Save short-lived private review bundle (not for Avito import)
         uses: actions/upload-artifact@v4
