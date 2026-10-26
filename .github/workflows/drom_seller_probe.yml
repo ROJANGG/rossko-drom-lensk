@@ -1,0 +1,29 @@
+name: Drom ROSSKO public seller search discovery (read only)
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - 'drom_seller_probe.py'
+      - '.github/workflows/drom_seller_probe.yml'
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install HTTP client
+        run: pip install requests>=2.31
+      - name: Discover public seller query URLs; obey robots.txt
+        run: python drom_seller_probe.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: DROM_ROSSKO_SEARCH_DISCOVERY
+          path: drom_seller_probe.json
+          if-no-files-found: ignore
+          retention-days: 2

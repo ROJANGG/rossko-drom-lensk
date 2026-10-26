@@ -1,0 +1,44 @@
+name: ROSSKO vs Drom Lensk catalog gaps - private read-only audit
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - 'rossko_vs_drom_audit.py'
+      - '.github/workflows/rossko_vs_drom_audit.yml'
+permissions:
+  contents: read
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout audit code (read-only)
+        uses: actions/checkout@v4
+        with:
+          ref: feature/avito-irkutsk-draft
+          path: generator
+          persist-credentials: false
+      - name: Checkout original ROSSKO price and generated Drom Lensk XLSX
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: snapshot
+          persist-credentials: false
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compare exact brand+article keys with no publication
+        run: |
+          python generator/rossko_vs_drom_audit.py \
+            --rossko snapshot/input/rossko_price.xlsx \
+            --drom snapshot/public/drom_lensk.xlsx \
+            --out audit_result
+      - name: Save private comparison files for download (2 days)
+        uses: actions/upload-artifact@v4
+        with:
+          name: ROSSKO_DROM_MISSING_PRODUCTS_PRIVATE
+          path: audit_result/
+          retention-days: 2
+          if-no-files-found: error

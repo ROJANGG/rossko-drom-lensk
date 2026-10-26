@@ -1,0 +1,179 @@
+"""Validate proposed Rossko photo URLs for a review-only Avito pilot.
+
+No photo is automatically approved for publication. Results are transient
+GitHub Actions artifacts; never commit downloaded photos or supplier data.
+"""
+from __future__ import annotations
+
+import argparse
+import csv
+import hashlib
+import io
+import time
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+from urllib.parse import urlsplit
+
+import requests
+from PIL import Image, ImageDraw, ImageFont, ImageOps, UnidentifiedImageError
+
+MAX_BYTES = 6_000_000
+ALLOWED_HOSTS = {"imgs.rossko.ru"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36",
+    "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "Accept-Language": "ru-RU,ru;q=0.9,en;q=0.8",
+    "Referer": "https://rossko.ru/",
+}
+OUT_FIELDS = ("Группа", "Бренд", "Артикул", "Фото для проверки", "photo_status",
+              "width", "height", "sha256", "manual_review_required")
+
+
+def approved_url(url: str) -> bool:
+    try:
+        u = urlsplit(url.strip())
+    except ValueError:
+        return False
+    return (u.scheme == "https" and u.hostname in ALLOWED_HOSTS
+            and u.port in (None, 443) and u.username is None and u.password is None)
+
+
+def retrieve_image(url: str):
+    if not approved_url(url):
+        return None, "blocked_url", "", "", ""
+    try:
+        with requests.get(url, stream=True, timeout=(8, 15), headers=HEADERS,
+                          allow_redirects=False) as response:
+            if response.status_code != 200:
+                return None, f"http_{response.status_code}", "", "", ""
+            # ROSSKO can serve image bytes with a non-image Content-Type.
+            # Pillow must decode and validate the actual bytes instead.
+            raw = bytearray()
+            for block in response.iter_content(chunk_size=65536):
+                raw.extend(block)
+                if len(raw) > MAX_BYTES:
+                    return None, "image_too_large", "", "", ""
+        digest = hashlib.sha256(raw).hexdigest()
+        pic = Image.open(io.BytesIO(raw))
+        pic.load()
+        if (pic.format or "").upper() not in {"JPEG", "PNG", "WEBP"}:
+            return None, "unexpected_image_format", str(pic.width), str(pic.height), ""
+        if pic.width < 180 or pic.height < 180:
+            return None, "too_small", str(pic.width), str(pic.height), ""
+        return pic.convert("RGB"), "available_unverified", str(pic.width), str(pic.height), digest
+    except (requests.RequestException, UnidentifiedImageError, OSError, ValueError) as exc:
+        return None, type(exc).__name__, "", "", ""
+
+
+
+def verified_image_with_retry(url: str, attempts: int = 3) -> bool:
+    """Retry only transient supplier download failures; never skip real image checks."""
+    if attempts < 1 or attempts > 4:
+        raise ValueError("Image attempts must be 1..4")
+    for attempt in range(attempts):
+        pic,status,w,h,digest=retrieve_image(url)
+        if pic is not None and status=="available_unverified" and bool(digest):
+            return True
+        if status in {"blocked_url","image_too_large","unexpected_image_format","too_small"}:
+            return False
+        if attempt < attempts-1:
+            time.sleep(1+2*attempt)
+    return False
+
+
+def scan(csv_path: Path, out_dir: Path):
+    with csv_path.open(encoding="utf-8-sig", newline="") as f:
+        reader = csv.DictReader(f, delimiter=";")
+        required = {"Группа", "Бренд", "Артикул", "Фото для проверки"}
+        if not required.issubset(set(reader.fieldnames or [])):
+            raise ValueError("Missing required review CSV columns")
+        items = list(reader)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    urls = sorted({r["Фото для проверки"].strip() for r in items if r["Фото для проверки"].strip()})
+
+    def check(url):
+        if not approved_url(url):
+            return url, (None, "blocked_url", "", "", "")
+        return url, retrieve_image(url)
+
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        found = dict(pool.map(check, urls))
+
+    digest_to_articles = {}
+    for entry in items:
+        url = entry["Фото для проверки"].strip()
+        result = found.get(url)
+        if result and result[4]:
+            digest_to_articles.setdefault(result[4], set()).add(
+                (entry["Бренд"], entry["Артикул"]))
+
+    report = []
+    tiles = []
+    for row in items:
+        url = row["Фото для проверки"].strip()
+        pic, status, width, height, digest = found.get(url, (None, "no_photo", "", "", ""))
+        if digest and len(digest_to_articles.get(digest, [])) > 1:
+            status = "duplicate_image_review"
+        record = {k: row.get(k, "") for k in OUT_FIELDS}
+        record.update({"photo_status": status, "width": width, "height": height,
+                       "sha256": digest, "manual_review_required": "yes"})
+        report.append(record)
+        if pic is not None:
+            label = f"{row['Группа']} | {row['Бренд']} | {row['Артикул']}"
+            tiles.append((label, pic, status))
+
+    with (out_dir / "photo_validation.csv").open("w", newline="", encoding="utf-8-sig") as f:
+        writer = csv.DictWriter(f, fieldnames=OUT_FIELDS, delimiter=";")
+        writer.writeheader()
+        writer.writerows(report)
+    # Подготовим CSV для следующего шага: URL технически доступных
+    # изображений уже привязаны к SKU, но все подтверждения остаются пустыми.
+    # Это НЕ готовый импорт Авито и не автоматическое разрешение на публикацию.
+    review_fields = list(items[0]) + ["photo_status", "review_note"] if items else []
+    if items:
+        with (out_dir / "candidate_approvals.csv").open("w", newline="", encoding="utf-8-sig") as f:
+            writer = csv.DictWriter(f, fieldnames=review_fields, delimiter=";")
+            writer.writeheader()
+            for entry, photo_entry in zip(items, report):
+                draft = dict(entry)
+                draft["photo_urls"] = (
+                    entry["Фото для проверки"].strip()
+                    if photo_entry["photo_status"] == "available_unverified" else ""
+                )
+                for field in ("approved", "pickup_confirmed", "condition_confirmed", "fitment", "oem_number"):
+                    draft[field] = ""
+                draft["photo_status"] = photo_entry["photo_status"]
+                draft["review_note"] = (
+                    "Только технический чертёж; требуется товарная фотография"
+                    if entry["Бренд"].casefold() == "blitz" and entry["Артикул"].upper() in {"BS0332", "BS0478"} else ""
+                )
+                writer.writerow(draft)
+    if tiles:
+        tw, th, cols = 260, 290, 4
+        count_rows = (len(tiles) + cols - 1) // cols
+        board = Image.new("RGB", (tw * cols, th * count_rows), "#F3F4F6")
+        drawer = ImageDraw.Draw(board)
+        for idx, (label, photo, status) in enumerate(tiles):
+            x, y = (idx % cols) * tw, (idx // cols) * th
+            thumb = ImageOps.contain(photo, (240, 235))
+            board.paste(thumb, (x + (tw - thumb.width)//2, y + (245 - thumb.height)//2))
+            drawer.text((x+8, y+249), label[:37], fill="#111827")
+            drawer.text((x+8, y+266), status[:38], fill="#6B7280")
+        board.save(out_dir / "contact_sheet.jpg", quality=85)
+    counts = {}
+    for r in report:
+        counts[r["photo_status"]] = counts.get(r["photo_status"], 0)+1
+    print(f"REVIEW_ONLY: {len(report)} items, {len(tiles)} downloaded photos; photo statuses {counts}")
+    print("All photos remain UNVERIFIED for article match and usage rights.")
+
+
+def main():
+    p = argparse.ArgumentParser()
+    p.add_argument("csv")
+    p.add_argument("--out", default="output/avito_photo_review")
+    args = p.parse_args()
+    scan(Path(args.csv), Path(args.out))
+
+
+if __name__ == "__main__":
+    main()
