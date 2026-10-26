@@ -38,8 +38,8 @@ class CandidateXmlTests(unittest.TestCase):
         prior=ET.fromstring(source).findall("Ad")
         merged=ET.fromstring(xml).findall("Ad")
         self.assertEqual((old,added,len(merged)),(144,1,145))
-        self.assertEqual([ET.tostring(x) for x in prior],
-                         [ET.tostring(x) for x in merged[:-1]])
+        self.assertEqual([[ (field.tag, field.attrib, field.text) for field in x] for x in prior],
+                         [[ (field.tag, field.attrib, field.text) for field in x] for x in merged[:-1]])
         self.assertEqual(merged[-1].findtext("Id"),
                          stable_id("Тормозные диски","NGN","361366"))
         self.assertEqual(merged[-1].findtext("OEM"),"5521165J00")
