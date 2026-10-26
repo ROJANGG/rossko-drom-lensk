@@ -115,8 +115,10 @@ def build_review_xml(live_bytes: bytes, stock_rows, oem_rows, reserved_skus):
     if root.tag != "Ads" or root.get("formatVersion") != "3":
         raise ValueError("Invalid prior Avito feed")
     live_ids = [x.findtext("Id") for x in root.findall("Ad")]
-    if len(live_ids) < 140 or any(not x for x in live_ids) or len(set(live_ids)) != len(live_ids):
-        raise ValueError("Missing existing Avito ID or unexpected feed shrink")
+    if len(live_ids) < 140:
+        raise ValueError("Unexpected feed shrink below 140 listings")
+    if any(not x for x in live_ids) or len(set(live_ids)) != len(live_ids):
+        raise ValueError("Duplicate or missing existing Avito ID")
     selected, audit = eligible_by_article(stock_rows, oem_rows, set(live_ids), reserved_skus)
     # No point generating a ready-looking feed when nothing is sourced.
     if not selected:
