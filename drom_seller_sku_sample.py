@@ -124,6 +124,12 @@ def main():
                 rows.append(item)
                 break
             response.raise_for_status()
+            if "/verify" in urllib.parse.urlsplit(response.url).path:
+                stopped="Drom requires interactive verification"
+                item["Статус"]="ДРОМ ТРЕБУЕТ ПРОВЕРКУ, НЕТ ДАННЫХ"
+                item["Ошибка"]="redirected_to_verify"
+                rows.append(item)
+                break
             total,title,found=extract_cards(response.text,article,brand)
             item["Предложений по запросу"]=total if total is not None else ""
             item["Найден точный бренд+артикул"]="Да" if found else "Не найден на странице"
