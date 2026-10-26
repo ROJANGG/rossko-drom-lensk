@@ -1,8 +1,8 @@
-name: Avito Irkutsk - four daily 145-SKU controlled XML refresh
+name: Avito Irkutsk - four daily 198-SKU controlled XML refresh
 
 # One independent workflow in main. Drom workflow/code is untouched.
 # Customer-facing descriptions were updated on 2026-10-16 to omit supplier names.
-# Original 50 plus staged CTR additions and 66 sourced OEM items; preserve all permanent IDs.
+# Original 50 plus staged CTR additions, 66 sourced OEM items and 53 exact NGN disc OEMs; preserve all permanent IDs.
 # 2026-10-20: GD0123 JPEG goes through tested jsDelivr CDN after Avito timeout on GitHub raw; all IDs unchanged.
 # 23:17, 03:17, 07:17, 11:17 UTC = 07:17, 11:17, 15:17, 19:17 Irkutsk (UTC+8).
 # Avito Pro already reads the existing stable XML URL; a push updates real listings.
@@ -26,7 +26,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 26
+    timeout-minutes: 35
     # Ephemeral file, unique by GitHub run ID; no cross-run stale pricing.
     env:
       ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
@@ -47,7 +47,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install required packages
-        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0' 'beautifulsoup4>=4.12'
       - name: Check safeguards for ID, price and missing-stock changes
         working-directory: generator
         run: python -m unittest discover -s tests -p 'test_avito_feed_transition.py' -v
@@ -100,11 +100,18 @@ jobs:
             --out output/avito_bulk66_live \
             --live-candidate \
             --allow-small-stock-removals
-      - name: Mirror supplier photos for 50 original plus 33 CTR and 66 sourced-OEM extras
+      - name: Add 53 exact-SKU original-OEM sourced NGN brake discs from current Irkutsk stock
+        working-directory: generator
+        run: |
+          python avito_ngn53_preflight.py \
+            --base-xml output/avito_bulk66_live/AVITO_BULK66_LIVE_CANDIDATE.xml \
+            --out output/avito_ngn53_release \
+            --allow-small-stock-removals
+      - name: Mirror supplier photos for original 145 plus new 53 NGN discs
         working-directory: generator
         run: |
           python avito_image_mirror.py \
-            --candidate output/avito_bulk66_live/AVITO_BULK66_LIVE_CANDIDATE.xml \
+            --candidate output/avito_ngn53_release/AVITO_NGN53_LIVE_CANDIDATE.xml \
             --image-dir ../preview/avito-images \
             --output output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
             --manifest output/avito_price_stock_staging/avito_photo_manifest.json \
@@ -113,7 +120,7 @@ jobs:
             --approved-second-five \
             --approved-third-ten \
             --approved-fourth-eleven \
-            --approved-bulk66
+            --approved-bulk66 --approved-ngn53
       - name: Compare candidate against current public XML - fail closed
         working-directory: generator
         run: |
@@ -126,7 +133,28 @@ jobs:
             --approved-second-five \
             --approved-third-ten \
             --approved-fourth-eleven \
-            --approved-bulk66
+            --approved-bulk66 --approved-ngn53
+      - name: Publish content-addressed JPEGs FIRST, leaving the live XML unchanged
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd preview
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add avito-images/
+          if git diff --cached --quiet; then
+            echo "JPEG mirrors already exist on Avito isolated branch"
+          else
+            git commit -m "Stage new immutable NGN53 JPEGs before activating XML"
+            git push origin HEAD:avito-irkutsk-feed
+          fi
+      - name: Verify each new NGN photo is PUBLICLY accessible on jsDelivr CDN with exact JPEG checksum
+        working-directory: generator
+        run: |
+          python avito_ngn53_cdn_probe.py \
+            --manifest output/avito_price_stock_staging/avito_photo_manifest.json \
+            --image-dir ../preview/avito-images \
+            --report output/avito_ngn53_release/cdn_public_precheck.json
       - name: Replace ONLY the isolated pilot XML when validated
         env:
           TARGET_BRANCH: avito-irkutsk-feed
@@ -141,7 +169,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No price or stock change: public XML unchanged"
           else
-            git commit -m "Avito 145-SKU controlled feed: fresh Rossko price and local stock"
+            git commit -m "Avito 198-SKU controlled feed: sourced NGN OEMs, fresh Rossko local stock"
             git push origin "HEAD:${TARGET_BRANCH}"
           fi
       - name: Save short-lived private audit (not a public auto-publisher)
@@ -153,5 +181,7 @@ jobs:
             generator/output/avito_price_stock_staging/avito_50_sync_audit.csv
             generator/output/avito_price_stock_staging/transition_precheck.json
             generator/output/avito_price_stock_staging/avito_photo_manifest.json
+            generator/output/avito_ngn53_release/summary.json
+            generator/output/avito_ngn53_release/cdn_public_precheck.json
           retention-days: 2
           if-no-files-found: error
