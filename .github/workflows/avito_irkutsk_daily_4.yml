@@ -43,6 +43,12 @@ jobs:
           ref: avito-irkutsk-feed
           path: preview
           persist-credentials: true
+      - name: Checkout verified retail-only prices (no private API costs)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: wholesale_pricing
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -107,6 +113,18 @@ jobs:
             --base-xml output/avito_bulk66_live/AVITO_BULK66_LIVE_CANDIDATE.xml \
             --out output/avito_ngn53_release \
             --allow-small-stock-removals
+      - name: Apply ONLY verified ROSSKO wholesale-based prices to approved existing candidate
+        working-directory: generator
+        run: |
+          if [ -s ../wholesale_pricing/input/rossko_verified_retail_prices.csv ]; then
+            python rossko_verified_retail_override.py \
+              --retail-map ../wholesale_pricing/input/rossko_verified_retail_prices.csv \
+              --avito output/avito_ngn53_release/AVITO_NGN53_LIVE_CANDIDATE.xml \
+              --report output/avito_ngn53_release/verified_retail_pricing.json
+          else
+            echo "No verified retail prices - keep existing feed logic"
+          fi
+
       - name: Mirror supplier photos for original 145 plus new 53 NGN discs
         working-directory: generator
         run: |
