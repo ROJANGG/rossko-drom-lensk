@@ -94,7 +94,7 @@ def make_map(rows,supplier):
             rejected["no_fresh_stock"]+=1
         elif src["days"]!=r["days"]:
             rejected["supplier_delivery_changed"]+=1
-        elif src["cost"] is None or abs(src["cost"]-r["supplier_price"])>Decimal("0.01"):
+        elif src["cost"] is None or src["cost"]!=r["supplier_price"]:
             rejected["supplier_list_cost_changed"]+=1
         else:
             approved[key]={**r,"drom":roundup(r["wholesale"]*Decimal("1.37")),
