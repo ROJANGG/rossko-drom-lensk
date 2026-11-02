@@ -1,0 +1,131 @@
+name: ROSSKO wholesale only discs + racks - retry missing SKUs PRIVATE
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rossko_category_retry_missing.yml'
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: rossko-category-missing-retry
+  cancel-in-progress: false
+
+jobs:
+  retry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix:
+        shard: [0, 1, 2, 3]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 376cb6b6e11eafef8907e9b8535fcdf6a0b711a9
+          path: code
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: source
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install API library and spreadsheet reader
+        run: pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4'
+      - name: Read prior private audit artifact securely from GitHub Actions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl --fail --silent --show-error --location --retry 2 \
+            --header "Authorization: Bearer $GH_TOKEN" \
+            --header "Accept: application/vnd.github+json" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/ROJANGG/rossko-drom-lensk/actions/artifacts/13163423299/zip" \
+            --output /tmp/rossko_prior_private.zip
+          mkdir -p previous
+          unzip -q /tmp/rossko_prior_private.zip -d previous
+          test -s previous/WHOLESALE_DISCS_RACKS_ALL.csv
+      - name: Recheck ONLY failed and absent brake discs / steering rack prices
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+          PYTHONPATH: code
+        run: |
+          python code/rossko_category_retry_failed.py \
+            --price source/input/rossko_price.xlsx \
+            --baseline previous/WHOLESALE_DISCS_RACKS_ALL.csv \
+            --out private/shard-${{ matrix.shard }} \
+            --shard ${{ matrix.shard }} \
+            --shards 4
+      - name: Upload private retry results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rossko-private-retry-shard-${{ matrix.shard }}
+          path: private/
+          retention-days: 2
+          if-no-files-found: ignore
+
+  merge:
+    needs: retry
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 376cb6b6e11eafef8907e9b8535fcdf6a0b711a9
+          path: code
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: source
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4'
+      - name: Download earlier private wholesale results
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl --fail --silent --show-error --location --retry 2 \
+            --header "Authorization: Bearer $GH_TOKEN" \
+            --header "Accept: application/vnd.github+json" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/ROJANGG/rossko-drom-lensk/actions/artifacts/13163423299/zip" \
+            --output /tmp/rossko_prior_private.zip
+          mkdir -p previous
+          unzip -q /tmp/rossko_prior_private.zip -d previous
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: rossko-private-retry-shard-*
+          path: private-shards
+        continue-on-error: true
+      - name: Merge ONLY confirmed prices, preserve missing price warnings
+        env:
+          PYTHONPATH: code
+        run: |
+          python code/rossko_category_retry_merge.py \
+            --price source/input/rossko_price.xlsx \
+            --baseline previous/WHOLESALE_DISCS_RACKS_ALL.csv \
+            --retry-root private-shards \
+            --out result \
+            --shards 4
+      - name: Upload private completed-category report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ROSSKO_DISCS_RACKS_WHOLESALE_RECHECKED_PRIVATE
+          path: result/
+          retention-days: 2
+          if-no-files-found: ignore
