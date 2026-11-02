@@ -1,0 +1,75 @@
+name: ROSSKO confirmed wholesale prices - Drom and Avito release preflight (READ ONLY)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rossko_confirmed_retail_preflight.yml'
+permissions:
+  actions: read
+  contents: read
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 1d6fd1960bab9efa8bc3441e35ca0595dc01f9a9
+          path: code
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: drom
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: avito
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install offline verification and spreadsheet tools
+        run: pip install 'openpyxl>=3.1,<4' 'requests>=2.31,<3' 'zeep>=4.3,<5'
+      - name: Tests: no unverified price, no overwritten Avito IDs
+        env:
+          PYTHONPATH: code
+        run: python -m unittest discover -s code/tests -p 'test_rossko_verified_price_release.py' -v
+      - name: Download exact private API cost verification artifact by ID
+        uses: actions/download-artifact@v4
+        with:
+          artifact-ids: 13165397947
+          github-token: ${{ github.token }}
+          path: verified
+          merge-multiple: true
+      - name: Recreate Drom from fresh ROSSKO supplier file, no commit
+        working-directory: drom
+        run: python update_prices.py
+      - name: Build read-only 6-hour source-matched retail candidate
+        run: |
+          python code/rossko_verified_price_release_plan.py \
+            --wholesale verified/WHOLESALE_DISCS_RACKS_ALL.csv \
+            --source drom/input/rossko_price.xlsx \
+            --avito avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --out candidate
+      - name: Reprice only approved supplier-matched rows in private candidate
+        run: |
+          python code/rossko_verified_retail_override.py \
+            --retail-map candidate/CONFIRMED_RETAIL_PRICE_MAP.csv \
+            --drom drom/public/drom_lensk.xlsx \
+            --avito candidate/AVITO_CONFIRMED_WHOLESALE_PRICES_REVIEW.xml \
+            --report candidate/retail_transition.json
+      - name: Upload RETAIL-only private audit, NO publication
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ROSSKO_CONFIRMED_RETAIL_DRY_RUN
+          path: |
+            candidate/summary.json
+            candidate/retail_transition.json
+            candidate/AVITO_CONFIRMED_PRICE_DIFF.csv
+            candidate/CONFIRMED_RETAIL_PRICE_MAP.csv
+          retention-days: 2
+          if-no-files-found: ignore
