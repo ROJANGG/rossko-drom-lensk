@@ -91,7 +91,7 @@ def apply_avito(path,retail):
         expected=progressive_price(item["source"])
         if old==item["avito"]:continue
         # Guard against unrelated manual price changes; allow small supplier drift.
-        if abs(old-expected)/old>Decimal("0.1"):
+        if old!=expected:
             continue
         if abs(item["avito"]-old)/old>Decimal("0.4"):
             raise ValueError("More than 40% shift for Avito SKU")
