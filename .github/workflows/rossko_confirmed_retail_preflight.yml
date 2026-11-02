@@ -33,7 +33,7 @@ jobs:
           python-version: '3.11'
       - name: Install offline verification and spreadsheet tools
         run: pip install 'openpyxl>=3.1,<4' 'requests>=2.31,<3' 'zeep>=4.3,<5'
-      - name: Tests: no unverified price, no overwritten Avito IDs
+      - name: "Tests - no unverified price and no overwritten Avito IDs"
         env:
           PYTHONPATH: code
         run: python -m unittest discover -s code/tests -p 'test_rossko_verified_price_release.py' -v
