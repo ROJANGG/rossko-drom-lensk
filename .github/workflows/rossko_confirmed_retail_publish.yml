@@ -1,0 +1,139 @@
+name: Publish confirmed ROSSKO wholesale-based prices for discs and racks
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rossko_confirmed_retail_publish.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+
+jobs:
+  publish-confirmed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 6b4066117b2c2f99c6f026752da0f9906a1b38aa
+          path: code
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: drom
+          persist-credentials: true
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: avito
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install 'openpyxl>=3.1,<4' 'requests>=2.31,<3' 'zeep>=4.3,<5'
+      - name: Test fail-closed brand SKU stock original-price and XML ID checks
+        env:
+          PYTHONPATH: code
+        run: python -m unittest discover -s code/tests -p 'test_rossko_verified_price_release.py' -v
+      - name: Read exact completed ROSSKO API validation artifact
+        uses: actions/download-artifact@v4
+        with:
+          artifact-ids: 13165397947
+          run-id: 41487921987
+          github-token: ${{ github.token }}
+          path: verified
+          merge-multiple: true
+      - name: Regenerate Drom from current supplier source before applying selected verified prices
+        working-directory: drom
+        run: python update_prices.py
+      - name: Validate wholesale snapshot freshness against fresh supplier stock and prices
+        run: |
+          python code/rossko_verified_price_release_plan.py \
+            --wholesale verified/WHOLESALE_DISCS_RACKS_ALL.csv \
+            --source drom/input/rossko_price.xlsx \
+            --avito avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --out candidate
+      - name: Reprice Drom from verified SKU-specific retail map
+        run: |
+          python code/rossko_verified_retail_override.py \
+            --retail-map candidate/CONFIRMED_RETAIL_PRICE_MAP.csv \
+            --drom drom/public/drom_lensk.xlsx \
+            --report candidate/drom_repricing.json
+      - name: Require safe counts and preserve all existing Avito IDs and non-price fields
+        run: |
+          python - <<'PY'
+          import json, copy
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          p=json.loads(Path("candidate/summary.json").read_text())
+          d=json.loads(Path("candidate/drom_repricing.json").read_text())
+          if not (900<=p["approved_against_supplier"]<=1139
+                  and 100<=p["avito_repriced"]<=195
+                  and 850<=d["drom_repriced"]<=1139):
+              raise SystemExit("REFUSE_RELEASE: unexpected SKU counts")
+          before=ET.parse("avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml").getroot()
+          after=ET.parse("candidate/AVITO_CONFIRMED_WHOLESALE_PRICES_REVIEW.xml").getroot()
+          old=before.findall("Ad"); new=after.findall("Ad")
+          if len(old)!=len(new) or len(old)<150:
+              raise SystemExit("REFUSE_RELEASE: Avito listing count changed")
+          diffs=0
+          for x,y in zip(old,new):
+              if x.findtext("Id")!=y.findtext("Id"):
+                  raise SystemExit("REFUSE_RELEASE: Avito ID changed")
+              oldprice=x.findtext("Price"); newprice=y.findtext("Price")
+              x2=copy.deepcopy(x);y2=copy.deepcopy(y)
+              x2.remove(x2.find("Price"));y2.remove(y2.find("Price"))
+              if ET.tostring(x2)!=ET.tostring(y2):
+                  raise SystemExit("REFUSE_RELEASE: non-price field modified")
+              diffs+=oldprice!=newprice
+          if diffs!=p["avito_repriced"]:
+              raise SystemExit("REFUSE_RELEASE: Avito price diff mismatch")
+          print("APPROVED_CONFIRMED_RETAIL_RELEASE",json.dumps({
+              "map":p["approved_against_supplier"],
+              "drom_changed":d["drom_repriced"],
+              "avito_changed":diffs,
+              "total_ads":len(old)
+          }))
+          PY
+      - name: Commit validated Drom XLSX and retail-only mapping to main
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp candidate/CONFIRMED_RETAIL_PRICE_MAP.csv drom/input/rossko_verified_retail_prices.csv
+          cd drom
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/drom_lensk.xlsx input/rossko_price.xlsx input/rossko_verified_retail_prices.csv logs/updates.log
+          git diff --cached --quiet && { echo "No price changes detected"; exit 1; }
+          git commit -m "Drom: use verified ROSSKO wholesale retail pricing for in-stock discs/racks"
+          git push origin HEAD:main
+      - name: Publish Avito confirmed wholesale-based PRICE changes only
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp candidate/AVITO_CONFIRMED_WHOLESALE_PRICES_REVIEW.xml avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          cd avito
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          git diff --cached --quiet && { echo "No Avito price changes detected"; exit 1; }
+          git commit -m "Avito: reprice existing confirmed Rossko wholesale brake discs and steering racks"
+          git push origin HEAD:avito-irkutsk-feed
+      - name: Save short-lived retail-only publication audit excluding wholesale costs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ROSSKO_CONFIRMED_RETAIL_RELEASE_AUDIT
+          path: |
+            candidate/summary.json
+            candidate/drom_repricing.json
+            candidate/AVITO_CONFIRMED_PRICE_DIFF.csv
+          retention-days: 2
+          if-no-files-found: ignore
