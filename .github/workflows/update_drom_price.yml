@@ -17,6 +17,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Load reviewed ROSSKO retail-only override logic
+        uses: actions/checkout@v4
+        with:
+          ref: 6b4066117b2c2f99c6f026752da0f9906a1b38aa
+          path: wholesale_code
+          persist-credentials: false
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -27,6 +34,17 @@ jobs:
 
       - name: Generate Drom price file
         run: python update_prices.py
+
+      - name: Preserve confirmed personal wholesale-based retail prices
+        run: |
+          if [ -s input/rossko_verified_retail_prices.csv ]; then
+            python wholesale_code/rossko_verified_retail_override.py \
+              --retail-map input/rossko_verified_retail_prices.csv \
+              --drom public/drom_lensk.xlsx \
+              --report /tmp/rossko_drom_retail_reconciliation.json
+          else
+            echo "No validated price map yet - keep existing retail prices"
+          fi
 
       - name: Commit updated files
         run: |
