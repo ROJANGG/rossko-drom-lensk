@@ -14,10 +14,11 @@ permissions:
 jobs:
   check-prices:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: e9a54a9db6f72957e2a19a4ecaa3b7fc0e22e440
+          ref: 09b2bb6d0d8b893e50f06e4933e27c7dfd37466f
           path: audit
           persist-credentials: false
 
@@ -32,6 +33,11 @@ jobs:
           python-version: "3.11"
 
       - run: pip install "zeep>=4.3,<5" "openpyxl>=3.1,<4"
+
+      - name: Test price/warehouse safeguards offline
+        env:
+          PYTHONPATH: audit
+        run: python -m unittest discover -s audit/tests -p test_rossko_wholesale_private_audit.py -v
 
       - name: Compare wholesale and price-list prices
         env:
