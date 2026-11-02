@@ -1,0 +1,24 @@
+name: ROSSKO wholesale API offline safety tests
+on:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - 'rossko_wholesale_private_audit.py'
+      - 'tests/test_rossko_wholesale_private_audit.py'
+      - '.github/workflows/rossko_wholesale_offline_tests.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  offline-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies (no API credentials)
+        run: pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4'
+      - name: Verify retry and warehouse safety
+        run: python -m unittest discover -s tests -p 'test_rossko_wholesale_private_audit.py' -v
