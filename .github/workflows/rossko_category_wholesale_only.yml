@@ -1,0 +1,113 @@
+name: ROSSKO wholesale prices - brake discs and steering racks (PRIVATE)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rossko_category_wholesale_only.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rossko-private-brakes-racks-categories
+  cancel-in-progress: false
+
+jobs:
+  safety-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 718b9121090bd0f0500c6c516db1552ec600318d
+          path: audit
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4'
+      - name: Verify product classifications, real-warehouse rules and no false prices
+        env:
+          PYTHONPATH: audit
+        run: python -m unittest discover -s audit/tests -p 'test_rossko_category_wholesale_export.py' -v
+
+  check:
+    needs: safety-tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        shard: [0,1,2,3,4,5,6,7]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 718b9121090bd0f0500c6c516db1552ec600318d
+          path: audit
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: source
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install API and XLSX dependencies
+        run: pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4'
+      - name: Check only brake discs and steering racks against personal API costs
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python audit/rossko_category_wholesale_export.py \
+            --price source/input/rossko_price.xlsx \
+            --out private/shard-${{ matrix.shard }} \
+            --shard-index ${{ matrix.shard }} \
+            --shard-count 8
+      - name: Save private results for this shard
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: private-brakes-racks-shard-${{ matrix.shard }}
+          path: private/
+          retention-days: 2
+          if-no-files-found: ignore
+
+  consolidate:
+    needs: [safety-tests,check]
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 718b9121090bd0f0500c6c516db1552ec600318d
+          path: audit
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install offline merge dependencies
+        run: pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4'
+      - name: Download only this run's private price shard artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: private-brakes-racks-shard-*
+          path: shards
+        continue-on-error: true
+      - name: Summarize only validated wholesale prices, and reveal missing rows
+        env:
+          PYTHONPATH: audit
+        run: python audit/rossko_category_wholesale_merge.py --source shards --output consolidated --shard-count 8
+      - name: Save combined PRIVATE category wholesale price CSV
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ROSSKO_BRAKE_DISCS_STEERING_RACKS_WHOLESALE_PRIVATE
+          path: consolidated/
+          retention-days: 2
+          if-no-files-found: ignore
