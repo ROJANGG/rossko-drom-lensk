@@ -1,0 +1,47 @@
+
+name: ROSSKO API Wholesale Price Check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: e9a54a9db6f72957e2a19a4ecaa3b7fc0e22e440
+          path: audit
+          persist-credentials: false
+
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: supplier
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install "zeep>=4.3,<5" "openpyxl>=3.1,<4"
+
+      - name: Compare wholesale and price-list prices
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python audit/rossko_wholesale_private_audit.py \
+            --price supplier/input/rossko_price.xlsx \
+            --output private_audit
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ROSSKO_WHOLESALE_PRICE_CHECK
+          path: private_audit/
+          retention-days: 2
+          if-no-files-found: ignore
