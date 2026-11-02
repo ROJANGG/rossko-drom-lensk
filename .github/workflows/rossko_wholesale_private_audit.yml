@@ -3,6 +3,10 @@ name: ROSSKO API Wholesale Price Check
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rossko_wholesale_private_audit.yml'
 
 permissions:
   contents: read
