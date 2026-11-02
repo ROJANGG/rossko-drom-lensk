@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: 09b2bb6d0d8b893e50f06e4933e27c7dfd37466f
+          ref: ac5223fb613580b7c5aef40dec605318e9e6a8c8
           path: audit
           persist-credentials: false
 
@@ -37,7 +37,7 @@ jobs:
       - name: Test price/warehouse safeguards offline
         env:
           PYTHONPATH: audit
-        run: python -m unittest discover -s audit/tests -p test_rossko_wholesale_private_audit.py -v
+        run: python -m unittest discover -s audit/tests -p 'test_rossko_wholesale_*.py' -v
 
       - name: Compare wholesale and price-list prices
         env:
@@ -47,6 +47,17 @@ jobs:
           python audit/rossko_wholesale_private_audit.py \
             --price supplier/input/rossko_price.xlsx \
             --output private_audit
+
+      - name: Preview wholesale-based Drom and Avito prices privately - no publication
+        if: always()
+        env:
+          PYTHONPATH: audit
+        run: |
+          if [ -f private_audit/private_price_comparison.csv ]; then
+            python audit/rossko_wholesale_price_preview.py \
+              --api-csv private_audit/private_price_comparison.csv \
+              --output private_audit
+          fi
 
       - uses: actions/upload-artifact@v4
         if: always()
