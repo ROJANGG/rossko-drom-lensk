@@ -2,7 +2,7 @@
 """Private, READ-ONLY ROSSKO wholesale API price validation.
 
 GitHub Actions secrets only; never log auth values or raw SOAP payloads.
-Checks 8 exact brand+SKU source-price lines, selects a valid checkout type,
+Checks 24 exact brand+SKU source-price lines, selects a valid checkout type,
 and generates a PRIVATE artifact; never updates Drom/Avito files.
 """
 from __future__ import annotations
@@ -14,6 +14,7 @@ import os
 import random
 import re
 import sys
+import time
 from collections import Counter
 from datetime import datetime, timezone
 from decimal import Decimal, InvalidOperation
@@ -27,14 +28,17 @@ from zeep.transports import Transport
 import requests
 
 ROOT = "https://api.rossko.ru/service/v2.1"
-CAT = {"brake_discs":3, "steering_racks":3, "other":2}
+CAT = {"brake_discs":10, "steering_racks":10, "other":4}
 CSV_FIELDS = ("category", "brand", "article", "supplier_list_price_rub",
               "supplier_stock", "supplier_delivery_days",
               "api_search_success", "exact_match", "api_matched_part_count",
               "api_instock_offers", "api_lowest_instock_rub",
               "api_zero_day_lowest_rub", "api_matching_delivery_lowest_rub",
               "wholesale_vs_list_percent_for_matching_delivery",
-              "api_price_is_lower_than_supplier_list", "status")
+              "api_price_is_lower_than_supplier_list",
+              "api_irkutsk_local_lowest_rub", "api_irkutsk_stock_ids",
+              "supplier_price_comparable", "api_warehouse_city_verified",
+              "api_all_matching_stock_cities", "status")
 
 
 def aslist(value):
@@ -118,14 +122,29 @@ def select_examples(path):
     return sample
 
 
+def retry_transient(fn, *, attempts=3, base_delay=1.0, sleep=time.sleep):
+    """Bounded retry for transient transport failures only; no retry on SOAP auth faults."""
+    retryable = (requests.exceptions.Timeout, requests.exceptions.ConnectionError,
+                 ConnectionError, TimeoutError)
+    for attempt in range(1, attempts+1):
+        try:
+            return fn()
+        except retryable:
+            if attempt == attempts:
+                raise
+            sleep(base_delay*attempt)
+
+
 def zeep_client(service):
-    session=requests.Session()
-    session.headers.update({"User-Agent":"RosskoWholesalePrivatePriceAudit/1.0"})
-    return Client(
-        wsdl=f"{ROOT}/{service}?wsdl",
-        transport=Transport(session=session,timeout=25,operation_timeout=35),
-        settings=Settings(strict=False,xml_huge_tree=False),
-    )
+    def create():
+        session=requests.Session()
+        session.headers.update({"User-Agent":"RosskoWholesalePrivatePriceAudit/2.0"})
+        return Client(
+            wsdl=f"{ROOT}/{service}?wsdl",
+            transport=Transport(session=session,timeout=20,operation_timeout=20),
+            settings=Settings(strict=False,xml_huge_tree=False),
+        )
+    return retry_transient(create,attempts=3)
 
 
 def rpc(client,name,params):
@@ -177,18 +196,61 @@ def choose_delivery(checkout):
     return None,"no_approved_pickup_or_irkutsk_delivery_in_account"
 
 
-def get_prices(client,credentials,delivery,items):
+def is_irkutsk_warehouse(description):
+    """Proof of warehouse locality is required for an Avito Irkutsk replacement."""
+    if not isinstance(description,str):
+        return False
+    return bool(re.search(r"(?<![а-я])иркутск(?![а-я])",description.casefold()))
+
+
+def calculate_offer(prices, supplier_days, supplier_price):
+    """Pure selection: only ordinary, in-stock, non-extra Irkutsk warehouse."""
+    all_offers=[]
+    local_offers=[]
+    for item in prices:
+        qty=number(item.get("count"),0)
+        day=number(item.get("delivery"),None)
+        price=decimal(item.get("price"))
+        typ=number(item.get("type"),None)
+        extra=number(item.get("extra"),0)
+        if price is None or price<=0 or qty<=0 or day is None or typ not in (0,1) or extra!=0:
+            continue
+        all_offers.append((price,day,item))
+        if is_irkutsk_warehouse(item.get("description")):
+            local_offers.append((price,day,item))
+    result={"total":len(all_offers),"matched":len(local_offers),
+            "min_all":min([p for p,d,i in all_offers],default=None),
+            "min_zero":min([p for p,d,i in all_offers if d==0],default=None),
+            "min_irkutsk_zero":min([p for p,d,i in local_offers if d==0],default=None),
+            "city_verified":bool(local_offers),
+            "stock_ids":sorted(set(str(i.get("id") or "") for p,d,i in local_offers if i.get("id"))),
+            "stock_cities":sorted(set(
+                "Irkutsk" if is_irkutsk_warehouse(i.get("description")) else "other_or_unknown"
+                for p,d,i in all_offers))}
+    # Same route + explicitly Irkutsk is required to compare to list file.
+    same=[(p,d,i) for p,d,i in local_offers if d==supplier_days]
+    result["same"]=min([p for p,d,i in same],default=None)
+    return result
+
+
+def get_prices(client,credentials,delivery,items,*,sleeper=time.sleep):
     rows=[]
-    for product in items:
+    for idx,product in enumerate(items):
         row={**product, "api_search_success":"","exact_match":False,
              "api_matched_part_count":0,"api_instock_offers":0,
              "api_lowest_instock_rub":"","api_zero_day_lowest_rub":"",
              "api_matching_delivery_lowest_rub":"",
              "wholesale_vs_list_percent_for_matching_delivery":"",
-             "api_price_is_lower_than_supplier_list":"","status":"not_checked"}
+             "api_price_is_lower_than_supplier_list":"",
+             "api_irkutsk_local_lowest_rub":"","api_irkutsk_stock_ids":"",
+             "supplier_price_comparable":False,
+             "api_warehouse_city_verified":False,"api_all_matching_stock_cities":"",
+             "status":"not_checked"}
         try:
             query=f'{product["brand"]} {product["article"]}'
-            data=rpc(client,"GetSearch",{**credentials,"text":query,**delivery})
+            data=retry_transient(
+                lambda: rpc(client,"GetSearch",{**credentials,"text":query,**delivery}),
+                attempts=3,base_delay=1.5,sleep=sleeper)
             result=findnode(data,["PartsList"]) or findnode(data,["success"])
             if not result:
                 row["status"]="api_no_structured_result"
@@ -197,55 +259,51 @@ def get_prices(client,credentials,delivery,items):
             row["api_search_success"]=str(result.get("success",result.get("Success","")))
             parts=(result.get("PartsList") or {}).get("Part",[])
             matches=[]
-            for p in aslist(parts):
-                if not isinstance(p,dict):
+            for part in aslist(parts):
+                if not isinstance(part,dict):
                     continue
-                # Ignore vendor suffix @XXXX, NOT all analogs returned under crosses.
-                exact_article=str(p.get("partnumber") or "").split("@")[0]
-                if norm(p.get("brand"))==norm(product["brand"]) and norm(exact_article)==norm(product["article"]):
-                    matches.append(p)
+                article=str(part.get("partnumber") or "").split("@")[0]
+                if norm(part.get("brand"))==norm(product["brand"]) and norm(article)==norm(product["article"]):
+                    matches.append(part)
             row["exact_match"]=bool(matches)
             row["api_matched_part_count"]=len(matches)
-            offers=[]
-            for p in matches:
-                for stock in aslist((p.get("stocks") or {}).get("stock")):
-                    if not isinstance(stock,dict):
-                        continue
-                    cost=decimal(stock.get("price"))
-                    qty=number(stock.get("count"),0)
-                    days=number(stock.get("delivery"),None)
-                    offer_type=number(stock.get("type"),None)
-                    extra=number(stock.get("extra"),0)
-                    if cost is None or cost<=0 or qty<=0 or days is None:
-                        continue
-                    # Only standard in-stock offers; skip damaged goods, extra warehouses.
-                    if offer_type not in (0,1) or extra!=0:
-                        continue
-                    offers.append((cost,days))
-            row["api_instock_offers"]=len(offers)
-            if offers:
-                best=min(p for p,d in offers)
-                local=[p for p,d in offers if d==0]
-                same=[p for p,d in offers if d==product["supplier_delivery_days"]]
-                row["api_lowest_instock_rub"]=str(best)
-                row["api_zero_day_lowest_rub"]=str(min(local)) if local else ""
-                if same:
-                    chosen=min(same)
-                    row["api_matching_delivery_lowest_rub"]=str(chosen)
-                    old=decimal(product["supplier_list_price_rub"])
-                    row["wholesale_vs_list_percent_for_matching_delivery"]=str(
-                        ((chosen-old)/old*100).quantize(Decimal("0.01")))
-                    row["api_price_is_lower_than_supplier_list"]=chosen<old
-                row["status"]="matched_offers" if same else "matched_but_delivery_differs"
+            stocks=[]
+            for part in matches:
+                for stock in aslist((part.get("stocks") or {}).get("stock")):
+                    if isinstance(stock,dict):
+                        stocks.append(stock)
+            details=calculate_offer(stocks,product["supplier_delivery_days"],
+                                    decimal(product["supplier_list_price_rub"]))
+            row["api_instock_offers"]=details["total"]
+            row["api_lowest_instock_rub"]=str(details["min_all"]) if details["min_all"] is not None else ""
+            row["api_zero_day_lowest_rub"]=str(details["min_zero"]) if details["min_zero"] is not None else ""
+            row["api_irkutsk_local_lowest_rub"]=str(details["min_irkutsk_zero"]) if details["min_irkutsk_zero"] is not None else ""
+            row["api_irkutsk_stock_ids"]=",".join(details["stock_ids"])
+            row["api_warehouse_city_verified"]=details["city_verified"]
+            row["api_all_matching_stock_cities"]=",".join(details["stock_cities"])
+            same=details["same"]
+            if same is not None:
+                row["api_matching_delivery_lowest_rub"]=str(same)
+                source=decimal(product["supplier_list_price_rub"])
+                row["wholesale_vs_list_percent_for_matching_delivery"]=str(
+                    ((same-source)/source*100).quantize(Decimal("0.01")))
+                row["api_price_is_lower_than_supplier_list"]=same<source
+                row["supplier_price_comparable"]=True
+                row["status"]="confirmed_irkutsk_matching_delivery"
+            elif details["total"]:
+                row["status"]="no_verified_irkutsk_matching_delivery"
             else:
                 row["status"]="no_instock_exact_offers" if matches else "no_exact_brand_sku"
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError, TimeoutError, ConnectionError) as exc:
+            row["status"]="transient_api_error_"+type(exc).__name__
         except Exception as exc:
-            # No exception messages! Some SOAP errors could contain auth-related data.
-            row["status"]="api_error_"+type(exc).__name__
+            row["status"]="fatal_api_error_"+type(exc).__name__
             rows.append(row)
-            # Abort rather than consuming quota on repeated auth/network failures.
+            # Do not retry non-transient auth, SOAP faults, or unexpected schema errors.
             break
         rows.append(row)
+        if idx < len(items)-1:
+            sleeper(0.4)
     return rows
 
 
@@ -267,7 +325,7 @@ def main():
         return 2
     creds={"KEY1":key1,"KEY2":key2}
     try:
-        checkout=rpc(zeep_client("GetCheckoutDetails"),"GetCheckoutDetails",creds)
+        checkout=retry_transient(lambda: rpc(zeep_client("GetCheckoutDetails"),"GetCheckoutDetails",creds),attempts=3,base_delay=2.0)
         delivery,method=choose_delivery(checkout)
     except Exception as exc:
         print("ROSSKO_API_AUDIT",json.dumps({"status":"checkout_api_error","error_class":type(exc).__name__}))
@@ -286,19 +344,22 @@ def main():
         for line in results:
             writer.writerow({name:line.get(name,"") for name in CSV_FIELDS})
     totals=Counter(x["status"] for x in results)
-    lower=[x for x in results if x["api_price_is_lower_than_supplier_list"] is True]
-    higher=[x for x in results if x["api_price_is_lower_than_supplier_list"] is False]
+    lower=[x for x in results if x["supplier_price_comparable"] and x["api_price_is_lower_than_supplier_list"] is True]
+    higher=[x for x in results if x["supplier_price_comparable"] and x["api_price_is_lower_than_supplier_list"] is False]
     report={"status":"completed","sample_count":len(items),"checked":len(results),
             "checkout_mode":method,"by_result":dict(totals),
             "api_cheaper_than_supplier_list_count":len(lower),
             "api_same_or_higher_than_supplier_list_count":len(higher),
             "relevant_matched_price_count":len(lower)+len(higher),
             "no_live_feed_changes":True,
+            "locality_rule":"only API stock.description explicitly containing Irkutsk, matching supplier days",
+            "transient_errors":sum(x["status"].startswith("transient_api_error_") for x in results),
             "checked_at_utc":datetime.now(timezone.utc).isoformat(),
             "important":"Checkout type verified for this account, but user's preferred fulfillment may differ"}
     (output/"private_summary.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
     print("ROSSKO_API_AUDIT",json.dumps(report,ensure_ascii=False),flush=True)
-    return 0 if len(results)==len(items) and len(lower)+len(higher)>=1 else 3
+    # A temporary API failure is not permission to publish or blindly reuse prices.
+    return 0 if len(results)==len(items) and len(lower)+len(higher)>=3 and not any(x["status"].startswith("fatal_api_error_") for x in results) else 3
 
 
 if __name__=="__main__":
