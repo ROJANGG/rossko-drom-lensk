@@ -1,0 +1,67 @@
+name: Avito Irkutsk - first 3 smallest new categories API OEM photo review ONLY
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_first_small_categories_api_review.yml'
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-new-categories-review-only
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 3eec21dc9dde2586674a4956cee847a150241d17
+          path: generator
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install verified API dependency and Excel reader
+        run: python -m pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4' 'requests>=2.31,<3'
+      - name: Check that accessories are not confused with real replacement parts
+        env:
+          PYTHONPATH: generator
+        run: |
+          python - <<'PY'
+          from avito_extra_categories_census import classify
+          expected={
+            "Свеча накаливания":"Свечи накала",
+            "Смазка для монтажа свечей накала Pro-Line":None,
+            "Приспособление для свечи накала":None,
+            "Кольцо уплотнительное форсунки впрыска топлива":None,
+            "Комплект цепи ГРМ":"Комплекты цепи ГРМ",
+            "Ремкомплект ГРМ (ремень/ролик)":None,
+            "Радиатор кондиционера":"Радиаторы кондиционера",
+            "Колодки барабанные":"Колодки барабанные"
+          }
+          for t,v in expected.items():
+              got=classify(t)
+              if got != v:
+                  raise SystemExit(f"Unclear category for {t}: {got} != {v}")
+          print("CATEGORY_EXACT_PART_TESTS PASS",len(expected))
+          PY
+      - name: Query API for smallest stocked categories without creating ads
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python generator/avito_extra_small_categories_api_review.py \
+            --config generator/config.json \
+            --out private_review
+      - name: Save PRIVATE OEM-photo review queue, never alter live Avito feed
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_FIRST_SMALL_CATEGORIES_PERSONAL_API_REVIEW_NOT_LIVE
+          path: private_review/
+          retention-days: 3
+          if-no-files-found: ignore
