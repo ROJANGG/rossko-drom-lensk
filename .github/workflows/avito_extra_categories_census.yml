@@ -1,0 +1,39 @@
+name: Avito Irkutsk - new requested categories stock census (REVIEW ONLY)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_extra_categories_census.yml'
+permissions:
+  contents: read
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fdc28f6701e6ad309985d936a014b91e309c40c3
+          path: generator
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install fresh XLSX dependencies
+        run: python -m pip install 'openpyxl>=3.1,<4' 'requests>=2.31,<3'
+      - name: Count user's requested parts by brand/article and Irkutsk 0-day in-stock
+        run: |
+          python generator/avito_extra_categories_census.py \
+            --config generator/config.json \
+            --out review
+      - name: Save category ranking and SKU-review files ONLY
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_NEW_CATEGORIES_RANKED_REVIEW_NOT_LIVE
+          path: review/
+          if-no-files-found: ignore
+          retention-days: 3
