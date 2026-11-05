@@ -2,7 +2,7 @@ import copy
 import unittest
 from decimal import Decimal
 from xml.etree import ElementTree as ET
-from avito_active_feed_refresh import plan, key
+from avito_active_feed_refresh import plan, key, reconstruct_approved_catalog
 
 
 def fixture(count=170, absent=6):
@@ -65,6 +65,32 @@ class ActiveRefreshTest(unittest.TestCase):
         ads=ET.fromstring(new).findall("Ad")
         self.assertEqual(ads[7].findtext("Price"),"3000")
         self.assertEqual(ads[8].findtext("Price"),"3000")
+
+
+    def test_restore_only_approved_previous_skus(self):
+        archive,products,retail=fixture(count=170,absent=0)
+        root=ET.fromstring(archive)
+        old_ids=[x.findtext("Id") for x in root.findall("Ad")]
+        root.remove(root.findall("Ad")[3])
+        root.remove(root.findall("Ad")[9])
+        current=ET.tostring(root)
+        universe,restocks=reconstruct_approved_catalog(archive,current,products,retail)
+        self.assertEqual(len(restocks),2)
+        after=ET.fromstring(universe)
+        self.assertEqual([a.findtext("Id") for a in after.findall("Ad")],old_ids)
+        self.assertEqual(after.findall("Ad")[3].findtext("Price"),"2750")
+        # Existing ads retain their current prices and full metadata.
+        self.assertEqual(after.findall("Ad")[0].findtext("Price"),"3000")
+
+    def test_no_restore_without_personal_verified_price(self):
+        archive,products,retail=fixture(count=170,absent=0)
+        root=ET.fromstring(archive)
+        root.remove(root.findall("Ad")[3])
+        retail.pop(key("NGN","T00003"))
+        universe,restocks=reconstruct_approved_catalog(
+            archive,ET.tostring(root),products,retail)
+        self.assertEqual(restocks,[])
+        self.assertEqual(len(ET.fromstring(universe).findall("Ad")),169)
 
     def test_mass_removals_are_blocked(self):
         old,products,retail=fixture(count=170,absent=15)
