@@ -5,7 +5,7 @@ No commit or publication here. Source: manufacturer's exact-SKU pages and
 SHA-pinned genuine photos, ROSSKO fresh 0-day price/stock + account-specific
 API quote. Existing live/approved IDs and contents preserved exactly.
 """
-import argparse,csv,hashlib,io,json,os,re,copy
+import argparse,csv,hashlib,io,json,os,re,copy,time
 from pathlib import Path
 from xml.etree import ElementTree as ET
 from decimal import Decimal
@@ -124,14 +124,26 @@ def run(config,live,archive,retail,evidence_folder,out):
             or len(images)!=1):
             raise ValueError("Manufacturer item OEM/photo evidence changed")
         item=found[article]
-        quote=audit_one(client,creds,delivery,{
+        payload={
             "brand":item["brand"],"article":article,"category":GROUP,
             "supplier_list_price_rub":str(item["price"]),
             "supplier_stock":item["stock"],"supplier_delivery_days":0
-        })
+        }
+        quote=None
+        for attempt in range(3):
+            quote=audit_one(client,creds,delivery,payload)
+            if (quote["status"]=="опт_Иркутск_подтвержден"
+                and quote.get("api_irkutsk_stock_ids")):
+                break
+            print("STARTVOLT_API_RETRY",article,quote.get("status","not_found"),
+                  "attempt",attempt+1,flush=True)
+            if attempt<2:
+                time.sleep(2*(attempt+1))
+                client=zeep_client("GetSearch")
         if (quote["status"]!="опт_Иркутск_подтвержден"
             or not quote.get("api_irkutsk_stock_ids")):
-            raise ValueError("No exact personalized account price with local stock")
+            raise ValueError("Personal API no verified Irkutsk price for "+article+
+                             ": "+str(quote.get("status","unknown")))
         purchase=Decimal(quote["api_irkutsk_same_delivery_price_rub"])
         if purchase<=0 or purchase>item["price"]*2 or purchase<item["price"]/10:
             raise ValueError("Suspicious purchase price")
