@@ -11,7 +11,7 @@ import requests
 from PIL import Image,ImageOps,ImageDraw,ImageFont
 
 FIELDS=("category","brand","article","photo_url_hint","status",
-        "pixel_width","pixel_height","bytes","sha256")
+        "pixel_width","pixel_height","bytes","sha256","content_type","magic_head")
 def main():
     p=argparse.ArgumentParser()
     p.add_argument("--candidate-csv",type=Path,required=True)
@@ -32,11 +32,13 @@ def main():
             raise ValueError("Unexpected image source; refuse untrusted host")
         rec={"category":r["category"],"brand":r["brand"],"article":r["article"],
              "photo_url_hint":url,"status":"FETCH_FAILED","pixel_width":"",
-             "pixel_height":"","bytes":"","sha256":""}
+             "pixel_height":"","bytes":"","sha256":"","content_type":"","magic_head":""}
         try:
             response=session.get(url,timeout=(8,18))
             response.raise_for_status()
             raw=response.content
+            rec["content_type"]=response.headers.get("Content-Type","").split(";")[0][:70]
+            rec["magic_head"]=raw[:16].hex()
             if len(raw)>12000000 or len(raw)<1500:raise ValueError("Suspicious image size")
             with Image.open(io.BytesIO(raw)) as img:
                 img.load()
@@ -68,6 +70,7 @@ def main():
         writer.writerows(out)
     summary={"images_hinted":len(items),"images_fetched":len(previews),
              "image_unique_hashes":len(set(x["sha256"] for x in out if x["sha256"])),
+             "response_signatures_sample":[{"type":x["content_type"],"head":x["magic_head"],"status":x["status"]} for x in out[:3]],
              "statuses":dict(Counter(r["status"] for r in out)),
              "final_photo_approval_count":0,
              "no_publication":True}
