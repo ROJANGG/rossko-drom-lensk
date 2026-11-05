@@ -1,12 +1,7 @@
-name: Avito Irkutsk - four daily 198-SKU controlled XML refresh
-
-# One independent workflow in main. Drom workflow/code is untouched.
-# Customer-facing descriptions were updated on 2026-10-16 to omit supplier names.
-# Original 50 plus staged CTR additions, 66 sourced OEM items and 53 exact NGN disc OEMs; preserve all permanent IDs.
-# 2026-10-20: GD0123 JPEG goes through tested jsDelivr CDN after Avito timeout on GitHub raw; all IDs unchanged.
-# 23:17, 03:17, 07:17, 11:17 UTC = 07:17, 11:17, 15:17, 19:17 Irkutsk (UTC+8).
-# Avito Pro already reads the existing stable XML URL; a push updates real listings.
-# Supplier XLSX cache verified with a true .xlsx temporary filename before use.
+name: Avito Irkutsk - four daily verified wholesale and stock XML refresh
+# Avito ONLY. Never updates Drom. Live feed is touched only after supplier
+# stock is fresh, missing items are independently rechecked, and all
+# existing IDs/OEM/photos/descriptions pass the fail-closed controls.
 on:
   schedule:
     - cron: '17 3,7,11,23 * * *'
@@ -21,185 +16,109 @@ permissions:
 
 concurrency:
   group: avito-irkutsk-four-daily-feed
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
-    # Ephemeral file, unique by GitHub run ID; no cross-run stale pricing.
+    timeout-minutes: 18
     env:
       ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
     steps:
-      - name: Checkout isolated Avito generator (never change Drom main files)
+      - name: Checkout tested Avito-only active catalogue refresher
         uses: actions/checkout@v4
         with:
-          ref: feature/avito-irkutsk-draft
+          ref: d1cc3f3a24ebe36b2b52576227b516cb8255d107
           path: generator
           persist-credentials: false
-      - name: Checkout existing preview XML branch
+
+      - name: Checkout live Avito XML and immutable approved SKU archive
         uses: actions/checkout@v4
         with:
           ref: avito-irkutsk-feed
           path: preview
           persist-credentials: true
-      - name: Checkout verified retail-only prices (no private API costs)
+
+      - name: Checkout retail-only price overrides from verified ROSSKO API
         uses: actions/checkout@v4
         with:
           ref: main
-          path: wholesale_pricing
+          path: retail
           persist-credentials: false
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Install required packages
-        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0' 'beautifulsoup4>=4.12'
-      - name: Check safeguards for ID, price and missing-stock changes
-        working-directory: generator
-        run: python -m unittest discover -s tests -p 'test_avito_feed_transition.py' -v
-      - name: Download fresh ROSSKO price, fifty source-verified OEM SKUs
-        working-directory: generator
-        run: python avito_sync_staging.py
-      - name: Add only two CTR discs with manufacturer OEM and verified supplier photo nomenclature
-        working-directory: generator
-        run: |
-          python avito_expand_canary.py \
-            --pilot-xml output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
-            --out output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml
-      - name: Add five more verified CTR discs from fresh Irkutsk supplier stock
-        working-directory: generator
-        run: |
-          python avito_next_five_preflight.py \
-            --base-xml output/avito_price_stock_staging/AVITO_TWO_NEW_DRAFT.xml \
-            --out output/avito_next_five_live \
-            --live-candidate \
-            --allow-small-stock-removals
-      - name: Add second five exact-OEM CTR discs from fresh Irkutsk stock
-        working-directory: generator
-        run: |
-          python avito_second_five_preflight.py \
-            --base-xml output/avito_next_five_live/AVITO_NEXT_FIVE_LIVE_CANDIDATE.xml \
-            --out output/avito_second_five_live \
-            --live-candidate \
-            --allow-small-stock-removals
-      - name: Add ten more CTR discs from sourced OEM and current Irkutsk inventory
-        working-directory: generator
-        run: |
-          python avito_third_ten_preflight.py \
-            --base-xml output/avito_second_five_live/AVITO_SECOND_FIVE_LIVE_CANDIDATE.xml \
-            --out output/avito_third_ten_live \
-            --live-candidate \
-            --allow-small-stock-removals
-      - name: Add all 11 remaining CTR manufacturer-OEM discs from fresh Irkutsk stock
-        working-directory: generator
-        run: |
-          python avito_fourth_eleven_preflight.py \
-            --base-xml output/avito_third_ten_live/AVITO_THIRD_TEN_LIVE_CANDIDATE.xml \
-            --out output/avito_fourth_eleven_live \
-            --live-candidate \
-            --allow-small-stock-removals
-      - name: Add 66 sourced-OEM NGN Marshall Master KiT Fenox items from fresh Irkutsk stock
-        working-directory: generator
-        run: |
-          python avito_bulk66_preflight.py \
-            --base-xml output/avito_fourth_eleven_live/AVITO_FOURTH_ELEVEN_LIVE_CANDIDATE.xml \
-            --out output/avito_bulk66_live \
-            --live-candidate \
-            --allow-small-stock-removals
-      - name: Add 53 exact-SKU original-OEM sourced NGN brake discs from current Irkutsk stock
-        working-directory: generator
-        run: |
-          python avito_ngn53_preflight.py \
-            --base-xml output/avito_bulk66_live/AVITO_BULK66_LIVE_CANDIDATE.xml \
-            --out output/avito_ngn53_release \
-            --allow-small-stock-removals
-      - name: Apply ONLY verified ROSSKO wholesale-based prices to approved existing candidate
-        working-directory: generator
-        run: |
-          if [ -s ../wholesale_pricing/input/rossko_verified_retail_prices.csv ]; then
-            python rossko_verified_retail_override.py \
-              --retail-map ../wholesale_pricing/input/rossko_verified_retail_prices.csv \
-              --avito output/avito_ngn53_release/AVITO_NGN53_LIVE_CANDIDATE.xml \
-              --report output/avito_ngn53_release/verified_retail_pricing.json
-          else
-            echo "No verified retail prices - keep existing feed logic"
-          fi
 
-      - name: Mirror supplier photos for original 145 plus new 53 NGN discs
+      - name: Install source-file parser
+        run: python -m pip install 'openpyxl>=3.1,<4' 'requests>=2.31,<3'
+
+      - name: Test strict matching ID OEM photos absence and stock restoration
         working-directory: generator
+        run: python -m unittest discover -s tests -p 'test_avito_active_feed_refresh.py' -v
+
+      - name: Build validated fresh-price and two-snapshot stock XML
         run: |
-          python avito_image_mirror.py \
-            --candidate output/avito_ngn53_release/AVITO_NGN53_LIVE_CANDIDATE.xml \
-            --image-dir ../preview/avito-images \
-            --output output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
-            --manifest output/avito_price_stock_staging/avito_photo_manifest.json \
-            --approved-new input/avito_canary_2_new.csv \
-            --approved-next-five \
-            --approved-second-five \
-            --approved-third-ten \
-            --approved-fourth-eleven \
-            --approved-bulk66 --approved-ngn53
-      - name: Compare candidate against current public XML - fail closed
-        working-directory: generator
+          python generator/avito_active_feed_refresh.py \
+            --config generator/config.json \
+            --previous preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --approved-catalog preview/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --verified-retail-map retail/input/rossko_verified_retail_prices.csv \
+            --out result \
+            --max-removals 12
+
+      - name: Verify controlled XML transition and never permit bulk disappearance
         run: |
-          python avito_feed_transition.py \
-            --previous ../preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
-            --candidate output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml \
-            --report output/avito_price_stock_staging/transition_precheck.json \
-            --approved-new input/avito_canary_2_new.csv \
-            --approved-next-five \
-            --approved-second-five \
-            --approved-third-ten \
-            --approved-fourth-eleven \
-            --approved-bulk66 --approved-ngn53
-      - name: Publish content-addressed JPEGs FIRST, leaving the live XML unchanged
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          report=json.loads(Path("result/report.json").read_text(encoding="utf-8"))
+          before=report["current_live_before"]
+          after=report["after"]
+          removed=report["removed_from_previous_live_feed"]
+          restored=report["restocked_approved_ads"]
+          if not 150<=after<=300 or before+len(restored)-len(removed)!=after:
+              raise SystemExit("REFUSE_AVITO_RELEASE: unexpected XML count")
+          if len(removed)>12 or len(removed)/before>0.075 or len(restored)>12:
+              raise SystemExit("REFUSE_AVITO_RELEASE: unexpected stock change")
+          if not report["removed_independently_verified"] or not report["restock_supplier_double_checked"]:
+              raise SystemExit("REFUSE_AVITO_RELEASE: stock not double-checked")
+          xml=ET.parse("result/AVITO_ACTIVE_PRICES_STOCK_CANDIDATE.xml").getroot()
+          ads=xml.findall("Ad")
+          ids=[x.findtext("Id") for x in ads]
+          if len(ads)!=after or None in ids or len(set(ids))!=len(ids):
+              raise SystemExit("REFUSE_AVITO_RELEASE: missing/duplicate IDs")
+          if any(not x.findtext("OEM") or not x.find("Images/Image") is not None for x in ads):
+              raise SystemExit("REFUSE_AVITO_RELEASE: original OEM/photo missing")
+          print("AVITO_APPROVED_STOCK_PRICE_REFRESH",json.dumps({
+              "before":before,"after":after,"confirmed_stock_removed":len(removed),
+              "restocked_existing_IDs":len(restored),"verified_prices_changed":report["repriced"],
+              "unverified_prices_kept":report["price_kept_unverified"]
+          }))
+          PY
+
+      - name: Publish validated Avito XML ONLY (never touch supplier or Drom files)
         shell: bash
         run: |
           set -euo pipefail
+          cp result/AVITO_ACTIVE_PRICES_STOCK_CANDIDATE.xml preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
           cd preview
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add avito-images/
+          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
           if git diff --cached --quiet; then
-            echo "JPEG mirrors already exist on Avito isolated branch"
+            echo "No Avito price or verified stock change; live feed unchanged"
           else
-            git commit -m "Stage new immutable NGN53 JPEGs before activating XML"
+            git commit -m "Avito: refresh only approved SKUs, verified personal retail prices and fresh Irkutsk stock"
             git push origin HEAD:avito-irkutsk-feed
           fi
-      - name: Verify each new NGN photo is PUBLICLY accessible on jsDelivr CDN with exact JPEG checksum
-        working-directory: generator
-        run: |
-          python avito_ngn53_cdn_probe.py \
-            --manifest output/avito_price_stock_staging/avito_photo_manifest.json \
-            --image-dir ../preview/avito-images \
-            --report output/avito_ngn53_release/cdn_public_precheck.json
-      - name: Replace ONLY the isolated pilot XML when validated
-        env:
-          TARGET_BRANCH: avito-irkutsk-feed
-        shell: bash
-        run: |
-          set -euo pipefail
-          cp generator/output/avito_price_stock_staging/AVITO_XML_MIRRORED_JPEG.xml preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
-          cd preview
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml avito-images/
-          if git diff --cached --quiet; then
-            echo "No price or stock change: public XML unchanged"
-          else
-            git commit -m "Avito 198-SKU controlled feed: sourced NGN OEMs, fresh Rossko local stock"
-            git push origin "HEAD:${TARGET_BRANCH}"
-          fi
-      - name: Save short-lived private audit (not a public auto-publisher)
+
+      - name: Save short-lived private stock and retail-only price audit
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: avito-fifty-refresh-audit
-          path: |
-            generator/output/avito_price_stock_staging/summary.json
-            generator/output/avito_price_stock_staging/avito_50_sync_audit.csv
-            generator/output/avito_price_stock_staging/transition_precheck.json
-            generator/output/avito_price_stock_staging/avito_photo_manifest.json
-            generator/output/avito_ngn53_release/summary.json
-            generator/output/avito_ngn53_release/cdn_public_precheck.json
+          name: AVITO_VERIFIED_STOCK_AND_PRICING_AUDIT
+          path: result/report.json
           retention-days: 2
-          if-no-files-found: error
+          if-no-files-found: ignore
