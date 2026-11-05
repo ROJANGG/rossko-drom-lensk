@@ -1,0 +1,23 @@
+name: Avito Luzar LRAC3034 official photo verify (READ ONLY)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_luzar_photo_probe.yml']
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 798dfde1f2ea254bc2c0093326c3cc2f5c0d2903
+          path: research
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install beautifulsoup4 requests
+      - run: python research/avito_luzar_photo_probe.py
