@@ -56,7 +56,7 @@ def list_approved(archive_xml):
         k, group = seller_sku(ad)
         if not id or id in ids or k in keys:
             raise ValueError("Duplicate/invalid approved Avito SKU")
-        if group not in ("Тормозные диски", "Рулевые рейки"):
+        if group not in ("Тормозные диски", "Рулевые рейки", "Радиаторы кондиционера"):
             raise ValueError("Unexpected category in approved Avito feed")
         keys.add(k)
         ids.add(id)
