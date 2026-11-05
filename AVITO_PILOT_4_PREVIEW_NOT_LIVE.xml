@@ -429,7 +429,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>24950</Price>
+    <Price>21900</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -452,7 +452,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>35700</Price>
+    <Price>31350</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -475,7 +475,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>44200</Price>
+    <Price>38750</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -498,7 +498,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>25000</Price>
+    <Price>22000</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -521,7 +521,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>27550</Price>
+    <Price>24250</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -544,7 +544,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>28800</Price>
+    <Price>25300</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -567,35 +567,12 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>13100</Price>
+    <Price>11500</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b08df9b4b8ac56d85f8164-8b3e1d208aec.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>irk-609ba59f974edaf3619658</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Рулевое управление</SparePartType>
-    <OEM>56500A7500</OEM>
-    <Title>Рулевая рейка Krauf HNQ5047GQ новый</Title>
-    <Description>Рулевая рейка, производитель Krauf, артикул HNQ5047GQ.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>16250</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>Krauf</Brand>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-609ba59f974edaf3619658-2fb5bf8166c0.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -613,7 +590,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>12900</Price>
+    <Price>11350</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -636,7 +613,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>14300</Price>
+    <Price>12600</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -659,7 +636,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>24550</Price>
+    <Price>21600</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -682,7 +659,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>18250</Price>
+    <Price>16050</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -705,7 +682,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>14700</Price>
+    <Price>12950</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -728,7 +705,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>20600</Price>
+    <Price>18150</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -774,7 +751,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>25700</Price>
+    <Price>22600</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -797,7 +774,7 @@
 Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
 Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
     <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>21000</Price>
+    <Price>18450</Price>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
     <Brand>Krauf</Brand>
@@ -1312,29 +1289,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>irk-ae48b6eb0c25cf65384973</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>4243102170</OEM>
-    <Title>Тормозной диск CTR GD0058 новый</Title>
-    <Description>Тормозной диск, производитель CTR, артикул GD0058.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>3700</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>CTR</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-ae48b6eb0c25cf65384973-912316033372.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>irk-238618f50be387ccd00ab3</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -1634,29 +1588,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>irk-b9bce5baae5ca0c92ede74</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>584113A300</OEM>
-    <Title>Тормозной диск CTR GD0188 новый</Title>
-    <Description>Тормозной диск, производитель CTR, артикул GD0188.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>4550</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>CTR</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-b9bce5baae5ca0c92ede74-56077399392a.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>irk-b08ab36986f9038d82d627</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -1792,52 +1723,6 @@
     <Brand>CTR</Brand>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-56ec38c805b8f4740acb79-d8a55cfad3ba.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>irk-34dd79e18cc14c2349fab3</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>4351212270</OEM>
-    <Title>Тормозной диск Fenox TB217657 новый</Title>
-    <Description>Тормозной диск, производитель Fenox, артикул TB217657.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>3350</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>Fenox</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-34dd79e18cc14c2349fab3-30664b7a496c.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>irk-b85e4e2d87390f6d414ecd</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>1223663</OEM>
-    <Title>Тормозной диск Marshall M2000400 новый</Title>
-    <Description>Тормозной диск, производитель Marshall, артикул M2000400.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>5150</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>Marshall</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-b85e4e2d87390f6d414ecd-4c1423ce3555.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -2416,29 +2301,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>irk-dd988222589fd97671bda0</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>1379931</OEM>
-    <Title>Тормозной диск NGN 361255 новый</Title>
-    <Description>Тормозной диск, производитель NGN, артикул 361255.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>4150</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>NGN</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-dd988222589fd97671bda0-90e360c94196.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>irk-698824c521e005c25da797</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -2528,29 +2390,6 @@
     <Brand>NGN</Brand>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-90ae1f1b29f0d803c9605f-c06e4bc61f89.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>irk-f6f43530e48a42c980fa74</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>42510SEAE00</OEM>
-    <Title>Тормозной диск NGN 361265 новый</Title>
-    <Description>Тормозной диск, производитель NGN, артикул 361265.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>4850</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>NGN</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-f6f43530e48a42c980fa74-588473e094be.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -3934,29 +3773,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>irk-3784438a1ea84aef781fc7</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>5DA033251</OEM>
-    <Title>Тормозной диск NGN 361892 новый</Title>
-    <Description>Тормозной диск, производитель NGN, артикул 361892.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>4650</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>NGN</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-3784438a1ea84aef781fc7-cf36c81da9f0.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>irk-6da88a729957f9cd6874f1</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -4276,29 +4092,6 @@
     <Brand>NGN</Brand>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-020721cc1e4d2fbdbb6be3-1fce076e0e98.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>irk-6cd075270db30f689f7ee5</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>4351202190</OEM>
-    <Title>Тормозной диск NGN 362198 новый</Title>
-    <Description>Тормозной диск, производитель NGN, артикул 362198.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>6450</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>NGN</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-6cd075270db30f689f7ee5-dd83a448c14e.jpg" />
     </Images>
   </Ad>
   <Ad>
