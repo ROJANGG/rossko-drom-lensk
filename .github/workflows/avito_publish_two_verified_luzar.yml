@@ -20,7 +20,7 @@ jobs:
       - name: Checkout source-pinned two-Luzar release logic
         uses: actions/checkout@v4
         with:
-          ref: 086dbd721272e5fd9e2a7fe798336f9b03fc9a7d
+          ref: 42d6de8a5988538d54453030905e24163a996ac2
           path: generator
           persist-credentials: false
       - name: Checkout current live Avito feed and approved archive
@@ -34,6 +34,15 @@ jobs:
           python-version: '3.11'
       - name: Install ROSSKO SOAP source photo and XML dependencies
         run: python -m pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4' 'requests>=2.31,<3' 'pillow>=10,<13' 'beautifulsoup4>=4.12,<5'
+      - name: Retrieve earlier today personally verified API prices (strict 3h fallback only)
+        uses: actions/download-artifact@v4
+        with:
+          artifact-ids: 13405051947
+          run-id: 42006551154
+          github-token: ${{ github.token }}
+          path: verified
+          merge-multiple: true
+
       - name: Unit tests for brand SKU matching stock price ID and category safeguards
         working-directory: generator
         run: |
@@ -50,6 +59,8 @@ jobs:
             --archive avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
             --retail avito/avito-verified-retail-prices.csv \
             --evidence generator/input/avito_luzar_two_official_evidence.json \
+            --fallback-review-csv verified/FIRST_3_CATEGORIES_PERSONAL_PRICE_AND_OEM_PHOTO_REVIEW.csv \
+            --fallback-summary verified/summary.json \
             --output candidate
       - name: Verify count 186 to 188 and preserve all old IDs and full XML data
         run: |
