@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: 8716e1a822d9c9e963441bc82abb4b72cc0ebc8e
+          ref: d1cc3f3a24ebe36b2b52576227b516cb8255d107
           path: generator
           persist-credentials: false
       - uses: actions/checkout@v4
@@ -42,6 +42,7 @@ jobs:
           python generator/avito_active_feed_refresh.py \
             --config generator/config.json \
             --previous preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --approved-catalog preview/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
             --verified-retail-map wholesale_pricing/input/rossko_verified_retail_prices.csv \
             --out output \
             --max-removals 12
