@@ -82,6 +82,12 @@ def main():
                     urls.append(candidate)
             urls=list(dict.fromkeys(urls))[:3]
             if not urls:
+                print('STARTVOLT_RAW_ASSET_DIAG',article,json.dumps({
+                    'images':[(im.get('src') or im.get('data-src') or '')[:180] for im in soup.find_all('img')[-12:]],
+                    'jpg_paths':list(dict.fromkeys(re.findall(r'''(?:https?://[^\s"'<>]+|/[^\s"'<>]+)\.(?:jpg|jpeg|webp)''',resp.text,re.I)))[:8],
+                    'photo_refs':[x[:140] for x in re.findall(r'''[^\n]{0,100}GLSP[\s_-]*'''+article[4:]+r'''[^\n]{0,140}''',resp.text,re.I)[:2]]
+                },ensure_ascii=False),flush=True)
+            if not urls:
                 print('STARTVOLT_IMG_DIAG',article,json.dumps([
                     {'src':(im.get('src') or im.get('data-src') or '')[:210],
                      'alt':im.get('alt','')[:90]}
