@@ -1,0 +1,76 @@
+name: Avito Luzar 2 exact OEM photo product FULL PREFLIGHT (NOT LIVE)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_luzar_two_release_dryrun.yml']
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 086dbd721272e5fd9e2a7fe798336f9b03fc9a7d
+          path: generator
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: preview
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install SOAP XLSX image and product source libraries
+        run: pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4' 'requests>=2.31,<3' 'pillow>=10,<13' 'beautifulsoup4>=4.12,<5'
+      - name: Offline tests avoid breaking existing 186 Avito products
+        working-directory: generator
+        run: |
+          python -m unittest discover -s tests -p test_avito_luzar_extension.py -v
+          python -m unittest discover -s tests -p test_avito_active_feed_refresh.py -v
+      - name: Prepare exact two approved Luzar products with new ROSSKO API prices
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python generator/avito_two_luzar_release_prep.py \
+            --config generator/config.json \
+            --live preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --archive preview/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --retail preview/avito-verified-retail-prices.csv \
+            --evidence generator/input/avito_luzar_two_official_evidence.json \
+            --output candidate
+      - name: Confirm exact two new URLs and no existing listing mutation
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          report=json.loads(Path("candidate/report.json").read_text())
+          a=ET.parse("preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml").getroot().findall("Ad")
+          b=ET.parse("candidate/AVITO_LIVE_WITH_LUZAR_TWO.xml").getroot().findall("Ad")
+          if not (len(a)==186 and len(b)==188 and report["manufacturer_OEM_verified"]==2
+                  and report["photos_unique_verified"]==4 and report["confirmed_api_price_and_irkutsk_stock"]==2):
+              raise SystemExit("REFUSE: unexpected approved new ad count")
+          if any(ET.tostring(x)!=ET.tostring(y) for x,y in zip(a,b)):
+              raise SystemExit("REFUSE: preexisting 186 XML ads modified")
+          print("AVITO_LUZAR_TWO_READY_PRIVATE_REVIEW",json.dumps(report))
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: AVITO_LUZAR_TWO_FULL_PRIVATE_EVIDENCE_NOT_LIVE
+          path: |
+            candidate/report.json
+            candidate/AVITO_LIVE_WITH_LUZAR_TWO.xml
+            candidate/AVITO_APPROVED_WITH_LUZAR_TWO.xml
+          retention-days: 2
+          if-no-files-found: ignore
