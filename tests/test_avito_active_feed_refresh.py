@@ -53,6 +53,32 @@ class ActiveRefreshTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,"snapshots disagree"):
             plan(old,products,retail,second_stock=second)
 
+    def test_never_reprice_without_same_run_api_confirmation(self):
+        old,products,retail=fixture(count=170,absent=0)
+        verified={key("NGN","T00001"),key("NGN","T00003")}
+        updated,report=plan(old,products,retail,freshly_verified=verified)
+        ads=ET.fromstring(updated).findall("Ad")
+        self.assertEqual(ads[1].findtext("Price"),"2750")
+        self.assertEqual(ads[3].findtext("Price"),"2750")
+        self.assertEqual(ads[2].findtext("Price"),"3000")
+        self.assertEqual(report["repriced"],2)
+        self.assertEqual(report["price_kept_unverified"],168)
+
+    def test_restocks_require_new_api_confirmation(self):
+        archive,products,retail=fixture(count=170,absent=0)
+        live=ET.fromstring(archive)
+        live.remove(live.findall("Ad")[2])
+        old=ET.tostring(live)
+        unverified,unrestored=reconstruct_approved_catalog(
+            archive,old,products,retail,freshly_verified=set())
+        self.assertEqual(len(unrestored),0)
+        self.assertEqual(len(ET.fromstring(unverified).findall("Ad")),169)
+        confirmed,restored=reconstruct_approved_catalog(
+            archive,old,products,retail,
+            freshly_verified={key("NGN","T00002")})
+        self.assertEqual(len(restored),1)
+        self.assertEqual(len(ET.fromstring(confirmed).findall("Ad")),170)
+
     def test_unconfirmed_prices_are_unchanged(self):
         old,products,retail=fixture(count=170,absent=0)
         some=key("NGN","T00007")
