@@ -13,6 +13,7 @@ import argparse
 import csv
 import io
 import json
+import copy
 import re
 import sys
 from collections import Counter
@@ -220,7 +221,57 @@ def add_raw_source_costs(book, records):
             records[k]["_source_list_price"] = r[h["Цена, руб."]]
 
 
-def execute(current, config_path, verified_map, out, *, max_removed=12):
+def reconstruct_approved_catalog(archive_xml, live_xml, source, verified):
+    """Retain ALL current ad content; permit restocks only from archived approved IDs.
+
+    A restocked SKU is restored only when the account-specific wholesale
+    price remains individually verified against the current supplier price.
+    If not, it stays out until manually reviewed rather than falling back
+    to the retail supplier price.
+    """
+    archive = ET.fromstring(archive_xml)
+    live = ET.fromstring(live_xml)
+    if archive.tag != "Ads" or live.tag != "Ads" or archive.attrib != live.attrib:
+        raise ValueError("Mismatch between approved archive and live Avito feed")
+    known = archive.findall("Ad")
+    existing = live.findall("Ad")
+    if not 150 <= len(known) <= 300 or not 150 <= len(existing) <= len(known):
+        raise ValueError("Invalid approved archive or active listing count")
+    known_by_id = {a.findtext("Id"): a for a in known}
+    live_by_id = {a.findtext("Id"): a for a in existing}
+    if None in known_by_id or None in live_by_id or len(known_by_id) != len(known) or len(live_by_id) != len(existing):
+        raise ValueError("Missing/duplicate Avito IDs")
+    if not set(live_by_id) <= set(known_by_id):
+        raise ValueError("Unapproved ID in live feed")
+    result = ET.Element("Ads", archive.attrib)
+    restored = []
+    for entry in known:
+        id = entry.findtext("Id")
+        k, group = seller_sku(entry)
+        if id in live_by_id:
+            current_key, current_group = seller_sku(live_by_id[id])
+            if current_key != k or current_group != group:
+                raise ValueError("Live ID source brand/article changed unexpectedly")
+            result.append(copy.deepcopy(live_by_id[id]))
+            continue
+        product = source.get(k)
+        trusted = verified.get(k)
+        if not product or not trusted or product["Группа"] != group:
+            continue
+        source_price = price_decimal(product.get("_source_list_price"))
+        if (source_price is None or source_price != trusted["supplier_price"]
+                or trusted["days"] != 0):
+            continue
+        proposed = copy.deepcopy(entry)
+        proposed.find("Price").text = str(trusted["avito_price"])
+        result.append(proposed)
+        restored.append({"id": id, "brand_article": "|".join(k)})
+    if len(restored) > 12:
+        raise ValueError("Unexpected burst of returning Avito inventory")
+    return ET.tostring(result, encoding="utf-8", xml_declaration=True), restored
+
+
+def execute(current, config_path, verified_map, out, *, approved_catalog=None, max_removed=12):
     config = load_config(config_path)
     book = load_fresh_price(config, config_path.parent, 2)
     try:
@@ -229,16 +280,49 @@ def execute(current, config_path, verified_map, out, *, max_removed=12):
     finally:
         book.close()
     source_map = read_wholesale_retail(verified_map)
-    old_xml = current.read_bytes()
-    # Before paying for a second request, inspect missing SKU count against
-    # strict limit. If mismatched too many, fail without touching XML.
-    _, initial = plan(old_xml, products, source_map, max_removed=max_removed,
-                      require_second=False)
+    previous_live_xml = current.read_bytes()
+    approved_xml = approved_catalog.read_bytes() if approved_catalog else previous_live_xml
+    universe, restocks = reconstruct_approved_catalog(
+        approved_xml, previous_live_xml, products, source_map)
+    # First pass: count differences without publishing or additional requests.
+    _, initial = plan(universe, products, source_map,
+                      max_removed=max_removed, require_second=False)
     second = None
-    if initial["removed_confirmed_no_stock"]:
+    if initial["removed_confirmed_no_stock"] or restocks:
         second = second_independent_stock_sample(config)
-    result, report = plan(old_xml, products, source_map, second_stock=second,
-                          max_removed=max_removed)
+        for restored in restocks:
+            brand,article = restored["brand_article"].split("|",1)
+            k = (brand,article)
+            if k not in second or second[k]["Группа"] not in (
+                    "Тормозные диски", "Рулевые рейки"):
+                raise ValueError("Supplier snapshots disagree on returned stock")
+    result, report = plan(universe, products, source_map,
+                          second_stock=second, max_removed=max_removed)
+    result_ids = [a.findtext("Id") for a in ET.fromstring(result).findall("Ad")]
+    prev_root = ET.fromstring(previous_live_xml)
+    previous_ads = prev_root.findall("Ad")
+    previous_ids = [a.findtext("Id") for a in previous_ads]
+    previous_by_id = {a.findtext("Id"):a for a in previous_ads}
+    new_by_id = {a.findtext("Id"):a for a in ET.fromstring(result).findall("Ad")}
+    added_ids = sorted(set(result_ids) - set(previous_ids))
+    removed_ids = sorted(set(previous_ids) - set(result_ids))
+    if set(added_ids) != {r["id"] for r in restocks}:
+        raise ValueError("Unexpected newly added feed IDs")
+    if len(removed_ids) > max_removed or len(removed_ids) / len(previous_ids) > 0.075:
+        raise ValueError("Unexpected previously active ad removals")
+    # Current ads may change PRICE only; old photos, OEMs and all other fields
+    # must remain byte-for-byte-equivalent after XML parsing.
+    for id in set(previous_ids) & set(result_ids):
+        old = copy.deepcopy(previous_by_id[id])
+        new = copy.deepcopy(new_by_id[id])
+        old.remove(old.find("Price"))
+        new.remove(new.find("Price"))
+        if ET.tostring(old) != ET.tostring(new):
+            raise ValueError("Unexpected non-price field difference for ID "+str(id))
+    report["current_live_before"] = len(previous_ids)
+    report["restocked_approved_ads"] = added_ids
+    report["removed_from_previous_live_feed"] = removed_ids
+    report["restock_supplier_double_checked"] = bool(not restocks or second is not None)
     report["checked_at_utc"] = datetime.now(timezone.utc).isoformat()
     out.mkdir(parents=True, exist_ok=True)
     (out / "AVITO_ACTIVE_PRICES_STOCK_CANDIDATE.xml").write_bytes(result)
@@ -254,12 +338,13 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", type=Path, required=True)
     parser.add_argument("--previous", type=Path, required=True)
+    parser.add_argument("--approved-catalog", type=Path)
     parser.add_argument("--verified-retail-map", type=Path, required=True)
     parser.add_argument("--out", type=Path, required=True)
     parser.add_argument("--max-removals", type=int, default=12)
     args = parser.parse_args()
     execute(args.previous, args.config, args.verified_retail_map,
-            args.out, max_removed=args.max_removals)
+            args.out, approved_catalog=args.approved_catalog, max_removed=args.max_removals)
 
 
 if __name__=="__main__":
