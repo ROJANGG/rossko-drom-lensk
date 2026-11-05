@@ -1,0 +1,57 @@
+name: Avito STARTVOLT 2 original OEM + photo + personal API - FULL PREFLIGHT NOT LIVE
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_startvolt2_full_preflight.yml']
+permissions:
+  actions: read
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 2a3a2befa7920c1537e85a93e66430a47060f570
+          path: code
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: live
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4' 'requests>=2.31,<3' 'pillow>=10,<13' 'beautifulsoup4>=4.12'
+      - uses: actions/download-artifact@v4
+        with:
+          artifact-ids: 13413665795
+          run-id: 42024629947
+          github-token: ${{ github.token }}
+          path: evidence
+          merge-multiple: true
+      - name: Regenerate candidate from confirmed manufacturer images and personal ROSSKO API
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python code/avito_startvolt2_release.py \
+            --config code/config.json \
+            --live live/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --archive live/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --retail live/avito-verified-retail-prices.csv \
+            --evidence-folder evidence \
+            --out candidate
+      - name: Keep private preview (NO publication)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_STARTVOLT_TWO_FULL_DRY_RUN_NO_PUBLICATION
+          path: candidate/
+          retention-days: 3
+          if-no-files-found: ignore
