@@ -1,0 +1,55 @@
+{
+  "source": "Official LUZAR manufacturer product catalogue",
+  "approved_for_release": "ONLY_EXACT_TWO_WITH_ALL_OEM_AND_IMAGES",
+  "updated_at_utc": "2026-11-05T10:49:24Z",
+  "items": [
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "Luzar",
+      "article": "LRAC3034",
+      "oem": "F20-8105010",
+      "vehicle": "Jetour Dashing (с 2022 г.), 1.5T / 1.6T",
+      "manufacturer_page": "https://luzar.ru/catalogue/radiatory/radiatory-konditsionera-kondensery/radiator-konditsionera-dlya-avtomobiley-jetour-dashing-22-1-5t-1-6t-lrac-3034/",
+      "images": [
+        {
+          "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRAC3034_671368_06c6e11b24443ddf0074fb6a58532b78.jpg",
+          "sha256": "223a1186f001c69d0f6d0a85517dfefbf1c5c463148b25440c3dd58932843f80"
+        },
+        {
+          "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRAC3034_686708_1b6462ccb81bc76dbce3d9b002a2bcd4.jpg",
+          "sha256": "6ae801bf2879876c1f1c871a45945230db1b33b382677688e11aff4252580039"
+        },
+        {
+          "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRAC3034_552395_68b37fd08041d2812655978baa15cbfa.jpg",
+          "sha256": "61debf582fedb6f1cfad716df0edafe37a7474cfee7ffcafb9dab202bbbd608b"
+        }
+      ]
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "Luzar",
+      "article": "LRAC3049",
+      "oem": "S203F051209-0100",
+      "vehicle": "Changan UNI-T (с 2020 г.), 1.5T",
+      "manufacturer_page": "https://luzar.ru/catalogue/radiatory/radiatory-konditsionera-kondensery/radiator-konditsionera-dlya-avtomobiley-changan-uni-t-20-lrac-3049/",
+      "images": [
+        {
+          "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRAC3049_611475_a28881fd1d516baf399b9078bc1f4a42.jpg",
+          "sha256": "10bd8d2164f561e39c3ced854c897968bb8b6781cfac461923324aacd6999253"
+        },
+        {
+          "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRAC3049_630639_2e19dd51b6730e1f7c971e6abe208a29.jpg",
+          "sha256": "982217b28a837e19474df0e6fb6c175787d3e9481709de736c4090c868e5ba70"
+        },
+        {
+          "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRAC3049_179139_c20e87fc2a93f0d2b7f1b9dec324753b.jpg",
+          "sha256": "1fdeba44d9f75a6667568bb641c9d84807fdaa74ea6d07aa207cf5725980bfd0"
+        },
+        {
+          "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRAC3049_248575_b6c0ecfeea17b5103b29df0db8f8621d.jpg",
+          "sha256": "48761208146ee475193437467bb6727f4b38d2b11f09c6f2cab6bd221a51e608"
+        }
+      ]
+    }
+  ]
+}
