@@ -27,7 +27,7 @@ jobs:
       - name: Checkout tested ROSSKO personal-price and Avito-only generator
         uses: actions/checkout@v4
         with:
-          ref: 04bfc8ac81de6fe04dfa5932d71f50c91569fbda
+          ref: 1fc9f5fa1e5b9c791182c71425ea46618bff4eff
           path: generator
           persist-credentials: false
       - name: Checkout existing live Avito XML, archive and latest price map
