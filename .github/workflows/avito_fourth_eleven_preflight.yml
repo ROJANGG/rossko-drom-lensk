@@ -1,0 +1,45 @@
+name: Avito last eleven CTR - fresh stock review only
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - avito_fourth_eleven_preflight.py
+      - tests/test_avito_fourth_eleven_preflight.py
+      - .github/workflows/avito_fourth_eleven_preflight.yml
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/avito-irkutsk-draft
+          path: generator
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: current-feed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Full regression tests for new and existing feed
+        working-directory: generator
+        run: python -m unittest discover -s tests -v
+      - name: Check remaining 11 OEM photo bytes and real Irkutsk inventory
+        working-directory: generator
+        run: |
+          python avito_fourth_eleven_preflight.py \
+            --base-xml ../current-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --out output/avito_fourth_eleven_review
+      - name: Preserve private candidate for review only
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-last-eleven-ctr-PREFLIGHT-NOT-LIVE
+          path: generator/output/avito_fourth_eleven_review/
+          retention-days: 2
+          if-no-files-found: error

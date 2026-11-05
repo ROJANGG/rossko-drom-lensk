@@ -1,0 +1,36 @@
+name: Avito extra 100 - photo/OEM supplier audit (NO PUBLISH)
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - avito_extra100_catalog_audit.py
+      - tests/test_avito_extra100_catalog_audit.py
+      - input/avito_extra_100_pinned_REVIEW.csv
+      - .github/workflows/avito_extra100_catalog_audit.yml
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install libraries
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Validate blocked conditions and photo links
+        run: python -m unittest discover -s tests -p 'test_avito_extra100_catalog_audit.py' -v
+      - name: Read NEW fresh ROSSKO price and verify supplier product pages
+        run: python avito_extra100_catalog_audit.py
+      - name: Save private read-only audit CSV and summary
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_EXTRA100_SUPPLIER_AUDIT_REVIEW
+          path: output/avito_extra100_catalog_audit/
+          if-no-files-found: error
+          retention-days: 2

@@ -1,0 +1,40 @@
+name: Compare ROSSKO real Drom seller listings - 48 SKU evidence sample
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - 'drom_seller_sku_sample.py'
+      - '.github/workflows/drom_seller_sku_sample.yml'
+permissions:
+  contents: read
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/avito-irkutsk-draft
+          path: audit
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: supplier
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install bounded HTTP client and HTML parser
+        run: pip install 'requests>=2.31' 'beautifulsoup4>=4.12'
+      - name: Compare normalized brand plus article using real seller-scoped search
+        run: |
+          cd audit
+          python drom_seller_sku_sample.py --price ../supplier/input/rossko_price.xlsx --out ../results --limit 48
+      - uses: actions/upload-artifact@v4
+        with:
+          name: DROM_ROSSKO_REAL_PUBLIC_LISTINGS_SAMPLE
+          path: results/
+          retention-days: 2
+          if-no-files-found: error

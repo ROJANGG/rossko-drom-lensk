@@ -1,0 +1,35 @@
+name: Avito XML v3 four-item diagnostic (no publication)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - 'avito_xml_v3_diagnostic.py'
+      - '.github/workflows/avito_xml_diagnostic.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  diagnostic:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Fresh Rossko price and available images preflight
+        run: python avito_prepare_preflight.py
+      - name: Create XML v3 diagnostic with exactly four pinned articles
+        run: python avito_xml_v3_diagnostic.py
+      - name: Upload XML diagnostics as temporary artifacts only
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-xml-v3-4-test-review-only
+          path: output/avito_xml_test_only/*.xml
+          retention-days: 2
+          if-no-files-found: error

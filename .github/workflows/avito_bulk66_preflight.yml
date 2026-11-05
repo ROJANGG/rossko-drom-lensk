@@ -1,0 +1,45 @@
+name: Avito 66 extra parts - full private release preflight (NO PUBLICATION)
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - avito_bulk66_preflight.py
+      - tests/test_avito_bulk66_preflight.py
+      - input/avito_remaining67_oem_source_verified.csv
+      - .github/workflows/avito_bulk66_preflight.yml
+permissions:
+  contents: read
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/avito-irkutsk-draft
+          path: generator
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: published
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Verify all old and 66 new IDs, source evidence and stock-safety checks
+        working-directory: generator
+        run: python -m unittest discover -s tests -v
+      - name: Fresh Rossko Irkutsk warehouse price and 66 exact SKU image nomenclature
+        working-directory: generator
+        run: |
+          python avito_bulk66_preflight.py \
+            --base-xml ../published/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --out output/avito_bulk66_review
+      - name: Strictly private candidate artifact not used for Avito autoload
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-bulk66-PRIVATE-REVIEW-not-live
+          path: generator/output/avito_bulk66_review/
+          retention-days: 2
+          if-no-files-found: error

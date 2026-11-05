@@ -1,0 +1,33 @@
+name: Avito catalog photo-to-article audit
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - '.github/workflows/avito_catalog_audit.yml'
+      - 'avito_catalog_audit.py'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Python dependencies
+        run: python -m pip install "openpyxl>=3.1.2" "requests>=2.31.0"
+      - name: Compare photos with the supplier item cards
+        run: python avito_catalog_audit.py
+      - name: Save audit for manual review
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-photo-article-audit-review
+          path: output/avito_catalog_verification/photo_article_catalog_audit.csv
+          retention-days: 2
+          if-no-files-found: error

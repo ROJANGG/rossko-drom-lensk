@@ -1,0 +1,36 @@
+name: Avito select 50 with validated supplier photos (review only)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - 'avito_photo_50.py'
+      - '.github/workflows/avito_photo_50.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  select:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install tools
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Select only real-stock Irkutsk products with accessible photos
+        run: python avito_photo_50.py --confirm-irkutsk-source
+      - name: Download review CSV, 50 SKU ids and photo contact sheet
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-50-with-photos-review
+          path: |
+            output/avito_photo_50/avito_irkutsk_50_with_photos_review.csv
+            output/avito_photo_50/avito_50_photo_contact_sheet.jpg
+            output/avito_photo_50/avito_50_skus.csv
+          retention-days: 2
+          if-no-files-found: error

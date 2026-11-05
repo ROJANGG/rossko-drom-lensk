@@ -1,0 +1,32 @@
+name: Avito 67 official OEM catalogs research (not live)
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - avito_oem_lookup_remaining67.py
+      - tests/test_avito_oem_lookup_remaining67.py
+      - .github/workflows/avito_remaining67_manufacturer_oem.yml
+permissions:
+  contents: read
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'requests>=2.31.0' 'beautifulsoup4>=4.12.0'
+      - name: Unit tests for original vehicle maker OEM vs aftermarket analogs
+        run: python -m unittest discover -s tests -p 'test_avito_oem_lookup_remaining67.py' -v
+      - name: Collect exact-item manufacturer OE evidence for remaining 67
+        run: python avito_oem_lookup_remaining67.py
+      - name: Preserve research table with exact manufacturer URLs; DO NOT publish
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_REMAINING67_OFFICIAL_OEM_RESEARCH_NOT_FOR_UPLOAD
+          path: output/avito_remaining67_oem_research/
+          retention-days: 5
+          if-no-files-found: error

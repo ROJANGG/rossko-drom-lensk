@@ -1,0 +1,45 @@
+name: Avito additional five CTR - safe private preflight
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - avito_second_five_preflight.py
+      - tests/test_avito_second_five_preflight.py
+      - .github/workflows/avito_second_five_preflight.yml
+permissions:
+  contents: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/avito-irkutsk-draft
+          path: generator
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: current-feed
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install photo and stock parsers
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Test all pricing, stocks, OEMs, and 50+2+5+5 permanent IDs
+        working-directory: generator
+        run: python -m unittest discover -s tests -v
+      - name: Build private second-five candidate from fresh Rossko Irkutsk inventory
+        working-directory: generator
+        run: |
+          python avito_second_five_preflight.py \
+            --base-xml ../current-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --out output/avito_second_five_review
+      - name: Preserve private review files (no publication)
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-second-five-ctr-REVIEW-NOT-LIVE
+          path: generator/output/avito_second_five_review/
+          if-no-files-found: error
+          retention-days: 2

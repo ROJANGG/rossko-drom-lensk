@@ -1,0 +1,52 @@
+name: Avito pilot refresh schedule - REVIEW ONLY
+
+# GitHub schedules are executed only from the default branch.
+# While this file is in feature/avito-irkutsk-draft, only push/manual runs work.
+# Scheduled UTC times below correspond to 07, 11, 15, 19 in Irkutsk (UTC+8).
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - feature/avito-irkutsk-draft
+    paths:
+      - '.github/workflows/avito_pilot_refresh.yml'
+      - 'avito_feed_transition.py'
+  schedule:
+    - cron: '17 3,7,11,23 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: avito-irkutsk-refresh-review-only
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - name: Checkout safe pilot
+        uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0.0'
+      - name: Test 4-item stable IDs and removal scenarios
+        run: python -m unittest discover -s tests -p 'test_avito_feed_transition.py' -v
+      - name: Download FRESH ROSSKO and recalculate four eligible SKUs
+        run: python avito_sync_staging.py
+      - name: Check full initial pilot and XML fields - REVIEW ONLY
+        run: |
+          python avito_feed_transition.py \
+            --candidate output/avito_price_stock_staging/AVITO_XML_PRICE_STOCK_STAGING_NOT_LIVE.xml \
+            --allow-initial-pilot \
+            --report output/avito_price_stock_staging/transition_precheck.json
+      - name: Save confidential temporary review artifact (no URL published)
+        uses: actions/upload-artifact@v4
+        with:
+          name: avito-irkutsk-pilot-refresh-review
+          path: output/avito_price_stock_staging/
+          retention-days: 2
+          if-no-files-found: error

@@ -1,0 +1,6 @@
+output/avito_irkutsk_candidates.csv
+input/avito_approved.csv
+output/avito_irkutsk/
+
+# Avito pilot review export (contains supplier data)
+output/avito_irkutsk_pilot_review.csv

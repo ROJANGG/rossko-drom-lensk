@@ -1,0 +1,39 @@
+name: Avito next 100 new Irkutsk SKUs - review only
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [feature/avito-irkutsk-draft]
+    paths:
+      - 'avito_expand_100.py'
+      - 'tests/test_avito_expand_100.py'
+      - '.github/workflows/avito_expand_100_review.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  shortlist:
+    runs-on: ubuntu-latest
+    timeout-minutes: 28
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install photo and Excel tools
+        run: python -m pip install 'openpyxl>=3.1.2' 'requests>=2.31.0' 'pillow>=10.0'
+      - name: Unit-test safe candidate selection without publishing
+        run: python -m unittest discover -s tests -p 'test_avito_expand_100.py' -v
+      - name: Download fresh Rossko local stock and inspect photos of NEW articles
+        run: python avito_expand_100.py
+      - name: Upload new candidates for OEM and image/article verification (not XML)
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_EXTRA_100_REVIEW_NOT_FOR_UPLOAD
+          path: |
+            output/avito_extra_100_review/AVITO_EXTRA_100_REVIEW_NOT_FOR_UPLOAD.csv
+            output/avito_extra_100_review/AVITO_EXTRA_100_PHOTO_REVIEW.jpg
+            output/avito_extra_100_review/summary.json
+          retention-days: 2
+          if-no-files-found: error
