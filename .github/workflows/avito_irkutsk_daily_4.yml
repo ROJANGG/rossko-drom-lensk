@@ -57,13 +57,25 @@ jobs:
         working-directory: generator
         run: python -m unittest discover -s tests -p 'test_avito_active_feed_refresh.py' -v
 
+      - name: Select latest Avito-only verified retail price map without touching Drom
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -s preview/avito-verified-retail-prices.csv ]; then
+            cp preview/avito-verified-retail-prices.csv retail/avito-selected-retail-map.csv
+            echo "Using latest Avito-only verified retail map"
+          else
+            cp retail/input/rossko_verified_retail_prices.csv retail/avito-selected-retail-map.csv
+            echo "Using initial source-matched verified retail map"
+          fi
+
       - name: Build validated fresh-price and two-snapshot stock XML
         run: |
           python generator/avito_active_feed_refresh.py \
             --config generator/config.json \
             --previous preview/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
             --approved-catalog preview/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
-            --verified-retail-map retail/input/rossko_verified_retail_prices.csv \
+            --verified-retail-map retail/avito-selected-retail-map.csv \
             --out result \
             --max-removals 12
 
