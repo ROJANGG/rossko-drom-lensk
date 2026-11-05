@@ -1,0 +1,140 @@
+name: Avito Irkutsk - publish ONLY two fully evidenced official Luzar radiator SKUs
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_publish_two_verified_luzar.yml'
+permissions:
+  contents: write
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - name: Checkout source-pinned two-Luzar release logic
+        uses: actions/checkout@v4
+        with:
+          ref: 086dbd721272e5fd9e2a7fe798336f9b03fc9a7d
+          path: generator
+          persist-credentials: false
+      - name: Checkout current live Avito feed and approved archive
+        uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: avito
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install ROSSKO SOAP source photo and XML dependencies
+        run: python -m pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4' 'requests>=2.31,<3' 'pillow>=10,<13' 'beautifulsoup4>=4.12,<5'
+      - name: Unit tests for brand SKU matching stock price ID and category safeguards
+        working-directory: generator
+        run: |
+          python -m unittest discover -s tests -p 'test_avito_luzar_extension.py' -v
+          python -m unittest discover -s tests -p 'test_avito_active_feed_refresh.py' -v
+      - name: Refresh TWO personally priced in-stock SKUs plus official OEM/photos
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python generator/avito_two_luzar_release_prep.py \
+            --config generator/config.json \
+            --live avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --archive avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --retail avito/avito-verified-retail-prices.csv \
+            --evidence generator/input/avito_luzar_two_official_evidence.json \
+            --output candidate
+      - name: Verify count 186 to 188 and preserve all old IDs and full XML data
+        run: |
+          python - <<'PY'
+          import copy,json
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          p=json.loads(Path("candidate/report.json").read_text())
+          old=ET.parse("avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml").getroot().findall("Ad")
+          new=ET.parse("candidate/AVITO_LIVE_WITH_LUZAR_TWO.xml").getroot().findall("Ad")
+          hist=ET.parse("candidate/AVITO_APPROVED_WITH_LUZAR_TWO.xml").getroot().findall("Ad")
+          if not (len(old)==186 and len(new)==188 and len(hist)==197
+                 and p["confirmed_api_price_and_irkutsk_stock"]==2
+                 and p["photos_unique_verified"]==4
+                 and p["manufacturer_OEM_verified"]==2):
+              raise SystemExit("REFUSE_ADD: unsafe or missing proof")
+          if len({x.findtext("Id") for x in new})!=188:
+              raise SystemExit("REFUSE_ADD: duplicate IDs")
+          if len({x.findtext("Id") for x in hist})!=197:
+              raise SystemExit("REFUSE_ADD: duplicate historic IDs")
+          for prior,current in zip(old,new):
+              if ET.tostring(prior)!=ET.tostring(current):
+                  raise SystemExit("REFUSE_ADD: original Avito XML changed")
+          for ad in new[-2:]:
+              if (ad.findtext("SparePartType")!="Система охлаждения"
+                     or not ad.findtext("OEM") or ad.findtext("Availability")!="В наличии"
+                     or len(ad.findall("Images/Image"))!=2):
+                  raise SystemExit("REFUSE_ADD: new category OEM/stock/photos missing")
+          print("LUZAR_RELEASE_GUARDS_PASS",json.dumps({
+              "before":len(old),"after":len(new),"approved_archive":len(hist),
+              "photos":4,"verified_OEM":2}))
+          PY
+      - name: Commit exact-hash manufacturer photos to Avito branch BEFORE XML
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp candidate/avito-images/*.jpg avito/avito-images/
+          cd avito
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add avito-images/
+          git diff --cached --quiet && { echo "No new images"; exit 1; }
+          git commit -m "Avito: pre-stage 4 SHA-verified official Luzar product JPEGs"
+          git push origin HEAD:avito-irkutsk-feed
+      - name: Validate each public GitHub image endpoint before exposing XML
+        run: |
+          python - <<'PY'
+          import glob,hashlib,time,requests
+          from pathlib import Path
+          for fname in sorted(glob.glob("candidate/avito-images/*.jpg")):
+              f=Path(fname)
+              expected=hashlib.sha256(f.read_bytes()).hexdigest()
+              url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/"+f.name
+              found=False
+              for attempt in range(5):
+                  try:
+                      r=requests.get(url,timeout=(8,20))
+                      if r.status_code==200 and r.content[:3]==b"\xff\xd8\xff" and hashlib.sha256(r.content).hexdigest()==expected:
+                          found=True
+                          break
+                  except requests.RequestException:
+                      pass
+                  time.sleep(2*(attempt+1))
+              if not found:raise SystemExit("REFUSE: new public product JPEG not accessible")
+          print("LUZAR_PUBLIC_IMAGE_CHECK",len(glob.glob("candidate/avito-images/*.jpg")),"exact SHA photos PASS")
+          PY
+      - name: Publish ONLY 2 new confirmed radiator listings and approved archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp candidate/AVITO_LIVE_WITH_LUZAR_TWO.xml avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          cp candidate/AVITO_APPROVED_WITH_LUZAR_TWO.xml avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml
+          cp candidate/avito-verified-retail-prices.csv avito/avito-verified-retail-prices.csv
+          cd avito
+          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+                  AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+                  avito-verified-retail-prices.csv
+          git diff --cached --quiet && { echo "No new ads"; exit 1; }
+          git commit -m "Avito: add 2 officially evidenced Luzar radiator condensers, 186 original ads preserved"
+          git push origin HEAD:avito-irkutsk-feed
+      - name: Save retail-only release audit without personal API buying cost
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_LUZAR_TWO_SOURCE_OEM_PHOTO_RELEASE_AUDIT
+          path: candidate/report.json
+          retention-days: 3
+          if-no-files-found: ignore
