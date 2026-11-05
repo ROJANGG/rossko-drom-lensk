@@ -35,22 +35,51 @@ def get_text(url):
     return response.text
 
 def discover_pages(brand, sku):
-    url=PAGE_ROOTS.get(brand)
-    if not url:return []
+    roots=[PAGE_ROOTS.get(brand)]
+    if brand=="STARTVOLT":
+        roots.append("https://startvolt.com/catalogue/svechi/svechi-nakalivaniya/")
     pages=[]
-    try:
-        soup=BeautifulSoup(get_text(url),"html.parser")
-        for a in soup.find_all("a",href=True):
-            href=urljoin(url,a["href"])
-            snippet=a.get_text(" ",strip=True)
-            parent=a.parent.get_text(" ",strip=True) if a.parent else ""
-            if (canon(sku) in canon(snippet) or canon(sku) in canon(parent[:500])
-                or canon(sku) in canon(href)) and href.startswith(urlparse(url).scheme+"://"+urlparse(url).netloc+"/"):
-                if href!=url and href not in pages:pages.append(href)
-            if len(pages)>=6:break
-    except requests.RequestException:
-        pass
-    return pages
+    for url in filter(None,roots):
+        try:
+            html=get_text(url)
+            soup=BeautifulSoup(html,"html.parser")
+            # Find anchors based on product-specific text in the 3 closest
+            # parents, rather than relying on a flat immediate parent.
+            exact_re=re.compile(r"(?<![A-Z0-9])"+re.escape(sku[:4])+r"[\s-]*"+re.escape(sku[4:])+r"(?![A-Z0-9])",re.I)
+            for a in soup.find_all("a",href=True):
+                href=urljoin(url,a["href"])
+                if not href.startswith(urlparse(url).scheme+"://"+urlparse(url).netloc+"/"):
+                    continue
+                ancestor=a
+                matches=exact_re.search(href)
+                for level in range(4):
+                    if ancestor is None:break
+                    if matches:break
+                    content=ancestor.get_text(" ",strip=True)[:600]
+                    matches=bool(exact_re.search(content))
+                    ancestor=ancestor.parent
+                if matches and href!=url and href not in pages:
+                    pages.append(href)
+            # If an item is directly linked inside a card containing SKU
+            # but its text is nested differently, find the text node and its
+            # nearest product detail link.
+            for text_node in soup.find_all(string=exact_re):
+                parent=text_node.parent
+                for i in range(5):
+                    if parent is None:break
+                    links=parent.find_all("a",href=True)
+                    if links and len(links)<12:
+                        for link in links:
+                            href=urljoin(url,link["href"])
+                            if href!=url and href.startswith(
+                                urlparse(url).scheme+"://"+urlparse(url).netloc+"/"
+                            ) and href not in pages:
+                                pages.append(href)
+                    parent=parent.parent
+        except requests.RequestException:
+            continue
+    return pages[:14]
+
 
 def inspect_photo(image_url, article):
     if not image_url.startswith("https://"):
@@ -143,7 +172,7 @@ def research(row):
     if brand not in PAGE_ROOTS:return rec
     pages=discover_pages(brand,sku)
     # Expected to include an exact code; never assume first URL is exact
-    for page in pages[:4]:
+    for page in pages[:10]:
         try:
             data=extract_page(page,brand,sku)
         except Exception:
