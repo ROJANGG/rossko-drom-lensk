@@ -20,7 +20,7 @@ jobs:
       - name: Checkout source-pinned two-Luzar release logic
         uses: actions/checkout@v4
         with:
-          ref: 42d6de8a5988538d54453030905e24163a996ac2
+          ref: 42011bb32f82d87983c904cc796e6b19e6ff3339
           path: generator
           persist-credentials: false
       - name: Checkout current live Avito feed and approved archive
@@ -43,6 +43,15 @@ jobs:
           path: verified
           merge-multiple: true
 
+      - name: Retrieve previously SHA-verified exact LUZAR photos from official manufacturer
+        uses: actions/download-artifact@v4
+        with:
+          artifact-ids: 13407474767
+          run-id: 42013840744
+          github-token: ${{ github.token }}
+          path: trusted-official-photos
+          merge-multiple: true
+
       - name: Unit tests for brand SKU matching stock price ID and category safeguards
         working-directory: generator
         run: |
@@ -61,6 +70,7 @@ jobs:
             --evidence generator/input/avito_luzar_two_official_evidence.json \
             --fallback-review-csv verified/FIRST_3_CATEGORIES_PERSONAL_PRICE_AND_OEM_PHOTO_REVIEW.csv \
             --fallback-summary verified/summary.json \
+            --verified-photo-artifact-dir trusted-official-photos \
             --output candidate
       - name: Verify count 186 to 188 and preserve all old IDs and full XML data
         run: |
