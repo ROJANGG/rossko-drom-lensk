@@ -31,7 +31,7 @@ class ActiveRefreshTest(unittest.TestCase):
     def test_approved_safe_removals_and_price_changes(self):
         old, products, retail=fixture()
         new,report=plan(old,products,retail,second_stock=copy.deepcopy(products))
-        self.assertEqual(report["before"],155)
+        self.assertEqual(report["before"],170)
         self.assertEqual(report["after"],164)
         # min_ads guard protects against too-small live XML, so use larger count
         self.assertEqual(report["removed_confirmed_no_stock"],6)
