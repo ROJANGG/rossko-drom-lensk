@@ -28,7 +28,7 @@ jobs:
       - name: Checkout tested Avito-only active catalogue refresher
         uses: actions/checkout@v4
         with:
-          ref: d1cc3f3a24ebe36b2b52576227b516cb8255d107
+          ref: 1fc9f5fa1e5b9c791182c71425ea46618bff4eff
           path: generator
           persist-credentials: false
 
