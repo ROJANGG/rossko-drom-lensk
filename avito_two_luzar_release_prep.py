@@ -10,6 +10,7 @@ availability before publishing any XML, fail closed throughout.
 """
 from __future__ import annotations
 import argparse,csv,copy,hashlib,io,json,os,re,sys,urllib.robotparser
+from datetime import datetime, timezone, timedelta
 from decimal import Decimal
 from pathlib import Path
 from xml.etree import ElementTree as ET
@@ -84,7 +85,38 @@ def download_images(session,item,place):
         raise ValueError("Manufacturer photos are duplicates")
     return photos
 
-def build(config,live_xml,archive_xml,retail_csv,evidence,out):
+def load_recent_private_api_snapshot(path,summary_path,*,now=None,max_age_hours=3):
+    """Use a SAME-DAY Rossko API result only when live API is temporarily down.
+
+    The supplier XLSX stock and source list-price must be revalidated
+    independently during the release. No unconfirmed/repriced-by-percentage
+    items are accepted.
+    """
+    now=now or datetime.now(timezone.utc)
+    summary=json.loads(summary_path.read_text(encoding="utf-8"))
+    observed=datetime.fromisoformat(summary["as_of_utc"])
+    age=now-observed
+    if (observed.tzinfo is None or age<timedelta(0)
+            or age>timedelta(hours=max_age_hours)
+            or summary.get("confirmed_irkutsk_api")!=95):
+        raise ValueError("Private API snapshot too old or incomplete")
+    records={}
+    with path.open("r",encoding="utf-8-sig",newline="") as fp:
+        reader=csv.DictReader(fp,delimiter=";")
+        for row in reader:
+            if row["category"]!="Радиаторы кондиционера":continue
+            k=key(row["brand"],row["article"])
+            if (row["api_status"]!="опт_Иркутск_подтвержден" or
+                    not row["api_stock_ids"] or
+                    not row["api_wholesale_price_rub"] or
+                    not row["supplier_list_price_rub"]):
+                continue
+            if k in records:raise ValueError("Duplicate snapshot supplier SKU")
+            records[k]=row
+    return records,observed.isoformat()
+
+
+def build(config,live_xml,archive_xml,retail_csv,evidence,out,*,fallback_csv=None,fallback_summary=None):
     root=ET.parse(live_xml).getroot()
     historic=ET.parse(archive_xml).getroot()
     if root.attrib!=historic.attrib or root.tag!="Ads" or historic.tag!="Ads":
@@ -118,6 +150,13 @@ def build(config,live_xml,archive_xml,retail_csv,evidence,out):
     delivery,mode=choose_delivery(response)
     if not delivery:raise RuntimeError("No account-approved pickup delivery")
     api=zeep_client("GetSearch")
+    snapshot={}
+    snapshot_time=None
+    if (fallback_csv is None)!=(fallback_summary is None):
+        raise ValueError("Snapshot requires both audit CSV and summary")
+    if fallback_csv is not None:
+        snapshot,snapshot_time=load_recent_private_api_snapshot(
+            fallback_csv,fallback_summary)
     retail=read_wholesale_retail(retail_csv)
     out.mkdir(parents=True,exist_ok=True)
     photo_dir=out/"avito-images"
@@ -145,12 +184,23 @@ def build(config,live_xml,archive_xml,retail_csv,evidence,out):
           "supplier_delivery_days":0
         }
         quote=audit_one(api,credentials,delivery,a)
-        if (quote.get("status")!="опт_Иркутск_подтвержден"
-                or not quote.get("api_irkutsk_stock_ids")
-                or quote.get("api_irkutsk_same_delivery_price_rub") in ("",None)):
-            raise ValueError("No fresh API proof of exact Irkutsk SKU and personal wholesale cost")
-        buying_price=price_decimal(quote["api_irkutsk_same_delivery_price_rub"])
-        if buying_price is None or buying_price<=0 or buying_price>cost*Decimal("1.5"):
+        fresh_ok=(quote.get("status")=="опт_Иркутск_подтвержден"
+                and bool(quote.get("api_irkutsk_stock_ids"))
+                and quote.get("api_irkutsk_same_delivery_price_rub") not in ("",None))
+        if fresh_ok:
+            buying_price=price_decimal(quote["api_irkutsk_same_delivery_price_rub"])
+            price_verification="current_personal_api"
+        else:
+            # Fail closed unless current seller list-price and local stock
+            # agree exactly with a recent personally authenticated API check.
+            saved=snapshot.get(k)
+            if saved is None or price_decimal(saved["supplier_list_price_rub"])!=cost:
+                raise ValueError("No recent verified personal API cost for exact current supplier SKU")
+            buying_price=price_decimal(saved["api_wholesale_price_rub"])
+            price_verification="recent_verified_personal_api_snapshot"
+        if (buying_price is None or buying_price<=0
+                or buying_price>cost*Decimal("1.5")
+                or buying_price<cost/Decimal("10")):
             raise ValueError("Personal purchasing cost untrusted")
         validate_product_source(s,record,robot)
         images=download_images(s,record,photo_dir)
@@ -189,7 +239,7 @@ def build(config,live_xml,archive_xml,retail_csv,evidence,out):
                       "manufacturer_page":record["manufacturer_page"],
                       "photo_files":[p["filename"] for p in images],
                       "public_price":progressive_price(buying_price),
-                      "quantity":int(item["Остаток РОССКО"]),"delivery_days":0})
+                      "quantity":int(item["Остаток РОССКО"]),"delivery_days":0,"api_price_evidence":price_verification})
     if len(root.findall("Ad"))!=188 or len(historic.findall("Ad"))!=197:
         raise ValueError("Unexpected final feed or approved archive counts")
     if [x.findtext("Id") for x in root.findall("Ad")[:186]]!=old_ids:
@@ -224,6 +274,7 @@ def build(config,live_xml,archive_xml,retail_csv,evidence,out):
       "photos_unique_verified":len(photos),
       "manufacturer_OEM_verified":2,
       "private_personal_purchase_prices_logged":False,
+      "private_snapshot_time_utc":snapshot_time,
       "only_new_ad_fields_changed":True,
       "publisher_note":"Only two officially evidenced Luzar condensers, not all first95"
     }
@@ -239,7 +290,10 @@ def main():
     p.add_argument("--retail",type=Path,required=True)
     p.add_argument("--evidence",type=Path,required=True)
     p.add_argument("--output",type=Path,required=True)
+    p.add_argument("--fallback-review-csv",type=Path)
+    p.add_argument("--fallback-summary",type=Path)
     args=p.parse_args()
-    build(args.config,args.live,args.archive,args.retail,args.evidence,args.output)
+    build(args.config,args.live,args.archive,args.retail,args.evidence,args.output,
+          fallback_csv=args.fallback_review_csv,fallback_summary=args.fallback_summary)
 if __name__=="__main__":
     sys.exit(main())
