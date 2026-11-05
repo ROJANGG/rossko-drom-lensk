@@ -1,0 +1,17 @@
+{
+  "time_utc": "2026-11-05T09:30:25.236152+00:00",
+  "approved_total": 195,
+  "available_approved_zero_day": 186,
+  "api_requests_attempted": 186,
+  "api_wholesale_confirmed": 186,
+  "api_not_confirmed": 0,
+  "success_rate": 1.0,
+  "failures": {},
+  "legacy_verified_retail_map_entries": 1018,
+  "runtime_retail_map_entries": 1028,
+  "min_acceptable_success_rate": 0.7,
+  "no_private_buying_cost_written": true,
+  "no_drom_files_written": true,
+  "publish_directly": false,
+  "checkout_mode": "account_pickup"
+}
