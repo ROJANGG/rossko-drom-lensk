@@ -115,7 +115,7 @@ def second_independent_stock_sample(config):
 
 
 def plan(old_xml, source, retail, *, second_stock=None, max_removed=12,
-         require_second=True, min_ads=150):
+         require_second=True, min_ads=150, freshly_verified=None):
     root = ET.fromstring(old_xml)
     if root.tag != "Ads" or root.get("formatVersion") != "3":
         raise ValueError("Invalid existing XML structure")
@@ -160,6 +160,9 @@ def plan(old_xml, source, retail, *, second_stock=None, max_removed=12,
         checked += 1
         current = int(ad.findtext("Price"))
         record = retail.get(k)
+        if freshly_verified is not None and k not in freshly_verified:
+            missing_price.append({"sku": "|".join(k), "reason": "current_personal_api_price_not_verified"})
+            continue
         fresh_supplier = price_decimal(item.get("_source_list_price"))
         if record is None:
             missing_price.append({"sku": "|".join(k), "reason": "no_api_verified_retail_price"})
@@ -221,7 +224,7 @@ def add_raw_source_costs(book, records):
             records[k]["_source_list_price"] = r[h["Цена, руб."]]
 
 
-def reconstruct_approved_catalog(archive_xml, live_xml, source, verified):
+def reconstruct_approved_catalog(archive_xml, live_xml, source, verified, *, freshly_verified=None):
     """Retain ALL current ad content; permit restocks only from archived approved IDs.
 
     A restocked SKU is restored only when the account-specific wholesale
@@ -258,6 +261,8 @@ def reconstruct_approved_catalog(archive_xml, live_xml, source, verified):
         trusted = verified.get(k)
         if not product or not trusted or product["Группа"] != group:
             continue
+        if freshly_verified is not None and k not in freshly_verified:
+            continue
         source_price = price_decimal(product.get("_source_list_price"))
         if (source_price is None or source_price != trusted["supplier_price"]
                 or trusted["days"] != 0):
@@ -271,7 +276,24 @@ def reconstruct_approved_catalog(archive_xml, live_xml, source, verified):
     return ET.tostring(result, encoding="utf-8", xml_declaration=True), restored
 
 
-def execute(current, config_path, verified_map, out, *, approved_catalog=None, max_removed=12):
+def read_fresh_confirmed(path):
+    """Only exact SKU keys with a fresh ROSSKO API confirmation this run."""
+    keys = set()
+    with Path(path).open("r", encoding="utf-8-sig", newline="") as stream:
+        reader = csv.DictReader(stream, delimiter=";")
+        if not {"brand", "article"} <= set(reader.fieldnames or []):
+            raise ValueError("Fresh API confirmation file lacks brand/article")
+        for row in reader:
+            k = key(row["brand"], row["article"])
+            if not all(k) or k in keys:
+                raise ValueError("Duplicate/invalid fresh API key")
+            keys.add(k)
+    if not 100 <= len(keys) <= 225:
+        raise ValueError("Insufficient fresh API confirmations; refuse live feed update")
+    return keys
+
+
+def execute(current, config_path, verified_map, out, *, approved_catalog=None, max_removed=12, fresh_confirmations=None):
     config = load_config(config_path)
     book = load_fresh_price(config, config_path.parent, 2)
     try:
@@ -280,13 +302,18 @@ def execute(current, config_path, verified_map, out, *, approved_catalog=None, m
     finally:
         book.close()
     source_map = read_wholesale_retail(verified_map)
+    fresh = read_fresh_confirmed(fresh_confirmations) if fresh_confirmations else None
+    if fresh is not None and not fresh <= set(source_map):
+        raise ValueError("Fresh confirmation is not part of verified retail map")
     previous_live_xml = current.read_bytes()
     approved_xml = approved_catalog.read_bytes() if approved_catalog else previous_live_xml
     universe, restocks = reconstruct_approved_catalog(
-        approved_xml, previous_live_xml, products, source_map)
+        approved_xml, previous_live_xml, products, source_map,
+        freshly_verified=fresh)
     # First pass: count differences without publishing or additional requests.
     _, initial = plan(universe, products, source_map,
-                      max_removed=max_removed, require_second=False)
+                      max_removed=max_removed, require_second=False,
+                      freshly_verified=fresh)
     second = None
     if initial["removed_confirmed_no_stock"] or restocks:
         second = second_independent_stock_sample(config)
@@ -297,7 +324,8 @@ def execute(current, config_path, verified_map, out, *, approved_catalog=None, m
                     "Тормозные диски", "Рулевые рейки"):
                 raise ValueError("Supplier snapshots disagree on returned stock")
     result, report = plan(universe, products, source_map,
-                          second_stock=second, max_removed=max_removed)
+                          second_stock=second, max_removed=max_removed,
+                          freshly_verified=fresh)
     result_ids = [a.findtext("Id") for a in ET.fromstring(result).findall("Ad")]
     prev_root = ET.fromstring(previous_live_xml)
     previous_ads = prev_root.findall("Ad")
@@ -319,6 +347,7 @@ def execute(current, config_path, verified_map, out, *, approved_catalog=None, m
         new.remove(new.find("Price"))
         if ET.tostring(old) != ET.tostring(new):
             raise ValueError("Unexpected non-price field difference for ID "+str(id))
+    report["current_api_verified_skus"] = len(fresh) if fresh is not None else None
     report["current_live_before"] = len(previous_ids)
     report["restocked_approved_ads"] = added_ids
     report["removed_from_previous_live_feed"] = removed_ids
@@ -340,11 +369,14 @@ def main():
     parser.add_argument("--previous", type=Path, required=True)
     parser.add_argument("--approved-catalog", type=Path)
     parser.add_argument("--verified-retail-map", type=Path, required=True)
+    parser.add_argument("--fresh-api-confirmations", type=Path)
     parser.add_argument("--out", type=Path, required=True)
     parser.add_argument("--max-removals", type=int, default=12)
     args = parser.parse_args()
     execute(args.previous, args.config, args.verified_retail_map,
-            args.out, approved_catalog=args.approved_catalog, max_removed=args.max_removals)
+            args.out, approved_catalog=args.approved_catalog,
+            max_removed=args.max_removals,
+            fresh_confirmations=args.fresh_api_confirmations)
 
 
 if __name__=="__main__":
