@@ -42,9 +42,9 @@ def main():
     try:
         rr=sess.get("https://startvolt.com/robots.txt",timeout=(8,18))
         print("ROBOTS",rr.status_code,rr.headers.get("Content-Type",""),len(rr.content),flush=True)
-        if rr.status_code!=200:raise RuntimeError("Cannot confirm manufacturer's robots")
+        if rr.status_code not in (200,404):raise RuntimeError("Cannot confirm manufacturer's robots")
         robot=urllib.robotparser.RobotFileParser()
-        robot.parse(rr.text.splitlines())
+        robot.parse(rr.text.splitlines() if rr.status_code==200 else [])
     except Exception as e:
         print("ROBOTS_ERROR",type(e).__name__,flush=True)
         robot=None
