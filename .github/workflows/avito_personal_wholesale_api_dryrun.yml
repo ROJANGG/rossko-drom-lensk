@@ -1,0 +1,74 @@
+name: Avito-only personal ROSSKO API renewal - full private dry run
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_personal_wholesale_api_dryrun.yml'
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-personal-wholesale-dryrun
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: df800ffa89d85f709db7ceb38a1790330116351f
+          path: generator
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: avito
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: retail
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install ROSSKO API SOAP client and source-file reader
+        run: python -m pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4' 'requests>=2.31,<3'
+      - name: Offline tests - no unapproved API calls, no Drom effects, safe stock
+        working-directory: generator
+        run: |
+          python -m unittest discover -s tests -p test_avito_wholesale_live_api_refresh.py -v
+          python -m unittest discover -s tests -p test_avito_active_feed_refresh.py -v
+      - name: Query personal wholesale prices ONLY for approved stocked Avito SKUs
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python generator/avito_wholesale_live_api_refresh.py \
+            --config generator/config.json \
+            --approved-catalog avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --retail-map retail/input/rossko_verified_retail_prices.csv \
+            --out private
+      - name: Rebuild Avito stock and prices from this-run API confirmation only
+        run: |
+          python generator/avito_active_feed_refresh.py \
+            --config generator/config.json \
+            --previous avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --approved-catalog avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --verified-retail-map private/runtime_verified_retail_only.csv \
+            --fresh-api-confirmations private/fresh_api_confirmed_skus.csv \
+            --out result \
+            --max-removals 12
+      - name: Save private numerical summaries, no live XML changes
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_API_WHOLESALE_LIVE_DRY_RUN_AUDIT
+          path: |
+            private/api_summary.json
+            result/report.json
+          retention-days: 2
+          if-no-files-found: ignore
