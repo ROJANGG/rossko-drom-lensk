@@ -114,7 +114,7 @@ def run(config,live,archive,retail,evidence_folder,out):
     session.headers["User-Agent"]="RosskoAvitoOfficialStartvoltKitRelease/1.0"
     additions=[]
     retailadd=[]
-    for article,record in EXPECTED.items():
+    for article,record in sorted(EXPECTED.items(),reverse=True):
         evidence=verified[article]
         images=evidence["image_urls"]
         if (evidence.get("manufacturer_confirmed")!=True
