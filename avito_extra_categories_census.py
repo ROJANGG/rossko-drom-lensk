@@ -45,6 +45,17 @@ def classify(description):
     if not s:
         return None
     found=[g for g,regex in COMPILED if regex.search(s)]
+    # "Кольцо уплотнительное форсунки", "смазка свечи" etc. are
+    # accessories, not the requested main part, and must never be sold as such.
+    if "Форсунки топливные" in found and (
+            not re.match(r"^форсунк\\w*",s)
+            or re.search(r"кольц|уплотн|ремкомплект|распылитель|уплотнител",s)):
+        found.remove("Форсунки топливные")
+    if "Свечи накала" in found and not re.match(r"^свеч\\w*",s):
+        found.remove("Свечи накала")
+    if "Комплекты цепи ГРМ" in found and "цеп" not in s:
+        found.remove("Комплекты цепи ГРМ")
+
     # Specific rules trump generic ones (drum vs discs, kit vs belt).
     if "Колодки барабанные" in found and "Колодки тормозные (дисковые)" in found:
         found.remove("Колодки тормозные (дисковые)")
