@@ -1,0 +1,165 @@
+name: Avito Irkutsk - twice daily personal ROSSKO wholesale API repricing
+# Avito only. No Drom updates and no API buying costs in published files.
+# Scheduled API checks are independent from the four daily supplier-stock runs.
+on:
+  schedule:
+    - cron: '17 5,17 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_personal_wholesale_live.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+
+jobs:
+  repricing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - name: Checkout tested ROSSKO personal-price and Avito-only generator
+        uses: actions/checkout@v4
+        with:
+          ref: 04bfc8ac81de6fe04dfa5932d71f50c91569fbda
+          path: generator
+          persist-credentials: false
+      - name: Checkout existing live Avito XML, archive and latest price map
+        uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: avito
+          persist-credentials: true
+      - name: Checkout original ROSSKO validated retail map (read only)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: retail
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install SOAP client and fresh supplier XLSX reader
+        run: python -m pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4' 'requests>=2.31,<3'
+      - name: Offline tests prevent unapproved SKU prices and loss of Avito IDs
+        working-directory: generator
+        run: |
+          python -m unittest discover -s tests -p test_avito_wholesale_live_api_refresh.py -v
+          python -m unittest discover -s tests -p test_avito_active_feed_refresh.py -v
+      - name: Select last validated personal retail map
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p private
+          if [ -s avito/avito-verified-retail-prices.csv ]; then
+            cp avito/avito-verified-retail-prices.csv private/previous-retail.csv
+          else
+            cp retail/input/rossko_verified_retail_prices.csv private/previous-retail.csv
+          fi
+      - name: Read only approved stocked Avito SKUs from PERSONAL ROSSKO API
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python generator/avito_wholesale_live_api_refresh.py \
+            --config generator/config.json \
+            --approved-catalog avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --retail-map private/previous-retail.csv \
+            --out private
+      - name: Make fail-closed Avito price-stock candidate from fresh supplier data
+        run: |
+          python generator/avito_active_feed_refresh.py \
+            --config generator/config.json \
+            --previous avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --approved-catalog avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --verified-retail-map private/runtime_verified_retail_only.csv \
+            --fresh-api-confirmations private/fresh_api_confirmed_skus.csv \
+            --out result \
+            --max-removals 12
+      - name: Review same-run API coverage and preserve every continuing ad attribute
+        run: |
+          python - <<'PY'
+          import copy,json
+          from datetime import datetime,timezone,timedelta
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+          api=json.loads(Path("private/api_summary.json").read_text(encoding="utf-8"))
+          r=json.loads(Path("result/report.json").read_text(encoding="utf-8"))
+          stamp=datetime.fromisoformat(api["time_utc"])
+          if stamp.tzinfo is None or not timedelta(0)<=datetime.now(timezone.utc)-stamp<timedelta(minutes=20):
+              raise SystemExit("REFUSE: API cost validation expired or invalid")
+          checked=api["api_requests_attempted"]
+          confirmed=api["api_wholesale_confirmed"]
+          if not (100<=confirmed<=checked<=225 and confirmed/checked>=0.70
+                  and confirmed==r["current_api_verified_skus"]):
+              raise SystemExit("REFUSE: missing fresh API personal prices")
+          prev=ET.parse("avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml").getroot()
+          new=ET.parse("result/AVITO_ACTIVE_PRICES_STOCK_CANDIDATE.xml").getroot()
+          before=prev.findall("Ad"); after=new.findall("Ad")
+          old={x.findtext("Id"):x for x in before}
+          current={x.findtext("Id"):x for x in after}
+          if len(old)!=len(before) or len(current)!=len(after):
+              raise SystemExit("REFUSE: duplicate IDs")
+          changed_ids=set(old)-set(current)
+          new_ids=set(current)-set(old)
+          if (len(changed_ids)>12 or len(new_ids)>12 or len(after)<150
+                  or len(changed_ids)/len(before)>0.075):
+              raise SystemExit("REFUSE: abnormal listing removals/restores")
+          if not r["removed_independently_verified"] or not r["restock_supplier_double_checked"]:
+              raise SystemExit("REFUSE: supplier stock double-check failed")
+          for id in set(old)&set(current):
+              x=copy.deepcopy(old[id]); y=copy.deepcopy(current[id])
+              x.remove(x.find("Price"));y.remove(y.find("Price"))
+              if ET.tostring(x)!=ET.tostring(y):
+                  raise SystemExit("REFUSE: Avito non-price field changed for "+str(id))
+          if any(not ad.findtext("OEM") or ad.find("Images/Image") is None for ad in after):
+              raise SystemExit("REFUSE: missing original OEM or original photo")
+          if r["repriced"]>len(after):
+              raise SystemExit("REFUSE: unexpected retail price count")
+          print("AVITO_PERSONAL_API_PRICE_RELEASE_APPROVED",json.dumps({
+              "api_requests":checked,
+              "personal_wholesale_confirmed":confirmed,
+              "before":len(before),"after":len(after),
+              "repriced":r["repriced"],
+              "confirmed_out_of_stock_removed":len(changed_ids),
+              "approved_SKUs_restored":len(new_ids),
+              "not_verified_prices_unchanged":r["price_kept_unverified"]
+          }))
+          PY
+      - name: Publish Avito XML and RETAIL prices only; no personal cost, Drom or secrets
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp result/AVITO_ACTIVE_PRICES_STOCK_CANDIDATE.xml avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          cp private/runtime_verified_retail_only.csv avito/avito-verified-retail-prices.csv
+          cp private/fresh_api_confirmed_skus.csv avito/avito-fresh-api-confirmed-skus.csv
+          cp private/api_summary.json avito/avito-api-price-check-summary.json
+          cd avito
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            avito-verified-retail-prices.csv \
+            avito-fresh-api-confirmed-skus.csv \
+            avito-api-price-check-summary.json
+          if git diff --cached --quiet; then
+            echo "All Avito retail prices and stocks already up to date"
+          else
+            git commit -m "Avito: validated account-specific ROSSKO API prices for approved in-stock discs/racks"
+            git push origin HEAD:avito-irkutsk-feed
+          fi
+      - name: Keep short-lived private audit of API coverage and Avito changes
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_PERSONAL_WHOLESALE_PRICE_AUDIT
+          path: |
+            private/api_summary.json
+            result/report.json
+          retention-days: 2
+          if-no-files-found: ignore
