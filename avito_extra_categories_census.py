@@ -48,10 +48,10 @@ def classify(description):
     # "Кольцо уплотнительное форсунки", "смазка свечи" etc. are
     # accessories, not the requested main part, and must never be sold as such.
     if "Форсунки топливные" in found and (
-            not re.match(r"^форсунк\\w*",s)
+            not s.startswith("форсунк")
             or re.search(r"кольц|уплотн|ремкомплект|распылитель|уплотнител",s)):
         found.remove("Форсунки топливные")
-    if "Свечи накала" in found and not re.match(r"^свеч\\w*",s):
+    if "Свечи накала" in found and not s.startswith("свеч"):
         found.remove("Свечи накала")
     if "Комплекты цепи ГРМ" in found and "цеп" not in s:
         found.remove("Комплекты цепи ГРМ")
