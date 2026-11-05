@@ -48,26 +48,68 @@ def seller_sku(ad):
     # All 195 existing titles obey this template; refuse unrecognized ones
     # instead of guessing which article an ad represents.
     matched = re.fullmatch(
-        r"(Тормозной диск|Рулевая рейка)\s+(.+)\s+([A-Za-z0-9.+/\-]+)\s+новый",
+        r"(Тормозной диск|Рулевая рейка|Радиатор кондиционера)\s+(.+)\s+([A-Za-z0-9.+/\-]+)\s+новый",
         title, flags=re.I,
     )
     if not matched or normalize_key(matched.group(2)) != normalize_key(brand):
         raise ValueError("Unrecognized existing Avito title for ID: " + str(ad.findtext("Id")))
     if matched.group(1).casefold().startswith("тормозной"):
         category = "Тормозные диски"
-    else:
+    elif matched.group(1).casefold().startswith("рулевая"):
         category = "Рулевые рейки"
+    else:
+        category = "Радиаторы кондиционера"
     return key(brand, matched.group(3)), category
+
+
+EXTRA_APPROVED_STOCK_SKUS = {
+    ("luzar", "lrac3034"),
+    ("luzar", "lrac3049"),
+}
 
 
 def supplier_products(book, config):
     items = select_rows(book.active, config)
+    # Only individually OEM/photo-approved radiator SKUs, not the entire
+    # new category. The same supplier zero-day/positive-stock rules apply.
+    from avito_extra_categories_census import classify
+    from update_prices import (
+        read_header_map,get_cell,text,parse_stock_count,parse_decimal
+    )
+    from avito_irkutsk import zero_days
+    h = read_header_map(book.active)
+    for row in book.active.iter_rows(min_row=2):
+        brand = text(get_cell(row,h,"Бренд"))
+        article = text(get_cell(row,h,"Артикул"))
+        k = key(brand,article)
+        if k not in EXTRA_APPROVED_STOCK_SKUS:
+            continue
+        description = text(get_cell(row,h,"Описание"))
+        if classify(description) != "Радиаторы кондиционера":
+            continue
+        cities=[c for c in ("Город склада","Склад отгрузки","Филиал","Город") if c in h]
+        if cities and not any("иркутск" in text(get_cell(row,h,c)).casefold() for c in cities):
+            continue
+        if not zero_days(get_cell(row,h,"Срок поставки, дн.")):
+            continue
+        rawstock=text(get_cell(row,h,"Наличие"))
+        stock=0 if rawstock.lstrip().startswith("-") else parse_stock_count(rawstock)
+        price=parse_decimal(get_cell(row,h,"Цена, руб."))
+        if stock<=0 or price is None or price<=0:
+            continue
+        items.append({
+            "Группа":"Радиаторы кондиционера",
+            "Бренд":brand,"Артикул":article,
+            "Остаток РОССКО":stock,
+            "Срок поставки":0,
+            "_source_list_price":price
+        })
     found = {}
     for item in items:
         k = key(item["Бренд"], item["Артикул"])
         if k in found:
             raise ValueError("Duplicate supplier brand/article")
-        if item["Группа"] not in ("Тормозные диски", "Рулевые рейки"):
+        if item["Группа"] not in ("Тормозные диски", "Рулевые рейки", "Радиаторы кондиционера"):
             raise ValueError("Unexpected supplier category")
         found[k] = item
     return found
