@@ -64,6 +64,23 @@ def list_approved(archive_xml):
     return output
 
 
+def read_previous_mapping(path):
+    """Preserve existing validated retail prices and display-name spelling."""
+    base = read_wholesale_retail(path)
+    full = {}
+    with path.open("r", encoding="utf-8-sig", newline="") as fp:
+        reader = csv.DictReader(fp, delimiter=";")
+        for row in reader:
+            k = key(row["brand"], row["article"])
+            if k not in base or k in full:
+                raise ValueError("Invalid or duplicated persisted price map")
+            full[k] = {**base[k], "brand": row["brand"], "article": row["article"],
+                       "drom": int(row.get("drom_retail") or 0)}
+    if set(full) != set(base):
+        raise ValueError("Missing persisted retail rows")
+    return full
+
+
 def compare_and_build(approved, supplier, original, search_fn, *,
                       min_success_rate=0.70, max_api_requests=225, sleeper=time.sleep):
     """Pure coordination, inject search_fn for tests; never guesses wholesale."""
@@ -105,7 +122,8 @@ def compare_and_build(approved, supplier, original, search_fn, *,
                 current[k] = {
                     "brand":brand,"article":item["Артикул"],
                     "supplier_price":source_price,
-                    "days":0,"drom":0,"avito_price":sale_price
+                    "days":0,"drom":current.get(k,{}).get("drom",0),
+                    "avito_price":sale_price
                 }
                 updated.add(k)
         if (i+1)%35==0:
@@ -179,7 +197,7 @@ def run(config_path, approved_xml, retail_map, out, sample_limit=None):
         if not 1 <= sample_limit <= 24:
             raise ValueError("Test sample must be 1..24")
         approved=approved[:sample_limit]
-    original=read_wholesale_retail(retail_map)
+    original=read_previous_mapping(retail_map)
     key1,key2=(os.environ.get("ROSSKO_API_KEY1") or "").strip(),(
         os.environ.get("ROSSKO_API_KEY2") or "").strip()
     if not key1 or not key2:
