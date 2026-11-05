@@ -9,7 +9,7 @@ A separate GitHub Actions workflow uploads photos FIRST and verifies CDN
 availability before publishing any XML, fail closed throughout.
 """
 from __future__ import annotations
-import argparse,csv,copy,hashlib,io,json,os,re,sys,urllib.robotparser
+import argparse,csv,copy,hashlib,io,json,os,re,sys,urllib.robotparser,time
 from datetime import datetime, timezone, timedelta
 from decimal import Decimal
 from pathlib import Path
@@ -59,16 +59,42 @@ def validate_product_source(session,record,robot):
         if picture["url"] not in available:
             raise ValueError("Pinned photo no longer on exact manufacturer product page")
 
-def download_images(session,item,place):
+def get_photo_with_retries(session,url,tries=4):
+    last=None
+    for attempt in range(tries):
+        try:
+            response=session.get(url,timeout=(8,24))
+            if response.status_code in (429,500,502,503,504):
+                if attempt+1<tries:
+                    time.sleep(1.5*(attempt+1))
+                    continue
+            response.raise_for_status()
+            return response.content
+        except (requests.exceptions.Timeout,requests.exceptions.ConnectionError) as exc:
+            last=exc
+            if attempt+1<tries:
+                time.sleep(1.5*(attempt+1))
+    raise RuntimeError("Official photo endpoint unavailable after retries") from last
+
+
+def download_images(session,item,place,verified_photo_dir=None):
     photos=[]
     for i,img in enumerate(item["images"][:2],1):
         url=img["url"]
         if (not url.startswith("https://cdn.carvilleshop.ru/upload/resize_1000/")
                 or item["article"].lower() not in url.lower() or not url.lower().endswith(".jpg")):
             raise ValueError("Unexpected source for exact manufacturer photo")
-        response=session.get(url,timeout=(8,25))
-        response.raise_for_status()
-        raw=response.content
+        try:
+            raw=get_photo_with_retries(session,url)
+        except (requests.exceptions.RequestException,RuntimeError):
+            if verified_photo_dir is None:
+                raise
+            # Trusted prior official image artifact; independent SHA pin
+            # still checks the exact bytes referenced in live manufacturer page.
+            filename=verified_photo_dir/f"{item['article']}_{i}.jpg"
+            if not filename.is_file():
+                raise ValueError("No SHA-verified original photo artifact available")
+            raw=filename.read_bytes()
         if not 7000 < len(raw) < 8_000_000 or raw[:3]!=b"\xff\xd8\xff":
             raise ValueError("Photo magic/size check failed")
         sha=hashlib.sha256(raw).hexdigest()
@@ -116,7 +142,7 @@ def load_recent_private_api_snapshot(path,summary_path,*,now=None,max_age_hours=
     return records,observed.isoformat()
 
 
-def build(config,live_xml,archive_xml,retail_csv,evidence,out,*,fallback_csv=None,fallback_summary=None):
+def build(config,live_xml,archive_xml,retail_csv,evidence,out,*,fallback_csv=None,fallback_summary=None,verified_photo_dir=None):
     root=ET.parse(live_xml).getroot()
     historic=ET.parse(archive_xml).getroot()
     if root.attrib!=historic.attrib or root.tag!="Ads" or historic.tag!="Ads":
@@ -203,7 +229,7 @@ def build(config,live_xml,archive_xml,retail_csv,evidence,out,*,fallback_csv=Non
                 or buying_price<cost/Decimal("10")):
             raise ValueError("Personal purchasing cost untrusted")
         validate_product_source(s,record,robot)
-        images=download_images(s,record,photo_dir)
+        images=download_images(s,record,photo_dir,verified_photo_dir=verified_photo_dir)
         adid=stable_id(record["category"],record["brand"],record["article"])
         if adid in ids or adid in archive_ids or k in retail:
             raise ValueError("Would duplicate existing Avito ID/SKU")
@@ -292,8 +318,10 @@ def main():
     p.add_argument("--output",type=Path,required=True)
     p.add_argument("--fallback-review-csv",type=Path)
     p.add_argument("--fallback-summary",type=Path)
+    p.add_argument("--verified-photo-artifact-dir",type=Path)
     args=p.parse_args()
     build(args.config,args.live,args.archive,args.retail,args.evidence,args.output,
-          fallback_csv=args.fallback_review_csv,fallback_summary=args.fallback_summary)
+          fallback_csv=args.fallback_review_csv,fallback_summary=args.fallback_summary,
+          verified_photo_dir=args.verified_photo_artifact_dir)
 if __name__=="__main__":
     sys.exit(main())
