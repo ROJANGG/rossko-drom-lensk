@@ -1,0 +1,45 @@
+name: Avito first 95 - exact manufacturer OEM, fitment and product image evidence (REVIEW ONLY)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_95_manufacturer_evidence_review.yml'
+permissions:
+  contents: read
+  actions: read
+jobs:
+  research-only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: cea45388e91cd46c18fd3153b56b760873a100b8
+          path: code
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install 'beautifulsoup4>=4.12' 'requests>=2.31,<3' 'pillow>=10,<13'
+      - name: Download verified first 95 product list (no secrets)
+        uses: actions/download-artifact@v4
+        with:
+          artifact-ids: 13405051947
+          run-id: 42006551154
+          github-token: ${{ github.token }}
+          path: input
+          merge-multiple: true
+      - name: Research only exact manufacturer product detail pages and image links
+        run: |
+          python code/avito_95_manufacturer_evidence_research.py \
+            --source input/FIRST_3_CATEGORIES_PERSONAL_PRICE_AND_OEM_PHOTO_REVIEW.csv \
+            --out research
+      - name: Preserve evidence table for review only - no live uploads
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_95_OEM_PHOTO_MANUFACTURER_EVIDENCE_REVIEW_ONLY
+          path: research/
+          retention-days: 3
+          if-no-files-found: ignore
