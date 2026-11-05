@@ -78,7 +78,7 @@ def main():
             urls=[]
             for img in soup.find_all("img"):
                 candidate=urljoin(url,img.get("src") or img.get("data-src") or "")
-                if candidate.startswith("https://cdn.carvilleshop.ru/upload/") and article.casefold() in candidate.casefold() and candidate.lower().endswith((".jpg",".jpeg")):
+                if candidate.startswith("https://s3.carvilleshop.ru/upload/resize_1000/") and article.casefold() in candidate.casefold() and candidate.lower().endswith((".jpg",".jpeg")):
                     urls.append(candidate)
             urls=list(dict.fromkeys(urls))[:3]
             if not urls:
