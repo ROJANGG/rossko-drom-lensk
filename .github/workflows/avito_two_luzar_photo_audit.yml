@@ -1,0 +1,31 @@
+name: Avito Luzar two radiator exact OEM and official photo audit - REVIEW
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_two_luzar_photo_audit.yml']
+permissions:
+  contents: read
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 49c927a0679dc342f08b7474eeb0e1156164c022
+          path: research
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 pillow
+      - run: python research/avito_two_luzar_manufacturer_photo_audit.py
+      - name: Save read-only exact-photo evidence and original images
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: LUZAR_TWO_CONFIRMED_OEM_PHOTO_REVIEW_ONLY
+          path: photo_evidence/
+          retention-days: 3
+          if-no-files-found: ignore
