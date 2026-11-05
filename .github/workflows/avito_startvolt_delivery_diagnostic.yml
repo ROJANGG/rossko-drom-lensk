@@ -13,8 +13,8 @@ jobs:
     timeout-minutes: 12
     env:
       ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
-      ROSSKO_API_${{ secrets.ROSSKO_API_KEY1 }}: KEY1
-      ROSSKO_API_${{ secrets.ROSSKO_API_KEY2 }}: KEY2
+      ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+      ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
     steps:
       - uses: actions/checkout@v4
         with:
