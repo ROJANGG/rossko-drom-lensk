@@ -1,0 +1,45 @@
+name: Avito Irkutsk first 3 new categories - ROSSKO photo hints visual REVIEW ONLY
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_first_wave_photo_review.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 3f400d0105171d60ce6eb0b7e011bccc24c5b3f4
+          path: generator
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'pillow>=10,<13' 'requests>=2.31,<3'
+      - name: Download only the previously audited private category CSV
+        uses: actions/download-artifact@v4
+        with:
+          artifact-ids: 13405051947
+          run-id: 42006551154
+          github-token: ${{ github.token }}
+          path: candidates
+          merge-multiple: true
+      - name: Fetch exact supplier photo hints and build offline visual contact sheet
+        run: |
+          python generator/avito_first_wave_photo_contact_sheet.py \
+            --candidate-csv candidates/FIRST_3_CATEGORIES_PERSONAL_PRICE_AND_OEM_PHOTO_REVIEW.csv \
+            --out photo_review
+      - name: Save contact sheet and image metadata for human proof review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_NEW_CATEGORIES_PHOTO_CONTACT_SHEET_REVIEW_NOT_LIVE
+          path: photo_review/
+          retention-days: 3
+          if-no-files-found: ignore
