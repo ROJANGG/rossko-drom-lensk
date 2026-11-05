@@ -81,6 +81,12 @@ def main():
                 if candidate.startswith("https://cdn.carvilleshop.ru/upload/") and article.casefold() in candidate.casefold() and candidate.lower().endswith((".jpg",".jpeg")):
                     urls.append(candidate)
             urls=list(dict.fromkeys(urls))[:3]
+            if not urls:
+                print('STARTVOLT_IMG_DIAG',article,json.dumps([
+                    {'src':(im.get('src') or im.get('data-src') or '')[:210],
+                     'alt':im.get('alt','')[:90]}
+                    for im in soup.find_all('img')[:18]
+                ],ensure_ascii=False),flush=True)
             for photo in urls:
                 try:
                     rr=sess.get(photo,timeout=(8,22))
