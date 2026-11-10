@@ -1,0 +1,501 @@
+{
+  "checked_at_utc": "2026-11-10T17:33:37.755914+00:00",
+  "scope": "50 previously blocked first-95 SKUs; source availability recheck only, not approval",
+  "unique_urls": 24,
+  "items": [
+    {
+      "brand": "Stellox",
+      "article": "000605SX",
+      "url": "https://ru.stellox.com/catalog/000-605-sx/",
+      "existing_blocker": "OEM и фото подтверждены; таблица применяемости производителя пустая",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "Stellox",
+      "article": "000621SX",
+      "url": "https://ru.stellox.com/catalog/000-621-sx/",
+      "existing_blocker": "OEM и фото подтверждены; таблица применяемости производителя пустая",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "Stellox",
+      "article": "112100SX",
+      "url": "https://ru.stellox.com/catalog/112-100-sx/",
+      "existing_blocker": "В карточке производителя чертёж вместо фотографии изделия",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "Stellox",
+      "article": "174100SX",
+      "url": "https://ru.stellox.com/catalog/174-100-sx/",
+      "existing_blocker": "OEM и фото подтверждены; таблица применяемости производителя пустая",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "TRANSMASTER",
+      "article": "TR500669C",
+      "url": "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza-s-nakladkami-v-sbore89604",
+      "existing_blocker": "OEM и применяемость подтверждены; массив изображений производителя пуст",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 432716,
+        "sha256": "92241542cbd8a16bec473f5092b69392109eadde591a466e03b90c0b62f04263",
+        "checked_at_utc": "2026-11-10T17:33:37.707102+00:00"
+      },
+      "recheck_finding": "Exact manufacturer card still has images: []"
+    },
+    {
+      "brand": "TRANSMASTER",
+      "article": "TR500670C",
+      "url": "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza-s-nakladkami-v-sbore89605",
+      "existing_blocker": "OEM и применяемость подтверждены; массив изображений производителя пуст",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 427162,
+        "sha256": "e8d0ac930a2e3aed2f575ca5b62b94d8aa8c0526a5add8093df0d084c1e66136",
+        "checked_at_utc": "2026-11-10T17:33:37.559395+00:00"
+      },
+      "recheck_finding": "Exact manufacturer card still has images: []"
+    },
+    {
+      "brand": "TRANSMASTER",
+      "article": "TR500672C",
+      "url": "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza-s-nakladkami-v-sbore89607",
+      "existing_blocker": "OEM и применяемость подтверждены; массив изображений производителя пуст",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 432065,
+        "sha256": "f4d2bff3c74702de1234bf926fb06d2b26f09db58bde4fe1910bd7cf6178813c",
+        "checked_at_utc": "2026-11-10T17:33:37.432569+00:00"
+      },
+      "recheck_finding": "Exact manufacturer card still has images: []"
+    },
+    {
+      "brand": "TRANSMASTER",
+      "article": "TR500673C",
+      "url": "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza-s-nakladkami-v-sbore89603",
+      "existing_blocker": "OEM и применяемость подтверждены; массив изображений производителя пуст",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 432033,
+        "sha256": "6e940bb881802e7a4d0c310731f9ffec3d1e3b9e67a9af09393e0723daa5317f",
+        "checked_at_utc": "2026-11-10T17:33:37.755271+00:00"
+      },
+      "recheck_finding": "Exact manufacturer card still has images: []"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0019",
+      "url": "https://ecatalogue.lynxauto.jp/RC-0019.html",
+      "existing_blocker": "Карточка производителя: HTTP 500; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 500
+      }
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0082",
+      "url": "https://ecatalogue.lynxauto.jp/RC-0082.html",
+      "existing_blocker": "OEM и применяемость подтверждены; фото в карточке отсутствует",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 61342,
+        "sha256": "715c438a2f13abf983a6403c0d58c68730aa3bbaf93c4482d75df72cf3732ab4",
+        "checked_at_utc": "2026-11-10T17:33:03.740753+00:00"
+      },
+      "recheck_finding": "Exact manufacturer card still uses no_image.jpg instead of a product photo"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0705",
+      "url": "https://ecatalogue.lynxauto.jp/RC-0705.html",
+      "existing_blocker": "Карточка производителя: HTTP 500; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 500
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1005",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1009",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1010",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1012",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1018",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1021",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1022",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1034",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1038",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1040",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1042",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1044",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1045",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1050",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1052",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1054",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1058",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1059",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1060",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1064",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1066",
+      "url": "https://sufix.pro/",
+      "existing_blocker": "Официальный каталог SUFIX: HTTP 503 и тайм-аут в браузере; OEM, применяемость и фото не подтверждены",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "Stellox",
+      "article": "1045152SX",
+      "url": "https://ru.stellox.com/catalog/10-45152-sx/",
+      "existing_blocker": "В карточке производителя чертёж вместо фотографии изделия; таблица применяемости производителя также пустая",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "Stellox",
+      "article": "1045355SX",
+      "url": "https://ru.stellox.com/catalog/10-45355-sx/",
+      "existing_blocker": "В карточке производителя чертёж вместо фотографии изделия; таблица применяемости производителя также пустая",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "Stellox",
+      "article": "1045719SX",
+      "url": "https://ru.stellox.com/catalog/10-45719-sx/",
+      "existing_blocker": "В карточке производителя чертёж вместо фотографии изделия",
+      "source_check": {
+        "http_status": 503
+      }
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250201055",
+      "url": "",
+      "existing_blocker": "Применяемость есть в официальном каталоге Bosch 2022–2023; нет подтверждённой прямой связи OEM с этим артикулом, онлайн-карточка Bosch вернула HTTP 502",
+      "source_check": {}
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250202142",
+      "url": "",
+      "existing_blocker": "Применяемость есть в официальном каталоге Bosch 2022–2023; нет подтверждённой прямой связи OEM с этим артикулом, онлайн-карточка Bosch вернула HTTP 502",
+      "source_check": {}
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250402002",
+      "url": "",
+      "existing_blocker": "Применяемость есть в официальном каталоге Bosch 2022–2023; нет подтверждённой прямой связи OEM с этим артикулом, онлайн-карточка Bosch вернула HTTP 502",
+      "source_check": {}
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250403009",
+      "url": "",
+      "existing_blocker": "Применяемость есть в официальном каталоге Bosch 2022–2023; нет подтверждённой прямой связи OEM с этим артикулом, онлайн-карточка Bosch вернула HTTP 502",
+      "source_check": {}
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250603001",
+      "url": "",
+      "existing_blocker": "Применяемость есть в официальном каталоге Bosch 2022–2023; нет подтверждённой прямой связи OEM с этим артикулом, онлайн-карточка Bosch вернула HTTP 502",
+      "source_check": {}
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250603006",
+      "url": "",
+      "existing_blocker": "Применяемость есть в официальном каталоге Bosch 2022–2023; нет подтверждённой прямой связи OEM с этим артикулом, онлайн-карточка Bosch вернула HTTP 502",
+      "source_check": {}
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1001",
+      "url": "https://tatsumi.ru/catalog/thq1001/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 361690,
+        "sha256": "b207ed2724c7006ec4f630ce3388f1ab0876be02a1475e24ec535fd69dd63744",
+        "checked_at_utc": "2026-11-10T17:33:23.453927+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1005",
+      "url": "https://tatsumi.ru/catalog/thq1005/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 175697,
+        "sha256": "0681a68b68d9cdd7487534ad11ecf5012347957ec7df97c2124982217e4e74e3",
+        "checked_at_utc": "2026-11-10T17:33:23.384101+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1006",
+      "url": "https://tatsumi.ru/catalog/thq1006/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 332500,
+        "sha256": "6da488b817672481c34b5d8e3898b0c817b5201d9df965513bebc7aa23ce3cd6",
+        "checked_at_utc": "2026-11-10T17:33:24.394920+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1007",
+      "url": "https://tatsumi.ru/catalog/thq1007/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 263936,
+        "sha256": "311a52916a039661a6ffee306a551d72a2451f04f541e82b2b69138d08d5a564",
+        "checked_at_utc": "2026-11-10T17:33:23.114840+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1008",
+      "url": "https://tatsumi.ru/catalog/thq1008/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 376975,
+        "sha256": "63ef55b2f32f6714572e2885bf7a78ad9aebb49c34efb4f476029c0e6b25d53d",
+        "checked_at_utc": "2026-11-10T17:33:30.786094+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1009",
+      "url": "https://tatsumi.ru/catalog/thq1009/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 367147,
+        "sha256": "e24298de9aa6f7291f77047bf28746bb915f3036d71db873e9039a237be1836a",
+        "checked_at_utc": "2026-11-10T17:33:30.498315+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1010",
+      "url": "https://tatsumi.ru/catalog/thq1010/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 109925,
+        "sha256": "e529095aedf320376d020fae1c628925aea50752f162b37169dcd57cb7f7458d",
+        "checked_at_utc": "2026-11-10T17:33:29.786515+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1011",
+      "url": "https://tatsumi.ru/catalog/thq1011/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 236233,
+        "sha256": "ff6cc42806b5699c9b5c4038e7685221f193a39fc37c1bf42bf748e2cb72821f",
+        "checked_at_utc": "2026-11-10T17:33:29.993023+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1012",
+      "url": "https://tatsumi.ru/catalog/thq1012/",
+      "existing_blocker": "OEM и применяемость подтверждены; в карточке производителя заглушка no-image; старый официальный сайт HTTP 503",
+      "source_check": {
+        "http_status": 200,
+        "bytes": 87349,
+        "sha256": "54ae3756b9bdc26ad83d3433059fac51fb684f7bcf140f6c5c67fb4d951ce626",
+        "checked_at_utc": "2026-11-10T17:33:29.604731+00:00"
+      },
+      "recheck_finding": "Product image sources: ['/assets/components/app/images/no-image.png', '/assets/components/app/images/no-image.png']"
+    }
+  ]
+}
