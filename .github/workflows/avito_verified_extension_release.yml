@@ -1,4 +1,5 @@
 name: Avito - release only individually verified first-95 manufacturer SKUs
+# Preserves existing Luzar XML formatting and strictly expires same-day NGK source copies.
 on:
   workflow_dispatch:
   push:
@@ -49,6 +50,7 @@ jobs:
           cp extension/avito_wholesale_live_api_refresh.py generator/
           cp extension/avito_verified_extension_release.py generator/
           cp extension/input/avito_verified_extension_evidence.json generator/input/
+          cp -r extension/input/avito-ngk-source-cache generator/input/
           cp extension/tests/test_avito_verified_extension.py generator/tests/
       - name: Verify original stock and price protections plus exact-source extension guards
         working-directory: generator

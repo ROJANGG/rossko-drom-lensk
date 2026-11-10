@@ -6,7 +6,7 @@ bytes, then atomically commits XML, approved archive and retail-only prices.
 """
 import argparse,copy,csv,hashlib,html as html_std,io,json,os,re,time
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime,timezone
+from datetime import datetime,timezone,timedelta
 from decimal import Decimal
 from pathlib import Path
 from urllib.parse import unquote,urlparse
@@ -63,6 +63,22 @@ def validate_manifest(manifest):
                 or im['sha256'] in photos):raise ValueError('Unapproved/reused photo')
         photos.add(im['sha256']);keys.add(k)
     return records
+def load_source_cache(record,base=None,now=None):
+    """Only today's independently captured NGK primary-source facts, max 3h."""
+    cache=record.get('source_cache')
+    if record['source_kind']!='ngk' or not cache:raise ValueError('No verified primary-source cache')
+    if not re.fullmatch(r'input/avito-ngk-source-cache/[A-Z0-9]+\.json',cache['path']):raise ValueError('Invalid source-cache path')
+    path=(base or Path(__file__).parent)/cache['path'];raw=path.read_bytes()
+    if hashlib.sha256(raw).hexdigest()!=cache['sha256']:raise ValueError('Primary-source cache hash mismatch')
+    proof=json.loads(raw);stamp=datetime.fromisoformat(proof['verified_at_utc']);now=now or datetime.now(timezone.utc)
+    if stamp.tzinfo is None or not timedelta(0)<=now-stamp<=timedelta(hours=3):raise ValueError('Primary-source cache expired')
+    if (canon(proof['article'])!=canon(record['article']) or proof['manufacturer_page']!=record['manufacturer_page']
+            or proof['oem_source']!=record['oem_source'] or proof['photo_sha256']!=record['images'][0]['sha256']):
+        raise ValueError('Primary-source cache identity mismatch')
+    photo_path=path.parent/proof['photo_filename']
+    if photo_path.parent!=path.parent or hashlib.sha256(photo_path.read_bytes()).hexdigest()!=proof['photo_sha256']:
+        raise ValueError('Cached manufacturer photo hash mismatch')
+    return proof,photo_path
 def validate_source(record,page,extra_pages=None):
     soup=BeautifulSoup(page,'html.parser');sku=canon(record['article']);kind=record['source_kind']
     txt=soup.get_text(' ',strip=True)
@@ -109,14 +125,23 @@ def validate_source(record,page,extra_pages=None):
         if canon(token) not in canon(fit_text):raise ValueError('Manufacturer applicability changed')
     return True
 def prepare_photo(record,place):
-    extra={}
-    for url in set(record.get('fitment_sources',[])+[record['oem_source']]):
-        if url!=record['manufacturer_page']:
-            if urlparse(url).hostname not in PAGE_HOSTS[record['source_kind']]:raise ValueError('Foreign evidence host')
-            extra[url]=get(url).text
-    page=get(record['manufacturer_page']).text
+    extra={};cache_photo=None;verification='current_manufacturer_http'
+    try:
+        for url in set(record.get('fitment_sources',[])+[record['oem_source']]):
+            if url!=record['manufacturer_page']:
+                if urlparse(url).hostname not in PAGE_HOSTS[record['source_kind']]:raise ValueError('Foreign evidence host')
+                extra[url]=get(url).text
+        page=get(record['manufacturer_page']).text
+    except requests.RequestException:
+        proof,cache_photo=load_source_cache(record)
+        page=proof['product_html'];extra={record['oem_source']:proof['oem_html']}
+        verification='same_day_primary_source_cache_max_3h'
     validate_source(record,page,extra)
-    image=record['images'][0];raw=get(image['url'],record['manufacturer_page']).content
+    image=record['images'][0]
+    try:raw=get(image['url'],record['manufacturer_page']).content
+    except requests.RequestException:
+        if cache_photo is None:_,cache_photo=load_source_cache(record)
+        raw=cache_photo.read_bytes();verification='same_day_primary_source_cache_max_3h'
     if hashlib.sha256(raw).hexdigest()!=image['sha256']:raise ValueError('Reviewed photo bytes changed')
     im=Image.open(io.BytesIO(raw));im.load()
     if list(im.size)!=[image['width'],image['height']] or min(im.size)<200:raise ValueError('Photo dimensions changed')
@@ -124,7 +149,7 @@ def prepare_photo(record,place):
     if not ext:raise ValueError('Unsupported photo format')
     name=stable_id(record)+'-'+image['sha256'][:12]+'.'+ext
     (place/name).write_bytes(raw)
-    return {'filename':name,'sha256':image['sha256'],'public_url':f'https://raw.githubusercontent.com/{REPO}/{BRANCH}/avito-images/{name}'}
+    return {'filename':name,'sha256':image['sha256'],'public_url':f'https://raw.githubusercontent.com/{REPO}/{BRANCH}/avito-images/{name}','source_verification':verification}
 def make_ad(record,retail,photo,address):
     noun,suffix,group=TYPES[record['category']]
     if record.get('pack_quantity'):

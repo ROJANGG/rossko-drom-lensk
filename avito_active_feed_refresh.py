@@ -250,7 +250,8 @@ def plan(old_xml, source, retail, *, second_stock=None, max_removed=12,
         raise ValueError("Existing ID order changed unexpectedly")
     if len(kept_ids) < min_ads:
         raise ValueError("Resulting XML too small")
-    ET.indent(root, space="  ")
+    # Preserve existing XML whitespace as well as every business field. Global
+    # reindentation used to change the two Luzar ads and trip the strict guard.
     content = ET.tostring(root, encoding="utf-8", xml_declaration=True)
     check = ET.fromstring(content)
     if len(check.findall("Ad")) != len(kept_ids):

@@ -1,8 +1,10 @@
 import copy,json,unittest
 from pathlib import Path
 from xml.etree import ElementTree as ET
-from avito_verified_extension_release import validate_manifest,validate_source,make_ad,append_ads,stable_id
-from avito_active_feed_refresh import seller_sku,key,EXTRA_APPROVED_STOCK_CATEGORIES
+from avito_verified_extension_release import validate_manifest,validate_source,make_ad,append_ads,stable_id,load_source_cache
+from datetime import datetime,timezone,timedelta
+from avito_active_feed_refresh import seller_sku,key,EXTRA_APPROVED_STOCK_CATEGORIES,plan
+from decimal import Decimal
 
 MANIFEST=Path(__file__).resolve().parent.parent/'input/avito_verified_extension_evidence.json'
 class ExtensionSafety(unittest.TestCase):
@@ -45,4 +47,20 @@ class ExtensionSafety(unittest.TestCase):
         self.assertTrue(validate_source(r,page))
         for bad in [page.replace(sku,'DIFFERENT'),page.replace(oem,oem+'999'),page.replace(photo,'https://ru.stellox.com/other.jpg')]:
             with self.assertRaises(ValueError):validate_source(r,bad)
+    def test_stock_refresh_keeps_existing_nonstandard_xml_whitespace(self):
+        original='<Ads formatVersion="3"><Ad>\n <Id>keep-me</Id><Brand>Luzar</Brand>\n    <Title>Радиатор кондиционера Luzar LRAC3034 новый</Title><Price>1500</Price><OEM>VALUE</OEM><Images>\n<Image url="https://example.test/original.jpg" /></Images></Ad>\n</Ads>'
+        k=key('Luzar','LRAC3034')
+        supplier={k:{'Группа':'Радиаторы кондиционера','Остаток РОССКО':1,'Срок поставки':0,'_source_list_price':Decimal('1000')}}
+        retail={k:{'supplier_price':Decimal('1000'),'avito_price':1500,'days':0}}
+        result,_=plan(original.encode(),supplier,retail,min_ads=1)
+        self.assertEqual(ET.tostring(ET.fromstring(original).find('Ad')),ET.tostring(ET.fromstring(result).find('Ad')))
+    def test_primary_source_cache_identity_hash_and_three_hour_expiry(self):
+        r=next(x for x in self.manifest['items'] if x['source_kind']=='ngk')
+        path=MANIFEST.parent.parent/r['source_cache']['path'];proof=json.loads(path.read_text())
+        observed=datetime.fromisoformat(proof['verified_at_utc'])
+        load_source_cache(r,now=observed+timedelta(minutes=5))
+        for bad_time in [observed-timedelta(seconds=1),observed+timedelta(hours=3,seconds=1)]:
+            with self.assertRaises(ValueError):load_source_cache(r,now=bad_time)
+        bad=copy.deepcopy(r);bad['source_cache']['sha256']='0'*64
+        with self.assertRaises(ValueError):load_source_cache(bad,now=observed+timedelta(minutes=5))
 if __name__=='__main__':unittest.main()

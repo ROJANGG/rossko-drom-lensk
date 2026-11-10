@@ -1191,7 +1191,11 @@
       "fitment_tokens": [
         "MITSUBISHI",
         "L200 (2.5l)"
-      ]
+      ],
+      "source_cache": {
+        "path": "input/avito-ngk-source-cache/CZ251.json",
+        "sha256": "1ced1444ef015a9461e6741a5d219ca870460b0fd0f65f62eaab63b35ed7a6fd"
+      }
     },
     {
       "brand": "NGK",
@@ -1222,7 +1226,11 @@
       "fitment_tokens": [
         "JAGUAR",
         "E-PACE (2.0l)"
-      ]
+      ],
+      "source_cache": {
+        "path": "input/avito-ngk-source-cache/CZ552.json",
+        "sha256": "6f67d50482bb6b5a054edd72d9e25b56ad77bff1ba8761e7768732cbe1c8ae89"
+      }
     },
     {
       "brand": "NGK",
@@ -1253,7 +1261,11 @@
       "fitment_tokens": [
         "HYUNDAI",
         "ix35 (2.0l)"
-      ]
+      ],
+      "source_cache": {
+        "path": "input/avito-ngk-source-cache/Y1003AS.json",
+        "sha256": "02c584c21d8d219f085746ce81abddb6c038faae44c199dee60197694e69ee11"
+      }
     },
     {
       "brand": "NGK",
@@ -1284,7 +1296,11 @@
       "fitment_tokens": [
         "TOYOTA",
         "AVENSIS (2.0l)"
-      ]
+      ],
+      "source_cache": {
+        "path": "input/avito-ngk-source-cache/Y531J.json",
+        "sha256": "5cd2ef95f2ceeae90221f58b10914fd6ec08cf68a5fde7035f18e61847506581"
+      }
     },
     {
       "brand": "NGK",
@@ -1315,7 +1331,11 @@
       "fitment_tokens": [
         "KIA",
         "SEDONA (2.9l)"
-      ]
+      ],
+      "source_cache": {
+        "path": "input/avito-ngk-source-cache/Y535J.json",
+        "sha256": "a3436a565426398301e02efa11669a9e3f0f62950e4a8e932448897e06e68c08"
+      }
     },
     {
       "brand": "NGK",
@@ -1346,7 +1366,11 @@
       "fitment_tokens": [
         "FORD",
         "RANGER (2.5l)"
-      ]
+      ],
+      "source_cache": {
+        "path": "input/avito-ngk-source-cache/Y701J.json",
+        "sha256": "3b1cd7d7ba75d35247c9a996d628d505cb9cb40827d8082556eaa74cffd24ea9"
+      }
     },
     {
       "brand": "STARTVOLT",
