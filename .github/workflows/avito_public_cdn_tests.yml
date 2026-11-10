@@ -1,0 +1,21 @@
+name: Avito - exact public CDN XML verification tests
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'avito_refresh_public_cdn.py'
+      - 'tests/test_avito_refresh_public_cdn.py'
+      - '.github/workflows/avito_public_cdn_tests.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -p test_avito_refresh_public_cdn.py -v
