@@ -63,5 +63,5 @@ jobs:
         with:
           name: AVITO_FIRST_SMALL_CATEGORIES_PERSONAL_API_REVIEW_NOT_LIVE
           path: private_review/
-          retention-days: 3
+          retention-days: 7
           if-no-files-found: ignore
