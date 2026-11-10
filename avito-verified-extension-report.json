@@ -276,5 +276,18 @@
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": false
+  "publication_performed": true,
+  "publication_scope": "XML source branch only; Avito import and moderation not checked",
+  "xml_release_commit": "f4143431d0143975415f2f0fa2d0c94ecd1e8c7a",
+  "release_workflow_run_id": 42881688881,
+  "related_extension_run_ids": [
+    42798011773,
+    42879778721,
+    42881688881
+  ],
+  "public_exact_photo_hashes_verified": 2,
+  "cumulative_new_first95_skus_published": 46,
+  "cumulative_first95_skus_in_xml": 48,
+  "remaining_blocked_first95_skus": 47,
+  "avito_import_and_moderation_status": "NOT_CHECKED"
 }
