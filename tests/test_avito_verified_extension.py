@@ -1,7 +1,9 @@
-import copy,json,unittest
+import copy,json,unittest,tempfile
+from unittest.mock import patch
+import requests
 from pathlib import Path
 from xml.etree import ElementTree as ET
-from avito_verified_extension_release import validate_manifest,validate_source,make_ad,append_ads,stable_id,load_source_cache
+from avito_verified_extension_release import validate_manifest,validate_source,make_ad,append_ads,stable_id,load_source_cache,prepare_photo
 from datetime import datetime,timezone,timedelta
 from avito_active_feed_refresh import seller_sku,key,EXTRA_APPROVED_STOCK_CATEGORIES,plan
 from decimal import Decimal
@@ -70,6 +72,17 @@ class ExtensionSafety(unittest.TestCase):
         self.assertTrue(validate_source(r,page,{r['rossko_fitment_page']:proof}))
         for invalid in [proof.replace('000621SX','OTHER'),proof.replace('Stellox','OTHER'),proof.replace('/user/ROSSKOroznica/','/user/other/'),proof.replace('Daihatsu Sirion','OTHER')]:
             with self.assertRaises(ValueError):validate_source(r,page,{r['rossko_fitment_page']:invalid})
+    def test_captured_supplier_evidence_never_requests_blocked_site(self):
+        r=next(x for x in self.manifest['items'] if x['article']=='000621SX')
+        path=MANIFEST.parent.parent/r['source_cache']['path'];proof=json.loads(path.read_text())
+        photo=path.parent/proof['photo_filename']
+        with tempfile.TemporaryDirectory() as directory:
+            with patch('avito_verified_extension_release.load_source_cache',return_value=(proof,photo)):
+                with patch('avito_verified_extension_release.get',side_effect=requests.RequestException) as network:
+                    result=prepare_photo(r,Path(directory))
+                    self.assertEqual(result['sha256'],r['images'][0]['sha256'])
+                    self.assertTrue(network.call_args_list)
+                    self.assertTrue(all(call.args[0].startswith('https://ru.stellox.com/') for call in network.call_args_list))
     def test_stock_refresh_keeps_existing_nonstandard_xml_whitespace(self):
         original='<Ads formatVersion="3"><Ad>\n <Id>keep-me</Id><Brand>Luzar</Brand>\n    <Title>Радиатор кондиционера Luzar LRAC3034 новый</Title><Price>1500</Price><OEM>VALUE</OEM><Images>\n<Image url="https://example.test/original.jpg" /></Images></Ad>\n</Ads>'
         k=key('Luzar','LRAC3034')
