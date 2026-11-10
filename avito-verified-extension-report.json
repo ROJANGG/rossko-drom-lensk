@@ -824,5 +824,27 @@
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": false
+  "publication_performed": true,
+  "publication_scope": "XML source branch only; Avito import and moderation not checked",
+  "xml_release_commit": "fcfc0764d40ae4655fe87de2ac46ecd46d66106b",
+  "release_workflow_run_id": 42798011773,
+  "public_exact_photo_hashes_verified": 43,
+  "original_live_ids_remaining": 187,
+  "original_all_ids_preserved_in_archive": true,
+  "confirmed_zero_day_stock_withdrawn": [
+    {
+      "id": "irk-41914b10766df6d80ef102",
+      "brand": "Krauf",
+      "article": "HNQ5090GQ"
+    }
+  ],
+  "previously_approved_stock_restored": [
+    {
+      "id": "irk-3784438a1ea84aef781fc7",
+      "brand": "NGN",
+      "article": "361892"
+    }
+  ],
+  "existing_prices_refreshed": 5,
+  "avito_import_and_moderation_status": "NOT_CHECKED"
 }
