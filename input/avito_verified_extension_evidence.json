@@ -1,0 +1,2058 @@
+{
+  "schema_version": 1,
+  "reviewed_utc": "2026-11-10",
+  "scope_skus": [
+    {
+      "category": "Колодки барабанные",
+      "brand": "LYNXauto",
+      "article": "BS6307"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "000107SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "000442SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "000498SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "000590SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "000605SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "000621SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "000622SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "112100SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "148100SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "174100SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "214100SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "378100SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "397100SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "657100SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "Stellox",
+      "article": "720100SX"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "TRANSMASTER",
+      "article": "TR500669C"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "TRANSMASTER",
+      "article": "TR500670C"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "TRANSMASTER",
+      "article": "TR500672C"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "TRANSMASTER",
+      "article": "TR500673C"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "TRANSMASTER",
+      "article": "TR500674C"
+    },
+    {
+      "category": "Колодки барабанные",
+      "brand": "TRANSMASTER",
+      "article": "TS076"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0019"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0082"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0095"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0117"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0294"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0559"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0623"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0705"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "LYNXauto",
+      "article": "RC0710"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "Luzar",
+      "article": "LRAC3034"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "Luzar",
+      "article": "LRAC3049"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1005"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1009"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1010"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1012"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1018"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1021"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1022"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1034"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1038"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1040"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1042"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1044"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1045"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1050"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1052"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1054"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1058"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1059"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1060"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1064"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "SUFIX",
+      "article": "XC1066"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "Stellox",
+      "article": "1045152SX"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "Stellox",
+      "article": "1045355SX"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "Stellox",
+      "article": "1045687SX"
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "brand": "Stellox",
+      "article": "1045719SX"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "Bosch",
+      "article": "0250201055"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "Bosch",
+      "article": "0250202142"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "Bosch",
+      "article": "0250402002"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "Bosch",
+      "article": "0250403009"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "Bosch",
+      "article": "0250603001"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "Bosch",
+      "article": "0250603006"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "Febest",
+      "article": "16642010"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "NGK",
+      "article": "CZ251"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "NGK",
+      "article": "CZ552"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "NGK",
+      "article": "Y1003AS"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "NGK",
+      "article": "Y531J"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "NGK",
+      "article": "Y535J"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "NGK",
+      "article": "Y701J"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP003"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP010"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP014"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP015"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP022"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP025"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP026"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP028"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP035"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP043"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP048"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP058"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP066"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP508"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "STARTVOLT",
+      "article": "GLSP516"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1001"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1005"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1006"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1007"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1008"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1009"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1010"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1011"
+    },
+    {
+      "category": "Свечи накала",
+      "brand": "TATSUMI",
+      "article": "THQ1012"
+    }
+  ],
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "BS6307",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/BS-6307.html",
+      "exact_sku_verified": true,
+      "oem": "44 06 052 38R",
+      "oem_source": "https://ecatalogue.lynxauto.jp/BS-6307.html",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nRENAULT | ARKANA I (LCM_) 19- | 1.3 TCe 150 4WD (H5H 460) | 110 (150) | 08/19- | \nRENAULT | ARKANA I (LCM_) 19- | 1.6 4WD (H4M 442) | 84 (114) | 08/19- | \nRENAULT | DUSTER (HS_) 11-15 | 1.5 dCi 4WD (K9K 884) | 66 (90) | 06/11- | 4x4, OEM No. 44 06 074 93R\nRENAULT | DUSTER (HS_) 11-15 | 1.6 16V 4WD (H4M 430) | 84 (114) | 06/15- | \nRENAULT | DUSTER (HS_) 11-15 | 2.0 (F4R 403, F4R 405) | 98 (133) | 02/12- | 4x4, OEM No. 44 06 074 93R\nRENAULT | KAPTUR 13- | 1.3 TCe 150 (H5H 450, H5H 460) | 109 (149) | 03/20- | \nRENAULT | KAPTUR 13- | 2.0 4WD (F4R 410) | 105 (143) | 03/16- | ",
+      "fitment_sources": [
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=RENAULT&product_id=37759"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ecatalogue.lynxauto.jp/image/BS-6307.1.jpg",
+          "sha256": "c9725a690769c0a2fa616d92989a78f99f82e0758461d25789ae5faacd21f777",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "source_kind": "lynx",
+      "manufacturer_display_article": "BS6307",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "RENAULT",
+        "ARKANA I (LCM_) 19-"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "000107SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/000-107-sx/",
+      "exact_sku_verified": true,
+      "oem": "46590-33020",
+      "oem_source": "https://ru.stellox.com/catalog/000-107-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nTOYOTA | CAMRY (_V2_) | 198611 - 199105 | 62 | 84 | 1974 | седан\nTOYOTA | CAMRY (_V2_) | 198610 - 199105 | 63 | 86 | 1974 | седан\nTOYOTA | CAMRY универсал (_V2_) | 198611 - 199105 | 62 | 84 | 1974 | универсал\nTOYOTA | CAMRY универсал (_V2_) | 198811 - 199105 | 63 | 86 | 1974 | универсал\nTOYOTA | CELICA Хэтчбэк (_T16_) | 198508 - 198908 | 110 | 150 | 1998 | Хэтчбэк\nTOYOTA | CELICA Хэтчбэк (_T16_) | 198509 - 198908 | 103 | 140 | 1998 | Хэтчбэк\nTOYOTA | CELICA купе (_T16_) | 198803 - 198908 | 136 | 185 | 1998 | купе\nTOYOTA | CELICA купе (_T16_) | 198701 - 198908 | 110 | 150 | 1998 | купе",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/000-107-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/8dcd659bf0355643e1cea96988c885f1b09232c4.jpg",
+          "sha256": "d33f693ca3ab0be9bce1013df4c311588d93028eead0345eb3c2034d3aa4ac18",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "000107SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "TOYOTA",
+        "CAMRY (_V2_)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "000442SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/000-442-sx/",
+      "exact_sku_verified": true,
+      "oem": "9612137",
+      "oem_source": "https://ru.stellox.com/catalog/000-442-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nMERCEDES-BENZ | NG | 197308 - 199609 | 188 | 256 | 12760 | Седельный тягач\nVOLVO | S80 II (124) | 201010 - 201612 | 177 | 241 | 1999 | седан\nVOLVO | S80 II (124) | 201010 - 201612 | 224 | 305 | 2953 | седан\nVOLVO | S80 I (184) | 199805 - 200607 | 150 | 204 | 2922 | седан\nVOLVO | S80 I (184) | 199805 - 200112 | 200 | 272 | 2783 | седан\nVOLVO | S80 I (184) | 199901 - 200607 | 103 | 140 | 2435 | седан\nVOLVO | S80 I (184) | 199806 - 200607 | 166 | 226 | 1984 | седан\nVOLVO | S80 I (184) | 199901 - 200607 | 103 | 140 | 2460 | седан",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/000-442-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/7e4663168e78b4a9d7fb79c2cdadd23bb7a3bf63.jpg",
+          "sha256": "d139d4aeeb2fdb35fa94cc8ec5822f5f5170966ac2464f3f3c5aec43a5fdec7d",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "000442SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "MERCEDES-BENZ",
+        "NG"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "000498SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/000-498-sx/",
+      "exact_sku_verified": true,
+      "oem": "449563010",
+      "oem_source": "https://ru.stellox.com/catalog/000-498-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nTOYOTA | RAV 4 II (_A2_) | 200008 - 200511 | 92 | 125 | 1794 | SUV\nTOYOTA | RAV 4 II (_A2_) | 200005 - 200511 | 110 | 150 | 1998 | SUV\nTOYOTA | RAV 4 II (_A2_) | 200105 - 200511 | 85 | 116 | 1995 | SUV",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/000-498-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/9fe8e8bfdf2903d7bfd784a448d74fbdfec85e11.jpg",
+          "sha256": "0c0e2b7286aa49b7c9ec4c3b02df5b0c6d7e87e34d79a785a89b5dd8d90b57f2",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "000498SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "TOYOTA",
+        "RAV 4 II (_A2_)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "000590SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/000-590-sx/",
+      "exact_sku_verified": true,
+      "oem": "54600-77K00",
+      "oem_source": "https://ru.stellox.com/catalog/000-590-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nSUZUKI | GRAND VITARA II (JT, TE, TD) | 200901 - 201502 | 171 | 233 | 3195 | вездеход закрытый\nSUZUKI | GRAND VITARA II (JT, TE, TD) | 200901 - | 124 | 169 | 2393 | вездеход закрытый\nSUZUKI | GRAND VITARA II (JT, TE, TD) | 200901 - | 122 | 166 | 2393 | вездеход закрытый",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/000-590-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/fef785277017459854e96a1c6a70b296b449185b.jpg",
+          "sha256": "764cec59cfed5ae09ba76214b869495c0bb9a40a3d09d911923bed98641ec021",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "000590SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "SUZUKI",
+        "GRAND VITARA II (JT, TE, TD)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "000622SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/000-622-sx/",
+      "exact_sku_verified": true,
+      "oem": "LFY4-44-39Z",
+      "oem_source": "https://ru.stellox.com/catalog/000-622-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nMAZDA | CX-7 (ER) | 201201 - 201303 | 120 | 163 | 2184 | SUV\nMAZDA | CX-7 (ER) | 200710 - 200908 | 190 | 258 | 2261 | SUV\nMAZDA | CX-7 (ER) | 200906 - 201303 | 191 | 260 | 2261 | SUV\nMAZDA | CX-7 (ER) | 200907 - 201303 | 127 | 173 | 2184 | SUV\nMAZDA | CX-9 (TB) | 200609 - 200712 | 193 | 263 | 3496 | SUV\nMAZDA | CX-9 (TB) | 200701 - | 204 | 277 | 3726 | SUV\nMAZDA | CX-9 (TB) | 200701 - | 193 | 263 | 3496 | SUV\nSSANGYONG | MUSSO (FJ) | 199606 - 200409 | 162 | 220 | 3199 | вездеход закрытый",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/000-622-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/09/6ca708065d2ce84419ffd23b0fc59471f664235a.jpg",
+          "sha256": "00fea16d58a7e53ad30a3806b4cce15f3007a4b3d09a1febb651d946d3f62acf",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "000622SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "MAZDA",
+        "CX-7 (ER)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "148100SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/148-100-sx/",
+      "exact_sku_verified": true,
+      "oem": "YS6J-2200-AA",
+      "oem_source": "https://ru.stellox.com/catalog/148-100-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nFORD | FIESTA IV (JA_, JB_) | 199508 - 200201 | 37 | 50 | 1299 | Хэтчбэк\nFORD | FIESTA IV (JA_, JB_) | 199508 - 200201 | 44 | 60 | 1299 | Хэтчбэк\nFORD | FIESTA IV (JA_, JB_) | 199508 - 200201 | 55 | 75 | 1242 | Хэтчбэк\nFORD | FIESTA IV (JA_, JB_) | 199508 - 200004 | 44 | 60 | 1753 | Хэтчбэк\nFORD | FIESTA Автофургон / микроавтобус (J5_, J3_) | 199602 - 200308 | 44 | 60 | 1299 | Автофургон / микроавтобус\nFORD | FIESTA Автофургон / микроавтобус (J5_, J3_) | 199602 - 200204 | 44 | 60 | 1753 | Автофургон / микроавтобус\nFORD | FIESTA IV (JA_, JB_) | 199604 - 200201 | 66 | 90 | 1388 | Хэтчбэк\nFORD | PUMA (EC_) | 199703 - 200206 | 92 | 125 | 1679 | купе",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/148-100-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/09/75a50fe309274a26bb768d6c50886235d0c2233b.jpg",
+          "sha256": "2a181c997f236595ec3517f11553ccf3552ad93757fd6e30f92a71b1fdd185e8",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "148100SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "FORD",
+        "FIESTA IV (JA_, JB_)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "214100SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/214-100-sx/",
+      "exact_sku_verified": true,
+      "oem": "58350-3XA00",
+      "oem_source": "https://ru.stellox.com/catalog/214-100-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nHYUNDAI | i20 I (PB, PBT) | 200809 - 201212 | 55 | 75 | 1396 | Хэтчбэк\nHYUNDAI | ACCENT IV (RB) | 201011 - | 79 | 107 | 1396 | Хэтчбэк\nHYUNDAI | i10 I (PA) | 201104 - 201312 | 51 | 69 | 1086 | Хэтчбэк\nHYUNDAI | i10 I (PA) | 201104 - 201312 | 63 | 86 | 1248 | Хэтчбэк",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/214-100-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/09/27a6e2ce0c0e635f274c52813748f33255d15bb7.jpg",
+          "sha256": "c07d3c597102ec62917d5bee7603d4471f9adaa72c688b4ea02156142aaf4bad",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "214100SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "HYUNDAI",
+        "i20 I (PB, PBT)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "378100SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/378-100-sx/",
+      "exact_sku_verified": true,
+      "oem": "1405918",
+      "oem_source": "https://ru.stellox.com/catalog/378-100-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nHONDA | ACCORD III (CA) | 198511 - 198912 | 65 | 88 | 1598 | седан\nHONDA | ACCORD III (CA) | 198511 - 198912 | 75 | 102 | 1955 | седан\nHONDA | ACCORD III Aerodeck (CA) | 198710 - 198912 | 75 | 102 | 1955 | универсал\nHONDA | ACCORD III (CA) | 198511 - 198912 | 76 | 103 | 1955 | седан\nHONDA | ACCORD III (CA) | 198511 - 198905 | 78 | 106 | 1955 | седан\nHONDA | ACCORD III Aerodeck (CA) | 198511 - 198905 | 78 | 106 | 1955 | универсал\nHONDA | ACCORD III (CA) | 198601 - 198912 | 85 | 116 | 1955 | седан\nHONDA | ACCORD III Aerodeck (CA) | 198710 - 198912 | 85 | 116 | 1955 | универсал",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/378-100-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/30a995e01e195b3e5dc73f5fbbd28ecdcfbc55fe.jpg",
+          "sha256": "837b74c8ca95ca6daa0bed602b84980ebab1ef4558fc3a2a3660c260b5aeb1fd",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "378100SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "HONDA",
+        "ACCORD III (CA)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "397100SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/397-100-sx/",
+      "exact_sku_verified": true,
+      "oem": "A0Y826310",
+      "oem_source": "https://ru.stellox.com/catalog/397-100-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nSUZUKI | SWIFT II Хэтчбэк (EA, MA) | 198903 - 200105 | 37 | 50 | 993 | Хэтчбэк\nSUZUKI | SWIFT II Хэтчбэк (EA, MA) | 199501 - 200512 | 39 | 53 | 993 | Хэтчбэк\nSUZUKI | SWIFT II Хэтчбэк (EA, MA) | 198903 - 199112 | 40 | 54 | 993 | Хэтчбэк\nSUZUKI | SWIFT II Хэтчбэк (EA, MA) | 198903 - 200105 | 50 | 68 | 1298 | Хэтчбэк\nSUZUKI | SWIFT II седан (AH, AJ) | 199101 - 199512 | 50 | 68 | 1298 | седан\nSUZUKI | SWIFT II Хэтчбэк (EA, MA) | 198903 - 200105 | 50 | 68 | 1324 | Хэтчбэк\nSUZUKI | SWIFT Кабриолет (SF413) | 199109 - 199610 | 50 | 68 | 1298 | Кабриолет\nSUZUKI |  | 198903 - 199112 | 52 | 71 | 1324 | ",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/397-100-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/09/feaa3fa9452db8d547e459a2d58bf84d3c8a5cba.jpg",
+          "sha256": "f018c5cdb4c484548cecbe011a11216474dd8ac454941e94fe420a2385b90ed3",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "397100SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "SUZUKI",
+        "SWIFT II Хэтчбэк (EA, MA)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "657100SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/657-100-sx/",
+      "exact_sku_verified": true,
+      "oem": "MN 102633",
+      "oem_source": "https://ru.stellox.com/catalog/657-100-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nMITSUBISHI | LANCER III Station Wagon (C1_V, C3_V) | 198509 - 198908 | 51 | 70 | 1468 | универсал\nMITSUBISHI | LANCER III Station Wagon (C1_V, C3_V) | 198509 - 198712 | 55 | 75 | 1468 | универсал\nMITSUBISHI | LANCER III Station Wagon (C1_V, C3_V) | 198701 - 198908 | 61 | 83 | 1755 | универсал\nMITSUBISHI | LANCER III Station Wagon (C1_V, C3_V) | 198701 - 198712 | 66 | 90 | 1755 | универсал\nMITSUBISHI | LANCER III Station Wagon (C1_V, C3_V) | 198608 - 199206 | 44 | 60 | 1795 | универсал\nMITSUBISHI | LANCER III Station Wagon (C1_V, C3_V) | 199009 - 199112 | 66 | 90 | 1468 | универсал\nMITSUBISHI | LANCER III Station Wagon (C1_V, C3_V) | 198903 - 199012 | 63 | 86 | 1755 | универсал\nMITSUBISHI | LANCER III Station Wagon (C1_V, C3_V) | 199008 - 199206 | 69 | 94 | 1755 | универсал",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/657-100-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/46cb52dc0ce9735912f18cc030ae57c39d3342f4.jpg",
+          "sha256": "9f462d19283f61e1430ef0f1118eac6233ca4f4f22ceafa677b9517f27a47768",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "657100SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "MITSUBISHI",
+        "LANCER III Station Wagon (C1_V, C3_V)"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "720100SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/720-100-sx/",
+      "exact_sku_verified": true,
+      "oem": "8-97034-739-1",
+      "oem_source": "https://ru.stellox.com/catalog/720-100-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nOPEL | FRONTERA B (U99) | 199810 - 200407 | 100 | 136 | 2198 | вездеход закрытый\nOPEL | FRONTERA B (U99) | 199810 - 200407 | 151 | 205 | 3165 | вездеход закрытый\nOPEL | FRONTERA B (U99) | 199809 - 200312 | 85 | 116 | 2171 | вездеход закрытый\nOPEL | FRONTERA B (U99) | 200209 - 200407 | 88 | 120 | 2171 | вездеход закрытый",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/720-100-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/b74cd243788975b570064ee5fc8b7961f6351559.jpg",
+          "sha256": "51970b3f6168f39715c4646afa1d3cdf83524c10225b91558bf730a81c8e9ec5",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "720100SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "OPEL",
+        "FRONTERA B (U99)"
+      ]
+    },
+    {
+      "brand": "TRANSMASTER",
+      "article": "TR500674C",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza-s-nakladkami-v-sbore89608",
+      "exact_sku_verified": true,
+      "oem": "6RU698525A",
+      "oem_source": "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza-s-nakladkami-v-sbore89608",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "89608 Колодки барабанного тормоза с накладками в сборе, задняя ось для а/м VW Polo, Skoda Fabia, Skoda Rapid Transmaster TR500.674C",
+      "fitment_sources": [
+        "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza-s-nakladkami-v-sbore89608"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://api.transmaster.ru/storage/import_files/72/7204524e-3973-11ed-8178-00155d374e00_f14e5018-2325-11f0-a765-00155d375302.jpg",
+          "sha256": "29f925439b8875953ed79a59a05877a484246d340103f30e6f143df2b0f6be20",
+          "width": 4726,
+          "height": 4737
+        }
+      ],
+      "source_kind": "transmaster",
+      "manufacturer_display_article": "TR500674C",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "89608 Колодки барабанного тормоза с накладками в сборе, задняя ось для а/м VW Polo, Skoda Fabia, Skoda Rapid Transmaster TR500.674C"
+      ]
+    },
+    {
+      "brand": "TRANSMASTER",
+      "article": "TS076",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza89793",
+      "exact_sku_verified": true,
+      "oem": "7701205755",
+      "oem_source": "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza89793",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "89793 Колодки барабанного тормоза, задняя ось для а/м Renault Logan (04-)/Logan (08-) 180х42 т/с Bendix TRANSMASTER BRAKES TS076",
+      "fitment_sources": [
+        "https://transmaster.ru/catalog/product/kolodki-barabannogo-tormoza89793"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://api.transmaster.ru/storage/import_files/28/28b19233-4628-11ed-817b-00155d374e00_87b27b44-2325-11f0-a765-00155d375302.jpg",
+          "sha256": "c73b6c90082e4601e8b98ba79dcbf13924769c447f42ef2ac64d3b15a1d92e15",
+          "width": 2363,
+          "height": 2369
+        }
+      ],
+      "source_kind": "transmaster",
+      "manufacturer_display_article": "TS076",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "89793 Колодки барабанного тормоза, задняя ось для а/м Renault Logan (04-)/Logan (08-) 180х42 т/с Bendix TRANSMASTER BRAKES TS076"
+      ]
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0095",
+      "category": "Радиаторы кондиционера",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/RC-0095.html",
+      "exact_sku_verified": true,
+      "oem": "6C0 816 411",
+      "oem_source": "https://ecatalogue.lynxauto.jp/RC-0095.html",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nAUDI | A1 (8X1, 8XK) 10-18 | 1.0 TFSI (CHZB, DKLD) | 70 (95) | 03/15-10/18 | \nAUDI | A1 (8X1, 8XK) 10-18 | 1.0 TFSI (CHZE) | 60 (82) | 01/16-10/18 | \nAUDI | A1 (8X1, 8XK) 10-18 | 1.2 TFSI (CBZA) | 63 (86) | 05/10-04/15 | \nAUDI | A1 (8X1, 8XK) 10-18 | 1.4 TDI (CUSB) | 66 (90) | 11/14-10/18 | \nAUDI | A1 (8X1, 8XK) 10-18 | 1.4 TFSI (CAVG, CTHG) | 136 (185) | 01/11-04/15 | \nAUDI | A1 (8X1, 8XK) 10-18 | 1.4 TFSI (CAXA, CNVA) | 90 (122) | 05/10-04/15 | \nAUDI | A1 (8X1, 8XK) 10-18 | 1.4 TFSI (CPTA) | 103 (140) | 04/12-04/15 | \nAUDI | A1 (8X1, 8XK) 10-18 | 1.4 TFSI (CZCA, CZDD) | 92 (125) | 11/14-10/18 | ",
+      "fitment_sources": [
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=42666",
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=SEAT&product_id=42666",
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=SKODA&product_id=42666",
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=VOLKSWAGEN&product_id=42666"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ecatalogue.lynxauto.jp/image/RC-0095.1.jpg",
+          "sha256": "a3a9c39d439162e7deda91ee7c763f84fcb8462ccd222e01532057dbf3fc1435",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "source_kind": "lynx",
+      "manufacturer_display_article": "RC0095",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "AUDI",
+        "A1 (8X1, 8XK) 10-18"
+      ]
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0117",
+      "category": "Радиаторы кондиционера",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/RC-0117.html",
+      "exact_sku_verified": true,
+      "oem": "28351-5PA0A",
+      "oem_source": "https://ecatalogue.lynxauto.jp/RC-0117.html",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nLADA | GRANTA (2190_) 11-19 | 1.6 (21901) (11186) | 64 (87) | 10/11- | \nLADA | GRANTA (2190_) 11-19 | 1.6 (21906) (11183) | 60 (82) | 10/11- | ",
+      "fitment_sources": [
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=54832"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ecatalogue.lynxauto.jp/image/RC-0117.jpg",
+          "sha256": "0ff372bbc9f30029308b86e69d611e629a1b07bf345eba3cca56ac7fd96a7312",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "source_kind": "lynx",
+      "manufacturer_display_article": "RC0117",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "LADA",
+        "GRANTA (2190_) 11-19"
+      ]
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0294",
+      "category": "Радиаторы кондиционера",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/RC-0294.html",
+      "exact_sku_verified": true,
+      "oem": "05181 982AA",
+      "oem_source": "https://ecatalogue.lynxauto.jp/RC-0294.html",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nJEEP | GRAND CHEROKEE IV (WK, WK2) 10- | 3.0 CRD V6 4WD (EXF, EXN) | 140 (190) | 02/11- | \nJEEP | GRAND CHEROKEE IV (WK, WK2) 10- | 3.0 CRD V6 4WD (EXF, EXN) | 177 (241) | 02/11- | \nJEEP | GRAND CHEROKEE IV (WK, WK2) 10- | 3.0 CRD V6 4WD (EXF, EXN) | 184 (250) | 07/13- | \nJEEP | GRAND CHEROKEE IV (WK, WK2) 10- | 3.0 V6 4WD (EHD) | 175 (238) | 09/14- | \nJEEP | GRAND CHEROKEE IV (WK, WK2) 10- | 3.6 V6 4WD (ERB) | 207 (281) | 11/10- | \nJEEP | GRAND CHEROKEE IV (WK, WK2) 10- | 3.6 V6 4WD (ERB) | 210 (286) | 11/10- | \nJEEP | GRAND CHEROKEE IV (WK, WK2) 10- | 3.6 V6 FlexFuel 4WD (ERB) | 210 (286) | 11/10- | \nJEEP | GRAND CHEROKEE IV (WK, WK2) 10- | 3.6 VVT 4WD (ERB) | 213 (290) | 04/16- | ",
+      "fitment_sources": [
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=JEEP&product_id=61848"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ecatalogue.lynxauto.jp/image/RC-0294.jpg",
+          "sha256": "ccaea80b4e9d4c3c306351ad9f17b9b16ed46d2a1db36c021bffec4d3eea8c14",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "source_kind": "lynx",
+      "manufacturer_display_article": "RC0294",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "JEEP",
+        "GRAND CHEROKEE IV (WK, WK2) 10-"
+      ]
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0559",
+      "category": "Радиаторы кондиционера",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/RC-0559.html",
+      "exact_sku_verified": true,
+      "oem": "92110-JN00A",
+      "oem_source": "https://ecatalogue.lynxauto.jp/RC-0559.html",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nNISSAN | TEANA II (J32) 08-13 | 2.5 (QR25DE) | 123 (167) | 03/10-01/13 | \nNISSAN | TEANA II (J32) 08-13 | 2.5 (VQ25DE) | 134 (182) | 07/08-09/13 | \nNISSAN | TEANA II (J32) 08-13 | 2.5 FOUR AWD (QR25DE) | 123 (167) | 06/08-12/12 | \nNISSAN | TEANA II (J32) 08-13 | 3.5 (VQ35DE) | 183 (249) | 07/08-09/13 | ",
+      "fitment_sources": [
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=NISSAN&product_id=51284"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ecatalogue.lynxauto.jp/image/RC-0559.jpg",
+          "sha256": "fa035906b936af90eb529c9633ccb83056927db09ed42bf1f7ba62dba49c0583",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "source_kind": "lynx",
+      "manufacturer_display_article": "RC0559",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "NISSAN",
+        "TEANA II (J32) 08-13"
+      ]
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0623",
+      "category": "Радиаторы кондиционера",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/RC-0623.html",
+      "exact_sku_verified": true,
+      "oem": "88460-60262",
+      "oem_source": "https://ecatalogue.lynxauto.jp/RC-0623.html",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nLEXUS | LX (UZJ100) 98-08 | 470 (UZJ100) (2UZ-FE) | 170 (231) | 05/98-03/08 | \nLEXUS | LX (UZJ100) 98-08 | 470 (UZJ100) (2UZ-FE) | 173 (235) | 05/98-03/08 | \nLEXUS | LX (UZJ100) 98-08 | 470 (UZJ100) (2UZ-FE) | 197 (268) | 05/98-03/08 | \nLEXUS | LX (UZJ100) 98-08 | 470 (UZJ100) (2UZ-FE) | 202 (275) | 08/02-03/08 | \nTOYOTA | LAND CRUISER 100 (_J1_) 98-07 | 4.2 TD (HDJ100_, HDJ100) (1HD-FTE) | 150 (204) | 01/98-08/07 | \nTOYOTA | LAND CRUISER 100 (_J1_) 98-07 | 4.7 (UZJ100_) (2UZ-FE) | 173 (235) | 01/98-08/07 | \nTOYOTA | LAND CRUISER 100 (_J1_) 98-07 | 4.7 (UZJ100) (2UZ-FE) | 175 (238) | 02/02-08/07 | ",
+      "fitment_sources": [
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LEXUS&product_id=61859",
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=61859"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ecatalogue.lynxauto.jp/image/RC-0623.jpg",
+          "sha256": "6ca51ccd7089c5507bb99b937892405323802669b29eb96040fe06ff2956d63c",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "source_kind": "lynx",
+      "manufacturer_display_article": "RC0623",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "LEXUS",
+        "LX (UZJ100) 98-08"
+      ]
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RC0710",
+      "category": "Радиаторы кондиционера",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/RC-0710.html",
+      "exact_sku_verified": true,
+      "oem": "6840034000",
+      "oem_source": "https://ecatalogue.lynxauto.jp/RC-0710.html",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nSSANGYONG | KORANDO (CK) | KORANDO C 10- | 2.0 e-XDi (D20DT, D20DTF) | 110 (150) | 02/12- | \nSSANGYONG | KORANDO (CK) | KORANDO C 10- | 2.0 e-XDi (D20DTF) | 129 (175) | 11/10- | ",
+      "fitment_sources": [
+        "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=SSANGYONG&product_id=61870"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ecatalogue.lynxauto.jp/image/RC-0710.jpg",
+          "sha256": "c6ba8603e03be5e0e12b05f8bbdcefc1245c805b31d867b5c8347a2779735801",
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "source_kind": "lynx",
+      "manufacturer_display_article": "RC0710",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "SSANGYONG",
+        "KORANDO (CK) | KORANDO C 10-"
+      ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "1045687SX",
+      "category": "Радиаторы кондиционера",
+      "manufacturer_page": "https://ru.stellox.com/catalog/10-45687-sx/",
+      "exact_sku_verified": true,
+      "oem": "39074865",
+      "oem_source": "https://ru.stellox.com/catalog/10-45687-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nOPEL | ZAFIRA TOURER C (P12) | 201110 - | 88 | 120 | 1364 | вэн\nOPEL | ZAFIRA TOURER C (P12) | 201110 - | 103 | 140 | 1364 | вэн\nOPEL | ZAFIRA TOURER C (P12) | 201110 - | 121 | 165 | 1956 | вэн\nOPEL | ZAFIRA TOURER C (P12) | 201110 - | 96 | 130 | 1956 | вэн\nOPEL | ZAFIRA TOURER C (P12) | 201110 - | 81 | 110 | 1956 | вэн\nOPEL | ZAFIRA TOURER C (P12) | 201110 - | 110 | 150 | 1598 | вэн\nOPEL | ZAFIRA TOURER C (P12) | 201212 - | 125 | 170 | 1598 | вэн",
+      "fitment_sources": [
+        "https://ru.stellox.com/catalog/10-45687-sx/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/09/60a5e1b8ea73442234467b158a59491a043cf44a.jpg",
+          "sha256": "c0a0cfe660a868d1a1155d1752b186d813e29bd53ec81788663cb69c2b51ba06",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "1045687SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "OPEL",
+        "ZAFIRA TOURER C (P12)"
+      ]
+    },
+    {
+      "brand": "Febest",
+      "article": "16642010",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://febest.de/ru/details/glow_plug-16642_010",
+      "exact_sku_verified": true,
+      "oem": "A6221590001",
+      "oem_source": "https://febest.de/ru/details/glow_plug-16642_010",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nMERCEDES BENZ C 180 BLUETEC / D 205.#\nMERCEDES BENZ C 200 BLUETEC / D 205.#\nMERCEDES BENZ KASTENWAGEN 447.#\nMERCEDES BENZ KOMBI-WAGEN 447.#\nNISSAN CABSTAR F24M 2006.09- [EL]\nNISSAN CABSTAR F24M 2006.09- [ER]\nNISSAN FRONTIER D40BB 2012.01-2016.09 [GL]\nNISSAN NAVARA D40M 2005.05- [EL]",
+      "fitment_sources": [
+        "https://febest.de/ru/details/glow_plug-16642_010"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://static.febest.de/images/big/w/w2qg8b3_p0.jpg",
+          "sha256": "d3841030b931bec9fb20bd881fdc5a04f1c69af7c4a1d62a51877840612a75c0",
+          "width": 1600,
+          "height": 590
+        }
+      ],
+      "source_kind": "febest",
+      "manufacturer_display_article": "16642-010",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "MERCEDES BENZ C 180 BLUETEC / D 205.#"
+      ]
+    },
+    {
+      "brand": "NGK",
+      "article": "CZ251",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/CZ251/",
+      "exact_sku_verified": true,
+      "oem": "1820 A009",
+      "oem_source": "https://www.ngkpartfinder.co.uk/cross-reference/view/?mpn=1820A009",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nMITSUBISHI | L200 (2.5l) | 03/06→04/16 | Recommended\nMITSUBISHI | SHOGUN (3.2l) | 06/10→04/15 | Recommended",
+      "fitment_sources": [
+        "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/CZ251/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://www.ngkpartfinder.co.uk/assets/catalogue/products/cz251-ver2.jpg",
+          "sha256": "de2751c3aea352fd1caf9824a033a30477cc638c63540b6ea0c982b2fceb7470",
+          "width": 1643,
+          "height": 917
+        }
+      ],
+      "source_kind": "ngk",
+      "manufacturer_display_article": "CZ251",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "MITSUBISHI",
+        "L200 (2.5l)"
+      ]
+    },
+    {
+      "brand": "NGK",
+      "article": "CZ552",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/CZ552/",
+      "exact_sku_verified": true,
+      "oem": "LR 073 727",
+      "oem_source": "https://www.ngkpartfinder.co.uk/cross-reference/view/?mpn=LR073727",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nJAGUAR | E-PACE (2.0l) | 09/17→09/21 | Recommended\nJAGUAR | F-PACE (2.0l) | 02/16→04/23 | Recommended\nJAGUAR | F-PACE (3.0l) | 11/20→04/24 | Recommended\nJAGUAR | XE (2.0l) | 04/15→ | Recommended\nJAGUAR | XF (2.0l) | 07/15→09/21 | Recommended\nLAND ROVER | DEFENDER (2.0l) | 12/19→12/21 | Recommended\nLAND ROVER | DEFENDER (3.0l) | 10/20→ | Recommended\nLAND ROVER | DISCOVERY (2.0l) | 09/16→09/21 | Recommended",
+      "fitment_sources": [
+        "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/CZ552/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://www.ngkpartfinder.co.uk/assets/catalogue/products/cz552.jpg",
+          "sha256": "77bbba096cccb353df17e4d4a1d56e875938c5b179a13856c1db70221773f354",
+          "width": 640,
+          "height": 346
+        }
+      ],
+      "source_kind": "ngk",
+      "manufacturer_display_article": "CZ552",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "JAGUAR",
+        "E-PACE (2.0l)"
+      ]
+    },
+    {
+      "brand": "NGK",
+      "article": "Y1003AS",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/Y1003AS/",
+      "exact_sku_verified": true,
+      "oem": "36710-2F100",
+      "oem_source": "https://www.ngkpartfinder.co.uk/cross-reference/view/?mpn=367102F100",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nHYUNDAI | ix35 (2.0l) | 01/10→08/16 | Recommended\nHYUNDAI | SANTA FE (2.2l) | 01/10→05/13 | Recommended\nKIA | SPORTAGE (2.0l) | 06/10→08/15 | Recommended",
+      "fitment_sources": [
+        "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/Y1003AS/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://www.ngkpartfinder.co.uk/assets/catalogue/products/y1003as-ver2.jpg",
+          "sha256": "c29f0316a4dfe962013717e6efb8723dd84b46cfa2f6c094528383711549e129",
+          "width": 1643,
+          "height": 917
+        }
+      ],
+      "source_kind": "ngk",
+      "manufacturer_display_article": "Y1003AS",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "HYUNDAI",
+        "ix35 (2.0l)"
+      ]
+    },
+    {
+      "brand": "NGK",
+      "article": "Y531J",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/Y-531J/",
+      "exact_sku_verified": true,
+      "oem": "19850-30010",
+      "oem_source": "https://www.ngkpartfinder.co.uk/cross-reference/view/?mpn=1985030010",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nTOYOTA | AVENSIS (2.0l) | 10/99→02/03 | Recommended\nTOYOTA | AVENSIS (2.0l) | 01/03→08/06 | Recommended\nTOYOTA | AVENSIS VERSO (2.0l) | 08/01→12/05 | Recommended\nTOYOTA | COROLLA (2.0l) | 10/00→07/07 | Recommended\nTOYOTA | COROLLA VERSO (2.0l) | 08/01→11/05 | Recommended\nTOYOTA | HI-ACE (2.5l) | 08/01→06/12 | Recommended\nTOYOTA | HI-LUX (2.5l) | 11/01→12/05 | Recommended\nTOYOTA | LANDCRUISER (3.0l) | 01/03→06/10 | Recommended",
+      "fitment_sources": [
+        "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/Y-531J/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://www.ngkpartfinder.co.uk/assets/catalogue/products/y-531j-ver2.jpg",
+          "sha256": "24f304ddc297c50dcc09a2ea322159766bd1de987997628cc45ff3e784fbad3d",
+          "width": 1643,
+          "height": 917
+        }
+      ],
+      "source_kind": "ngk",
+      "manufacturer_display_article": "Y531J",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "TOYOTA",
+        "AVENSIS (2.0l)"
+      ]
+    },
+    {
+      "brand": "NGK",
+      "article": "Y535J",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/Y-535J/",
+      "exact_sku_verified": true,
+      "oem": "36710-4X900",
+      "oem_source": "https://www.ngkpartfinder.co.uk/cross-reference/view/?mpn=367104X900",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nKIA | SEDONA (2.9l) | 07/06→02/10 | Recommended",
+      "fitment_sources": [
+        "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/Y-535J/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://www.ngkpartfinder.co.uk/assets/catalogue/products/y-535j-ver2.jpg",
+          "sha256": "4ab13407c306e6d2816b8db98108a17bfb52e952ac12830715e2e86ed703fef3",
+          "width": 1643,
+          "height": 917
+        }
+      ],
+      "source_kind": "ngk",
+      "manufacturer_display_article": "Y535J",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "KIA",
+        "SEDONA (2.9l)"
+      ]
+    },
+    {
+      "brand": "NGK",
+      "article": "Y701J",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/Y-701J/",
+      "exact_sku_verified": true,
+      "oem": "WL03-18-601",
+      "oem_source": "https://www.ngkpartfinder.co.uk/cross-reference/view/?mpn=WL0318601",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по каталогу изготовителя (выборка):\nFORD | RANGER (2.5l) | 05/99→02/02 | Recommended\nMAZDA | B2500 PICK UP (2.5l) | 03/98→03 | Recommended",
+      "fitment_sources": [
+        "https://www.ngkpartfinder.co.uk/buyers-guide/view/part/Y-701J/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://www.ngkpartfinder.co.uk/assets/catalogue/products/y-701j-ver2.jpg",
+          "sha256": "5376b154169514f335139aa088ca8bb30a69b383f07fafe6984abc4a7c7bd048",
+          "width": 1643,
+          "height": 917
+        }
+      ],
+      "source_kind": "ngk",
+      "manufacturer_display_article": "Y701J",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "FORD",
+        "RANGER (2.5l)"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP003",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-l200-06-2-5td-pajero-iv-09-3-2td-glsp-003/",
+      "exact_sku_verified": true,
+      "oem": "1820A009",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-l200-06-2-5td-pajero-iv-09-3-2td-glsp-003/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Mitsubishi L200 (06-) 2.5TD/Pajero IV (09-) 3.2TD",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-l200-06-2-5td-pajero-iv-09-3-2td-glsp-003/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP003_111334_f6c2e9e099be8ad71d9d10b722ae211d.jpg",
+          "sha256": "2b5d55105c76de6e09c188d38fb740223ef8dabb17222a4eab982b7bd4a5a703",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP003",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Mitsubishi L200 (06-) 2.5TD/Pajero IV (09-) 3.2TD"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP010",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mercedes-benz-vito-w638-97-t1-w601-88-2-3d-glsp-010/",
+      "exact_sku_verified": true,
+      "oem": "A0011590001",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mercedes-benz-vito-w638-97-t1-w601-88-2-3d-glsp-010/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Mercedes-Benz Vito W638 (97-)/T1 W601 (88-) 2.3D",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mercedes-benz-vito-w638-97-t1-w601-88-2-3d-glsp-010/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP010_105662_b756638eb28d23cc1cb87577962b22a7.jpg",
+          "sha256": "3e26ee0d13605cbc16600b4c453f183f573245225705c9730b68c290f1029f40",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP010",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Mercedes-Benz Vito W638 (97-)/T1 W601 (88-) 2.3D"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP014",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-prado-j15-09-3-0d-hilux-06-2-5d-glsp-014/",
+      "exact_sku_verified": true,
+      "oem": "19850-30010",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-prado-j15-09-3-0d-hilux-06-2-5d-glsp-014/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Toyota Land Cruiser Prado J15 (09-) 3.0D/Hilux (06-) 2.5D",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-prado-j15-09-3-0d-hilux-06-2-5d-glsp-014/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP014_115899_60fa95a8c21205096996d521201c6c43.jpg",
+          "sha256": "425c5a55a892c4fff3bcfbadc51ddf237fd8cd0621c4cff7344e997103be4ceb",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP014",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Toyota Land Cruiser Prado J15 (09-) 3.0D/Hilux (06-) 2.5D"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP015",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-ssangyong-kyron-05-actyon-sport-07-2-0xdi-glsp-015/",
+      "exact_sku_verified": true,
+      "oem": "6651590001",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-ssangyong-kyron-05-actyon-sport-07-2-0xdi-glsp-015/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей SsangYong Kyron (05-)/Actyon Sport (07-) 2.0Xdi",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-ssangyong-kyron-05-actyon-sport-07-2-0xdi-glsp-015/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP015_103970_77f122539253b6dda650851f02fe47fe.jpg",
+          "sha256": "38452d56d1f263bde96baae496e1ee8fc23b62c77780d3e56c4975a713b96015",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP015",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей SsangYong Kyron (05-)/Actyon Sport (07-) 2.0Xdi"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP022",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-nissan-pathfinder-iii-05-2-5dci-x-trail-t31-07-2-0dci-glsp-022/",
+      "exact_sku_verified": true,
+      "oem": "1106500Q0C",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-nissan-pathfinder-iii-05-2-5dci-x-trail-t31-07-2-0dci-glsp-022/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Nissan Pathfinder III (05-) 2.5dCi/X-Trail T31 (07-) 2.0dCi",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-nissan-pathfinder-iii-05-2-5dci-x-trail-t31-07-2-0dci-glsp-022/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP022_107921_b476b86ecb4d3dd7ebce5673fe47f8c5.jpg",
+          "sha256": "b710ab7fabf16e854df79287aa60eae661a9f48f91a236e17e02bedc6f3539c2",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP022",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Nissan Pathfinder III (05-) 2.5dCi/X-Trail T31 (07-) 2.0dCi"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP025",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-90-96-3-0td-glsp-025/",
+      "exact_sku_verified": true,
+      "oem": "19850-67030",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-90-96-3-0td-glsp-025/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Toyota Land Cruiser 90 (96-) 3.0TD",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-90-96-3-0td-glsp-025/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP025_105551_250ab7c63a6761dc4fdc8cebcd3731d4.jpg",
+          "sha256": "e3c240f4f7951d1ddbb8e139d67f1c150132b23e04550a58ff4c63f1c8955daa",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP025",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Toyota Land Cruiser 90 (96-) 3.0TD"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP026",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-ford-ranger-99-mazda-mpv-96-2-5td-glsp-026/",
+      "exact_sku_verified": true,
+      "oem": "RFG1-18-601",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-ford-ranger-99-mazda-mpv-96-2-5td-glsp-026/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Ford Ranger (99-)/Mazda MPV (96-) 2.5TD",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-ford-ranger-99-mazda-mpv-96-2-5td-glsp-026/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP026_120948_797218f75a292f3ed2bbb35cfdf3985c.jpg",
+          "sha256": "fef2b442ed4ea98c94a9157552de7e06c493f25cb989ca6193c4ad582f2739d4",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP026",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Ford Ranger (99-)/Mazda MPV (96-) 2.5TD"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP028",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-pajero-ii-94-2-8td-glsp-028/",
+      "exact_sku_verified": true,
+      "oem": "ME200970",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-pajero-ii-94-2-8td-glsp-028/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Mitsubishi Pajero II (94-) 2.8TD",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-pajero-ii-94-2-8td-glsp-028/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP028_131331_c17a4485ec593ca9c70a50a00f1c853f.jpg",
+          "sha256": "947a451895330dd0c16b2f8e2bb6fc1907694083ded227f34d7a6381d2caeb17",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP028",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Mitsubishi Pajero II (94-) 2.8TD"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP035",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-80-90-4-2td-liteace-88-2-0td-glsp-035/",
+      "exact_sku_verified": true,
+      "oem": "19850-64031",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-80-90-4-2td-liteace-88-2-0td-glsp-035/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Toyota Land Cruiser 80 (90-) 4.2TD/Liteace (88-) 2.0TD",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-land-cruiser-80-90-4-2td-liteace-88-2-0td-glsp-035/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP035_118944_07252ecde167b199f1d68b4b18173a39.jpg",
+          "sha256": "973c6e7455e1d530f646d8802a4e75da4fb297fec3f5836dc957620c1a2704c3",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP035",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Toyota Land Cruiser 80 (90-) 4.2TD/Liteace (88-) 2.0TD"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP043",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-dyna-95-2-8d-hiace-iv-95-2-4d-glsp-043/",
+      "exact_sku_verified": true,
+      "oem": "19850-05010",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-dyna-95-2-8d-hiace-iv-95-2-4d-glsp-043/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Toyota Dyna (95-) 2.8D/Hiace IV (95-) 2.4D",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-toyota-dyna-95-2-8d-hiace-iv-95-2-4d-glsp-043/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP043_137890_caa82d597d86f2819f40adb9dcdfd5f2.jpg",
+          "sha256": "6b7d2ef902054c22fcd1de37251049dfbbde59449ad2fd27d6ea34f51f22567e",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP043",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Toyota Dyna (95-) 2.8D/Hiace IV (95-) 2.4D"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP048",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-pajero-sport-98-l200-96-2-5td-glsp-048/",
+      "exact_sku_verified": true,
+      "oem": "MD050212",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-pajero-sport-98-l200-96-2-5td-glsp-048/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Mitsubishi Pajero Sport (98-)/L200 (96-) 2.5TD",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-mitsubishi-pajero-sport-98-l200-96-2-5td-glsp-048/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP048_148804_f38d2980d7e1f4c1e0a4bd5acc684aa6.jpg",
+          "sha256": "1b863a799d6b132ef0e7d446fc47a8def24dedc8f41a1b8edbdcfeaf0923b513",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP048",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Mitsubishi Pajero Sport (98-)/L200 (96-) 2.5TD"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP058",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-nissan-terrano-r50-95-2-7td-glsp-058/",
+      "exact_sku_verified": true,
+      "oem": "11065-0W801",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-nissan-terrano-r50-95-2-7td-glsp-058/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей Nissan Terrano R50 (95-) 2.7TD",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-nissan-terrano-r50-95-2-7td-glsp-058/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP058_260747_cb2e452fef4822ab3eff124a221b1b99.jpg",
+          "sha256": "94aa83a3d51d56f8eca76d8dd31cdb9f74d1d08c08c1688321e823cf4af89861",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP058",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей Nissan Terrano R50 (95-) 2.7TD"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP066",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-isuzu-elf-92-4-3td-glsp-066/",
+      "exact_sku_verified": true,
+      "oem": "8-97033-761-0",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-isuzu-elf-92-4-3td-glsp-066/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Свеча накаливания для автомобилей ISUZU ELF (92-) 4.3TD",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/svechi-nakalivaniya-/svecha-nakalivaniya-dlya-avtomobiley-isuzu-elf-92-4-3td-glsp-066/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP066_275688_c212d4fea466d2858d8768a080ec1c9b.jpg",
+          "sha256": "16a73e5b05fbd9104a210475a49d05593279de64ac326680da8051bcc39a9210",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP066",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Свеча накаливания для автомобилей ISUZU ELF (92-) 4.3TD"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP508",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/komplekty-svechey-nakalivaniya/komplekt-svechey-nakalivaniya-4sht-dlya-avtomobiley-renault-duster-10-1-5dci-glsp-508/",
+      "exact_sku_verified": true,
+      "oem": "82 00 682 592",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/komplekty-svechey-nakalivaniya/komplekt-svechey-nakalivaniya-4sht-dlya-avtomobiley-renault-duster-10-1-5dci-glsp-508/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Комплект свечей накаливания (4шт) для автомобилей Renault Duster (10-) 1.5dCi",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/komplekty-svechey-nakalivaniya/komplekt-svechey-nakalivaniya-4sht-dlya-avtomobiley-renault-duster-10-1-5dci-glsp-508/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP508_301380_f77f8b0026cb6b709942466b5da85988.jpg",
+          "sha256": "68ad6fcc4f58c74ec450f92f7eba4ce1e5c6a2782f39aebb5506bb2af97eea9b",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP508",
+      "pack_quantity": 4,
+      "fitment_tokens": [
+        "Комплект свечей накаливания (4шт) для автомобилей Renault Duster (10-) 1.5dCi"
+      ]
+    },
+    {
+      "brand": "STARTVOLT",
+      "article": "GLSP516",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/komplekty-svechey-nakalivaniya/komplekt-svechey-nakalivaniya-4sht-dlya-avtomobiley-great-wall-hover-h5-10-2-0d-glsp-516/",
+      "exact_sku_verified": true,
+      "oem": "3770100-ED01",
+      "oem_source": "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/komplekty-svechey-nakalivaniya/komplekt-svechey-nakalivaniya-4sht-dlya-avtomobiley-great-wall-hover-h5-10-2-0d-glsp-516/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Комплект свечей накаливания (4шт) для автомобилей Great Wall Hover H5 (10-) 2.0D",
+      "fitment_sources": [
+        "https://startvolt.com/catalogue/detali-sistemy-zazhiganiya-i-nakalivaniya/svechi-nakalivaniya/komplekty-svechey-nakalivaniya/komplekt-svechey-nakalivaniya-4sht-dlya-avtomobiley-great-wall-hover-h5-10-2-0d-glsp-516/"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://s3.carvilleshop.ru/upload/resize_1000/GLSP516_279833_cccc72f633cc33e97768a51af43957a6.jpg",
+          "sha256": "54acaec2ed0bf35b0b899b8f0e4537e97e061620722068f8d01bda1df73e8b00",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "startvolt",
+      "manufacturer_display_article": "GLSP516",
+      "pack_quantity": 4,
+      "fitment_tokens": [
+        "Комплект свечей накаливания (4шт) для автомобилей Great Wall Hover H5 (10-) 2.0D"
+      ]
+    }
+  ],
+  "blocked": [
+    [
+      "Stellox",
+      "000605SX",
+      "MANUFACTURER_FITMENT_MISSING"
+    ],
+    [
+      "Stellox",
+      "000621SX",
+      "MANUFACTURER_FITMENT_MISSING"
+    ],
+    [
+      "Stellox",
+      "112100SX",
+      "DRAWING_INSTEAD_OF_REAL_PHOTO"
+    ],
+    [
+      "Stellox",
+      "174100SX",
+      "MANUFACTURER_FITMENT_MISSING"
+    ],
+    [
+      "TRANSMASTER",
+      "TR500669C",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TRANSMASTER",
+      "TR500670C",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TRANSMASTER",
+      "TR500672C",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TRANSMASTER",
+      "TR500673C",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "LYNXauto",
+      "RC0019",
+      "EXACT_MANUFACTURER_CARD_NOT_CONFIRMED;MANUFACTURER_OEM_MISSING;MANUFACTURER_FITMENT_MISSING;EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "LYNXauto",
+      "RC0082",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "LYNXauto",
+      "RC0705",
+      "EXACT_MANUFACTURER_CARD_NOT_CONFIRMED;MANUFACTURER_OEM_MISSING;MANUFACTURER_FITMENT_MISSING;EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "SUFIX",
+      "XC1005",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1009",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1010",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1012",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1018",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1021",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1022",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1034",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1038",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1040",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1042",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1044",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1045",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1050",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1052",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1054",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1058",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1059",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1060",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1064",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1066",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Stellox",
+      "1045152SX",
+      "MANUFACTURER_FITMENT_MISSING;DRAWING_INSTEAD_OF_REAL_PHOTO"
+    ],
+    [
+      "Stellox",
+      "1045355SX",
+      "MANUFACTURER_FITMENT_MISSING;DRAWING_INSTEAD_OF_REAL_PHOTO"
+    ],
+    [
+      "Stellox",
+      "1045719SX",
+      "DRAWING_INSTEAD_OF_REAL_PHOTO"
+    ],
+    [
+      "Bosch",
+      "0250201055",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250202142",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250402002",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250403009",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250603001",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250603006",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "TATSUMI",
+      "THQ1001",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1005",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1006",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1007",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1008",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1009",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1010",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1011",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1012",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ]
+  ],
+  "existing_verified_luzar_skus": [
+    "LRAC3034",
+    "LRAC3049"
+  ]
+}

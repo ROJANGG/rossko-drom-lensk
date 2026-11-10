@@ -1,0 +1,154 @@
+name: Avito - release only individually verified first-95 manufacturer SKUs
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_verified_extension_release.yml'
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  reviewed-extension:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    env:
+      PUBLISH_APPROVED_EXTENSION: 'false'
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - name: Checkout previously verified Avito-only baseline dependencies
+        uses: actions/checkout@v4
+        with:
+          ref: 1fc9f5fa1e5b9c791182c71425ea46618bff4eff
+          path: generator
+          persist-credentials: false
+      - name: Checkout this exact reviewed extension commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          path: extension
+          persist-credentials: false
+      - name: Checkout current Avito feed, approved archive and retail-only prices
+        uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: avito
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install source and exact-photo verification dependencies
+        run: python -m pip install 'zeep>=4.3,<5' 'openpyxl>=3.1,<4' 'requests>=2.31,<3' 'beautifulsoup4>=4.12,<5' 'pillow>=10,<13'
+      - name: Add reviewed categories to Avito-only refresh logic
+        run: |
+          cp extension/avito_active_feed_refresh.py generator/
+          cp extension/avito_wholesale_live_api_refresh.py generator/
+          cp extension/avito_verified_extension_release.py generator/
+          cp extension/input/avito_verified_extension_evidence.json generator/input/
+          cp extension/tests/test_avito_verified_extension.py generator/tests/
+      - name: Verify original stock and price protections plus exact-source extension guards
+        working-directory: generator
+        run: |
+          python -m unittest discover -s tests -p 'test_avito_active_feed_refresh.py' -v
+          python -m unittest discover -s tests -p 'test_avito_wholesale_live_api_refresh.py' -v
+          python -m unittest discover -s tests -p 'test_avito_verified_extension.py' -v
+      - name: Recheck manufacturer OEM, applicability, exact image bytes and current ROSSKO account stock
+        id: candidate
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python generator/avito_verified_extension_release.py \
+            --config generator/config.json \
+            --live avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --archive avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml \
+            --retail avito/avito-verified-retail-prices.csv \
+            --manifest generator/input/avito_verified_extension_evidence.json \
+            --out candidate
+          python - <<'PY'
+          import json,os
+          from pathlib import Path
+          r=json.loads(Path('candidate/avito-verified-extension-report.json').read_text())
+          with open(os.environ['GITHUB_OUTPUT'],'a') as f:
+              f.write('has_additions='+str(r['added_count']>0).lower()+'\n')
+          PY
+      - name: Independently verify append-only transition and approved photo identities
+        run: |
+          python - <<'PY'
+          import json,hashlib
+          from pathlib import Path
+          from xml.etree import ElementTree as E
+          r=json.loads(Path('candidate/avito-verified-extension-report.json').read_text())
+          for old,new in [('avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml','candidate/AVITO_EXTENSION_LIVE_CANDIDATE.xml'),('avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml','candidate/AVITO_EXTENSION_APPROVED_CANDIDATE.xml')]:
+              a=E.parse(old).getroot();b=E.parse(new).getroot();aa=a.findall('Ad');bb=b.findall('Ad')
+              assert a.attrib==b.attrib and len(bb)==len(aa)+r['added_count']
+              assert [E.tostring(x) for x in aa]==[E.tostring(x) for x in bb[:len(aa)]]
+              ids=[x.findtext('Id') for x in bb];assert None not in ids and len(ids)==len(set(ids))
+              for ad in bb[len(aa):]:
+                  assert ad.findtext('OEM') and ad.findtext('Availability')=='В наличии'
+                  assert ad.find('Images/Image') is not None and len(ad.findtext('Title'))<=50
+          for a in r['added']:
+              p=Path('candidate/avito-images')/a['photo']['filename']
+              assert hashlib.sha256(p.read_bytes()).hexdigest()==a['photo']['sha256']
+          print('APPEND_ONLY_SOURCE_GUARDS_PASS',r['before'],r['after'],r['added_count'])
+          PY
+      - name: Stage only exact reviewed manufacturer photos before exposing XML
+        if: env.PUBLISH_APPROVED_EXTENSION == 'true' && steps.candidate.outputs.has_additions == 'true'
+        run: |
+          python - <<'PY'
+          import json,shutil
+          from pathlib import Path
+          r=json.loads(Path('candidate/avito-verified-extension-report.json').read_text())
+          Path('avito/avito-images').mkdir(exist_ok=True)
+          for item in r['added']:
+              name=item['photo']['filename'];shutil.copyfile(Path('candidate/avito-images')/name,Path('avito/avito-images')/name)
+          PY
+          cd avito
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add avito-images/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Avito: stage only exact-hash reviewed manufacturer product photos'
+            git push origin HEAD:avito-irkutsk-feed
+          fi
+      - name: Verify every public image returns the identical reviewed bytes
+        if: env.PUBLISH_APPROVED_EXTENSION == 'true' && steps.candidate.outputs.has_additions == 'true'
+        run: |
+          python - <<'PY'
+          import json,hashlib,time,requests
+          from pathlib import Path
+          r=json.loads(Path('candidate/avito-verified-extension-report.json').read_text())
+          for a in r['added']:
+              p=a['photo'];ok=False
+              for attempt in range(5):
+                  try:
+                      response=requests.get(p['public_url'],timeout=(10,25))
+                      if response.status_code==200 and hashlib.sha256(response.content).hexdigest()==p['sha256']:ok=True;break
+                  except requests.RequestException:pass
+                  time.sleep(2*(attempt+1))
+              if not ok:raise SystemExit('Public exact-photo verification failed: '+a['article'])
+          print('PUBLIC_REVIEWED_PHOTOS_PASS',r['added_count'])
+          PY
+      - name: Publish new verified listings while retaining all previous ads and archive entries
+        if: env.PUBLISH_APPROVED_EXTENSION == 'true' && steps.candidate.outputs.has_additions == 'true'
+        run: |
+          cp candidate/AVITO_EXTENSION_LIVE_CANDIDATE.xml avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          cp candidate/AVITO_EXTENSION_APPROVED_CANDIDATE.xml avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml
+          cp candidate/avito-verified-retail-prices.csv avito/avito-verified-retail-prices.csv
+          cp candidate/avito-verified-extension-report.json avito/avito-verified-extension-report.json
+          cd avito
+          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml AVITO_APPROVED_CATALOG_195_ARCHIVE.xml avito-verified-retail-prices.csv avito-verified-extension-report.json
+          git commit -m 'Avito: append individually OEM-photo-fitment verified SKUs with current personal API stock and retail prices'
+          git push origin HEAD:avito-irkutsk-feed
+      - name: Preserve retail-only candidate and source-review audit without personal API costs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_EXACT_MANUFACTURER_EXTENSION_REVIEW
+          path: candidate/
+          retention-days: 7
+          if-no-files-found: ignore
