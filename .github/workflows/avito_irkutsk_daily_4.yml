@@ -49,11 +49,13 @@ jobs:
       - name: Checkout reviewed exact-SKU extension support
         uses: actions/checkout@v4
         with:
-          ref: 2c3ed56c33432f74a474186f590f421b91815af4
+          ref: 872fe39665d9300047770e0baa3972a48d95e7bb
           path: verified-extension
           persist-credentials: false
       - name: Load verified additional categories without broadening the approved catalogue
         run: |
+          cp verified-extension/avito_irkutsk.py generator/
+          cp verified-extension/tests/test_avito_price_download.py generator/tests/
           cp verified-extension/avito_active_feed_refresh.py generator/
           cp verified-extension/input/avito_verified_extension_evidence.json generator/input/
       - uses: actions/setup-python@v5
@@ -65,7 +67,9 @@ jobs:
 
       - name: Test strict matching ID OEM photos absence and stock restoration
         working-directory: generator
-        run: python -m unittest discover -s tests -p 'test_avito_active_feed_refresh.py' -v
+        run: |
+          python -m unittest discover -s tests -p 'test_avito_active_feed_refresh.py' -v
+          python -m unittest discover -s tests -p 'test_avito_price_download.py' -v
 
       - name: Select latest Avito-only verified retail price map without touching Drom
         shell: bash
