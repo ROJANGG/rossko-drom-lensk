@@ -63,6 +63,13 @@ class ExtensionSafety(unittest.TestCase):
         with self.assertRaises(ValueError):load_source_cache(r,now=observed+timedelta(hours=3,seconds=1))
         bad=copy.deepcopy(r);bad['oe_fitment_page']='https://parts.nissanusa.com/parts/other'
         with self.assertRaises(ValueError):load_source_cache(bad,now=observed+timedelta(minutes=5))
+    def test_supplier_fitment_rejects_wrong_brand_article_or_seller(self):
+        r=next(x for x in self.manifest['items'] if x['article']=='000621SX')
+        page=f'<h1>STELLOX {r["article"]}</h1><div class="product-oe"><button class="product-usability__item"><span class="body-text2">{r["oem"]}</span></button></div><img src="{r["images"][0]["url"]}">'
+        proof='<h1>Daihatsu Materia Daihatsu Sirion Subaru Justy</h1><a href="/user/ROSSKOroznica/">ROSSKO</a><span data-field="manufacturer">Stellox</span><span data-field="autoPartsOemNumber">000621SX</span>'
+        self.assertTrue(validate_source(r,page,{r['rossko_fitment_page']:proof}))
+        for invalid in [proof.replace('000621SX','OTHER'),proof.replace('Stellox','OTHER'),proof.replace('/user/ROSSKOroznica/','/user/other/'),proof.replace('Daihatsu Sirion','OTHER')]:
+            with self.assertRaises(ValueError):validate_source(r,page,{r['rossko_fitment_page']:invalid})
     def test_stock_refresh_keeps_existing_nonstandard_xml_whitespace(self):
         original='<Ads formatVersion="3"><Ad>\n <Id>keep-me</Id><Brand>Luzar</Brand>\n    <Title>Радиатор кондиционера Luzar LRAC3034 новый</Title><Price>1500</Price><OEM>VALUE</OEM><Images>\n<Image url="https://example.test/original.jpg" /></Images></Ad>\n</Ads>'
         k=key('Luzar','LRAC3034')

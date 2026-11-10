@@ -1857,23 +1857,86 @@
         "path": "input/avito-stellox-source-cache/000605SX.json",
         "sha256": "a1d74c0ece922869a631ee01bd63749ba1d3dd195b8f498168d513dd6db764c8"
       }
+    },
+    {
+      "brand": "Stellox",
+      "article": "000621SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/000-621-sx/",
+      "exact_sku_verified": true,
+      "oem": "04495-B1140",
+      "oem_source": "https://ru.stellox.com/catalog/000-621-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по карточке точного артикула поставщика ROSSKO: Daihatsu Materia, Daihatsu Sirion, Subaru Justy IV; задняя ось. Соответствие OEM подтверждено каталогом Stellox. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://baza.drom.ru/g17538161879.html"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/9caba9254da4aafae30a10852140efae7402ef41.jpg",
+          "sha256": "9329fea0296c62dd00f7e04a57d1d9c7f82167a0999078838f1bf0ec542d96e1",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "000621SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Daihatsu Materia",
+        "Daihatsu Sirion",
+        "Subaru Justy"
+      ],
+      "rossko_fitment_page": "https://baza.drom.ru/g17538161879.html",
+      "source_cache": {
+        "path": "input/avito-stellox-source-cache/000621SX.json",
+        "sha256": "fa08a32b6b3db44d1f84f57f15562c88c04375f5a86e232d1786e4119afafaef"
+      }
+    },
+    {
+      "brand": "Stellox",
+      "article": "174100SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/174-100-sx/",
+      "exact_sku_verified": true,
+      "oem": "77362286",
+      "oem_source": "https://ru.stellox.com/catalog/174-100-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость по карточке точного артикула поставщика ROSSKO: Fiat Ducato, Citroen Jumper I; задняя ось, 254 x 57 мм. Соответствие OEM подтверждено каталогом Stellox. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://baza.drom.ru/chelyabinsk/sell_spare_parts/kolodki-barabannye-fiat-ducato-02-gt-zad-citroen-jumper-i-2.5-tdi-96-gt-00-citroen-jumper-i-2.5-td-94-gt-02-citroen-jumper-i-2.5-d-94-gt-02-fiat-ducato-2.3-jtd-01-gt-06-fiat-ducato-2.0-jtd-01-gt-06-fiat-ducato-2.0-4x4-02-gt-06-fiat-ducato-2.0-4x4-94-gt-02-fiat-d-g17980881074.html"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/09/b9af9c889a9ecc3eae7021c05ec709cae05ea10b.jpg",
+          "sha256": "586e918450af81e7dace87a22a5085047d657f56522b28b61be1ddd2d6b8f78a",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "174100SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "Fiat Ducato",
+        "Citroen Jumper"
+      ],
+      "rossko_fitment_page": "https://baza.drom.ru/chelyabinsk/sell_spare_parts/kolodki-barabannye-fiat-ducato-02-gt-zad-citroen-jumper-i-2.5-tdi-96-gt-00-citroen-jumper-i-2.5-td-94-gt-02-citroen-jumper-i-2.5-d-94-gt-02-fiat-ducato-2.3-jtd-01-gt-06-fiat-ducato-2.0-jtd-01-gt-06-fiat-ducato-2.0-4x4-02-gt-06-fiat-ducato-2.0-4x4-94-gt-02-fiat-d-g17980881074.html",
+      "source_cache": {
+        "path": "input/avito-stellox-source-cache/174100SX.json",
+        "sha256": "01c7f4e0b53c4b6310c3bbd82733978a6964d1718805fa6c4ee8f0098c2a06c2"
+      }
     }
   ],
   "blocked": [
     [
       "Stellox",
-      "000621SX",
-      "MANUFACTURER_FITMENT_MISSING"
-    ],
-    [
-      "Stellox",
       "112100SX",
       "DRAWING_INSTEAD_OF_REAL_PHOTO"
-    ],
-    [
-      "Stellox",
-      "174100SX",
-      "MANUFACTURER_FITMENT_MISSING"
     ],
     [
       "TRANSMASTER",

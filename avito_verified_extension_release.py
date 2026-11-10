@@ -72,7 +72,8 @@ def load_source_cache(record,base=None,now=None):
     path=(base or Path(__file__).parent)/cache['path'];raw=path.read_bytes()
     if hashlib.sha256(raw).hexdigest()!=cache['sha256']:raise ValueError('Primary-source cache hash mismatch')
     proof=json.loads(raw);stamp=datetime.fromisoformat(proof['verified_at_utc']);now=now or datetime.now(timezone.utc)
-    if kind=='stellox' and (not record.get('oe_fitment_page') or set(proof.get('extra_pages',{}))!={record['oe_fitment_page']}):
+    fitment_proof=record.get('oe_fitment_page') or record.get('rossko_fitment_page')
+    if kind=='stellox' and (not fitment_proof or set(proof.get('extra_pages',{}))!={fitment_proof}):
         raise ValueError('Cached automaker applicability source mismatch')
     if stamp.tzinfo is None or not timedelta(0)<=now-stamp<=timedelta(hours=3):raise ValueError('Primary-source cache expired')
     if (canon(proof['article'])!=canon(record['article']) or proof['manufacturer_page']!=record['manufacturer_page']
@@ -132,6 +133,19 @@ def validate_source(record,page,extra_pages=None):
         references={canon(x) for x in re.findall(r'\(([^)]+)\)',heading)}
         if canon(record['oem']) not in references or 'NISSAN' not in canon(heading):
             raise ValueError('Automaker applicability OE identity changed')
+    if proof_url:=record.get('rossko_fitment_page'):
+        if record['source_kind']!='stellox' or urlparse(proof_url).hostname!='baza.drom.ru':
+            raise ValueError('Unapproved supplier applicability source')
+        proof=BeautifulSoup((extra_pages or {}).get(proof_url,''),'html.parser')
+        seller=proof.find('a',href=re.compile(r'^/user/ROSSKOroznica/?$',re.I))
+        number=proof.select_one('[data-field="autoPartsOemNumber"]')
+        brand=proof.select_one('[data-field="manufacturer"]')
+        if (seller is None or 'ROSSKO' not in seller.get_text().upper() or number is None or brand is None
+                or canon(number.get_text())!=sku or canon(brand.get_text())!=canon(record['brand'])):
+            raise ValueError('Supplier applicability exact brand/SKU/seller changed')
+        heading=proof.find('h1')
+        if heading is None or any(canon(t) not in canon(heading.get_text()) for t in record['fitment_tokens']):
+            raise ValueError('Supplier exact-product applicability changed')
     for token in record.get('fitment_tokens',[]):
         if canon(token) not in canon(fit_text):raise ValueError('Manufacturer applicability changed')
     return True
@@ -143,6 +157,8 @@ def prepare_photo(record,place):
                 allowed=PAGE_HOSTS[record['source_kind']]
                 if url==record.get('oe_fitment_page') and record['source_kind']=='stellox':
                     allowed=allowed|{'parts.nissanusa.com'}
+                if url==record.get('rossko_fitment_page') and record['source_kind']=='stellox':
+                    allowed=allowed|{'baza.drom.ru'}
                 if urlparse(url).hostname not in allowed:raise ValueError('Foreign evidence host')
                 extra[url]=get(url).text
         page=get(record['manufacturer_page']).text

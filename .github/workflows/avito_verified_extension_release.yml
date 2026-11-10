@@ -1,5 +1,5 @@
 name: Avito - release only individually verified first-95 manufacturer SKUs
-# Preserves existing XML and verifies Nissan applicability against the exact original OE.
+# Preserves existing XML and verifies exact manufacturer plus ROSSKO applicability identities.
 on:
   workflow_dispatch:
   push:
