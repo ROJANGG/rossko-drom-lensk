@@ -1,5 +1,5 @@
 name: Avito - release only individually verified first-95 manufacturer SKUs
-# Preserves existing XML and verifies exact manufacturer plus ROSSKO applicability identities.
+# Uses pre-captured supplier facts only; never requests the CAPTCHA-protected source.
 on:
   workflow_dispatch:
   push:

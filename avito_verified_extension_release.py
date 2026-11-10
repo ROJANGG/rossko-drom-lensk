@@ -151,8 +151,15 @@ def validate_source(record,page,extra_pages=None):
     return True
 def prepare_photo(record,place):
     extra={};cache_photo=None;verification='current_manufacturer_http'
+    if record.get('rossko_fitment_page'):
+        # These supplier facts were captured before the site requested a
+        # CAPTCHA. Reuse only that hash-pinned, unexpired capture; no requests
+        # to the blocked site from another client or runner.
+        proof,cache_photo=load_source_cache(record)
+        page=proof['product_html'];extra=proof['extra_pages']
+        verification='same_day_primary_source_cache_max_3h'
     try:
-        for url in set(record.get('fitment_sources',[])+[record['oem_source']]):
+        for url in ([] if record.get('rossko_fitment_page') else set(record.get('fitment_sources',[])+[record['oem_source']])):
             if url!=record['manufacturer_page']:
                 allowed=PAGE_HOSTS[record['source_kind']]
                 if url==record.get('oe_fitment_page') and record['source_kind']=='stellox':
@@ -161,7 +168,7 @@ def prepare_photo(record,place):
                     allowed=allowed|{'baza.drom.ru'}
                 if urlparse(url).hostname not in allowed:raise ValueError('Foreign evidence host')
                 extra[url]=get(url).text
-        page=get(record['manufacturer_page']).text
+        if not record.get('rossko_fitment_page'):page=get(record['manufacturer_page']).text
     except requests.RequestException:
         proof,cache_photo=load_source_cache(record)
         page=proof['product_html'];extra=proof.get('extra_pages') or {record['oem_source']:proof['oem_html']}
