@@ -151,7 +151,8 @@ def compare_and_build(approved, supplier, original, search_fn, *,
     }
     if rate < min_success_rate:
         raise RuntimeError("Private API success rate insufficient: "
-                           f"{len(updated)} of {len(valid)}")
+                           f"{len(updated)} of {len(valid)}; "
+                           "status_counts="+json.dumps(dict(failures),ensure_ascii=False))
     return current,updated,report
 
 
