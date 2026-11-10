@@ -1,0 +1,828 @@
+{
+  "as_of_utc": "2026-11-10T10:23:03.458963+00:00",
+  "before": 188,
+  "after": 231,
+  "approved_before": 197,
+  "approved_after": 240,
+  "scope_count": 95,
+  "source_review_approved": 43,
+  "added_count": 43,
+  "added": [
+    {
+      "id": "irk-0fe30604c4974aaf7ff0a3",
+      "brand": "LYNXauto",
+      "article": "BS6307",
+      "category": "Колодки барабанные",
+      "retail": 4050,
+      "photo": {
+        "filename": "irk-0fe30604c4974aaf7ff0a3-c9725a690769.jpg",
+        "sha256": "c9725a690769c0a2fa616d92989a78f99f82e0758461d25789ae5faacd21f777",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0fe30604c4974aaf7ff0a3-c9725a690769.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-72fd732a539f1840e63df2",
+      "brand": "Stellox",
+      "article": "000107SX",
+      "category": "Колодки барабанные",
+      "retail": 1850,
+      "photo": {
+        "filename": "irk-72fd732a539f1840e63df2-d33f693ca3ab.jpg",
+        "sha256": "d33f693ca3ab0be9bce1013df4c311588d93028eead0345eb3c2034d3aa4ac18",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-72fd732a539f1840e63df2-d33f693ca3ab.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-b6fb7e8de42880b2b42b8a",
+      "brand": "Stellox",
+      "article": "000442SX",
+      "category": "Колодки барабанные",
+      "retail": 2250,
+      "photo": {
+        "filename": "irk-b6fb7e8de42880b2b42b8a-d139d4aeeb2f.jpg",
+        "sha256": "d139d4aeeb2fdb35fa94cc8ec5822f5f5170966ac2464f3f3c5aec43a5fdec7d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b6fb7e8de42880b2b42b8a-d139d4aeeb2f.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-1c63e51ed991fcbde15d57",
+      "brand": "Stellox",
+      "article": "000498SX",
+      "category": "Колодки барабанные",
+      "retail": 3200,
+      "photo": {
+        "filename": "irk-1c63e51ed991fcbde15d57-0c0e2b7286aa.jpg",
+        "sha256": "0c0e2b7286aa49b7c9ec4c3b02df5b0c6d7e87e34d79a785a89b5dd8d90b57f2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1c63e51ed991fcbde15d57-0c0e2b7286aa.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-05dfc7c133021a276dd378",
+      "brand": "Stellox",
+      "article": "000590SX",
+      "category": "Колодки барабанные",
+      "retail": 2700,
+      "photo": {
+        "filename": "irk-05dfc7c133021a276dd378-764cec59cfed.jpg",
+        "sha256": "764cec59cfed5ae09ba76214b869495c0bb9a40a3d09d911923bed98641ec021",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-05dfc7c133021a276dd378-764cec59cfed.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-d446626b78cb59c7aa7cb2",
+      "brand": "Stellox",
+      "article": "000622SX",
+      "category": "Колодки барабанные",
+      "retail": 2700,
+      "photo": {
+        "filename": "irk-d446626b78cb59c7aa7cb2-00fea16d58a7.jpg",
+        "sha256": "00fea16d58a7e53ad30a3806b4cce15f3007a4b3d09a1febb651d946d3f62acf",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d446626b78cb59c7aa7cb2-00fea16d58a7.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-9d24e08dddcea62189f149",
+      "brand": "Stellox",
+      "article": "148100SX",
+      "category": "Колодки барабанные",
+      "retail": 1950,
+      "photo": {
+        "filename": "irk-9d24e08dddcea62189f149-2a181c997f23.jpg",
+        "sha256": "2a181c997f236595ec3517f11553ccf3552ad93757fd6e30f92a71b1fdd185e8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9d24e08dddcea62189f149-2a181c997f23.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-8559610fc2303eff0b861b",
+      "brand": "Stellox",
+      "article": "214100SX",
+      "category": "Колодки барабанные",
+      "retail": 2050,
+      "photo": {
+        "filename": "irk-8559610fc2303eff0b861b-c07d3c597102.jpg",
+        "sha256": "c07d3c597102ec62917d5bee7603d4471f9adaa72c688b4ea02156142aaf4bad",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8559610fc2303eff0b861b-c07d3c597102.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-b797c4faeee2922aecf5e8",
+      "brand": "Stellox",
+      "article": "378100SX",
+      "category": "Колодки барабанные",
+      "retail": 1900,
+      "photo": {
+        "filename": "irk-b797c4faeee2922aecf5e8-837b74c8ca95.jpg",
+        "sha256": "837b74c8ca95ca6daa0bed602b84980ebab1ef4558fc3a2a3660c260b5aeb1fd",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b797c4faeee2922aecf5e8-837b74c8ca95.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-1c6273ddbe7c0ed5abf4af",
+      "brand": "Stellox",
+      "article": "397100SX",
+      "category": "Колодки барабанные",
+      "retail": 1500,
+      "photo": {
+        "filename": "irk-1c6273ddbe7c0ed5abf4af-f018c5cdb4c4.jpg",
+        "sha256": "f018c5cdb4c484548cecbe011a11216474dd8ac454941e94fe420a2385b90ed3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1c6273ddbe7c0ed5abf4af-f018c5cdb4c4.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-155e5a33b41e9282608f76",
+      "brand": "Stellox",
+      "article": "657100SX",
+      "category": "Колодки барабанные",
+      "retail": 1600,
+      "photo": {
+        "filename": "irk-155e5a33b41e9282608f76-9f462d19283f.jpg",
+        "sha256": "9f462d19283f61e1430ef0f1118eac6233ca4f4f22ceafa677b9517f27a47768",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-155e5a33b41e9282608f76-9f462d19283f.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-b6d8bd0bf5b1532195c1ae",
+      "brand": "Stellox",
+      "article": "720100SX",
+      "category": "Колодки барабанные",
+      "retail": 1700,
+      "photo": {
+        "filename": "irk-b6d8bd0bf5b1532195c1ae-51970b3f6168.jpg",
+        "sha256": "51970b3f6168f39715c4646afa1d3cdf83524c10225b91558bf730a81c8e9ec5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b6d8bd0bf5b1532195c1ae-51970b3f6168.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-fd2bf88ce772245ea0c321",
+      "brand": "TRANSMASTER",
+      "article": "TR500674C",
+      "category": "Колодки барабанные",
+      "retail": 2000,
+      "photo": {
+        "filename": "irk-fd2bf88ce772245ea0c321-29f925439b88.jpg",
+        "sha256": "29f925439b8875953ed79a59a05877a484246d340103f30e6f143df2b0f6be20",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fd2bf88ce772245ea0c321-29f925439b88.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-0ba66552fc7a28f055141e",
+      "brand": "TRANSMASTER",
+      "article": "TS076",
+      "category": "Колодки барабанные",
+      "retail": 1650,
+      "photo": {
+        "filename": "irk-0ba66552fc7a28f055141e-c73b6c90082e.jpg",
+        "sha256": "c73b6c90082e4601e8b98ba79dcbf13924769c447f42ef2ac64d3b15a1d92e15",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0ba66552fc7a28f055141e-c73b6c90082e.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-73db9213d26e6fc0621cb3",
+      "brand": "LYNXauto",
+      "article": "RC0095",
+      "category": "Радиаторы кондиционера",
+      "retail": 9650,
+      "photo": {
+        "filename": "irk-73db9213d26e6fc0621cb3-a3a9c39d4391.jpg",
+        "sha256": "a3a9c39d439162e7deda91ee7c763f84fcb8462ccd222e01532057dbf3fc1435",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-73db9213d26e6fc0621cb3-a3a9c39d4391.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-f50c95f5bbd665ca72ab95",
+      "brand": "LYNXauto",
+      "article": "RC0117",
+      "category": "Радиаторы кондиционера",
+      "retail": 6350,
+      "photo": {
+        "filename": "irk-f50c95f5bbd665ca72ab95-0ff372bbc9f3.jpg",
+        "sha256": "0ff372bbc9f30029308b86e69d611e629a1b07bf345eba3cca56ac7fd96a7312",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f50c95f5bbd665ca72ab95-0ff372bbc9f3.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-0367718f3ceb294690699c",
+      "brand": "LYNXauto",
+      "article": "RC0294",
+      "category": "Радиаторы кондиционера",
+      "retail": 11800,
+      "photo": {
+        "filename": "irk-0367718f3ceb294690699c-ccaea80b4e9d.jpg",
+        "sha256": "ccaea80b4e9d4c3c306351ad9f17b9b16ed46d2a1db36c021bffec4d3eea8c14",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0367718f3ceb294690699c-ccaea80b4e9d.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-5e8d39742fd90bb1d6e325",
+      "brand": "LYNXauto",
+      "article": "RC0559",
+      "category": "Радиаторы кондиционера",
+      "retail": 13000,
+      "photo": {
+        "filename": "irk-5e8d39742fd90bb1d6e325-fa035906b936.jpg",
+        "sha256": "fa035906b936af90eb529c9633ccb83056927db09ed42bf1f7ba62dba49c0583",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5e8d39742fd90bb1d6e325-fa035906b936.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-9e3f10e14c7000f8e40d08",
+      "brand": "LYNXauto",
+      "article": "RC0623",
+      "category": "Радиаторы кондиционера",
+      "retail": 10400,
+      "photo": {
+        "filename": "irk-9e3f10e14c7000f8e40d08-6ca51ccd7089.jpg",
+        "sha256": "6ca51ccd7089c5507bb99b937892405323802669b29eb96040fe06ff2956d63c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9e3f10e14c7000f8e40d08-6ca51ccd7089.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-4a784c01c6a792207f147c",
+      "brand": "LYNXauto",
+      "article": "RC0710",
+      "category": "Радиаторы кондиционера",
+      "retail": 8900,
+      "photo": {
+        "filename": "irk-4a784c01c6a792207f147c-c6ba8603e03b.jpg",
+        "sha256": "c6ba8603e03be5e0e12b05f8bbdcefc1245c805b31d867b5c8347a2779735801",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4a784c01c6a792207f147c-c6ba8603e03b.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-6582ef508a6e32ac8c9817",
+      "brand": "Stellox",
+      "article": "1045687SX",
+      "category": "Радиаторы кондиционера",
+      "retail": 9150,
+      "photo": {
+        "filename": "irk-6582ef508a6e32ac8c9817-c0a0cfe660a8.jpg",
+        "sha256": "c0a0cfe660a868d1a1155d1752b186d813e29bd53ec81788663cb69c2b51ba06",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6582ef508a6e32ac8c9817-c0a0cfe660a8.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-9727cb9bc3a080f00c842b",
+      "brand": "Febest",
+      "article": "16642010",
+      "category": "Свечи накала",
+      "retail": 1250,
+      "photo": {
+        "filename": "irk-9727cb9bc3a080f00c842b-d3841030b931.jpg",
+        "sha256": "d3841030b931bec9fb20bd881fdc5a04f1c69af7c4a1d62a51877840612a75c0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9727cb9bc3a080f00c842b-d3841030b931.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-cc86e1598e6aea6f8f387e",
+      "brand": "NGK",
+      "article": "CZ251",
+      "category": "Свечи накала",
+      "retail": 5500,
+      "photo": {
+        "filename": "irk-cc86e1598e6aea6f8f387e-de2751c3aea3.jpg",
+        "sha256": "de2751c3aea352fd1caf9824a033a30477cc638c63540b6ea0c982b2fceb7470",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cc86e1598e6aea6f8f387e-de2751c3aea3.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-a8c25e3d55d30972e86d8f",
+      "brand": "NGK",
+      "article": "CZ552",
+      "category": "Свечи накала",
+      "retail": 5600,
+      "photo": {
+        "filename": "irk-a8c25e3d55d30972e86d8f-77bbba096ccc.jpg",
+        "sha256": "77bbba096cccb353df17e4d4a1d56e875938c5b179a13856c1db70221773f354",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a8c25e3d55d30972e86d8f-77bbba096ccc.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-05c84fa908b82f07eb8fef",
+      "brand": "NGK",
+      "article": "Y1003AS",
+      "category": "Свечи накала",
+      "retail": 6050,
+      "photo": {
+        "filename": "irk-05c84fa908b82f07eb8fef-c29f0316a4df.jpg",
+        "sha256": "c29f0316a4dfe962013717e6efb8723dd84b46cfa2f6c094528383711549e129",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-05c84fa908b82f07eb8fef-c29f0316a4df.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-5d04578731306d16e1fb67",
+      "brand": "NGK",
+      "article": "Y531J",
+      "category": "Свечи накала",
+      "retail": 2950,
+      "photo": {
+        "filename": "irk-5d04578731306d16e1fb67-24f304ddc297.jpg",
+        "sha256": "24f304ddc297c50dcc09a2ea322159766bd1de987997628cc45ff3e784fbad3d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5d04578731306d16e1fb67-24f304ddc297.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-81630476e2ec607cc39443",
+      "brand": "NGK",
+      "article": "Y535J",
+      "category": "Свечи накала",
+      "retail": 2850,
+      "photo": {
+        "filename": "irk-81630476e2ec607cc39443-4ab13407c306.jpg",
+        "sha256": "4ab13407c306e6d2816b8db98108a17bfb52e952ac12830715e2e86ed703fef3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-81630476e2ec607cc39443-4ab13407c306.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-ebbdac94160e6746965726",
+      "brand": "NGK",
+      "article": "Y701J",
+      "category": "Свечи накала",
+      "retail": 1800,
+      "photo": {
+        "filename": "irk-ebbdac94160e6746965726-5376b1541695.jpg",
+        "sha256": "5376b154169514f335139aa088ca8bb30a69b383f07fafe6984abc4a7c7bd048",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ebbdac94160e6746965726-5376b1541695.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-83b82df464f3ba54c4a95b",
+      "brand": "STARTVOLT",
+      "article": "GLSP003",
+      "category": "Свечи накала",
+      "retail": 1350,
+      "photo": {
+        "filename": "irk-83b82df464f3ba54c4a95b-2b5d55105c76.jpg",
+        "sha256": "2b5d55105c76de6e09c188d38fb740223ef8dabb17222a4eab982b7bd4a5a703",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-83b82df464f3ba54c4a95b-2b5d55105c76.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-79ce452cab524073d2f34e",
+      "brand": "STARTVOLT",
+      "article": "GLSP010",
+      "category": "Свечи накала",
+      "retail": 700,
+      "photo": {
+        "filename": "irk-79ce452cab524073d2f34e-3e26ee0d1360.jpg",
+        "sha256": "3e26ee0d13605cbc16600b4c453f183f573245225705c9730b68c290f1029f40",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-79ce452cab524073d2f34e-3e26ee0d1360.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-01381970cb96ace537b0cb",
+      "brand": "STARTVOLT",
+      "article": "GLSP014",
+      "category": "Свечи накала",
+      "retail": 1100,
+      "photo": {
+        "filename": "irk-01381970cb96ace537b0cb-425c5a55a892.jpg",
+        "sha256": "425c5a55a892c4fff3bcfbadc51ddf237fd8cd0621c4cff7344e997103be4ceb",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-01381970cb96ace537b0cb-425c5a55a892.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-2519a2f573ddd42cd3f0dc",
+      "brand": "STARTVOLT",
+      "article": "GLSP015",
+      "category": "Свечи накала",
+      "retail": 850,
+      "photo": {
+        "filename": "irk-2519a2f573ddd42cd3f0dc-38452d56d1f2.jpg",
+        "sha256": "38452d56d1f263bde96baae496e1ee8fc23b62c77780d3e56c4975a713b96015",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2519a2f573ddd42cd3f0dc-38452d56d1f2.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-7af0b79ce261703e3876a5",
+      "brand": "STARTVOLT",
+      "article": "GLSP022",
+      "category": "Свечи накала",
+      "retail": 1200,
+      "photo": {
+        "filename": "irk-7af0b79ce261703e3876a5-b710ab7fabf1.jpg",
+        "sha256": "b710ab7fabf16e854df79287aa60eae661a9f48f91a236e17e02bedc6f3539c2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7af0b79ce261703e3876a5-b710ab7fabf1.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-44d09e1580cfaaf4718ca3",
+      "brand": "STARTVOLT",
+      "article": "GLSP025",
+      "category": "Свечи накала",
+      "retail": 700,
+      "photo": {
+        "filename": "irk-44d09e1580cfaaf4718ca3-e3c240f4f795.jpg",
+        "sha256": "e3c240f4f7951d1ddbb8e139d67f1c150132b23e04550a58ff4c63f1c8955daa",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-44d09e1580cfaaf4718ca3-e3c240f4f795.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-44564c68bab0f0aeef14ce",
+      "brand": "STARTVOLT",
+      "article": "GLSP026",
+      "category": "Свечи накала",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-44564c68bab0f0aeef14ce-fef2b442ed4e.jpg",
+        "sha256": "fef2b442ed4ea98c94a9157552de7e06c493f25cb989ca6193c4ad582f2739d4",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-44564c68bab0f0aeef14ce-fef2b442ed4e.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-1cab01a9f0d668d38adcb4",
+      "brand": "STARTVOLT",
+      "article": "GLSP028",
+      "category": "Свечи накала",
+      "retail": 750,
+      "photo": {
+        "filename": "irk-1cab01a9f0d668d38adcb4-947a45189533.jpg",
+        "sha256": "947a451895330dd0c16b2f8e2bb6fc1907694083ded227f34d7a6381d2caeb17",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1cab01a9f0d668d38adcb4-947a45189533.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-20cfe9200b8d00c36d64f7",
+      "brand": "STARTVOLT",
+      "article": "GLSP035",
+      "category": "Свечи накала",
+      "retail": 600,
+      "photo": {
+        "filename": "irk-20cfe9200b8d00c36d64f7-973c6e7455e1.jpg",
+        "sha256": "973c6e7455e1d530f646d8802a4e75da4fb297fec3f5836dc957620c1a2704c3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-20cfe9200b8d00c36d64f7-973c6e7455e1.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-3e614cc397430e21421ab9",
+      "brand": "STARTVOLT",
+      "article": "GLSP043",
+      "category": "Свечи накала",
+      "retail": 500,
+      "photo": {
+        "filename": "irk-3e614cc397430e21421ab9-6b7d2ef90205.jpg",
+        "sha256": "6b7d2ef902054c22fcd1de37251049dfbbde59449ad2fd27d6ea34f51f22567e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3e614cc397430e21421ab9-6b7d2ef90205.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-c7e12c6dcca0f71cedaf61",
+      "brand": "STARTVOLT",
+      "article": "GLSP048",
+      "category": "Свечи накала",
+      "retail": 500,
+      "photo": {
+        "filename": "irk-c7e12c6dcca0f71cedaf61-1b863a799d6b.jpg",
+        "sha256": "1b863a799d6b132ef0e7d446fc47a8def24dedc8f41a1b8edbdcfeaf0923b513",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c7e12c6dcca0f71cedaf61-1b863a799d6b.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-336132ff25d32cf0abd3a7",
+      "brand": "STARTVOLT",
+      "article": "GLSP058",
+      "category": "Свечи накала",
+      "retail": 700,
+      "photo": {
+        "filename": "irk-336132ff25d32cf0abd3a7-94aa83a3d51d.jpg",
+        "sha256": "94aa83a3d51d56f8eca76d8dd31cdb9f74d1d08c08c1688321e823cf4af89861",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-336132ff25d32cf0abd3a7-94aa83a3d51d.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-4d7ba735dfad66b2f4191b",
+      "brand": "STARTVOLT",
+      "article": "GLSP066",
+      "category": "Свечи накала",
+      "retail": 600,
+      "photo": {
+        "filename": "irk-4d7ba735dfad66b2f4191b-16a73e5b05fb.jpg",
+        "sha256": "16a73e5b05fbd9104a210475a49d05593279de64ac326680da8051bcc39a9210",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4d7ba735dfad66b2f4191b-16a73e5b05fb.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-2e22c8b1661f7fb34e8edf",
+      "brand": "STARTVOLT",
+      "article": "GLSP508",
+      "category": "Свечи накала",
+      "retail": 3600,
+      "photo": {
+        "filename": "irk-2e22c8b1661f7fb34e8edf-68ad6fcc4f58.jpg",
+        "sha256": "68ad6fcc4f58c74ec450f92f7eba4ce1e5c6a2782f39aebb5506bb2af97eea9b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2e22c8b1661f7fb34e8edf-68ad6fcc4f58.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    },
+    {
+      "id": "irk-d2e7ff10caf391acc0adc3",
+      "brand": "STARTVOLT",
+      "article": "GLSP516",
+      "category": "Свечи накала",
+      "retail": 2700,
+      "photo": {
+        "filename": "irk-d2e7ff10caf391acc0adc3-54acaec2ed0b.jpg",
+        "sha256": "54acaec2ed0bf35b0b899b8f0e4537e97e061620722068f8d01bda1df73e8b00",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d2e7ff10caf391acc0adc3-54acaec2ed0b.jpg",
+        "source_verification": "current_manufacturer_http"
+      }
+    }
+  ],
+  "skipped": [],
+  "blocked_source_review": [
+    [
+      "Stellox",
+      "000605SX",
+      "MANUFACTURER_FITMENT_MISSING"
+    ],
+    [
+      "Stellox",
+      "000621SX",
+      "MANUFACTURER_FITMENT_MISSING"
+    ],
+    [
+      "Stellox",
+      "112100SX",
+      "DRAWING_INSTEAD_OF_REAL_PHOTO"
+    ],
+    [
+      "Stellox",
+      "174100SX",
+      "MANUFACTURER_FITMENT_MISSING"
+    ],
+    [
+      "TRANSMASTER",
+      "TR500669C",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TRANSMASTER",
+      "TR500670C",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TRANSMASTER",
+      "TR500672C",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TRANSMASTER",
+      "TR500673C",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "LYNXauto",
+      "RC0019",
+      "EXACT_MANUFACTURER_CARD_NOT_CONFIRMED;MANUFACTURER_OEM_MISSING;MANUFACTURER_FITMENT_MISSING;EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "LYNXauto",
+      "RC0082",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "LYNXauto",
+      "RC0705",
+      "EXACT_MANUFACTURER_CARD_NOT_CONFIRMED;MANUFACTURER_OEM_MISSING;MANUFACTURER_FITMENT_MISSING;EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "SUFIX",
+      "XC1005",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1009",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1010",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1012",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1018",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1021",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1022",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1034",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1038",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1040",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1042",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1044",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1045",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1050",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1052",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1054",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1058",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1059",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1060",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1064",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "SUFIX",
+      "XC1066",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Stellox",
+      "1045152SX",
+      "MANUFACTURER_FITMENT_MISSING;DRAWING_INSTEAD_OF_REAL_PHOTO"
+    ],
+    [
+      "Stellox",
+      "1045355SX",
+      "MANUFACTURER_FITMENT_MISSING;DRAWING_INSTEAD_OF_REAL_PHOTO"
+    ],
+    [
+      "Stellox",
+      "1045719SX",
+      "DRAWING_INSTEAD_OF_REAL_PHOTO"
+    ],
+    [
+      "Bosch",
+      "0250201055",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250202142",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250402002",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250403009",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250603001",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "Bosch",
+      "0250603006",
+      "SOURCE_NOT_VERIFIED"
+    ],
+    [
+      "TATSUMI",
+      "THQ1001",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1005",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1006",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1007",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1008",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1009",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1010",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1011",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ],
+    [
+      "TATSUMI",
+      "THQ1012",
+      "EXACT_PRODUCT_PHOTO_MISSING"
+    ]
+  ],
+  "all_original_ads_preserved": true,
+  "private_API_costs_published": false,
+  "checkout_mode": "account_pickup",
+  "publication_performed": false
+}
