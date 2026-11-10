@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-10",
+  "scope_original_skus": 95,
+  "first95_new_published": 46,
+  "first95_already_present": 2,
+  "first95_blocked": 47,
+  "active_ads": 234,
+  "archive_ids": 243,
+  "added_this_continuation": [
+    {
+      "id": "irk-49ba1e5c0043c30f16b077",
+      "brand": "Stellox",
+      "article": "000605SX",
+      "category": "Колодки барабанные",
+      "retail": 1600,
+      "photo": {
+        "filename": "irk-49ba1e5c0043c30f16b077-6ba66088fc45.jpg",
+        "sha256": "6ba66088fc45d3b90960767d60b604ebc22e3e6fb060622c0b7410e439d873af",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-49ba1e5c0043c30f16b077-6ba66088fc45.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-1b05aaa952d2cf757e0dfb",
+      "brand": "Stellox",
+      "article": "000621SX",
+      "category": "Колодки барабанные",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-1b05aaa952d2cf757e0dfb-9329fea0296c.jpg",
+        "sha256": "9329fea0296c62dd00f7e04a57d1d9c7f82167a0999078838f1bf0ec542d96e1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1b05aaa952d2cf757e0dfb-9329fea0296c.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-ec071c563db63d97e98a68",
+      "brand": "Stellox",
+      "article": "174100SX",
+      "category": "Колодки барабанные",
+      "retail": 3250,
+      "photo": {
+        "filename": "irk-ec071c563db63d97e98a68-586e918450af.jpg",
+        "sha256": "586e918450af81e7dace87a22a5085047d657f56522b28b61be1ddd2d6b8f78a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ec071c563db63d97e98a68-586e918450af.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    }
+  ],
+  "source_review_commit": "f7b073fa5f78b81ae1fd186216bf6b04df6ecfed",
+  "scheduled_source_with_tested_cdn_helper_commit": "94a8c75851c186cf05e2e9a9fad79f3a11f91354",
+  "xml_release_commit": "f4143431d0143975415f2f0fa2d0c94ecd1e8c7a",
+  "release_runs": [
+    42879778721,
+    42881688881
+  ],
+  "stock_run_id": 42882294340,
+  "personal_price_run_id": 42882294495,
+  "personal_api": {
+    "time_utc": "2026-11-10T19:15:15.209750+00:00",
+    "approved_total": 243,
+    "available_approved_zero_day": 234,
+    "api_requests_attempted": 234,
+    "api_wholesale_confirmed": 234,
+    "api_not_confirmed": 0,
+    "success_rate": 1,
+    "failures": {},
+    "legacy_verified_retail_map_entries": 1077,
+    "runtime_retail_map_entries": 1077,
+    "min_acceptable_success_rate": 0.7,
+    "no_private_buying_cost_written": true,
+    "no_drom_files_written": true,
+    "publish_directly": false,
+    "checkout_mode": "account_pickup"
+  },
+  "stock_check": {
+    "stock_checked_ads": 234,
+    "before": 234,
+    "after": 234,
+    "removed_confirmed_no_stock": 0,
+    "repriced": 0,
+    "price_unchanged_verified": 234,
+    "price_kept_unverified": 0,
+    "removed_independently_verified": true,
+    "source": "fresh ROSSKO Irkutsk zero-day supplier XLSX",
+    "pricing_source": "source-price-matched verified personal wholesale retail map only",
+    "no_new_ads": true,
+    "non_price_fields_of_kept_ads_unchanged": true,
+    "current_api_verified_skus": null,
+    "current_live_before": 234,
+    "restock_supplier_double_checked": true,
+    "checked_at_utc": "2026-11-10T19:09:17.699139+00:00"
+  },
+  "original_231_preservation": {
+    "baseline_ads": 231,
+    "active_ads": 234,
+    "archive_ids": 243,
+    "new_ids": [
+      "irk-49ba1e5c0043c30f16b077",
+      "irk-1b05aaa952d2cf757e0dfb",
+      "irk-ec071c563db63d97e98a68"
+    ],
+    "missing_archived_ids": [],
+    "non_price_changes": [],
+    "price_changes": []
+  },
+  "all_46_published_identity_check": {
+    "verified_manifest_skus": 46,
+    "live_ads": 234,
+    "problems": []
+  },
+  "test_results": {
+    "release": 27,
+    "fresh_download_retries": 5,
+    "public_cdn": 4,
+    "cdn_test_run_id": 42883373335
+  },
+  "public_cdn": {
+    "before_ads": 231,
+    "after_ads": 234,
+    "raw_and_cdn_sha256": "9e538e5e5767ff34c6429d2bc8372682e6c5651507b752642fd76ad9a2a30fec",
+    "exact_bytes_verified": true,
+    "purge": {
+      "id": "TP4Kv3RCeEQ1DjiA",
+      "status": "finished",
+      "timestamp": "2026-11-10T19:12:34.401Z",
+      "path": "/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml",
+      "providers": {
+        "CF": true,
+        "FY": true
+      },
+      "throttled": false
+    },
+    "actual_helper_cli_verified": true
+  },
+  "supplier_page_limit": "Drom requested CAPTCHA on subsequent TATSUMI lookup; further requests stopped. Earlier successfully captured supplier facts only, max 3h and exact hash pinned.",
+  "one_time_publication_armed": false,
+  "avito_import_and_moderation_status": "NOT_CHECKED",
+  "drom_files_changed": false,
+  "private_api_buying_costs_published": false
+}

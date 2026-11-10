@@ -49,7 +49,7 @@ jobs:
       - name: Checkout reviewed exact-SKU extension support
         uses: actions/checkout@v4
         with:
-          ref: f7b073fa5f78b81ae1fd186216bf6b04df6ecfed
+          ref: 94a8c75851c186cf05e2e9a9fad79f3a11f91354
           path: verified-extension
           persist-credentials: false
       - name: Load verified additional categories without broadening the approved catalogue
@@ -138,6 +138,7 @@ jobs:
           else
             git commit -m "Avito: refresh only approved SKUs, verified personal retail prices and fresh Irkutsk stock"
             git push origin HEAD:avito-irkutsk-feed
+            python ../verified-extension/avito_refresh_public_cdn.py --xml AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
           fi
 
       - name: Save short-lived private stock and retail-only price audit

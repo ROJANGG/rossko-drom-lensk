@@ -147,6 +147,7 @@ jobs:
           git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml AVITO_APPROVED_CATALOG_195_ARCHIVE.xml avito-verified-retail-prices.csv avito-verified-extension-report.json
           git commit -m 'Avito: append individually OEM-photo-fitment verified SKUs with current personal API stock and retail prices'
           git push origin HEAD:avito-irkutsk-feed
+          python ../extension/avito_refresh_public_cdn.py --xml AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
       - name: Preserve retail-only candidate and source-review audit without personal API costs
         if: always()
         uses: actions/upload-artifact@v4
