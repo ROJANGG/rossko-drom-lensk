@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Ads formatVersion="3" target="Avito.ru">
-  <Ad>
+<Ads formatVersion="3" target="Avito.ru"><Ad>
     <Id>irk-835ecc9248cd222933fb4c</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -642,29 +641,6 @@
     <Brand>Krauf</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-307733e7f7c9a4928a6801-8a1bb48e9d65.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>irk-41914b10766df6d80ef102</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Рулевое управление</SparePartType>
-    <OEM>4550005030</OEM>
-    <Title>Рулевая рейка Krauf HNQ5090GQ новый</Title>
-    <Description>Рулевая рейка, производитель Krauf, артикул HNQ5090GQ.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>16050</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>Krauf</Brand>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-41914b10766df6d80ef102-135dc7014178.jpg" />
     </Images>
   </Ad>
   <Ad>
