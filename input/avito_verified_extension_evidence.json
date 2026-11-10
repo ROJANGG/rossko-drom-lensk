@@ -1821,14 +1821,41 @@
       "fitment_tokens": [
         "Комплект свечей накаливания (4шт) для автомобилей Great Wall Hover H5 (10-) 2.0D"
       ]
+    },
+    {
+      "brand": "Stellox",
+      "article": "000605SX",
+      "category": "Колодки барабанные",
+      "manufacturer_page": "https://ru.stellox.com/catalog/000-605-sx/",
+      "exact_sku_verified": true,
+      "oem": "44060-ZE00A",
+      "oem_source": "https://ru.stellox.com/catalog/000-605-sx/",
+      "oem_source_label": "Manufacturer exact-product OE section",
+      "fitment": "Применяемость: Nissan Titan, Nissan Armada. Соответствие OEM 44060-ZE00A подтверждено каталогом Stellox; модели для этого оригинального номера указаны в официальном каталоге Nissan. Задняя ось, барабан 206 мм, ширина колодки 31 мм. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://parts.nissanusa.com/parts/nissan-shoe-set-parking-brake-44060ze00a"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-10",
+      "images": [
+        {
+          "url": "https://ru.stellox.com/wp-content/uploads/2024/12/a55cf47f563008e1503829b0fb8020fd4e518926.jpg",
+          "sha256": "6ba66088fc45d3b90960767d60b604ebc22e3e6fb060622c0b7410e439d873af",
+          "width": 600,
+          "height": 400
+        }
+      ],
+      "source_kind": "stellox",
+      "manufacturer_display_article": "000605SX",
+      "pack_quantity": null,
+      "fitment_tokens": [
+        "TITAN",
+        "ARMADA"
+      ],
+      "oe_fitment_page": "https://parts.nissanusa.com/parts/nissan-shoe-set-parking-brake-44060ze00a"
     }
   ],
   "blocked": [
-    [
-      "Stellox",
-      "000605SX",
-      "MANUFACTURER_FITMENT_MISSING"
-    ],
     [
       "Stellox",
       "000621SX",

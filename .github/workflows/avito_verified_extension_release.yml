@@ -1,5 +1,5 @@
 name: Avito - release only individually verified first-95 manufacturer SKUs
-# Preserves existing Luzar XML formatting and strictly expires same-day NGK source copies.
+# Preserves existing XML and verifies Nissan applicability against the exact original OE.
 on:
   workflow_dispatch:
   push:

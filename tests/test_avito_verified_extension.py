@@ -47,6 +47,14 @@ class ExtensionSafety(unittest.TestCase):
         self.assertTrue(validate_source(r,page))
         for bad in [page.replace(sku,'DIFFERENT'),page.replace(oem,oem+'999'),page.replace(photo,'https://ru.stellox.com/other.jpg')]:
             with self.assertRaises(ValueError):validate_source(r,bad)
+    def test_automaker_fitment_must_use_the_same_original_part_number(self):
+        r=next(x for x in self.manifest['items'] if x['article']=='000605SX')
+        photo=r['images'][0]['url'];oem=r['oem']
+        page=f'<h1>STELLOX 000605SX</h1><div class="product-oe"><button class="product-usability__item"><span class="body-text2">{oem}</span></button></div><img src="{photo}">'
+        proof=f'<h1>Shoe Set Parking Brake - Nissan ({oem})</h1><p>TITAN. Armada.</p>'
+        self.assertTrue(validate_source(r,page,{r['oe_fitment_page']:proof}))
+        for invalid in [proof.replace(oem,'44060-ZE00A999'),proof.replace('Armada','OTHER'),proof.replace('Nissan','OTHER')]:
+            with self.assertRaises(ValueError):validate_source(r,page,{r['oe_fitment_page']:invalid})
     def test_stock_refresh_keeps_existing_nonstandard_xml_whitespace(self):
         original='<Ads formatVersion="3"><Ad>\n <Id>keep-me</Id><Brand>Luzar</Brand>\n    <Title>Радиатор кондиционера Luzar LRAC3034 новый</Title><Price>1500</Price><OEM>VALUE</OEM><Images>\n<Image url="https://example.test/original.jpg" /></Images></Ad>\n</Ads>'
         k=key('Luzar','LRAC3034')

@@ -121,6 +121,14 @@ def validate_source(record,page,extra_pages=None):
     if urlparse(record['images'][0]['url']).path not in decoded:
         raise ValueError('Photo absent from exact manufacturer product page')
     fit_text=txt+' '+' '.join(BeautifulSoup(x,'html.parser').get_text(' ',strip=True) for x in (extra_pages or {}).values())
+    if proof_url:=record.get('oe_fitment_page'):
+        if record['source_kind']!='stellox' or urlparse(proof_url).hostname!='parts.nissanusa.com':
+            raise ValueError('Unapproved automaker applicability source')
+        proof=BeautifulSoup((extra_pages or {}).get(proof_url,''),'html.parser')
+        heading=' '.join(x.get_text(' ',strip=True) for x in proof.find_all('h1'))
+        references={canon(x) for x in re.findall(r'\(([^)]+)\)',heading)}
+        if canon(record['oem']) not in references or 'NISSAN' not in canon(heading):
+            raise ValueError('Automaker applicability OE identity changed')
     for token in record.get('fitment_tokens',[]):
         if canon(token) not in canon(fit_text):raise ValueError('Manufacturer applicability changed')
     return True
@@ -129,7 +137,10 @@ def prepare_photo(record,place):
     try:
         for url in set(record.get('fitment_sources',[])+[record['oem_source']]):
             if url!=record['manufacturer_page']:
-                if urlparse(url).hostname not in PAGE_HOSTS[record['source_kind']]:raise ValueError('Foreign evidence host')
+                allowed=PAGE_HOSTS[record['source_kind']]
+                if url==record.get('oe_fitment_page') and record['source_kind']=='stellox':
+                    allowed=allowed|{'parts.nissanusa.com'}
+                if urlparse(url).hostname not in allowed:raise ValueError('Foreign evidence host')
                 extra[url]=get(url).text
         page=get(record['manufacturer_page']).text
     except requests.RequestException:
