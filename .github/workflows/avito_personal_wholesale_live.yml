@@ -45,7 +45,7 @@ jobs:
       - name: Checkout reviewed exact-SKU extension support
         uses: actions/checkout@v4
         with:
-          ref: 405f5e221588a3959e09ab7d8a102ce4921891cd
+          ref: f7b073fa5f78b81ae1fd186216bf6b04df6ecfed
           path: verified-extension
           persist-credentials: false
       - name: Load verified additional categories without broadening the approved catalogue
