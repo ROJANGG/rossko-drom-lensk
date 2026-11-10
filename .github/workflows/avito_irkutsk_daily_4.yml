@@ -46,6 +46,16 @@ jobs:
           path: retail
           persist-credentials: false
 
+      - name: Checkout reviewed exact-SKU extension support
+        uses: actions/checkout@v4
+        with:
+          ref: 2c3ed56c33432f74a474186f590f421b91815af4
+          path: verified-extension
+          persist-credentials: false
+      - name: Load verified additional categories without broadening the approved catalogue
+        run: |
+          cp verified-extension/avito_active_feed_refresh.py generator/
+          cp verified-extension/input/avito_verified_extension_evidence.json generator/input/
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
