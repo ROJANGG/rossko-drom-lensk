@@ -1,23 +1,36 @@
 {
-  "as_of_utc": "2026-11-10T18:54:29.890435+00:00",
-  "before": 231,
-  "after": 232,
-  "approved_before": 240,
-  "approved_after": 241,
+  "as_of_utc": "2026-11-10T19:06:00.907547+00:00",
+  "before": 232,
+  "after": 234,
+  "approved_before": 241,
+  "approved_after": 243,
   "scope_count": 95,
-  "source_review_approved": 44,
-  "added_count": 1,
+  "source_review_approved": 46,
+  "added_count": 2,
   "added": [
     {
-      "id": "irk-49ba1e5c0043c30f16b077",
+      "id": "irk-1b05aaa952d2cf757e0dfb",
       "brand": "Stellox",
-      "article": "000605SX",
+      "article": "000621SX",
       "category": "Колодки барабанные",
-      "retail": 1600,
+      "retail": 2350,
       "photo": {
-        "filename": "irk-49ba1e5c0043c30f16b077-6ba66088fc45.jpg",
-        "sha256": "6ba66088fc45d3b90960767d60b604ebc22e3e6fb060622c0b7410e439d873af",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-49ba1e5c0043c30f16b077-6ba66088fc45.jpg",
+        "filename": "irk-1b05aaa952d2cf757e0dfb-9329fea0296c.jpg",
+        "sha256": "9329fea0296c62dd00f7e04a57d1d9c7f82167a0999078838f1bf0ec542d96e1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1b05aaa952d2cf757e0dfb-9329fea0296c.jpg",
+        "source_verification": "same_day_primary_source_cache_max_3h"
+      }
+    },
+    {
+      "id": "irk-ec071c563db63d97e98a68",
+      "brand": "Stellox",
+      "article": "174100SX",
+      "category": "Колодки барабанные",
+      "retail": 3250,
+      "photo": {
+        "filename": "irk-ec071c563db63d97e98a68-586e918450af.jpg",
+        "sha256": "586e918450af81e7dace87a22a5085047d657f56522b28b61be1ddd2d6b8f78a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ec071c563db63d97e98a68-586e918450af.jpg",
         "source_verification": "same_day_primary_source_cache_max_3h"
       }
     }
@@ -26,18 +39,8 @@
   "blocked_source_review": [
     [
       "Stellox",
-      "000621SX",
-      "MANUFACTURER_FITMENT_MISSING"
-    ],
-    [
-      "Stellox",
       "112100SX",
       "DRAWING_INSTEAD_OF_REAL_PHOTO"
-    ],
-    [
-      "Stellox",
-      "174100SX",
-      "MANUFACTURER_FITMENT_MISSING"
     ],
     [
       "TRANSMASTER",
