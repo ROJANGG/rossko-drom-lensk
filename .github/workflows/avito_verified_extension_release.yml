@@ -51,6 +51,7 @@ jobs:
           cp extension/avito_verified_extension_release.py generator/
           cp extension/input/avito_verified_extension_evidence.json generator/input/
           cp -r extension/input/avito-ngk-source-cache generator/input/
+          cp -r extension/input/avito-stellox-source-cache generator/input/
           cp extension/tests/test_avito_verified_extension.py generator/tests/
       - name: Verify original stock and price protections plus exact-source extension guards
         working-directory: generator

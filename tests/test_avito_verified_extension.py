@@ -55,6 +55,14 @@ class ExtensionSafety(unittest.TestCase):
         self.assertTrue(validate_source(r,page,{r['oe_fitment_page']:proof}))
         for invalid in [proof.replace(oem,'44060-ZE00A999'),proof.replace('Armada','OTHER'),proof.replace('Nissan','OTHER')]:
             with self.assertRaises(ValueError):validate_source(r,page,{r['oe_fitment_page']:invalid})
+    def test_stellox_automaker_cache_expires_and_cannot_change_oe_source(self):
+        r=next(x for x in self.manifest['items'] if x['article']=='000605SX')
+        path=MANIFEST.parent.parent/r['source_cache']['path'];proof=json.loads(path.read_text())
+        observed=datetime.fromisoformat(proof['verified_at_utc'])
+        load_source_cache(r,now=observed+timedelta(minutes=5))
+        with self.assertRaises(ValueError):load_source_cache(r,now=observed+timedelta(hours=3,seconds=1))
+        bad=copy.deepcopy(r);bad['oe_fitment_page']='https://parts.nissanusa.com/parts/other'
+        with self.assertRaises(ValueError):load_source_cache(bad,now=observed+timedelta(minutes=5))
     def test_stock_refresh_keeps_existing_nonstandard_xml_whitespace(self):
         original='<Ads formatVersion="3"><Ad>\n <Id>keep-me</Id><Brand>Luzar</Brand>\n    <Title>Радиатор кондиционера Luzar LRAC3034 новый</Title><Price>1500</Price><OEM>VALUE</OEM><Images>\n<Image url="https://example.test/original.jpg" /></Images></Ad>\n</Ads>'
         k=key('Luzar','LRAC3034')

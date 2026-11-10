@@ -1,0 +1,17 @@
+{
+  "article": "000605SX",
+  "manufacturer_page": "https://ru.stellox.com/catalog/000-605-sx/",
+  "oem_source": "https://ru.stellox.com/catalog/000-605-sx/",
+  "verified_at_utc": "2026-11-10T18:46:00.705718+00:00",
+  "product_html": "<div class=\"gallery__big\"> <div class=\"swiper mySwiper2\"> <div class=\"swiper-wrapper gallery-group\"> <div class=\"swiper-slide\"> <a class=\"gallery__img\" data-fancybox=\"@@album\" href=\"https://ru.stellox.com/wp-content/uploads/2024/12/a55cf47f563008e1503829b0fb8020fd4e518926.jpg\"> <picture> <source data-srcset=\"https://ru.stellox.com/wp-content/uploads/2024/12/a55cf47f563008e1503829b0fb8020fd4e518926.jpg\" type=\"image/webp\"/> <img alt=\"Комплект тормозных колодок\" class=\"lazyload\" data-eio-rheight=\"400\" data-eio-rwidth=\"600\" data-src=\"https://ru.stellox.com/wp-content/uploads/2024/12/a55cf47f563008e1503829b0fb8020fd4e518926.jpg\" data-srcset=\"https://ru.stellox.com/wp-content/uploads/2024/12/a55cf47f563008e1503829b0fb8020fd4e518926.jpg 2x\" decoding=\"async\" itemprop=\"image\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAGQAQMAAABI+4zbAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAADRJREFUGBntwQENAAAAwiD7p34PBwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEsBdsAAAUvsC8cAAAAASUVORK5CYII=\"/> </picture><noscript><img alt=\"Комплект тормозных колодок\" data-eio=\"l\" itemprop=\"image\" src=\"https://ru.stellox.com/wp-content/uploads/2024/12/a55cf47f563008e1503829b0fb8020fd4e518926.jpg\" srcset=\"https://ru.stellox.com/wp-content/uploads/2024/12/a55cf47f563008e1503829b0fb8020fd4e518926.jpg 2x\"/></noscript> </a> </div> </div> </div> </div>\n<div class=\"product-oe\"> <div class=\"product-oe__top _flex-between\"> <div class=\"h5\"> OE-номер </div> <div class=\"m-select\"> <select class=\"js-select\"> <option>NISSAN</option> </select> </div> </div> <div class=\"product-usability\"> <div id=\"OEselect-NISSAN\"><div class=\"subtitle2\">NISSAN</div><div class=\"product-usability__items\"><button class=\"product-usability__item\"><span class=\"body-text2\">44060-ZE00A</span><button class=\"product-usability__item\"><span class=\"body-text2\">44060-7S020</span></button></button></div></div> </div> </div>\n<h1 class=\"h4\" itemprop=\"name\"> Комплект тормозных колодок STELLOX 000-605-SX </h1>",
+  "extra_pages": {
+    "https://parts.nissanusa.com/parts/nissan-shoe-set-parking-brake-44060ze00a": "<h1 style=\"font-family:var(--typography-heading-sm-font-family);font-size:var(--typography-heading-sm-font-size);font-weight:var(--typography-heading-sm-font-weight);line-height:var(--typography-heading-sm-line-height);letter-spacing:var(--typography-heading-sm-letter-spacing);color:var(--text-primary)\">Shoe Set Parking Brake - Nissan (44060-ZE00A)</h1>\n<p>TITAN. Armada.</p>"
+  },
+  "photo_filename": "000605SX.jpg",
+  "photo_sha256": "6ba66088fc45d3b90960767d60b604ebc22e3e6fb060622c0b7410e439d873af",
+  "original_source_sha256": {
+    "https://ru.stellox.com/catalog/000-605-sx/": "138ddeebec9a8f7ab8d4246683a0acddf24ce77144254a5dc04274cb02bb68de",
+    "https://parts.nissanusa.com/parts/nissan-shoe-set-parking-brake-44060ze00a": "c17a2eb0960dbab5eda8eff99b0c5b777ae551a67141049502219dbde6764254"
+  },
+  "scope": "Exact factual product, original OE, model names and image references captured from primary sources; no prices or supplier costs"
+}

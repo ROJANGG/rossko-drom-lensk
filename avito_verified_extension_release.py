@@ -64,13 +64,16 @@ def validate_manifest(manifest):
         photos.add(im['sha256']);keys.add(k)
     return records
 def load_source_cache(record,base=None,now=None):
-    """Only today's independently captured NGK primary-source facts, max 3h."""
+    """Hash-pinned, independently captured primary-source facts, max 3h."""
     cache=record.get('source_cache')
-    if record['source_kind']!='ngk' or not cache:raise ValueError('No verified primary-source cache')
-    if not re.fullmatch(r'input/avito-ngk-source-cache/[A-Z0-9]+\.json',cache['path']):raise ValueError('Invalid source-cache path')
+    kind=record['source_kind']
+    if kind not in ('ngk','stellox') or not cache:raise ValueError('No verified primary-source cache')
+    if not re.fullmatch(r'input/avito-'+kind+r'-source-cache/[A-Z0-9]+\.json',cache['path']):raise ValueError('Invalid source-cache path')
     path=(base or Path(__file__).parent)/cache['path'];raw=path.read_bytes()
     if hashlib.sha256(raw).hexdigest()!=cache['sha256']:raise ValueError('Primary-source cache hash mismatch')
     proof=json.loads(raw);stamp=datetime.fromisoformat(proof['verified_at_utc']);now=now or datetime.now(timezone.utc)
+    if kind=='stellox' and (not record.get('oe_fitment_page') or set(proof.get('extra_pages',{}))!={record['oe_fitment_page']}):
+        raise ValueError('Cached automaker applicability source mismatch')
     if stamp.tzinfo is None or not timedelta(0)<=now-stamp<=timedelta(hours=3):raise ValueError('Primary-source cache expired')
     if (canon(proof['article'])!=canon(record['article']) or proof['manufacturer_page']!=record['manufacturer_page']
             or proof['oem_source']!=record['oem_source'] or proof['photo_sha256']!=record['images'][0]['sha256']):
@@ -145,7 +148,7 @@ def prepare_photo(record,place):
         page=get(record['manufacturer_page']).text
     except requests.RequestException:
         proof,cache_photo=load_source_cache(record)
-        page=proof['product_html'];extra={record['oem_source']:proof['oem_html']}
+        page=proof['product_html'];extra=proof.get('extra_pages') or {record['oem_source']:proof['oem_html']}
         verification='same_day_primary_source_cache_max_3h'
     validate_source(record,page,extra)
     image=record['images'][0]

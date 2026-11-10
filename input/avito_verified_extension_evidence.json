@@ -1852,7 +1852,11 @@
         "TITAN",
         "ARMADA"
       ],
-      "oe_fitment_page": "https://parts.nissanusa.com/parts/nissan-shoe-set-parking-brake-44060ze00a"
+      "oe_fitment_page": "https://parts.nissanusa.com/parts/nissan-shoe-set-parking-brake-44060ze00a",
+      "source_cache": {
+        "path": "input/avito-stellox-source-cache/000605SX.json",
+        "sha256": "a1d74c0ece922869a631ee01bd63749ba1d3dd195b8f498168d513dd6db764c8"
+      }
     }
   ],
   "blocked": [
