@@ -1,0 +1,118 @@
+{
+  "checked_at_utc": "2026-11-11T11:14:59.231965+00:00",
+  "active_ads": 234,
+  "archived_ids": 243,
+  "raw_and_CDN_identical": true,
+  "xml_sha256": "9e538e5e5767ff34c6429d2bc8372682e6c5651507b752642fd76ad9a2a30fec",
+  "all_live_ids_in_archive": true,
+  "whole_XML_unchanged_this_continuation": true,
+  "new_ads_published_this_continuation": 0,
+  "scope_count": 95,
+  "status_counts": {
+    "ADDED_TO_XML": 46,
+    "BLOCKED": 34,
+    "ALREADY_IN_FEED": 2,
+    "SOURCE_VERIFIED_API_DELIVERY_NOT_ZERO": 13
+  },
+  "source_review_approved": 59,
+  "source_blocked": 34,
+  "pending_fresh_zero_day_API": [
+    {
+      "brand": "Bosch",
+      "article": "0250201055",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250202142",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250403009",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1001",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1005",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1006",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1007",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1008",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1009",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1010",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1011",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1012",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250603001",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    }
+  ],
+  "full_personal_API_check": {
+    "run_id": 43003816102,
+    "confirmed": 195,
+    "retained_unconfirmed_prices": 39,
+    "reason": "network_errors",
+    "prices_changed": 0
+  },
+  "latest_supplier_stock_check": {
+    "run_id": 43008458761,
+    "checked": 234,
+    "removed": 0,
+    "source_price_matched": 231,
+    "prices_retained_unverified": 3
+  },
+  "final_release_run_id": 43009899988,
+  "tests_passed": 43,
+  "private_API_costs_published": false,
+  "Drom_changed": false,
+  "Avito_import_and_moderation": "NOT_CHECKED"
+}
