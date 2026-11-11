@@ -1,5 +1,5 @@
 name: Avito - release only individually verified first-95 manufacturer SKUs
-# Review exact Bosch 0250603001 photo; expose sanitized API statuses for pending records.
+# Verify exact Bosch/ERA primary hosts and sanitized pending-SKU API statuses.
 on:
   workflow_dispatch:
   push:
