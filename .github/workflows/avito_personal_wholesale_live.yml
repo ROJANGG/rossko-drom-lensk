@@ -1,5 +1,6 @@
 name: Avito Irkutsk - twice daily personal ROSSKO wholesale API repricing
 # Avito only. No Drom updates and no API buying costs in published files.
+# Recheck changed supplier prices on 2026-11-11.
 # Scheduled API checks are independent from the four daily supplier-stock runs.
 on:
   schedule:
