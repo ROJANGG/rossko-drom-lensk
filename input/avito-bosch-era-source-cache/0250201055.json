@@ -1,0 +1,36 @@
+{
+  "verified_at_utc": "2026-11-11T10:28:57.230736+00:00",
+  "bosch_article": "0250201055",
+  "bosch_pdf": {
+    "url": "https://www.boschautoparts.com/o/commerce-media/accounts/-1/attachments/9469181?download=true",
+    "sha256": "58953afd44341ff1d41992cebe26e8b5eaa113d804f478f30fa89ba048e90d5b",
+    "page": 1,
+    "exact_table_row": "0250201055 11.5 4 M 12 x 1,25 12 15-25 69 23 M5 6 63"
+  },
+  "era_pdf": {
+    "url": "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+    "sha256": "b31b745828503ab7e27f1f2525b968c02141b3dc19ea0c75d19a86523f716952",
+    "page": 82
+  },
+  "era_row": {
+    "era_article": "886047",
+    "bosch_article": "0250201055",
+    "oem": "0011593601",
+    "oem_make": "MERCEDES-BENZ"
+  },
+  "fitment_models": [
+    "Mercedes-Benz Sprinter",
+    "Mercedes-Benz Vito"
+  ],
+  "supplier_photo": {
+    "brand": "Bosch",
+    "article": "0250201055",
+    "nomenclature": "NSIN0023111219",
+    "url": "https://imgs.rossko.ru/B8/94/NSIN0023111219/2.jpg"
+  },
+  "photo_map_source": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/main/input/photos.csv",
+  "photo_map_sha256": "c32acafba91aa38f03689f1fb9e3530ea40368520ab687a4f6ba4fb7a8232661",
+  "photo_filename": "0250201055.jpg",
+  "photo_sha256": "1ed1bdcc95387c158574eaaae1073b27e618adfa53f1479021ae96c232d6bde6",
+  "review": "Selected ERA table row visually reviewed; Bosch specifications independently checked. Original colour ROSSKO photo, not ERA catalogue drawing."
+}

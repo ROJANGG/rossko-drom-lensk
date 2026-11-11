@@ -1930,6 +1930,122 @@
         "path": "input/avito-stellox-source-cache/174100SX.json",
         "sha256": "01c7f4e0b53c4b6310c3bbd82733978a6964d1718805fa6c4ee8f0098c2a06c2"
       }
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250201055",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.boschautoparts.com/o/commerce-media/accounts/-1/attachments/9469181?download=true",
+      "exact_sku_verified": true,
+      "oem": "0011593601",
+      "oem_source": "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+      "oem_source_label": "ERA manufacturer catalogue exact compatible Bosch/automaker OE row; original PDF hash and page retained",
+      "fitment": "Применяемость (каталоги и данные ROSSKO, выборка): Mercedes-Benz Sprinter, Mercedes-Benz Vito. OEM 0011593601. Технические характеристики Bosch: 11,5 В, длина 69 мм, резьба M12 x 1.25. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+        "https://www.boschautoparts.com/o/commerce-media/accounts/-1/attachments/9469181?download=true"
+      ],
+      "fitment_tokens": [
+        "Mercedes-Benz Sprinter",
+        "Mercedes-Benz Vito"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/B8/94/NSIN0023111219/2.jpg",
+          "sha256": "1ed1bdcc95387c158574eaaae1073b27e618adfa53f1479021ae96c232d6bde6",
+          "width": 533,
+          "height": 400
+        }
+      ],
+      "source_kind": "bosch_era",
+      "manufacturer_display_article": "0250201055",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSIN0023111219",
+      "source_cache": {
+        "path": "input/avito-bosch-era-source-cache/0250201055.json",
+        "sha256": "f14042e4cdd0db9253d78328795e498616ae406619209442eb3d62725519d58a"
+      },
+      "era_reference_article": "886047"
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250202142",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.boschautoparts.com/o/commerce-media/accounts/-1/attachments/9469181?download=true",
+      "exact_sku_verified": true,
+      "oem": "0011593701",
+      "oem_source": "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+      "oem_source_label": "ERA manufacturer catalogue exact compatible Bosch/automaker OE row; original PDF hash and page retained",
+      "fitment": "Применяемость (каталоги и данные ROSSKO, выборка): Mercedes-Benz C-Class, Mercedes-Benz E-Class, Mercedes-Benz Vito. OEM 0011593701. Технические характеристики Bosch: 11,5 В, длина 130 мм, резьба M10 x 1.0. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+        "https://www.boschautoparts.com/o/commerce-media/accounts/-1/attachments/9469181?download=true"
+      ],
+      "fitment_tokens": [
+        "Mercedes-Benz C-Class",
+        "Mercedes-Benz E-Class",
+        "Mercedes-Benz Vito"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/81/92/NSIN0023090524/2.jpg",
+          "sha256": "1b05945b8ade081dd6b6770e1d28cb93ed60316952faef6c391827d03170b8a6",
+          "width": 533,
+          "height": 400
+        }
+      ],
+      "source_kind": "bosch_era",
+      "manufacturer_display_article": "0250202142",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSIN0023090524",
+      "source_cache": {
+        "path": "input/avito-bosch-era-source-cache/0250202142.json",
+        "sha256": "fd6a193c391ea84c76764d1b9b1dd0496cd0a70610ef9406a1e7adeea142ef0d"
+      },
+      "era_reference_article": "886016"
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250403009",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://www.boschautoparts.com/o/commerce-media/accounts/-1/attachments/9469181?download=true",
+      "exact_sku_verified": true,
+      "oem": "03L963319A",
+      "oem_source": "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+      "oem_source_label": "ERA manufacturer catalogue exact compatible Bosch/automaker OE row; original PDF hash and page retained",
+      "fitment": "Применяемость (каталоги и данные ROSSKO, выборка): VW Golf, VW Transporter, Audi A3. OEM 03L963319A. Технические характеристики Bosch: 4,4 В, длина 130 мм, резьба M10 x 1.0. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+        "https://www.boschautoparts.com/o/commerce-media/accounts/-1/attachments/9469181?download=true"
+      ],
+      "fitment_tokens": [
+        "VW Golf",
+        "VW Transporter",
+        "Audi A3"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/A6/6E/NSII0000362451/2.jpg",
+          "sha256": "93fc87b6bfb0a4d7147b131cd163468266f585c5b859d814f25c3ea7183f4fb0",
+          "width": 533,
+          "height": 400
+        }
+      ],
+      "source_kind": "bosch_era",
+      "manufacturer_display_article": "0250403009",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0000362451",
+      "source_cache": {
+        "path": "input/avito-bosch-era-source-cache/0250403009.json",
+        "sha256": "9f92d5867d8a4709246f2e47c83c7a9879b4a5c7e866dc2c595d74bd89d7ac43"
+      },
+      "era_reference_article": "886032"
     }
   ],
   "blocked": [
@@ -2095,22 +2211,7 @@
     ],
     [
       "Bosch",
-      "0250201055",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "Bosch",
-      "0250202142",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "Bosch",
       "0250402002",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "Bosch",
-      "0250403009",
       "SOURCE_NOT_VERIFIED"
     ],
     [

@@ -1,5 +1,5 @@
 name: Avito - release only individually verified first-95 manufacturer SKUs
-# Uses pre-captured supplier facts only; never requests the CAPTCHA-protected source.
+# Adds exact Bosch/ERA PDF facts and fresh supplier nomenclature checks; no protected-site requests.
 on:
   workflow_dispatch:
   push:
@@ -49,16 +49,20 @@ jobs:
           cp extension/avito_active_feed_refresh.py generator/
           cp extension/avito_wholesale_live_api_refresh.py generator/
           cp extension/avito_verified_extension_release.py generator/
+          cp extension/avito_bosch_era_evidence.py generator/
           cp extension/input/avito_verified_extension_evidence.json generator/input/
           cp -r extension/input/avito-ngk-source-cache generator/input/
           cp -r extension/input/avito-stellox-source-cache generator/input/
+          cp -r extension/input/avito-bosch-era-source-cache generator/input/
           cp extension/tests/test_avito_verified_extension.py generator/tests/
+          cp extension/tests/test_avito_bosch_era_evidence.py generator/tests/
       - name: Verify original stock and price protections plus exact-source extension guards
         working-directory: generator
         run: |
           python -m unittest discover -s tests -p 'test_avito_active_feed_refresh.py' -v
           python -m unittest discover -s tests -p 'test_avito_wholesale_live_api_refresh.py' -v
           python -m unittest discover -s tests -p 'test_avito_verified_extension.py' -v
+          python -m unittest discover -s tests -p 'test_avito_bosch_era_evidence.py' -v
       - name: Recheck manufacturer OEM, applicability, exact image bytes and current ROSSKO account stock
         id: candidate
         env:

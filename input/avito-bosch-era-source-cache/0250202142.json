@@ -1,0 +1,37 @@
+{
+  "verified_at_utc": "2026-11-11T10:28:57.230736+00:00",
+  "bosch_article": "0250202142",
+  "bosch_pdf": {
+    "url": "https://www.boschautoparts.com/o/commerce-media/accounts/-1/attachments/9469181?download=true",
+    "sha256": "58953afd44341ff1d41992cebe26e8b5eaa113d804f478f30fa89ba048e90d5b",
+    "page": 1,
+    "exact_table_row": "0250202142 11.5 4 M 10 x 1.0 10 10-15 130 28 Pin 5 63"
+  },
+  "era_pdf": {
+    "url": "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+    "sha256": "b31b745828503ab7e27f1f2525b968c02141b3dc19ea0c75d19a86523f716952",
+    "page": 74
+  },
+  "era_row": {
+    "era_article": "886016",
+    "bosch_article": "0250202142",
+    "oem": "0011593701",
+    "oem_make": "MERCEDES-BENZ"
+  },
+  "fitment_models": [
+    "Mercedes-Benz C-Class",
+    "Mercedes-Benz E-Class",
+    "Mercedes-Benz Vito"
+  ],
+  "supplier_photo": {
+    "brand": "Bosch",
+    "article": "0250202142",
+    "nomenclature": "NSIN0023090524",
+    "url": "https://imgs.rossko.ru/81/92/NSIN0023090524/2.jpg"
+  },
+  "photo_map_source": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/main/input/photos.csv",
+  "photo_map_sha256": "c32acafba91aa38f03689f1fb9e3530ea40368520ab687a4f6ba4fb7a8232661",
+  "photo_filename": "0250202142.jpg",
+  "photo_sha256": "1b05945b8ade081dd6b6770e1d28cb93ed60316952faef6c391827d03170b8a6",
+  "review": "Selected ERA table row visually reviewed; Bosch specifications independently checked. Original colour ROSSKO photo, not ERA catalogue drawing."
+}

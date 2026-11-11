@@ -20,6 +20,7 @@ from avito_pricing import progressive_price
 from rossko_category_wholesale_export import audit_one
 from rossko_wholesale_private_audit import rpc,zeep_client,choose_delivery,retry_transient
 from update_prices import load_config
+from avito_bosch_era_evidence import prepare_photo as prepare_bosch_photo, verify_supplier_bindings
 
 REPO='ROJANGG/rossko-drom-lensk'
 BRANCH='avito-irkutsk-feed'
@@ -28,9 +29,10 @@ TYPES={'Колодки барабанные':('Колодки барабанны
        'Свечи накала':('Свеча накаливания','новая','Двигатель')}
 PAGE_HOSTS={'stellox':{'ru.stellox.com'},'lynx':{'ecatalogue.lynxauto.jp'},
             'transmaster':{'transmaster.ru'},'startvolt':{'startvolt.com'},
-            'ngk':{'www.ngkpartfinder.co.uk'},'febest':{'febest.de'}}
+            'ngk':{'www.ngkpartfinder.co.uk'},'febest':{'febest.de'},
+            'bosch_era':{'www.boschautoparts.com'}}
 IMAGE_HOSTS={'ru.stellox.com','ecatalogue.lynxauto.jp','api.transmaster.ru',
-             's3.carvilleshop.ru','cdn.carvilleshop.ru','www.ngkpartfinder.co.uk','static.febest.de'}
+             's3.carvilleshop.ru','cdn.carvilleshop.ru','www.ngkpartfinder.co.uk','static.febest.de','imgs.rossko.ru'}
 def canon(v):return re.sub(r'[^A-Z0-9]','',str(v).upper())
 def stable_id(record):
     return 'irk-'+hashlib.sha256(f"{record['category']}|{record['brand'].casefold()}|{record['article'].casefold()}".encode()).hexdigest()[:22]
@@ -150,6 +152,8 @@ def validate_source(record,page,extra_pages=None):
         if canon(token) not in canon(fit_text):raise ValueError('Manufacturer applicability changed')
     return True
 def prepare_photo(record,place):
+    if record['source_kind']=='bosch_era':
+        return prepare_bosch_photo(record,place,stable_id(record),f'https://raw.githubusercontent.com/{REPO}/{BRANCH}/avito-images/')
     extra={};cache_photo=None;verification='current_manufacturer_http'
     if record.get('rossko_fitment_page'):
         # These supplier facts were captured before the site requested a
@@ -228,7 +232,7 @@ def build(args):
     if len(old_ids)!=len(old) or len(archive_ids)!=len(prior) or not old_ids<=archive_ids:raise ValueError('Unsafe starting IDs')
     existing={seller_sku(x)[0] for x in prior};records=[r for r in records if key(r['brand'],r['article']) not in existing]
     config=load_config(args.config);book=load_fresh_price(config,args.config.parent,2)
-    try:source=supplier_products(book,config);add_raw_source_costs(book,source)
+    try:source=supplier_products(book,config);add_raw_source_costs(book,source);verify_supplier_bindings(book,records)
     finally:book.close()
     skipped=[];prepared=[]
     def prepare(r):
