@@ -1,17 +1,12 @@
 {
-  "time_utc": "2026-11-11T10:47:58.712623+00:00",
+  "time_utc": "2026-11-11T23:34:38.311959+00:00",
   "approved_total": 243,
   "available_approved_zero_day": 234,
   "api_requests_attempted": 234,
-  "api_wholesale_confirmed": 195,
-  "api_not_confirmed": 39,
-  "success_rate": 0.8333,
-  "failures": {
-    "сбой_API_SSLError": 20,
-    "сбой_API_ConnectionError": 16,
-    "сбой_API_ReadTimeout": 1,
-    "сбой_API_ConnectTimeout": 2
-  },
+  "api_wholesale_confirmed": 234,
+  "api_not_confirmed": 0,
+  "success_rate": 1.0,
+  "failures": {},
   "legacy_verified_retail_map_entries": 1077,
   "runtime_retail_map_entries": 1077,
   "min_acceptable_success_rate": 0.7,
