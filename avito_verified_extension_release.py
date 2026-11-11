@@ -32,7 +32,7 @@ TYPES={'Колодки барабанные':('Колодки барабанны
 PAGE_HOSTS={'stellox':{'ru.stellox.com'},'lynx':{'ecatalogue.lynxauto.jp'},
             'transmaster':{'transmaster.ru'},'startvolt':{'startvolt.com'},
             'ngk':{'www.ngkpartfinder.co.uk'},'febest':{'febest.de'},
-            'tatsumi_rossko':{'tatsumi.ru'},'bosch_era':{'www.boschautoparts.com'}}
+            'tatsumi_rossko':{'tatsumi.ru'},'bosch_era':{'www.boschautoparts.com','www.eraspares.de'}}
 IMAGE_HOSTS={'ru.stellox.com','ecatalogue.lynxauto.jp','api.transmaster.ru',
              's3.carvilleshop.ru','cdn.carvilleshop.ru','www.ngkpartfinder.co.uk','static.febest.de','imgs.rossko.ru'}
 def canon(v):return re.sub(r'[^A-Z0-9]','',str(v).upper())
