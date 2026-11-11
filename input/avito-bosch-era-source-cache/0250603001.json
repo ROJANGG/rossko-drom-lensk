@@ -1,0 +1,30 @@
+{
+  "verified_at_utc": "2026-11-11T10:28:57.230736+00:00",
+  "bosch_article": "0250603001",
+  "era_pdf": {
+    "url": "https://www.eraspares.de/wp-content/uploads/2022/08/Catalogo_istituzionale_candelette_EN.pdf",
+    "sha256": "b31b745828503ab7e27f1f2525b968c02141b3dc19ea0c75d19a86523f716952",
+    "page": 90
+  },
+  "era_row": {
+    "era_article": "886081",
+    "bosch_article": "0250603001",
+    "oem": "1106500Q0B",
+    "oem_make": "NISSAN"
+  },
+  "fitment_models": [
+    "Nissan Qashqai",
+    "Nissan X-Trail",
+    "Renault Megane"
+  ],
+  "supplier_photo": {
+    "brand": "Bosch",
+    "article": "0250603001",
+    "nomenclature": "NSIN0011091579",
+    "url": "https://imgs.rossko.ru/75/57/NSIN0011091579/1.jpg"
+  },
+  "photo_map_source": "https://rossko.ru/card/bosch-0250603001-nsin0011091579/",
+  "photo_filename": "0250603001.jpg",
+  "photo_sha256": "50e0d9d62ae3caf49b946977a86e703d5241443f2ae8ad54c2326c2a8f45abe2",
+  "review": "ERA manufacturer exact Bosch/OE/vehicle row visually reviewed on PDF page 90; real Bosch metal plug photo reviewed from exact ROSSKO product card, not the ERA line drawing."
+}

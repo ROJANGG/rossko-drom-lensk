@@ -270,7 +270,7 @@ def build(args):
               'supplier_stock':int(stock['Остаток РОССКО']),'supplier_delivery_days':0}
         quote=audit_one(api,credentials,delivery,item)
         if quote.get('status')!='опт_Иркутск_подтвержден' or not quote.get('api_irkutsk_stock_ids'):
-            skipped.append({'brand':record['brand'],'article':record['article'],'reason':'fresh_personal_API_not_confirmed'});continue
+            skipped.append({'brand':record['brand'],'article':record['article'],'reason':'fresh_personal_API_not_confirmed','api_status':str(quote.get('status','unknown'))});continue
         buying=price_decimal(quote.get('api_irkutsk_same_delivery_price_rub'))
         if (buying is None or not cost/Decimal(10)<=buying<=cost*Decimal(2)
                 or price_decimal(quote.get('supplier_list_price_rub'))!=cost):raise ValueError('Implausible/mismatched API quote')

@@ -30,16 +30,17 @@ def validate_proof(record, proof, now=None):
     if not (article == canon(proof['bosch_article']) == canon(proof['era_row']['bosch_article'])
             == canon(proof['supplier_photo']['article'])):
         raise ValueError('Bosch/ERA/supplier exact article mismatch')
-    if (proof['bosch_pdf']['exact_table_row'].split()[0] != record['article']
+    if (proof.get('bosch_pdf') and proof['bosch_pdf']['exact_table_row'].split()[0] != record['article']
             or proof['era_row']['era_article'] != record['era_reference_article']):
         raise ValueError('Primary catalogue row identity mismatch')
     if (canon(record['oem']) != canon(proof['era_row']['oem'])
-            or proof['era_row']['oem_make'] not in ('MERCEDES-BENZ', 'VW', 'BMW')):
+            or proof['era_row']['oem_make'] not in ('MERCEDES-BENZ', 'VW', 'BMW', 'NISSAN')):
         raise ValueError('Original automaker OEM reference mismatch')
-    if (record['manufacturer_page'] != BOSCH_PDF or proof['bosch_pdf']['url'] != BOSCH_PDF
+    if (record['manufacturer_page'] != (BOSCH_PDF if proof.get('bosch_pdf') else ERA_PDF)
+            or (proof.get('bosch_pdf') and proof['bosch_pdf']['url'] != BOSCH_PDF)
             or proof['era_pdf']['url'] != ERA_PDF or record['oem_source'] != ERA_PDF):
         raise ValueError('Wrong primary catalogue URL')
-    for source in (proof['bosch_pdf'], proof['era_pdf']):
+    for source in [proof['era_pdf']]+([proof['bosch_pdf']] if proof.get('bosch_pdf') else []):
         if not re.fullmatch('[a-f0-9]{64}', source['sha256']) or source['page'] < 1:
             raise ValueError('Missing original PDF hash/page')
     photo = proof['supplier_photo']

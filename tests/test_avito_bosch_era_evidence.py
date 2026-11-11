@@ -22,6 +22,15 @@ class BoschEvidenceTests(unittest.TestCase):
     def test_reviewed_primary_facts_and_actual_photo_hash(self):
         load_evidence(self.record, base=BASE, now=self.now)
 
+    def test_primary_era_only_record_binds_exact_bosch_oe_and_photo(self):
+        records = json.loads(MANIFEST.read_text())['items']
+        record = next(r for r in records if r['article']=='0250603001')
+        proof, photo = load_evidence(record, base=BASE, now=self.now)
+        self.assertEqual(proof['era_pdf']['page'],90)
+        self.assertTrue(photo.is_file())
+        proof['era_row']['bosch_article']='0250603002'
+        with self.assertRaises(ValueError): validate_proof(record,proof,self.now)
+
     def test_stale_or_future_capture_is_rejected(self):
         observed = datetime.fromisoformat(self.proof['verified_at_utc'])
         for now in (observed-timedelta(seconds=1), observed+timedelta(hours=3, seconds=1)):
