@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "reviewed_utc": "2026-11-10",
+  "reviewed_utc": "2026-11-11",
   "scope_skus": [
     {
       "category": "Колодки барабанные",
@@ -2046,6 +2046,339 @@
         "sha256": "9f92d5867d8a4709246f2e47c83c7a9879b4a5c7e866dc2c595d74bd89d7ac43"
       },
       "era_reference_article": "886032"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1001",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1001/",
+      "exact_sku_verified": true,
+      "oem": "N10140104",
+      "oem_source": "https://tatsumi.ru/catalog/thq1001/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): VAUXHALL Vivaro A Combi (X83); Vivaro 1.9 DTI; F9Q 760. VAUXHALL Vivaro A Van (X83); Vivaro 1.9 DTI; F9Q 760. OPEL Vivaro Combi (X83); Vivaro 1.9 DTI; F9Q 760. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1001/"
+      ],
+      "fitment_tokens": [
+        "VAUXHALL Vivaro A Combi (X83); Vivaro 1.9 DTI; F9Q 760",
+        "VAUXHALL Vivaro A Van (X83); Vivaro 1.9 DTI; F9Q 760",
+        "OPEL Vivaro Combi (X83); Vivaro 1.9 DTI; F9Q 760"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/45/41/NSII0027565363/3.jpg",
+          "sha256": "368453fed90bf5a1479281c156f3784b25e8e8cb38c643357fd68d15d845afa1",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1001",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565363",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1001.json",
+        "sha256": "217285120d9a45d6880fa2d9d44c04c60d3b04e947708c8fed17e9c4c763f3fc"
+      }
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1005",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1005/",
+      "exact_sku_verified": true,
+      "oem": "5960G6",
+      "oem_source": "https://tatsumi.ru/catalog/thq1005/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): JAGUAR X-Type Estate (X400); X-Type 2.2 D; QJBA. JAGUAR X-Type (X400); X-Type 2.2 D; LJ46G. JAGUAR X-Type (X400); X-Type 2.2 D; LJ46G. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1005/"
+      ],
+      "fitment_tokens": [
+        "JAGUAR X-Type Estate (X400); X-Type 2.2 D; QJBA",
+        "JAGUAR X-Type (X400); X-Type 2.2 D; LJ46G",
+        "JAGUAR X-Type (X400); X-Type 2.2 D; LJ46G"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/CF/DF/NSII0027565367/3.jpg",
+          "sha256": "ac6cc9fb85f8998b345e263d6ea577b5df304710f2e6ffd8bd7938c8de0dbec2",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1005",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565367",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1005.json",
+        "sha256": "206ed794657ae6c1400d4511af9171442d2b4709f09f902689dd219332a0810e"
+      }
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1006",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1006/",
+      "exact_sku_verified": true,
+      "oem": "596088",
+      "oem_source": "https://tatsumi.ru/catalog/thq1006/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): JAGUAR X-Type Estate (X400); X-Type 2.0 D; FMBB. JAGUAR X-Type (X400); X-Type 2.0 D; FMBA. JAGUAR X-Type (X400); X-Type 2.0 D; FMBB. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1006/"
+      ],
+      "fitment_tokens": [
+        "JAGUAR X-Type Estate (X400); X-Type 2.0 D; FMBB",
+        "JAGUAR X-Type (X400); X-Type 2.0 D; FMBA",
+        "JAGUAR X-Type (X400); X-Type 2.0 D; FMBB"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/FD/24/NSII0027565368/3.jpg",
+          "sha256": "5ea1829fb32edec1587eef06be2d58205c819f9ade63f2b6c24ec6a0f9abdb4a",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1006",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565368",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1006.json",
+        "sha256": "93db9c54f9d8f7a5673e08a07bc32900c19ea41c396ace09b56827101c1dbb08"
+      }
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1007",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1007/",
+      "exact_sku_verified": true,
+      "oem": "059963319E",
+      "oem_source": "https://tatsumi.ru/catalog/thq1007/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): VW Touareg (7LA, 7L6, 7L7); Touareg 3.0 V6 TDI; CATA. VW Touareg (7LA, 7L6, 7L7); Touareg 3.0 V6 TDI; CASC. VW Touareg (7LA, 7L6, 7L7); Touareg 3.0 V6 TDI; CASA. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1007/"
+      ],
+      "fitment_tokens": [
+        "VW Touareg (7LA, 7L6, 7L7); Touareg 3.0 V6 TDI; CATA",
+        "VW Touareg (7LA, 7L6, 7L7); Touareg 3.0 V6 TDI; CASC",
+        "VW Touareg (7LA, 7L6, 7L7); Touareg 3.0 V6 TDI; CASA"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/9F/CC/NSII0027565369/3.jpg",
+          "sha256": "a94efe18e0d2cb1b6d5c19aa9928294bfeb0c16d293e40ac3ae851f4a3f2021b",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1007",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565369",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1007.json",
+        "sha256": "80ce58af5088e7eadd7896c8edea8e3172b4e42e0d4b795695c7932decd8fc3e"
+      }
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1008",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1008/",
+      "exact_sku_verified": true,
+      "oem": "A0011592801",
+      "oem_source": "https://tatsumi.ru/catalog/thq1008/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): MERCEDES-BENZ Vito Bus (W639); Vito 115 CDI 4x4; OM 646.982. MERCEDES-BENZ Vito Bus (W639); Vito 115 CDI; OM 646.980. MERCEDES-BENZ Vito Bus (W639); Vito 115 CDI; OM 646.982. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1008/"
+      ],
+      "fitment_tokens": [
+        "MERCEDES-BENZ Vito Bus (W639); Vito 115 CDI 4x4; OM 646.982",
+        "MERCEDES-BENZ Vito Bus (W639); Vito 115 CDI; OM 646.980",
+        "MERCEDES-BENZ Vito Bus (W639); Vito 115 CDI; OM 646.982"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/E7/E8/NSII0027565370/3.jpg",
+          "sha256": "a4222be87c66e799a87df7bdcc8cbce9b2950ca663b8d2db3a4456301f57fbab",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1008",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565370",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1008.json",
+        "sha256": "ea464bacd8f5685ef5d7e75082447964ddfe4294e3642e72110946d9002789cc"
+      }
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1009",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1009/",
+      "exact_sku_verified": true,
+      "oem": "8200682592",
+      "oem_source": "https://tatsumi.ru/catalog/thq1009/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): RENAULT Twingo II (CN0_); Twingo 1.5 dCi 90; K9K 820. RENAULT Twingo II (CN0_); Twingo 1.5 dCi 75; K9K 820. RENAULT Twingo II Van / Hatchback (CNO_); Twingo 1.5 dCi (CN03); K9K 820. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1009/"
+      ],
+      "fitment_tokens": [
+        "RENAULT Twingo II (CN0_); Twingo 1.5 dCi 90; K9K 820",
+        "RENAULT Twingo II (CN0_); Twingo 1.5 dCi 75; K9K 820",
+        "RENAULT Twingo II Van / Hatchback (CNO_); Twingo 1.5 dCi (CN03); K9K 820"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/8A/90/NSII0027565371/3.jpg",
+          "sha256": "ce5a3609bae6b11704191a32a9461ca968dd4028739f84ba1b6e0c58dd45e0ff",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1009",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565371",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1009.json",
+        "sha256": "7823e9834c12634d7f25708be8ac25fd2c78aa155a5a8488ab2991eda13254b6"
+      }
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1010",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1010/",
+      "exact_sku_verified": true,
+      "oem": "367104A000",
+      "oem_source": "https://tatsumi.ru/catalog/thq1010/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): KIA Sorento I (JC); Sorento 2.5 CRDi; D4CB. KIA Sorento I (JC); Sorento 2.5 CRDi; D4CB. KIA Sorento I (JC); Sorento 2.5 CRDi; D4CB. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1010/"
+      ],
+      "fitment_tokens": [
+        "KIA Sorento I (JC); Sorento 2.5 CRDi; D4CB",
+        "KIA Sorento I (JC); Sorento 2.5 CRDi; D4CB",
+        "KIA Sorento I (JC); Sorento 2.5 CRDi; D4CB"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/A2/9A/NSII0027565372/3.jpg",
+          "sha256": "3b055c6bf4e51bbb50c16df09343d6d999de313925c2e30a067db264d6b1d788",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1010",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565372",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1010.json",
+        "sha256": "3980cde72a5603f0079a3339c854230be45be0dc9a75731b01a862dab91fe189"
+      }
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1011",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1011/",
+      "exact_sku_verified": true,
+      "oem": "12237786869",
+      "oem_source": "https://tatsumi.ru/catalog/thq1011/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): BMW X6 (E71, E72); X6 xDrive 35 d; M57 D30 (306D5). BMW X6 (E71, E72); X6 35 d; M57 D30 (306D5). BMW X6 (E71, E72); X6 30 d; M57 D30 (306D3). Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1011/"
+      ],
+      "fitment_tokens": [
+        "BMW X6 (E71, E72); X6 xDrive 35 d; M57 D30 (306D5)",
+        "BMW X6 (E71, E72); X6 35 d; M57 D30 (306D5)",
+        "BMW X6 (E71, E72); X6 30 d; M57 D30 (306D3)"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/45/41/NSII0027565373/3.jpg",
+          "sha256": "8ac415b36eb486a5841dbef40f533441228d07c15be28a3329382172e0fcbcf9",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1011",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565373",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1011.json",
+        "sha256": "e738202b0e5e078464fd93c0582c74c095b318848e080a406a891efc63c07e7f"
+      }
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1012",
+      "category": "Свечи накала",
+      "manufacturer_page": "https://tatsumi.ru/catalog/thq1012/",
+      "exact_sku_verified": true,
+      "oem": "1685165512",
+      "oem_source": "https://tatsumi.ru/catalog/thq1012/",
+      "oem_source_label": "TATSUMI manufacturer OES number field",
+      "fitment": "Применяемость (каталог TATSUMI, выборка): KUBOTA RTV900; RTV900 Diesel; -. KUBOTA RTV1140; RTV1140 Diesel; -. KUBOTA RTV1100; RTV1100 Diesel; -. Перед покупкой сверьте OEM и VIN.",
+      "fitment_sources": [
+        "https://tatsumi.ru/catalog/thq1012/"
+      ],
+      "fitment_tokens": [
+        "KUBOTA RTV900; RTV900 Diesel; -",
+        "KUBOTA RTV1140; RTV1140 Diesel; -",
+        "KUBOTA RTV1100; RTV1100 Diesel; -"
+      ],
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "photo_reviewed_utc": "2026-11-11",
+      "images": [
+        {
+          "url": "https://imgs.rossko.ru/72/86/NSII0027565374/3.jpg",
+          "sha256": "1debbb7ab083526fbab17ceee62ade42c609e06ccd9b341fce3679129b82503a",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "source_kind": "tatsumi_rossko",
+      "manufacturer_display_article": "THQ1012",
+      "pack_quantity": null,
+      "photo_supplier_nomenclature": "NSII0027565374",
+      "source_cache": {
+        "path": "input/avito-tatsumi-source-cache/THQ1012.json",
+        "sha256": "50776aa460bac071ec225a02a4b99911883f0384ef73b001023bce70bf15df80"
+      }
     }
   ],
   "blocked": [
@@ -2223,51 +2556,6 @@
       "Bosch",
       "0250603006",
       "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "TATSUMI",
-      "THQ1001",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1005",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1006",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1007",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1008",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1009",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1010",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1011",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1012",
-      "EXACT_PRODUCT_PHOTO_MISSING"
     ]
   ],
   "existing_verified_luzar_skus": [

@@ -1,0 +1,100 @@
+{
+  "verified_at_utc": "2026-11-11T10:59:10.807862+00:00",
+  "manufacturer": {
+    "article": "THQ1009",
+    "url": "https://tatsumi.ru/catalog/thq1009/",
+    "groups": {
+      "Артикул": "THQ1009",
+      "OES Номер": "8200682592",
+      "Кросс-номер": "NGK: 94103"
+    },
+    "fitment": [
+      [
+        "RENAULT",
+        "Twingo II (CN0_)",
+        "2010/2026",
+        "Twingo 1.5 dCi 90",
+        "K9K 820",
+        "1461",
+        "63/86"
+      ],
+      [
+        "RENAULT",
+        "Twingo II (CN0_)",
+        "2010/2026",
+        "Twingo 1.5 dCi 75",
+        "K9K 820",
+        "1461",
+        "55/75"
+      ],
+      [
+        "RENAULT",
+        "Twingo II Van / Hatchback (CNO_)",
+        "2010/2014",
+        "Twingo 1.5 dCi (CN03)",
+        "K9K 820",
+        "1461",
+        "55/75"
+      ],
+      [
+        "NISSAN",
+        "Tiida Hatchback (C13)",
+        "2014/2026",
+        "Tiida 1.5 dCi",
+        "K9K",
+        "1461",
+        "81/110"
+      ],
+      [
+        "RENAULT",
+        "Thalia III (L8_)",
+        "2013/2026",
+        "Thalia 1.5 dCi",
+        "K9K 612",
+        "1461",
+        "66/90"
+      ],
+      [
+        "RENAULT",
+        "Talisman (L2M_)",
+        "2015/2026",
+        "Talisman 1.5 dCi 110",
+        "K9K 646",
+        "1461",
+        "81/110"
+      ],
+      [
+        "RENAULT",
+        "Talisman Grandtour (KP_)",
+        "2016/2026",
+        "Talisman 1.5 dCi 110",
+        "K9K 648",
+        "1461",
+        "81/110"
+      ],
+      [
+        "RENAULT",
+        "Talisman Grandtour (KP_)",
+        "2016/2026",
+        "Talisman 1.5 dCi 110",
+        "K9K 647",
+        "1461",
+        "81/110"
+      ]
+    ],
+    "html_sha256": "e24298de9aa6f7291f77047bf28746bb915f3036d71db873e9039a237be1836a"
+  },
+  "supplier_photo": {
+    "article": "THQ1009",
+    "brand": "TATSUMI",
+    "nomenclature": "NSII0027565371",
+    "url": "https://imgs.rossko.ru/8A/90/NSII0027565371/3.jpg",
+    "card_url": "https://rossko.ru/card/tatsumi-thq1009-nsii0027565371/",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 515231,
+    "sha256": "ce5a3609bae6b11704191a32a9461ca968dd4028739f84ba1b6e0c58dd45e0ff"
+  }
+}

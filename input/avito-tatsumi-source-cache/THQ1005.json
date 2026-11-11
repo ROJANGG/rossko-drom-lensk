@@ -1,0 +1,100 @@
+{
+  "verified_at_utc": "2026-11-11T10:59:01.122706+00:00",
+  "manufacturer": {
+    "article": "THQ1005",
+    "url": "https://tatsumi.ru/catalog/thq1005/",
+    "groups": {
+      "Артикул": "THQ1005",
+      "OES Номер": "5960G6",
+      "Кросс-номер": "NGK: 4966"
+    },
+    "fitment": [
+      [
+        "JAGUAR",
+        "X-Type Estate (X400)",
+        "2005/2009",
+        "X-Type 2.2 D",
+        "QJBA",
+        "2198",
+        "114/155"
+      ],
+      [
+        "JAGUAR",
+        "X-Type (X400)",
+        "2007/2009",
+        "X-Type 2.2 D",
+        "LJ46G",
+        "2198",
+        "107/146"
+      ],
+      [
+        "JAGUAR",
+        "X-Type (X400)",
+        "2005/2009",
+        "X-Type 2.2 D",
+        "LJ46G",
+        "2198",
+        "114/155"
+      ],
+      [
+        "JAGUAR",
+        "X-Type (X400)",
+        "2007/2009",
+        "X-Type 2.2 D",
+        "QJBA",
+        "2198",
+        "107/146"
+      ],
+      [
+        "JAGUAR",
+        "X-Type (X400)",
+        "2005/2009",
+        "X-Type 2.2 D",
+        "QJBA",
+        "2198",
+        "114/155"
+      ],
+      [
+        "JAGUAR",
+        "X-Type Estate (X400)",
+        "2007/2009",
+        "X-Type 2.2 D",
+        "QJBA",
+        "2198",
+        "107/146"
+      ],
+      [
+        "JAGUAR",
+        "X-Type Estate (X400)",
+        "2007/2009",
+        "X-Type 2.2 D",
+        "LJ46G",
+        "2198",
+        "107/146"
+      ],
+      [
+        "JAGUAR",
+        "X-Type Estate (X400)",
+        "2005/2009",
+        "X-Type 2.2 D",
+        "LJ46G",
+        "2198",
+        "114/155"
+      ]
+    ],
+    "html_sha256": "0681a68b68d9cdd7487534ad11ecf5012347957ec7df97c2124982217e4e74e3"
+  },
+  "supplier_photo": {
+    "article": "THQ1005",
+    "brand": "TATSUMI",
+    "nomenclature": "NSII0027565367",
+    "url": "https://imgs.rossko.ru/CF/DF/NSII0027565367/3.jpg",
+    "card_url": "https://rossko.ru/card/tatsumi-thq1005-nsii0027565367/",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 510344,
+    "sha256": "ac6cc9fb85f8998b345e263d6ea577b5df304710f2e6ffd8bd7938c8de0dbec2"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "verified_at_utc": "2026-11-11T10:59:01.452634+00:00",
+  "manufacturer": {
+    "article": "THQ1001",
+    "url": "https://tatsumi.ru/catalog/thq1001/",
+    "groups": {
+      "Артикул": "THQ1001",
+      "OES Номер": "N10140104",
+      "Кросс-номер": "NGK: 5605"
+    },
+    "fitment": [
+      [
+        "VAUXHALL",
+        "Vivaro A Combi (X83)",
+        "2001/2006",
+        "Vivaro 1.9 DTI",
+        "F9Q 760",
+        "1870",
+        "74/101"
+      ],
+      [
+        "VAUXHALL",
+        "Vivaro A Van (X83)",
+        "2001/2006",
+        "Vivaro 1.9 DTI",
+        "F9Q 760",
+        "1870",
+        "74/101"
+      ],
+      [
+        "OPEL",
+        "Vivaro Combi (X83)",
+        "2001/2014",
+        "Vivaro 1.9 DTI",
+        "F9Q 760",
+        "1870",
+        "74/101"
+      ],
+      [
+        "OPEL",
+        "Vivaro Van (F7)",
+        "2001/2014",
+        "Vivaro 1.9 DTI",
+        "F9Q 760",
+        "1870",
+        "74/101"
+      ],
+      [
+        "OPEL",
+        "Vivaro LT (E7)",
+        "2001/2010",
+        "Vivaro 1.9 DTI",
+        "F9Q 760",
+        "1870",
+        "74/101"
+      ],
+      [
+        "OPEL",
+        "Vivaro Combi (X83)",
+        "2001/2006",
+        "Vivaro 1.9 DI",
+        "F9Q 762",
+        "1870",
+        "60/80"
+      ],
+      [
+        "OPEL",
+        "Vivaro Van (F7)",
+        "2001/2006",
+        "Vivaro 1.9 DI",
+        "F9Q 762",
+        "1870",
+        "60/80"
+      ],
+      [
+        "OPEL",
+        "Vivaro LT (E7)",
+        "2001/2014",
+        "Vivaro 1.9 Di",
+        "F9Q 762",
+        "1870",
+        "60/82"
+      ]
+    ],
+    "html_sha256": "b207ed2724c7006ec4f630ce3388f1ab0876be02a1475e24ec535fd69dd63744"
+  },
+  "supplier_photo": {
+    "article": "THQ1001",
+    "brand": "TATSUMI",
+    "nomenclature": "NSII0027565363",
+    "url": "https://imgs.rossko.ru/45/41/NSII0027565363/3.jpg",
+    "card_url": "https://rossko.ru/card/tatsumi-thq1001-nsii0027565363/",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 513759,
+    "sha256": "368453fed90bf5a1479281c156f3784b25e8e8cb38c643357fd68d15d845afa1"
+  }
+}

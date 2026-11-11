@@ -1,0 +1,100 @@
+{
+  "verified_at_utc": "2026-11-11T10:59:10.558777+00:00",
+  "manufacturer": {
+    "article": "THQ1007",
+    "url": "https://tatsumi.ru/catalog/thq1007/",
+    "groups": {
+      "Артикул": "THQ1007",
+      "OES Номер": "059963319E",
+      "Кросс-номер": "NGK: 5849"
+    },
+    "fitment": [
+      [
+        "VW",
+        "Touareg (7LA, 7L6, 7L7)",
+        "2004/2010",
+        "Touareg 3.0 V6 TDI",
+        "CATA",
+        "2967",
+        "165/225"
+      ],
+      [
+        "VW",
+        "Touareg (7LA, 7L6, 7L7)",
+        "2007/2010",
+        "Touareg 3.0 V6 TDI",
+        "CASC",
+        "2967",
+        "176/240"
+      ],
+      [
+        "VW",
+        "Touareg (7LA, 7L6, 7L7)",
+        "2007/2010",
+        "Touareg 3.0 V6 TDI",
+        "CASA",
+        "2967",
+        "176/240"
+      ],
+      [
+        "VW",
+        "Touareg (7LA, 7L6, 7L7)",
+        "2004/2010",
+        "Touareg 3.0 V6 TDI",
+        "BKS",
+        "2967",
+        "165/225"
+      ],
+      [
+        "AUDI",
+        "Q7 (4L)",
+        "2008/2014",
+        "Q7 6.0 TDI Quattro",
+        "CCGA",
+        "5934",
+        "368/500"
+      ],
+      [
+        "AUDI",
+        "Q7 (4L)",
+        "2007/2009",
+        "Q7 4.2 TDI Quattro",
+        "BTR",
+        "4134",
+        "240/326"
+      ],
+      [
+        "AUDI",
+        "Q7 (4M)",
+        "2015/2019",
+        "Q7 3.0 TDI quattro",
+        "CRTC",
+        "2967",
+        "200/272"
+      ],
+      [
+        "AUDI",
+        "Q7 (4L)",
+        "2006/2008",
+        "Q7 3.0 TDI",
+        "BUG",
+        "2967",
+        "171/233"
+      ]
+    ],
+    "html_sha256": "311a52916a039661a6ffee306a551d72a2451f04f541e82b2b69138d08d5a564"
+  },
+  "supplier_photo": {
+    "article": "THQ1007",
+    "brand": "TATSUMI",
+    "nomenclature": "NSII0027565369",
+    "url": "https://imgs.rossko.ru/9F/CC/NSII0027565369/3.jpg",
+    "card_url": "https://rossko.ru/card/tatsumi-thq1007-nsii0027565369/",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 515417,
+    "sha256": "a94efe18e0d2cb1b6d5c19aa9928294bfeb0c16d293e40ac3ae851f4a3f2021b"
+  }
+}

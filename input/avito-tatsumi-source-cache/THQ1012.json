@@ -1,0 +1,64 @@
+{
+  "verified_at_utc": "2026-11-11T10:59:23.337166+00:00",
+  "manufacturer": {
+    "article": "THQ1012",
+    "url": "https://tatsumi.ru/catalog/thq1012/",
+    "groups": {
+      "Артикул": "THQ1012",
+      "OES Номер": "1685165512",
+      "Кросс-номер": "NGK: 2649"
+    },
+    "fitment": [
+      [
+        "KUBOTA",
+        "RTV900",
+        "2004/2026",
+        "RTV900 Diesel",
+        "-",
+        "",
+        "/"
+      ],
+      [
+        "KUBOTA",
+        "RTV1140",
+        "2009/2026",
+        "RTV1140 Diesel",
+        "-",
+        "",
+        "/"
+      ],
+      [
+        "KUBOTA",
+        "RTV1100",
+        "2007/2026",
+        "RTV1100 Diesel",
+        "-",
+        "",
+        "/"
+      ],
+      [
+        "NISSAN",
+        "Patrol Pickup",
+        "1983/1988",
+        "Patrol PickUp 2.3D-3.2D/TD",
+        "KUBOTA",
+        "",
+        "/"
+      ]
+    ],
+    "html_sha256": "54ae3756b9bdc26ad83d3433059fac51fb684f7bcf140f6c5c67fb4d951ce626"
+  },
+  "supplier_photo": {
+    "article": "THQ1012",
+    "brand": "TATSUMI",
+    "nomenclature": "NSII0027565374",
+    "url": "https://imgs.rossko.ru/72/86/NSII0027565374/3.jpg",
+    "card_url": "https://rossko.ru/card/tatsumi-thq1012-nsii0027565374/",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 516887,
+    "sha256": "1debbb7ab083526fbab17ceee62ade42c609e06ccd9b341fce3679129b82503a"
+  }
+}

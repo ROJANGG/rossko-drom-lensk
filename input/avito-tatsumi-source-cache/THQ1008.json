@@ -1,0 +1,100 @@
+{
+  "verified_at_utc": "2026-11-11T10:59:10.803257+00:00",
+  "manufacturer": {
+    "article": "THQ1008",
+    "url": "https://tatsumi.ru/catalog/thq1008/",
+    "groups": {
+      "Артикул": "THQ1008",
+      "OES Номер": "A0011592801",
+      "Кросс-номер": "NGK: 6346"
+    },
+    "fitment": [
+      [
+        "MERCEDES-BENZ",
+        "Vito Bus (W639)",
+        "2007/2014",
+        "Vito 115 CDI 4x4",
+        "OM 646.982",
+        "2148",
+        "110/150"
+      ],
+      [
+        "MERCEDES-BENZ",
+        "Vito Bus (W639)",
+        "2003/2026",
+        "Vito 115 CDI",
+        "OM 646.980",
+        "2148",
+        "110/150"
+      ],
+      [
+        "MERCEDES-BENZ",
+        "Vito Bus (W639)",
+        "2003/2026",
+        "Vito 115 CDI",
+        "OM 646.982",
+        "2148",
+        "110/150"
+      ],
+      [
+        "MERCEDES-BENZ",
+        "Vito Bus (638)",
+        "1999/2003",
+        "Vito 112 CDI 2.2 (638.194)",
+        "OM 611.980",
+        "2148",
+        "90/122"
+      ],
+      [
+        "MERCEDES-BENZ",
+        "Vito LT (638)",
+        "1999/2003",
+        "Vito 112 CDI 2.2 (638.094)",
+        "OM 611.980",
+        "2148",
+        "90/122"
+      ],
+      [
+        "MERCEDES-BENZ",
+        "Vito Bus (W639)",
+        "2007/2014",
+        "Vito 111 CDI 4x4",
+        "OM 646.982",
+        "2148",
+        "80/109"
+      ],
+      [
+        "MERCEDES-BENZ",
+        "Vito Bus (W639)",
+        "2007/2026",
+        "Vito 111 CDI (639.701)",
+        "OM 646.980",
+        "2148",
+        "85/116"
+      ],
+      [
+        "MERCEDES-BENZ",
+        "Vito Bus (W639)",
+        "2003/2026",
+        "Vito 111 CDI",
+        "OM 646.982",
+        "2148",
+        "80/109"
+      ]
+    ],
+    "html_sha256": "63ef55b2f32f6714572e2885bf7a78ad9aebb49c34efb4f476029c0e6b25d53d"
+  },
+  "supplier_photo": {
+    "article": "THQ1008",
+    "brand": "TATSUMI",
+    "nomenclature": "NSII0027565370",
+    "url": "https://imgs.rossko.ru/E7/E8/NSII0027565370/3.jpg",
+    "card_url": "https://rossko.ru/card/tatsumi-thq1008-nsii0027565370/",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 515876,
+    "sha256": "a4222be87c66e799a87df7bdcc8cbce9b2950ca663b8d2db3a4456301f57fbab"
+  }
+}

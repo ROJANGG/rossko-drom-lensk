@@ -73,7 +73,7 @@ def load_evidence(record, base=None, now=None):
 
 def verify_supplier_bindings(book, records):
     selected = {(canon(r['brand']), canon(r['article'])): r['photo_supplier_nomenclature']
-                for r in records if r['source_kind'] == 'bosch_era'}
+                for r in records if r['source_kind'] in ('bosch_era', 'tatsumi_rossko')}
     if not selected:
         return
     rows = book.active.iter_rows(values_only=True)

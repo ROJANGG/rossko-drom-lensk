@@ -1,0 +1,100 @@
+{
+  "verified_at_utc": "2026-11-11T10:59:02.380585+00:00",
+  "manufacturer": {
+    "article": "THQ1006",
+    "url": "https://tatsumi.ru/catalog/thq1006/",
+    "groups": {
+      "Артикул": "THQ1006",
+      "OES Номер": "596088",
+      "Кросс-номер": "NGK: 94832"
+    },
+    "fitment": [
+      [
+        "JAGUAR",
+        "X-Type Estate (X400)",
+        "2004/2009",
+        "X-Type 2.0 D",
+        "FMBB",
+        "1998",
+        "96/130"
+      ],
+      [
+        "JAGUAR",
+        "X-Type (X400)",
+        "2003/2009",
+        "X-Type 2.0 D",
+        "FMBA",
+        "1998",
+        "96/130"
+      ],
+      [
+        "JAGUAR",
+        "X-Type (X400)",
+        "2003/2009",
+        "X-Type 2.0 D",
+        "FMBB",
+        "1998",
+        "96/130"
+      ],
+      [
+        "JAGUAR",
+        "X-Type Estate (X400)",
+        "2004/2009",
+        "X-Type 2.0 D",
+        "FMBA",
+        "1998",
+        "96/130"
+      ],
+      [
+        "FORD",
+        "Transit Tourneo",
+        "2007/2014",
+        "Transit Tourneo 2.2 TDCi",
+        "UHFC",
+        "2198",
+        "103/140"
+      ],
+      [
+        "FORD",
+        "Transit Tourneo",
+        "2007/2014",
+        "Transit Tourneo 2.2 TDCi",
+        "PGFA",
+        "2198",
+        "103/140"
+      ],
+      [
+        "FORD",
+        "Transit Tourneo",
+        "2007/2014",
+        "Transit Tourneo 2.2 TDCi",
+        "PGFB",
+        "2198",
+        "103/140"
+      ],
+      [
+        "FORD",
+        "Transit Tourneo",
+        "2006/2014",
+        "Transit Tourneo 2.2 TDCi",
+        "QVFA",
+        "2198",
+        "81/110"
+      ]
+    ],
+    "html_sha256": "6da488b817672481c34b5d8e3898b0c817b5201d9df965513bebc7aa23ce3cd6"
+  },
+  "supplier_photo": {
+    "article": "THQ1006",
+    "brand": "TATSUMI",
+    "nomenclature": "NSII0027565368",
+    "url": "https://imgs.rossko.ru/FD/24/NSII0027565368/3.jpg",
+    "card_url": "https://rossko.ru/card/tatsumi-thq1006-nsii0027565368/",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 515864,
+    "sha256": "5ea1829fb32edec1587eef06be2d58205c819f9ade63f2b6c24ec6a0f9abdb4a"
+  }
+}

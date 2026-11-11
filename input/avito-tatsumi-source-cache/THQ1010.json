@@ -1,0 +1,100 @@
+{
+  "verified_at_utc": "2026-11-11T10:59:23.341485+00:00",
+  "manufacturer": {
+    "article": "THQ1010",
+    "url": "https://tatsumi.ru/catalog/thq1010/",
+    "groups": {
+      "Артикул": "THQ1010",
+      "OES Номер": "367104A000",
+      "Кросс-номер": "NGK: 3709"
+    },
+    "fitment": [
+      [
+        "KIA",
+        "Sorento I (JC)",
+        "2006/2011",
+        "Sorento 2.5 CRDi",
+        "D4CB",
+        "2497",
+        "120/163"
+      ],
+      [
+        "KIA",
+        "Sorento I (JC)",
+        "2002/2011",
+        "Sorento 2.5 CRDi",
+        "D4CB",
+        "2497",
+        "103/140"
+      ],
+      [
+        "KIA",
+        "Sorento I (JC)",
+        "2006/2011",
+        "Sorento 2.5 CRDi",
+        "D4CB",
+        "2497",
+        "125/170"
+      ],
+      [
+        "HYUNDAI",
+        "H100 LT (HR)",
+        "2010/2026",
+        "H100 2.5 TD",
+        "D4CB",
+        "2497",
+        "92/125"
+      ],
+      [
+        "HYUNDAI",
+        "H-1 Cargo (TQ)",
+        "2009/2026",
+        "H-1 2.5 CRDi",
+        "D4CB",
+        "2497",
+        "100/136"
+      ],
+      [
+        "HYUNDAI",
+        "H-1 Travel (TQ)",
+        "2008/2026",
+        "H-1 2.5 CRDi",
+        "D4CB",
+        "2497",
+        "125/170"
+      ],
+      [
+        "HYUNDAI",
+        "H-1 Travel (TQ)",
+        "2008/2026",
+        "H-1 2.5 CRDi",
+        "D4CB",
+        "2497",
+        "120/163"
+      ],
+      [
+        "HYUNDAI",
+        "H-1 Travel (TQ)",
+        "2011/2026",
+        "H-1 2.5 CRDi",
+        "D4CB",
+        "2497",
+        "85/116"
+      ]
+    ],
+    "html_sha256": "e529095aedf320376d020fae1c628925aea50752f162b37169dcd57cb7f7458d"
+  },
+  "supplier_photo": {
+    "article": "THQ1010",
+    "brand": "TATSUMI",
+    "nomenclature": "NSII0027565372",
+    "url": "https://imgs.rossko.ru/A2/9A/NSII0027565372/3.jpg",
+    "card_url": "https://rossko.ru/card/tatsumi-thq1010-nsii0027565372/",
+    "dimensions": [
+      1000,
+      1000
+    ],
+    "bytes": 515234,
+    "sha256": "3b055c6bf4e51bbb50c16df09343d6d999de313925c2e30a067db264d6b1d788"
+  }
+}

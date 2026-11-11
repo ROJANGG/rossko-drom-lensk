@@ -22,6 +22,8 @@ from rossko_wholesale_private_audit import rpc,zeep_client,choose_delivery,retry
 from update_prices import load_config
 from avito_bosch_era_evidence import prepare_photo as prepare_bosch_photo, verify_supplier_bindings
 
+from avito_tatsumi_evidence import prepare_photo as prepare_tatsumi_photo
+
 REPO='ROJANGG/rossko-drom-lensk'
 BRANCH='avito-irkutsk-feed'
 TYPES={'Колодки барабанные':('Колодки барабанные','новые','Тормозная система'),
@@ -30,7 +32,7 @@ TYPES={'Колодки барабанные':('Колодки барабанны
 PAGE_HOSTS={'stellox':{'ru.stellox.com'},'lynx':{'ecatalogue.lynxauto.jp'},
             'transmaster':{'transmaster.ru'},'startvolt':{'startvolt.com'},
             'ngk':{'www.ngkpartfinder.co.uk'},'febest':{'febest.de'},
-            'bosch_era':{'www.boschautoparts.com'}}
+            'tatsumi_rossko':{'tatsumi.ru'},'bosch_era':{'www.boschautoparts.com'}}
 IMAGE_HOSTS={'ru.stellox.com','ecatalogue.lynxauto.jp','api.transmaster.ru',
              's3.carvilleshop.ru','cdn.carvilleshop.ru','www.ngkpartfinder.co.uk','static.febest.de','imgs.rossko.ru'}
 def canon(v):return re.sub(r'[^A-Z0-9]','',str(v).upper())
@@ -152,6 +154,8 @@ def validate_source(record,page,extra_pages=None):
         if canon(token) not in canon(fit_text):raise ValueError('Manufacturer applicability changed')
     return True
 def prepare_photo(record,place):
+    if record['source_kind']=='tatsumi_rossko':
+        return prepare_tatsumi_photo(record,place,stable_id(record),f'https://raw.githubusercontent.com/{REPO}/{BRANCH}/avito-images/')
     if record['source_kind']=='bosch_era':
         return prepare_bosch_photo(record,place,stable_id(record),f'https://raw.githubusercontent.com/{REPO}/{BRANCH}/avito-images/')
     extra={};cache_photo=None;verification='current_manufacturer_http'
