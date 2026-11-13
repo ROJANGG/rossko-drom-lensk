@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT760",
+      "supplier_nomenclature": "NSII0013171285",
+      "checked_at_utc": "2026-11-13T14:53:48.465891+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT830",
+      "supplier_nomenclature": "NSII0009669596",
+      "checked_at_utc": "2026-11-13T14:53:49.553393+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT840",
+      "supplier_nomenclature": "NSII0013171286",
+      "checked_at_utc": "2026-11-13T14:53:50.609975+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT850",
+      "supplier_nomenclature": "NSII0013103674",
+      "checked_at_utc": "2026-11-13T14:53:51.528612+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT870",
+      "supplier_nomenclature": "NSII0015365215",
+      "checked_at_utc": "2026-11-13T14:53:52.469367+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT940M",
+      "supplier_nomenclature": "NSII0018328944",
+      "checked_at_utc": "2026-11-13T14:53:53.473245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SS2321",
+      "supplier_nomenclature": "NSIN0018596798",
+      "checked_at_utc": "2026-11-13T14:53:54.372174+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SS2480",
+      "supplier_nomenclature": "NSIN0023088072",
+      "checked_at_utc": "2026-11-13T14:53:55.365384+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "0122NCP15",
+      "supplier_nomenclature": "NSII0016165987",
+      "checked_at_utc": "2026-11-13T14:53:56.855994+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "0222N30",
+      "supplier_nomenclature": "NSII0019352828",
+      "checked_at_utc": "2026-11-13T14:53:57.492031+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "0222U14",
+      "supplier_nomenclature": "NSII0016165994",
+      "checked_at_utc": "2026-11-13T14:53:59.540340+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "0222U30",
+      "supplier_nomenclature": "NSII0019353119",
+      "checked_at_utc": "2026-11-13T14:53:59.565217+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "0222Y62",
+      "supplier_nomenclature": "NSII0017797483",
+      "checked_at_utc": "2026-11-13T14:54:00.614005+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "0322RF1",
+      "supplier_nomenclature": "NSII0016166037",
+      "checked_at_utc": "2026-11-13T14:54:01.614674+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "2122EXP",
+      "supplier_nomenclature": "NSII0019352890",
+      "checked_at_utc": "2026-11-13T14:54:02.881418+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "2522001",
+      "supplier_nomenclature": "NSII0019352907",
+      "checked_at_utc": "2026-11-13T14:54:03.679625+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Asva",
+      "article": "3522001",
+      "supplier_nomenclature": "NSII0007963282",
+      "checked_at_utc": "2026-11-13T14:54:04.742304+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0037",
+      "supplier_nomenclature": "NSII0023943784",
+      "checked_at_utc": "2026-11-13T14:54:05.626079+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0049",
+      "supplier_nomenclature": "NSII0023943787",
+      "checked_at_utc": "2026-11-13T14:54:06.537226+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0051",
+      "supplier_nomenclature": "NSII0023943789",
+      "checked_at_utc": "2026-11-13T14:54:07.540512+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0054",
+      "supplier_nomenclature": "NSII0023943792",
+      "checked_at_utc": "2026-11-13T14:54:09.726316+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0056",
+      "supplier_nomenclature": "NSII0023943794",
+      "checked_at_utc": "2026-11-13T14:54:10.355013+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0115",
+      "supplier_nomenclature": "NSII0023943852",
+      "checked_at_utc": "2026-11-13T14:54:10.632720+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0151",
+      "supplier_nomenclature": "NSII0023943877",
+      "checked_at_utc": "2026-11-13T14:54:11.668878+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0153",
+      "supplier_nomenclature": "NSII0023943879",
+      "checked_at_utc": "2026-11-13T14:54:13.125961+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0154",
+      "supplier_nomenclature": "NSII0023943880",
+      "checked_at_utc": "2026-11-13T14:54:13.860850+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0159",
+      "supplier_nomenclature": "NSII0023943885",
+      "checked_at_utc": "2026-11-13T14:54:14.553196+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0160",
+      "supplier_nomenclature": "NSII0023943886",
+      "checked_at_utc": "2026-11-13T14:54:15.937329+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0165",
+      "supplier_nomenclature": "NSII0023943891",
+      "checked_at_utc": "2026-11-13T14:54:16.549496+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0168",
+      "supplier_nomenclature": "NSII0023943894",
+      "checked_at_utc": "2026-11-13T14:54:17.678230+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0169",
+      "supplier_nomenclature": "NSII0023943895",
+      "checked_at_utc": "2026-11-13T14:54:18.746277+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0177",
+      "supplier_nomenclature": "NSII0023943902",
+      "checked_at_utc": "2026-11-13T14:54:20.197080+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0182",
+      "supplier_nomenclature": "NSII0023943907",
+      "checked_at_utc": "2026-11-13T14:54:20.735865+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0184",
+      "supplier_nomenclature": "NSII0023943909",
+      "checked_at_utc": "2026-11-13T14:54:22.030600+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0185",
+      "supplier_nomenclature": "NSII0023943910",
+      "checked_at_utc": "2026-11-13T14:54:22.854441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0186",
+      "supplier_nomenclature": "NSII0023943911",
+      "checked_at_utc": "2026-11-13T14:54:23.922455+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0187",
+      "supplier_nomenclature": "NSII0023943912",
+      "checked_at_utc": "2026-11-13T14:54:24.652697+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0190",
+      "supplier_nomenclature": "NSII0023943915",
+      "checked_at_utc": "2026-11-13T14:54:25.964858+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0191",
+      "supplier_nomenclature": "NSII0023943916",
+      "checked_at_utc": "2026-11-13T14:54:26.739135+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0193",
+      "supplier_nomenclature": "NSII0023943918",
+      "checked_at_utc": "2026-11-13T14:54:27.793296+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0195",
+      "supplier_nomenclature": "NSII0023943920",
+      "checked_at_utc": "2026-11-13T14:54:28.595946+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0197",
+      "supplier_nomenclature": "NSII0023943922",
+      "checked_at_utc": "2026-11-13T14:54:29.845857+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0207",
+      "supplier_nomenclature": "NSII0023943933",
+      "checked_at_utc": "2026-11-13T14:54:30.558516+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0208",
+      "supplier_nomenclature": "NSII0023943934",
+      "checked_at_utc": "2026-11-13T14:54:31.563198+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0209",
+      "supplier_nomenclature": "NSII0023943935",
+      "checked_at_utc": "2026-11-13T14:54:32.546680+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0216",
+      "supplier_nomenclature": "NSII0023943944",
+      "checked_at_utc": "2026-11-13T14:54:33.557850+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0242",
+      "supplier_nomenclature": "NSII0023943965",
+      "checked_at_utc": "2026-11-13T14:54:34.921958+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0253",
+      "supplier_nomenclature": "NSII0023943976",
+      "checked_at_utc": "2026-11-13T14:54:36.580012+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0267",
+      "supplier_nomenclature": "NSII0023943986",
+      "checked_at_utc": "2026-11-13T14:54:36.924485+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0273",
+      "supplier_nomenclature": "NSII0023943991",
+      "checked_at_utc": "2026-11-13T14:54:38.208398+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0275",
+      "supplier_nomenclature": "NSII0023943993",
+      "checked_at_utc": "2026-11-13T14:54:39.213839+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0283",
+      "supplier_nomenclature": "NSII0027057253",
+      "checked_at_utc": "2026-11-13T14:54:40.865107+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0284",
+      "supplier_nomenclature": "NSII0023944004",
+      "checked_at_utc": "2026-11-13T14:54:41.071421+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0285",
+      "supplier_nomenclature": "NSII0023944005",
+      "checked_at_utc": "2026-11-13T14:54:41.991813+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0286",
+      "supplier_nomenclature": "NSII0023944006",
+      "checked_at_utc": "2026-11-13T14:54:42.739408+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0288",
+      "supplier_nomenclature": "NSII0023944008",
+      "checked_at_utc": "2026-11-13T14:54:43.665755+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0310",
+      "supplier_nomenclature": "NSII0023944032",
+      "checked_at_utc": "2026-11-13T14:54:44.623659+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0320",
+      "supplier_nomenclature": "NSII0023944040",
+      "checked_at_utc": "2026-11-13T14:54:45.677726+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0323L",
+      "supplier_nomenclature": "NSII0023944042",
+      "checked_at_utc": "2026-11-13T14:54:46.766874+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0323R",
+      "supplier_nomenclature": "NSII0023944043",
+      "checked_at_utc": "2026-11-13T14:54:47.916816+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0340R",
+      "supplier_nomenclature": "NSII0023944064",
+      "checked_at_utc": "2026-11-13T14:54:48.808063+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0341",
+      "supplier_nomenclature": "NSII0023944065",
+      "checked_at_utc": "2026-11-13T14:54:49.832105+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0347",
+      "supplier_nomenclature": "NSII0023944071",
+      "checked_at_utc": "2026-11-13T14:54:51.118689+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0356",
+      "supplier_nomenclature": "NSII0023944079",
+      "checked_at_utc": "2026-11-13T14:54:52.114652+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0358",
+      "supplier_nomenclature": "NSII0023944081",
+      "checked_at_utc": "2026-11-13T14:54:52.582493+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0370",
+      "supplier_nomenclature": "NSII0023944090",
+      "checked_at_utc": "2026-11-13T14:54:53.934816+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0372",
+      "supplier_nomenclature": "NSII0023944092",
+      "checked_at_utc": "2026-11-13T14:54:55.176361+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0374",
+      "supplier_nomenclature": "NSII0023944094",
+      "checked_at_utc": "2026-11-13T14:54:55.578584+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0375",
+      "supplier_nomenclature": "NSII0023944095",
+      "checked_at_utc": "2026-11-13T14:54:56.855898+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0376",
+      "supplier_nomenclature": "NSII0023944096",
+      "checked_at_utc": "2026-11-13T14:54:57.624894+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0381",
+      "supplier_nomenclature": "NSII0023944101",
+      "checked_at_utc": "2026-11-13T14:54:59.239637+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0382",
+      "supplier_nomenclature": "NSII0023944102",
+      "checked_at_utc": "2026-11-13T14:54:59.963329+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0385",
+      "supplier_nomenclature": "NSII0023944105",
+      "checked_at_utc": "2026-11-13T14:55:00.920162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0386",
+      "supplier_nomenclature": "NSII0023944106",
+      "checked_at_utc": "2026-11-13T14:55:02.050827+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0405L",
+      "supplier_nomenclature": "NSII0023944118",
+      "checked_at_utc": "2026-11-13T14:55:02.506206+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0411",
+      "supplier_nomenclature": "NSII0023944123",
+      "checked_at_utc": "2026-11-13T14:55:04.070264+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0423",
+      "supplier_nomenclature": "NSII0023944135",
+      "checked_at_utc": "2026-11-13T14:55:04.995097+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0426L",
+      "supplier_nomenclature": "NSII0023944138",
+      "checked_at_utc": "2026-11-13T14:55:05.616490+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0426R",
+      "supplier_nomenclature": "NSII0023944139",
+      "checked_at_utc": "2026-11-13T14:55:06.657191+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0429",
+      "supplier_nomenclature": "NSII0023944142",
+      "checked_at_utc": "2026-11-13T14:55:07.753919+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0430",
+      "supplier_nomenclature": "NSII0023944143",
+      "checked_at_utc": "2026-11-13T14:55:09.027661+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0431",
+      "supplier_nomenclature": "NSII0023944144",
+      "checked_at_utc": "2026-11-13T14:55:10.088510+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0432L",
+      "supplier_nomenclature": "NSII0023944145",
+      "checked_at_utc": "2026-11-13T14:55:10.536742+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0432R",
+      "supplier_nomenclature": "NSII0023944146",
+      "checked_at_utc": "2026-11-13T14:55:11.718892+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0433",
+      "supplier_nomenclature": "NSII0023944147",
+      "checked_at_utc": "2026-11-13T14:55:12.778850+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0434",
+      "supplier_nomenclature": "NSII0023944148",
+      "checked_at_utc": "2026-11-13T14:55:13.783856+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0461",
+      "supplier_nomenclature": "NSII0023944174",
+      "checked_at_utc": "2026-11-13T14:55:14.834966+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0462",
+      "supplier_nomenclature": "NSII0023944175",
+      "checked_at_utc": "2026-11-13T14:55:15.848905+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0466",
+      "supplier_nomenclature": "NSII0023944179",
+      "checked_at_utc": "2026-11-13T14:55:16.630287+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0468",
+      "supplier_nomenclature": "NSII0023944181",
+      "checked_at_utc": "2026-11-13T14:55:17.919399+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0483",
+      "supplier_nomenclature": "NSII0023944195",
+      "checked_at_utc": "2026-11-13T14:55:18.695275+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0486",
+      "supplier_nomenclature": "NSII0023944198",
+      "checked_at_utc": "2026-11-13T14:55:20.597171+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0487",
+      "supplier_nomenclature": "NSII0023944199",
+      "checked_at_utc": "2026-11-13T14:55:20.766898+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0490",
+      "supplier_nomenclature": "NSII0023944202",
+      "checked_at_utc": "2026-11-13T14:55:21.593707+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0498",
+      "supplier_nomenclature": "NSII0023944210",
+      "checked_at_utc": "2026-11-13T14:55:22.627367+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0501",
+      "supplier_nomenclature": "NSII0023944213",
+      "checked_at_utc": "2026-11-13T14:55:23.535399+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0503",
+      "supplier_nomenclature": "NSII0023944215",
+      "checked_at_utc": "2026-11-13T14:55:24.602981+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0506",
+      "supplier_nomenclature": "NSII0023944218",
+      "checked_at_utc": "2026-11-13T14:55:25.662072+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0507",
+      "supplier_nomenclature": "NSII0023944219",
+      "checked_at_utc": "2026-11-13T14:55:26.916716+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "CTR",
+      "article": "CR0510",
+      "supplier_nomenclature": "NSII0023944222",
+      "checked_at_utc": "2026-11-13T14:55:27.805293+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
