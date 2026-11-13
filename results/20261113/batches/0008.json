@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3325101",
+      "supplier_nomenclature": "NSIN0019625816",
+      "checked_at_utc": "2026-11-13T14:10:35.518743+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3341301",
+      "supplier_nomenclature": "NSIN0019621082",
+      "checked_at_utc": "2026-11-13T14:10:36.156618+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3373001",
+      "supplier_nomenclature": "NSIN0020258808",
+      "checked_at_utc": "2026-11-13T14:10:36.826842+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3404501",
+      "supplier_nomenclature": "NSIN0019752595",
+      "checked_at_utc": "2026-11-13T14:10:37.919524+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3464401",
+      "supplier_nomenclature": "NSIN0023096210",
+      "checked_at_utc": "2026-11-13T14:10:38.693365+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3466001",
+      "supplier_nomenclature": "NSIN0019752468",
+      "checked_at_utc": "2026-11-13T14:10:39.654350+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3473401",
+      "supplier_nomenclature": "NSIN0020258857",
+      "checked_at_utc": "2026-11-13T14:10:40.752655+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3473501",
+      "supplier_nomenclature": "NSIN0019752532",
+      "checked_at_utc": "2026-11-13T14:10:41.664750+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3476201",
+      "supplier_nomenclature": "NSIN0019752555",
+      "checked_at_utc": "2026-11-13T14:10:43.523319+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3493301",
+      "supplier_nomenclature": "NSIN0022460218",
+      "checked_at_utc": "2026-11-13T14:10:43.774687+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3493401",
+      "supplier_nomenclature": "NSIN0022460217",
+      "checked_at_utc": "2026-11-13T14:10:44.770119+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3503401",
+      "supplier_nomenclature": "NSIN0023096222",
+      "checked_at_utc": "2026-11-13T14:10:45.969171+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3595201",
+      "supplier_nomenclature": "NSIN0023132950",
+      "checked_at_utc": "2026-11-13T14:10:46.848093+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3599801",
+      "supplier_nomenclature": "NSII0004473749",
+      "checked_at_utc": "2026-11-13T14:10:48.079214+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3604401",
+      "supplier_nomenclature": "NSII0004473778",
+      "checked_at_utc": "2026-11-13T14:10:48.929364+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3631001",
+      "supplier_nomenclature": "NSII0004473967",
+      "checked_at_utc": "2026-11-13T14:10:49.720043+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3645901",
+      "supplier_nomenclature": "NSII0007243958",
+      "checked_at_utc": "2026-11-13T14:10:50.617695+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3718801",
+      "supplier_nomenclature": "NSII0007673973",
+      "checked_at_utc": "2026-11-13T14:10:51.603760+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3816801",
+      "supplier_nomenclature": "NSII0013058921",
+      "checked_at_utc": "2026-11-13T14:10:53.368790+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3884101",
+      "supplier_nomenclature": "NSII0016355114",
+      "checked_at_utc": "2026-11-13T14:10:53.860058+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3928301",
+      "supplier_nomenclature": "NSII0015313046",
+      "checked_at_utc": "2026-11-13T14:10:54.542144+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5001L",
+      "supplier_nomenclature": "NSII0019353998",
+      "checked_at_utc": "2026-11-13T14:10:55.854551+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5001R",
+      "supplier_nomenclature": "NSII0019353999",
+      "checked_at_utc": "2026-11-13T14:10:56.947047+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5014LR",
+      "supplier_nomenclature": "NSII0019540620",
+      "checked_at_utc": "2026-11-13T14:10:57.997902+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5018LR",
+      "supplier_nomenclature": "NSII0022693278",
+      "checked_at_utc": "2026-11-13T14:10:58.768964+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5053LR",
+      "supplier_nomenclature": "NSII0025021225",
+      "checked_at_utc": "2026-11-13T14:10:59.840872+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5057LR",
+      "supplier_nomenclature": "NSII0025286086",
+      "checked_at_utc": "2026-11-13T14:11:00.587062+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5061LR",
+      "supplier_nomenclature": "NSII0025327731",
+      "checked_at_utc": "2026-11-13T14:11:02.188092+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5080LR",
+      "supplier_nomenclature": "NSII0026052581",
+      "checked_at_utc": "2026-11-13T14:11:02.879458+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5082L",
+      "supplier_nomenclature": "NSII0026547076",
+      "checked_at_utc": "2026-11-13T14:11:03.712117+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5082R",
+      "supplier_nomenclature": "NSII0026547079",
+      "checked_at_utc": "2026-11-13T14:11:04.987684+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5083L",
+      "supplier_nomenclature": "NSII0026547062",
+      "checked_at_utc": "2026-11-13T14:11:05.606612+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5083R",
+      "supplier_nomenclature": "NSII0026547068",
+      "checked_at_utc": "2026-11-13T14:11:06.775139+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5084L",
+      "supplier_nomenclature": "NSII0026547075",
+      "checked_at_utc": "2026-11-13T14:11:07.639217+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5084R",
+      "supplier_nomenclature": "NSII0026547078",
+      "checked_at_utc": "2026-11-13T14:11:08.680792+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5087L",
+      "supplier_nomenclature": "NSII0026547064",
+      "checked_at_utc": "2026-11-13T14:11:09.717656+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5087R",
+      "supplier_nomenclature": "NSII0026547070",
+      "checked_at_utc": "2026-11-13T14:11:10.550908+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5088LR",
+      "supplier_nomenclature": "NSII0026547066",
+      "checked_at_utc": "2026-11-13T14:11:11.777991+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5109LR",
+      "supplier_nomenclature": "NSII0028390573",
+      "checked_at_utc": "2026-11-13T14:11:12.628110+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5129LR",
+      "supplier_nomenclature": "NSII0028817591",
+      "checked_at_utc": "2026-11-13T14:11:13.649986+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5163L",
+      "supplier_nomenclature": "NSII0025327732",
+      "checked_at_utc": "2026-11-13T14:11:14.996696+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5166LR",
+      "supplier_nomenclature": "NSII0025545897",
+      "checked_at_utc": "2026-11-13T14:11:15.656698+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5174LR",
+      "supplier_nomenclature": "NSII0026479434",
+      "checked_at_utc": "2026-11-13T14:11:16.788465+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5176L",
+      "supplier_nomenclature": "NSII0026479436",
+      "checked_at_utc": "2026-11-13T14:11:17.510191+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5176R",
+      "supplier_nomenclature": "NSII0026479437",
+      "checked_at_utc": "2026-11-13T14:11:18.780619+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5187LR",
+      "supplier_nomenclature": "NSII0026479456",
+      "checked_at_utc": "2026-11-13T14:11:19.766806+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5198L",
+      "supplier_nomenclature": "NSII0026479475",
+      "checked_at_utc": "2026-11-13T14:11:20.694129+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5198R",
+      "supplier_nomenclature": "NSII0026479476",
+      "checked_at_utc": "2026-11-13T14:11:21.628985+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5199L",
+      "supplier_nomenclature": "NSII0026479477",
+      "checked_at_utc": "2026-11-13T14:11:22.575417+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5199R",
+      "supplier_nomenclature": "NSII0026479478",
+      "checked_at_utc": "2026-11-13T14:11:23.579581+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5204R",
+      "supplier_nomenclature": "NSII0026547014",
+      "checked_at_utc": "2026-11-13T14:11:24.635702+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5206LR",
+      "supplier_nomenclature": "NSII0026547011",
+      "checked_at_utc": "2026-11-13T14:11:25.725658+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5207L",
+      "supplier_nomenclature": "NSII0026547001",
+      "checked_at_utc": "2026-11-13T14:11:26.674028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5208L",
+      "supplier_nomenclature": "NSII0026547002",
+      "checked_at_utc": "2026-11-13T14:11:27.587300+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5208R",
+      "supplier_nomenclature": "NSII0026547017",
+      "checked_at_utc": "2026-11-13T14:11:28.566622+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5209L",
+      "supplier_nomenclature": "NSII0026547003",
+      "checked_at_utc": "2026-11-13T14:11:29.807832+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5209R",
+      "supplier_nomenclature": "NSII0026547018",
+      "checked_at_utc": "2026-11-13T14:11:30.873510+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5211L",
+      "supplier_nomenclature": "NSII0026547025",
+      "checked_at_utc": "2026-11-13T14:11:31.571671+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5211R",
+      "supplier_nomenclature": "NSII0026547030",
+      "checked_at_utc": "2026-11-13T14:11:32.580591+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5213L",
+      "supplier_nomenclature": "NSII0026547006",
+      "checked_at_utc": "2026-11-13T14:11:33.531343+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5213R",
+      "supplier_nomenclature": "NSII0026547021",
+      "checked_at_utc": "2026-11-13T14:11:34.585619+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5215LR",
+      "supplier_nomenclature": "NSII0026547012",
+      "checked_at_utc": "2026-11-13T14:11:35.526529+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5219L",
+      "supplier_nomenclature": "NSII0026547009",
+      "checked_at_utc": "2026-11-13T14:11:36.614234+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5219R",
+      "supplier_nomenclature": "NSII0026547024",
+      "checked_at_utc": "2026-11-13T14:11:37.587523+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5239L",
+      "supplier_nomenclature": "NSII0028390574",
+      "checked_at_utc": "2026-11-13T14:11:38.584876+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B5239R",
+      "supplier_nomenclature": "NSII0028390575",
+      "checked_at_utc": "2026-11-13T14:11:39.522153+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8006",
+      "supplier_nomenclature": "NSII0013104028",
+      "checked_at_utc": "2026-11-13T14:11:40.597259+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8020",
+      "supplier_nomenclature": "NSII0013104042",
+      "checked_at_utc": "2026-11-13T14:11:41.682856+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8022",
+      "supplier_nomenclature": "NSII0013104044",
+      "checked_at_utc": "2026-11-13T14:11:42.702094+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8023",
+      "supplier_nomenclature": "NSII0013104045",
+      "checked_at_utc": "2026-11-13T14:11:43.728057+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8027",
+      "supplier_nomenclature": "NSII0013104049",
+      "checked_at_utc": "2026-11-13T14:11:44.832070+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8040",
+      "supplier_nomenclature": "NSII0013104062",
+      "checked_at_utc": "2026-11-13T14:11:45.653420+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8041",
+      "supplier_nomenclature": "NSII0013104063",
+      "checked_at_utc": "2026-11-13T14:11:46.639023+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8044",
+      "supplier_nomenclature": "NSII0013104066",
+      "checked_at_utc": "2026-11-13T14:11:47.654880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8045",
+      "supplier_nomenclature": "NSII0013104067",
+      "checked_at_utc": "2026-11-13T14:11:48.656888+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8048",
+      "supplier_nomenclature": "NSII0013104070",
+      "checked_at_utc": "2026-11-13T14:11:49.702697+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8053",
+      "supplier_nomenclature": "NSII0013104075",
+      "checked_at_utc": "2026-11-13T14:11:50.829735+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8076",
+      "supplier_nomenclature": "NSII0013104098",
+      "checked_at_utc": "2026-11-13T14:11:52.469670+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8077",
+      "supplier_nomenclature": "NSII0013104099",
+      "checked_at_utc": "2026-11-13T14:11:53.251336+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8079",
+      "supplier_nomenclature": "NSII0013104101",
+      "checked_at_utc": "2026-11-13T14:11:54.040031+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8083",
+      "supplier_nomenclature": "NSII0013104105",
+      "checked_at_utc": "2026-11-13T14:11:55.001738+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8094",
+      "supplier_nomenclature": "NSII0013104116",
+      "checked_at_utc": "2026-11-13T14:11:55.875046+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8095",
+      "supplier_nomenclature": "NSII0013104117",
+      "checked_at_utc": "2026-11-13T14:11:56.740758+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8182",
+      "supplier_nomenclature": "NSII0013104205",
+      "checked_at_utc": "2026-11-13T14:11:58.562740+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8190",
+      "supplier_nomenclature": "NSII0013104213",
+      "checked_at_utc": "2026-11-13T14:11:58.720884+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8201",
+      "supplier_nomenclature": "NSII0013104224",
+      "checked_at_utc": "2026-11-13T14:11:59.721086+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8206",
+      "supplier_nomenclature": "NSII0013104229",
+      "checked_at_utc": "2026-11-13T14:12:00.790337+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8226",
+      "supplier_nomenclature": "NSII0013104249",
+      "checked_at_utc": "2026-11-13T14:12:01.779736+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8267",
+      "supplier_nomenclature": "NSII0015309349",
+      "checked_at_utc": "2026-11-13T14:12:02.705108+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8278",
+      "supplier_nomenclature": "NSII0015309360",
+      "checked_at_utc": "2026-11-13T14:12:03.731872+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8315",
+      "supplier_nomenclature": "NSII0015653300",
+      "checked_at_utc": "2026-11-13T14:12:04.969883+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8316",
+      "supplier_nomenclature": "NSII0015654565",
+      "checked_at_utc": "2026-11-13T14:12:05.581027+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8320",
+      "supplier_nomenclature": "NSII0017126903",
+      "checked_at_utc": "2026-11-13T14:12:06.974211+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8331",
+      "supplier_nomenclature": "NSII0017174484",
+      "checked_at_utc": "2026-11-13T14:12:07.715693+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8381",
+      "supplier_nomenclature": "NSII0024919479",
+      "checked_at_utc": "2026-11-13T14:12:08.852957+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8411",
+      "supplier_nomenclature": "NSII0028788323",
+      "checked_at_utc": "2026-11-13T14:12:09.942646+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8412",
+      "supplier_nomenclature": "NSII0025021242",
+      "checked_at_utc": "2026-11-13T14:12:10.817178+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8426",
+      "supplier_nomenclature": "NSII0024289478",
+      "checked_at_utc": "2026-11-13T14:12:11.697764+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8430",
+      "supplier_nomenclature": "NSII0024289480",
+      "checked_at_utc": "2026-11-13T14:12:12.609348+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "LYNXauto",
+      "article": "B8431",
+      "supplier_nomenclature": "NSII0024289481",
+      "checked_at_utc": "2026-11-13T14:12:13.659145+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
