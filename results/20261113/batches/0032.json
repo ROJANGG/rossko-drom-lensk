@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "8062202",
+      "supplier_nomenclature": "NSII0014881182",
+      "checked_at_utc": "2026-11-13T14:52:07.575350+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "806473",
+      "supplier_nomenclature": "NSII0009945211",
+      "checked_at_utc": "2026-11-13T14:52:08.846496+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "906106",
+      "supplier_nomenclature": "NSII0010017626",
+      "checked_at_utc": "2026-11-13T14:52:09.677379+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SC4680",
+      "supplier_nomenclature": "NSIN0013720316",
+      "checked_at_utc": "2026-11-13T14:52:10.327837+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SC7540",
+      "supplier_nomenclature": "NSIN0020842210",
+      "checked_at_utc": "2026-11-13T14:52:12.146584+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SEM031",
+      "supplier_nomenclature": "NSII0016592452",
+      "checked_at_utc": "2026-11-13T14:52:12.309202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR1581L",
+      "supplier_nomenclature": "NSII0016172157",
+      "checked_at_utc": "2026-11-13T14:52:13.385345+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR1670R",
+      "supplier_nomenclature": "NSIN0020842209",
+      "checked_at_utc": "2026-11-13T14:52:14.566863+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR1800",
+      "supplier_nomenclature": "NSIN0020164519",
+      "checked_at_utc": "2026-11-13T14:52:15.790306+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR2670",
+      "supplier_nomenclature": "NSIN0013720712",
+      "checked_at_utc": "2026-11-13T14:52:16.524507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR2671",
+      "supplier_nomenclature": "NSIN0013720713",
+      "checked_at_utc": "2026-11-13T14:52:17.495895+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR2930",
+      "supplier_nomenclature": "NSIN0013720724",
+      "checked_at_utc": "2026-11-13T14:52:18.969952+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR2990",
+      "supplier_nomenclature": "NSIN0013720729",
+      "checked_at_utc": "2026-11-13T14:52:19.899120+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3510",
+      "supplier_nomenclature": "NSIN0013720733",
+      "checked_at_utc": "2026-11-13T14:52:20.605736+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3560",
+      "supplier_nomenclature": "NSIN0013720735",
+      "checked_at_utc": "2026-11-13T14:52:21.616630+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3570",
+      "supplier_nomenclature": "NSIN0013720736",
+      "checked_at_utc": "2026-11-13T14:52:22.435148+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3650",
+      "supplier_nomenclature": "NSII0012875995",
+      "checked_at_utc": "2026-11-13T14:52:23.709978+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3720",
+      "supplier_nomenclature": "NSIN0013720742",
+      "checked_at_utc": "2026-11-13T14:52:24.659995+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3750",
+      "supplier_nomenclature": "NSIN0013720744",
+      "checked_at_utc": "2026-11-13T14:52:25.774770+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3770",
+      "supplier_nomenclature": "NSII0010294997",
+      "checked_at_utc": "2026-11-13T14:52:26.704613+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3810",
+      "supplier_nomenclature": "NSIN0013720747",
+      "checked_at_utc": "2026-11-13T14:52:27.574903+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3840",
+      "supplier_nomenclature": "NSIN0013720750",
+      "checked_at_utc": "2026-11-13T14:52:28.762948+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3901",
+      "supplier_nomenclature": "NSIN0013720754",
+      "checked_at_utc": "2026-11-13T14:52:29.596480+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3940",
+      "supplier_nomenclature": "NSIN0013720757",
+      "checked_at_utc": "2026-11-13T14:52:30.591127+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3970",
+      "supplier_nomenclature": "NSIN0013720758",
+      "checked_at_utc": "2026-11-13T14:52:31.571492+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR3980",
+      "supplier_nomenclature": "NSIN0013720759",
+      "checked_at_utc": "2026-11-13T14:52:32.586197+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR4510",
+      "supplier_nomenclature": "NSIN0013720762",
+      "checked_at_utc": "2026-11-13T14:52:33.479987+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR4730",
+      "supplier_nomenclature": "NSIN0013720763",
+      "checked_at_utc": "2026-11-13T14:52:34.366697+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR4740",
+      "supplier_nomenclature": "NSIN0013720764",
+      "checked_at_utc": "2026-11-13T14:52:35.888327+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR4840",
+      "supplier_nomenclature": "NSIN0013720768",
+      "checked_at_utc": "2026-11-13T14:52:36.465349+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR4860",
+      "supplier_nomenclature": "NSIN0013720771",
+      "checked_at_utc": "2026-11-13T14:52:37.677845+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR4880",
+      "supplier_nomenclature": "NSIN0013720773",
+      "checked_at_utc": "2026-11-13T14:52:38.576355+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR4910",
+      "supplier_nomenclature": "NSIN0013720775",
+      "checked_at_utc": "2026-11-13T14:52:39.716629+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR4950",
+      "supplier_nomenclature": "NSIN0013720779",
+      "checked_at_utc": "2026-11-13T14:52:40.773314+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6220",
+      "supplier_nomenclature": "NSIN0013720790",
+      "checked_at_utc": "2026-11-13T14:52:41.695766+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6240",
+      "supplier_nomenclature": "NSIN0013720792",
+      "checked_at_utc": "2026-11-13T14:52:42.499415+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6260",
+      "supplier_nomenclature": "NSIN0013720794",
+      "checked_at_utc": "2026-11-13T14:52:43.708047+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6280",
+      "supplier_nomenclature": "NSIN0013720796",
+      "checked_at_utc": "2026-11-13T14:52:44.576588+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6320",
+      "supplier_nomenclature": "NSIN0013720800",
+      "checked_at_utc": "2026-11-13T14:52:45.498408+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6340R",
+      "supplier_nomenclature": "NSIN0013720802",
+      "checked_at_utc": "2026-11-13T14:52:46.641670+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6380",
+      "supplier_nomenclature": "NSIN0018425341",
+      "checked_at_utc": "2026-11-13T14:52:47.669333+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6650",
+      "supplier_nomenclature": "NSIN0018766704",
+      "checked_at_utc": "2026-11-13T14:52:48.774756+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6660",
+      "supplier_nomenclature": "NSIN0019622382",
+      "checked_at_utc": "2026-11-13T14:52:49.850850+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6680",
+      "supplier_nomenclature": "NSIN0018425342",
+      "checked_at_utc": "2026-11-13T14:52:50.542162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR6820",
+      "supplier_nomenclature": "NSII0026705924",
+      "checked_at_utc": "2026-11-13T14:52:51.295186+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR7321",
+      "supplier_nomenclature": "NSIN0013720810",
+      "checked_at_utc": "2026-11-13T14:52:52.587382+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR7590",
+      "supplier_nomenclature": "NSIN0013720815",
+      "checked_at_utc": "2026-11-13T14:52:53.664369+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR7600",
+      "supplier_nomenclature": "NSIN0013720816",
+      "checked_at_utc": "2026-11-13T14:52:54.416373+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR7690",
+      "supplier_nomenclature": "NSII0018328876",
+      "checked_at_utc": "2026-11-13T14:52:55.454780+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR7840",
+      "supplier_nomenclature": "NSIN0013720822",
+      "checked_at_utc": "2026-11-13T14:52:56.663393+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SR7950",
+      "supplier_nomenclature": "NSIN0018470863",
+      "checked_at_utc": "2026-11-13T14:52:57.673506+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRA100",
+      "supplier_nomenclature": "NSII0017179777",
+      "checked_at_utc": "2026-11-13T14:52:58.385609+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRA110",
+      "supplier_nomenclature": "NSII0018328879",
+      "checked_at_utc": "2026-11-13T14:52:59.454722+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRA120",
+      "supplier_nomenclature": "NSII0018328880",
+      "checked_at_utc": "2026-11-13T14:53:00.446411+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRB010",
+      "supplier_nomenclature": "NSIN0018630817",
+      "checked_at_utc": "2026-11-13T14:53:02.092239+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRB040",
+      "supplier_nomenclature": "NSIN0020164520",
+      "checked_at_utc": "2026-11-13T14:53:03.266411+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRB120L",
+      "supplier_nomenclature": "NSII0007322190",
+      "checked_at_utc": "2026-11-13T14:53:04.615460+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRB060",
+      "supplier_nomenclature": "NSIN0020889952",
+      "checked_at_utc": "2026-11-13T14:53:04.902346+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRB120R",
+      "supplier_nomenclature": "NSII0007322192",
+      "checked_at_utc": "2026-11-13T14:53:05.673072+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRB190M",
+      "supplier_nomenclature": "NSII0013159206",
+      "checked_at_utc": "2026-11-13T14:53:06.815934+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRC040",
+      "supplier_nomenclature": "NSII0026705902",
+      "checked_at_utc": "2026-11-13T14:53:07.580726+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH040",
+      "supplier_nomenclature": "NSIN0019616912",
+      "checked_at_utc": "2026-11-13T14:53:08.857100+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH050",
+      "supplier_nomenclature": "NSIN0019616913",
+      "checked_at_utc": "2026-11-13T14:53:10.051422+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH120",
+      "supplier_nomenclature": "NSIN0019692366",
+      "checked_at_utc": "2026-11-13T14:53:11.257350+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH130",
+      "supplier_nomenclature": "NSIN0023089027",
+      "checked_at_utc": "2026-11-13T14:53:11.457511+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH150",
+      "supplier_nomenclature": "NSIN0020164523",
+      "checked_at_utc": "2026-11-13T14:53:12.620842+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH170",
+      "supplier_nomenclature": "NSII0007322196",
+      "checked_at_utc": "2026-11-13T14:53:13.354060+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH180",
+      "supplier_nomenclature": "NSIN0023088222",
+      "checked_at_utc": "2026-11-13T14:53:14.507757+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH210",
+      "supplier_nomenclature": "NSII0013162221",
+      "checked_at_utc": "2026-11-13T14:53:15.406230+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH260",
+      "supplier_nomenclature": "NSII0007187133",
+      "checked_at_utc": "2026-11-13T14:53:16.420207+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH330",
+      "supplier_nomenclature": "NSII0007322198",
+      "checked_at_utc": "2026-11-13T14:53:17.372436+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH520M",
+      "supplier_nomenclature": "NSII0018328903",
+      "checked_at_utc": "2026-11-13T14:53:18.329650+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH550",
+      "supplier_nomenclature": "NSII0016172180",
+      "checked_at_utc": "2026-11-13T14:53:19.385183+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRH640",
+      "supplier_nomenclature": "NSII0020987855",
+      "checked_at_utc": "2026-11-13T14:53:20.225034+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRI3820",
+      "supplier_nomenclature": "NSII0022956938",
+      "checked_at_utc": "2026-11-13T14:53:21.289037+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRM020",
+      "supplier_nomenclature": "NSII0017678071",
+      "checked_at_utc": "2026-11-13T14:53:22.602276+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRM080",
+      "supplier_nomenclature": "NSII0018328917",
+      "checked_at_utc": "2026-11-13T14:53:23.450833+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRN150",
+      "supplier_nomenclature": "NSIN0019523894",
+      "checked_at_utc": "2026-11-13T14:53:24.588944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRN220",
+      "supplier_nomenclature": "NSIN0023162606",
+      "checked_at_utc": "2026-11-13T14:53:25.504654+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRN240",
+      "supplier_nomenclature": "NSIN0020298642",
+      "checked_at_utc": "2026-11-13T14:53:27.051847+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRN330",
+      "supplier_nomenclature": "NSIN0020843300",
+      "checked_at_utc": "2026-11-13T14:53:27.520765+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRN340",
+      "supplier_nomenclature": "NSIN0020889954",
+      "checked_at_utc": "2026-11-13T14:53:28.505885+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRN580",
+      "supplier_nomenclature": "NSII0015309302",
+      "checked_at_utc": "2026-11-13T14:53:29.607963+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRN680",
+      "supplier_nomenclature": "NSII0015292518",
+      "checked_at_utc": "2026-11-13T14:53:30.410339+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRN680M",
+      "supplier_nomenclature": "NSII0015292519",
+      "checked_at_utc": "2026-11-13T14:53:31.378006+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRS100",
+      "supplier_nomenclature": "NSII0015365214",
+      "checked_at_utc": "2026-11-13T14:53:32.468674+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT020",
+      "supplier_nomenclature": "NSIN0018162130",
+      "checked_at_utc": "2026-11-13T14:53:33.608570+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT030",
+      "supplier_nomenclature": "NSIN0013720826",
+      "checked_at_utc": "2026-11-13T14:53:34.626955+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT050",
+      "supplier_nomenclature": "NSIN0019621480",
+      "checked_at_utc": "2026-11-13T14:53:35.697453+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT120",
+      "supplier_nomenclature": "NSIN0019522761",
+      "checked_at_utc": "2026-11-13T14:53:36.643368+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT170",
+      "supplier_nomenclature": "NSIN0018766706",
+      "checked_at_utc": "2026-11-13T14:53:37.667340+00:00",
+      "api_status": "exact_sku_not_found",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT180",
+      "supplier_nomenclature": "NSIN0018630819",
+      "checked_at_utc": "2026-11-13T14:53:38.481607+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT220",
+      "supplier_nomenclature": "NSIN0018144564",
+      "checked_at_utc": "2026-11-13T14:53:39.663678+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT390",
+      "supplier_nomenclature": "NSIN0020164521",
+      "checked_at_utc": "2026-11-13T14:53:40.462944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT400",
+      "supplier_nomenclature": "NSIN0019746849",
+      "checked_at_utc": "2026-11-13T14:53:41.577351+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT440",
+      "supplier_nomenclature": "NSIN0019746851",
+      "checked_at_utc": "2026-11-13T14:53:42.444915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT480",
+      "supplier_nomenclature": "NSIN0020889955",
+      "checked_at_utc": "2026-11-13T14:53:43.467943+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT520",
+      "supplier_nomenclature": "NSIN0020889956",
+      "checked_at_utc": "2026-11-13T14:53:44.478816+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT530",
+      "supplier_nomenclature": "NSIN0020889957",
+      "checked_at_utc": "2026-11-13T14:53:45.447563+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "555",
+      "article": "SRT540",
+      "supplier_nomenclature": "NSIN0023101247",
+      "checked_at_utc": "2026-11-13T14:53:46.686688+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
