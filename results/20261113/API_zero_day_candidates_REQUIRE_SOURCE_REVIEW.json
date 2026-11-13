@@ -1,4 +1,16 @@
 {
-  "items": [],
+  "items": [
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251227",
+      "supplier_nomenclature": "NSII0028682233",
+      "checked_at_utc": "2026-11-13T15:22:32.814997+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1650,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    }
+  ],
   "not_approved_for_publication": true
 }
