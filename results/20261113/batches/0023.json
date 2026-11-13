@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "863716",
+      "supplier_nomenclature": "NSIN0020839893",
+      "checked_at_utc": "2026-11-13T14:35:53.420575+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "865601",
+      "supplier_nomenclature": "NSIN0006987005",
+      "checked_at_utc": "2026-11-13T14:35:54.193075+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "865613",
+      "supplier_nomenclature": "NSII0011316811",
+      "checked_at_utc": "2026-11-13T14:35:54.989187+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "865614",
+      "supplier_nomenclature": "NSII0011316812",
+      "checked_at_utc": "2026-11-13T14:35:56.215863+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "865705",
+      "supplier_nomenclature": "NSII0011316818",
+      "checked_at_utc": "2026-11-13T14:35:58.041833+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "871628",
+      "supplier_nomenclature": "NSIN0020840047",
+      "checked_at_utc": "2026-11-13T14:36:08.067312+00:00",
+      "api_status": "exact_sku_not_found",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "867707",
+      "supplier_nomenclature": "NSII0011316831",
+      "checked_at_utc": "2026-11-13T14:36:09.836310+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "877614",
+      "supplier_nomenclature": "NSIN0006987015",
+      "checked_at_utc": "2026-11-13T14:36:28.818839+00:00",
+      "api_status": "exact_sku_not_found",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "871700",
+      "supplier_nomenclature": "NSII0013105040",
+      "checked_at_utc": "2026-11-13T14:36:32.985162+00:00",
+      "api_status": "сбой_API_ConnectionError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "881708",
+      "supplier_nomenclature": "NSII0011316883",
+      "checked_at_utc": "2026-11-13T14:36:45.385650+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5400091SX",
+      "supplier_nomenclature": "NSII0023245889",
+      "checked_at_utc": "2026-11-13T14:36:48.350048+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5403435ASX",
+      "supplier_nomenclature": "NSII0014782647",
+      "checked_at_utc": "2026-11-13T14:37:03.024368+00:00",
+      "api_status": "exact_sku_not_found",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5403436ASX",
+      "supplier_nomenclature": "NSII0014782648",
+      "checked_at_utc": "2026-11-13T14:37:06.569780+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5700818SX",
+      "supplier_nomenclature": "NSII0024303572",
+      "checked_at_utc": "2026-11-13T14:37:10.410005+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5702385SX",
+      "supplier_nomenclature": "NSII0018887569",
+      "checked_at_utc": "2026-11-13T14:37:11.362295+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5702972ASX",
+      "supplier_nomenclature": "NSII0014783028",
+      "checked_at_utc": "2026-11-13T14:37:13.279081+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5702973ASX",
+      "supplier_nomenclature": "NSII0014783029",
+      "checked_at_utc": "2026-11-13T14:37:13.489544+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5703987SX",
+      "supplier_nomenclature": "NSII0011506650",
+      "checked_at_utc": "2026-11-13T14:37:14.820870+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5704102ASX",
+      "supplier_nomenclature": "NSII0014783077",
+      "checked_at_utc": "2026-11-13T14:37:15.469015+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5704116ASX",
+      "supplier_nomenclature": "NSII0014783078",
+      "checked_at_utc": "2026-11-13T14:37:16.804065+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5737024ASX",
+      "supplier_nomenclature": "NSII0014783106",
+      "checked_at_utc": "2026-11-13T14:37:17.656432+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "5774021ASX",
+      "supplier_nomenclature": "NSII0019173263",
+      "checked_at_utc": "2026-11-13T14:37:18.700281+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "7701077SX",
+      "supplier_nomenclature": "NSII0016352867",
+      "checked_at_utc": "2026-11-13T14:37:19.544786+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Stellox",
+      "article": "8798127SX",
+      "supplier_nomenclature": "NSII0002157390",
+      "checked_at_utc": "2026-11-13T14:37:20.136826+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Subaru",
+      "article": "20204AG011",
+      "supplier_nomenclature": "NSIN0019707945",
+      "checked_at_utc": "2026-11-13T14:37:21.352820+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Subaru",
+      "article": "20204AG030",
+      "supplier_nomenclature": "NSIN0019986393",
+      "checked_at_utc": "2026-11-13T14:37:22.127331+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Subaru",
+      "article": "20204FL020",
+      "supplier_nomenclature": "NSII0017253040",
+      "checked_at_utc": "2026-11-13T14:37:22.950669+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Subaru",
+      "article": "20254AE020",
+      "supplier_nomenclature": "NSIN0004219748",
+      "checked_at_utc": "2026-11-13T14:37:24.137441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Subaru",
+      "article": "20254FG010",
+      "supplier_nomenclature": "NSIN0019768940",
+      "checked_at_utc": "2026-11-13T14:37:25.069344+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Subaru",
+      "article": "20254FG020",
+      "supplier_nomenclature": "NSIN0019986485",
+      "checked_at_utc": "2026-11-13T14:37:26.070757+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Subaru",
+      "article": "20257XA000",
+      "supplier_nomenclature": "NSIN0019720086",
+      "checked_at_utc": "2026-11-13T14:37:27.081337+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1010",
+      "supplier_nomenclature": "NSII0024849068",
+      "checked_at_utc": "2026-11-13T14:37:28.713129+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1011",
+      "supplier_nomenclature": "NSII0024849069",
+      "checked_at_utc": "2026-11-13T14:37:29.700778+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1017",
+      "supplier_nomenclature": "NSII0024849081",
+      "checked_at_utc": "2026-11-13T14:37:30.214928+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1018",
+      "supplier_nomenclature": "NSII0024849082",
+      "checked_at_utc": "2026-11-13T14:37:31.233953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1019",
+      "supplier_nomenclature": "NSII0024849083",
+      "checked_at_utc": "2026-11-13T14:37:32.248155+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1020",
+      "supplier_nomenclature": "NSII0024849084",
+      "checked_at_utc": "2026-11-13T14:37:33.313900+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1021",
+      "supplier_nomenclature": "NSII0024849085",
+      "checked_at_utc": "2026-11-13T14:37:34.626619+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1033",
+      "supplier_nomenclature": "NSII0024849097",
+      "checked_at_utc": "2026-11-13T14:37:35.425942+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1043",
+      "supplier_nomenclature": "NSII0024849105",
+      "checked_at_utc": "2026-11-13T14:37:36.203589+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1044",
+      "supplier_nomenclature": "NSII0024849106",
+      "checked_at_utc": "2026-11-13T14:37:37.214680+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1045",
+      "supplier_nomenclature": "NSII0024849107",
+      "checked_at_utc": "2026-11-13T14:37:38.188999+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1048",
+      "supplier_nomenclature": "NSII0025741303",
+      "checked_at_utc": "2026-11-13T14:37:38.966003+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1051",
+      "supplier_nomenclature": "NSII0025741304",
+      "checked_at_utc": "2026-11-13T14:37:39.985416+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1053",
+      "supplier_nomenclature": "NSII0025741049",
+      "checked_at_utc": "2026-11-13T14:37:41.086514+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1054",
+      "supplier_nomenclature": "NSII0025741052",
+      "checked_at_utc": "2026-11-13T14:37:41.944566+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1061",
+      "supplier_nomenclature": "NSII0025309765",
+      "checked_at_utc": "2026-11-13T14:37:43.037189+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1062",
+      "supplier_nomenclature": "NSII0025309766",
+      "checked_at_utc": "2026-11-13T14:37:44.042165+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1067",
+      "supplier_nomenclature": "NSII0025290852",
+      "checked_at_utc": "2026-11-13T14:37:44.982097+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1070",
+      "supplier_nomenclature": "NSII0025291222",
+      "checked_at_utc": "2026-11-13T14:37:45.961269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1082",
+      "supplier_nomenclature": "NSII0025291110",
+      "checked_at_utc": "2026-11-13T14:37:47.332879+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1097",
+      "supplier_nomenclature": "NSII0025309801",
+      "checked_at_utc": "2026-11-13T14:37:48.295991+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1099",
+      "supplier_nomenclature": "NSII0025291151",
+      "checked_at_utc": "2026-11-13T14:37:48.995288+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1101",
+      "supplier_nomenclature": "NSII0025741190",
+      "checked_at_utc": "2026-11-13T14:37:50.294946+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1102",
+      "supplier_nomenclature": "NSII0025741281",
+      "checked_at_utc": "2026-11-13T14:37:51.171398+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1103",
+      "supplier_nomenclature": "NSII0025291152",
+      "checked_at_utc": "2026-11-13T14:37:52.041920+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1109",
+      "supplier_nomenclature": "NSII0025291324",
+      "checked_at_utc": "2026-11-13T14:37:52.860310+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1114",
+      "supplier_nomenclature": "NSII0025296954",
+      "checked_at_utc": "2026-11-13T14:37:54.211632+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1125",
+      "supplier_nomenclature": "NSII0025741194",
+      "checked_at_utc": "2026-11-13T14:37:55.310102+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1136",
+      "supplier_nomenclature": "NSII0025290886",
+      "checked_at_utc": "2026-11-13T14:37:56.319915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1137",
+      "supplier_nomenclature": "NSII0025291002",
+      "checked_at_utc": "2026-11-13T14:37:57.422324+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1138",
+      "supplier_nomenclature": "NSII0025741305",
+      "checked_at_utc": "2026-11-13T14:37:58.499289+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1139",
+      "supplier_nomenclature": "NSII0025291112",
+      "checked_at_utc": "2026-11-13T14:37:59.514301+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1160",
+      "supplier_nomenclature": "NSII0025309778",
+      "checked_at_utc": "2026-11-13T14:38:00.486098+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1161",
+      "supplier_nomenclature": "NSII0025309779",
+      "checked_at_utc": "2026-11-13T14:38:01.010179+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1166",
+      "supplier_nomenclature": "NSII0025741061",
+      "checked_at_utc": "2026-11-13T14:38:02.198192+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1167",
+      "supplier_nomenclature": "NSII0025741084",
+      "checked_at_utc": "2026-11-13T14:38:02.935591+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1168",
+      "supplier_nomenclature": "NSII0025741100",
+      "checked_at_utc": "2026-11-13T14:38:03.965347+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1169",
+      "supplier_nomenclature": "NSII0025741102",
+      "checked_at_utc": "2026-11-13T14:38:04.883893+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1171",
+      "supplier_nomenclature": "NSII0025291003",
+      "checked_at_utc": "2026-11-13T14:38:06.092329+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1180",
+      "supplier_nomenclature": "NSII0025290888",
+      "checked_at_utc": "2026-11-13T14:38:06.909028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1181",
+      "supplier_nomenclature": "NSII0025291004",
+      "checked_at_utc": "2026-11-13T14:38:07.877252+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1182",
+      "supplier_nomenclature": "NSII0025290889",
+      "checked_at_utc": "2026-11-13T14:38:09.039569+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1185",
+      "supplier_nomenclature": "NSII0025291005",
+      "checked_at_utc": "2026-11-13T14:38:09.917938+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1186",
+      "supplier_nomenclature": "NSII0025290890",
+      "checked_at_utc": "2026-11-13T14:38:11.378101+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1187",
+      "supplier_nomenclature": "NSII0025291006",
+      "checked_at_utc": "2026-11-13T14:38:12.063679+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1192",
+      "supplier_nomenclature": "NSII0025741307",
+      "checked_at_utc": "2026-11-13T14:38:12.834317+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1199",
+      "supplier_nomenclature": "NSII0025741099",
+      "checked_at_utc": "2026-11-13T14:38:13.847367+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1212",
+      "supplier_nomenclature": "NSII0025741126",
+      "checked_at_utc": "2026-11-13T14:38:14.852038+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1214",
+      "supplier_nomenclature": "NSII0025741216",
+      "checked_at_utc": "2026-11-13T14:38:15.831214+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1216",
+      "supplier_nomenclature": "NSII0025741203",
+      "checked_at_utc": "2026-11-13T14:38:16.843550+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1221",
+      "supplier_nomenclature": "NSII0025290896",
+      "checked_at_utc": "2026-11-13T14:38:18.063953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1222",
+      "supplier_nomenclature": "NSII0025291012",
+      "checked_at_utc": "2026-11-13T14:38:19.023098+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1232",
+      "supplier_nomenclature": "NSII0025291159",
+      "checked_at_utc": "2026-11-13T14:38:20.003223+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1237",
+      "supplier_nomenclature": "NSII0025291386",
+      "checked_at_utc": "2026-11-13T14:38:21.062883+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1241",
+      "supplier_nomenclature": "NSII0025291160",
+      "checked_at_utc": "2026-11-13T14:38:22.181543+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1245",
+      "supplier_nomenclature": "NSII0025290898",
+      "checked_at_utc": "2026-11-13T14:38:23.019344+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1246",
+      "supplier_nomenclature": "NSII0025291014",
+      "checked_at_utc": "2026-11-13T14:38:23.985976+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1252",
+      "supplier_nomenclature": "NSII0025291113",
+      "checked_at_utc": "2026-11-13T14:38:25.262514+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1253",
+      "supplier_nomenclature": "NSII0025291387",
+      "checked_at_utc": "2026-11-13T14:38:26.195242+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1262",
+      "supplier_nomenclature": "NSII0025291165",
+      "checked_at_utc": "2026-11-13T14:38:27.052950+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1270",
+      "supplier_nomenclature": "NSII0025291114",
+      "checked_at_utc": "2026-11-13T14:38:28.177178+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1274",
+      "supplier_nomenclature": "NSII0025291235",
+      "checked_at_utc": "2026-11-13T14:38:28.962741+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1278",
+      "supplier_nomenclature": "NSII0025291166",
+      "checked_at_utc": "2026-11-13T14:38:29.981199+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1279",
+      "supplier_nomenclature": "NSII0025741297",
+      "checked_at_utc": "2026-11-13T14:38:31.131063+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1280",
+      "supplier_nomenclature": "NSII0025741298",
+      "checked_at_utc": "2026-11-13T14:38:32.029274+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1282",
+      "supplier_nomenclature": "NSII0025291168",
+      "checked_at_utc": "2026-11-13T14:38:33.127208+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1286",
+      "supplier_nomenclature": "NSII0025291391",
+      "checked_at_utc": "2026-11-13T14:38:34.268154+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1319",
+      "supplier_nomenclature": "NSII0025290899",
+      "checked_at_utc": "2026-11-13T14:38:35.192239+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "SUFIX",
+      "article": "SH1361",
+      "supplier_nomenclature": "NSII0025291280",
+      "checked_at_utc": "2026-11-13T14:38:36.037156+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
