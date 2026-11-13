@@ -12,7 +12,19 @@
       "supplier_description": "Радиатор отопителя",
       "supplier_fitment": "Mitsubishi Pajero Sport (08-)/L200 (06-)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0352",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:09.316814+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -22,7 +34,19 @@
       "supplier_description": "Радиатор отопителя UAZ 3741, 469, 3151",
       "supplier_fitment": "УАЗ 3741, 469, 3151 (20мм.)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0357",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:10.546270+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -32,7 +56,19 @@
       "supplier_description": "Радиатор отопителя UAZ 3741, 469, 3151",
       "supplier_fitment": "УАЗ 3741, 469, 3151 (16мм.)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0358",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:11.942031+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -42,7 +78,19 @@
       "supplier_description": "Радиатор отопителя",
       "supplier_fitment": "Daewoo Nexia New (08-)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0359",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:12.913033+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -52,7 +100,19 @@
       "supplier_description": "Радиатор отопителя",
       "supplier_fitment": "Toyota Corolla (07-)/Auris (09-)/Avensis (09-)/RAV 4 (06-)/(13-)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0361",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:13.910191+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Marshall",
@@ -62,7 +122,19 @@
       "supplier_description": "Радиатор отопителя для а/м AUDI A1 I, SEAT CORDOBA II, SEAT IBIZA, SEAT TOLEDO IV, SKODA FABIA",
       "supplier_fitment": "Skoda Fabia II 06-, Skoda Rapid I, II 12-, Skoda Roomster 10-, VW Polo Sedan I, II 09-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Marshall",
+        "article": "M4991105",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:15.019975+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -72,7 +144,19 @@
       "supplier_description": "Радиатор печки KIA Sorento 2.4-3.5 02>",
       "supplier_fitment": "KIA SORENTO I 2.5 CRDi 06>11/ KIA SORENTO I 2.5 CRDi 06>11/ KIA SORENTO I 2.5 CRDi 4WD 05>06/ KIA SORENTO I 3.3 V6 4WD 07>11/ KIA SORENTO I 2.5 CRDi 4WD 02>11/ KIA SORENTO I 3.5 V6 4WD 02>11/ KIA SORENTO I 2.4 02>09",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "1035110SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:16.278907+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -82,7 +166,19 @@
       "supplier_description": "Радиатор печки VW Polo all 02>",
       "supplier_fitment": "SKODA RAPID 1.6 TDI 13>15/ SEAT IBIZA IV 1.2 TDI 10>15/ SEAT IBIZA IV 1.9 TDI 08>10/ SEAT IBIZA IV 1.4 08>15/ SEAT IBIZA IV 1.4 TDI 08>10/ SKODA FABIA I 1.9 TDI 00>07/ SKODA FABIA I 1.4 16V 99>07/ SEAT IBIZA IV 1.6 TDI 09>15/ SEAT IBIZA IV 2.0 TDI 10>15/ SEAT IBIZA IV 2.0 TDI 10>15/ SEAT IBIZA IV 1.6 TDI 09>15/ VW POLO IV 1.4 FSI 02>06/ SEAT IBIZA III 1.9 SDI 02>05/ SEAT IBIZA III 1.4 16V 02>07/ SEAT TOLEDO IV 1.6 13>15/ SKODA RAPID 1.6 12>15",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "1035114SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:17.204203+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -92,7 +188,19 @@
       "supplier_description": "Радиатор печки",
       "supplier_fitment": "Ford Focus/C-Max 1.4-2.0/1.8TDCi 04>",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "1035137SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:18.410944+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -102,7 +210,19 @@
       "supplier_description": "Радиатор печки Toyota Carina 1.6-2.0i",
       "supplier_fitment": "TOYOTA CARINA E VI 2.0 GTi (ST191_, ST191R) 92>95/ TOYOTA CARINA E VI 2.0 D (CT190) 92>96/ TOYOTA CARINA E VI 2.0 i (ST191) 93>97/ TOYOTA CARINA E VI 2.0 i (ST191_, ST191R) 95>97/ TOYOTA CARINA E VI 2.0 TD (CT190) 96>97/ TOYOTA CARINA E VI 2.0 TD (CT190_, CT190R) 96>97/ TOYOTA CARINA E VI 1.6 (AT190) 93>97/ TOYOTA CARINA E VI 2.0 i (ST191) 92>97/ TOYOTA CARINA E VI 2.0 D (CT190_, CT190R) 93>97/ TOYOTA CARINA E VI 1.8 i (AT191_, AT191R) 95>97",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "1035217SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:19.595358+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -112,7 +232,19 @@
       "supplier_description": "Радиатор печки Hyundai Tucson All 04>",
       "supplier_fitment": "KIA SPORTAGE II 2.0 CRDi 05>06/ HYUNDAI TUCSON 2.0 CRDi 09>10/ HYUNDAI TUCSON 2.0 CRDi All-wheel Drive 09>10/ HYUNDAI TUCSON 2.0 CRDi All-wheel Drive 06>10/ HYUNDAI TUCSON 2.0 CRDi 06>10/ KIA SPORTAGE II 2.0 CRDi 4WD 08>10/ KIA SPORTAGE II 2.0 CRDi 07>10/ KIA SPORTAGE II 2.0 CRDi 4WD 06>10/ KIA SPORTAGE II 2.0 CRDi 06>10/ KIA SPORTAGE II 2.0 CRDi 4WD 06>08/ HYUNDAI TUCSON 2.0 All-wheel Drive 04>10/ HYUNDAI TUCSON 2.0 CRDi All-wheel Drive 04>10",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "1035249SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:20.555875+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -122,7 +254,19 @@
       "supplier_description": "Радиатор печки",
       "supplier_fitment": "DENSO",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "1035250SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:21.765942+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -132,7 +276,19 @@
       "supplier_description": "Радиатор печки",
       "supplier_fitment": "Toyota Avensis All 97-03",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "1035277SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:23.129564+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -142,7 +298,19 @@
       "supplier_description": "Радиатор печки",
       "supplier_fitment": "Toyota Land Cruiser Prado 4.0 02-10",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "1035297SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:24.195882+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Stellox",
@@ -152,7 +320,19 @@
       "supplier_description": "Радиатор печки Chevrolet Aveo",
       "supplier_fitment": "CHEVROLET AVEO / KALOS 1.2 08>/ CHEVROLET AVEO / KALOS 1.2 04>08/ CHEVROLET AVEO / KALOS 1.4 03>08/ TOYOTA MODEL F 2.0 (YR21_G, YR21RG) 88>90/ CHEVROLET LANOS 1.4 05>10/ CHEVROLET AVEO / KALOS 1.2 LPG 09>/ DAEWOO KALOS 1.4 02>04/ DAEWOO KALOS 1.4 03>04/ CHEVROLET AVEO / KALOS 1.2 05>07/ CHEVROLET AVEO / KALOS 1.4 05>13/ CHEVROLET AVEO / KALOS 1.5 04>06/ CHEVROLET AVEO / KALOS 1.4 08>/ DAEWOO KALOS 1.4 16V 03>/ DAEWOO KALOS 1.2 03>",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Stellox",
+        "article": "8205014SX",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:25.093067+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -162,7 +342,19 @@
       "supplier_description": "Радиатор отопителя GAZELLE NEXT",
       "supplier_fitment": "ГАЗель Next (для отопителя КДБА, алюм.)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1004",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:26.179261+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -172,7 +364,19 @@
       "supplier_description": "Радиатор отопителя LADA 2108-099/2113-15",
       "supplier_fitment": "Лада 2108, 2113 (алюм.)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1006",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:27.402021+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -182,7 +386,19 @@
       "supplier_description": "Радиатор отопителя LADA Vesta",
       "supplier_fitment": "Лада Vesta (15-)/Renault Logan II (12-)/Kaptur (16-)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1008",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:28.560754+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -192,7 +408,19 @@
       "supplier_description": "Радиатор отопителя UAZ PATRIOT",
       "supplier_fitment": "УАЗ 3163 Патриот (05.2012-08.2016) (тип Sanden)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1010",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:29.649652+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -202,7 +430,19 @@
       "supplier_description": "Радиатор отопителя LADA KALINA 1118",
       "supplier_fitment": "Лада 1117-19 Калина (алюм.)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1013",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:30.642183+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -212,7 +452,19 @@
       "supplier_description": "Радиатор отопителя GAZELLE",
       "supplier_fitment": "ГАЗ 3302 ГАЗель (с 2003, 18мм) (алюм.)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1015",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:31.624532+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -222,7 +474,19 @@
       "supplier_description": "Радиатор отопителя LADA PRIORA 2170-72",
       "supplier_fitment": "Лада 2170-72 Приора А/С (тип Halla)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1016",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:32.780606+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -232,7 +496,19 @@
       "supplier_description": "Радиатор отопителя UAZ PATRIOT",
       "supplier_fitment": "УАЗ 3163 Патриот (09.2016-) (тип KDAC)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1020",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:33.763087+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -242,7 +518,19 @@
       "supplier_description": "Радиатор отопителя",
       "supplier_fitment": "CHEVROLET AVEO / KALOS Hatchback (T200) 1.2 2004-01",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1031",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:34.724740+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -252,7 +540,19 @@
       "supplier_description": "Радиатор отопителя",
       "supplier_fitment": "HYUNDAI TUCSON (JM) 2.0 2004-08",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1043",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:35.791385+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -262,7 +562,19 @@
       "supplier_description": "Радиатор отопителя",
       "supplier_fitment": "MITSUBISHI LANCER VII | LANCER CEDIA (CS_A, CT_A) 2.0 (CS9A) 2003-12",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1069",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:36.782707+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -272,7 +584,19 @@
       "supplier_description": "Радиатор отопителя",
       "supplier_fitment": "FORD C-MAX (DM2) 1.6 2007-02",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1074",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:37.997978+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "SUFIX",
@@ -282,7 +606,19 @@
       "supplier_description": "Радиатор отопителя",
       "supplier_fitment": "HYUNDAI ACCENT IV (RB) | SOLARIS | SOLARIS / ACCENT 1.4 2010-11",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "SUFIX",
+        "article": "XH1075",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:35:39.073920+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -292,7 +628,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Skoda Octavia (1Z_) 05-13 / Superb (3T_) 08-15 / Yeti (5L) 09- /  WV Golf V/VI 04-13 / Jetta III (1K2) / Jetta IV (16_) 10- / Passat (3C_) 05-10 / Transporter V 11- AXX, BPY, BWA, BZB, CAWA, CAWB, CBFA, CCTA, CCZA, CDAA, CDAB, CJKA, CJKB",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0009",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:40.179048+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -302,7 +650,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Opel Astra G 98-09 / Astra H 05-10 / Corsa B/C/D 96-09 / Meriva A 04-10 Z10XE(P), X12XE, Z12XE(P), Z14XEP, ",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0010",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:41.292659+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -312,7 +672,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Honda Civic (EU,EP,ES,EV,FD,FA) 03-12 / CR-V (RD_) 01-06 / StepWGN (RG_) 05-09 / Stream (RN_) 05- / Accord (CL,CM) 03-08 K20A",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0016",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:42.617438+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -322,7 +694,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Honda Accord (CU) 08-15 / Honda Civic (FD,FA,FN,FK) 05- / CR-V (RE) 07- / StepWGN (RK) 09-15 / Stream (RN) 05- R16A, R18A, R20A",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0019",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:43.635460+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -332,7 +716,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Hyundai H1 / Starex 01-07 / Kia Sorento (JC) 02- / D4CB",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0021",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:44.615269+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -342,7 +738,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Citroen C1 05- / Peugeot 107/108 05- / Toyota Passo (KGC1_) 05-10 / Yaris (KSP9_,KSP13_) 05- / 1KR-FE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0034",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:45.691955+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -352,7 +760,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Toyota Allion / Premio (ZZT24_) 01-07 / Corolla (ZZE12_, ZZE15_) 01-07 / Auris (ZZE15_) 07-12 / Avensis (ZZT22_,ZZT25_) 00-08 / Opa (ZCT1_) 00-03 / RAV4 (ZCA2_) 00-05 1ZZ-FE, 3ZZ-FE, 4ZZ-FE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0038",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:46.815405+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -362,7 +782,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Audi A3 (8PA) 07-12 / Skoda Octavia (1Z_) 08-13 / Radip 12- /  Superb (3T_) 08-15 / WV Golf V/VI 03-12 / Jetta IV (16_) 10- / Passat (3C_, 362) 05-14 / Tiguan (5N) 07-17 / Touran (1T1, 1T2,1T3) 03-15 CAVA, CAVB, CAVG, CAXA, CAXC, CAXS, CMSA, CTHB, BWK, BMY ",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0045",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:48.069805+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -372,7 +804,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Suzuki Grand Vitara (JT) 05- / Ignis 00- / Jimny 01- / Swift (MZ,EZ,FZ,NZ) 05- / SX4 (EY,GY) 06- M13A, M15A, M16A",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0047",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:49.136315+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -382,7 +826,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Nissan AD (Y11) 99-04 / Almera (N16) 00- / Bluebird Sylphy (G10) 00-05 / Avenir / Expert (W11) 98-04 / Primera (P11,P12) 96- / Sunny (B15) 97-03 QG13DE, QG15DE, QG18DE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0052",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:50.243573+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -392,7 +848,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Audi A3 (8P) 04-12 / A4 (B8) 08-15 / A5 09-11 / Q3 (4L) 11-18 / Superb (3T) 08-15 / Yeti (5L) 09- /  Golf VI (5K1) 09-12 / Passat (3C) 05-10 / Passat (B7) 10-14 / TIGUAN (5N) 07-17 1.8-2.0 TSI / TFSI",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0053",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:51.392247+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -402,7 +870,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Audi A3 (8P) 03-12 / Skoda Octavia (1Z_) 08-13 / Radip 12-/ Roomster (5J) 06-15 / Yeti (5L) 10- / Volkswagen Golf (1K1) 03-08 / Jetta (1K2, 162) 06- / Passat (3C_) 05-10 / Polo (9N_,6R) 01-09 / Polo Sedan (rus) 10- BAG, BLF, BLP, BTS, CAXA, CAXS, CMSA, CFNA, CFNB ",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0064",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:52.622040+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -412,7 +892,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Nissan Navara (D40) 05- / Pathfinder (R51) 05-14 YD25DDTi",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0082",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:53.912796+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -422,7 +914,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "BMW 1 (E81,E87,E88) 05-11 / BMW 1 (F20,F21) 11- / BMW 3 (E90,E91,E92,E93,F30) 05- / BMW 5 (E60,E61,F07) 05- / X1 (E84) 09-15 / X3 (E83) 06-10 / X5 (E70,F15,F85) 07- / X6 (F16, F86) 14- N52B25, N52B30, N55B30",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0088",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:54.856604+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -432,7 +936,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Ford Mondeo IV 07-14 / Kuga II 13- / S-MAX 06-14 / Galaxy II 06-15 / Ranger 11- 2.3-2.5",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0091",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:55.979397+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -442,7 +958,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Hyundai I30 (GD) 13-17 / Sportage (SL) 11-15 / Ix35 (LM) 10- / Tucson 15- / Kia Ceed (JD) 12-18 / Cerato (YD) 13- / Soul (AM) 11-13 / Soul (PS) 14- G4FA, G4FC, G4FD, G4FG",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0097",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:57.690255+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -452,7 +980,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Toyota Corolla / Fielder (NZE12_) 04-06 / Corolla Axio / Fielder (NZE16_) 12- / Allion (NZT260) 07- / Yaris (P9_) 06-11 1NZ-FE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0102",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:58.606710+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -462,7 +1002,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Opel Astra H 04-10 / Corsa C 00-06 / Corsa D 06-14 / Meriva 04-10 (Z12XEP, Z14XEP)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0111",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:35:59.658775+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -472,7 +1024,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Mercedes-Benz C-Class (W203,W204) 05-14 / E-Class (W211,W212) 04-16 / M-Class (W164) 05-11 / S-Class (W221) 05-13 / Sprinter 3-T (906) 06- / Viano (W639) 03- M272, M273",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0123",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:00.883954+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -482,7 +1046,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Nissan Almera (N15) 95-00 / AD Wagon (Y10) 92-00 GA14DE, GA15DE, GA16DE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0152",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:01.890613+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -492,7 +1068,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Nissan Juke 10- / Sentra 14- HR16DE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0154",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:02.856434+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -502,7 +1090,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Ssangyong Actyon 12- / Korando C 10- G20DT",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0173",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:04.068232+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -512,7 +1112,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Mitsubishi ASX 10- / Lancer(CY,CX) 08- / Outlander (CW_W,GF_W) 06- 4B10,4B11",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0176",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:04.978151+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -522,7 +1134,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Opel Astra G 98-09 / Vectra B/C 00-08 / Zafira A/B 00-11 Z22SE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0183",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:05.911864+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -532,7 +1156,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Opel Astra G 98-09 / Vectra B/C 00-08 / Zafira A/B 00-11 Z22SE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0184",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:07.392039+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -542,7 +1178,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "BMW 3 (E46) 98-05 / BMW 5 (E39) 96-04 / X3 (E83) 04-10 / X5 (E53) 00-06 M50/M52/M54",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0187",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:08.974765+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -552,7 +1200,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Suzuki Grand Vitara (JT,JB) 09-12 J24B",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0188",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:10.015182+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -562,7 +1222,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "BMW X5 (E53) 00-06 M62B44 / M62B46",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0189",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:11.178713+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -572,7 +1244,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "BMW 5 (E60) 05-10 / BMW 7 (E65/E66) 05-08 / X5 (E53) 04-06 / X5 (E70) 07-08 N62B40/N62B44/N62B48",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0190",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:12.155415+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -582,7 +1266,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Mitsubishi Outlander XL (CW_W) 05-12 / Delica D:5 (CV5W) 12- 4B12",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0194",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:13.143241+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -592,7 +1288,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Audi A3/S3 04-08 / Seat Ibiza/ST 06-10 / Skoda / Volkswagen Polo/Derby/Vento 02-08 / Touran 03-08 / Golf Plus 05-07",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0199",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:14.250496+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -602,7 +1310,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Honda Accord 03- / Civic 03-/ CR-V 03-/ Fr-v 03-/ Stream 01-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0201",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:15.782524+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -612,7 +1332,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Toyota Auris (E150) 06-12 / Corolla (E120,E130,E140,150) 04-18 / Fielder (NKE165,NRE16#,NZE16#,ZRE162) 15- / Passo (KGC3#,NGC30) 10-14 / Porte/Spade (NCP14#,NSP14#) 12-15 / Ractis (NCP12#,NSP12#) 10-14 / Scion IQ (NGJ10) 11-15 / Vitz (KSP130,NCP131,NHP130,NSP13#) 10- / Yaris (P10,P90) 01-11 / 1NRFE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0205",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:16.736365+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -622,7 +1354,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "Citroen Jumpy (V_) 16- / Ford Galaxy (WM) 08-15 / Mondeo 08-15 / S-Max (WS) 08-14 / Opel Zafira (K0) 19- / Peugeot 407 SW (6E_) 06-10 / 607 (9D, 9U) 06-10 / Expert 16-/ Land rover Freelander II (FA/L359) 06-14 / Range Rover Evoque (LV/L538) 11-16 / Дизель",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "TK0208",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:17.692476+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -632,7 +1376,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "FORD FOCUS II / C-MAX 2.0I AODA / AODB 04>",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0003FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:18.795327+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -642,7 +1398,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "FORD FOCUS II / C-MAX 2.0I AODA / AODB 04>",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0003K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:20.198827+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -652,7 +1420,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "KIA SORENTO 2.5 CRDI D4CB 02-10",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0004K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:21.496444+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -662,7 +1442,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "NISSAN PATHFINDER III 2.5 DCI YD25 05-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0007FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:22.925606+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -672,7 +1464,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "NISSAN X-TRAIL / PRIMERA 2.0I-2.5I QR20 / QR25 01-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0011FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:24.033358+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -682,7 +1486,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "AUDI A3 / A4 / A5, VOLKSWAGEN PASSAT 1.8-2.0 TFSI 06-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0013FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:25.386100+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -692,7 +1508,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "NISSAN ALMERA / TINO 1.5I-1.8I 16V QG15 / QG18DE 00",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0015K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:27.135160+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -702,7 +1530,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "NISSAN X-TRAIL / QASHQAI MR20DE 02-13",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0016FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:28.465233+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -712,7 +1552,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "NISSAN X-TRAIL / QASHQAI MR20DE 02-13",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0016K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:30.137768+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -722,7 +1574,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "HYUNDAI / KIA SOLARIS / I30 / CEE'D / RIO G4FA / G4FC 1.4-1.6 09-16",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0024FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:31.834681+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -732,7 +1596,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "HYUNDAI / KIA SOLARIS / I30 / CEE'D / RIO G4FA / G4FC 1.4-1.6 09-16",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0024K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:33.207248+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -742,7 +1618,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "AUDI.VOLKSWAGEN 1.4FSI-1.6FSI BAG / BLF / BLP 03-12",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0025FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:34.622678+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -752,7 +1640,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "CITROEN / PEUGEOT C3 / C4 / C5 / 8FN BMW F20 / F30 N13B16A",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0028FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:35.937633+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -762,7 +1662,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "CITROEN / PEUGEOT C3 / C4 / C5 / 8FN BMW F20 / F30 N13B16A",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0028K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:37.088156+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -772,7 +1684,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA AVENSIS 2.0I / 2.4I 16V 1AZFE / 2AZFE 01-11",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0029FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:38.394271+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -782,7 +1706,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA AVENSIS 2.0I / 2.4I 16V 1AZFE / 2AZFE 01- 11",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0029K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:39.708749+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -792,7 +1728,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA COROLLA 1.4I-1.6I-1.8I 1ZZ-FE / 3ZZ-FE / 4ZZ-FE 00-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0032FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:41.071822+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -802,7 +1750,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "FTOYOTA COROLLA 1.4I-1.6I-1.8I 1ZZ-FE / 3ZZ-FE / 4ZZ-FE 00- (VVT)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0032VFK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:42.521299+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 3
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -812,7 +1772,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "NISSAN ALMERA II / JUKE / NOTE / QASHQAI +2 I / TIIDA HR16DE 05-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0036K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:43.871571+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -822,7 +1794,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "HONDA ACCORD 2.0 VTI-E 5AT K20Z4 / K20A4 07-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0042FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:45.030489+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -832,7 +1816,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA YARIS 1.0L 1KR-FE 05-14",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0047FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:46.243403+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -842,7 +1838,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "CITROEN / PEUGEOT C4 1.6 THP 140 / 1.6 THP 1 5FR (EP6DT)",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0052FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:47.451357+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -852,7 +1860,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "AUDI, VOLKSWAGEN:2.0TSI / TFSI 04",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0062K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:48.587170+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -862,7 +1882,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "HYUNDAI IX35 / SANTA FE II / SONATA G4KD / G4KE 2.0L-2.4L 08-14",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0063K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:49.778993+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -872,7 +1904,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "MAZDA 3 B6ZE / Z6 1.6I 04-03-09",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0068FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:50.985639+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -882,7 +1926,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "HONDA ACCORD VII / CIVIC VII / CR-V K20A 01-08",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0069FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:52.124530+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -892,7 +1948,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "HONDA ACCORD VII / CIVIC VII / CR-V K20A 01-08",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0069K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:53.361622+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -902,7 +1970,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "MAZDA 6 2.3 MPS TURBO L3C1 02-07",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0082FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:54.621852+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -912,7 +1992,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "MITSUBISHI PAJERO II 2.8 TD 4M40-T 94-99",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0083FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:55.920803+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -922,7 +2014,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "MITSUBISHI PAJERO II 2.8 TD 4M40-T 94-99",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0083K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:56.951645+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -932,7 +2036,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA 1NZ-FE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0113FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:57.898115+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -942,7 +2058,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA / LEXUS CAMRY / 3.5I 2GR-FE 06-15",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0133K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:36:58.984875+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -952,7 +2080,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA ECHO / PORTE / PREMIO / VIOS / YARIS 02-14",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0135FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:37:00.381072+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -962,7 +2102,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA AURIS / COROLLA / YARIS 1.3I 1NR-FE 12-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0151K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:37:01.542568+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -972,7 +2124,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA ECOH 1.0 1SZ-FE 99-05",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0152FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:37:02.671481+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -982,7 +2146,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "TOYOTA 1SZ-FE",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0152K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:37:04.051601+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -992,7 +2168,19 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "HONDA ACCORD / CR-V 2.0I R20A 08-15",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0181FK",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:37:05.157582+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Master KiT",
@@ -1002,9 +2190,30 @@
       "supplier_description": "Комплект цепи ГРМ",
       "supplier_fitment": "HYUNDAI / KIA SOLARIS / I35 G4FD 1.6I 14-",
       "supplier_OEM_field": "",
-      "review_status": "PENDING_REVIEW"
+      "review_status": "BLOCKED_ZERO_DAY_DELIVERY_NOT_CONFIRMED",
+      "account_API_review": {
+        "brand": "Master KiT",
+        "article": "77B0187K",
+        "category": "Комплекты цепи ГРМ",
+        "checked_at_utc": "2026-11-13T13:37:06.263611+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "DEFERRED_PENDING_FRESH_ZERO_DAY_API",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     }
   ],
   "publication_performed": false,
-  "no_XML_changes": true
+  "no_XML_changes": true,
+  "account_API_workflow_run_id": 43434837826,
+  "API_requests_attempted": 100,
+  "account_API_review_completed": true,
+  "API_status_counts": {
+    "Иркутск_есть_иной_срок": 100
+  },
+  "ready_for_full_source_review_count": 0,
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_private_buying_prices_written": true
 }

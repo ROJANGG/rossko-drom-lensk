@@ -19,7 +19,7 @@ def validate(records):
     if len(records)!=100 or digest!=SCOPE_SHA256:raise ValueError('Unexpected exact 100-SKU scope')
     if len({(canon(r['brand']),canon(r['article'])) for r in records})!=100:raise ValueError('Duplicate SKU')
     if any(r['category'] not in ('Радиаторы печки','Комплекты цепи ГРМ') for r in records):raise ValueError('Unexpected category')
-def review(records,found,client,creds,delivery,sleep=time.sleep):
+def review(records,found,client,creds,delivery,sleep=time.sleep,checkpoint=None):
     results=[];attempts=0;transient_streak=0
     for index,r in enumerate(records):
         k=(canon(r['brand']),canon(r['article']));item=found.get(k)
@@ -34,7 +34,9 @@ def review(records,found,client,creds,delivery,sleep=time.sleep):
             sleep(0.35)
         else:out['api_status']='NO_FRESH_SUPPLIER_ZERO_DAY_STOCK'
         results.append(out)
-        if (index+1)%20==0:print('AVITO_BATCH03_PROGRESS',json.dumps({'processed':index+1,'scope':100,'API_requests':attempts,'status_counts':dict(Counter(x['api_status'] for x in results))},ensure_ascii=False),flush=True)
+        if (index+1)%20==0:
+            print('AVITO_BATCH03_PROGRESS',json.dumps({'processed':index+1,'scope':100,'API_requests':attempts,'status_counts':dict(Counter(x['api_status'] for x in results))},ensure_ascii=False),flush=True)
+            if checkpoint is not None:checkpoint(results,attempts)
     return results,attempts
 def main():
     records=json.loads(Path('input/avito_expansion_batch03_20261113.json').read_text())['items'];validate(records)
@@ -56,7 +58,10 @@ def main():
     if not all(creds.values()):raise ValueError('Missing account credentials')
     checkout=retry_transient(lambda:rpc(zeep_client('GetCheckoutDetails'),'GetCheckoutDetails',creds),attempts=3);delivery,_=choose_delivery(checkout)
     if not delivery:raise ValueError('Account delivery not confirmed')
-    results,attempts=review(records,found,zeep_client('GetSearch'),creds,delivery)
+    def checkpoint(results,attempts):
+        Path('review').mkdir(exist_ok=True)
+        Path('review/expansion-batch03-progress.json').write_text(json.dumps({'processed':len(results),'scope':100,'API_requests_attempted':attempts,'results':results,'publication_performed':False,'no_private_buying_prices_written':True},ensure_ascii=False,indent=2)+'\n')
+    results,attempts=review(records,found,zeep_client('GetSearch'),creds,delivery,checkpoint=checkpoint)
     report={'batch_size':100,'API_requests_attempted':attempts,'results':results,'status_counts':dict(Counter(r['api_status'] for r in results)),'ready_for_full_source_review':[{'brand':r['brand'],'article':r['article']} for r in results if r.get('avito_retail_rub')],'source_review_policy':'Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate','no_XML_changes':True,'no_private_buying_prices_written':True,'publication_performed':False}
     Path('review').mkdir(exist_ok=True);Path('review/expansion-batch03-api-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print('AVITO_EXPANSION_BATCH03_REVIEW',json.dumps(report,ensure_ascii=False),flush=True)
 if __name__=='__main__':main()

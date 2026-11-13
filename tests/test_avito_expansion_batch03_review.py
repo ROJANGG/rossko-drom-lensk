@@ -14,6 +14,12 @@ class Batch100Guards(unittest.TestCase):
         self.scope['audit_one']=lambda *a:{'status':'сбой_API_ConnectionError','private_field':'DO_NOT_WRITE'}
         out,attempts=self.scope['review'](self.rs,self.found,None,{},None,sleep=lambda _:None)
         self.assertEqual(attempts,5);self.assertEqual(len(out),100);self.assertEqual(sum(r['api_status']=='NOT_CHECKED_API_TEMPORARY_FAILURE_LIMIT' for r in out),95);self.assertNotIn('DO_NOT_WRITE',json.dumps(out))
+    def test_safe_resume_checkpoints_every_twenty_records(self):
+        self.scope['audit_one']=lambda *a:{'status':'Иркутск_есть_иной_срок'}
+        checkpoints=[]
+        self.scope['review'](self.rs,self.found,None,{},None,sleep=lambda _:None,checkpoint=lambda out,attempts:checkpoints.append((len(out),attempts)))
+        self.assertEqual(checkpoints,[(20,20),(40,40),(60,60),(80,80),(100,100)])
+
     def test_other_delivery_does_not_produce_retail_or_ready_listing(self):
         self.scope['audit_one']=lambda *a:{'status':'Иркутск_есть_иной_срок','api_irkutsk_same_delivery_price_rub':'DO_NOT_WRITE'}
         out,attempts=self.scope['review'](self.rs,self.found,None,{},None,sleep=lambda _:None)
