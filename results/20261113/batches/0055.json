@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1703",
+      "supplier_nomenclature": "NSII0025740278",
+      "checked_at_utc": "2026-11-13T15:31:04.744092+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1707",
+      "supplier_nomenclature": "NSII0025740280",
+      "checked_at_utc": "2026-11-13T15:31:06.637714+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1708",
+      "supplier_nomenclature": "NSII0025740381",
+      "checked_at_utc": "2026-11-13T15:31:07.779994+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1704",
+      "supplier_nomenclature": "NSII0025740379",
+      "checked_at_utc": "2026-11-13T15:31:07.810028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1725",
+      "supplier_nomenclature": "NSII0026829742",
+      "checked_at_utc": "2026-11-13T15:31:08.668657+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1728",
+      "supplier_nomenclature": "NSII0028782679",
+      "checked_at_utc": "2026-11-13T15:31:09.348961+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1729",
+      "supplier_nomenclature": "NSII0028782107",
+      "checked_at_utc": "2026-11-13T15:31:10.595994+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1744",
+      "supplier_nomenclature": "NSII0028806549",
+      "checked_at_utc": "2026-11-13T15:31:11.511699+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1745",
+      "supplier_nomenclature": "NSII0027928987",
+      "checked_at_utc": "2026-11-13T15:31:12.487927+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1746",
+      "supplier_nomenclature": "NSII0028806552",
+      "checked_at_utc": "2026-11-13T15:31:13.450063+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1762",
+      "supplier_nomenclature": "NSII0028806551",
+      "checked_at_utc": "2026-11-13T15:31:14.399035+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1763",
+      "supplier_nomenclature": "NSII0027940765",
+      "checked_at_utc": "2026-11-13T15:31:15.641683+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1778",
+      "supplier_nomenclature": "NSII0028782105",
+      "checked_at_utc": "2026-11-13T15:31:16.467787+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1779",
+      "supplier_nomenclature": "NSII0028782108",
+      "checked_at_utc": "2026-11-13T15:31:17.429107+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1793",
+      "supplier_nomenclature": "NSII0028782106",
+      "checked_at_utc": "2026-11-13T15:31:18.571044+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1797",
+      "supplier_nomenclature": "NSII0028954022",
+      "checked_at_utc": "2026-11-13T15:31:19.454498+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1798",
+      "supplier_nomenclature": "NSII0028954023",
+      "checked_at_utc": "2026-11-13T15:31:20.448706+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1799",
+      "supplier_nomenclature": "NSII0028954024",
+      "checked_at_utc": "2026-11-13T15:31:21.378058+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1812",
+      "supplier_nomenclature": "NSII0028954029",
+      "checked_at_utc": "2026-11-13T15:31:22.457071+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1820",
+      "supplier_nomenclature": "NSII0028954034",
+      "checked_at_utc": "2026-11-13T15:31:23.379328+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1821",
+      "supplier_nomenclature": "NSII0028954035",
+      "checked_at_utc": "2026-11-13T15:31:24.367538+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1825",
+      "supplier_nomenclature": "NSII0028954036",
+      "checked_at_utc": "2026-11-13T15:31:25.448349+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1826",
+      "supplier_nomenclature": "NSII0028954037",
+      "checked_at_utc": "2026-11-13T15:31:26.533267+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1024",
+      "supplier_nomenclature": "NSII0024067288",
+      "checked_at_utc": "2026-11-13T15:31:28.228699+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1106",
+      "supplier_nomenclature": "NSII0028522391",
+      "checked_at_utc": "2026-11-13T15:31:28.397517+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1735L",
+      "supplier_nomenclature": "NSII0024067382",
+      "checked_at_utc": "2026-11-13T15:31:29.762765+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1735R",
+      "supplier_nomenclature": "NSII0024067383",
+      "checked_at_utc": "2026-11-13T15:31:31.966155+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1740R",
+      "supplier_nomenclature": "NSII0024067390",
+      "checked_at_utc": "2026-11-13T15:31:32.336116+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1745R",
+      "supplier_nomenclature": "NSII0024116983",
+      "checked_at_utc": "2026-11-13T15:31:33.005122+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1746L",
+      "supplier_nomenclature": "NSII0024067394",
+      "checked_at_utc": "2026-11-13T15:31:34.203261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1746R",
+      "supplier_nomenclature": "NSII0024067395",
+      "checked_at_utc": "2026-11-13T15:31:35.412511+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1770L",
+      "supplier_nomenclature": "NSII0024067433",
+      "checked_at_utc": "2026-11-13T15:31:35.566115+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "TATSUMI",
+      "article": "TEC1770R",
+      "supplier_nomenclature": "NSII0024067434",
+      "checked_at_utc": "2026-11-13T15:31:36.722299+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB01177",
+      "supplier_nomenclature": "NSIN0006155622",
+      "checked_at_utc": "2026-11-13T15:31:38.306301+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB01199",
+      "supplier_nomenclature": "NSIN0017856038",
+      "checked_at_utc": "2026-11-13T15:31:39.261690+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB01323",
+      "supplier_nomenclature": "NSIN0017519835",
+      "checked_at_utc": "2026-11-13T15:31:41.163302+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB01515",
+      "supplier_nomenclature": "NSIN0018140218",
+      "checked_at_utc": "2026-11-13T15:31:41.841515+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB01701",
+      "supplier_nomenclature": "NSII0009259634",
+      "checked_at_utc": "2026-11-13T15:31:42.962861+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB01611",
+      "supplier_nomenclature": "NSIN0020890425",
+      "checked_at_utc": "2026-11-13T15:31:43.295504+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB02126",
+      "supplier_nomenclature": "NSIN0023152809",
+      "checked_at_utc": "2026-11-13T15:31:44.537225+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB02144",
+      "supplier_nomenclature": "NSII0007528604",
+      "checked_at_utc": "2026-11-13T15:31:45.720634+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB02156",
+      "supplier_nomenclature": "NSII0008185978",
+      "checked_at_utc": "2026-11-13T15:31:46.749922+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0404",
+      "supplier_nomenclature": "NSIN0006136887",
+      "checked_at_utc": "2026-11-13T15:31:48.194054+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0610",
+      "supplier_nomenclature": "NSII0018271804",
+      "checked_at_utc": "2026-11-13T15:31:48.506284+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0709",
+      "supplier_nomenclature": "NSIN0006139886",
+      "checked_at_utc": "2026-11-13T15:31:49.508078+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0758",
+      "supplier_nomenclature": "NSIN0007147653",
+      "checked_at_utc": "2026-11-13T15:31:50.400720+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0795",
+      "supplier_nomenclature": "NSIN0007147664",
+      "checked_at_utc": "2026-11-13T15:31:51.795422+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0796",
+      "supplier_nomenclature": "NSII0010432586",
+      "checked_at_utc": "2026-11-13T15:31:52.716815+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0799",
+      "supplier_nomenclature": "NSII0024386184",
+      "checked_at_utc": "2026-11-13T15:31:52.936849+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0923",
+      "supplier_nomenclature": "NSIN0017519838",
+      "checked_at_utc": "2026-11-13T15:31:53.833846+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0973",
+      "supplier_nomenclature": "NSIN0018480788",
+      "checked_at_utc": "2026-11-13T15:31:54.925830+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB0984",
+      "supplier_nomenclature": "NSIN0007147714",
+      "checked_at_utc": "2026-11-13T15:31:57.441485+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB2794",
+      "supplier_nomenclature": "NSIN0007147866",
+      "checked_at_utc": "2026-11-13T15:31:58.240258+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB31140",
+      "supplier_nomenclature": "NSIN0007147886",
+      "checked_at_utc": "2026-11-13T15:31:59.076485+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB31155",
+      "supplier_nomenclature": "NSIN0007147891",
+      "checked_at_utc": "2026-11-13T15:32:00.452422+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB31256",
+      "supplier_nomenclature": "NSIN0017856338",
+      "checked_at_utc": "2026-11-13T15:32:01.523792+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB31578",
+      "supplier_nomenclature": "NSIN0019648246",
+      "checked_at_utc": "2026-11-13T15:32:02.587703+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3163",
+      "supplier_nomenclature": "NSIN0006134717",
+      "checked_at_utc": "2026-11-13T15:32:04.586857+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB31634",
+      "supplier_nomenclature": "NSIN0020890486",
+      "checked_at_utc": "2026-11-13T15:32:04.663747+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB31690",
+      "supplier_nomenclature": "NSIN0023091536",
+      "checked_at_utc": "2026-11-13T15:32:06.236635+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB31768",
+      "supplier_nomenclature": "NSIN0020881537",
+      "checked_at_utc": "2026-11-13T15:32:08.305008+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB31798",
+      "supplier_nomenclature": "NSIN0020890500",
+      "checked_at_utc": "2026-11-13T15:32:09.558009+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB32023",
+      "supplier_nomenclature": "NSIN0023091537",
+      "checked_at_utc": "2026-11-13T15:32:11.122792+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB32181",
+      "supplier_nomenclature": "NSII0025996993",
+      "checked_at_utc": "2026-11-13T15:32:12.215661+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB32040",
+      "supplier_nomenclature": "NSIN0023159942",
+      "checked_at_utc": "2026-11-13T15:32:12.500905+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB32183",
+      "supplier_nomenclature": "NSII0025996995",
+      "checked_at_utc": "2026-11-13T15:32:13.123563+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB32184",
+      "supplier_nomenclature": "NSII0025996996",
+      "checked_at_utc": "2026-11-13T15:32:14.319143+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB32273",
+      "supplier_nomenclature": "NSII0017367410",
+      "checked_at_utc": "2026-11-13T15:32:15.550187+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3234",
+      "supplier_nomenclature": "NSIN0006134692",
+      "checked_at_utc": "2026-11-13T15:32:17.658282+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB32493",
+      "supplier_nomenclature": "NSII0019940388",
+      "checked_at_utc": "2026-11-13T15:32:18.229602+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3260",
+      "supplier_nomenclature": "NSIN0006134721",
+      "checked_at_utc": "2026-11-13T15:32:19.637541+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3458",
+      "supplier_nomenclature": "NSIN0006134256",
+      "checked_at_utc": "2026-11-13T15:32:20.803891+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3445",
+      "supplier_nomenclature": "NSIN0006136419",
+      "checked_at_utc": "2026-11-13T15:32:21.139048+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3471",
+      "supplier_nomenclature": "NSIN0007147917",
+      "checked_at_utc": "2026-11-13T15:32:22.612951+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3551",
+      "supplier_nomenclature": "NSIN0006134671",
+      "checked_at_utc": "2026-11-13T15:32:23.633617+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3555",
+      "supplier_nomenclature": "NSIN0006134673",
+      "checked_at_utc": "2026-11-13T15:32:23.936091+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3582",
+      "supplier_nomenclature": "NSIN0006142742",
+      "checked_at_utc": "2026-11-13T15:32:24.838372+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3745",
+      "supplier_nomenclature": "NSIN0007147934",
+      "checked_at_utc": "2026-11-13T15:32:25.725203+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3867",
+      "supplier_nomenclature": "NSIN0007147977",
+      "checked_at_utc": "2026-11-13T15:32:27.290594+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3882",
+      "supplier_nomenclature": "NSIN0007147981",
+      "checked_at_utc": "2026-11-13T15:32:27.972820+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3901",
+      "supplier_nomenclature": "NSIN0007147986",
+      "checked_at_utc": "2026-11-13T15:32:29.694330+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3912",
+      "supplier_nomenclature": "NSIN0019310034",
+      "checked_at_utc": "2026-11-13T15:32:30.576054+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Allied Nippon",
+      "article": "ADB3949",
+      "supplier_nomenclature": "NSIN0007148006",
+      "checked_at_utc": "2026-11-13T15:32:31.330530+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "AMD",
+      "article": "AMDBF185",
+      "supplier_nomenclature": "NSII0007187480",
+      "checked_at_utc": "2026-11-13T15:32:32.165790+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0173",
+      "supplier_nomenclature": "NSII0015386808",
+      "checked_at_utc": "2026-11-13T15:32:33.642255+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "AMD",
+      "article": "AMDBF389",
+      "supplier_nomenclature": "NSII0012903398",
+      "checked_at_utc": "2026-11-13T15:32:34.099594+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0174",
+      "supplier_nomenclature": "NSII0015386968",
+      "checked_at_utc": "2026-11-13T15:32:34.948043+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0176",
+      "supplier_nomenclature": "NSII0015386810",
+      "checked_at_utc": "2026-11-13T15:32:35.785312+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0239",
+      "supplier_nomenclature": "NSII0015387004",
+      "checked_at_utc": "2026-11-13T15:32:36.595405+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0268P",
+      "supplier_nomenclature": "NSII0015386839",
+      "checked_at_utc": "2026-11-13T15:32:38.268482+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0292",
+      "supplier_nomenclature": "NSII0015387038",
+      "checked_at_utc": "2026-11-13T15:32:39.916947+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0384P",
+      "supplier_nomenclature": "NSII0015387090",
+      "checked_at_utc": "2026-11-13T15:32:40.416669+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0418",
+      "supplier_nomenclature": "NSII0015386888",
+      "checked_at_utc": "2026-11-13T15:32:42.232618+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0461P",
+      "supplier_nomenclature": "NSII0015387183",
+      "checked_at_utc": "2026-11-13T15:32:42.603664+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0485",
+      "supplier_nomenclature": "NSII0017371179",
+      "checked_at_utc": "2026-11-13T15:32:44.088593+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0509",
+      "supplier_nomenclature": "NSII0015387156",
+      "checked_at_utc": "2026-11-13T15:32:44.636448+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Blitz",
+      "article": "BB0533",
+      "supplier_nomenclature": "NSII0019943768",
+      "checked_at_utc": "2026-11-13T15:32:45.427441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "BM",
+      "article": "FD7003",
+      "supplier_nomenclature": "NSII0013397339",
+      "checked_at_utc": "2026-11-13T15:32:46.189454+00:00",
+      "api_status": "exact_sku_not_found",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Brave",
+      "article": "BRBP1127",
+      "supplier_nomenclature": "NSII0026705874",
+      "checked_at_utc": "2026-11-13T15:32:46.776082+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Brave",
+      "article": "BRBP1138",
+      "supplier_nomenclature": "NSII0027494941",
+      "checked_at_utc": "2026-11-13T15:32:47.969185+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
