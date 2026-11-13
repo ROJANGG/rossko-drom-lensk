@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Тяги рулевые",
+      "brand": "GMB",
+      "article": "08011240",
+      "supplier_nomenclature": "NSII0010406344",
+      "checked_at_utc": "2026-11-13T14:57:10.683457+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "GMB",
+      "article": "08011310",
+      "supplier_nomenclature": "NSII0010406346",
+      "checked_at_utc": "2026-11-13T14:57:11.636723+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "GMB",
+      "article": "08020770",
+      "supplier_nomenclature": "NSIN0020293204",
+      "checked_at_utc": "2026-11-13T14:57:12.806548+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "GMB",
+      "article": "08040950",
+      "supplier_nomenclature": "NSII0010406359",
+      "checked_at_utc": "2026-11-13T14:57:14.074039+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "GMB",
+      "article": "08100130",
+      "supplier_nomenclature": "NSII0009649642",
+      "checked_at_utc": "2026-11-13T14:57:14.996946+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "JIKIU",
+      "article": "ER21005",
+      "supplier_nomenclature": "NSII0022771866",
+      "checked_at_utc": "2026-11-13T14:57:15.828882+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Lemforder",
+      "article": "2532902",
+      "supplier_nomenclature": "NSIN0014868696",
+      "checked_at_utc": "2026-11-13T14:57:17.497986+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Lemforder",
+      "article": "2586901",
+      "supplier_nomenclature": "NSIN0014776894",
+      "checked_at_utc": "2026-11-13T14:57:17.788038+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Lemforder",
+      "article": "2798701",
+      "supplier_nomenclature": "NSIN0014870177",
+      "checked_at_utc": "2026-11-13T14:57:18.760124+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Lemforder",
+      "article": "3100102",
+      "supplier_nomenclature": "NSIN0023097239",
+      "checked_at_utc": "2026-11-13T14:57:20.685350+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "Lemforder",
+      "article": "3731401",
+      "supplier_nomenclature": "NSII0012807838",
+      "checked_at_utc": "2026-11-13T14:57:20.851778+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2005LR",
+      "supplier_nomenclature": "NSIN0023090962",
+      "checked_at_utc": "2026-11-13T14:57:21.755685+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2008LR",
+      "supplier_nomenclature": "NSIN0023091076",
+      "checked_at_utc": "2026-11-13T14:57:22.624486+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2011LR",
+      "supplier_nomenclature": "NSIN0023091181",
+      "checked_at_utc": "2026-11-13T14:57:23.929309+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2014LR",
+      "supplier_nomenclature": "NSIN0023091311",
+      "checked_at_utc": "2026-11-13T14:57:24.874018+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2015LR",
+      "supplier_nomenclature": "NSIN0023091183",
+      "checked_at_utc": "2026-11-13T14:57:26.047058+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2019LR",
+      "supplier_nomenclature": "NSIN0023090964",
+      "checked_at_utc": "2026-11-13T14:57:26.769869+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2020LR",
+      "supplier_nomenclature": "NSIN0023090971",
+      "checked_at_utc": "2026-11-13T14:57:27.817275+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2022LR",
+      "supplier_nomenclature": "NSIN0023090969",
+      "checked_at_utc": "2026-11-13T14:57:28.975450+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2025LR",
+      "supplier_nomenclature": "NSIN0023090973",
+      "checked_at_utc": "2026-11-13T14:57:29.647058+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2027LR",
+      "supplier_nomenclature": "NSIN0023090970",
+      "checked_at_utc": "2026-11-13T14:57:30.773378+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2031LR",
+      "supplier_nomenclature": "NSIN0023090975",
+      "checked_at_utc": "2026-11-13T14:57:32.057351+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2033LR",
+      "supplier_nomenclature": "NSIN0023091078",
+      "checked_at_utc": "2026-11-13T14:57:32.865272+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2035LR",
+      "supplier_nomenclature": "NSIN0023090979",
+      "checked_at_utc": "2026-11-13T14:57:34.034938+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2036LR",
+      "supplier_nomenclature": "NSIN0023091077",
+      "checked_at_utc": "2026-11-13T14:57:34.748084+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2040LR",
+      "supplier_nomenclature": "NSIN0023090990",
+      "checked_at_utc": "2026-11-13T14:57:35.656954+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2041LR",
+      "supplier_nomenclature": "NSIN0023090978",
+      "checked_at_utc": "2026-11-13T14:57:36.928269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2042LR",
+      "supplier_nomenclature": "NSIN0023090976",
+      "checked_at_utc": "2026-11-13T14:57:38.661253+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2044LR",
+      "supplier_nomenclature": "NSIN0023090982",
+      "checked_at_utc": "2026-11-13T14:57:38.897861+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2046LR",
+      "supplier_nomenclature": "NSIN0023090985",
+      "checked_at_utc": "2026-11-13T14:57:39.988268+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2047LR",
+      "supplier_nomenclature": "NSIN0023090988",
+      "checked_at_utc": "2026-11-13T14:57:40.748537+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2049L",
+      "supplier_nomenclature": "NSIN0023091345",
+      "checked_at_utc": "2026-11-13T14:57:41.735640+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2049R",
+      "supplier_nomenclature": "NSIN0023091310",
+      "checked_at_utc": "2026-11-13T14:57:42.640625+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2050R",
+      "supplier_nomenclature": "NSIN0023091184",
+      "checked_at_utc": "2026-11-13T14:57:43.791065+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2053LR",
+      "supplier_nomenclature": "NSIN0023091182",
+      "checked_at_utc": "2026-11-13T14:57:45.111110+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2058LR",
+      "supplier_nomenclature": "NSIN0023090989",
+      "checked_at_utc": "2026-11-13T14:57:45.791979+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2059LR",
+      "supplier_nomenclature": "NSIN0023090729",
+      "checked_at_utc": "2026-11-13T14:57:46.969214+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2060LR",
+      "supplier_nomenclature": "NSIN0023090739",
+      "checked_at_utc": "2026-11-13T14:57:48.070231+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2061LR",
+      "supplier_nomenclature": "NSIN0023090753",
+      "checked_at_utc": "2026-11-13T14:57:48.793427+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2066LR",
+      "supplier_nomenclature": "NSIN0023090757",
+      "checked_at_utc": "2026-11-13T14:57:49.847156+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2067LR",
+      "supplier_nomenclature": "NSIN0023090758",
+      "checked_at_utc": "2026-11-13T14:57:50.957088+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2068LR",
+      "supplier_nomenclature": "NSIN0023090747",
+      "checked_at_utc": "2026-11-13T14:57:51.963443+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2071LR",
+      "supplier_nomenclature": "NSIN0023090764",
+      "checked_at_utc": "2026-11-13T14:57:53.220760+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2073LR",
+      "supplier_nomenclature": "NSIN0023090775",
+      "checked_at_utc": "2026-11-13T14:57:53.708032+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2075LR",
+      "supplier_nomenclature": "NSIN0023090770",
+      "checked_at_utc": "2026-11-13T14:57:54.922363+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2078LR",
+      "supplier_nomenclature": "NSIN0023129758",
+      "checked_at_utc": "2026-11-13T14:57:55.666319+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2083LR",
+      "supplier_nomenclature": "NSIN0023090777",
+      "checked_at_utc": "2026-11-13T14:57:56.982746+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2084LR",
+      "supplier_nomenclature": "NSIN0023090778",
+      "checked_at_utc": "2026-11-13T14:57:57.793965+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2086LR",
+      "supplier_nomenclature": "NSIN0023090771",
+      "checked_at_utc": "2026-11-13T14:57:58.808381+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2088LR",
+      "supplier_nomenclature": "NSIN0023090779",
+      "checked_at_utc": "2026-11-13T14:58:00.156489+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2092LR",
+      "supplier_nomenclature": "NSIN0023129764",
+      "checked_at_utc": "2026-11-13T14:58:00.885419+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2093LR",
+      "supplier_nomenclature": "NSIN0023090781",
+      "checked_at_utc": "2026-11-13T14:58:01.846796+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2094LR",
+      "supplier_nomenclature": "NSIN0023090772",
+      "checked_at_utc": "2026-11-13T14:58:02.769313+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2096LR",
+      "supplier_nomenclature": "NSIN0023090782",
+      "checked_at_utc": "2026-11-13T14:58:03.963971+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2097LR",
+      "supplier_nomenclature": "NSIN0023090783",
+      "checked_at_utc": "2026-11-13T14:58:04.619305+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2102LR",
+      "supplier_nomenclature": "NSIN0023129905",
+      "checked_at_utc": "2026-11-13T14:58:06.464290+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2103LR",
+      "supplier_nomenclature": "NSIN0023129906",
+      "checked_at_utc": "2026-11-13T14:58:07.133488+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2104LR",
+      "supplier_nomenclature": "NSIN0023129907",
+      "checked_at_utc": "2026-11-13T14:58:07.662216+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2106LR",
+      "supplier_nomenclature": "NSIN0023129909",
+      "checked_at_utc": "2026-11-13T14:58:08.773324+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2112LR",
+      "supplier_nomenclature": "NSIN0023129995",
+      "checked_at_utc": "2026-11-13T14:58:09.653787+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2114LR",
+      "supplier_nomenclature": "NSIN0023129911",
+      "checked_at_utc": "2026-11-13T14:58:10.753347+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2117LR",
+      "supplier_nomenclature": "NSIN0023129997",
+      "checked_at_utc": "2026-11-13T14:58:11.646360+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2118LR",
+      "supplier_nomenclature": "NSIN0023129913",
+      "checked_at_utc": "2026-11-13T14:58:12.649907+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2122LR",
+      "supplier_nomenclature": "NSIN0023129733",
+      "checked_at_utc": "2026-11-13T14:58:13.694126+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2123LR",
+      "supplier_nomenclature": "NSIN0023129915",
+      "checked_at_utc": "2026-11-13T14:58:15.254339+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2126LR",
+      "supplier_nomenclature": "NSIN0023129704",
+      "checked_at_utc": "2026-11-13T14:58:15.862032+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2133LR",
+      "supplier_nomenclature": "NSIN0023129859",
+      "checked_at_utc": "2026-11-13T14:58:17.486685+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2135LR",
+      "supplier_nomenclature": "NSIN0023129861",
+      "checked_at_utc": "2026-11-13T14:58:18.029744+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2172L",
+      "supplier_nomenclature": "NSIN0023129694",
+      "checked_at_utc": "2026-11-13T14:58:18.991302+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2172R",
+      "supplier_nomenclature": "NSIN0023130018",
+      "checked_at_utc": "2026-11-13T14:58:20.024765+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2179LR",
+      "supplier_nomenclature": "NSIN0023129792",
+      "checked_at_utc": "2026-11-13T14:58:21.005022+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2181LR",
+      "supplier_nomenclature": "NSIN0023129888",
+      "checked_at_utc": "2026-11-13T14:58:21.863015+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2183LR",
+      "supplier_nomenclature": "NSIN0023129890",
+      "checked_at_utc": "2026-11-13T14:58:22.994294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2186LR",
+      "supplier_nomenclature": "NSIN0023129893",
+      "checked_at_utc": "2026-11-13T14:58:23.892368+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2198LR",
+      "supplier_nomenclature": "NSIN0023129922",
+      "checked_at_utc": "2026-11-13T14:58:24.871314+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2207LR",
+      "supplier_nomenclature": "NSIN0023129927",
+      "checked_at_utc": "2026-11-13T14:58:25.785668+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2222LR",
+      "supplier_nomenclature": "NSIN0023129741",
+      "checked_at_utc": "2026-11-13T14:58:26.984148+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2230LR",
+      "supplier_nomenclature": "NSIN0023129748",
+      "checked_at_utc": "2026-11-13T14:58:27.806776+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2237LR",
+      "supplier_nomenclature": "NSIN0023129943",
+      "checked_at_utc": "2026-11-13T14:58:29.062310+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2251LR",
+      "supplier_nomenclature": "NSIN0023129956",
+      "checked_at_utc": "2026-11-13T14:58:30.327587+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2254LR",
+      "supplier_nomenclature": "NSIN0023130000",
+      "checked_at_utc": "2026-11-13T14:58:30.817639+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2257LR",
+      "supplier_nomenclature": "NSIN0023129798",
+      "checked_at_utc": "2026-11-13T14:58:31.917214+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2259LR",
+      "supplier_nomenclature": "NSIN0023129800",
+      "checked_at_utc": "2026-11-13T14:58:32.911880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2260LR",
+      "supplier_nomenclature": "NSIN0023129960",
+      "checked_at_utc": "2026-11-13T14:58:33.605666+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2263L",
+      "supplier_nomenclature": "NSIN0023129695",
+      "checked_at_utc": "2026-11-13T14:58:34.860306+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2263R",
+      "supplier_nomenclature": "NSIN0023130019",
+      "checked_at_utc": "2026-11-13T14:58:35.697237+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2265LR",
+      "supplier_nomenclature": "NSIN0023129961",
+      "checked_at_utc": "2026-11-13T14:58:36.628055+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2266LR",
+      "supplier_nomenclature": "NSIN0023129803",
+      "checked_at_utc": "2026-11-13T14:58:37.965236+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2270LR",
+      "supplier_nomenclature": "NSIN0023129807",
+      "checked_at_utc": "2026-11-13T14:58:38.687391+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2273LR",
+      "supplier_nomenclature": "NSIN0023129810",
+      "checked_at_utc": "2026-11-13T14:58:39.968519+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2276LR",
+      "supplier_nomenclature": "NSIN0023129706",
+      "checked_at_utc": "2026-11-13T14:58:40.884571+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2278LR",
+      "supplier_nomenclature": "NSIN0023129812",
+      "checked_at_utc": "2026-11-13T14:58:41.762913+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2284LR",
+      "supplier_nomenclature": "NSIN0023130003",
+      "checked_at_utc": "2026-11-13T14:58:42.913057+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2287LR",
+      "supplier_nomenclature": "NSIN0023129966",
+      "checked_at_utc": "2026-11-13T14:58:44.012633+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2293LR",
+      "supplier_nomenclature": "NSIN0023129972",
+      "checked_at_utc": "2026-11-13T14:58:44.850866+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2301LR",
+      "supplier_nomenclature": "NSIN0023129977",
+      "checked_at_utc": "2026-11-13T14:58:45.981416+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2305LR",
+      "supplier_nomenclature": "NSIN0023130006",
+      "checked_at_utc": "2026-11-13T14:58:46.866828+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2312LR",
+      "supplier_nomenclature": "NSIN0023129815",
+      "checked_at_utc": "2026-11-13T14:58:47.928786+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2325LR",
+      "supplier_nomenclature": "NSIN0023129752",
+      "checked_at_utc": "2026-11-13T14:58:48.800547+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "LYNXauto",
+      "article": "C2344LR",
+      "supplier_nomenclature": "NSIN0023129824",
+      "checked_at_utc": "2026-11-13T14:58:49.938803+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
