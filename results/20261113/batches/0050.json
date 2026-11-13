@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251234",
+      "supplier_nomenclature": "NSII0028681666",
+      "checked_at_utc": "2026-11-13T15:22:36.715011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251235",
+      "supplier_nomenclature": "NSII0028681665",
+      "checked_at_utc": "2026-11-13T15:22:37.840588+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251236",
+      "supplier_nomenclature": "NSII0028682034",
+      "checked_at_utc": "2026-11-13T15:22:38.990678+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251237",
+      "supplier_nomenclature": "NSII0028682011",
+      "checked_at_utc": "2026-11-13T15:22:40.070227+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251238",
+      "supplier_nomenclature": "NSII0028681076",
+      "checked_at_utc": "2026-11-13T15:22:40.883233+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251239",
+      "supplier_nomenclature": "NSII0028681046",
+      "checked_at_utc": "2026-11-13T15:22:41.852914+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251240",
+      "supplier_nomenclature": "NSII0028681975",
+      "checked_at_utc": "2026-11-13T15:22:43.002691+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251246",
+      "supplier_nomenclature": "NSII0028681821",
+      "checked_at_utc": "2026-11-13T15:22:43.961436+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251247",
+      "supplier_nomenclature": "NSII0028681834",
+      "checked_at_utc": "2026-11-13T15:22:45.004576+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251248",
+      "supplier_nomenclature": "NSII0028680918",
+      "checked_at_utc": "2026-11-13T15:22:45.930027+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251249",
+      "supplier_nomenclature": "NSII0028680930",
+      "checked_at_utc": "2026-11-13T15:22:46.898370+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251250",
+      "supplier_nomenclature": "NSII0028681160",
+      "checked_at_utc": "2026-11-13T15:22:47.875365+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251251",
+      "supplier_nomenclature": "NSII0028681156",
+      "checked_at_utc": "2026-11-13T15:22:48.871783+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251252",
+      "supplier_nomenclature": "NSII0028682090",
+      "checked_at_utc": "2026-11-13T15:22:50.122032+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251254",
+      "supplier_nomenclature": "NSII0028682310",
+      "checked_at_utc": "2026-11-13T15:22:51.440728+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251255",
+      "supplier_nomenclature": "NSII0028681944",
+      "checked_at_utc": "2026-11-13T15:22:52.019502+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251256",
+      "supplier_nomenclature": "NSII0028681930",
+      "checked_at_utc": "2026-11-13T15:22:53.163094+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251259",
+      "supplier_nomenclature": "NSII0028682062",
+      "checked_at_utc": "2026-11-13T15:22:53.997072+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251260",
+      "supplier_nomenclature": "NSII0028682057",
+      "checked_at_utc": "2026-11-13T15:22:55.065830+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251261",
+      "supplier_nomenclature": "NSII0028681029",
+      "checked_at_utc": "2026-11-13T15:22:56.235335+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251262",
+      "supplier_nomenclature": "NSII0028681060",
+      "checked_at_utc": "2026-11-13T15:22:56.858687+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251263",
+      "supplier_nomenclature": "NSII0028681476",
+      "checked_at_utc": "2026-11-13T15:22:58.396451+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251264",
+      "supplier_nomenclature": "NSII0028681473",
+      "checked_at_utc": "2026-11-13T15:22:58.975117+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251265",
+      "supplier_nomenclature": "NSII0028682273",
+      "checked_at_utc": "2026-11-13T15:23:00.686766+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251266",
+      "supplier_nomenclature": "NSII0028682278",
+      "checked_at_utc": "2026-11-13T15:23:01.418518+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251267",
+      "supplier_nomenclature": "NSII0028682240",
+      "checked_at_utc": "2026-11-13T15:23:02.238194+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251268",
+      "supplier_nomenclature": "NSII0028682235",
+      "checked_at_utc": "2026-11-13T15:23:03.331541+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251270",
+      "supplier_nomenclature": "NSII0028681203",
+      "checked_at_utc": "2026-11-13T15:23:04.848802+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251269",
+      "supplier_nomenclature": "NSII0028681277",
+      "checked_at_utc": "2026-11-13T15:23:04.865998+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251271",
+      "supplier_nomenclature": "NSII0028681781",
+      "checked_at_utc": "2026-11-13T15:23:06.096314+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251272",
+      "supplier_nomenclature": "NSII0028681851",
+      "checked_at_utc": "2026-11-13T15:23:07.304632+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251273",
+      "supplier_nomenclature": "NSII0028721392",
+      "checked_at_utc": "2026-11-13T15:23:07.949104+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251274",
+      "supplier_nomenclature": "NSII0028721393",
+      "checked_at_utc": "2026-11-13T15:23:08.862631+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251275",
+      "supplier_nomenclature": "NSII0028681840",
+      "checked_at_utc": "2026-11-13T15:23:10.056868+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251277",
+      "supplier_nomenclature": "NSII0028681716",
+      "checked_at_utc": "2026-11-13T15:23:11.028145+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251281",
+      "supplier_nomenclature": "NSII0028681751",
+      "checked_at_utc": "2026-11-13T15:23:12.132936+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251282",
+      "supplier_nomenclature": "NSII0028681759",
+      "checked_at_utc": "2026-11-13T15:23:12.904655+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251283",
+      "supplier_nomenclature": "NSII0028682082",
+      "checked_at_utc": "2026-11-13T15:23:14.071812+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251284",
+      "supplier_nomenclature": "NSII0028682097",
+      "checked_at_utc": "2026-11-13T15:23:15.020861+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251285",
+      "supplier_nomenclature": "NSII0028681813",
+      "checked_at_utc": "2026-11-13T15:23:15.951907+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251286",
+      "supplier_nomenclature": "NSII0028681809",
+      "checked_at_utc": "2026-11-13T15:23:17.133664+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251287",
+      "supplier_nomenclature": "NSII0028681556",
+      "checked_at_utc": "2026-11-13T15:23:17.891308+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251288",
+      "supplier_nomenclature": "NSII0028681545",
+      "checked_at_utc": "2026-11-13T15:23:18.944881+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251289",
+      "supplier_nomenclature": "NSII0028681642",
+      "checked_at_utc": "2026-11-13T15:23:19.866296+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251290",
+      "supplier_nomenclature": "NSII0028681636",
+      "checked_at_utc": "2026-11-13T15:23:20.856486+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251296",
+      "supplier_nomenclature": "NSII0028682047",
+      "checked_at_utc": "2026-11-13T15:23:22.260539+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251297",
+      "supplier_nomenclature": "NSII0028681388",
+      "checked_at_utc": "2026-11-13T15:23:22.807053+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251301",
+      "supplier_nomenclature": "NSII0028682037",
+      "checked_at_utc": "2026-11-13T15:23:24.332337+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251303",
+      "supplier_nomenclature": "NSII0028681421",
+      "checked_at_utc": "2026-11-13T15:23:24.914664+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251307",
+      "supplier_nomenclature": "NSII0028682184",
+      "checked_at_utc": "2026-11-13T15:23:26.158561+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251308",
+      "supplier_nomenclature": "NSII0028682178",
+      "checked_at_utc": "2026-11-13T15:23:27.271973+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251309",
+      "supplier_nomenclature": "NSII0028682289",
+      "checked_at_utc": "2026-11-13T15:23:28.261462+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251310",
+      "supplier_nomenclature": "NSII0028682292",
+      "checked_at_utc": "2026-11-13T15:23:29.108689+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251315",
+      "supplier_nomenclature": "NSII0028681862",
+      "checked_at_utc": "2026-11-13T15:23:29.916327+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251316",
+      "supplier_nomenclature": "NSII0028681873",
+      "checked_at_utc": "2026-11-13T15:23:30.986397+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251317",
+      "supplier_nomenclature": "NSII0028680782",
+      "checked_at_utc": "2026-11-13T15:23:32.000569+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251318",
+      "supplier_nomenclature": "NSII0028681102",
+      "checked_at_utc": "2026-11-13T15:23:33.169036+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251320",
+      "supplier_nomenclature": "NSII0028681518",
+      "checked_at_utc": "2026-11-13T15:23:33.841253+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251321",
+      "supplier_nomenclature": "NSII0028681522",
+      "checked_at_utc": "2026-11-13T15:23:34.844609+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251322",
+      "supplier_nomenclature": "NSII0028721394",
+      "checked_at_utc": "2026-11-13T15:23:35.787615+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251323",
+      "supplier_nomenclature": "NSII0028721395",
+      "checked_at_utc": "2026-11-13T15:23:37.003146+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251324",
+      "supplier_nomenclature": "NSII0028680861",
+      "checked_at_utc": "2026-11-13T15:23:37.916961+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251325",
+      "supplier_nomenclature": "NSII0028680849",
+      "checked_at_utc": "2026-11-13T15:23:38.763387+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251328",
+      "supplier_nomenclature": "NSII0028680653",
+      "checked_at_utc": "2026-11-13T15:23:39.782138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251329",
+      "supplier_nomenclature": "NSII0028680660",
+      "checked_at_utc": "2026-11-13T15:23:40.725847+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251332",
+      "supplier_nomenclature": "NSII0028680793",
+      "checked_at_utc": "2026-11-13T15:23:41.741191+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251335",
+      "supplier_nomenclature": "NSII0028681320",
+      "checked_at_utc": "2026-11-13T15:23:43.004422+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251336",
+      "supplier_nomenclature": "NSII0028681311",
+      "checked_at_utc": "2026-11-13T15:23:44.392736+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251338",
+      "supplier_nomenclature": "NSII0028681193",
+      "checked_at_utc": "2026-11-13T15:23:44.954316+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251339",
+      "supplier_nomenclature": "NSII0028681884",
+      "checked_at_utc": "2026-11-13T15:23:46.079185+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251340",
+      "supplier_nomenclature": "NSII0028681898",
+      "checked_at_utc": "2026-11-13T15:23:47.066260+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251343",
+      "supplier_nomenclature": "NSII0028682244",
+      "checked_at_utc": "2026-11-13T15:23:48.330924+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251344",
+      "supplier_nomenclature": "NSII0028682239",
+      "checked_at_utc": "2026-11-13T15:23:49.362193+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251345",
+      "supplier_nomenclature": "NSII0028681668",
+      "checked_at_utc": "2026-11-13T15:23:49.974313+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251346",
+      "supplier_nomenclature": "NSII0028681630",
+      "checked_at_utc": "2026-11-13T15:23:50.965444+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251347",
+      "supplier_nomenclature": "NSII0028681968",
+      "checked_at_utc": "2026-11-13T15:23:51.961300+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251350",
+      "supplier_nomenclature": "NSII0028681147",
+      "checked_at_utc": "2026-11-13T15:23:52.855559+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251351",
+      "supplier_nomenclature": "NSII0028681133",
+      "checked_at_utc": "2026-11-13T15:23:53.835917+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251354",
+      "supplier_nomenclature": "NSII0028681266",
+      "checked_at_utc": "2026-11-13T15:23:54.862522+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251355",
+      "supplier_nomenclature": "NSII0028681258",
+      "checked_at_utc": "2026-11-13T15:23:55.834065+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251357",
+      "supplier_nomenclature": "NSII0028681949",
+      "checked_at_utc": "2026-11-13T15:23:57.039391+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251358",
+      "supplier_nomenclature": "NSII0028681957",
+      "checked_at_utc": "2026-11-13T15:23:58.029295+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251359",
+      "supplier_nomenclature": "NSII0028681611",
+      "checked_at_utc": "2026-11-13T15:23:58.801769+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251371",
+      "supplier_nomenclature": "NSII0028681363",
+      "checked_at_utc": "2026-11-13T15:23:59.734460+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251372",
+      "supplier_nomenclature": "NSII0028681371",
+      "checked_at_utc": "2026-11-13T15:24:00.765964+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251373",
+      "supplier_nomenclature": "NSII0028681531",
+      "checked_at_utc": "2026-11-13T15:24:01.948507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251374",
+      "supplier_nomenclature": "NSII0028681529",
+      "checked_at_utc": "2026-11-13T15:24:02.937011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251378",
+      "supplier_nomenclature": "NSII0028682056",
+      "checked_at_utc": "2026-11-13T15:24:04.110781+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251379",
+      "supplier_nomenclature": "NSII0028682048",
+      "checked_at_utc": "2026-11-13T15:24:05.067105+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251382",
+      "supplier_nomenclature": "NSII0028721397",
+      "checked_at_utc": "2026-11-13T15:24:06.006518+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251383",
+      "supplier_nomenclature": "NSII0028680651",
+      "checked_at_utc": "2026-11-13T15:24:06.878669+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251387",
+      "supplier_nomenclature": "NSII0028681290",
+      "checked_at_utc": "2026-11-13T15:24:08.401199+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251389",
+      "supplier_nomenclature": "NSII0028681441",
+      "checked_at_utc": "2026-11-13T15:24:09.533086+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251396",
+      "supplier_nomenclature": "NSII0028681792",
+      "checked_at_utc": "2026-11-13T15:24:10.033725+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251397",
+      "supplier_nomenclature": "NSII0028681788",
+      "checked_at_utc": "2026-11-13T15:24:10.908590+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251398",
+      "supplier_nomenclature": "NSII0028680986",
+      "checked_at_utc": "2026-11-13T15:24:12.015285+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251399",
+      "supplier_nomenclature": "NSII0028681020",
+      "checked_at_utc": "2026-11-13T15:24:13.203497+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251401",
+      "supplier_nomenclature": "NSII0028681282",
+      "checked_at_utc": "2026-11-13T15:24:14.940897+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251400",
+      "supplier_nomenclature": "NSII0028681268",
+      "checked_at_utc": "2026-11-13T15:24:15.003530+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251402",
+      "supplier_nomenclature": "NSII0028681453",
+      "checked_at_utc": "2026-11-13T15:24:16.694869+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
