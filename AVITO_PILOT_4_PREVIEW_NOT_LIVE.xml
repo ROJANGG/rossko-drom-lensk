@@ -4856,7 +4856,7 @@ OPEL | ZAFIRA TOURER C (P12) | 201212 - | 125 | 170 | 1598 | вэн
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>A6221590001</OEM>
     <Title>Свеча накаливания Febest 16642010 новая</Title>
     <Description>Свеча накаливания, производитель Febest, артикул 16642010.
@@ -4888,7 +4888,7 @@ NISSAN NAVARA D40M 2005.05- [EL]
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>1820A009</OEM>
     <Title>Свеча накаливания NGK CZ251 новая</Title>
     <Description>Свеча накаливания, производитель NGK, артикул CZ251.
@@ -4914,7 +4914,7 @@ MITSUBISHI | SHOGUN (3.2l) | 06/10→04/15 | Recommended
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>LR073727</OEM>
     <Title>Свеча накаливания NGK CZ552 новая</Title>
     <Description>Свеча накаливания, производитель NGK, артикул CZ552.
@@ -4946,7 +4946,7 @@ LAND ROVER | DISCOVERY (2.0l) | 09/16→09/21 | Recommended
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>367102F100</OEM>
     <Title>Свеча накаливания NGK Y1003AS новая</Title>
     <Description>Свеча накаливания, производитель NGK, артикул Y1003AS.
@@ -4973,7 +4973,7 @@ KIA | SPORTAGE (2.0l) | 06/10→08/15 | Recommended
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>1985030010</OEM>
     <Title>Свеча накаливания NGK Y531J новая</Title>
     <Description>Свеча накаливания, производитель NGK, артикул Y531J.
@@ -5005,7 +5005,7 @@ TOYOTA | LANDCRUISER (3.0l) | 01/03→06/10 | Recommended
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>367104X900</OEM>
     <Title>Свеча накаливания NGK Y535J новая</Title>
     <Description>Свеча накаливания, производитель NGK, артикул Y535J.
@@ -5030,7 +5030,7 @@ KIA | SEDONA (2.9l) | 07/06→02/10 | Recommended
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>WL0318601</OEM>
     <Title>Свеча накаливания NGK Y701J новая</Title>
     <Description>Свеча накаливания, производитель NGK, артикул Y701J.
@@ -5056,7 +5056,7 @@ MAZDA | B2500 PICK UP (2.5l) | 03/98→03 | Recommended
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>1820A009</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP003 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP003.
@@ -5080,7 +5080,7 @@ OEM: 1820A009.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>A0011590001</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP010 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP010.
@@ -5104,7 +5104,7 @@ OEM: A0011590001.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>1985030010</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP014 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP014.
@@ -5128,7 +5128,7 @@ OEM: 19850-30010.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>6651590001</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP015 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP015.
@@ -5152,7 +5152,7 @@ OEM: 6651590001.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>1106500Q0C</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP022 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP022.
@@ -5176,7 +5176,7 @@ OEM: 1106500Q0C.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>1985067030</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP025 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP025.
@@ -5200,7 +5200,7 @@ OEM: 19850-67030.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>RFG118601</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP026 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP026.
@@ -5224,7 +5224,7 @@ OEM: RFG1-18-601.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>ME200970</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP028 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP028.
@@ -5248,7 +5248,7 @@ OEM: ME200970.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>1985064031</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP035 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP035.
@@ -5272,7 +5272,7 @@ OEM: 19850-64031.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>1985005010</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP043 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP043.
@@ -5296,7 +5296,7 @@ OEM: 19850-05010.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>MD050212</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP048 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP048.
@@ -5320,7 +5320,7 @@ OEM: MD050212.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>110650W801</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP058 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP058.
@@ -5344,7 +5344,7 @@ OEM: 11065-0W801.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>8970337610</OEM>
     <Title>Свеча накаливания STARTVOLT GLSP066 новая</Title>
     <Description>Свеча накаливания, производитель STARTVOLT, артикул GLSP066.
@@ -5368,7 +5368,7 @@ OEM: 8-97033-761-0.
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
+    <SparePartType>Двигатель</SparePartType><EngineSparePartType>Катушка зажигания, свечи, электрика</EngineSparePartType>
     <OEM>8200682592</OEM>
     <Title>Свечи накала STARTVOLT GLSP508 новые</Title>
     <Description>Свечи накала, производитель STARTVOLT, артикул GLSP508.

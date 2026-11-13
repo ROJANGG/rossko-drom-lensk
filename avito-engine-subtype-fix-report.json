@@ -1,0 +1,63 @@
+{
+  "live": {
+    "ads": 231,
+    "changed_ids": [
+      "irk-9727cb9bc3a080f00c842b",
+      "irk-cc86e1598e6aea6f8f387e",
+      "irk-a8c25e3d55d30972e86d8f",
+      "irk-05c84fa908b82f07eb8fef",
+      "irk-5d04578731306d16e1fb67",
+      "irk-81630476e2ec607cc39443",
+      "irk-ebbdac94160e6746965726",
+      "irk-83b82df464f3ba54c4a95b",
+      "irk-79ce452cab524073d2f34e",
+      "irk-01381970cb96ace537b0cb",
+      "irk-2519a2f573ddd42cd3f0dc",
+      "irk-7af0b79ce261703e3876a5",
+      "irk-44d09e1580cfaaf4718ca3",
+      "irk-44564c68bab0f0aeef14ce",
+      "irk-1cab01a9f0d668d38adcb4",
+      "irk-20cfe9200b8d00c36d64f7",
+      "irk-3e614cc397430e21421ab9",
+      "irk-c7e12c6dcca0f71cedaf61",
+      "irk-336132ff25d32cf0abd3a7",
+      "irk-4d7ba735dfad66b2f4191b",
+      "irk-2e22c8b1661f7fb34e8edf"
+    ],
+    "before_sha256": "18642b4063dc3a9e7ff7a3d75afaf58cc33e5d49015a06282c8ee557e28984ef",
+    "after_sha256": "91b7927908399311fed9208eb8f719ae2097b4593d152dede1f4ae3c411fe216"
+  },
+  "archive": {
+    "ads": 243,
+    "changed_ids": [
+      "irk-9727cb9bc3a080f00c842b",
+      "irk-cc86e1598e6aea6f8f387e",
+      "irk-a8c25e3d55d30972e86d8f",
+      "irk-05c84fa908b82f07eb8fef",
+      "irk-5d04578731306d16e1fb67",
+      "irk-81630476e2ec607cc39443",
+      "irk-ebbdac94160e6746965726",
+      "irk-83b82df464f3ba54c4a95b",
+      "irk-79ce452cab524073d2f34e",
+      "irk-01381970cb96ace537b0cb",
+      "irk-2519a2f573ddd42cd3f0dc",
+      "irk-7af0b79ce261703e3876a5",
+      "irk-44d09e1580cfaaf4718ca3",
+      "irk-44564c68bab0f0aeef14ce",
+      "irk-1cab01a9f0d668d38adcb4",
+      "irk-20cfe9200b8d00c36d64f7",
+      "irk-3e614cc397430e21421ab9",
+      "irk-c7e12c6dcca0f71cedaf61",
+      "irk-336132ff25d32cf0abd3a7",
+      "irk-4d7ba735dfad66b2f4191b",
+      "irk-2e22c8b1661f7fb34e8edf",
+      "irk-d2e7ff10caf391acc0adc3"
+    ],
+    "before_sha256": "f2af2f5b3a8a349e79c1f557f203ecec8f1f3f9de82d39805eb83454c135c9b8",
+    "after_sha256": "21657a96cbe9a832ed5b64351837d11f27dcf5856b80faa17df8914d2df6e4dc"
+  },
+  "engine_type": "Катушка зажигания, свечи, электрика",
+  "only_engine_subtype_added": true,
+  "new_ads": 0,
+  "private_prices_or_credentials_written": false
+}
