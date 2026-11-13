@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "reviewed_utc": "2026-11-11",
+  "reviewed_utc": "2026-11-13",
   "scope_skus": [
     {
       "category": "Колодки барабанные",
@@ -1950,7 +1950,7 @@
         "Mercedes-Benz Vito"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/B8/94/NSIN0023111219/2.jpg",
@@ -1965,7 +1965,7 @@
       "photo_supplier_nomenclature": "NSIN0023111219",
       "source_cache": {
         "path": "input/avito-bosch-era-source-cache/0250201055.json",
-        "sha256": "f14042e4cdd0db9253d78328795e498616ae406619209442eb3d62725519d58a"
+        "sha256": "d691a273d938f6c8ecc38300190dd36fdd891c97c6ff6985fb5b00a3a15bc13b"
       },
       "era_reference_article": "886047"
     },
@@ -1989,7 +1989,7 @@
         "Mercedes-Benz Vito"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/81/92/NSIN0023090524/2.jpg",
@@ -2004,7 +2004,7 @@
       "photo_supplier_nomenclature": "NSIN0023090524",
       "source_cache": {
         "path": "input/avito-bosch-era-source-cache/0250202142.json",
-        "sha256": "fd6a193c391ea84c76764d1b9b1dd0496cd0a70610ef9406a1e7adeea142ef0d"
+        "sha256": "6c9d42e2a35b487ae555ea4af740ccb6152e32379578926598a143025ceb6931"
       },
       "era_reference_article": "886016"
     },
@@ -2028,7 +2028,7 @@
         "Audi A3"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/A6/6E/NSII0000362451/2.jpg",
@@ -2043,7 +2043,7 @@
       "photo_supplier_nomenclature": "NSII0000362451",
       "source_cache": {
         "path": "input/avito-bosch-era-source-cache/0250403009.json",
-        "sha256": "9f92d5867d8a4709246f2e47c83c7a9879b4a5c7e866dc2c595d74bd89d7ac43"
+        "sha256": "303037d25747eb4e867be2c95153d1143177fe883631d769ccaa49f2e446d70e"
       },
       "era_reference_article": "886032"
     },
@@ -2066,7 +2066,7 @@
         "OPEL Vivaro Combi (X83); Vivaro 1.9 DTI; F9Q 760"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/45/41/NSII0027565363/3.jpg",
@@ -2081,7 +2081,7 @@
       "photo_supplier_nomenclature": "NSII0027565363",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1001.json",
-        "sha256": "217285120d9a45d6880fa2d9d44c04c60d3b04e947708c8fed17e9c4c763f3fc"
+        "sha256": "64af6f53dfe1409292b50327770b5057ac47d8a758eeee7f5ce8fa6381827509"
       }
     },
     {
@@ -2103,7 +2103,7 @@
         "JAGUAR X-Type (X400); X-Type 2.2 D; LJ46G"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/CF/DF/NSII0027565367/3.jpg",
@@ -2118,7 +2118,7 @@
       "photo_supplier_nomenclature": "NSII0027565367",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1005.json",
-        "sha256": "206ed794657ae6c1400d4511af9171442d2b4709f09f902689dd219332a0810e"
+        "sha256": "30966c974e398ade6961a9478ed400b9c4d73db780e36e4b66558e8d0641c091"
       }
     },
     {
@@ -2140,7 +2140,7 @@
         "JAGUAR X-Type (X400); X-Type 2.0 D; FMBB"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/FD/24/NSII0027565368/3.jpg",
@@ -2155,7 +2155,7 @@
       "photo_supplier_nomenclature": "NSII0027565368",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1006.json",
-        "sha256": "93db9c54f9d8f7a5673e08a07bc32900c19ea41c396ace09b56827101c1dbb08"
+        "sha256": "29a0cb30e37bb7c7d33749b6367c170c9d3eb77ed6ee99572c8f863b5936a067"
       }
     },
     {
@@ -2177,7 +2177,7 @@
         "VW Touareg (7LA, 7L6, 7L7); Touareg 3.0 V6 TDI; CASA"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/9F/CC/NSII0027565369/3.jpg",
@@ -2192,7 +2192,7 @@
       "photo_supplier_nomenclature": "NSII0027565369",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1007.json",
-        "sha256": "80ce58af5088e7eadd7896c8edea8e3172b4e42e0d4b795695c7932decd8fc3e"
+        "sha256": "e1159fac374f86a62c9597c6cf87ab332f2aa5d57d14886d4c6c18977917200d"
       }
     },
     {
@@ -2214,7 +2214,7 @@
         "MERCEDES-BENZ Vito Bus (W639); Vito 115 CDI; OM 646.982"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/E7/E8/NSII0027565370/3.jpg",
@@ -2229,7 +2229,7 @@
       "photo_supplier_nomenclature": "NSII0027565370",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1008.json",
-        "sha256": "ea464bacd8f5685ef5d7e75082447964ddfe4294e3642e72110946d9002789cc"
+        "sha256": "7dd192b281f329d379d95c12334829bc6471bfc4041c9de5203a673a2c85f2d8"
       }
     },
     {
@@ -2251,7 +2251,7 @@
         "RENAULT Twingo II Van / Hatchback (CNO_); Twingo 1.5 dCi (CN03); K9K 820"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/8A/90/NSII0027565371/3.jpg",
@@ -2266,7 +2266,7 @@
       "photo_supplier_nomenclature": "NSII0027565371",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1009.json",
-        "sha256": "7823e9834c12634d7f25708be8ac25fd2c78aa155a5a8488ab2991eda13254b6"
+        "sha256": "01af6615ac04407f2ef127be1f581cf6e4d12381f9c6f4bfdd1767ba9eabd710"
       }
     },
     {
@@ -2288,7 +2288,7 @@
         "KIA Sorento I (JC); Sorento 2.5 CRDi; D4CB"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/A2/9A/NSII0027565372/3.jpg",
@@ -2303,7 +2303,7 @@
       "photo_supplier_nomenclature": "NSII0027565372",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1010.json",
-        "sha256": "3980cde72a5603f0079a3339c854230be45be0dc9a75731b01a862dab91fe189"
+        "sha256": "e8e3ba81fca44e64adbc7631ab10bdd7ab519ec1f0c9996f8027d86e222034b0"
       }
     },
     {
@@ -2325,7 +2325,7 @@
         "BMW X6 (E71, E72); X6 30 d; M57 D30 (306D3)"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/45/41/NSII0027565373/3.jpg",
@@ -2340,7 +2340,7 @@
       "photo_supplier_nomenclature": "NSII0027565373",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1011.json",
-        "sha256": "e738202b0e5e078464fd93c0582c74c095b318848e080a406a891efc63c07e7f"
+        "sha256": "8f5b9cca416957656cdaee814a7998b87bd577da16d8985d7999d870c22c42e7"
       }
     },
     {
@@ -2362,7 +2362,7 @@
         "KUBOTA RTV1100; RTV1100 Diesel; -"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/72/86/NSII0027565374/3.jpg",
@@ -2377,7 +2377,7 @@
       "photo_supplier_nomenclature": "NSII0027565374",
       "source_cache": {
         "path": "input/avito-tatsumi-source-cache/THQ1012.json",
-        "sha256": "50776aa460bac071ec225a02a4b99911883f0384ef73b001023bce70bf15df80"
+        "sha256": "cc906dfe1a41e0f6e4b374c3c7327a8bfc1c265fbe7705252b3d0ae100b6a233"
       }
     },
     {
@@ -2399,7 +2399,7 @@
         "Renault Megane"
       ],
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "photo_reviewed_utc": "2026-11-11",
+      "photo_reviewed_utc": "2026-11-13",
       "images": [
         {
           "url": "https://imgs.rossko.ru/75/57/NSIN0011091579/1.jpg",
@@ -2414,7 +2414,7 @@
       "photo_supplier_nomenclature": "NSIN0011091579",
       "source_cache": {
         "path": "input/avito-bosch-era-source-cache/0250603001.json",
-        "sha256": "35d614a3c3e865faa526af5b18ebc88be00be5e08529dabd09b32e18f5a5f466"
+        "sha256": "50edbf3d7b9f00df75c4499a7696b90a5927ae65ddee83ae1a7236d2d5d80a61"
       },
       "era_reference_article": "886081"
     }

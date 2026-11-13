@@ -1,5 +1,5 @@
 name: Avito - release only individually verified first-95 manufacturer SKUs
-# Verify exact Bosch/ERA primary hosts and sanitized pending-SKU API statuses.
+# Reverified original sources and exact photo hashes on 2026-11-13; require fresh zero-day API.
 on:
   workflow_dispatch:
   push:
@@ -18,7 +18,7 @@ jobs:
     permissions:
       contents: write
     env:
-      PUBLISH_APPROVED_EXTENSION: 'false'
+      PUBLISH_APPROVED_EXTENSION: 'true'
       ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
     steps:
       - name: Checkout previously verified Avito-only baseline dependencies

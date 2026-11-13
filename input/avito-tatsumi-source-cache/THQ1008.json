@@ -1,5 +1,5 @@
 {
-  "verified_at_utc": "2026-11-11T10:59:10.803257+00:00",
+  "verified_at_utc": "2026-11-13T12:31:07.277317+00:00",
   "manufacturer": {
     "article": "THQ1008",
     "url": "https://tatsumi.ru/catalog/thq1008/",
@@ -82,7 +82,7 @@
         "80/109"
       ]
     ],
-    "html_sha256": "63ef55b2f32f6714572e2885bf7a78ad9aebb49c34efb4f476029c0e6b25d53d"
+    "html_sha256": "06a0be9ea03ccf4d1b0afa13385241bf99de13786e6840830eeab9874fc8c254"
   },
   "supplier_photo": {
     "article": "THQ1008",
