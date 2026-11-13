@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411171",
+      "supplier_nomenclature": "NSII0028770627",
+      "checked_at_utc": "2026-11-13T14:32:30.932754+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411176",
+      "supplier_nomenclature": "NSII0028769726",
+      "checked_at_utc": "2026-11-13T14:32:31.674862+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411188",
+      "supplier_nomenclature": "NSII0028769467",
+      "checked_at_utc": "2026-11-13T14:32:33.354149+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411192",
+      "supplier_nomenclature": "NSII0028769713",
+      "checked_at_utc": "2026-11-13T14:32:34.142555+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411204",
+      "supplier_nomenclature": "NSII0028769567",
+      "checked_at_utc": "2026-11-13T14:32:35.237138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411205",
+      "supplier_nomenclature": "NSII0028769517",
+      "checked_at_utc": "2026-11-13T14:32:35.794596+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411211",
+      "supplier_nomenclature": "NSII0028769876",
+      "checked_at_utc": "2026-11-13T14:32:37.255154+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411221",
+      "supplier_nomenclature": "NSII0028770132",
+      "checked_at_utc": "2026-11-13T14:32:37.738845+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411226",
+      "supplier_nomenclature": "NSII0028769490",
+      "checked_at_utc": "2026-11-13T14:32:39.093649+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411229",
+      "supplier_nomenclature": "NSII0028769629",
+      "checked_at_utc": "2026-11-13T14:32:39.997984+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411237",
+      "supplier_nomenclature": "NSII0028770214",
+      "checked_at_utc": "2026-11-13T14:32:40.821114+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411251",
+      "supplier_nomenclature": "NSII0028769987",
+      "checked_at_utc": "2026-11-13T14:32:41.911642+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411252",
+      "supplier_nomenclature": "NSII0028769516",
+      "checked_at_utc": "2026-11-13T14:32:42.917614+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411257",
+      "supplier_nomenclature": "NSII0028769587",
+      "checked_at_utc": "2026-11-13T14:32:44.403817+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411259",
+      "supplier_nomenclature": "NSII0028769821",
+      "checked_at_utc": "2026-11-13T14:32:45.083652+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411266",
+      "supplier_nomenclature": "NSII0028769568",
+      "checked_at_utc": "2026-11-13T14:32:45.902294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411271",
+      "supplier_nomenclature": "NSII0028769977",
+      "checked_at_utc": "2026-11-13T14:32:47.089860+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411274",
+      "supplier_nomenclature": "NSII0028770156",
+      "checked_at_utc": "2026-11-13T14:32:47.988764+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411278",
+      "supplier_nomenclature": "NSII0028769815",
+      "checked_at_utc": "2026-11-13T14:32:48.866313+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411279",
+      "supplier_nomenclature": "NSII0028769664",
+      "checked_at_utc": "2026-11-13T14:32:49.844831+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411280",
+      "supplier_nomenclature": "NSII0028769515",
+      "checked_at_utc": "2026-11-13T14:32:51.292643+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411283",
+      "supplier_nomenclature": "NSII0028770451",
+      "checked_at_utc": "2026-11-13T14:32:51.829623+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411288",
+      "supplier_nomenclature": "NSII0028769586",
+      "checked_at_utc": "2026-11-13T14:32:53.160106+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411298",
+      "supplier_nomenclature": "NSII0028769889",
+      "checked_at_utc": "2026-11-13T14:32:53.998348+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411350",
+      "supplier_nomenclature": "NSII0028770131",
+      "checked_at_utc": "2026-11-13T14:32:54.974537+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411351",
+      "supplier_nomenclature": "NSII0028770438",
+      "checked_at_utc": "2026-11-13T14:32:56.066704+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411353",
+      "supplier_nomenclature": "NSII0028770001",
+      "checked_at_utc": "2026-11-13T14:32:56.797520+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411357",
+      "supplier_nomenclature": "NSII0028769918",
+      "checked_at_utc": "2026-11-13T14:32:58.335261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411360",
+      "supplier_nomenclature": "NSII0028770369",
+      "checked_at_utc": "2026-11-13T14:32:58.697778+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411362",
+      "supplier_nomenclature": "NSII0028769451",
+      "checked_at_utc": "2026-11-13T14:33:00.265278+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411363",
+      "supplier_nomenclature": "NSII0028770210",
+      "checked_at_utc": "2026-11-13T14:33:01.183628+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411370",
+      "supplier_nomenclature": "NSII0028769782",
+      "checked_at_utc": "2026-11-13T14:33:02.375446+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411373",
+      "supplier_nomenclature": "NSII0028769777",
+      "checked_at_utc": "2026-11-13T14:33:03.283406+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411384",
+      "supplier_nomenclature": "NSII0028770143",
+      "checked_at_utc": "2026-11-13T14:33:03.992356+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411386",
+      "supplier_nomenclature": "NSII0028770142",
+      "checked_at_utc": "2026-11-13T14:33:04.773140+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411387",
+      "supplier_nomenclature": "NSII0028770038",
+      "checked_at_utc": "2026-11-13T14:33:06.136963+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411388",
+      "supplier_nomenclature": "NSII0028769882",
+      "checked_at_utc": "2026-11-13T14:33:07.002427+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411394",
+      "supplier_nomenclature": "NSII0028770074",
+      "checked_at_utc": "2026-11-13T14:33:07.893603+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411399",
+      "supplier_nomenclature": "NSII0028769974",
+      "checked_at_utc": "2026-11-13T14:33:08.936399+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411402",
+      "supplier_nomenclature": "NSII0028769883",
+      "checked_at_utc": "2026-11-13T14:33:09.973897+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411414",
+      "supplier_nomenclature": "NSII0028769885",
+      "checked_at_utc": "2026-11-13T14:33:11.022448+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411415",
+      "supplier_nomenclature": "NSII0028769919",
+      "checked_at_utc": "2026-11-13T14:33:11.811040+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411423",
+      "supplier_nomenclature": "NSII0028769936",
+      "checked_at_utc": "2026-11-13T14:33:12.801251+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411426",
+      "supplier_nomenclature": "NSII0028769372",
+      "checked_at_utc": "2026-11-13T14:33:13.973007+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411431",
+      "supplier_nomenclature": "NSII0028769841",
+      "checked_at_utc": "2026-11-13T14:33:15.079031+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411432",
+      "supplier_nomenclature": "NSII0028769799",
+      "checked_at_utc": "2026-11-13T14:33:16.104122+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411434",
+      "supplier_nomenclature": "NSII0028770174",
+      "checked_at_utc": "2026-11-13T14:33:16.963839+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411454",
+      "supplier_nomenclature": "NSII0028770298",
+      "checked_at_utc": "2026-11-13T14:33:18.474208+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411455",
+      "supplier_nomenclature": "NSII0028770320",
+      "checked_at_utc": "2026-11-13T14:33:18.931399+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411458",
+      "supplier_nomenclature": "NSII0028770443",
+      "checked_at_utc": "2026-11-13T14:33:19.857862+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411468",
+      "supplier_nomenclature": "NSII0028770463",
+      "checked_at_utc": "2026-11-13T14:33:20.785632+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411469",
+      "supplier_nomenclature": "NSII0028769757",
+      "checked_at_utc": "2026-11-13T14:33:21.899987+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411470",
+      "supplier_nomenclature": "NSII0028769962",
+      "checked_at_utc": "2026-11-13T14:33:22.987409+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411472",
+      "supplier_nomenclature": "NSII0028769793",
+      "checked_at_utc": "2026-11-13T14:33:23.973804+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411473",
+      "supplier_nomenclature": "NSII0028769792",
+      "checked_at_utc": "2026-11-13T14:33:24.828211+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411474",
+      "supplier_nomenclature": "NSII0028769672",
+      "checked_at_utc": "2026-11-13T14:33:25.747138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411476",
+      "supplier_nomenclature": "NSII0028770162",
+      "checked_at_utc": "2026-11-13T14:33:26.723855+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411477",
+      "supplier_nomenclature": "NSII0028770441",
+      "checked_at_utc": "2026-11-13T14:33:27.702848+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411483",
+      "supplier_nomenclature": "NSII0028769897",
+      "checked_at_utc": "2026-11-13T14:33:28.917741+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411487",
+      "supplier_nomenclature": "NSII0028770164",
+      "checked_at_utc": "2026-11-13T14:33:29.816450+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411500",
+      "supplier_nomenclature": "NSII0028770260",
+      "checked_at_utc": "2026-11-13T14:33:31.009358+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411503",
+      "supplier_nomenclature": "NSII0028769966",
+      "checked_at_utc": "2026-11-13T14:33:31.932721+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411515",
+      "supplier_nomenclature": "NSII0028769972",
+      "checked_at_utc": "2026-11-13T14:33:32.838868+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411533",
+      "supplier_nomenclature": "NSII0028770160",
+      "checked_at_utc": "2026-11-13T14:33:33.861506+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411535",
+      "supplier_nomenclature": "NSII0028770184",
+      "checked_at_utc": "2026-11-13T14:33:34.857257+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411536",
+      "supplier_nomenclature": "NSII0028770021",
+      "checked_at_utc": "2026-11-13T14:33:35.889618+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411537",
+      "supplier_nomenclature": "NSII0028770348",
+      "checked_at_utc": "2026-11-13T14:33:36.820221+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411542",
+      "supplier_nomenclature": "NSII0028770365",
+      "checked_at_utc": "2026-11-13T14:33:37.927440+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411544",
+      "supplier_nomenclature": "NSII0028769501",
+      "checked_at_utc": "2026-11-13T14:33:39.010311+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411545",
+      "supplier_nomenclature": "NSII0028770336",
+      "checked_at_utc": "2026-11-13T14:33:39.907767+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411548",
+      "supplier_nomenclature": "NSII0028769739",
+      "checked_at_utc": "2026-11-13T14:33:40.939054+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411550",
+      "supplier_nomenclature": "NSII0028770582",
+      "checked_at_utc": "2026-11-13T14:33:41.728435+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411552",
+      "supplier_nomenclature": "NSII0028770347",
+      "checked_at_utc": "2026-11-13T14:33:42.782135+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411555",
+      "supplier_nomenclature": "NSII0028769865",
+      "checked_at_utc": "2026-11-13T14:33:44.203349+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411557",
+      "supplier_nomenclature": "NSII0028769835",
+      "checked_at_utc": "2026-11-13T14:33:45.089155+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411558",
+      "supplier_nomenclature": "NSII0028769806",
+      "checked_at_utc": "2026-11-13T14:33:45.728135+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411564",
+      "supplier_nomenclature": "NSII0028770434",
+      "checked_at_utc": "2026-11-13T14:33:46.737791+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411565",
+      "supplier_nomenclature": "NSII0028770395",
+      "checked_at_utc": "2026-11-13T14:33:47.950291+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411567",
+      "supplier_nomenclature": "NSII0028770446",
+      "checked_at_utc": "2026-11-13T14:33:48.785261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411569",
+      "supplier_nomenclature": "NSII0028770150",
+      "checked_at_utc": "2026-11-13T14:33:50.026500+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411570",
+      "supplier_nomenclature": "NSII0028770153",
+      "checked_at_utc": "2026-11-13T14:33:50.949483+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411571",
+      "supplier_nomenclature": "NSII0028770529",
+      "checked_at_utc": "2026-11-13T14:33:51.690241+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411573",
+      "supplier_nomenclature": "NSII0028770558",
+      "checked_at_utc": "2026-11-13T14:33:52.875297+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411577",
+      "supplier_nomenclature": "NSII0028770398",
+      "checked_at_utc": "2026-11-13T14:33:53.763763+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411579",
+      "supplier_nomenclature": "NSII0028770604",
+      "checked_at_utc": "2026-11-13T14:33:54.844224+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411587",
+      "supplier_nomenclature": "NSII0028770227",
+      "checked_at_utc": "2026-11-13T14:33:55.788237+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411592",
+      "supplier_nomenclature": "NSII0028770307",
+      "checked_at_utc": "2026-11-13T14:33:56.869548+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411595",
+      "supplier_nomenclature": "NSII0028770528",
+      "checked_at_utc": "2026-11-13T14:33:57.780549+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411600",
+      "supplier_nomenclature": "NSII0028770326",
+      "checked_at_utc": "2026-11-13T14:33:58.993960+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411602",
+      "supplier_nomenclature": "NSII0028770420",
+      "checked_at_utc": "2026-11-13T14:34:00.109480+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411606",
+      "supplier_nomenclature": "NSII0028770121",
+      "checked_at_utc": "2026-11-13T14:34:00.824766+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411607",
+      "supplier_nomenclature": "NSII0028770607",
+      "checked_at_utc": "2026-11-13T14:34:01.740150+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411617",
+      "supplier_nomenclature": "NSII0028770051",
+      "checked_at_utc": "2026-11-13T14:34:02.913824+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411624",
+      "supplier_nomenclature": "NSII0028770549",
+      "checked_at_utc": "2026-11-13T14:34:03.728955+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411626",
+      "supplier_nomenclature": "NSII0028770251",
+      "checked_at_utc": "2026-11-13T14:34:05.551046+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411627",
+      "supplier_nomenclature": "NSII0028770506",
+      "checked_at_utc": "2026-11-13T14:34:05.708197+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411638",
+      "supplier_nomenclature": "NSII0028770428",
+      "checked_at_utc": "2026-11-13T14:34:06.707501+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411646",
+      "supplier_nomenclature": "NSII0028769705",
+      "checked_at_utc": "2026-11-13T14:34:07.865953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411653",
+      "supplier_nomenclature": "NSII0028769776",
+      "checked_at_utc": "2026-11-13T14:34:08.836408+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "NGN",
+      "article": "411654",
+      "supplier_nomenclature": "NSII0028770195",
+      "checked_at_utc": "2026-11-13T14:34:09.904549+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
