@@ -1,0 +1,125 @@
+{
+  "results": [
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "KABG3",
+      "supplier_nomenclature": "NSII0013302182",
+      "checked_at_utc": "2026-11-13T16:21:52.982121+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 9550,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "KABG3B",
+      "supplier_nomenclature": "NSII0013302184",
+      "checked_at_utc": "2026-11-13T16:21:53.871921+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 8100,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "KAIR250",
+      "supplier_nomenclature": "NSIN0019662569",
+      "checked_at_utc": "2026-11-13T16:21:55.105989+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 5050,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "KAIUCD",
+      "supplier_nomenclature": "NSIN0019755329",
+      "checked_at_utc": "2026-11-13T16:21:57.479314+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 5400,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "KAJFA48",
+      "supplier_nomenclature": "NSII0019353297",
+      "checked_at_utc": "2026-11-13T16:21:57.854173+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 9750,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "LNX60A48",
+      "supplier_nomenclature": "NSII0013114243",
+      "checked_at_utc": "2026-11-13T16:22:00.801652+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3950,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "KANSA48",
+      "supplier_nomenclature": "NSIN0019662834",
+      "checked_at_utc": "2026-11-13T16:22:08.254994+00:00",
+      "api_status": "сбой_API_SSLError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "LREV",
+      "supplier_nomenclature": "NSII0017376001",
+      "checked_at_utc": "2026-11-13T16:22:09.791737+00:00",
+      "api_status": "сбой_API_SSLError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "MEISTA48",
+      "supplier_nomenclature": "NSIN0019662977",
+      "checked_at_utc": "2026-11-13T16:22:21.389689+00:00",
+      "api_status": "сбой_API_SSLError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "MEIUIST",
+      "supplier_nomenclature": "NSIN0020840446",
+      "checked_at_utc": "2026-11-13T16:22:22.589313+00:00",
+      "api_status": "сбой_API_SSLError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "MT13",
+      "supplier_nomenclature": "NSIN0019662989",
+      "checked_at_utc": "2026-11-13T16:22:47.192086+00:00",
+      "api_status": "сбой_API_SSLError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "MT29",
+      "supplier_nomenclature": "NSIN0019662732",
+      "checked_at_utc": "2026-11-13T16:22:59.177153+00:00",
+      "api_status": "сбой_API_ReadTimeout",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
