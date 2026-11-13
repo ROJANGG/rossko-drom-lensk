@@ -32,7 +32,7 @@
   },
   "inventory_created_at_utc": "2026-11-13T13:58:34.835654+00:00",
   "source_commit": "a40d587793be5eabce4ae4ac6b0ca5ed8cf539d1",
-  "updated_at_utc": "2026-11-13T16:22:59.202366+00:00",
+  "updated_at_utc": "2026-11-13T16:23:00.927106+00:00",
   "state": "PAUSED_API_ERRORS",
   "queue_total": 13008,
   "scope_sha256": "9a868ea5f5926ed4e1de15bf7945f8ba9ec79b086fec14fc79516bfcbccfecc4",
