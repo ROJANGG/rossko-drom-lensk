@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SX1948",
+      "supplier_nomenclature": "NSII0028928710",
+      "checked_at_utc": "2026-11-13T15:55:08.401834+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SX1950",
+      "supplier_nomenclature": "NSII0028928709",
+      "checked_at_utc": "2026-11-13T15:55:09.513910+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SX1952",
+      "supplier_nomenclature": "NSII0028928719",
+      "checked_at_utc": "2026-11-13T15:55:10.322747+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SX1954",
+      "supplier_nomenclature": "NSII0028928729",
+      "checked_at_utc": "2026-11-13T15:55:12.209498+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SY1017",
+      "supplier_nomenclature": "NSII0025739831",
+      "checked_at_utc": "2026-11-13T15:55:12.653450+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SY1036",
+      "supplier_nomenclature": "NSII0025739838",
+      "checked_at_utc": "2026-11-13T15:55:13.732980+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SY1058",
+      "supplier_nomenclature": "NSII0025739844",
+      "checked_at_utc": "2026-11-13T15:55:14.579816+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SY1160",
+      "supplier_nomenclature": "NSII0027925653",
+      "checked_at_utc": "2026-11-13T15:55:15.524419+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SY1162",
+      "supplier_nomenclature": "NSII0027925677",
+      "checked_at_utc": "2026-11-13T15:55:16.769269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "SUFIX",
+      "article": "SY1168",
+      "supplier_nomenclature": "NSII0028809300",
+      "checked_at_utc": "2026-11-13T15:55:17.389694+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1008",
+      "supplier_nomenclature": "NSII0024065960",
+      "checked_at_utc": "2026-11-13T15:55:19.163924+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1030",
+      "supplier_nomenclature": "NSII0024065981",
+      "checked_at_utc": "2026-11-13T15:55:19.170314+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1034",
+      "supplier_nomenclature": "NSII0024065984",
+      "checked_at_utc": "2026-11-13T15:55:20.954505+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1035",
+      "supplier_nomenclature": "NSII0024065985",
+      "checked_at_utc": "2026-11-13T15:55:21.166908+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1038",
+      "supplier_nomenclature": "NSII0024065988",
+      "checked_at_utc": "2026-11-13T15:55:22.430638+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1043",
+      "supplier_nomenclature": "NSII0024065993",
+      "checked_at_utc": "2026-11-13T15:55:23.785641+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1045",
+      "supplier_nomenclature": "NSII0024065995",
+      "checked_at_utc": "2026-11-13T15:55:25.199572+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1049",
+      "supplier_nomenclature": "NSII0024065999",
+      "checked_at_utc": "2026-11-13T15:55:26.635306+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1050",
+      "supplier_nomenclature": "NSII0024066000",
+      "checked_at_utc": "2026-11-13T15:55:26.906654+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1052",
+      "supplier_nomenclature": "NSII0024066002",
+      "checked_at_utc": "2026-11-13T15:55:27.731967+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1053",
+      "supplier_nomenclature": "NSII0024066003",
+      "checked_at_utc": "2026-11-13T15:55:29.550896+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1055",
+      "supplier_nomenclature": "NSII0024066005",
+      "checked_at_utc": "2026-11-13T15:55:30.269685+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1057",
+      "supplier_nomenclature": "NSII0024066007",
+      "checked_at_utc": "2026-11-13T15:55:30.870094+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1063",
+      "supplier_nomenclature": "NSII0024066013",
+      "checked_at_utc": "2026-11-13T15:55:32.470420+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1066",
+      "supplier_nomenclature": "NSII0024066016",
+      "checked_at_utc": "2026-11-13T15:55:32.847226+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1072",
+      "supplier_nomenclature": "NSII0024066022",
+      "checked_at_utc": "2026-11-13T15:55:33.737231+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1102",
+      "supplier_nomenclature": "NSII0024066046",
+      "checked_at_utc": "2026-11-13T15:55:34.848252+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1108",
+      "supplier_nomenclature": "NSII0024066052",
+      "checked_at_utc": "2026-11-13T15:55:36.408486+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1123",
+      "supplier_nomenclature": "NSII0024066066",
+      "checked_at_utc": "2026-11-13T15:55:36.704897+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1125",
+      "supplier_nomenclature": "NSII0024066068",
+      "checked_at_utc": "2026-11-13T15:55:37.853649+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1161",
+      "supplier_nomenclature": "NSII0024066099",
+      "checked_at_utc": "2026-11-13T15:55:39.119694+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1162",
+      "supplier_nomenclature": "NSII0024066100",
+      "checked_at_utc": "2026-11-13T15:55:40.263384+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1170",
+      "supplier_nomenclature": "NSII0024115607",
+      "checked_at_utc": "2026-11-13T15:55:41.265215+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1188",
+      "supplier_nomenclature": "NSII0024066120",
+      "checked_at_utc": "2026-11-13T15:55:42.749964+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "TATSUMI",
+      "article": "TCA1198",
+      "supplier_nomenclature": "NSII0024066127",
+      "checked_at_utc": "2026-11-13T15:55:43.358260+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Toyota",
+      "article": "0446560320",
+      "supplier_nomenclature": "NSIN0019639332",
+      "checked_at_utc": "2026-11-13T15:55:44.428495+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Toyota",
+      "article": "0446660140",
+      "supplier_nomenclature": "NSIN0019649470",
+      "checked_at_utc": "2026-11-13T15:55:45.273489+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Toyota",
+      "article": "0446660160",
+      "supplier_nomenclature": "NSIN0023111000",
+      "checked_at_utc": "2026-11-13T15:55:46.179165+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Toyota",
+      "article": "9024006158",
+      "supplier_nomenclature": "NSIN0004953057",
+      "checked_at_utc": "2026-11-13T15:55:46.314940+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "GF243",
+      "supplier_nomenclature": "NSII0024685859",
+      "checked_at_utc": "2026-11-13T15:55:47.373194+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "GF4616",
+      "supplier_nomenclature": "NSII0024685831",
+      "checked_at_utc": "2026-11-13T15:55:48.512557+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "GF4638",
+      "supplier_nomenclature": "NSII0024685807",
+      "checked_at_utc": "2026-11-13T15:55:49.530202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF051401",
+      "supplier_nomenclature": "NSII0009551688",
+      "checked_at_utc": "2026-11-13T15:55:51.679039+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF0517",
+      "supplier_nomenclature": "NSII0019789452",
+      "checked_at_utc": "2026-11-13T15:55:51.801047+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF0573",
+      "supplier_nomenclature": "NSII0019789455",
+      "checked_at_utc": "2026-11-13T15:55:53.021727+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF0806",
+      "supplier_nomenclature": "NSII0015591750",
+      "checked_at_utc": "2026-11-13T15:55:55.055849+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF0813",
+      "supplier_nomenclature": "NSII0023675654",
+      "checked_at_utc": "2026-11-13T15:55:55.276320+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF0881",
+      "supplier_nomenclature": "NSII0015591735",
+      "checked_at_utc": "2026-11-13T15:55:57.250217+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF0902",
+      "supplier_nomenclature": "NSII0016789741",
+      "checked_at_utc": "2026-11-13T15:55:58.663269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF095101",
+      "supplier_nomenclature": "NSII0009551695",
+      "checked_at_utc": "2026-11-13T15:55:58.941753+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF1073",
+      "supplier_nomenclature": "NSII0027299801",
+      "checked_at_utc": "2026-11-13T15:55:59.396789+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF1079",
+      "supplier_nomenclature": "NSII0015591729",
+      "checked_at_utc": "2026-11-13T15:56:00.589453+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF1402",
+      "supplier_nomenclature": "NSII0015591753",
+      "checked_at_utc": "2026-11-13T15:56:02.653927+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF1403",
+      "supplier_nomenclature": "NSII0019789480",
+      "checked_at_utc": "2026-11-13T15:56:02.912596+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF1404",
+      "supplier_nomenclature": "NSII0019789481",
+      "checked_at_utc": "2026-11-13T15:56:04.561959+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF1910",
+      "supplier_nomenclature": "NSII0023675658",
+      "checked_at_utc": "2026-11-13T15:56:04.581342+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF1928",
+      "supplier_nomenclature": "NSII0019789536",
+      "checked_at_utc": "2026-11-13T15:56:05.903167+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF1930",
+      "supplier_nomenclature": "NSII0019789538",
+      "checked_at_utc": "2026-11-13T15:56:06.624016+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2001",
+      "supplier_nomenclature": "NSII0019789546",
+      "checked_at_utc": "2026-11-13T15:56:07.844982+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2201",
+      "supplier_nomenclature": "NSII0019789551",
+      "checked_at_utc": "2026-11-13T15:56:09.244507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2206",
+      "supplier_nomenclature": "NSII0027299808",
+      "checked_at_utc": "2026-11-13T15:56:09.422778+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2206CR",
+      "supplier_nomenclature": "NSII0028367158",
+      "checked_at_utc": "2026-11-13T15:56:10.287363+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2211CR",
+      "supplier_nomenclature": "NSII0028293452",
+      "checked_at_utc": "2026-11-13T15:56:11.286335+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2323",
+      "supplier_nomenclature": "NSII0027979918",
+      "checked_at_utc": "2026-11-13T15:56:12.303513+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2337",
+      "supplier_nomenclature": "NSII0027703672",
+      "checked_at_utc": "2026-11-13T15:56:13.361080+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2340",
+      "supplier_nomenclature": "NSII0027062627",
+      "checked_at_utc": "2026-11-13T15:56:14.419034+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2341",
+      "supplier_nomenclature": "NSII0027062626",
+      "checked_at_utc": "2026-11-13T15:56:15.558980+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2343",
+      "supplier_nomenclature": "NSII0027062629",
+      "checked_at_utc": "2026-11-13T15:56:16.366595+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2348",
+      "supplier_nomenclature": "NSII0027703678",
+      "checked_at_utc": "2026-11-13T15:56:17.241121+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2349",
+      "supplier_nomenclature": "NSII0027061049",
+      "checked_at_utc": "2026-11-13T15:56:18.360732+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2379",
+      "supplier_nomenclature": "NSII0028801973",
+      "checked_at_utc": "2026-11-13T15:56:19.426002+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2481",
+      "supplier_nomenclature": "NSII0027703693",
+      "checked_at_utc": "2026-11-13T15:56:20.601131+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2528",
+      "supplier_nomenclature": "NSII0027675130",
+      "checked_at_utc": "2026-11-13T15:56:21.615856+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2557",
+      "supplier_nomenclature": "NSII0027494548",
+      "checked_at_utc": "2026-11-13T15:56:22.411303+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2574",
+      "supplier_nomenclature": "NSII0027703685",
+      "checked_at_utc": "2026-11-13T15:56:23.254769+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF2703",
+      "supplier_nomenclature": "NSII0019789565",
+      "checked_at_utc": "2026-11-13T15:56:24.534034+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF3261",
+      "supplier_nomenclature": "NSII0028801965",
+      "checked_at_utc": "2026-11-13T15:56:25.460633+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4019",
+      "supplier_nomenclature": "NSII0023748273",
+      "checked_at_utc": "2026-11-13T15:56:26.716057+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4049",
+      "supplier_nomenclature": "NSII0024797364",
+      "checked_at_utc": "2026-11-13T15:56:27.701438+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4132",
+      "supplier_nomenclature": "NSII0028758202",
+      "checked_at_utc": "2026-11-13T15:56:28.456278+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4194",
+      "supplier_nomenclature": "NSII0023675678",
+      "checked_at_utc": "2026-11-13T15:56:29.921712+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4233",
+      "supplier_nomenclature": "NSII0023675687",
+      "checked_at_utc": "2026-11-13T15:56:30.989764+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4236",
+      "supplier_nomenclature": "NSII0023675688",
+      "checked_at_utc": "2026-11-13T15:56:31.483149+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4340",
+      "supplier_nomenclature": "NSII0024797405",
+      "checked_at_utc": "2026-11-13T15:56:32.499390+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4343",
+      "supplier_nomenclature": "NSII0023675698",
+      "checked_at_utc": "2026-11-13T15:56:33.911820+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4369",
+      "supplier_nomenclature": "NSII0023284134",
+      "checked_at_utc": "2026-11-13T15:56:34.579990+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4417",
+      "supplier_nomenclature": "NSII0027703687",
+      "checked_at_utc": "2026-11-13T15:56:35.256586+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4418",
+      "supplier_nomenclature": "NSII0027703686",
+      "checked_at_utc": "2026-11-13T15:56:36.370418+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4426",
+      "supplier_nomenclature": "NSII0027703711",
+      "checked_at_utc": "2026-11-13T15:56:37.343668+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4428",
+      "supplier_nomenclature": "NSII0027703713",
+      "checked_at_utc": "2026-11-13T15:56:38.437646+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4429",
+      "supplier_nomenclature": "NSII0027703712",
+      "checked_at_utc": "2026-11-13T15:56:39.282403+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4435",
+      "supplier_nomenclature": "NSII0027662441",
+      "checked_at_utc": "2026-11-13T15:56:40.374682+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4455",
+      "supplier_nomenclature": "NSII0028763879",
+      "checked_at_utc": "2026-11-13T15:56:41.328050+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF4703",
+      "supplier_nomenclature": "NSII0027062638",
+      "checked_at_utc": "2026-11-13T15:56:42.392995+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF965",
+      "supplier_nomenclature": "NSII0009604575",
+      "checked_at_utc": "2026-11-13T15:56:44.166082+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF966",
+      "supplier_nomenclature": "NSII0011572532",
+      "checked_at_utc": "2026-11-13T15:56:44.842611+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF968",
+      "supplier_nomenclature": "NSII0015591746",
+      "checked_at_utc": "2026-11-13T15:56:45.623501+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF969",
+      "supplier_nomenclature": "NSII0015591756",
+      "checked_at_utc": "2026-11-13T15:56:46.653603+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF970CR",
+      "supplier_nomenclature": "NSII0027062646",
+      "checked_at_utc": "2026-11-13T15:56:47.452998+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF972",
+      "supplier_nomenclature": "NSII0015591744",
+      "checked_at_utc": "2026-11-13T15:56:48.805718+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
