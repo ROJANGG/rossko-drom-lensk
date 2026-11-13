@@ -1,0 +1,137 @@
+{
+  "batch_id": "heater-01",
+  "scope": 5,
+  "items": [
+    {
+      "brand": "Luzar",
+      "article": "LRH0826",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0028497922",
+      "manufacturer_page": "https://luzar.ru/catalogue/radiatory/radiatory-otopitelya/radiator-otopitelya-dlya-a-m-hyundai-sonata-14-lrh-0826/",
+      "manufacturer_page_sha256": "d30ccffd47f944c586e2a4d7f698ad3113180352e37e9a730c5d859746056b73",
+      "oem": "97138-C1000",
+      "all_manufacturer_oem": [
+        "97138-C1000",
+        "97138-C1000"
+      ],
+      "manufacturer_fitment_title": "Радиатор отопителя для а/м Hyundai Sonata (14-)",
+      "supplier_fitment": "Hyundai Sonata (14-)",
+      "photo": {
+        "article": "LRH0826",
+        "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRH0826_440351_7c290003f63cfc249efc079e71f14035.jpg",
+        "status": "PHOTO_NOT_CONFIRMED",
+        "error_class": "HTTPError"
+      },
+      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
+      "checked_at_utc": "2026-11-13T13:15:31.207160+00:00"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LRH0833",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0028800234",
+      "manufacturer_page": "https://luzar.ru/catalogue/radiatory/radiatory-otopitelya/radiator-otopitelya-dlya-a-m-kia-ceed-18-lrh-0833/",
+      "manufacturer_page_sha256": "625b8b3643dbee886c632e4eec8280ce2e342bbd21c9eb5d139f2469b87e10bb",
+      "oem": "97138-J7000",
+      "all_manufacturer_oem": [
+        "97138-J7000",
+        "97138-J7000"
+      ],
+      "manufacturer_fitment_title": "Радиатор отопителя для а/м Kia CEED (18-)",
+      "supplier_fitment": "KIA CEED Sportswagon (CD) 1.4 T-GDI Estate | SportswagonKIA CEED Sportswagon (CD) 1.5 T-GDI Estate | SportswagonKIA Ceed (CD) 1.4 T-GDI HatchbackKIA CEED Sportswagon (CD) 1.6 Estate | SportswagonKIA Ceed (CD) 1.6 HatchbackKIA PROCEED (CD) 1.6 T-GDI EstateKIA PROCEED (CD) 1.4 T-GDI Estate",
+      "photo": {
+        "article": "LRH0833",
+        "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRH0833_615566_cf1dfbb32155c487523600dbcfbb7b1b.jpg",
+        "status": "PHOTO_NOT_CONFIRMED",
+        "error_class": "HTTPError"
+      },
+      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
+      "checked_at_utc": "2026-11-13T13:15:31.210217+00:00"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LRH1016",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0028788063",
+      "manufacturer_page": "https://luzar.ru/catalogue/radiatory/radiatory-otopitelya/radiator-otopitelya-dlya-a-m-volvo-xc40-17-lrh-1016/",
+      "manufacturer_page_sha256": "b2b6023d2d7dd93aad919e2658f1874d7fa48a3bd13c42a815a536a8bae6ef03",
+      "oem": "31694670",
+      "all_manufacturer_oem": [
+        "31694670",
+        "31694670"
+      ],
+      "manufacturer_fitment_title": "Радиатор отопителя для а/м Volvo XC40 (17-)",
+      "supplier_fitment": "VOLVO XC40 (536) D4 Polestar AWD SUVVOLVO XC40 (536) D3 AWD SUVVOLVO XC40 (536) T5 Plug-in Hybrid SUVVOLVO XC40 (536) B4 Mild-Hybrid SUVVOLVO XC40 (536) T5 Polestar AWD SUVVOLVO XC40 (536) D3 SUVVOLVO XC40 (536) B4 Mild-Hybrid AWD SUVVOLVO XC40 (536) T5 AWD SUVVOLVO XC40 (536) B5 Mild-Hybrid AWD SUVVOLVO XC40 (536) D4 AWD SUVVOLVO XC40 (536) T3 SUVVOLVO XC40 (536) T2 SUVVOLVO XC40 (536) T4 AWD SUV",
+      "photo": {
+        "article": "LRH1016",
+        "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRH1016_618123_44e6e61beb9ec07a50ab11cf9a03c78f.jpg",
+        "status": "PHOTO_NOT_CONFIRMED",
+        "error_class": "HTTPError"
+      },
+      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
+      "checked_at_utc": "2026-11-13T13:15:31.212738+00:00"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LRH1853",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0011556443",
+      "manufacturer_page": "https://luzar.ru/catalogue/radiatory/radiatory-otopitelya/radiator-otopitelya-polo-10--lrh-1853/",
+      "manufacturer_page_sha256": "73a89e4b3f5599bdacf0aae8ef9a4e7be0683213d9cbe42fcdee179559be63dd",
+      "oem": "6R0 819 031",
+      "all_manufacturer_oem": [
+        "6R0 819 031",
+        "6C0 819 031",
+        "6Q0 819 031",
+        "6Q0819033",
+        "6Q0819093",
+        "6Q0819861",
+        "6R0 819 031",
+        "6RD819031",
+        "6R0 819 031",
+        "6C0 819 031",
+        "6Q0 819 031",
+        "6Q0819033",
+        "6Q0819093",
+        "6Q0819861",
+        "6R0 819 031",
+        "6RD819031"
+      ],
+      "manufacturer_fitment_title": "Радиатор отопителя для автомобилей Polo (10-)/(20-)",
+      "supplier_fitment": "A1,A1 Sportback,CORDOBA,FABIA,FABIA Combi,FABIA Praktik,FABIA Stufenheck,FOX,IBIZA IV,IBIZA V,IBIZA V SPORTCOUPE,IBIZA V ST,POLO,POLO Stufenheck,ROOMSTER,ROOMSTER Praktik",
+      "photo": {
+        "article": "LRH1853",
+        "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRH1853_263630_747d93d5355590b37ef42a86824041d4.jpg",
+        "status": "PHOTO_NOT_CONFIRMED",
+        "error_class": "HTTPError"
+      },
+      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
+      "checked_at_utc": "2026-11-13T13:15:31.217932+00:00"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LRH3013",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0028787963",
+      "manufacturer_page": "https://luzar.ru/catalogue/radiatory/radiatory-otopitelya/radiator-otopitelya-dlya-avtomobiley-geely-emgrand-ec7-09-lrh-3013/",
+      "manufacturer_page_sha256": "0d8da8d578aaf9ead5412ddb22146491efdc4d9e148489da5cae7d86cdb7894f",
+      "oem": "1061001245",
+      "all_manufacturer_oem": [
+        "1061001245",
+        "1061001245"
+      ],
+      "manufacturer_fitment_title": "Радиатор отопителя для автомобилей Geely Emgrand EC7 (09-)",
+      "supplier_fitment": "EMGRAND EC7 1.5 SaloonEMGRAND EC7-RV 1.8 HatchbackEMGRAND EC7 1.8 SaloonGEELY EMGRAND Saloon | EC7 1.8 Saloon",
+      "photo": {
+        "article": "LRH3013",
+        "url": "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3013_885384_20bfdf1336f394a641befccad17ad2c2.jpg",
+        "status": "PHOTO_NOT_CONFIRMED",
+        "error_class": "HTTPError"
+      },
+      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
+      "checked_at_utc": "2026-11-13T13:15:31.219858+00:00"
+    }
+  ],
+  "no_XML_changes": true,
+  "publication_performed": false
+}
