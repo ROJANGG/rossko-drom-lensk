@@ -1,0 +1,74 @@
+name: Avito - full requested-category candidate search
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_full_requested_categories_scan.yml'
+permissions:
+  contents: read
+concurrency:
+  group: avito-expansion-full-scan
+  cancel-in-progress: false
+jobs:
+  catalogue-scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    permissions:
+      contents: write
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 1fc9f5fa1e5b9c791182c71425ea46618bff4eff
+          path: generator
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          path: source
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: live
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-expansion-review
+          path: review-state
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'requests>=2.31,<3' 'openpyxl>=3.1,<4' 'zeep>=4.3,<5'
+      - name: Load only reviewed category and price helpers
+        run: |
+          cp source/avito_irkutsk.py source/avito_active_feed_refresh.py generator/
+          cp source/input/avito_verified_extension_evidence.json generator/input/
+          cp source/avito_full_category_scan.py source/avito_requested_categories.py generator/
+          cp source/tests/test_avito_full_category_scan.py generator/tests/
+          cd review-state
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Test no buying-price leakage, resume identity, and candidate classification
+        working-directory: generator
+        run: python -m unittest discover -s tests -p test_avito_full_category_scan.py -v
+      - name: Scan all 22 categories; checkpoint each 100; never change live XML
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: |
+          python generator/avito_full_category_scan.py \
+            --config generator/config.json \
+            --live live/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml \
+            --state-repo review-state \
+            --source-dir source/input \
+            --scan-id 20261113
+      - name: Upload the persisted public-safe review data
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: AVITO_ALL_REQUESTED_CATEGORIES_REVIEW
+          path: review-state/results/20261113/
+          if-no-files-found: ignore
