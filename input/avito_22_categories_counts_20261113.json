@@ -1,0 +1,167 @@
+{
+  "source": "latest committed input/rossko_price.xlsx",
+  "supplier_workbook_sha256": "bd1da0eb92fc519c1ad9a8d030d89512111d30e6a31041b48893c6c294e003a4",
+  "categories": 22,
+  "eligible_total": 13062,
+  "active_in_requested_categories": 47,
+  "eligible_already_active": 47,
+  "remaining_candidates": 13015,
+  "counts": [
+    {
+      "category": "Насос ГУР",
+      "eligible_zero_day_skus": 98,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 98
+    },
+    {
+      "category": "Генератор",
+      "eligible_zero_day_skus": 179,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 179
+    },
+    {
+      "category": "Рычаги подвески",
+      "eligible_zero_day_skus": 2829,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 2829
+    },
+    {
+      "category": "Тяги рулевые",
+      "eligible_zero_day_skus": 956,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 956
+    },
+    {
+      "category": "Рулевые наконечники",
+      "eligible_zero_day_skus": 1377,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 1377
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "eligible_zero_day_skus": 1473,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 1473
+    },
+    {
+      "category": "Ремни приводные",
+      "eligible_zero_day_skus": 808,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 808
+    },
+    {
+      "category": "Комплекты цепи ГРМ",
+      "eligible_zero_day_skus": 87,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 87
+    },
+    {
+      "category": "Ремни ГРМ",
+      "eligible_zero_day_skus": 154,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 154
+    },
+    {
+      "category": "Прокладки ГБЦ",
+      "eligible_zero_day_skus": 218,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 218
+    },
+    {
+      "category": "Свечи накала",
+      "eligible_zero_day_skus": 40,
+      "already_active_xml": 21,
+      "eligible_already_active_xml": 21,
+      "remaining_candidates": 19
+    },
+    {
+      "category": "Радиаторы охлаждения",
+      "eligible_zero_day_skus": 191,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 191
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "eligible_zero_day_skus": 37,
+      "already_active_xml": 9,
+      "eligible_already_active_xml": 9,
+      "remaining_candidates": 28
+    },
+    {
+      "category": "Радиаторы печки",
+      "eligible_zero_day_skus": 63,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 63
+    },
+    {
+      "category": "ШРУС",
+      "eligible_zero_day_skus": 1148,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 1148
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "eligible_zero_day_skus": 1682,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 1682
+    },
+    {
+      "category": "Стойки амортизатора",
+      "eligible_zero_day_skus": 235,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 235
+    },
+    {
+      "category": "Пружины подвески",
+      "eligible_zero_day_skus": 284,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 284
+    },
+    {
+      "category": "Колодки барабанные",
+      "eligible_zero_day_skus": 22,
+      "already_active_xml": 17,
+      "eligible_already_active_xml": 17,
+      "remaining_candidates": 5
+    },
+    {
+      "category": "Опоры двигателя",
+      "eligible_zero_day_skus": 630,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 630
+    },
+    {
+      "category": "Ступичные подшипники",
+      "eligible_zero_day_skus": 551,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 551
+    },
+    {
+      "category": "Форсунки топливные",
+      "eligible_zero_day_skus": 0,
+      "already_active_xml": 0,
+      "eligible_already_active_xml": 0,
+      "remaining_candidates": 0
+    }
+  ],
+  "ambiguous_rows_excluded": 215,
+  "not_all_candidates_OEM_photo_API_verified": true
+}

@@ -22,8 +22,20 @@
         "status": "PHOTO_NOT_CONFIRMED",
         "error_class": "HTTPError"
       },
-      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
-      "checked_at_utc": "2026-11-13T13:15:31.207160+00:00"
+      "review_status": "BLOCKED_PHOTO_AND_NONZERO_API_DELIVERY",
+      "checked_at_utc": "2026-11-13T13:15:31.207160+00:00",
+      "account_API_review": {
+        "brand": "Luzar",
+        "article": "LRH0826",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:16:47.716083+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "blockers": [
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED_HTTP403",
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Luzar",
@@ -45,8 +57,20 @@
         "status": "PHOTO_NOT_CONFIRMED",
         "error_class": "HTTPError"
       },
-      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
-      "checked_at_utc": "2026-11-13T13:15:31.210217+00:00"
+      "review_status": "BLOCKED_PHOTO_AND_NONZERO_API_DELIVERY",
+      "checked_at_utc": "2026-11-13T13:15:31.210217+00:00",
+      "account_API_review": {
+        "brand": "Luzar",
+        "article": "LRH0833",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:16:48.467801+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "blockers": [
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED_HTTP403",
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Luzar",
@@ -68,8 +92,20 @@
         "status": "PHOTO_NOT_CONFIRMED",
         "error_class": "HTTPError"
       },
-      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
-      "checked_at_utc": "2026-11-13T13:15:31.212738+00:00"
+      "review_status": "BLOCKED_PHOTO_AND_NONZERO_API_DELIVERY",
+      "checked_at_utc": "2026-11-13T13:15:31.212738+00:00",
+      "account_API_review": {
+        "brand": "Luzar",
+        "article": "LRH1016",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:16:49.042551+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "blockers": [
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED_HTTP403",
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Luzar",
@@ -105,8 +141,20 @@
         "status": "PHOTO_NOT_CONFIRMED",
         "error_class": "HTTPError"
       },
-      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
-      "checked_at_utc": "2026-11-13T13:15:31.217932+00:00"
+      "review_status": "BLOCKED_PHOTO_AND_NONZERO_API_DELIVERY",
+      "checked_at_utc": "2026-11-13T13:15:31.217932+00:00",
+      "account_API_review": {
+        "brand": "Luzar",
+        "article": "LRH1853",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:16:49.564594+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "blockers": [
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED_HTTP403",
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "Luzar",
@@ -128,10 +176,24 @@
         "status": "PHOTO_NOT_CONFIRMED",
         "error_class": "HTTPError"
       },
-      "review_status": "OEM_AND_FITMENT_VERIFIED_PHOTO_DOWNLOAD_NOT_CONFIRMED",
-      "checked_at_utc": "2026-11-13T13:15:31.219858+00:00"
+      "review_status": "BLOCKED_PHOTO_AND_NONZERO_API_DELIVERY",
+      "checked_at_utc": "2026-11-13T13:15:31.219858+00:00",
+      "account_API_review": {
+        "brand": "Luzar",
+        "article": "LRH3013",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:16:50.562489+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "blockers": [
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED_HTTP403",
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     }
   ],
   "no_XML_changes": true,
-  "publication_performed": false
+  "publication_performed": false,
+  "account_API_workflow_run_id": 43432217091,
+  "account_API_review_completed": true
 }
