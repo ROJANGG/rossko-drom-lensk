@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рычаги подвески",
+      "brand": "Honda",
+      "article": "52622SX0003",
+      "supplier_nomenclature": "NSIN0002161772",
+      "checked_at_utc": "2026-11-13T14:08:53.317562+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "BS2012",
+      "supplier_nomenclature": "NSII0016187797",
+      "checked_at_utc": "2026-11-13T14:08:53.922332+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "BS2015R",
+      "supplier_nomenclature": "NSII0015453368",
+      "checked_at_utc": "2026-11-13T14:08:55.437556+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "BS462",
+      "supplier_nomenclature": "NSII0014091914",
+      "checked_at_utc": "2026-11-13T14:08:55.795950+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "RU005",
+      "supplier_nomenclature": "NSII0007740994",
+      "checked_at_utc": "2026-11-13T14:08:57.163812+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "RU2434",
+      "supplier_nomenclature": "NSII0014092110",
+      "checked_at_utc": "2026-11-13T14:08:57.885076+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "RU2454",
+      "supplier_nomenclature": "NSII0014092125",
+      "checked_at_utc": "2026-11-13T14:08:58.683434+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "RU2468",
+      "supplier_nomenclature": "NSII0014092134",
+      "checked_at_utc": "2026-11-13T14:08:59.866291+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "RU2525",
+      "supplier_nomenclature": "NSII0016349066",
+      "checked_at_utc": "2026-11-13T14:09:00.990283+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "RU5111",
+      "supplier_nomenclature": "NSII0016080908",
+      "checked_at_utc": "2026-11-13T14:09:01.999019+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Japanparts",
+      "article": "RU540",
+      "supplier_nomenclature": "NSII0001150894",
+      "checked_at_utc": "2026-11-13T14:09:03.343881+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21028",
+      "supplier_nomenclature": "NSII0007164874",
+      "checked_at_utc": "2026-11-13T14:09:04.432790+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21033",
+      "supplier_nomenclature": "NSII0007164883",
+      "checked_at_utc": "2026-11-13T14:09:05.534658+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21039",
+      "supplier_nomenclature": "NSII0007164869",
+      "checked_at_utc": "2026-11-13T14:09:05.680027+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21045",
+      "supplier_nomenclature": "NSII0014094493",
+      "checked_at_utc": "2026-11-13T14:09:06.777389+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21047",
+      "supplier_nomenclature": "NSII0015234773",
+      "checked_at_utc": "2026-11-13T14:09:08.539266+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21052",
+      "supplier_nomenclature": "NSII0007164658",
+      "checked_at_utc": "2026-11-13T14:09:08.983683+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21086",
+      "supplier_nomenclature": "NSII0007164855",
+      "checked_at_utc": "2026-11-13T14:09:10.193641+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21106",
+      "supplier_nomenclature": "NSII0013065231",
+      "checked_at_utc": "2026-11-13T14:09:10.927871+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21110",
+      "supplier_nomenclature": "NSII0019210975",
+      "checked_at_utc": "2026-11-13T14:09:11.581290+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21112",
+      "supplier_nomenclature": "NSII0007164867",
+      "checked_at_utc": "2026-11-13T14:09:12.961294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21117",
+      "supplier_nomenclature": "NSII0012779002",
+      "checked_at_utc": "2026-11-13T14:09:14.040375+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21125",
+      "supplier_nomenclature": "NSII0014094498",
+      "checked_at_utc": "2026-11-13T14:09:15.144519+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21133",
+      "supplier_nomenclature": "NSII0007164663",
+      "checked_at_utc": "2026-11-13T14:09:16.154408+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21139",
+      "supplier_nomenclature": "NSII0015235444",
+      "checked_at_utc": "2026-11-13T14:09:16.709392+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21182",
+      "supplier_nomenclature": "NSII0010143579",
+      "checked_at_utc": "2026-11-13T14:09:17.866718+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21188",
+      "supplier_nomenclature": "NSII0007164656",
+      "checked_at_utc": "2026-11-13T14:09:18.912762+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21211",
+      "supplier_nomenclature": "NSII0015235500",
+      "checked_at_utc": "2026-11-13T14:09:19.811152+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21213",
+      "supplier_nomenclature": "NSII0007164676",
+      "checked_at_utc": "2026-11-13T14:09:20.870707+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21223",
+      "supplier_nomenclature": "NSII0015235916",
+      "checked_at_utc": "2026-11-13T14:09:22.161664+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21230",
+      "supplier_nomenclature": "NSII0007164680",
+      "checked_at_utc": "2026-11-13T14:09:22.706960+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21249",
+      "supplier_nomenclature": "NSII0012778929",
+      "checked_at_utc": "2026-11-13T14:09:23.812352+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21256",
+      "supplier_nomenclature": "NSII0014094511",
+      "checked_at_utc": "2026-11-13T14:09:24.767613+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21261",
+      "supplier_nomenclature": "NSII0012778928",
+      "checked_at_utc": "2026-11-13T14:09:25.886144+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21265B",
+      "supplier_nomenclature": "NSII0019211011",
+      "checked_at_utc": "2026-11-13T14:09:27.076927+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21273",
+      "supplier_nomenclature": "NSII0007164677",
+      "checked_at_utc": "2026-11-13T14:09:28.196808+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21274",
+      "supplier_nomenclature": "NSII0015235876",
+      "checked_at_utc": "2026-11-13T14:09:29.023830+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21379",
+      "supplier_nomenclature": "NSII0014094528",
+      "checked_at_utc": "2026-11-13T14:09:29.843406+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21392",
+      "supplier_nomenclature": "NSII0014094530",
+      "checked_at_utc": "2026-11-13T14:09:30.983611+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH21395",
+      "supplier_nomenclature": "NSII0007164664",
+      "checked_at_utc": "2026-11-13T14:09:32.388934+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22014",
+      "supplier_nomenclature": "NSII0015235701",
+      "checked_at_utc": "2026-11-13T14:09:33.058423+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22015",
+      "supplier_nomenclature": "NSII0007164941",
+      "checked_at_utc": "2026-11-13T14:09:33.893810+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22030",
+      "supplier_nomenclature": "NSII0015235629",
+      "checked_at_utc": "2026-11-13T14:09:34.791708+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22039",
+      "supplier_nomenclature": "NSII0007164936",
+      "checked_at_utc": "2026-11-13T14:09:36.283684+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22075",
+      "supplier_nomenclature": "NSII0014094540",
+      "checked_at_utc": "2026-11-13T14:09:36.858324+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22159",
+      "supplier_nomenclature": "NSII0013065253",
+      "checked_at_utc": "2026-11-13T14:09:37.833793+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22160",
+      "supplier_nomenclature": "NSII0014094559",
+      "checked_at_utc": "2026-11-13T14:09:39.118158+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22218",
+      "supplier_nomenclature": "NSII0013065243",
+      "checked_at_utc": "2026-11-13T14:09:40.222391+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22305H",
+      "supplier_nomenclature": "NSII0019211044",
+      "checked_at_utc": "2026-11-13T14:09:41.023265+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH22321",
+      "supplier_nomenclature": "NSII0024568823",
+      "checked_at_utc": "2026-11-13T14:09:41.643030+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH23024",
+      "supplier_nomenclature": "NSII0007164950",
+      "checked_at_utc": "2026-11-13T14:09:43.423731+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH23033",
+      "supplier_nomenclature": "NSII0013065229",
+      "checked_at_utc": "2026-11-13T14:09:44.221170+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH23035",
+      "supplier_nomenclature": "NSII0012778881",
+      "checked_at_utc": "2026-11-13T14:09:44.851458+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH23036",
+      "supplier_nomenclature": "NSII0014094572",
+      "checked_at_utc": "2026-11-13T14:09:45.796671+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH23037",
+      "supplier_nomenclature": "NSII0014094573",
+      "checked_at_utc": "2026-11-13T14:09:46.698030+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH23061",
+      "supplier_nomenclature": "NSII0012778969",
+      "checked_at_utc": "2026-11-13T14:09:47.861312+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH23111",
+      "supplier_nomenclature": "NSII0012778970",
+      "checked_at_utc": "2026-11-13T14:09:49.228931+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH24003",
+      "supplier_nomenclature": "NSII0015235144",
+      "checked_at_utc": "2026-11-13T14:09:49.739878+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH25046",
+      "supplier_nomenclature": "NSII0012779019",
+      "checked_at_utc": "2026-11-13T14:09:51.039575+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH25065",
+      "supplier_nomenclature": "NSII0012778960",
+      "checked_at_utc": "2026-11-13T14:09:52.219093+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH25067",
+      "supplier_nomenclature": "NSII0012778959",
+      "checked_at_utc": "2026-11-13T14:09:53.221928+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH25068",
+      "supplier_nomenclature": "NSII0012778958",
+      "checked_at_utc": "2026-11-13T14:09:54.211882+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH25237",
+      "supplier_nomenclature": "NSII0022695256",
+      "checked_at_utc": "2026-11-13T14:09:55.011056+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH27003",
+      "supplier_nomenclature": "NSII0014094602",
+      "checked_at_utc": "2026-11-13T14:09:56.033193+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH27017",
+      "supplier_nomenclature": "NSII0014094612",
+      "checked_at_utc": "2026-11-13T14:09:56.908195+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH27027",
+      "supplier_nomenclature": "NSII0007164838",
+      "checked_at_utc": "2026-11-13T14:09:57.744316+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH27034",
+      "supplier_nomenclature": "NSII0015235698",
+      "checked_at_utc": "2026-11-13T14:09:58.674254+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28012",
+      "supplier_nomenclature": "NSII0007164570",
+      "checked_at_utc": "2026-11-13T14:09:59.952334+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28016",
+      "supplier_nomenclature": "NSII0014094620",
+      "checked_at_utc": "2026-11-13T14:10:00.966611+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28017",
+      "supplier_nomenclature": "NSII0007164905",
+      "checked_at_utc": "2026-11-13T14:10:01.920345+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28030",
+      "supplier_nomenclature": "NSII0013065232",
+      "checked_at_utc": "2026-11-13T14:10:02.963545+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28033",
+      "supplier_nomenclature": "NSII0009654021",
+      "checked_at_utc": "2026-11-13T14:10:03.956089+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28046",
+      "supplier_nomenclature": "NSII0013065233",
+      "checked_at_utc": "2026-11-13T14:10:04.833292+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28047",
+      "supplier_nomenclature": "NSII0010123918",
+      "checked_at_utc": "2026-11-13T14:10:05.971203+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28050",
+      "supplier_nomenclature": "NSII0011007272",
+      "checked_at_utc": "2026-11-13T14:10:06.880125+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28066",
+      "supplier_nomenclature": "NSII0007164687",
+      "checked_at_utc": "2026-11-13T14:10:07.774917+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28077",
+      "supplier_nomenclature": "NSII0007164691",
+      "checked_at_utc": "2026-11-13T14:10:09.073955+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28144",
+      "supplier_nomenclature": "NSII0020338408",
+      "checked_at_utc": "2026-11-13T14:10:09.912584+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28153",
+      "supplier_nomenclature": "NSII0018437752",
+      "checked_at_utc": "2026-11-13T14:10:10.996622+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28155",
+      "supplier_nomenclature": "NSII0022695266",
+      "checked_at_utc": "2026-11-13T14:10:11.733619+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28158",
+      "supplier_nomenclature": "NSII0022695269",
+      "checked_at_utc": "2026-11-13T14:10:12.667857+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28164",
+      "supplier_nomenclature": "NSII0022695273",
+      "checked_at_utc": "2026-11-13T14:10:13.693449+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH28190",
+      "supplier_nomenclature": "NSII0022695297",
+      "checked_at_utc": "2026-11-13T14:10:14.664999+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH31064",
+      "supplier_nomenclature": "NSII0024117274",
+      "checked_at_utc": "2026-11-13T14:10:15.865768+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH33004",
+      "supplier_nomenclature": "NSII0013114946",
+      "checked_at_utc": "2026-11-13T14:10:17.244972+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH33010",
+      "supplier_nomenclature": "NSII0013114952",
+      "checked_at_utc": "2026-11-13T14:10:19.008071+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH33011",
+      "supplier_nomenclature": "NSII0013114953",
+      "checked_at_utc": "2026-11-13T14:10:19.435602+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH33013",
+      "supplier_nomenclature": "NSII0013114955",
+      "checked_at_utc": "2026-11-13T14:10:20.063093+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH33020",
+      "supplier_nomenclature": "NSII0013114965",
+      "checked_at_utc": "2026-11-13T14:10:21.436492+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH33021",
+      "supplier_nomenclature": "NSII0012778930",
+      "checked_at_utc": "2026-11-13T14:10:22.808700+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH33022",
+      "supplier_nomenclature": "NSII0013114966",
+      "checked_at_utc": "2026-11-13T14:10:23.501334+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH47010",
+      "supplier_nomenclature": "NSII0013114525",
+      "checked_at_utc": "2026-11-13T14:10:23.771266+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BH81002",
+      "supplier_nomenclature": "NSII0013114980",
+      "checked_at_utc": "2026-11-13T14:10:25.266647+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "JIKIU",
+      "article": "BHK21091",
+      "supplier_nomenclature": "NSII0019211106",
+      "checked_at_utc": "2026-11-13T14:10:25.683215+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "2658001",
+      "supplier_nomenclature": "NSIN0014777018",
+      "checked_at_utc": "2026-11-13T14:10:28.157283+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "2111301",
+      "supplier_nomenclature": "NSIN0014770356",
+      "checked_at_utc": "2026-11-13T14:10:28.250664+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "2889801",
+      "supplier_nomenclature": "NSIN0014950449",
+      "checked_at_utc": "2026-11-13T14:10:29.113263+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "2889901",
+      "supplier_nomenclature": "NSIN0014950450",
+      "checked_at_utc": "2026-11-13T14:10:30.246582+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "2951001",
+      "supplier_nomenclature": "NSIN0019752611",
+      "checked_at_utc": "2026-11-13T14:10:30.818930+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Lemforder",
+      "article": "3072401",
+      "supplier_nomenclature": "NSIN0019752560",
+      "checked_at_utc": "2026-11-13T14:10:32.870126+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
