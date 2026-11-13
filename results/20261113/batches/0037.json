@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261029",
+      "supplier_nomenclature": "NSII0028682171",
+      "checked_at_utc": "2026-11-13T15:00:35.961734+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261030",
+      "supplier_nomenclature": "NSII0028681664",
+      "checked_at_utc": "2026-11-13T15:00:36.991424+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261034",
+      "supplier_nomenclature": "NSII0028682115",
+      "checked_at_utc": "2026-11-13T15:00:37.510267+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261035",
+      "supplier_nomenclature": "NSII0028682241",
+      "checked_at_utc": "2026-11-13T15:00:38.368372+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261038",
+      "supplier_nomenclature": "NSII0028681988",
+      "checked_at_utc": "2026-11-13T15:00:39.249059+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261040",
+      "supplier_nomenclature": "NSII0028681228",
+      "checked_at_utc": "2026-11-13T15:00:39.986020+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261044",
+      "supplier_nomenclature": "NSII0028681658",
+      "checked_at_utc": "2026-11-13T15:00:41.181786+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261045",
+      "supplier_nomenclature": "NSII0028681787",
+      "checked_at_utc": "2026-11-13T15:00:42.412190+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261046",
+      "supplier_nomenclature": "NSII0028681035",
+      "checked_at_utc": "2026-11-13T15:00:43.248171+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261047",
+      "supplier_nomenclature": "NSII0028681871",
+      "checked_at_utc": "2026-11-13T15:00:44.253955+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261048",
+      "supplier_nomenclature": "NSII0028681461",
+      "checked_at_utc": "2026-11-13T15:00:45.144888+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261050",
+      "supplier_nomenclature": "NSII0028680501",
+      "checked_at_utc": "2026-11-13T15:00:45.969012+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261051",
+      "supplier_nomenclature": "NSII0028682101",
+      "checked_at_utc": "2026-11-13T15:00:47.177113+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261052",
+      "supplier_nomenclature": "NSII0028681647",
+      "checked_at_utc": "2026-11-13T15:00:48.208977+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261053",
+      "supplier_nomenclature": "NSII0028681772",
+      "checked_at_utc": "2026-11-13T15:00:49.297609+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261054",
+      "supplier_nomenclature": "NSII0028681640",
+      "checked_at_utc": "2026-11-13T15:00:50.060196+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261059",
+      "supplier_nomenclature": "NSII0028681367",
+      "checked_at_utc": "2026-11-13T15:00:51.068128+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261061",
+      "supplier_nomenclature": "NSII0028682111",
+      "checked_at_utc": "2026-11-13T15:00:52.343671+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261062",
+      "supplier_nomenclature": "NSII0028681067",
+      "checked_at_utc": "2026-11-13T15:00:53.003115+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261064",
+      "supplier_nomenclature": "NSII0028682207",
+      "checked_at_utc": "2026-11-13T15:00:54.198373+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261066",
+      "supplier_nomenclature": "NSII0028680969",
+      "checked_at_utc": "2026-11-13T15:00:54.977994+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261068",
+      "supplier_nomenclature": "NSII0028681686",
+      "checked_at_utc": "2026-11-13T15:00:56.165318+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261070",
+      "supplier_nomenclature": "NSII0028682076",
+      "checked_at_utc": "2026-11-13T15:00:57.478143+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261073",
+      "supplier_nomenclature": "NSII0028682142",
+      "checked_at_utc": "2026-11-13T15:00:58.156156+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261076",
+      "supplier_nomenclature": "NSII0028681538",
+      "checked_at_utc": "2026-11-13T15:00:59.375226+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261077",
+      "supplier_nomenclature": "NSII0028681865",
+      "checked_at_utc": "2026-11-13T15:01:00.141345+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261078",
+      "supplier_nomenclature": "NSII0028681680",
+      "checked_at_utc": "2026-11-13T15:01:01.328436+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261079",
+      "supplier_nomenclature": "NSII0028681778",
+      "checked_at_utc": "2026-11-13T15:01:02.299411+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261080",
+      "supplier_nomenclature": "NSII0028681201",
+      "checked_at_utc": "2026-11-13T15:01:03.018970+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261082",
+      "supplier_nomenclature": "NSII0028680942",
+      "checked_at_utc": "2026-11-13T15:01:04.238970+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261084",
+      "supplier_nomenclature": "NSII0028681868",
+      "checked_at_utc": "2026-11-13T15:01:05.194653+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261085",
+      "supplier_nomenclature": "NSII0028682203",
+      "checked_at_utc": "2026-11-13T15:01:06.428293+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261086",
+      "supplier_nomenclature": "NSII0028681832",
+      "checked_at_utc": "2026-11-13T15:01:07.409398+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261088",
+      "supplier_nomenclature": "NSII0028681026",
+      "checked_at_utc": "2026-11-13T15:01:08.136224+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261089",
+      "supplier_nomenclature": "NSII0028721459",
+      "checked_at_utc": "2026-11-13T15:01:09.021116+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261091",
+      "supplier_nomenclature": "NSII0028988473",
+      "checked_at_utc": "2026-11-13T15:01:10.036259+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261092",
+      "supplier_nomenclature": "NSII0028681183",
+      "checked_at_utc": "2026-11-13T15:01:11.028560+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261093",
+      "supplier_nomenclature": "NSII0028988474",
+      "checked_at_utc": "2026-11-13T15:01:11.971701+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261094",
+      "supplier_nomenclature": "NSII0028681572",
+      "checked_at_utc": "2026-11-13T15:01:13.012988+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261096",
+      "supplier_nomenclature": "NSII0028681929",
+      "checked_at_utc": "2026-11-13T15:01:14.673389+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261097",
+      "supplier_nomenclature": "NSII0028681110",
+      "checked_at_utc": "2026-11-13T15:01:15.141743+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261099",
+      "supplier_nomenclature": "NSII0028682299",
+      "checked_at_utc": "2026-11-13T15:01:16.595234+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261100",
+      "supplier_nomenclature": "NSII0028680943",
+      "checked_at_utc": "2026-11-13T15:01:16.989832+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261101",
+      "supplier_nomenclature": "NSII0028680958",
+      "checked_at_utc": "2026-11-13T15:01:18.196822+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261102",
+      "supplier_nomenclature": "NSII0028681537",
+      "checked_at_utc": "2026-11-13T15:01:19.109831+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261103",
+      "supplier_nomenclature": "NSII0028682213",
+      "checked_at_utc": "2026-11-13T15:01:20.554880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261105",
+      "supplier_nomenclature": "NSII0028682026",
+      "checked_at_utc": "2026-11-13T15:01:21.264078+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261106",
+      "supplier_nomenclature": "NSII0028681221",
+      "checked_at_utc": "2026-11-13T15:01:22.257216+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261107",
+      "supplier_nomenclature": "NSII0028681288",
+      "checked_at_utc": "2026-11-13T15:01:23.108423+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261108",
+      "supplier_nomenclature": "NSII0028681617",
+      "checked_at_utc": "2026-11-13T15:01:24.005342+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261109",
+      "supplier_nomenclature": "NSII0028680924",
+      "checked_at_utc": "2026-11-13T15:01:25.259638+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261113",
+      "supplier_nomenclature": "NSII0028681820",
+      "checked_at_utc": "2026-11-13T15:01:26.540283+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261114",
+      "supplier_nomenclature": "NSII0028681797",
+      "checked_at_utc": "2026-11-13T15:01:27.202440+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261116",
+      "supplier_nomenclature": "NSII0028681958",
+      "checked_at_utc": "2026-11-13T15:01:28.292683+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261117",
+      "supplier_nomenclature": "NSII0028681113",
+      "checked_at_utc": "2026-11-13T15:01:29.069696+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261118",
+      "supplier_nomenclature": "NSII0028681853",
+      "checked_at_utc": "2026-11-13T15:01:30.123186+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261120",
+      "supplier_nomenclature": "NSII0028681627",
+      "checked_at_utc": "2026-11-13T15:01:31.136291+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261121",
+      "supplier_nomenclature": "NSII0028682038",
+      "checked_at_utc": "2026-11-13T15:01:32.238977+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261122",
+      "supplier_nomenclature": "NSII0028680990",
+      "checked_at_utc": "2026-11-13T15:01:33.191455+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261123",
+      "supplier_nomenclature": "NSII0028680991",
+      "checked_at_utc": "2026-11-13T15:01:34.073842+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261126",
+      "supplier_nomenclature": "NSII0028681709",
+      "checked_at_utc": "2026-11-13T15:01:35.358616+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261129",
+      "supplier_nomenclature": "NSII0028681376",
+      "checked_at_utc": "2026-11-13T15:01:36.304725+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261131",
+      "supplier_nomenclature": "NSII0028681368",
+      "checked_at_utc": "2026-11-13T15:01:37.411995+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261138",
+      "supplier_nomenclature": "NSII0028681575",
+      "checked_at_utc": "2026-11-13T15:01:38.249073+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261139",
+      "supplier_nomenclature": "NSII0028680966",
+      "checked_at_utc": "2026-11-13T15:01:39.236578+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261141",
+      "supplier_nomenclature": "NSII0028681994",
+      "checked_at_utc": "2026-11-13T15:01:40.299649+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261147",
+      "supplier_nomenclature": "NSII0028680874",
+      "checked_at_utc": "2026-11-13T15:01:41.350179+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261152",
+      "supplier_nomenclature": "NSII0028681457",
+      "checked_at_utc": "2026-11-13T15:01:42.095524+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261153",
+      "supplier_nomenclature": "NSII0028681990",
+      "checked_at_utc": "2026-11-13T15:01:43.491349+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261155",
+      "supplier_nomenclature": "NSII0028681595",
+      "checked_at_utc": "2026-11-13T15:01:44.113110+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261157",
+      "supplier_nomenclature": "NSII0028681539",
+      "checked_at_utc": "2026-11-13T15:01:45.170819+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261159",
+      "supplier_nomenclature": "NSII0028681152",
+      "checked_at_utc": "2026-11-13T15:01:46.190331+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261161",
+      "supplier_nomenclature": "NSII0028681803",
+      "checked_at_utc": "2026-11-13T15:01:47.462527+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261165",
+      "supplier_nomenclature": "NSII0028682110",
+      "checked_at_utc": "2026-11-13T15:01:48.312953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261166",
+      "supplier_nomenclature": "NSII0028681742",
+      "checked_at_utc": "2026-11-13T15:01:49.187558+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261169",
+      "supplier_nomenclature": "NSII0028680999",
+      "checked_at_utc": "2026-11-13T15:01:50.166659+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261170",
+      "supplier_nomenclature": "NSII0028681086",
+      "checked_at_utc": "2026-11-13T15:01:51.103788+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261171",
+      "supplier_nomenclature": "NSII0028681607",
+      "checked_at_utc": "2026-11-13T15:01:52.493159+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261173",
+      "supplier_nomenclature": "NSII0028682050",
+      "checked_at_utc": "2026-11-13T15:01:53.311218+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261176",
+      "supplier_nomenclature": "NSII0028681993",
+      "checked_at_utc": "2026-11-13T15:01:54.176357+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261178",
+      "supplier_nomenclature": "NSII0028682067",
+      "checked_at_utc": "2026-11-13T15:01:55.199108+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261180",
+      "supplier_nomenclature": "NSII0028988475",
+      "checked_at_utc": "2026-11-13T15:01:55.974750+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261183",
+      "supplier_nomenclature": "NSII0028681655",
+      "checked_at_utc": "2026-11-13T15:01:57.255023+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261186",
+      "supplier_nomenclature": "NSII0028682073",
+      "checked_at_utc": "2026-11-13T15:01:58.288829+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261187",
+      "supplier_nomenclature": "NSII0028682139",
+      "checked_at_utc": "2026-11-13T15:01:59.328196+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261188",
+      "supplier_nomenclature": "NSII0028681989",
+      "checked_at_utc": "2026-11-13T15:02:00.446661+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261189",
+      "supplier_nomenclature": "NSII0028681601",
+      "checked_at_utc": "2026-11-13T15:02:01.364913+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261190",
+      "supplier_nomenclature": "NSII0028681269",
+      "checked_at_utc": "2026-11-13T15:02:02.193346+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261194",
+      "supplier_nomenclature": "NSII0028681474",
+      "checked_at_utc": "2026-11-13T15:02:03.145728+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261198",
+      "supplier_nomenclature": "NSII0028681299",
+      "checked_at_utc": "2026-11-13T15:02:04.237655+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261199",
+      "supplier_nomenclature": "NSII0028681493",
+      "checked_at_utc": "2026-11-13T15:02:05.578754+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261205",
+      "supplier_nomenclature": "NSII0028681639",
+      "checked_at_utc": "2026-11-13T15:02:06.328643+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261207",
+      "supplier_nomenclature": "NSII0028682077",
+      "checked_at_utc": "2026-11-13T15:02:07.299961+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261208",
+      "supplier_nomenclature": "NSII0028682274",
+      "checked_at_utc": "2026-11-13T15:02:08.537951+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261213",
+      "supplier_nomenclature": "NSII0028681082",
+      "checked_at_utc": "2026-11-13T15:02:09.005563+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261214",
+      "supplier_nomenclature": "NSII0028681111",
+      "checked_at_utc": "2026-11-13T15:02:10.118358+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261216",
+      "supplier_nomenclature": "NSII0028680844",
+      "checked_at_utc": "2026-11-13T15:02:11.055866+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261218",
+      "supplier_nomenclature": "NSII0028680766",
+      "checked_at_utc": "2026-11-13T15:02:12.173436+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261220",
+      "supplier_nomenclature": "NSII0028681323",
+      "checked_at_utc": "2026-11-13T15:02:13.127568+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "NGN",
+      "article": "261221",
+      "supplier_nomenclature": "NSII0028680916",
+      "checked_at_utc": "2026-11-13T15:02:13.987584+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
