@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1015GQ",
+      "supplier_nomenclature": "NSII0025011189",
+      "checked_at_utc": "2026-11-13T13:58:39.486108+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1002XQ",
+      "supplier_nomenclature": "NSII0018338088",
+      "checked_at_utc": "2026-11-13T13:58:40.961597+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1015KW",
+      "supplier_nomenclature": "NSII0027160373",
+      "checked_at_utc": "2026-11-13T13:58:41.540360+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1023KW",
+      "supplier_nomenclature": "NSII0028657341",
+      "checked_at_utc": "2026-11-13T13:58:42.593261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1029XQ",
+      "supplier_nomenclature": "NSII0018338090",
+      "checked_at_utc": "2026-11-13T13:58:43.507748+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1045GQ",
+      "supplier_nomenclature": "NSII0028658722",
+      "checked_at_utc": "2026-11-13T13:58:44.439511+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1054XQ",
+      "supplier_nomenclature": "NSII0018364263",
+      "checked_at_utc": "2026-11-13T13:58:45.996021+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1060XQ",
+      "supplier_nomenclature": "NSII0018336610",
+      "checked_at_utc": "2026-11-13T13:58:46.461667+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1062XQ",
+      "supplier_nomenclature": "NSII0018274333",
+      "checked_at_utc": "2026-11-13T13:58:47.421005+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1095GQ",
+      "supplier_nomenclature": "NSII0025011199",
+      "checked_at_utc": "2026-11-13T13:58:48.310360+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1101XQ",
+      "supplier_nomenclature": "NSII0018274337",
+      "checked_at_utc": "2026-11-13T13:58:49.399792+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1178XQ",
+      "supplier_nomenclature": "NSII0018373589",
+      "checked_at_utc": "2026-11-13T13:58:50.364448+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1209XQ",
+      "supplier_nomenclature": "NSII0019707189",
+      "checked_at_utc": "2026-11-13T13:58:51.380686+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1214XQ",
+      "supplier_nomenclature": "NSII0018373591",
+      "checked_at_utc": "2026-11-13T13:58:52.468583+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1220XQ",
+      "supplier_nomenclature": "NSII0018338104",
+      "checked_at_utc": "2026-11-13T13:58:53.476963+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1231XQ",
+      "supplier_nomenclature": "NSII0019344789",
+      "checked_at_utc": "2026-11-13T13:58:54.380648+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1248XQ",
+      "supplier_nomenclature": "NSII0018338105",
+      "checked_at_utc": "2026-11-13T13:58:55.262031+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1250XQ",
+      "supplier_nomenclature": "NSII0018274362",
+      "checked_at_utc": "2026-11-13T13:58:56.352197+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1251YW",
+      "supplier_nomenclature": "NSII0028658342",
+      "checked_at_utc": "2026-11-13T13:58:57.325396+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1280XQ",
+      "supplier_nomenclature": "NSII0019057613",
+      "checked_at_utc": "2026-11-13T13:58:58.400581+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1289XQ",
+      "supplier_nomenclature": "NSII0018364280",
+      "checked_at_utc": "2026-11-13T13:58:59.347923+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1295KW",
+      "supplier_nomenclature": "NSII0028658373",
+      "checked_at_utc": "2026-11-13T13:59:00.356090+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1297KW",
+      "supplier_nomenclature": "NSII0027223125",
+      "checked_at_utc": "2026-11-13T13:59:01.570376+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1302XQ",
+      "supplier_nomenclature": "NSII0018274367",
+      "checked_at_utc": "2026-11-13T13:59:02.639027+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1308GQ",
+      "supplier_nomenclature": "NSII0026933330",
+      "checked_at_utc": "2026-11-13T13:59:03.407162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1320KW",
+      "supplier_nomenclature": "NSII0027215579",
+      "checked_at_utc": "2026-11-13T13:59:04.476689+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1353XQ",
+      "supplier_nomenclature": "NSII0018338111",
+      "checked_at_utc": "2026-11-13T13:59:05.355437+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1421XQ",
+      "supplier_nomenclature": "NSII0019131156",
+      "checked_at_utc": "2026-11-13T13:59:06.405028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1423XQ",
+      "supplier_nomenclature": "NSII0018274376",
+      "checked_at_utc": "2026-11-13T13:59:07.360950+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1507XQ",
+      "supplier_nomenclature": "NSII0018274389",
+      "checked_at_utc": "2026-11-13T13:59:08.610162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1534XQ",
+      "supplier_nomenclature": "NSII0018392467",
+      "checked_at_utc": "2026-11-13T13:59:09.407303+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1689GQ",
+      "supplier_nomenclature": "NSII0025552933",
+      "checked_at_utc": "2026-11-13T13:59:10.391608+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1763GQ",
+      "supplier_nomenclature": "NSII0025294583",
+      "checked_at_utc": "2026-11-13T13:59:11.309296+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1779GQ",
+      "supplier_nomenclature": "NSII0026474457",
+      "checked_at_utc": "2026-11-13T13:59:12.967118+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1808XQ",
+      "supplier_nomenclature": "NSII0019707214",
+      "checked_at_utc": "2026-11-13T13:59:13.294416+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ1953XQ",
+      "supplier_nomenclature": "NSII0019929460",
+      "checked_at_utc": "2026-11-13T13:59:14.258416+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ7256XQ",
+      "supplier_nomenclature": "NSII0020409184",
+      "checked_at_utc": "2026-11-13T13:59:15.424716+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ9155XQ",
+      "supplier_nomenclature": "NSII0022530225",
+      "checked_at_utc": "2026-11-13T13:59:16.331084+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Krauf",
+      "article": "HPQ9167XQ",
+      "supplier_nomenclature": "NSII0019919260",
+      "checked_at_utc": "2026-11-13T13:59:17.293516+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP043",
+      "supplier_nomenclature": "NSII0018452568",
+      "checked_at_utc": "2026-11-13T13:59:18.772298+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP057",
+      "supplier_nomenclature": "NSII0019128894",
+      "checked_at_utc": "2026-11-13T13:59:19.464820+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP058",
+      "supplier_nomenclature": "NSII0019128895",
+      "checked_at_utc": "2026-11-13T13:59:20.546020+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP139",
+      "supplier_nomenclature": "NSII0019773049",
+      "checked_at_utc": "2026-11-13T13:59:21.670743+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP144",
+      "supplier_nomenclature": "NSII0019773050",
+      "checked_at_utc": "2026-11-13T13:59:22.471072+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP205",
+      "supplier_nomenclature": "NSII0023674722",
+      "checked_at_utc": "2026-11-13T13:59:23.342462+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP226",
+      "supplier_nomenclature": "NSII0023674743",
+      "checked_at_utc": "2026-11-13T13:59:24.449939+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP300",
+      "supplier_nomenclature": "NSII0025318207",
+      "checked_at_utc": "2026-11-13T13:59:25.429066+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP467",
+      "supplier_nomenclature": "NSII0025318257",
+      "checked_at_utc": "2026-11-13T13:59:26.276181+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Master KiT",
+      "article": "77RP478",
+      "supplier_nomenclature": "NSII0025318262",
+      "checked_at_utc": "2026-11-13T13:59:27.408810+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "HPG1184WA",
+      "supplier_nomenclature": "NSII0028954616",
+      "checked_at_utc": "2026-11-13T13:59:28.370860+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "HPG1240WA",
+      "supplier_nomenclature": "NSII0028960969",
+      "checked_at_utc": "2026-11-13T13:59:29.747030+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1004HG",
+      "supplier_nomenclature": "NSII0010481038",
+      "checked_at_utc": "2026-11-13T13:59:30.689428+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1007HG",
+      "supplier_nomenclature": "NSII0010332293",
+      "checked_at_utc": "2026-11-13T13:59:31.619575+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1008HG",
+      "supplier_nomenclature": "NSII0013063678",
+      "checked_at_utc": "2026-11-13T13:59:32.590198+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1015HG",
+      "supplier_nomenclature": "NSII0010391425",
+      "checked_at_utc": "2026-11-13T13:59:33.556131+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1019HG",
+      "supplier_nomenclature": "NSII0012817762",
+      "checked_at_utc": "2026-11-13T13:59:34.433745+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1026HG",
+      "supplier_nomenclature": "NSII0009709637",
+      "checked_at_utc": "2026-11-13T13:59:35.380193+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1035HG",
+      "supplier_nomenclature": "NSII0012817763",
+      "checked_at_utc": "2026-11-13T13:59:36.624272+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1044HG",
+      "supplier_nomenclature": "NSII0010547180",
+      "checked_at_utc": "2026-11-13T13:59:37.415852+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1049HG",
+      "supplier_nomenclature": "NSII0009688940",
+      "checked_at_utc": "2026-11-13T13:59:38.659039+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1054HG",
+      "supplier_nomenclature": "NSII0009688235",
+      "checked_at_utc": "2026-11-13T13:59:39.574393+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1057HG",
+      "supplier_nomenclature": "NSII0010391436",
+      "checked_at_utc": "2026-11-13T13:59:40.344984+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1059HG",
+      "supplier_nomenclature": "NSII0010391435",
+      "checked_at_utc": "2026-11-13T13:59:41.330708+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1061HG",
+      "supplier_nomenclature": "NSII0010391437",
+      "checked_at_utc": "2026-11-13T13:59:42.475685+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1062HG",
+      "supplier_nomenclature": "NSII0010391438",
+      "checked_at_utc": "2026-11-13T13:59:43.287138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1101HG",
+      "supplier_nomenclature": "NSII0014404110",
+      "checked_at_utc": "2026-11-13T13:59:44.329140+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1105HG",
+      "supplier_nomenclature": "NSII0010532416",
+      "checked_at_utc": "2026-11-13T13:59:45.376938+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1151HG",
+      "supplier_nomenclature": "NSII0015503643",
+      "checked_at_utc": "2026-11-13T13:59:46.635821+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1155HG",
+      "supplier_nomenclature": "NSII0015503645",
+      "checked_at_utc": "2026-11-13T13:59:47.424573+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1161HG",
+      "supplier_nomenclature": "NSII0014404144",
+      "checked_at_utc": "2026-11-13T13:59:48.858150+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1167HG",
+      "supplier_nomenclature": "NSII0014404154",
+      "checked_at_utc": "2026-11-13T13:59:49.331157+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1184HG",
+      "supplier_nomenclature": "NSII0010846442",
+      "checked_at_utc": "2026-11-13T13:59:50.893772+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1209HG",
+      "supplier_nomenclature": "NSII0010532426",
+      "checked_at_utc": "2026-11-13T13:59:51.508915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1221HG",
+      "supplier_nomenclature": "NSII0014404245",
+      "checked_at_utc": "2026-11-13T13:59:52.619313+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1229HG",
+      "supplier_nomenclature": "NSII0014404254",
+      "checked_at_utc": "2026-11-13T13:59:53.440483+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1248HG",
+      "supplier_nomenclature": "NSII0014404290",
+      "checked_at_utc": "2026-11-13T13:59:54.759025+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1271HG",
+      "supplier_nomenclature": "NSII0013063679",
+      "checked_at_utc": "2026-11-13T13:59:55.502710+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1274HG",
+      "supplier_nomenclature": "NSII0014404336",
+      "checked_at_utc": "2026-11-13T13:59:56.512407+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1308HG",
+      "supplier_nomenclature": "NSII0015503654",
+      "checked_at_utc": "2026-11-13T13:59:57.488947+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1506HG",
+      "supplier_nomenclature": "NSII0019707858",
+      "checked_at_utc": "2026-11-13T13:59:58.434123+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1689HG",
+      "supplier_nomenclature": "NSII0018274827",
+      "checked_at_utc": "2026-11-13T13:59:59.389987+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1779HG",
+      "supplier_nomenclature": "NSII0018389755",
+      "checked_at_utc": "2026-11-13T14:00:00.602410+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1808HG",
+      "supplier_nomenclature": "NSII0019018405",
+      "checked_at_utc": "2026-11-13T14:00:01.405243+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1887HG",
+      "supplier_nomenclature": "NSII0019044018",
+      "checked_at_utc": "2026-11-13T14:00:02.411735+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Motorherz",
+      "article": "P1953HG",
+      "supplier_nomenclature": "NSII0019585133",
+      "checked_at_utc": "2026-11-13T14:00:03.477722+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0035508SX",
+      "supplier_nomenclature": "NSII0004684211",
+      "checked_at_utc": "2026-11-13T14:00:04.350152+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0035517SX",
+      "supplier_nomenclature": "NSII0004684218",
+      "checked_at_utc": "2026-11-13T14:00:05.737944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0035536SX",
+      "supplier_nomenclature": "NSII0004684236",
+      "checked_at_utc": "2026-11-13T14:00:06.471336+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036315SX",
+      "supplier_nomenclature": "NSII0015577274",
+      "checked_at_utc": "2026-11-13T14:00:07.544450+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036318SX",
+      "supplier_nomenclature": "NSII0015577277",
+      "checked_at_utc": "2026-11-13T14:00:08.491825+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036328SX",
+      "supplier_nomenclature": "NSII0016764250",
+      "checked_at_utc": "2026-11-13T14:00:09.624176+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036329SX",
+      "supplier_nomenclature": "NSII0016764251",
+      "checked_at_utc": "2026-11-13T14:00:10.593765+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036338SX",
+      "supplier_nomenclature": "NSII0016764260",
+      "checked_at_utc": "2026-11-13T14:00:11.465018+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036387SX",
+      "supplier_nomenclature": "NSII0018886469",
+      "checked_at_utc": "2026-11-13T14:00:12.713042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036400SX",
+      "supplier_nomenclature": "NSII0019667399",
+      "checked_at_utc": "2026-11-13T14:00:13.339198+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036409SX",
+      "supplier_nomenclature": "NSII0021307592",
+      "checked_at_utc": "2026-11-13T14:00:14.929640+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "Stellox",
+      "article": "0036411SX",
+      "supplier_nomenclature": "NSII0020218807",
+      "checked_at_utc": "2026-11-13T14:00:15.568944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Насос ГУР",
+      "brand": "SUFIX",
+      "article": "SDP1002",
+      "supplier_nomenclature": "NSII0026948856",
+      "checked_at_utc": "2026-11-13T14:00:16.429885+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Krauf",
+      "article": "ALH0990DD",
+      "supplier_nomenclature": "NSII0019602093",
+      "checked_at_utc": "2026-11-13T14:00:17.496893+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Krauf",
+      "article": "ALM0273ZD",
+      "supplier_nomenclature": "NSII0019338593",
+      "checked_at_utc": "2026-11-13T14:00:18.631815+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
