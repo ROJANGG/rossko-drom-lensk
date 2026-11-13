@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF974",
+      "supplier_nomenclature": "NSII0019789570",
+      "checked_at_utc": "2026-11-13T15:56:50.824675+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PF978",
+      "supplier_nomenclature": "NSII0028293464",
+      "checked_at_utc": "2026-11-13T15:56:51.579875+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PFP7501",
+      "supplier_nomenclature": "NSII0018457270",
+      "checked_at_utc": "2026-11-13T15:56:53.162221+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PFP7965",
+      "supplier_nomenclature": "NSII0018457271",
+      "checked_at_utc": "2026-11-13T15:56:54.469008+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PFP7966",
+      "supplier_nomenclature": "NSII0018457276",
+      "checked_at_utc": "2026-11-13T15:56:55.026140+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "brand": "Trialli",
+      "article": "PFP7970",
+      "supplier_nomenclature": "NSII0018457277",
+      "checked_at_utc": "2026-11-13T15:56:56.272643+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "AMD",
+      "article": "AMDBL112",
+      "supplier_nomenclature": "NSII0007187659",
+      "checked_at_utc": "2026-11-13T15:56:56.921812+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "AMD",
+      "article": "AMDBL127",
+      "supplier_nomenclature": "NSII0007187668",
+      "checked_at_utc": "2026-11-13T15:56:58.242726+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "AMD",
+      "article": "AMDBL129",
+      "supplier_nomenclature": "NSII0007187670",
+      "checked_at_utc": "2026-11-13T15:56:59.200695+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "AMD",
+      "article": "AMDBL131",
+      "supplier_nomenclature": "NSII0007187671",
+      "checked_at_utc": "2026-11-13T15:57:00.308366+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "AMD",
+      "article": "AMDBL166",
+      "supplier_nomenclature": "NSII0007373236",
+      "checked_at_utc": "2026-11-13T15:57:01.016202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Brave",
+      "article": "BRTB117",
+      "supplier_nomenclature": "NSII0019549937",
+      "checked_at_utc": "2026-11-13T15:57:06.549157+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Brave",
+      "article": "BRTB1172",
+      "supplier_nomenclature": "NSII0024667334",
+      "checked_at_utc": "2026-11-13T15:57:07.490750+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Brave",
+      "article": "BRTB11",
+      "supplier_nomenclature": "NSII0019549967",
+      "checked_at_utc": "2026-11-13T15:57:18.550373+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Brave",
+      "article": "BRTB138",
+      "supplier_nomenclature": "NSII0019549957",
+      "checked_at_utc": "2026-11-13T15:57:19.769730+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Brave",
+      "article": "BRTB12",
+      "supplier_nomenclature": "NSII0019364191",
+      "checked_at_utc": "2026-11-13T15:57:20.629256+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Brave",
+      "article": "BRTB151",
+      "supplier_nomenclature": "NSII0019549953",
+      "checked_at_utc": "2026-11-13T15:57:21.743715+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Carberry",
+      "article": "3PK848",
+      "supplier_nomenclature": "NSII0022901196",
+      "checked_at_utc": "2026-11-13T15:57:22.550294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Carberry",
+      "article": "5PK970",
+      "supplier_nomenclature": "NSII0022900806",
+      "checked_at_utc": "2026-11-13T15:57:23.749670+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Carberry",
+      "article": "6PK1038",
+      "supplier_nomenclature": "NSII0022900816",
+      "checked_at_utc": "2026-11-13T15:57:24.973185+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Brave",
+      "article": "BRTB14",
+      "supplier_nomenclature": "NSII0017284384",
+      "checked_at_utc": "2026-11-13T15:57:26.021290+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Carberry",
+      "article": "6PK1818",
+      "supplier_nomenclature": "NSII0022900841",
+      "checked_at_utc": "2026-11-13T15:57:26.050914+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Carberry",
+      "article": "6PK2083",
+      "supplier_nomenclature": "NSII0022901144",
+      "checked_at_utc": "2026-11-13T15:57:26.722256+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Carberry",
+      "article": "7PK1920",
+      "supplier_nomenclature": "NSII0022901052",
+      "checked_at_utc": "2026-11-13T15:57:27.784105+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Carberry",
+      "article": "7PK1933",
+      "supplier_nomenclature": "NSII0022901081",
+      "checked_at_utc": "2026-11-13T15:57:28.928436+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gallant",
+      "article": "GLTB137",
+      "supplier_nomenclature": "NSII0019549976",
+      "checked_at_utc": "2026-11-13T15:57:29.801897+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gallant",
+      "article": "GLTB138",
+      "supplier_nomenclature": "NSII0022962992",
+      "checked_at_utc": "2026-11-13T15:57:30.809732+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gallant",
+      "article": "GLTB17",
+      "supplier_nomenclature": "NSII0017204995",
+      "checked_at_utc": "2026-11-13T15:57:32.063192+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "3PK628",
+      "supplier_nomenclature": "NSIN0000448057",
+      "checked_at_utc": "2026-11-13T15:57:33.009430+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "3PK753",
+      "supplier_nomenclature": "NSIN0000448069",
+      "checked_at_utc": "2026-11-13T15:57:33.895815+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "3PK763",
+      "supplier_nomenclature": "NSIN0000448070",
+      "checked_at_utc": "2026-11-13T15:57:35.048156+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "3PK800",
+      "supplier_nomenclature": "NSIN0000448073",
+      "checked_at_utc": "2026-11-13T15:57:35.815163+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "3PK848",
+      "supplier_nomenclature": "NSIN0000448078",
+      "checked_at_utc": "2026-11-13T15:57:37.080442+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "3PK853",
+      "supplier_nomenclature": "NSIN0000448079",
+      "checked_at_utc": "2026-11-13T15:57:37.940624+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "3PK860",
+      "supplier_nomenclature": "NSIN0000448080",
+      "checked_at_utc": "2026-11-13T15:57:38.791426+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1003",
+      "supplier_nomenclature": "NSIN0000448152",
+      "checked_at_utc": "2026-11-13T15:57:39.854453+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1028",
+      "supplier_nomenclature": "NSIN0000448155",
+      "checked_at_utc": "2026-11-13T15:57:40.793665+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1063",
+      "supplier_nomenclature": "NSIN0000448159",
+      "checked_at_utc": "2026-11-13T15:57:42.113688+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1083",
+      "supplier_nomenclature": "NSIN0000448161",
+      "checked_at_utc": "2026-11-13T15:57:43.119877+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1100",
+      "supplier_nomenclature": "NSIN0000448163",
+      "checked_at_utc": "2026-11-13T15:57:44.163555+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1108",
+      "supplier_nomenclature": "NSIN0000448164",
+      "checked_at_utc": "2026-11-13T15:57:44.949713+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1155",
+      "supplier_nomenclature": "NSII0007311640",
+      "checked_at_utc": "2026-11-13T15:57:45.608054+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1165",
+      "supplier_nomenclature": "NSIN0000448166",
+      "checked_at_utc": "2026-11-13T15:57:46.707401+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1170",
+      "supplier_nomenclature": "NSIN0000448167",
+      "checked_at_utc": "2026-11-13T15:57:47.721687+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1183",
+      "supplier_nomenclature": "NSIN0000448168",
+      "checked_at_utc": "2026-11-13T15:57:49.013364+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1210",
+      "supplier_nomenclature": "NSIN0018371350",
+      "checked_at_utc": "2026-11-13T15:57:49.911695+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1240",
+      "supplier_nomenclature": "NSIN0000448172",
+      "checked_at_utc": "2026-11-13T15:57:50.961814+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1590",
+      "supplier_nomenclature": "NSIN0019617670",
+      "checked_at_utc": "2026-11-13T15:57:51.578918+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1720",
+      "supplier_nomenclature": "NSIN0000448189",
+      "checked_at_utc": "2026-11-13T15:57:52.665937+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK1770",
+      "supplier_nomenclature": "NSIN0000448191",
+      "checked_at_utc": "2026-11-13T15:57:53.737240+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK643SF",
+      "supplier_nomenclature": "NSIN0019617672",
+      "checked_at_utc": "2026-11-13T15:57:54.980104+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK698",
+      "supplier_nomenclature": "NSIN0000448203",
+      "checked_at_utc": "2026-11-13T15:57:55.731301+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK718",
+      "supplier_nomenclature": "NSIN0000448205",
+      "checked_at_utc": "2026-11-13T15:57:57.294852+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK750",
+      "supplier_nomenclature": "NSIN0000448208",
+      "checked_at_utc": "2026-11-13T15:57:57.814121+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK788",
+      "supplier_nomenclature": "NSIN0000448213",
+      "checked_at_utc": "2026-11-13T15:57:58.924896+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK803",
+      "supplier_nomenclature": "NSIN0000448215",
+      "checked_at_utc": "2026-11-13T15:58:00.064877+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK806SF",
+      "supplier_nomenclature": "NSIN0023159135",
+      "checked_at_utc": "2026-11-13T15:58:00.750345+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK813",
+      "supplier_nomenclature": "NSIN0000448216",
+      "checked_at_utc": "2026-11-13T15:58:02.507598+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK823",
+      "supplier_nomenclature": "NSIN0000448217",
+      "checked_at_utc": "2026-11-13T15:58:03.651754+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK833",
+      "supplier_nomenclature": "NSIN0000448218",
+      "checked_at_utc": "2026-11-13T15:58:04.314704+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK845",
+      "supplier_nomenclature": "NSIN0000448220",
+      "checked_at_utc": "2026-11-13T15:58:05.505154+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK850",
+      "supplier_nomenclature": "NSIN0000448221",
+      "checked_at_utc": "2026-11-13T15:58:06.743104+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK860",
+      "supplier_nomenclature": "NSIN0000448223",
+      "checked_at_utc": "2026-11-13T15:58:07.140139+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK878",
+      "supplier_nomenclature": "NSIN0000448225",
+      "checked_at_utc": "2026-11-13T15:58:08.210237+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK890",
+      "supplier_nomenclature": "NSIN0000448227",
+      "checked_at_utc": "2026-11-13T15:58:09.380321+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK898",
+      "supplier_nomenclature": "NSIN0000448228",
+      "checked_at_utc": "2026-11-13T15:58:10.123892+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK913",
+      "supplier_nomenclature": "NSIN0000448230",
+      "checked_at_utc": "2026-11-13T15:58:11.373650+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK922SF",
+      "supplier_nomenclature": "NSIN0018470885",
+      "checked_at_utc": "2026-11-13T15:58:11.935587+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK923",
+      "supplier_nomenclature": "NSIN0000448232",
+      "checked_at_utc": "2026-11-13T15:58:13.237364+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK938",
+      "supplier_nomenclature": "NSIN0000448234",
+      "checked_at_utc": "2026-11-13T15:58:14.146808+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK948",
+      "supplier_nomenclature": "NSIN0000448235",
+      "checked_at_utc": "2026-11-13T15:58:15.260892+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK960",
+      "supplier_nomenclature": "NSIN0000448237",
+      "checked_at_utc": "2026-11-13T15:58:16.110064+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "4PK985",
+      "supplier_nomenclature": "NSIN0000448241",
+      "checked_at_utc": "2026-11-13T15:58:17.165013+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1023",
+      "supplier_nomenclature": "NSIN0000419919",
+      "checked_at_utc": "2026-11-13T15:58:17.839462+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1073",
+      "supplier_nomenclature": "NSIN0000419924",
+      "checked_at_utc": "2026-11-13T15:58:19.059079+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1083",
+      "supplier_nomenclature": "NSIN0000419925",
+      "checked_at_utc": "2026-11-13T15:58:19.942648+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1090",
+      "supplier_nomenclature": "NSIN0000419926",
+      "checked_at_utc": "2026-11-13T15:58:20.885143+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1123",
+      "supplier_nomenclature": "NSIN0000419929",
+      "checked_at_utc": "2026-11-13T15:58:22.398985+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1133",
+      "supplier_nomenclature": "NSIN0000419930",
+      "checked_at_utc": "2026-11-13T15:58:23.042805+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1138",
+      "supplier_nomenclature": "NSII0003126421",
+      "checked_at_utc": "2026-11-13T15:58:23.888233+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1140",
+      "supplier_nomenclature": "NSIN0000419931",
+      "checked_at_utc": "2026-11-13T15:58:25.122458+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1193",
+      "supplier_nomenclature": "NSIN0000419937",
+      "checked_at_utc": "2026-11-13T15:58:26.038792+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1210",
+      "supplier_nomenclature": "NSIN0000419940",
+      "checked_at_utc": "2026-11-13T15:58:27.029361+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1355",
+      "supplier_nomenclature": "NSIN0000419954",
+      "checked_at_utc": "2026-11-13T15:58:27.936601+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1425",
+      "supplier_nomenclature": "NSII0008198551",
+      "checked_at_utc": "2026-11-13T15:58:28.676957+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1545",
+      "supplier_nomenclature": "NSIN0000419963",
+      "checked_at_utc": "2026-11-13T15:58:30.240497+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1650",
+      "supplier_nomenclature": "NSII0007042844",
+      "checked_at_utc": "2026-11-13T15:58:30.981552+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK1750",
+      "supplier_nomenclature": "NSIN0000419970",
+      "checked_at_utc": "2026-11-13T15:58:32.376507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK683",
+      "supplier_nomenclature": "NSIN0000419983",
+      "checked_at_utc": "2026-11-13T15:58:32.836040+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK692SF",
+      "supplier_nomenclature": "NSIN0017938001",
+      "checked_at_utc": "2026-11-13T15:58:33.807547+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK848",
+      "supplier_nomenclature": "NSIN0000419998",
+      "checked_at_utc": "2026-11-13T15:58:34.924655+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK865",
+      "supplier_nomenclature": "NSIN0000420000",
+      "checked_at_utc": "2026-11-13T15:58:36.224095+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK870",
+      "supplier_nomenclature": "NSIN0000420001",
+      "checked_at_utc": "2026-11-13T15:58:37.458810+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK880",
+      "supplier_nomenclature": "NSIN0000420002",
+      "checked_at_utc": "2026-11-13T15:58:38.463582+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK890",
+      "supplier_nomenclature": "NSIN0000420004",
+      "checked_at_utc": "2026-11-13T15:58:39.096388+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK970",
+      "supplier_nomenclature": "NSIN0000420014",
+      "checked_at_utc": "2026-11-13T15:58:40.132497+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK978",
+      "supplier_nomenclature": "NSIN0000420015",
+      "checked_at_utc": "2026-11-13T15:58:41.473545+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "5PK998",
+      "supplier_nomenclature": "NSIN0000420017",
+      "checked_at_utc": "2026-11-13T15:58:42.643696+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "6218MC",
+      "supplier_nomenclature": "NSIN0000420038",
+      "checked_at_utc": "2026-11-13T15:58:43.059703+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ремни приводные",
+      "brand": "Gates",
+      "article": "6219MC",
+      "supplier_nomenclature": "NSIN0000420039",
+      "checked_at_utc": "2026-11-13T15:58:44.046858+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
