@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1112",
+      "supplier_nomenclature": "NSII0026654474",
+      "checked_at_utc": "2026-11-13T14:00:20.313493+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1114",
+      "supplier_nomenclature": "NSII0026544576",
+      "checked_at_utc": "2026-11-13T14:00:21.567531+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1115",
+      "supplier_nomenclature": "NSII0026236483",
+      "checked_at_utc": "2026-11-13T14:00:22.538410+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1120",
+      "supplier_nomenclature": "NSII0026478155",
+      "checked_at_utc": "2026-11-13T14:00:23.552909+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1121",
+      "supplier_nomenclature": "NSII0026544577",
+      "checked_at_utc": "2026-11-13T14:00:24.295208+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1126",
+      "supplier_nomenclature": "NSII0026496113",
+      "checked_at_utc": "2026-11-13T14:00:25.424130+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1128",
+      "supplier_nomenclature": "NSII0026544578",
+      "checked_at_utc": "2026-11-13T14:00:26.426809+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1129",
+      "supplier_nomenclature": "NSII0026478170",
+      "checked_at_utc": "2026-11-13T14:00:27.487666+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1132",
+      "supplier_nomenclature": "NSII0026496105",
+      "checked_at_utc": "2026-11-13T14:00:28.517260+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1148",
+      "supplier_nomenclature": "NSII0026544579",
+      "checked_at_utc": "2026-11-13T14:00:29.337569+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1150",
+      "supplier_nomenclature": "NSII0026478149",
+      "checked_at_utc": "2026-11-13T14:00:30.441936+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1161",
+      "supplier_nomenclature": "NSII0026496137",
+      "checked_at_utc": "2026-11-13T14:00:31.469206+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1168",
+      "supplier_nomenclature": "NSII0026654484",
+      "checked_at_utc": "2026-11-13T14:00:32.296466+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1169",
+      "supplier_nomenclature": "NSII0026478175",
+      "checked_at_utc": "2026-11-13T14:00:33.620644+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1171",
+      "supplier_nomenclature": "NSII0026654486",
+      "checked_at_utc": "2026-11-13T14:00:34.364099+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1191",
+      "supplier_nomenclature": "NSII0026654489",
+      "checked_at_utc": "2026-11-13T14:00:35.460574+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1195",
+      "supplier_nomenclature": "NSII0026654490",
+      "checked_at_utc": "2026-11-13T14:00:36.626238+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1198",
+      "supplier_nomenclature": "NSII0026654491",
+      "checked_at_utc": "2026-11-13T14:00:37.395181+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1200",
+      "supplier_nomenclature": "NSII0026860390",
+      "checked_at_utc": "2026-11-13T14:00:38.377212+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1201",
+      "supplier_nomenclature": "NSII0026756797",
+      "checked_at_utc": "2026-11-13T14:00:39.320042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1209",
+      "supplier_nomenclature": "NSII0026654495",
+      "checked_at_utc": "2026-11-13T14:00:40.253747+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1213",
+      "supplier_nomenclature": "NSII0026654497",
+      "checked_at_utc": "2026-11-13T14:00:41.343224+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1214",
+      "supplier_nomenclature": "NSII0026654498",
+      "checked_at_utc": "2026-11-13T14:00:42.467492+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1231",
+      "supplier_nomenclature": "NSII0026259795",
+      "checked_at_utc": "2026-11-13T14:00:43.573818+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1235",
+      "supplier_nomenclature": "NSII0026478157",
+      "checked_at_utc": "2026-11-13T14:00:44.510348+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1242",
+      "supplier_nomenclature": "NSII0026236462",
+      "checked_at_utc": "2026-11-13T14:00:45.492501+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1252",
+      "supplier_nomenclature": "NSII0026544585",
+      "checked_at_utc": "2026-11-13T14:00:46.352404+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1260",
+      "supplier_nomenclature": "NSII0026654510",
+      "checked_at_utc": "2026-11-13T14:00:47.536150+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1261",
+      "supplier_nomenclature": "NSII0026860401",
+      "checked_at_utc": "2026-11-13T14:00:48.586709+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1264",
+      "supplier_nomenclature": "NSII0026544586",
+      "checked_at_utc": "2026-11-13T14:00:49.586812+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1267",
+      "supplier_nomenclature": "NSII0026654511",
+      "checked_at_utc": "2026-11-13T14:00:50.342950+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1271",
+      "supplier_nomenclature": "NSII0026654512",
+      "checked_at_utc": "2026-11-13T14:00:51.425311+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1280",
+      "supplier_nomenclature": "NSII0026860398",
+      "checked_at_utc": "2026-11-13T14:00:52.719541+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1282",
+      "supplier_nomenclature": "NSII0026236469",
+      "checked_at_utc": "2026-11-13T14:00:53.577322+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1286",
+      "supplier_nomenclature": "NSII0026496142",
+      "checked_at_utc": "2026-11-13T14:00:54.440261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1288",
+      "supplier_nomenclature": "NSII0026654516",
+      "checked_at_utc": "2026-11-13T14:00:55.511356+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1295",
+      "supplier_nomenclature": "NSII0026478182",
+      "checked_at_utc": "2026-11-13T14:00:56.551578+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1296",
+      "supplier_nomenclature": "NSII0026236450",
+      "checked_at_utc": "2026-11-13T14:00:57.451257+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1301",
+      "supplier_nomenclature": "NSII0026259800",
+      "checked_at_utc": "2026-11-13T14:00:58.535451+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1304",
+      "supplier_nomenclature": "NSII0026236467",
+      "checked_at_utc": "2026-11-13T14:00:59.511607+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1307",
+      "supplier_nomenclature": "NSII0026654522",
+      "checked_at_utc": "2026-11-13T14:01:00.603229+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1309",
+      "supplier_nomenclature": "NSII0026496108",
+      "checked_at_utc": "2026-11-13T14:01:01.428360+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1312",
+      "supplier_nomenclature": "NSII0026544591",
+      "checked_at_utc": "2026-11-13T14:01:02.769212+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1313",
+      "supplier_nomenclature": "NSII0026236464",
+      "checked_at_utc": "2026-11-13T14:01:03.298810+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1319",
+      "supplier_nomenclature": "NSII0026654525",
+      "checked_at_utc": "2026-11-13T14:01:04.357083+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1323",
+      "supplier_nomenclature": "NSII0026236461",
+      "checked_at_utc": "2026-11-13T14:01:05.514381+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1324",
+      "supplier_nomenclature": "NSII0026654526",
+      "checked_at_utc": "2026-11-13T14:01:06.373565+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1325",
+      "supplier_nomenclature": "NSII0026496075",
+      "checked_at_utc": "2026-11-13T14:01:07.278095+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1328",
+      "supplier_nomenclature": "NSII0026654528",
+      "checked_at_utc": "2026-11-13T14:01:08.469233+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1330",
+      "supplier_nomenclature": "NSII0026544592",
+      "checked_at_utc": "2026-11-13T14:01:09.336889+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1337",
+      "supplier_nomenclature": "NSII0026236449",
+      "checked_at_utc": "2026-11-13T14:01:10.721883+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1339",
+      "supplier_nomenclature": "NSII0026259802",
+      "checked_at_utc": "2026-11-13T14:01:11.323772+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1341",
+      "supplier_nomenclature": "NSII0026756802",
+      "checked_at_utc": "2026-11-13T14:01:12.411579+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1342",
+      "supplier_nomenclature": "NSII0026654533",
+      "checked_at_utc": "2026-11-13T14:01:13.327898+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1346",
+      "supplier_nomenclature": "NSII0026654534",
+      "checked_at_utc": "2026-11-13T14:01:14.448794+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1359",
+      "supplier_nomenclature": "NSII0026236445",
+      "checked_at_utc": "2026-11-13T14:01:15.398252+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1364",
+      "supplier_nomenclature": "NSII0026654539",
+      "checked_at_utc": "2026-11-13T14:01:16.350247+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1365",
+      "supplier_nomenclature": "NSII0026544594",
+      "checked_at_utc": "2026-11-13T14:01:17.455687+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1378",
+      "supplier_nomenclature": "NSII0026496139",
+      "checked_at_utc": "2026-11-13T14:01:18.483936+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1382",
+      "supplier_nomenclature": "NSII0026654543",
+      "checked_at_utc": "2026-11-13T14:01:19.443219+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1390",
+      "supplier_nomenclature": "NSII0026544596",
+      "checked_at_utc": "2026-11-13T14:01:20.277937+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1392",
+      "supplier_nomenclature": "NSII0026236439",
+      "checked_at_utc": "2026-11-13T14:01:21.324638+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1399",
+      "supplier_nomenclature": "NSII0026478162",
+      "checked_at_utc": "2026-11-13T14:01:22.906808+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1402",
+      "supplier_nomenclature": "NSII0026496116",
+      "checked_at_utc": "2026-11-13T14:01:23.489966+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1407",
+      "supplier_nomenclature": "NSII0026654548",
+      "checked_at_utc": "2026-11-13T14:01:24.418127+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1409",
+      "supplier_nomenclature": "NSII0026654549",
+      "checked_at_utc": "2026-11-13T14:01:25.721295+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1417",
+      "supplier_nomenclature": "NSII0026236459",
+      "checked_at_utc": "2026-11-13T14:01:26.332759+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1420",
+      "supplier_nomenclature": "NSII0026496077",
+      "checked_at_utc": "2026-11-13T14:01:27.356104+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1430",
+      "supplier_nomenclature": "NSII0026860411",
+      "checked_at_utc": "2026-11-13T14:01:28.851314+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1442",
+      "supplier_nomenclature": "NSII0027137361",
+      "checked_at_utc": "2026-11-13T14:01:29.617007+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1443",
+      "supplier_nomenclature": "NSII0027137362",
+      "checked_at_utc": "2026-11-13T14:01:30.432327+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1444",
+      "supplier_nomenclature": "NSII0027137363",
+      "checked_at_utc": "2026-11-13T14:01:31.298353+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1447",
+      "supplier_nomenclature": "NSII0027137366",
+      "checked_at_utc": "2026-11-13T14:01:32.447963+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1448",
+      "supplier_nomenclature": "NSII0027137367",
+      "checked_at_utc": "2026-11-13T14:01:33.373108+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1449",
+      "supplier_nomenclature": "NSII0027137368",
+      "checked_at_utc": "2026-11-13T14:01:34.631701+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1450",
+      "supplier_nomenclature": "NSII0027137369",
+      "checked_at_utc": "2026-11-13T14:01:35.339678+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1452",
+      "supplier_nomenclature": "NSII0027137347",
+      "checked_at_utc": "2026-11-13T14:01:36.447860+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1453",
+      "supplier_nomenclature": "NSII0027137371",
+      "checked_at_utc": "2026-11-13T14:01:37.421560+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1454",
+      "supplier_nomenclature": "NSII0027137372",
+      "checked_at_utc": "2026-11-13T14:01:38.480406+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1458",
+      "supplier_nomenclature": "NSII0027137376",
+      "checked_at_utc": "2026-11-13T14:01:39.337443+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "LYNXauto",
+      "article": "EA1459",
+      "supplier_nomenclature": "NSII0027137348",
+      "checked_at_utc": "2026-11-13T14:01:40.317030+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Mando",
+      "article": "BN3730022650",
+      "supplier_nomenclature": "NSII0006735767",
+      "checked_at_utc": "2026-11-13T14:01:41.826402+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Master KiT",
+      "article": "77AL017",
+      "supplier_nomenclature": "NSII0025317712",
+      "checked_at_utc": "2026-11-13T14:01:42.563378+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Master KiT",
+      "article": "77AL027",
+      "supplier_nomenclature": "NSII0025317722",
+      "checked_at_utc": "2026-11-13T14:01:43.443418+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Master KiT",
+      "article": "77AL028",
+      "supplier_nomenclature": "NSII0025317723",
+      "checked_at_utc": "2026-11-13T14:01:44.746380+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Master KiT",
+      "article": "77AL064",
+      "supplier_nomenclature": "NSII0025317759",
+      "checked_at_utc": "2026-11-13T14:01:45.363201+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Master KiT",
+      "article": "77AL071",
+      "supplier_nomenclature": "NSII0025317766",
+      "checked_at_utc": "2026-11-13T14:01:46.445446+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0108",
+      "supplier_nomenclature": "NSII0009551319",
+      "checked_at_utc": "2026-11-13T14:01:47.527996+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0125",
+      "supplier_nomenclature": "NSII0028800781",
+      "checked_at_utc": "2026-11-13T14:01:48.663379+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0126",
+      "supplier_nomenclature": "NSII0029159368",
+      "checked_at_utc": "2026-11-13T14:01:49.511420+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0201",
+      "supplier_nomenclature": "NSII0029159369",
+      "checked_at_utc": "2026-11-13T14:01:50.229136+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0351",
+      "supplier_nomenclature": "NSII0028651213",
+      "checked_at_utc": "2026-11-13T14:01:51.216373+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0504",
+      "supplier_nomenclature": "NSII0027674964",
+      "checked_at_utc": "2026-11-13T14:01:52.311418+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0506",
+      "supplier_nomenclature": "NSII0028800738",
+      "checked_at_utc": "2026-11-13T14:01:53.456731+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0821",
+      "supplier_nomenclature": "NSII0029159431",
+      "checked_at_utc": "2026-11-13T14:01:54.308753+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0836",
+      "supplier_nomenclature": "NSII0028800720",
+      "checked_at_utc": "2026-11-13T14:01:55.437729+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0845",
+      "supplier_nomenclature": "NSII0028767284",
+      "checked_at_utc": "2026-11-13T14:01:56.334654+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG08L5",
+      "supplier_nomenclature": "NSII0015644062",
+      "checked_at_utc": "2026-11-13T14:01:57.531085+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG0901",
+      "supplier_nomenclature": "NSII0013026934",
+      "checked_at_utc": "2026-11-13T14:01:59.516292+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1016",
+      "supplier_nomenclature": "NSII0015644066",
+      "checked_at_utc": "2026-11-13T14:02:00.259590+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
