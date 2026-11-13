@@ -1,0 +1,144 @@
+{
+  "as_of_utc": "2026-11-13T12:35:56.563362+00:00",
+  "active_ads": 231,
+  "archived_ids": 243,
+  "glow_engine_subtype_fixed_active": 21,
+  "glow_engine_subtype_fixed_archived": 22,
+  "engine_subtype": "Катушка зажигания, свечи, электрика",
+  "screenshot_ids_fixed": [
+    "irk-a8c25e3d55d30972e86d8f",
+    "irk-cc86e1598e6aea6f8f387e"
+  ],
+  "all_other_fields_unchanged_by_schema_fix": true,
+  "all_live_ids_archived": true,
+  "xml_published_sha256": "91b7927908399311fed9208eb8f719ae2097b4593d152dede1f4ae3c411fe216",
+  "CDN_verified_exact_in_action": true,
+  "schema_fix_run_id": 43425855482,
+  "schema_fix_tests": 12,
+  "new_SKU_release_run_id": 43426045542,
+  "new_SKU_release_tests": 43,
+  "new_ads_added": 0,
+  "fresh_source_reviewed_pending_SKUs": 13,
+  "pending_SKUs": [
+    {
+      "brand": "Bosch",
+      "article": "0250201055",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250202142",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250403009",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1001",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1005",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1006",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1007",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1008",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1009",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1010",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1011",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "TATSUMI",
+      "article": "THQ1012",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    },
+    {
+      "brand": "Bosch",
+      "article": "0250603001",
+      "reason": "fresh_personal_API_not_confirmed",
+      "api_status": "Иркутск_есть_иной_срок"
+    }
+  ],
+  "source_blocked_SKUs": 34,
+  "first95_currently_active": 47,
+  "first95_previously_published_new": 46,
+  "first95_previously_existing_luzar": 2,
+  "stock_withdrawn_since_20261111": [
+    {
+      "id": "irk-ed386e0cb19556763e9bb3",
+      "title": "Тормозной диск Marshall M2000411 новый",
+      "archived": true
+    },
+    {
+      "id": "irk-65553c502ad98adbe26e52",
+      "title": "Тормозной диск NGN 361295 новый",
+      "archived": true
+    },
+    {
+      "id": "irk-d2e7ff10caf391acc0adc3",
+      "title": "Свечи накала STARTVOLT GLSP516 новые",
+      "archived": true
+    }
+  ],
+  "latest_full_personal_price_API": {
+    "run_id": 43322669337,
+    "finished_utc": "2026-11-12T22:50:55Z",
+    "available": 232,
+    "confirmed": 232,
+    "prices_changed": 2
+  },
+  "latest_stock_refresh": {
+    "run_id": 43358917346,
+    "ads_after": 231,
+    "removed": 1,
+    "prices_retained_source_unmatched": 5
+  },
+  "taxonomy_source": {
+    "url": "https://downloads.wordpress.org/plugin/xml-for-avito.latest-stable.zip",
+    "file": "xml-for-avito/data/avito-tags.xml",
+    "file_sha256": "6b92cc4f4c1d08d348449019b340291d5af6fab7e9a1fbe193f0ac45f57a82a2",
+    "official_Avito_documentation_unavailable": true
+  },
+  "Avito_import_after_fix": "NOT_CHECKED",
+  "Drom_changed_by_this_work": false
+}

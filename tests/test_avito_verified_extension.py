@@ -27,6 +27,8 @@ class ExtensionSafety(unittest.TestCase):
             ad=make_ad(r,1500,{'public_url':'https://example.test/product.jpg'},'Иркутск')
             self.assertEqual(seller_sku(ad),(key(r['brand'],r['article']),r['category']))
             self.assertLessEqual(len(ad.findtext('Title')),50)
+            expected_engine_type='Катушка зажигания, свечи, электрика' if r['category']=='Свечи накала' else None
+            self.assertEqual(ad.findtext('EngineSparePartType'),expected_engine_type)
             ad.find('Brand').text='wrong brand'
             with self.assertRaises(ValueError):seller_sku(ad)
     def test_kit_price_is_explicitly_per_kit(self):
