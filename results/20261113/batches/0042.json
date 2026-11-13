@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE4831",
+      "supplier_nomenclature": "NSIN0013720474",
+      "checked_at_utc": "2026-11-13T15:09:01.586290+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE4871",
+      "supplier_nomenclature": "NSIN0013720476",
+      "checked_at_utc": "2026-11-13T15:09:02.643295+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE4951L",
+      "supplier_nomenclature": "NSIN0013720482",
+      "checked_at_utc": "2026-11-13T15:09:03.578428+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE4951R",
+      "supplier_nomenclature": "NSIN0013720483",
+      "checked_at_utc": "2026-11-13T15:09:04.580169+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE6191L",
+      "supplier_nomenclature": "NSIN0013720506",
+      "checked_at_utc": "2026-11-13T15:09:05.255853+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE6191R",
+      "supplier_nomenclature": "NSIN0013720507",
+      "checked_at_utc": "2026-11-13T15:09:06.732974+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE6211L",
+      "supplier_nomenclature": "NSIN0013720508",
+      "checked_at_utc": "2026-11-13T15:09:07.209185+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE6211R",
+      "supplier_nomenclature": "NSIN0013720509",
+      "checked_at_utc": "2026-11-13T15:09:08.245879+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE6233",
+      "supplier_nomenclature": "NSII0010358754",
+      "checked_at_utc": "2026-11-13T15:09:09.257515+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE7261",
+      "supplier_nomenclature": "NSIN0013720527",
+      "checked_at_utc": "2026-11-13T15:09:10.622923+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE7311",
+      "supplier_nomenclature": "NSIN0013720530",
+      "checked_at_utc": "2026-11-13T15:09:11.439859+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE7461",
+      "supplier_nomenclature": "NSIN0013720535",
+      "checked_at_utc": "2026-11-13T15:09:12.356209+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE7481L",
+      "supplier_nomenclature": "NSIN0019637759",
+      "checked_at_utc": "2026-11-13T15:09:13.133280+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE7481R",
+      "supplier_nomenclature": "NSIN0014774749",
+      "checked_at_utc": "2026-11-13T15:09:14.103718+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE7721",
+      "supplier_nomenclature": "NSIN0013720542",
+      "checked_at_utc": "2026-11-13T15:09:15.408370+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE7722",
+      "supplier_nomenclature": "NSIN0013720543",
+      "checked_at_utc": "2026-11-13T15:09:16.136873+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE7921",
+      "supplier_nomenclature": "NSIN0019523882",
+      "checked_at_utc": "2026-11-13T15:09:16.885023+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SE9421",
+      "supplier_nomenclature": "NSIN0020843292",
+      "checked_at_utc": "2026-11-13T15:09:18.074422+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEA121",
+      "supplier_nomenclature": "NSII0018328652",
+      "checked_at_utc": "2026-11-13T15:09:19.138458+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEB011",
+      "supplier_nomenclature": "NSIN0019616906",
+      "checked_at_utc": "2026-11-13T15:09:20.860721+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEH021",
+      "supplier_nomenclature": "NSIN0018144554",
+      "checked_at_utc": "2026-11-13T15:09:21.691707+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEH041L",
+      "supplier_nomenclature": "NSIN0018470853",
+      "checked_at_utc": "2026-11-13T15:09:22.025042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEH041R",
+      "supplier_nomenclature": "NSIN0018470854",
+      "checked_at_utc": "2026-11-13T15:09:23.049547+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEH261",
+      "supplier_nomenclature": "NSIN0023162593",
+      "checked_at_utc": "2026-11-13T15:09:24.040356+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEH371",
+      "supplier_nomenclature": "NSII0015365196",
+      "checked_at_utc": "2026-11-13T15:09:25.132402+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEH521L",
+      "supplier_nomenclature": "NSII0017677988",
+      "checked_at_utc": "2026-11-13T15:09:26.090215+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEH521R",
+      "supplier_nomenclature": "NSII0017677989",
+      "checked_at_utc": "2026-11-13T15:09:27.290187+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEI2472",
+      "supplier_nomenclature": "NSII0022956933",
+      "checked_at_utc": "2026-11-13T15:09:27.874131+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEM081L",
+      "supplier_nomenclature": "NSII0018328663",
+      "checked_at_utc": "2026-11-13T15:09:28.974771+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEM081R",
+      "supplier_nomenclature": "NSII0018328664",
+      "checked_at_utc": "2026-11-13T15:09:29.912936+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEM083L",
+      "supplier_nomenclature": "NSII0018328665",
+      "checked_at_utc": "2026-11-13T15:09:30.917842+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEM083R",
+      "supplier_nomenclature": "NSII0018328666",
+      "checked_at_utc": "2026-11-13T15:09:32.094116+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN151L",
+      "supplier_nomenclature": "NSIN0018766696",
+      "checked_at_utc": "2026-11-13T15:09:33.373765+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN151R",
+      "supplier_nomenclature": "NSIN0018766697",
+      "checked_at_utc": "2026-11-13T15:09:34.393082+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN201L",
+      "supplier_nomenclature": "NSIN0019622378",
+      "checked_at_utc": "2026-11-13T15:09:35.839654+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN201R",
+      "supplier_nomenclature": "NSIN0019622379",
+      "checked_at_utc": "2026-11-13T15:09:36.540333+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN221R",
+      "supplier_nomenclature": "NSIN0019692399",
+      "checked_at_utc": "2026-11-13T15:09:37.064851+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN281L",
+      "supplier_nomenclature": "NSIN0019746829",
+      "checked_at_utc": "2026-11-13T15:09:38.324545+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN281R",
+      "supplier_nomenclature": "NSIN0019746830",
+      "checked_at_utc": "2026-11-13T15:09:39.209874+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN341L",
+      "supplier_nomenclature": "NSIN0020889943",
+      "checked_at_utc": "2026-11-13T15:09:40.252441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN341R",
+      "supplier_nomenclature": "NSIN0020889942",
+      "checked_at_utc": "2026-11-13T15:09:41.458392+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN361",
+      "supplier_nomenclature": "NSIN0023101237",
+      "checked_at_utc": "2026-11-13T15:09:42.108557+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN581L",
+      "supplier_nomenclature": "NSII0013103654",
+      "checked_at_utc": "2026-11-13T15:09:43.161378+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SEN581R",
+      "supplier_nomenclature": "NSII0013103655",
+      "checked_at_utc": "2026-11-13T15:09:44.207885+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SES193L",
+      "supplier_nomenclature": "NSII0020987752",
+      "checked_at_utc": "2026-11-13T15:09:44.914620+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SES193R",
+      "supplier_nomenclature": "NSII0020987753",
+      "checked_at_utc": "2026-11-13T15:09:45.912764+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET021R",
+      "supplier_nomenclature": "NSIN0017894300",
+      "checked_at_utc": "2026-11-13T15:09:47.414729+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET051",
+      "supplier_nomenclature": "NSIN0019621475",
+      "checked_at_utc": "2026-11-13T15:09:48.742769+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET121L",
+      "supplier_nomenclature": "NSIN0019522762",
+      "checked_at_utc": "2026-11-13T15:09:49.066540+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET121R",
+      "supplier_nomenclature": "NSIN0018126705",
+      "checked_at_utc": "2026-11-13T15:09:50.096155+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET181L",
+      "supplier_nomenclature": "NSIN0019717558",
+      "checked_at_utc": "2026-11-13T15:09:51.261410+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET181R",
+      "supplier_nomenclature": "NSIN0019717559",
+      "checked_at_utc": "2026-11-13T15:09:51.970705+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET201L",
+      "supplier_nomenclature": "NSIN0018144555",
+      "checked_at_utc": "2026-11-13T15:09:52.995728+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET201R",
+      "supplier_nomenclature": "NSIN0019523887",
+      "checked_at_utc": "2026-11-13T15:09:54.041952+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET221L",
+      "supplier_nomenclature": "NSIN0018144556",
+      "checked_at_utc": "2026-11-13T15:09:55.436220+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET221R",
+      "supplier_nomenclature": "NSIN0018425337",
+      "checked_at_utc": "2026-11-13T15:09:56.533998+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET351R",
+      "supplier_nomenclature": "NSIN0019746832",
+      "checked_at_utc": "2026-11-13T15:09:57.723771+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET391R",
+      "supplier_nomenclature": "NSIN0020164512",
+      "checked_at_utc": "2026-11-13T15:09:58.170225+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET491L",
+      "supplier_nomenclature": "NSIN0020861053",
+      "checked_at_utc": "2026-11-13T15:09:59.149504+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET491R",
+      "supplier_nomenclature": "NSIN0020861054",
+      "checked_at_utc": "2026-11-13T15:10:00.449529+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "555",
+      "article": "SET531R",
+      "supplier_nomenclature": "NSIN0020889938",
+      "checked_at_utc": "2026-11-13T15:10:01.179026+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "0121150L",
+      "supplier_nomenclature": "NSII0007961374",
+      "checked_at_utc": "2026-11-13T15:10:02.298347+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "0221F23R",
+      "supplier_nomenclature": "NSII0019352826",
+      "checked_at_utc": "2026-11-13T15:10:02.919287+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "0221K11",
+      "supplier_nomenclature": "NSII0016589873",
+      "checked_at_utc": "2026-11-13T15:10:04.119519+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "0621ELF",
+      "supplier_nomenclature": "NSII0017797835",
+      "checked_at_utc": "2026-11-13T15:10:04.929261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "1421001",
+      "supplier_nomenclature": "NSII0019785478",
+      "checked_at_utc": "2026-11-13T15:10:05.978536+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "1921005",
+      "supplier_nomenclature": "NSII0016590013",
+      "checked_at_utc": "2026-11-13T15:10:07.315763+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "1921006",
+      "supplier_nomenclature": "NSII0016590016",
+      "checked_at_utc": "2026-11-13T15:10:08.092306+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "3121TG1",
+      "supplier_nomenclature": "NSII0007963263",
+      "checked_at_utc": "2026-11-13T15:10:09.054061+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "3121TG2",
+      "supplier_nomenclature": "NSII0007963264",
+      "checked_at_utc": "2026-11-13T15:10:10.291059+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Asva",
+      "article": "3521001",
+      "supplier_nomenclature": "NSII0007963281",
+      "checked_at_utc": "2026-11-13T15:10:11.112723+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Brave",
+      "article": "BRSP353",
+      "supplier_nomenclature": "NSII0027162181",
+      "checked_at_utc": "2026-11-13T15:10:13.392098+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Brave",
+      "article": "BRSP35",
+      "supplier_nomenclature": "NSII0022813598",
+      "checked_at_utc": "2026-11-13T15:10:13.678819+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Brave",
+      "article": "BRSP354",
+      "supplier_nomenclature": "NSII0027162184",
+      "checked_at_utc": "2026-11-13T15:10:14.011852+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Brave",
+      "article": "BRSP36",
+      "supplier_nomenclature": "NSII0022813599",
+      "checked_at_utc": "2026-11-13T15:10:16.598351+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0020",
+      "supplier_nomenclature": "NSII0023941366",
+      "checked_at_utc": "2026-11-13T15:10:17.298642+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Brave",
+      "article": "BRSP38",
+      "supplier_nomenclature": "NSII0022813545",
+      "checked_at_utc": "2026-11-13T15:10:17.674740+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0047L",
+      "supplier_nomenclature": "NSII0023941398",
+      "checked_at_utc": "2026-11-13T15:10:18.181926+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0047R",
+      "supplier_nomenclature": "NSII0023941399",
+      "checked_at_utc": "2026-11-13T15:10:19.209922+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0060",
+      "supplier_nomenclature": "NSII0023941405",
+      "checked_at_utc": "2026-11-13T15:10:20.554534+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0067",
+      "supplier_nomenclature": "NSII0023941408",
+      "checked_at_utc": "2026-11-13T15:10:22.284372+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0068",
+      "supplier_nomenclature": "NSII0023941409",
+      "checked_at_utc": "2026-11-13T15:10:23.128613+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0081R",
+      "supplier_nomenclature": "NSII0023941426",
+      "checked_at_utc": "2026-11-13T15:10:23.814068+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0131",
+      "supplier_nomenclature": "NSII0023941483",
+      "checked_at_utc": "2026-11-13T15:10:24.343176+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0149L",
+      "supplier_nomenclature": "NSII0023941498",
+      "checked_at_utc": "2026-11-13T15:10:25.870712+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0149R",
+      "supplier_nomenclature": "NSII0023941499",
+      "checked_at_utc": "2026-11-13T15:10:27.028460+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0193L",
+      "supplier_nomenclature": "NSII0023941540",
+      "checked_at_utc": "2026-11-13T15:10:27.937952+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0193R",
+      "supplier_nomenclature": "NSII0023941541",
+      "checked_at_utc": "2026-11-13T15:10:28.607695+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0194R",
+      "supplier_nomenclature": "NSII0023941543",
+      "checked_at_utc": "2026-11-13T15:10:29.386303+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0198",
+      "supplier_nomenclature": "NSII0023941546",
+      "checked_at_utc": "2026-11-13T15:10:30.560087+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0199",
+      "supplier_nomenclature": "NSII0023941547",
+      "checked_at_utc": "2026-11-13T15:10:31.591000+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0201R",
+      "supplier_nomenclature": "NSII0023941550",
+      "checked_at_utc": "2026-11-13T15:10:32.422269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0203",
+      "supplier_nomenclature": "NSII0023941553",
+      "checked_at_utc": "2026-11-13T15:10:33.403077+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0204",
+      "supplier_nomenclature": "NSII0023941554",
+      "checked_at_utc": "2026-11-13T15:10:34.413672+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0211",
+      "supplier_nomenclature": "NSII0023941561",
+      "checked_at_utc": "2026-11-13T15:10:36.117111+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0212",
+      "supplier_nomenclature": "NSII0023941562",
+      "checked_at_utc": "2026-11-13T15:10:36.729827+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0213",
+      "supplier_nomenclature": "NSII0023941563",
+      "checked_at_utc": "2026-11-13T15:10:37.452427+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0219",
+      "supplier_nomenclature": "NSII0023941566",
+      "checked_at_utc": "2026-11-13T15:10:38.831601+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0220",
+      "supplier_nomenclature": "NSII0023941567",
+      "checked_at_utc": "2026-11-13T15:10:39.765307+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0226",
+      "supplier_nomenclature": "NSII0023941573",
+      "checked_at_utc": "2026-11-13T15:10:40.961131+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
