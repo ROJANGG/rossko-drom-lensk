@@ -1,0 +1,248 @@
+{
+  "batch_id": "heater-02",
+  "scope": 30,
+  "items": [
+    {
+      "brand": "Krauf",
+      "article": "KRH1025EB",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0028817640",
+      "supplier_fitment": "PEUGEOT RCZ [10-] 1.6 i THP",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LRH3038",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0028800232",
+      "supplier_fitment": "GEELY MONJARO 2.0t Вездеход закрытыйGEELY XINGYUE L 2.0 SUVGEELY XINGYUE L 2.0 AWD SUV",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LRH3042",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0028787923",
+      "supplier_fitment": "CHANGAN UNI-K 2.0 SUVCHANGAN UNI-K 2.0 AWD SUV",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0009",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514315",
+      "supplier_fitment": "AUDI A3 (12-) / SKODA Octavia(5E) (12-) / VW Golf VII (13-) / Passat (14-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0066",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0024393449",
+      "supplier_fitment": "DAEWOO Cielo 95-97 / Espero 93-99 / Racer 95-97",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0084",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514366",
+      "supplier_fitment": "FORD Maverick (01-) / MAZDA Tribute (01-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0102",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514340",
+      "supplier_fitment": "CITROEN Jumper (94-06) / FIAT Ducato (94-02) / PEUGEOT Boxer (94-06)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0115",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514322",
+      "supplier_fitment": "HYUNDAI Tucson(JM) (04-) / KIA Sportage(JE) (04-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0130",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0027059852",
+      "supplier_fitment": "Hyundai Solaris (10-)/Kia Rio (10-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0161",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514306",
+      "supplier_fitment": "LADA 2108-15 (86-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0162",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514323",
+      "supplier_fitment": "LADA 2105/2107 (88-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0190",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514310",
+      "supplier_fitment": "MITSUBISHI ASX (10-) / Lancer(CY/CX) (07-) / Outlander II (06-12)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0214",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0027059853",
+      "supplier_fitment": "Opel Astra H (04-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0226",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0027059854",
+      "supplier_fitment": "Opel Corsa C (00-)/Combo C (01-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0229",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0028771076",
+      "supplier_fitment": "CHEVROLET CRUZE (J300) 1.6 2009-05",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0249",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0024393454",
+      "supplier_fitment": "RENAULT Clio IV 12> / Kaptur 16>/ Logan I-II 08> / Logan/Stepway II 13> /Sandero II 14> / Thalia III 13>",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0283",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514309",
+      "supplier_fitment": "SKODA Superb(3T) (08-) / Yeti (09-) / VW Golf V-VI (03-12) / Passat (05-14) / Tiguan (07-18)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0292",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514308",
+      "supplier_fitment": "AUDI A3 (03-12) / Q3 (13-) / SKODA Octavia(1Z) (04-) / Superb(3T) (08-) / Yeti (09-) / VW Caddy III (04-) / Golf V-VI (03-12) / Jetta III-IV (05-) / Passat (05-14) / Sharan (10-) / Tiguan (07-18) / Touran (03-15)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0300",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514328",
+      "supplier_fitment": "VOLVO S60 I (00-10) / S80 I (98-06) / XC70 I (02-07) / XC90 I (02-14)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0301",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0020438482",
+      "supplier_fitment": "VOLVO S60 I 00> / S80 I 98-06 / XC70 I 02-07 / XC90 I 02-14",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0328",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514342",
+      "supplier_fitment": "GAZ Gazelle Business (09-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0331",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514335",
+      "supplier_fitment": "CHEVROLET Niva (02-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0333",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0024393458",
+      "supplier_fitment": "LADA Priora 07>",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0336",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0018514345",
+      "supplier_fitment": "GAZ Gazelle Next (13-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0340",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0024393460",
+      "supplier_fitment": "UAZ Patriot 16>",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0341",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0024393461",
+      "supplier_fitment": "UAZ Patriot 16> / 31631 08>",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0343",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0024393463",
+      "supplier_fitment": "LADA Granta 10> / Kalina II 13> , DATSUN On-do 14> / Mi-do 15> (KDAC)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0346",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0027059857",
+      "supplier_fitment": "Nissan Juke (F15) (10-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0348",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0024393464",
+      "supplier_fitment": "FORD Kuga 13> / Focus III 11> / C-max 11>",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RH0350",
+      "category": "Радиаторы печки",
+      "supplier_nomenclature": "NSII0027059859",
+      "supplier_fitment": "Лада 2190 Гранта FL (18-)",
+      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+    }
+  ],
+  "no_XML_changes": true,
+  "publication_performed": false
+}

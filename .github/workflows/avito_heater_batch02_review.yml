@@ -1,0 +1,50 @@
+name: Avito - read-only review of thirty heater radiators
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_heater_batch02_review.yml'
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  thirty-sku-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 1fc9f5fa1e5b9c791182c71425ea46618bff4eff
+          path: generator
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          path: source
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'requests>=2.31,<3' 'openpyxl>=3.1,<4' 'zeep>=4.3,<5'
+      - name: Load only the bounded thirty-SKU review
+        run: |
+          cp source/avito_heater_batch02_review.py generator/
+          cp source/avito_irkutsk.py generator/
+          cp source/input/avito_heater_batch02_20261113.json generator/input/
+      - name: Check exact account prices and Irkutsk zero-day stock; never publish
+        working-directory: generator
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: python avito_heater_batch02_review.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: AVITO_HEATER_BATCH02_RETAIL_ONLY_REVIEW
+          path: generator/review/
+          if-no-files-found: ignore
