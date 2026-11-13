@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0839L",
+      "supplier_nomenclature": "NSII0023942222",
+      "checked_at_utc": "2026-11-13T15:14:09.793902+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0839R",
+      "supplier_nomenclature": "NSII0023942223",
+      "checked_at_utc": "2026-11-13T15:14:10.639355+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0894L",
+      "supplier_nomenclature": "NSII0023942284",
+      "checked_at_utc": "2026-11-13T15:14:11.320775+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0894R",
+      "supplier_nomenclature": "NSII0023942285",
+      "checked_at_utc": "2026-11-13T15:14:11.926446+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0909L",
+      "supplier_nomenclature": "NSII0023942306",
+      "checked_at_utc": "2026-11-13T15:14:13.016321+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0917",
+      "supplier_nomenclature": "NSII0023942314",
+      "checked_at_utc": "2026-11-13T15:14:14.734298+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0942",
+      "supplier_nomenclature": "NSII0023942352",
+      "checked_at_utc": "2026-11-13T15:14:15.325343+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0945",
+      "supplier_nomenclature": "NSII0023942356",
+      "checked_at_utc": "2026-11-13T15:14:15.644771+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0946L",
+      "supplier_nomenclature": "NSII0023942357",
+      "checked_at_utc": "2026-11-13T15:14:16.773095+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0121KGC15L",
+      "supplier_nomenclature": "NSIN0020287764",
+      "checked_at_utc": "2026-11-13T15:14:18.459155+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "CTR",
+      "article": "CE0946R",
+      "supplier_nomenclature": "NSII0023942358",
+      "checked_at_utc": "2026-11-13T15:14:18.985460+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0121KGC15R",
+      "supplier_nomenclature": "NSIN0020287765",
+      "checked_at_utc": "2026-11-13T15:14:19.545129+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0121NCP100L",
+      "supplier_nomenclature": "NSIN0020888569",
+      "checked_at_utc": "2026-11-13T15:14:20.894285+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0121NCP100R",
+      "supplier_nomenclature": "NSIN0020888606",
+      "checked_at_utc": "2026-11-13T15:14:22.062591+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0121XA50",
+      "supplier_nomenclature": "NSII0028502302",
+      "checked_at_utc": "2026-11-13T15:14:22.491325+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0221023",
+      "supplier_nomenclature": "NSII0010294915",
+      "checked_at_utc": "2026-11-13T15:14:23.479907+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0221024",
+      "supplier_nomenclature": "NSII0010433761",
+      "checked_at_utc": "2026-11-13T15:14:24.448389+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0221F23WD",
+      "supplier_nomenclature": "NSII0009535482",
+      "checked_at_utc": "2026-11-13T15:14:25.404842+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0221K11",
+      "supplier_nomenclature": "NSII0006734405",
+      "checked_at_utc": "2026-11-13T15:14:26.523595+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0221Y62LH",
+      "supplier_nomenclature": "NSII0028782575",
+      "checked_at_utc": "2026-11-13T15:14:27.372217+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0221Y62RH",
+      "supplier_nomenclature": "NSII0028782576",
+      "checked_at_utc": "2026-11-13T15:14:28.501532+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0321GBLH",
+      "supplier_nomenclature": "NSII0006734409",
+      "checked_at_utc": "2026-11-13T15:14:29.365411+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0321GBRH",
+      "supplier_nomenclature": "NSII0006734410",
+      "checked_at_utc": "2026-11-13T15:14:30.491717+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0321GELH",
+      "supplier_nomenclature": "NSII0006905557",
+      "checked_at_utc": "2026-11-13T15:14:31.462227+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0321GERH",
+      "supplier_nomenclature": "NSII0006905554",
+      "checked_at_utc": "2026-11-13T15:14:32.626202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0321GJ4",
+      "supplier_nomenclature": "NSII0015421522",
+      "checked_at_utc": "2026-11-13T15:14:33.624627+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0421GK1W",
+      "supplier_nomenclature": "NSII0027765428",
+      "checked_at_utc": "2026-11-13T15:14:34.435917+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0421GM4WLH",
+      "supplier_nomenclature": "NSII0028502341",
+      "checked_at_utc": "2026-11-13T15:14:35.327814+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "0421GM4WRH",
+      "supplier_nomenclature": "NSII0028502342",
+      "checked_at_utc": "2026-11-13T15:14:36.494195+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1021EV4LH",
+      "supplier_nomenclature": "NSII0028502380",
+      "checked_at_utc": "2026-11-13T15:14:37.853723+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1021EV4RH",
+      "supplier_nomenclature": "NSII0028502381",
+      "checked_at_utc": "2026-11-13T15:14:38.396875+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1221ELNLH",
+      "supplier_nomenclature": "NSII0024519585",
+      "checked_at_utc": "2026-11-13T15:14:39.663177+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1221ELNRH",
+      "supplier_nomenclature": "NSII0024519586",
+      "checked_at_utc": "2026-11-13T15:14:40.780680+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1221IKLH",
+      "supplier_nomenclature": "NSII0028502310",
+      "checked_at_utc": "2026-11-13T15:14:41.397273+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1221IKRH",
+      "supplier_nomenclature": "NSII0028502311",
+      "checked_at_utc": "2026-11-13T15:14:42.509440+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1221JX1LH",
+      "supplier_nomenclature": "NSII0028502316",
+      "checked_at_utc": "2026-11-13T15:14:43.420837+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1221JX1RH",
+      "supplier_nomenclature": "NSII0028502317",
+      "checked_at_utc": "2026-11-13T15:14:44.556503+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1221TMLH",
+      "supplier_nomenclature": "NSII0028177743",
+      "checked_at_utc": "2026-11-13T15:14:46.413664+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1221TMRH",
+      "supplier_nomenclature": "NSII0028177744",
+      "checked_at_utc": "2026-11-13T15:14:46.581637+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1521M11",
+      "supplier_nomenclature": "NSII0028502404",
+      "checked_at_utc": "2026-11-13T15:14:47.388985+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1521T18LH",
+      "supplier_nomenclature": "NSII0028502396",
+      "checked_at_utc": "2026-11-13T15:14:48.413698+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1521T18RH",
+      "supplier_nomenclature": "NSII0028502397",
+      "checked_at_utc": "2026-11-13T15:14:49.409203+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1521T1DLH",
+      "supplier_nomenclature": "NSII0028695521",
+      "checked_at_utc": "2026-11-13T15:14:50.443912+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1521T1DRH",
+      "supplier_nomenclature": "NSII0028695522",
+      "checked_at_utc": "2026-11-13T15:14:51.360438+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1521X70LH",
+      "supplier_nomenclature": "NSII0028502425",
+      "checked_at_utc": "2026-11-13T15:14:52.446565+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "1521X70RH",
+      "supplier_nomenclature": "NSII0028502426",
+      "checked_at_utc": "2026-11-13T15:14:53.422539+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "3021JOLLH",
+      "supplier_nomenclature": "NSII0028958103",
+      "checked_at_utc": "2026-11-13T15:14:54.498262+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "3021JOLRH",
+      "supplier_nomenclature": "NSII0028958104",
+      "checked_at_utc": "2026-11-13T15:14:55.440581+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "3021P01",
+      "supplier_nomenclature": "NSII0028782637",
+      "checked_at_utc": "2026-11-13T15:14:56.468855+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "3121RENI",
+      "supplier_nomenclature": "NSII0028986584",
+      "checked_at_utc": "2026-11-13T15:14:57.294886+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "3121RENO",
+      "supplier_nomenclature": "NSII0028986585",
+      "checked_at_utc": "2026-11-13T15:14:58.419963+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "3221GMT900",
+      "supplier_nomenclature": "NSII0019304593",
+      "checked_at_utc": "2026-11-13T15:14:59.415857+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "7621L9LH",
+      "supplier_nomenclature": "NSII0028782606",
+      "checked_at_utc": "2026-11-13T15:15:00.473387+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "7621L9RH",
+      "supplier_nomenclature": "NSII0028782607",
+      "checked_at_utc": "2026-11-13T15:15:01.338807+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "HTRBCL",
+      "supplier_nomenclature": "NSIN0019671997",
+      "checked_at_utc": "2026-11-13T15:15:02.815676+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "HTRBRE",
+      "supplier_nomenclature": "NSII0013699954",
+      "checked_at_utc": "2026-11-13T15:15:03.383530+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Febest",
+      "article": "TTB004",
+      "supplier_nomenclature": "NSIN0019719128",
+      "checked_at_utc": "2026-11-13T15:15:04.285512+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Fenox",
+      "article": "SP31110C3",
+      "supplier_nomenclature": "NSII0010383932",
+      "checked_at_utc": "2026-11-13T15:15:05.583085+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "FIXAR",
+      "article": "FS0483",
+      "supplier_nomenclature": "NSII0015425613",
+      "checked_at_utc": "2026-11-13T15:15:06.709376+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "G-AUTOPARTS",
+      "article": "GSU070084",
+      "supplier_nomenclature": "NSII0024584726",
+      "checked_at_utc": "2026-11-13T15:15:07.641747+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "G-AUTOPARTS",
+      "article": "GSU070119",
+      "supplier_nomenclature": "NSII0024586487",
+      "checked_at_utc": "2026-11-13T15:15:08.552510+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "G-AUTOPARTS",
+      "article": "GSU070208",
+      "supplier_nomenclature": "NSII0024586514",
+      "checked_at_utc": "2026-11-13T15:15:09.507844+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "G-AUTOPARTS",
+      "article": "GSU070544",
+      "supplier_nomenclature": "NSII0024586643",
+      "checked_at_utc": "2026-11-13T15:15:10.385430+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "G-AUTOPARTS",
+      "article": "GSU071036",
+      "supplier_nomenclature": "NSII0024589490",
+      "checked_at_utc": "2026-11-13T15:15:11.950670+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "G-AUTOPARTS",
+      "article": "GSU071100",
+      "supplier_nomenclature": "NSII0024589500",
+      "checked_at_utc": "2026-11-13T15:15:12.362666+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "G-AUTOPARTS",
+      "article": "GSU071101",
+      "supplier_nomenclature": "NSII0024589501",
+      "checked_at_utc": "2026-11-13T15:15:13.383888+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "G-AUTOPARTS",
+      "article": "GSU071329",
+      "supplier_nomenclature": "NSII0024584968",
+      "checked_at_utc": "2026-11-13T15:15:14.456011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "GMB",
+      "article": "07011131",
+      "supplier_nomenclature": "NSII0010405752",
+      "checked_at_utc": "2026-11-13T15:15:15.674625+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "GMB",
+      "article": "07021180",
+      "supplier_nomenclature": "NSII0013872464",
+      "checked_at_utc": "2026-11-13T15:15:16.428979+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "GMB",
+      "article": "07040851",
+      "supplier_nomenclature": "NSII0010026311",
+      "checked_at_utc": "2026-11-13T15:15:17.668876+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "GMB",
+      "article": "07050141",
+      "supplier_nomenclature": "NSIN0006381670",
+      "checked_at_utc": "2026-11-13T15:15:18.869038+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "GMB",
+      "article": "07080662",
+      "supplier_nomenclature": "NSII0007230381",
+      "checked_at_utc": "2026-11-13T15:15:19.657776+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "GMB",
+      "article": "07100051",
+      "supplier_nomenclature": "NSII0010405744",
+      "checked_at_utc": "2026-11-13T15:15:20.724836+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "GMB",
+      "article": "07120010",
+      "supplier_nomenclature": "NSII0007168756",
+      "checked_at_utc": "2026-11-13T15:15:21.837227+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Hyundai/Kia",
+      "article": "56825M0000",
+      "supplier_nomenclature": "NSII0013984053",
+      "checked_at_utc": "2026-11-13T15:15:22.658350+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "JIKIU",
+      "article": "CE23002",
+      "supplier_nomenclature": "NSII0019211285",
+      "checked_at_utc": "2026-11-13T15:15:23.616890+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "JIKIU",
+      "article": "ET43001L",
+      "supplier_nomenclature": "NSII0024117438",
+      "checked_at_utc": "2026-11-13T15:15:24.967523+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "JIKIU",
+      "article": "ET43001R",
+      "supplier_nomenclature": "NSII0022696956",
+      "checked_at_utc": "2026-11-13T15:15:25.762960+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Lemforder",
+      "article": "1283101",
+      "supplier_nomenclature": "NSIN0014781692",
+      "checked_at_utc": "2026-11-13T15:15:26.458846+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Lemforder",
+      "article": "1546802",
+      "supplier_nomenclature": "NSIN0019752434",
+      "checked_at_utc": "2026-11-13T15:15:27.583045+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Lemforder",
+      "article": "2534201",
+      "supplier_nomenclature": "NSIN0014775195",
+      "checked_at_utc": "2026-11-13T15:15:28.825199+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Lemforder",
+      "article": "3048201",
+      "supplier_nomenclature": "NSIN0014951012",
+      "checked_at_utc": "2026-11-13T15:15:29.817333+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Lemforder",
+      "article": "3048301",
+      "supplier_nomenclature": "NSIN0014755916",
+      "checked_at_utc": "2026-11-13T15:15:30.800927+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Lemforder",
+      "article": "3069201",
+      "supplier_nomenclature": "NSIN0014928728",
+      "checked_at_utc": "2026-11-13T15:15:32.118603+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Lemforder",
+      "article": "3069501",
+      "supplier_nomenclature": "NSIN0014912828",
+      "checked_at_utc": "2026-11-13T15:15:32.869757+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Lemforder",
+      "article": "3093601",
+      "supplier_nomenclature": "NSIN0014930702",
+      "checked_at_utc": "2026-11-13T15:15:34.462060+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4006LR",
+      "supplier_nomenclature": "NSIN0023091031",
+      "checked_at_utc": "2026-11-13T15:15:34.804883+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4007LR",
+      "supplier_nomenclature": "NSIN0023091028",
+      "checked_at_utc": "2026-11-13T15:15:35.926225+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4008LR",
+      "supplier_nomenclature": "NSIN0023091036",
+      "checked_at_utc": "2026-11-13T15:15:36.790401+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4009LR",
+      "supplier_nomenclature": "NSIN0023091035",
+      "checked_at_utc": "2026-11-13T15:15:37.847838+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4011LR",
+      "supplier_nomenclature": "NSIN0023091039",
+      "checked_at_utc": "2026-11-13T15:15:39.158477+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4012LR",
+      "supplier_nomenclature": "NSIN0023091038",
+      "checked_at_utc": "2026-11-13T15:15:40.407057+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4013LR",
+      "supplier_nomenclature": "NSIN0023091040",
+      "checked_at_utc": "2026-11-13T15:15:40.772942+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4014LR",
+      "supplier_nomenclature": "NSIN0023091037",
+      "checked_at_utc": "2026-11-13T15:15:41.961754+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4016LR",
+      "supplier_nomenclature": "NSIN0023091042",
+      "checked_at_utc": "2026-11-13T15:15:42.896409+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4017LR",
+      "supplier_nomenclature": "NSIN0023091046",
+      "checked_at_utc": "2026-11-13T15:15:43.972532+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4018LR",
+      "supplier_nomenclature": "NSIN0023091080",
+      "checked_at_utc": "2026-11-13T15:15:45.003288+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4020LR",
+      "supplier_nomenclature": "NSIN0023091050",
+      "checked_at_utc": "2026-11-13T15:15:46.288742+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4021LR",
+      "supplier_nomenclature": "NSIN0023091049",
+      "checked_at_utc": "2026-11-13T15:15:46.638097+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "LYNXauto",
+      "article": "C4024LR",
+      "supplier_nomenclature": "NSIN0023091045",
+      "checked_at_utc": "2026-11-13T15:15:47.989428+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
