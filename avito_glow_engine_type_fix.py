@@ -38,7 +38,10 @@ def fix_xml(raw):
     if len(after.findall('Ad'))!=len(ads):raise ValueError('Ad count changed')
     for before,new in zip(ads,after.findall('Ad')):
         if before.findtext('Id')!=new.findtext('Id'):raise ValueError('Ad IDs/order changed')
-        if before.findtext('Id') in changed:new.remove(new.find(TAG))
+        if before.findtext('Id') in changed:
+            node=new.find(TAG);previous=list(new)[list(new).index(node)-1]
+            previous.tail=(previous.tail or '')+(node.tail or '')
+            new.remove(node)
         if ET.tostring(before)!=ET.tostring(new):raise ValueError('Non-subtype fields changed')
     return result,changed
 

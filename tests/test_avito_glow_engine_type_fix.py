@@ -5,6 +5,12 @@ class EngineSubtypeTests(unittest.TestCase):
         return ('<?xml version="1.0"?><Ads target="Avito.ru" formatVersion="3"><Ad><Id>same-id</Id><SparePartType>'+group+'</SparePartType>'+extra+'<Title>'+title+'</Title><Price>1234</Price><OEM>00123</OEM><Description><![CDATA[<p>Keep exact text</p>]]></Description><Images><Image url="https://example.com/a.jpg" /></Images></Ad></Ads>').encode()
     def test_missing_tag_added_only(self):
         raw=self.xml();new,ids=fix_xml(raw);self.assertEqual(ids,['same-id']);self.assertEqual(new.replace(('<EngineSparePartType>'+ENGINE_TYPE+'</EngineSparePartType>').encode(),b''),raw)
+    def test_indented_live_xml_preserves_inter_element_whitespace(self):
+        raw=self.xml().replace(b'</SparePartType>',b'</SparePartType>\n    ')
+        new,ids=fix_xml(raw)
+        self.assertEqual(ids,['same-id'])
+        self.assertEqual(new.replace(('<EngineSparePartType>'+ENGINE_TYPE+'</EngineSparePartType>').encode(),b''),raw)
+
     def test_kit_and_single_same_taxonomy(self):
         for title in ['Свечи накала STARTVOLT GLSP508 новые','Свеча накаливания NGK CZ251 новая']:
             self.assertEqual(len(fix_xml(self.xml(title))[1]),1)
