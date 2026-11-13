@@ -32,16 +32,16 @@
   },
   "inventory_created_at_utc": "2026-11-13T13:58:34.835654+00:00",
   "source_commit": "a40d587793be5eabce4ae4ac6b0ca5ed8cf539d1",
-  "updated_at_utc": "2026-11-13T15:39:42.948973+00:00",
+  "updated_at_utc": "2026-11-13T15:41:27.649817+00:00",
   "state": "RUNNING",
   "queue_total": 13008,
   "scope_sha256": "9a868ea5f5926ed4e1de15bf7945f8ba9ec79b086fec14fc79516bfcbccfecc4",
-  "checked": 6034,
-  "pending": 6974,
-  "session_new_API_requests": 5900,
+  "checked": 6134,
+  "pending": 6874,
+  "session_new_API_requests": 6000,
   "session_recent_cache_reused": 135,
   "status_counts": {
-    "Иркутск_есть_иной_срок": 6028,
+    "Иркутск_есть_иной_срок": 6128,
     "exact_sku_not_found": 5,
     "опт_Иркутск_подтвержден": 1
   },
@@ -87,9 +87,9 @@
     {
       "category": "Колодки тормозные (дисковые)",
       "queued": 1473,
-      "checked": 467,
+      "checked": 567,
       "API_zero_day_candidates": 0,
-      "pending": 1006
+      "pending": 906
     },
     {
       "category": "Ремни приводные",
