@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1060",
+      "supplier_nomenclature": "NSII0028497969",
+      "checked_at_utc": "2026-11-13T14:02:02.154589+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1066",
+      "supplier_nomenclature": "NSII0028800712",
+      "checked_at_utc": "2026-11-13T14:02:03.081616+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1120D",
+      "supplier_nomenclature": "NSII0015644071",
+      "checked_at_utc": "2026-11-13T14:02:04.257279+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1121",
+      "supplier_nomenclature": "NSII0028773907",
+      "checked_at_utc": "2026-11-13T14:02:05.313860+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1139",
+      "supplier_nomenclature": "NSII0029159432",
+      "checked_at_utc": "2026-11-13T14:02:06.250545+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1441",
+      "supplier_nomenclature": "NSII0019787121",
+      "checked_at_utc": "2026-11-13T14:02:07.227507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1444",
+      "supplier_nomenclature": "NSII0029159433",
+      "checked_at_utc": "2026-11-13T14:02:08.241245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1506",
+      "supplier_nomenclature": "NSII0028800733",
+      "checked_at_utc": "2026-11-13T14:02:09.118570+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1508",
+      "supplier_nomenclature": "NSII0029044302",
+      "checked_at_utc": "2026-11-13T14:02:10.117902+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1509",
+      "supplier_nomenclature": "NSII0029159434",
+      "checked_at_utc": "2026-11-13T14:02:11.116737+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1517",
+      "supplier_nomenclature": "NSII0029159435",
+      "checked_at_utc": "2026-11-13T14:02:12.112378+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1522",
+      "supplier_nomenclature": "NSII0028800731",
+      "checked_at_utc": "2026-11-13T14:02:13.171804+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1529",
+      "supplier_nomenclature": "NSII0028800728",
+      "checked_at_utc": "2026-11-13T14:02:14.211661+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1539",
+      "supplier_nomenclature": "NSII0028958811",
+      "checked_at_utc": "2026-11-13T14:02:15.134212+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1543",
+      "supplier_nomenclature": "NSII0028800734",
+      "checked_at_utc": "2026-11-13T14:02:16.520022+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1544",
+      "supplier_nomenclature": "NSII0028800730",
+      "checked_at_utc": "2026-11-13T14:02:17.096326+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1546",
+      "supplier_nomenclature": "NSII0028800729",
+      "checked_at_utc": "2026-11-13T14:02:18.182512+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1553",
+      "supplier_nomenclature": "NSII0028800736",
+      "checked_at_utc": "2026-11-13T14:02:19.096320+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1566",
+      "supplier_nomenclature": "NSII0028800735",
+      "checked_at_utc": "2026-11-13T14:02:20.170652+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1592",
+      "supplier_nomenclature": "NSII0029159437",
+      "checked_at_utc": "2026-11-13T14:02:21.007193+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1682",
+      "supplier_nomenclature": "NSII0028800711",
+      "checked_at_utc": "2026-11-13T14:02:22.252299+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1713",
+      "supplier_nomenclature": "NSII0028958812",
+      "checked_at_utc": "2026-11-13T14:02:23.134458+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1717",
+      "supplier_nomenclature": "NSII0029044294",
+      "checked_at_utc": "2026-11-13T14:02:24.388152+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1752",
+      "supplier_nomenclature": "NSII0029159440",
+      "checked_at_utc": "2026-11-13T14:02:25.135084+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1836",
+      "supplier_nomenclature": "NSII0029159442",
+      "checked_at_utc": "2026-11-13T14:02:26.297352+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1844",
+      "supplier_nomenclature": "NSII0028800763",
+      "checked_at_utc": "2026-11-13T14:02:27.133543+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1845",
+      "supplier_nomenclature": "NSII0029159443",
+      "checked_at_utc": "2026-11-13T14:02:28.196912+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1847",
+      "supplier_nomenclature": "NSII0028800764",
+      "checked_at_utc": "2026-11-13T14:02:29.246390+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1855",
+      "supplier_nomenclature": "NSII0028800769",
+      "checked_at_utc": "2026-11-13T14:02:30.208394+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1857",
+      "supplier_nomenclature": "NSII0028800767",
+      "checked_at_utc": "2026-11-13T14:02:31.177382+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1859",
+      "supplier_nomenclature": "NSII0028651217",
+      "checked_at_utc": "2026-11-13T14:02:32.186604+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1867",
+      "supplier_nomenclature": "NSII0028800760",
+      "checked_at_utc": "2026-11-13T14:02:33.130558+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1882",
+      "supplier_nomenclature": "NSII0028800766",
+      "checked_at_utc": "2026-11-13T14:02:34.480559+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1909",
+      "supplier_nomenclature": "NSII0029159446",
+      "checked_at_utc": "2026-11-13T14:02:35.267190+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1931",
+      "supplier_nomenclature": "NSII0028800755",
+      "checked_at_utc": "2026-11-13T14:02:36.250502+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1934",
+      "supplier_nomenclature": "NSII0029159370",
+      "checked_at_utc": "2026-11-13T14:02:37.176449+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1947",
+      "supplier_nomenclature": "NSII0028767285",
+      "checked_at_utc": "2026-11-13T14:02:38.321019+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1958",
+      "supplier_nomenclature": "NSII0029159448",
+      "checked_at_utc": "2026-11-13T14:02:39.268747+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1960",
+      "supplier_nomenclature": "NSII0029159449",
+      "checked_at_utc": "2026-11-13T14:02:40.217261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1963",
+      "supplier_nomenclature": "NSII0024156020",
+      "checked_at_utc": "2026-11-13T14:02:41.295527+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1967",
+      "supplier_nomenclature": "NSII0029159451",
+      "checked_at_utc": "2026-11-13T14:02:42.448933+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1969",
+      "supplier_nomenclature": "NSII0029159452",
+      "checked_at_utc": "2026-11-13T14:02:43.152378+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG1972",
+      "supplier_nomenclature": "NSII0029159453",
+      "checked_at_utc": "2026-11-13T14:02:44.352519+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2003",
+      "supplier_nomenclature": "NSII0029159454",
+      "checked_at_utc": "2026-11-13T14:02:45.418847+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2005",
+      "supplier_nomenclature": "NSII0028773911",
+      "checked_at_utc": "2026-11-13T14:02:46.259431+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2007",
+      "supplier_nomenclature": "NSII0028758080",
+      "checked_at_utc": "2026-11-13T14:02:47.173594+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2009",
+      "supplier_nomenclature": "NSII0028758071",
+      "checked_at_utc": "2026-11-13T14:02:48.483426+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2020",
+      "supplier_nomenclature": "NSII0028800742",
+      "checked_at_utc": "2026-11-13T14:02:49.273245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2024",
+      "supplier_nomenclature": "NSII0029159457",
+      "checked_at_utc": "2026-11-13T14:02:50.167193+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2028",
+      "supplier_nomenclature": "NSII0028773912",
+      "checked_at_utc": "2026-11-13T14:02:51.145249+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2101",
+      "supplier_nomenclature": "NSII0028800739",
+      "checked_at_utc": "2026-11-13T14:02:52.279574+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2102",
+      "supplier_nomenclature": "NSII0028758473",
+      "checked_at_utc": "2026-11-13T14:02:53.281691+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2110",
+      "supplier_nomenclature": "NSII0028758479",
+      "checked_at_utc": "2026-11-13T14:02:54.116242+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2112",
+      "supplier_nomenclature": "NSII0028497964",
+      "checked_at_utc": "2026-11-13T14:02:55.195215+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2114",
+      "supplier_nomenclature": "NSII0028958813",
+      "checked_at_utc": "2026-11-13T14:02:56.313814+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2201",
+      "supplier_nomenclature": "NSII0028800753",
+      "checked_at_utc": "2026-11-13T14:02:57.162190+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2505",
+      "supplier_nomenclature": "NSII0028800726",
+      "checked_at_utc": "2026-11-13T14:02:58.250827+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2510",
+      "supplier_nomenclature": "NSII0028800725",
+      "checked_at_utc": "2026-11-13T14:02:59.207616+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2618",
+      "supplier_nomenclature": "NSII0028773913",
+      "checked_at_utc": "2026-11-13T14:03:00.278261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2654",
+      "supplier_nomenclature": "NSII0028800700",
+      "checked_at_utc": "2026-11-13T14:03:01.250922+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "STARTVOLT",
+      "article": "LG2726",
+      "supplier_nomenclature": "NSII0028800704",
+      "checked_at_utc": "2026-11-13T14:03:02.017990+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "Stellox",
+      "article": "0610872SX",
+      "supplier_nomenclature": "NSII0019667476",
+      "checked_at_utc": "2026-11-13T14:03:03.121294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1000",
+      "supplier_nomenclature": "NSII0026882896",
+      "checked_at_utc": "2026-11-13T14:03:04.205308+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1002",
+      "supplier_nomenclature": "NSII0027091597",
+      "checked_at_utc": "2026-11-13T14:03:05.164768+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1006",
+      "supplier_nomenclature": "NSII0027091596",
+      "checked_at_utc": "2026-11-13T14:03:06.179957+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1008",
+      "supplier_nomenclature": "NSII0027091595",
+      "checked_at_utc": "2026-11-13T14:03:07.252156+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1017",
+      "supplier_nomenclature": "NSII0027091590",
+      "checked_at_utc": "2026-11-13T14:03:08.209561+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1020",
+      "supplier_nomenclature": "NSII0026913486",
+      "checked_at_utc": "2026-11-13T14:03:09.383768+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1022",
+      "supplier_nomenclature": "NSII0026882900",
+      "checked_at_utc": "2026-11-13T14:03:10.519418+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1023",
+      "supplier_nomenclature": "NSII0027091588",
+      "checked_at_utc": "2026-11-13T14:03:11.202741+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1026",
+      "supplier_nomenclature": "NSII0026882901",
+      "checked_at_utc": "2026-11-13T14:03:12.463560+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1027",
+      "supplier_nomenclature": "NSII0026913488",
+      "checked_at_utc": "2026-11-13T14:03:13.185505+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1028",
+      "supplier_nomenclature": "NSII0026882902",
+      "checked_at_utc": "2026-11-13T14:03:14.337998+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1030",
+      "supplier_nomenclature": "NSII0027091585",
+      "checked_at_utc": "2026-11-13T14:03:15.232191+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1035",
+      "supplier_nomenclature": "NSII0027091584",
+      "checked_at_utc": "2026-11-13T14:03:16.299373+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1042",
+      "supplier_nomenclature": "NSII0027091583",
+      "checked_at_utc": "2026-11-13T14:03:17.089273+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Генератор",
+      "brand": "SUFIX",
+      "article": "UG1249",
+      "supplier_nomenclature": "NSII0028919426",
+      "checked_at_utc": "2026-11-13T14:03:18.064076+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "555",
+      "article": "SA1712L",
+      "supplier_nomenclature": "NSIN0018472693",
+      "checked_at_utc": "2026-11-13T14:03:19.540202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "555",
+      "article": "SA1712R",
+      "supplier_nomenclature": "NSIN0018472694",
+      "checked_at_utc": "2026-11-13T14:03:20.251412+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "555",
+      "article": "SAS032R",
+      "supplier_nomenclature": "NSII0018328706",
+      "checked_at_utc": "2026-11-13T14:03:21.127875+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "AMD",
+      "article": "AMDSB2276",
+      "supplier_nomenclature": "NSII0010483075",
+      "checked_at_utc": "2026-11-13T14:03:22.700148+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101024",
+      "supplier_nomenclature": "NSII0007960997",
+      "checked_at_utc": "2026-11-13T14:03:23.687352+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101025",
+      "supplier_nomenclature": "NSII0007960998",
+      "checked_at_utc": "2026-11-13T14:03:24.709159+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101045",
+      "supplier_nomenclature": "NSII0007961008",
+      "checked_at_utc": "2026-11-13T14:03:25.797727+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101049",
+      "supplier_nomenclature": "NSII0007961012",
+      "checked_at_utc": "2026-11-13T14:03:26.289109+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101053",
+      "supplier_nomenclature": "NSII0007961016",
+      "checked_at_utc": "2026-11-13T14:03:27.630030+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101065",
+      "supplier_nomenclature": "NSII0007961022",
+      "checked_at_utc": "2026-11-13T14:03:28.341574+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101069",
+      "supplier_nomenclature": "NSII0007961024",
+      "checked_at_utc": "2026-11-13T14:03:29.265180+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101110",
+      "supplier_nomenclature": "NSII0007961050",
+      "checked_at_utc": "2026-11-13T14:03:30.406244+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101126",
+      "supplier_nomenclature": "NSII0007961057",
+      "checked_at_utc": "2026-11-13T14:03:31.566309+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101147",
+      "supplier_nomenclature": "NSII0007961073",
+      "checked_at_utc": "2026-11-13T14:03:32.167948+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101150B",
+      "supplier_nomenclature": "NSII0007961074",
+      "checked_at_utc": "2026-11-13T14:03:33.503023+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101201",
+      "supplier_nomenclature": "NSII0007961101",
+      "checked_at_utc": "2026-11-13T14:03:34.502831+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101221",
+      "supplier_nomenclature": "NSII0007961110",
+      "checked_at_utc": "2026-11-13T14:03:35.551559+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101222",
+      "supplier_nomenclature": "NSII0007961111",
+      "checked_at_utc": "2026-11-13T14:03:36.632597+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101235",
+      "supplier_nomenclature": "NSII0007961116",
+      "checked_at_utc": "2026-11-13T14:03:37.291417+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101263",
+      "supplier_nomenclature": "NSII0007961126",
+      "checked_at_utc": "2026-11-13T14:03:38.096958+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101310",
+      "supplier_nomenclature": "NSII0017796897",
+      "checked_at_utc": "2026-11-13T14:03:39.164546+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101446",
+      "supplier_nomenclature": "NSII0007961167",
+      "checked_at_utc": "2026-11-13T14:03:40.358875+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Asva",
+      "article": "0101464L",
+      "supplier_nomenclature": "NSII0017796898",
+      "checked_at_utc": "2026-11-13T14:03:41.548148+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
