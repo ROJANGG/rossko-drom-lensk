@@ -8,7 +8,52 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0028817640",
       "supplier_fitment": "PEUGEOT RCZ [10-] 1.6 i THP",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "Krauf",
+        "article": "KRH1025EB",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0028817640",
+        "supplier_fitment": "PEUGEOT RCZ [10-] 1.6 i THP",
+        "review_status": "INCOMPLETE",
+        "checked_at_utc": "2026-11-13T13:23:13.722730+00:00",
+        "source_text_excerpt": "Кроссы HELLA 8FH351511754 KRAUF KRH1025, KRH1025CS, KRH1025EB, KRH1025HI, KRH1025RR, KRH1025YU MAHLE AH264000S NISE 71162 NRF 54314 PE 6448V6 Peugeot-Citroen 6448S4, 6448W8 Valeo 811534, 812416, 812417 Применяется для авто PEUGEOT RCZ [10-] 1.6 i THP Инструкции и файлы Сертификат KRH1025HS .subscribe-modal { display: none; position: fixed; inset: 0; z-index: 101; align-items: center; justify-content: center; } .subscribe-modal.visible { display: flex; } .subscribe-modal__overlay { position: absolute; inset: 0; background: rgba(0,0,0,0.5); cursor: pointer; } .subscribe-modal__content { position: relative; background: #fff; padding: 24px; border-radius: 8px; width: 300px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); } .subscribe-modal__close { position: absolute; top: 8px; right: 12px; background: none; border: none; font-size: 24px; cursor: pointer; line-height: 1; } .subscribe-modal__title { margin: 0 0 20px 0; font-size: 18px; } .subscribe-modal__field { margin-bottom: 16px; } .subscribe-modal__field label { display: block; margin-bottom: 4px; font-size: 14px; } .subscribe-modal__field select, input[type=\"email\"] { width: 100%; padding: 8px 12px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; box-sizing: border-box; } #subscribe-modal-error { margin-bottom: 16px; color: red; } .subscribe-modal__submit { height: 46px; border: none; outline: none; text-decoration: none; display: flex; box-sizing: border-box; align-items: center; padding: 0 15px; border-radius: 5px; background: #F5F5F7; cursor: pointer; } × Подписаться на товар Производитель Выберите... KRAUF Артикул Сначала выберите производителя Email Подписаться .hidden-container { display: none; } a.highslide { text-decoration: none; outline: none; } ВОЛЬТАЖ ВОЛЬТАЖ KRAUF MOTORHERZ Copyright © 2009-2026 Логот",
+        "oem_status": "SUPPLIER_GROUP_REQUIRES_EXACT_SKU_REVIEW",
+        "photo_status": "ACTUAL_EXACT_SUPPLIER_SKU_PHOTO_VISUALLY_VERIFIED",
+        "fitment_status": "SUPPLIER_GROUP_REQUIRES_EXACT_SKU_REVIEW",
+        "manufacturer_or_supplier_page": "https://voltag.ru/catalog/group/voltag_krh1025_radiator_otopitelya/",
+        "page_sha256": "10daf83841bebef28b2fdaf37ef982fe1d93956f3861679b4a6d20a7c54b9bd2",
+        "photo_url": "https://cdn.voltag.ru/voltag/27/dd/e7b04d1433ea6453240af1f8ff8f.jpg",
+        "exact_source_link_title": "KRAUF KRH1025EB",
+        "photo_sha256": "0cc9785292582ea7d49e4cf88222c84b9162e2c26e035850981017aee7fb70b4",
+        "photo_dimensions": [
+          900,
+          900
+        ],
+        "supplier_group_OE_rows": [
+          [
+            "Peugeot-Citroen",
+            "6448S4"
+          ],
+          [
+            "Peugeot-Citroen",
+            "6448W8"
+          ]
+        ]
+      },
+      "account_API_review": {
+        "brand": "Krauf",
+        "article": "KRH1025EB",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:16.228707+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "EXACT_PHOTO_VERIFIED_OE_GROUP_REQUIRES_REVIEW",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "SUPPLIER_GROUP_OE_AND_FITMENT_REQUIRE_EXACT_SKU_CONFIRMATION"
+      ]
     },
     {
       "brand": "Luzar",
@@ -16,7 +61,52 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0028800232",
       "supplier_fitment": "GEELY MONJARO 2.0t Вездеход закрытыйGEELY XINGYUE L 2.0 SUVGEELY XINGYUE L 2.0 AWD SUV",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "Luzar",
+        "article": "LRH3038",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0028800232",
+        "supplier_fitment": "GEELY MONJARO 2.0t Вездеход закрытыйGEELY XINGYUE L 2.0 SUVGEELY XINGYUE L 2.0 AWD SUV",
+        "review_status": "OEM_AND_FITMENT_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:23:13.723130+00:00",
+        "original_OE_rows": [
+          [
+            "LUZAR exact product OE",
+            "8017027500"
+          ],
+          [
+            "LUZAR exact product OE",
+            "8017027500"
+          ]
+        ],
+        "fitment_title": "Радиатор отопителя для а/м Geely Monjaro (21-)",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "fitment_status": "MANUFACTURER_PRODUCT_TITLE_VERIFIED",
+        "photo_urls": [
+          "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3038_459460_a9fae217c1c287b574c2df0d9e4aeb9b.jpg",
+          "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3038_827851_6c877e97ea77497787cf60d87a259c60.jpg",
+          "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3038_224118_bb1bd0f5acd0965573e3aa2aeb1c0486.jpg",
+          "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3038_175318_fec6051b70c5cd1db8850472063ef261.jpg",
+          "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3038_59531_99411b4f5299ccd06925a04dc2165192.jpg"
+        ],
+        "photo_status": "NOT_DOWNLOADED_HOST_HTTP403_IN_PREVIOUS_BATCH",
+        "manufacturer_or_supplier_page": "https://luzar.ru/catalogue/radiatory/radiatory-otopitelya/radiator-otopitelya-dlya-a-m-geely-monjaro-21-lrh-3038/",
+        "page_sha256": "d0ea0374aef85c77db129c09de559d5aaab5990f907e71efc4e69122913f56b0"
+      },
+      "account_API_review": {
+        "brand": "Luzar",
+        "article": "LRH3038",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:16.917214+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_VERIFIED_PHOTO_PENDING",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED"
+      ]
     },
     {
       "brand": "Luzar",
@@ -24,7 +114,50 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0028787923",
       "supplier_fitment": "CHANGAN UNI-K 2.0 SUVCHANGAN UNI-K 2.0 AWD SUV",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "Luzar",
+        "article": "LRH3042",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0028787923",
+        "supplier_fitment": "CHANGAN UNI-K 2.0 SUVCHANGAN UNI-K 2.0 AWD SUV",
+        "review_status": "OEM_AND_FITMENT_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:23:23.883881+00:00",
+        "original_OE_rows": [
+          [
+            "LUZAR exact product OE",
+            "CD569F2801032000"
+          ],
+          [
+            "LUZAR exact product OE",
+            "CD569F2801032000"
+          ]
+        ],
+        "fitment_title": "Радиатор отопителя для а/м Changan UNI-K (20-)",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "fitment_status": "MANUFACTURER_PRODUCT_TITLE_VERIFIED",
+        "photo_urls": [
+          "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3042_1089109_66cf4234603ed20873fad7efe79eddae.jpg",
+          "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3042_1149055_10270bdcd738553a02d5b1043a7aa181.jpg",
+          "https://cdn.carvilleshop.ru/upload/resize_1000/LRH3042_103790_b0e23da941e546f66a9f0b4cbd15d5b5.jpg"
+        ],
+        "photo_status": "NOT_DOWNLOADED_HOST_HTTP403_IN_PREVIOUS_BATCH",
+        "manufacturer_or_supplier_page": "https://luzar.ru/catalogue/radiatory/radiatory-otopitelya/radiator-otopitelya-dlya-a-m-changan-uni-k-20-lrh-3042/",
+        "page_sha256": "3809641307a33b801f03b6c76c7927054a09e7a2254bd80377840d93a3a9cc1e"
+      },
+      "account_API_review": {
+        "brand": "Luzar",
+        "article": "LRH3042",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:17.492936+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_VERIFIED_PHOTO_PENDING",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -32,7 +165,102 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514315",
       "supplier_fitment": "AUDI A3 (12-) / SKODA Octavia(5E) (12-) / VW Golf VII (13-) / Passat (14-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0009",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514315",
+        "supplier_fitment": "AUDI A3 (12-) / SKODA Octavia(5E) (12-) / VW Golf VII (13-) / Passat (14-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:23:25.553339+00:00",
+        "original_OE_rows": [
+          [
+            "VAG",
+            "5Q0 819 031"
+          ],
+          [
+            "VAG",
+            "5Q0 819 031 B"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=42733",
+        "fitment_page_sha256": "05917a94633d0004e99d58c9e8fc4f6815f593535ee3a58c208b574db87cc6ff",
+        "fitment_rows": [
+          [
+            "A3 (8V1, 8VK) 12-16",
+            "1.0 TFSI (CHZD)",
+            "85 (115)",
+            "07/16-",
+            ""
+          ],
+          [
+            "A3 (8V1, 8VK) 12-16",
+            "1.2 TFSI (CJZA)",
+            "77 (105)",
+            "02/13-05/15",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "A3 (8V1, 8VK) 12-16",
+            "1.2 TFSI (CYVB)",
+            "81 (110)",
+            "05/14-08/16",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "A3 (8V1, 8VK) 12-16",
+            "1.4 TFSI (CMBA, CXSA)",
+            "90 (122)",
+            "04/12-05/14",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "A3 (8V1, 8VK) 12-16",
+            "1.4 TFSI (CPTA)",
+            "103 (140)",
+            "03/13-08/16",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "A3 (8V1, 8VK) 12-16",
+            "1.4 TFSI (CXSB, CZCA)",
+            "92 (125)",
+            "05/14-08/16",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "A3 (8V1, 8VK) 12-16",
+            "1.4 TSI (CZEA)",
+            "110 (150)",
+            "05/14-",
+            "For vehicles without auxiliary heater"
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0009.1.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "3652c19d292b2ef31dab046a75cf7e4210b63e58ac5df7a5965bdd2fa11b963c",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0009.html",
+        "page_sha256": "7d0281749d309e4135239d96c3666d009294089bd21c406594a6d4a613115986"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0009",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:18.001358+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -40,7 +268,102 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0024393449",
       "supplier_fitment": "DAEWOO Cielo 95-97 / Espero 93-99 / Racer 95-97",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0066",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0024393449",
+        "supplier_fitment": "DAEWOO Cielo 95-97 / Espero 93-99 / Racer 95-97",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:23:31.788328+00:00",
+        "original_OE_rows": [
+          [
+            "GENERAL MOTORS",
+            "03059812"
+          ],
+          [
+            "GENERAL MOTORS",
+            "3059812"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAEWOO&product_id=50775",
+        "fitment_page_sha256": "2e0b5e79d1eb1ad67a63b46d1d908bc6f55693aa0127915304c17722e25d41e3",
+        "fitment_rows": [
+          [
+            "ESPERO (KLEJ) 91-99",
+            "1.5 (A15F)",
+            "55 (75)",
+            "10/97-08/99",
+            ""
+          ],
+          [
+            "ESPERO (KLEJ) 91-99",
+            "1.5 16V (A15MF)",
+            "66 (90)",
+            "02/95-06/99",
+            ""
+          ],
+          [
+            "ESPERO (KLEJ) 91-99",
+            "1.8 (C18LE)",
+            "66 (90)",
+            "02/95-09/99",
+            ""
+          ],
+          [
+            "ESPERO (KLEJ) 91-99",
+            "1.8 (C18LE)",
+            "70 (95)",
+            "02/95-06/99",
+            ""
+          ],
+          [
+            "ESPERO (KLEJ) 91-99",
+            "2.0 (C20LE)",
+            "77 (105)",
+            "02/95-06/99",
+            ""
+          ],
+          [
+            "NEXIA | CIELO (KLETN) 95-97",
+            "1.5 (08, 68) (G15MF)",
+            "44 (60)",
+            "08/96-08/97",
+            ""
+          ],
+          [
+            "NEXIA | CIELO (KLETN) 95-97",
+            "1.5 (08, 68) (G15MF)",
+            "52 (71)",
+            "02/95-08/97",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0066.1.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "002e18f5895228d890c6e60ae58e7130ca8776c7c8bb56562b7b4127f8315d84",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0066.html",
+        "page_sha256": "07fb3e193344aaa639958a03ebca6c03d1c7fccee0d017723c9c9c0c8d55b35b"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0066",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:18.779534+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -48,7 +371,31 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514366",
       "supplier_fitment": "FORD Maverick (01-) / MAZDA Tribute (01-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0084",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514366",
+        "supplier_fitment": "FORD Maverick (01-) / MAZDA Tribute (01-)",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "checked_at_utc": "2026-11-13T13:23:37.659564+00:00",
+        "source_error_class": "HTTPError",
+        "attempted_manufacturer_page": "https://ecatalogue.lynxauto.jp/RH-0084.html"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0084",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:19.733537+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "SOURCE_NOT_CONFIRMED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRIMARY_SOURCE_HTTP_ERROR"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -56,7 +403,31 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514340",
       "supplier_fitment": "CITROEN Jumper (94-06) / FIAT Ducato (94-02) / PEUGEOT Boxer (94-06)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0102",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514340",
+        "supplier_fitment": "CITROEN Jumper (94-06) / FIAT Ducato (94-02) / PEUGEOT Boxer (94-06)",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "checked_at_utc": "2026-11-13T13:23:43.560140+00:00",
+        "source_error_class": "HTTPError",
+        "attempted_manufacturer_page": "https://ecatalogue.lynxauto.jp/RH-0102.html"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0102",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:20.366067+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "SOURCE_NOT_CONFIRMED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRIMARY_SOURCE_HTTP_ERROR"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -64,7 +435,102 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514322",
       "supplier_fitment": "HYUNDAI Tucson(JM) (04-) / KIA Sportage(JE) (04-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0115",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514322",
+        "supplier_fitment": "HYUNDAI Tucson(JM) (04-) / KIA Sportage(JE) (04-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:23:50.306045+00:00",
+        "original_OE_rows": [
+          [
+            "HYUNDAI/KIA",
+            "97138-0Z000"
+          ],
+          [
+            "HYUNDAI/KIA",
+            "97138-2E100"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HYUNDAI&product_id=42755",
+        "fitment_page_sha256": "139c0488d3b041dc0395e0321ccee97818d5872ecae88c54205a96085c5567c7",
+        "fitment_rows": [
+          [
+            "TUCSON (JM) 04-10",
+            "2.0 (G4GC)",
+            "104 (141)",
+            "08/04-",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "TUCSON (JM) 04-10",
+            "2.0 AWD (G4GC)",
+            "104 (141)",
+            "08/04-03/10",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "TUCSON (JM) 04-10",
+            "2.0 CRDi (D4EA)",
+            "100 (136)",
+            "01/06-03/10",
+            ""
+          ],
+          [
+            "TUCSON (JM) 04-10",
+            "2.0 CRDi (D4EA)",
+            "103 (140)",
+            "01/06-03/10",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "TUCSON (JM) 04-10",
+            "2.0 CRDi (D4EA)",
+            "110 (150)",
+            "01/09-03/10",
+            ""
+          ],
+          [
+            "TUCSON (JM) 04-10",
+            "2.0 CRDi (D4EA)",
+            "83 (113)",
+            "08/04-03/10",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "TUCSON (JM) 04-10",
+            "2.0 CRDi AWD (D4EA)",
+            "100 (136)",
+            "01/06-03/10",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0115.2.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "d23665802db9c982e8ed9dd8ff0d52b0a17e14c59f96f1f430a2ea112976a01b",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0115.html",
+        "page_sha256": "64cbd303e402dbfbf9d42b48c2131723b729ac3920ee8bd52a72ce61012fe3be"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0115",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:21.054401+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -72,7 +538,84 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0027059852",
       "supplier_fitment": "Hyundai Solaris (10-)/Kia Rio (10-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0130",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0027059852",
+        "supplier_fitment": "Hyundai Solaris (10-)/Kia Rio (10-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:23:50.376149+00:00",
+        "original_OE_rows": [
+          [
+            "HYUNDAI/KIA",
+            "97138-1R000"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HYUNDAI&product_id=61894",
+        "fitment_page_sha256": "5ddcf63fa72d0f4e19b1f54d8de30f249d726084b09939a15f3ad369f3764c2b",
+        "fitment_rows": [
+          [
+            "SOLARIS I | ACCENT IV (RB) 10-",
+            "1.4 (G4FA)",
+            "79 (107)",
+            "11/10-",
+            ""
+          ],
+          [
+            "SOLARIS I Saloon | ACCENT IV (RB) 10-17",
+            "1.4 (G4FA)",
+            "79 (107)",
+            "11/10-",
+            ""
+          ],
+          [
+            "SOLARIS I Saloon | ACCENT IV (RB) 10-17",
+            "1.6 (G4FC)",
+            "91 (123)",
+            "11/10-",
+            ""
+          ],
+          [
+            "VELOSTER (FS) 11-17",
+            "1.6 GDI (G4FD)",
+            "103 (140)",
+            "03/11-12/17",
+            ""
+          ],
+          [
+            "VELOSTER (FS) 11-17",
+            "1.6 GDi (G4FD)",
+            "95 (129)",
+            "10/11-",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0130.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "86a4e19c8ea673a962132724e78e95df52d7066094b7ebd0080e49a5ec15bb95",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0130.html",
+        "page_sha256": "9a064a4963b607772bb9ea03b30d376cdb3d6ec475534e56d41a7f93f0085f0e"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0130",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:21.664253+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -80,7 +623,110 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514306",
       "supplier_fitment": "LADA 2108-15 (86-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0161",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514306",
+        "supplier_fitment": "LADA 2108-15 (86-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:24:10.381360+00:00",
+        "original_OE_rows": [
+          [
+            "LADA",
+            "2108-8101060"
+          ],
+          [
+            "LADA",
+            "2108-8101060-00"
+          ],
+          [
+            "LADA",
+            "21080-8101060-90"
+          ],
+          [
+            "LADA",
+            "2109-8101060"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=42762",
+        "fitment_page_sha256": "4bedee889fb006375d6a9e239741a7aac74e1eab94aae817708e5f0c6af10806",
+        "fitment_rows": [
+          [
+            "2108 / 2109 / 2113 / 2114 / 2115 86-13",
+            "1.5 (2111)",
+            "56 (76)",
+            "04/96-12/13",
+            ""
+          ],
+          [
+            "2108 / 2109 / 2113 / 2114 / 2115 86-13",
+            "1300 (2108)",
+            "45 (61)",
+            "09/91-08/99",
+            ""
+          ],
+          [
+            "2108 / 2109 / 2113 / 2114 / 2115 86-13",
+            "1300 (2108)",
+            "46 (63)",
+            "06/87-12/96",
+            ""
+          ],
+          [
+            "2108 / 2109 / 2113 / 2114 / 2115 86-13",
+            "1300 (2108)",
+            "48 (65)",
+            "01/86-12/94",
+            ""
+          ],
+          [
+            "2108 / 2109 / 2113 / 2114 / 2115 86-13",
+            "1300 (21115)",
+            "50 (68)",
+            "02/96-12/99",
+            ""
+          ],
+          [
+            "2108 / 2109 / 2113 / 2114 / 2115 86-13",
+            "1500 (2111)",
+            "52 (71)",
+            "02/95-12/06",
+            "SAMARA 1.3"
+          ],
+          [
+            "21099 / 2115 89-12",
+            "1500 (2111)",
+            "52 (71)",
+            "11/94-12/06",
+            "SAMARA 1.3"
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0161.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "1a3bc5d60d9c6aa8aaa65a6d8986f6de53eb3ba80898312813fd9ee496d06eb8",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0161.html",
+        "page_sha256": "d218c8147651fe5829619ef2842739c011e27edb69c1add5844808c082d8f346"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0161",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:22.494768+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -88,7 +734,130 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514323",
       "supplier_fitment": "LADA 2105/2107 (88-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0162",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514323",
+        "supplier_fitment": "LADA 2105/2107 (88-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:24:10.514243+00:00",
+        "original_OE_rows": [
+          [
+            "LADA",
+            "2105-8101060"
+          ],
+          [
+            "LADA",
+            "21050-8101060-00"
+          ],
+          [
+            "LADA",
+            "21050-8101060-02"
+          ],
+          [
+            "LADA",
+            "21050-8101060-03"
+          ],
+          [
+            "LADA",
+            "21050-8101060-04"
+          ],
+          [
+            "LADA",
+            "21050-8101060-20"
+          ],
+          [
+            "LADA",
+            "21050-8101060-21"
+          ],
+          [
+            "LADA",
+            "21050-8101060-22"
+          ],
+          [
+            "LADA",
+            "21050-8101060-23"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=42763",
+        "fitment_page_sha256": "4185557d634f9320b25e0222dc9add0e40868915c8222223795459299e154466",
+        "fitment_rows": [
+          [
+            "2101 / 2103 / 2106 70-05",
+            "1300 (VAZ2101) (21011)",
+            "48 (65)",
+            "05/78-01/87",
+            "NOVA (2105), 01/88->"
+          ],
+          [
+            "2101 / 2103 / 2106 70-05",
+            "1500 (WAS2103, WAS2106) (2103)",
+            "55 (75)",
+            "09/72-08/84",
+            "NOVA (2105)"
+          ],
+          [
+            "2101 / 2103 / 2106 70-05",
+            "1500 N/S (VAZ2103) (2103)",
+            "55 (75)",
+            "11/75-10/86",
+            "NOVA (2105)"
+          ],
+          [
+            "2104 85-12",
+            "1300 (2105)",
+            "48 (65)",
+            "09/85-12/94",
+            "NOVA (2105), 01/88->"
+          ],
+          [
+            "2104 85-12",
+            "1500 (2103)",
+            "55 (75)",
+            "09/85-02/93",
+            "NOVA (2105)"
+          ],
+          [
+            "2105 / 2107 81-",
+            "1200 Junior/L (2105) (2101)",
+            "44 (60)",
+            "09/81-04/12",
+            ""
+          ],
+          [
+            "2105 / 2107 81-",
+            "1300 (2105)",
+            "48 (65)",
+            "12/85-05/12",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0162.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "2bfa4d6087179573f7b8011063e235398e609aec7b94bd9648303baf2ec7e5ee",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0162.html",
+        "page_sha256": "5bb5f0caf32d8bebfda3d209069a05d5d6432f54fece5ef565dae7dd26cb8535"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0162",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:23.217986+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -96,7 +865,114 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514310",
       "supplier_fitment": "MITSUBISHI ASX (10-) / Lancer(CY/CX) (07-) / Outlander II (06-12)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0190",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514310",
+        "supplier_fitment": "MITSUBISHI ASX (10-) / Lancer(CY/CX) (07-) / Outlander II (06-12)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:24:30.500218+00:00",
+        "original_OE_rows": [
+          [
+            "CITROEN/PEUGEOT",
+            "1610544580"
+          ],
+          [
+            "CITROEN/PEUGEOT",
+            "6448.S1"
+          ],
+          [
+            "MITSUBISHI",
+            "7801A133"
+          ],
+          [
+            "MITSUBISHI",
+            "7801A857"
+          ],
+          [
+            "MITSUBISHI",
+            "7801A986"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CITROEN&product_id=42768",
+        "fitment_page_sha256": "18f580cc3b137be869e629c497426fc45a7279deba8baa3452702a2b4e8a2363",
+        "fitment_rows": [
+          [
+            "C-CROSSER (VU_, VV_) 07-",
+            "2.0 (4B11)",
+            "108 (147)",
+            "11/10-",
+            ""
+          ],
+          [
+            "C-CROSSER (VU_, VV_) 07-",
+            "2.0 AWD (4B11)",
+            "108 (147)",
+            "11/10-",
+            ""
+          ],
+          [
+            "C-CROSSER (VU_, VV_) 07-",
+            "2.2 HDi (4HK (DW12ME5), 4HN (DW12MTED4))",
+            "115 (156)",
+            "02/07-",
+            ""
+          ],
+          [
+            "C-CROSSER (VU_, VV_) 07-",
+            "2.4 16V (SFZ (4B12 MMC))",
+            "125 (170)",
+            "08/08-",
+            ""
+          ],
+          [
+            "C-CROSSER ENTERPRISE (VU_, VV_) 09-",
+            "2.4 16V (4B12)",
+            "125 (170)",
+            "01/09-",
+            ""
+          ],
+          [
+            "C4 AIRCROSS 12-",
+            "1.6 (4A92, NKZ (4A92))",
+            "86 (117)",
+            "04/12-",
+            ""
+          ],
+          [
+            "C4 AIRCROSS 12-",
+            "1.6 HDi 115 (9HD (DV6C))",
+            "84 (114)",
+            "04/12-",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0190.1.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "d2932f98afec03527ac8fda96365e30620894a40e343d76608fc23691f5a6eb5",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0190.html",
+        "page_sha256": "a5f4266c0813e74d91579a96e9d1f5d01dfb91421992d2d8dad0fe2319281060"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0190",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:24.095826+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -104,7 +980,110 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0027059853",
       "supplier_fitment": "Opel Astra H (04-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0214",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0027059853",
+        "supplier_fitment": "Opel Astra H (04-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:24:30.624045+00:00",
+        "original_OE_rows": [
+          [
+            "GENERAL MOTORS",
+            "93180006"
+          ],
+          [
+            "OPEL",
+            "16 18 134"
+          ],
+          [
+            "OPEL",
+            "16 18 312"
+          ],
+          [
+            "OPEL",
+            "91 17 117"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=OPEL&product_id=43299",
+        "fitment_page_sha256": "6420ab1cecd3696ac85c5cb95e11873894d8f58f7cb9a1205f16fae43d5a25a4",
+        "fitment_rows": [
+          [
+            "ASTRA F CLASSIC Estate (T92) 98-05",
+            "1.4 i (F35, M35) (X 14 NZ)",
+            "44 (60)",
+            "01/98-01/05",
+            ""
+          ],
+          [
+            "ASTRA F CLASSIC Estate (T92) 98-05",
+            "1.6 i (F35, M35) (X 16 SZR)",
+            "55 (75)",
+            "01/98-01/05",
+            "[-] AC Compressor"
+          ],
+          [
+            "ASTRA F CLASSIC Estate (T92) 98-05",
+            "1.6 i 16V (F35, M35) (X 16 XEL)",
+            "74 (101)",
+            "01/98-01/05",
+            "[-] AC Compressor"
+          ],
+          [
+            "ASTRA F CLASSIC Hatchback (T92) 98-02",
+            "1.4 i (M08, M68, F08, F68) (X 14 NZ)",
+            "44 (60)",
+            "01/98-08/02",
+            ""
+          ],
+          [
+            "ASTRA F CLASSIC Hatchback (T92) 98-02",
+            "1.6 i (F08, M08, F68, M68) (X 16 SZR)",
+            "55 (75)",
+            "01/98-08/02",
+            "[-] AC Compressor"
+          ],
+          [
+            "ASTRA F CLASSIC Hatchback (T92) 98-02",
+            "1.6 i 16V (F08, M08, F68, M68) (X 16 XEL)",
+            "74 (101)",
+            "01/98-08/02",
+            "[-] AC Compressor"
+          ],
+          [
+            "ASTRA F CLASSIC Saloon (T92) 98-02",
+            "1.4 i (F19, M19) (X 14 NZ)",
+            "44 (60)",
+            "01/98-08/02",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0214.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "d5da65dc5f86ac828ea97cd93a685ed385fe3e4303f7a1b9f679d2b96834e6df",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0214.html",
+        "page_sha256": "3be5e88736607943c1d2f2753e65f6ed573f0365ee760e5df1ffc79973a6e4e8"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0214",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:24.743501+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -112,7 +1091,98 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0027059854",
       "supplier_fitment": "Opel Corsa C (00-)/Combo C (01-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0226",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0027059854",
+        "supplier_fitment": "Opel Corsa C (00-)/Combo C (01-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:24:53.078975+00:00",
+        "original_OE_rows": [
+          [
+            "OPEL",
+            "16 18 222"
+          ],
+          [
+            "OPEL",
+            "91 96 140"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=OPEL&product_id=43304",
+        "fitment_page_sha256": "771ede47a3984aa22a78472c71c94497ca9c96bb37bed895414a4942c972bd5b",
+        "fitment_rows": [
+          [
+            "COMBO Box Body/MPV 01-12",
+            "1.3 CDTI 16V (Z 13 DT)",
+            "51 (69)",
+            "08/05-",
+            ""
+          ],
+          [
+            "COMBO Box Body/MPV 01-12",
+            "1.3 CDTI 16V (Z 13 DTJ)",
+            "55 (75)",
+            "10/05-12/12",
+            ""
+          ],
+          [
+            "COMBO Box Body/MPV 01-12",
+            "1.4 16V (Z 14 XEP)",
+            "66 (90)",
+            "08/05-",
+            ""
+          ],
+          [
+            "COMBO Box Body/MPV 01-12",
+            "1.6 (Z 16 SE)",
+            "64 (87)",
+            "10/01-",
+            ""
+          ],
+          [
+            "COMBO Box Body/MPV 01-12",
+            "1.6 CNG 16V (Z 16 YNG)",
+            "69 (94)",
+            "06/06-",
+            ""
+          ],
+          [
+            "COMBO Box Body/MPV 01-12",
+            "1.6 CNG 16V (Z 16 YNG)",
+            "71 (97)",
+            "04/05-",
+            ""
+          ],
+          [
+            "COMBO Box Body/MPV 01-12",
+            "1.7 CDTI 16V (Z 17 DTH)",
+            "74 (101)",
+            "12/04-",
+            ""
+          ]
+        ],
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED_UnidentifiedImageError",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0226.html",
+        "page_sha256": "fb98e87eadcd2ffe044731161013887fe7d5ba8748a716c3e8514892220ce5e8"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0226",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:25.644814+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_VERIFIED_PHOTO_PENDING",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -120,7 +1190,110 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0028771076",
       "supplier_fitment": "CHEVROLET CRUZE (J300) 1.6 2009-05",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0229",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0028771076",
+        "supplier_fitment": "CHEVROLET CRUZE (J300) 1.6 2009-05",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:24:53.238886+00:00",
+        "original_OE_rows": [
+          [
+            "GENERAL MOTORS",
+            "13263317"
+          ],
+          [
+            "GENERAL MOTORS",
+            "13263329"
+          ],
+          [
+            "GENERAL MOTORS",
+            "13406298"
+          ],
+          [
+            "GENERAL MOTORS",
+            "20782084"
+          ],
+          [
+            "OPEL",
+            "18 43 527"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHEVROLET&product_id=86197",
+        "fitment_page_sha256": "f0d19e14f387fda46aca7e8fd14781289d07880d341adbde6fd7cfb9a1aa7dbf",
+        "fitment_rows": [
+          [
+            "CRUZE (J300) 09-",
+            "1.6 (LDE)",
+            "83 (113)",
+            "05/09-",
+            ""
+          ],
+          [
+            "CRUZE (J300) 09-",
+            "1.6 (LDE)",
+            "91 (124)",
+            "05/09-",
+            ""
+          ],
+          [
+            "CRUZE (J300) 09-",
+            "1.6 (LXT)",
+            "80 (109)",
+            "05/09-",
+            ""
+          ],
+          [
+            "CRUZE (J300) 09-",
+            "1.8 (2H0)",
+            "104 (141)",
+            "05/09-",
+            ""
+          ],
+          [
+            "CRUZE Hatchback (J305) 11-",
+            "1.4 (A 14 NET, LUJ)",
+            "103 (140)",
+            "06/12-",
+            ""
+          ],
+          [
+            "CRUZE Hatchback (J305) 11-",
+            "1.6 (LDE)",
+            "86 (117)",
+            "12/12-",
+            ""
+          ],
+          [
+            "CRUZE Hatchback (J305) 11-",
+            "1.6 (LDE)",
+            "91 (124)",
+            "06/11-",
+            ""
+          ]
+        ],
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED_UnidentifiedImageError",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0229.html",
+        "page_sha256": "a218f205157c94dd7d846ca1affc8faa13e820954578564efcc708267adc09d4"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0229",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:26.269874+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_VERIFIED_PHOTO_PENDING",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRODUCT_PHOTO_BYTES_NOT_VERIFIED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -128,7 +1301,106 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0024393454",
       "supplier_fitment": "RENAULT Clio IV 12> / Kaptur 16>/ Logan I-II 08> / Logan/Stepway II 13> /Sandero II 14> / Thalia III 13>",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0249",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0024393454",
+        "supplier_fitment": "RENAULT Clio IV 12> / Kaptur 16>/ Logan I-II 08> / Logan/Stepway II 13> /Sandero II 14> / Thalia III 13>",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:25:11.800652+00:00",
+        "original_OE_rows": [
+          [
+            "LADA",
+            "27 11 532 30R"
+          ],
+          [
+            "LADA",
+            "84 50 039 726"
+          ],
+          [
+            "RENAULT",
+            "27 11 535 53R"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=RENAULT&product_id=50780",
+        "fitment_page_sha256": "8bf738b37d6254b736b9429da3a95c23ad113a6e1a03b0acd8ac5ffde91e0a50",
+        "fitment_rows": [
+          [
+            "CLIO IV (BH_) 12-",
+            "0.9 TCe 90 (H4B 400, H4B 408)",
+            "66 (90)",
+            "11/12-",
+            ""
+          ],
+          [
+            "CLIO IV (BH_) 12-",
+            "1.2 16V (D4F 728, D4F 740)",
+            "54 (73)",
+            "11/12-",
+            ""
+          ],
+          [
+            "CLIO IV (BH_) 12-",
+            "1.2 TCe 120 (BHAU) (H5F 408, H5F 412)",
+            "87 (118)",
+            "01/16-",
+            ""
+          ],
+          [
+            "CLIO IV (BH_) 12-",
+            "1.2 TCe 120 (BHM0) (H5F 403)",
+            "88 (120)",
+            "03/13-",
+            ""
+          ],
+          [
+            "CLIO IV (BH_) 12-",
+            "1.5 dCi 110 (K9K 646)",
+            "81 (110)",
+            "06/16-",
+            ""
+          ],
+          [
+            "CLIO IV (BH_) 12-",
+            "1.5 dCi 75 (K9K 612, K9K 628)",
+            "55 (75)",
+            "11/12-",
+            ""
+          ],
+          [
+            "CLIO IV (BH_) 12-",
+            "1.5 dCi 90 (K9K 608, K9K 628, K9K 638)",
+            "66 (90)",
+            "11/12-",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0249.1.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "c72c899a131665a175bb2a3ed6f7bfc6951bb0bdf581e2bfb4b8d249902df4d6",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0249.html",
+        "page_sha256": "ae9bfedbc592b0ab51b4e21f8602cc7d74e38b4d5045e3c31abd7cfea62c873d"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0249",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:26.982715+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -136,7 +1408,31 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514309",
       "supplier_fitment": "SKODA Superb(3T) (08-) / Yeti (09-) / VW Golf V-VI (03-12) / Passat (05-14) / Tiguan (07-18)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0283",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514309",
+        "supplier_fitment": "SKODA Superb(3T) (08-) / Yeti (09-) / VW Golf V-VI (03-12) / Passat (05-14) / Tiguan (07-18)",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "checked_at_utc": "2026-11-13T13:25:11.802058+00:00",
+        "source_error_class": "HTTPError",
+        "attempted_manufacturer_page": "https://ecatalogue.lynxauto.jp/RH-0283.html"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0283",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:27.694924+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "SOURCE_NOT_CONFIRMED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRIMARY_SOURCE_HTTP_ERROR"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -144,7 +1440,114 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514308",
       "supplier_fitment": "AUDI A3 (03-12) / Q3 (13-) / SKODA Octavia(1Z) (04-) / Superb(3T) (08-) / Yeti (09-) / VW Caddy III (04-) / Golf V-VI (03-12) / Jetta III-IV (05-) / Passat (05-14) / Sharan (10-) / Tiguan (07-18) / Touran (03-15)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0292",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514308",
+        "supplier_fitment": "AUDI A3 (03-12) / Q3 (13-) / SKODA Octavia(1Z) (04-) / Superb(3T) (08-) / Yeti (09-) / VW Caddy III (04-) / Golf V-VI (03-12) / Jetta III-IV (05-) / Passat (05-14) / Sharan (10-) / Tiguan (07-18) / Touran (03-15)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:25:18.340231+00:00",
+        "original_OE_rows": [
+          [
+            "VAG",
+            "1K0 819 031"
+          ],
+          [
+            "VAG",
+            "1K0 819 031 A"
+          ],
+          [
+            "VAG",
+            "1K0 819 031 B"
+          ],
+          [
+            "VAG",
+            "1K0 819 031 D"
+          ],
+          [
+            "VAG",
+            "1K0 819 031 E"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=42786",
+        "fitment_page_sha256": "8e6f11ae7218bf5eb57a44bcf70061c2764baa4c57468711db4244255d214898",
+        "fitment_rows": [
+          [
+            "A3 (8P1) 03-12",
+            "1.2 TSI (CBZB)",
+            "77 (105)",
+            "04/10-08/12",
+            "For vehicles without auxiliary heater"
+          ],
+          [
+            "A3 (8P1) 03-12",
+            "1.4 TFSI (CAXC, CMSA)",
+            "92 (125)",
+            "09/07-08/12",
+            ""
+          ],
+          [
+            "A3 (8P1) 03-12",
+            "1.6 (BGU, BSE, BSF, CCSA)",
+            "75 (102)",
+            "05/03-08/12",
+            "For vehicles without auxiliary heater, variant Valeo Airco Unit"
+          ],
+          [
+            "A3 (8P1) 03-12",
+            "1.6 FSI (BAG, BLF, BLP)",
+            "85 (115)",
+            "08/03-09/07",
+            ""
+          ],
+          [
+            "A3 (8P1) 03-12",
+            "1.6 TDI (CAYB)",
+            "66 (90)",
+            "05/09-08/12",
+            ""
+          ],
+          [
+            "A3 (8P1) 03-12",
+            "1.6 TDI (CAYC)",
+            "77 (105)",
+            "05/09-08/12",
+            ""
+          ],
+          [
+            "A3 (8P1) 03-12",
+            "1.8 TFSI (BYT, BZB, CDAA)",
+            "118 (160)",
+            "11/06-08/12",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0292.2.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "1032cc88ba206319c8c6ce28534d7f476f078fd17776b31d8743bd6cddfa0733",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0292.html",
+        "page_sha256": "6c5d403bb10da0542745ea0982d4ca6d58e335d8a924841182360ceb0bff650c"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0292",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:28.467734+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -152,7 +1555,31 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514328",
       "supplier_fitment": "VOLVO S60 I (00-10) / S80 I (98-06) / XC70 I (02-07) / XC90 I (02-14)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0300",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514328",
+        "supplier_fitment": "VOLVO S60 I (00-10) / S80 I (98-06) / XC70 I (02-07) / XC90 I (02-14)",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "checked_at_utc": "2026-11-13T13:25:34.616774+00:00",
+        "source_error_class": "HTTPError",
+        "attempted_manufacturer_page": "https://ecatalogue.lynxauto.jp/RH-0300.html"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0300",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:29.227584+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "SOURCE_NOT_CONFIRMED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRIMARY_SOURCE_HTTP_ERROR"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -160,7 +1587,31 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0020438482",
       "supplier_fitment": "VOLVO S60 I 00> / S80 I 98-06 / XC70 I 02-07 / XC90 I 02-14",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0301",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0020438482",
+        "supplier_fitment": "VOLVO S60 I 00> / S80 I 98-06 / XC70 I 02-07 / XC90 I 02-14",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "checked_at_utc": "2026-11-13T13:25:41.388122+00:00",
+        "source_error_class": "HTTPError",
+        "attempted_manufacturer_page": "https://ecatalogue.lynxauto.jp/RH-0301.html"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0301",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:30.031290+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "SOURCE_NOT_CONFIRMED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRIMARY_SOURCE_HTTP_ERROR"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -168,7 +1619,114 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514342",
       "supplier_fitment": "GAZ Gazelle Business (09-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0328",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514342",
+        "supplier_fitment": "GAZ Gazelle Business (09-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:25:41.677942+00:00",
+        "original_OE_rows": [
+          [
+            "GAZ",
+            "2705-00-8101060-099"
+          ],
+          [
+            "GAZ",
+            "2705-8101060"
+          ],
+          [
+            "GAZ",
+            "AP2705.8101060"
+          ],
+          [
+            "GAZ",
+            "АР2705.8101060"
+          ],
+          [
+            "GAZ",
+            "Т2705-8101060"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=GAZ&product_id=42790",
+        "fitment_page_sha256": "9bd3f1165b29718f8718bccabe44b44c0731575ae2443a67ea13badc10b2abf8",
+        "fitment_rows": [
+          [
+            "GAZELLE Bus 93-13",
+            "2.8 TD (ISF2.8-S3129T)",
+            "88 (120)",
+            "02/10-03/13",
+            ""
+          ],
+          [
+            "GAZELLE Bus 93-13",
+            "2.8 TD 4WD (ISF2.8-S3129T)",
+            "88 (120)",
+            "02/10-03/13",
+            ""
+          ],
+          [
+            "GAZELLE Bus 93-13",
+            "2.9 (UMZ-4216)",
+            "79 (107)",
+            "01/07-03/13",
+            ""
+          ],
+          [
+            "GAZELLE Bus 93-13",
+            "2.9 4WD (UMZ-4216)",
+            "79 (107)",
+            "01/07-03/13",
+            ""
+          ],
+          [
+            "GAZELLE Platform/Chassis 93-13",
+            "2.8 TD (ISF2.8-S3129T)",
+            "88 (120)",
+            "02/10-03/13",
+            ""
+          ],
+          [
+            "GAZELLE Platform/Chassis 93-13",
+            "2.8 TD (ISF2.8-S3129T)",
+            "88 (120)",
+            "10/93-12/02",
+            ""
+          ],
+          [
+            "GAZELLE Platform/Chassis 93-13",
+            "2.8 TD 4WD (ISF2.8-S3129T)",
+            "88 (120)",
+            "02/10-03/13",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0328.1.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "c192e569b86c6a90ffcb19f8f49d1f2093e6834a4e7f124eb6b6999f66b82a61",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0328.html",
+        "page_sha256": "dba0dabe18028643db5505601ed2f0d9d6e1c0fb3d8d46345c14bcd3c7eff236"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0328",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:30.803948+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -176,7 +1734,31 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514335",
       "supplier_fitment": "CHEVROLET Niva (02-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0331",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514335",
+        "supplier_fitment": "CHEVROLET Niva (02-)",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "checked_at_utc": "2026-11-13T13:25:47.317648+00:00",
+        "source_error_class": "HTTPError",
+        "attempted_manufacturer_page": "https://ecatalogue.lynxauto.jp/RH-0331.html"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0331",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:31.514307+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "SOURCE_NOT_CONFIRMED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRIMARY_SOURCE_HTTP_ERROR"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -184,7 +1766,106 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0024393458",
       "supplier_fitment": "LADA Priora 07>",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0333",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0024393458",
+        "supplier_fitment": "LADA Priora 07>",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:25:54.320194+00:00",
+        "original_OE_rows": [
+          [
+            "LADA",
+            "2170-8101060-10"
+          ],
+          [
+            "LADA",
+            "21700-8101060-10"
+          ],
+          [
+            "LADA",
+            "2172-8101060"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=50784",
+        "fitment_page_sha256": "978ae4857ecf3de8374d085af6fd4d96f9b676dd8594996623a8208ce2073a64",
+        "fitment_rows": [
+          [
+            "PRIORA Estate (2171) 09-15",
+            "1.6 (21126)",
+            "72 (98)",
+            "10/09-12/15",
+            ""
+          ],
+          [
+            "PRIORA Estate (2171) 09-15",
+            "1.6 (21127)",
+            "78 (106)",
+            "02/14-12/15",
+            ""
+          ],
+          [
+            "PRIORA Hatchback (2172) 08-15",
+            "1.6 (21114)",
+            "60 (82)",
+            "12/08-12/13",
+            ""
+          ],
+          [
+            "PRIORA Hatchback (2172) 08-15",
+            "1.6 (21116)",
+            "66 (90)",
+            "01/11-12/13",
+            ""
+          ],
+          [
+            "PRIORA Hatchback (2172) 08-15",
+            "1.6 (21126)",
+            "72 (98)",
+            "12/08-12/15",
+            ""
+          ],
+          [
+            "PRIORA Hatchback (2172) 08-15",
+            "1.6 (21127)",
+            "78 (106)",
+            "02/14-12/15",
+            ""
+          ],
+          [
+            "PRIORA Hatchback (2172) 08-15",
+            "1.6 LPG (21126)",
+            "71 (96)",
+            "12/08-12/13",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0333.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "e9a4e7074b93f6f5305619c80e46246c1e3b0889e68f504b3a0b7f7c02036145",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0333.html",
+        "page_sha256": "b0ee790ad9a2d711263d5359e6f387a65333f006b14d953cb678e5b3baa35bd3"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0333",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:32.245822+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -192,7 +1873,78 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0018514345",
       "supplier_fitment": "GAZ Gazelle Next (13-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0336",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0018514345",
+        "supplier_fitment": "GAZ Gazelle Next (13-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:26:00.142440+00:00",
+        "original_OE_rows": [
+          [
+            "GAZ",
+            "16470833"
+          ],
+          [
+            "GAZ",
+            "16470833S"
+          ],
+          [
+            "GAZ",
+            "A21R23.8101060"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=GAZ&product_id=42795",
+        "fitment_page_sha256": "16ea8acfbb5df358b6e8859eef41341dd28e69f7c0774e3202bcf84016d66966",
+        "fitment_rows": [
+          [
+            "GAZELLE NEXT Bus 13-",
+            "2.8 TD (ISF2.8-S4129P, ISF2.8-S5129P)",
+            "88 (120)",
+            "04/13-",
+            ""
+          ],
+          [
+            "GAZELLE NEXT Platform/Chassis 13-",
+            "2.8 TD (ISF2.8-S4129P, ISF2.8-S5129P)",
+            "88 (120)",
+            "04/13-",
+            ""
+          ],
+          [
+            "GAZELLE NEXT Van 13-",
+            "2.8 TD (A31R22, A31R32, A32R22, A32R32, C45R02, C46R02,... (ISF2.8-S4129P, ISF2.8-S5129P)",
+            "88 (120)",
+            "04/13-",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0336.1.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "775aa23593c975d61e2eb414f5e782a4d2ae472913687964a234512ded9c0fdc",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0336.html",
+        "page_sha256": "1a71043285ea095ac61a887338d25925be6e7a5b056df93649026208cdf5c4e4"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0336",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:32.938341+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -200,7 +1952,64 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0024393460",
       "supplier_fitment": "UAZ Patriot 16>",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0340",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0024393460",
+        "supplier_fitment": "UAZ Patriot 16>",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:26:11.421977+00:00",
+        "original_OE_rows": [
+          [
+            "UAZ",
+            "3163-8101060-50"
+          ],
+          [
+            "UAZ",
+            "316300-8101060-50"
+          ],
+          [
+            "UAZ",
+            "316306-8101060-50"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=UAZ&product_id=50786",
+        "fitment_page_sha256": "abb492637d772484c120d7270dfa87f5cbe51acf5298eb34dae17aeb52319ea7",
+        "fitment_rows": [
+          [
+            "PATRIOT 04-",
+            "2.7 (ZMZ-409.10)",
+            "94 (128)",
+            "07/04-",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0340.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "b2f0fb413a08d7c0b725b0cdf222e88c305927e30c12726b0b9cacb42fef74e1",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0340.html",
+        "page_sha256": "a44e04918741c45a9263ea653fc5dd8aa78fa876f20a940307a7e43500b27518"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0340",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:33.532715+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -208,7 +2017,71 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0024393461",
       "supplier_fitment": "UAZ Patriot 16> / 31631 08>",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0341",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0024393461",
+        "supplier_fitment": "UAZ Patriot 16> / 31631 08>",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:26:17.008849+00:00",
+        "original_OE_rows": [
+          [
+            "UAZ",
+            "16471838"
+          ],
+          [
+            "UAZ",
+            "3163-8101060-07"
+          ],
+          [
+            "UAZ",
+            "316300-8101060-07"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=UAZ&product_id=50787",
+        "fitment_page_sha256": "0533b87c98ac6e48e09109c5b46f685a52ff7faa575dd154db1aa93dc76ac45c",
+        "fitment_rows": [
+          [
+            "PATRIOT 04-",
+            "2.7 (ZMZ- 409210)",
+            "82 (112)",
+            "07/04-",
+            ""
+          ],
+          [
+            "PATRIOT 04-",
+            "2.7 (ZMZ-409.10)",
+            "94 (128)",
+            "07/04-",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0341.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "3ec3e9e22c815e5dad53b26e1b964f7a2e83dfaf1ff9dcee0169ecd074fa0fe6",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0341.html",
+        "page_sha256": "3149f311c51530e134480384ca6925a0d483ece4840531a9f1aed2015e6745fd"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0341",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:34.472393+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -216,7 +2089,114 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0024393463",
       "supplier_fitment": "LADA Granta 10> / Kalina II 13> , DATSUN On-do 14> / Mi-do 15> (KDAC)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0343",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0024393463",
+        "supplier_fitment": "LADA Granta 10> / Kalina II 13> , DATSUN On-do 14> / Mi-do 15> (KDAC)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:26:28.761817+00:00",
+        "original_OE_rows": [
+          [
+            "LADA",
+            "2191-8101010"
+          ],
+          [
+            "LADA",
+            "2191-8101060"
+          ],
+          [
+            "LADA",
+            "2191-8101060-85"
+          ],
+          [
+            "LADA",
+            "21910-8101010-00"
+          ],
+          [
+            "LADA",
+            "21910-8101010-10"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=50789",
+        "fitment_page_sha256": "dff00e7ea76bb8163ab841a19ffd93d47e4a59a85e4e5933122494377c09116d",
+        "fitment_rows": [
+          [
+            "GRANTA (2190_) 11-19",
+            "1.6 (21901) (11186)",
+            "64 (87)",
+            "10/11-",
+            ""
+          ],
+          [
+            "GRANTA (2190_) 11-19",
+            "1.6 (21902) (21126)",
+            "72 (98)",
+            "10/11-",
+            ""
+          ],
+          [
+            "GRANTA (2190_) 11-19",
+            "1.6 (21906) (11183)",
+            "60 (82)",
+            "10/11-",
+            ""
+          ],
+          [
+            "GRANTA (2190_) 11-19",
+            "1.6 (21907) (21127)",
+            "78 (106)",
+            "07/13-",
+            ""
+          ],
+          [
+            "GRANTA (2190_) 11-19",
+            "1.6 Sport (21905) (21126)",
+            "87 (118)",
+            "07/13-09/18",
+            ""
+          ],
+          [
+            "KALINA II Estate (2194_) 13-18",
+            "1.6 (21941) (11186)",
+            "64 (87)",
+            "11/13-09/18",
+            ""
+          ],
+          [
+            "KALINA II Estate (2194_) 13-18",
+            "1.6 (21942, 21947) (21126)",
+            "72 (98)",
+            "11/13-09/18",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0343.1.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "8026d559d5897a353c75a68f2c6b85985f36efc5c48a1106cac6db320fc0ede6",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0343.html",
+        "page_sha256": "c2ecb90b201d98b5b1fb91e1d31a8140cff4788401c309a233724f343feae4bc"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0343",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:35.053322+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -224,7 +2204,102 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0027059857",
       "supplier_fitment": "Nissan Juke (F15) (10-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0346",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0027059857",
+        "supplier_fitment": "Nissan Juke (F15) (10-)",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:26:34.428406+00:00",
+        "original_OE_rows": [
+          [
+            "NISSAN",
+            "27140-1KA0A"
+          ],
+          [
+            "NISSAN",
+            "27140-1KA0B"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=NISSAN&product_id=61896",
+        "fitment_page_sha256": "8809d0f7e910dfc80a7a7844b1ad25a2370cffa4b9178de331697393605fa0bd",
+        "fitment_rows": [
+          [
+            "JUKE (F15) 10-14",
+            "1.2 DIG-T (HRA2DDT)",
+            "85 (115)",
+            "05/14-",
+            ""
+          ],
+          [
+            "JUKE (F15) 10-14",
+            "1.5 dCi (K9K 410, K9K 636, K9K 646, K9K 896)",
+            "81 (110)",
+            "06/10-",
+            ""
+          ],
+          [
+            "JUKE (F15) 10-14",
+            "1.6 (HR16DE)",
+            "69 (94)",
+            "01/13-",
+            ""
+          ],
+          [
+            "JUKE (F15) 10-14",
+            "1.6 (HR16DE)",
+            "83 (113)",
+            "07/18-",
+            ""
+          ],
+          [
+            "JUKE (F15) 10-14",
+            "1.6 (HR16DE)",
+            "86 (117)",
+            "06/10-",
+            ""
+          ],
+          [
+            "JUKE (F15) 10-14",
+            "1.6 DIG-T (MR16DDT)",
+            "140 (190)",
+            "06/10-",
+            ""
+          ],
+          [
+            "JUKE (F15) 10-14",
+            "1.6 DIG-T 4WD (MR16DDT)",
+            "140 (190)",
+            "06/10-",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0346.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "391a3cb1a625ea0568a74aa28c42eb11700c5147a09f37efd26d8acbd87a71bd",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0346.html",
+        "page_sha256": "dd15958e8fc625850ea694eb628f5808fed894582abd0a5fa1994d90973485c3"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0346",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:35.718814+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -232,7 +2307,122 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0024393464",
       "supplier_fitment": "FORD Kuga 13> / Focus III 11> / C-max 11>",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0348",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0024393464",
+        "supplier_fitment": "FORD Kuga 13> / Focus III 11> / C-max 11>",
+        "review_status": "OEM_VERIFIED",
+        "checked_at_utc": "2026-11-13T13:26:46.116998+00:00",
+        "original_OE_rows": [
+          [
+            "FORD",
+            "1 692 083"
+          ],
+          [
+            "FORD",
+            "1 750 303"
+          ],
+          [
+            "FORD",
+            "1 824 911"
+          ],
+          [
+            "FORD",
+            "5 166 610"
+          ],
+          [
+            "FORD USA",
+            "AV6N-18B539-CA"
+          ],
+          [
+            "FORD USA",
+            "AV6N-18B539-CB"
+          ],
+          [
+            "FORD USA",
+            "BV6N-18B539-AA"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_CAPTURED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=50790",
+        "fitment_page_sha256": "fd68b2c33630d4653d5c929e6258bf969b180e6142b1acba10f160efb2535ff0",
+        "fitment_rows": [
+          [
+            "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+            "1.0 EcoBoost (M1DA, M1DD)",
+            "92 (125)",
+            "10/12-",
+            ""
+          ],
+          [
+            "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+            "1.0 EcoBoost (M2DA, M2DC)",
+            "74 (100)",
+            "10/12-",
+            ""
+          ],
+          [
+            "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+            "1.5 EcoBoost (M8DB, M8DF)",
+            "110 (150)",
+            "03/15-",
+            ""
+          ],
+          [
+            "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+            "1.5 EcoBoost (M9DB)",
+            "134 (182)",
+            "03/15-",
+            ""
+          ],
+          [
+            "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+            "1.5 TDCi (XWDA, XWDB, XWDC, XWDD, XWDE)",
+            "88 (120)",
+            "03/15-",
+            ""
+          ],
+          [
+            "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+            "1.5 TDCi (XXDA, XXDC, XXDD)",
+            "70 (95)",
+            "03/15-",
+            ""
+          ],
+          [
+            "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+            "1.5 TDCi ECOnetic (AEDA)",
+            "77 (105)",
+            "03/15-",
+            ""
+          ]
+        ],
+        "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/RH-0348.jpg",
+        "photo_dimensions": [
+          800,
+          600
+        ],
+        "photo_sha256": "d1674a1dd3443980254eb39758b115896939ccc8ab46558cf03cfa178c2d3afa",
+        "oem_status": "MANUFACTURER_EXACT_SKU_VERIFIED",
+        "manufacturer_or_supplier_page": "https://ecatalogue.lynxauto.jp/RH-0348.html",
+        "page_sha256": "c1412b9fff5b33b564eb7c9aed3aa4bd6dd81415237dcd75ad182caf2099d599"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0348",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:36.386395+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "OEM_FITMENT_REAL_PHOTO_VERIFIED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -240,9 +2430,43 @@
       "category": "Радиаторы печки",
       "supplier_nomenclature": "NSII0027059859",
       "supplier_fitment": "Лада 2190 Гранта FL (18-)",
-      "review_status": "PENDING_SOURCE_AND_API_REVIEW"
+      "review_status": "BLOCKED",
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "RH0350",
+        "category": "Радиаторы печки",
+        "supplier_nomenclature": "NSII0027059859",
+        "supplier_fitment": "Лада 2190 Гранта FL (18-)",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "checked_at_utc": "2026-11-13T13:26:52.033452+00:00",
+        "source_error_class": "HTTPError",
+        "attempted_manufacturer_page": "https://ecatalogue.lynxauto.jp/RH-0350.html"
+      },
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RH0350",
+        "category": "Радиаторы печки",
+        "checked_at_utc": "2026-11-13T13:24:37.034388+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review_status": "SOURCE_NOT_CONFIRMED",
+      "blockers": [
+        "API_IRKUTSK_DELIVERY_DIFFERS_FROM_REQUIRED_ZERO_DAYS",
+        "EXACT_PRIMARY_SOURCE_HTTP_ERROR"
+      ]
     }
   ],
   "no_XML_changes": true,
-  "publication_performed": false
+  "publication_performed": false,
+  "account_API_workflow_run_id": 43433261072,
+  "account_API_review_completed": true,
+  "source_status_counts": {
+    "EXACT_PHOTO_VERIFIED_OE_GROUP_REQUIRES_REVIEW": 1,
+    "OEM_FITMENT_VERIFIED_PHOTO_PENDING": 4,
+    "OEM_FITMENT_REAL_PHOTO_VERIFIED": 18,
+    "SOURCE_NOT_CONFIRMED": 7
+  },
+  "actual_product_photos_visually_verified": 19,
+  "source_review_completed_at_utc": "2026-11-13T13:28:13.077866+00:00"
 }
