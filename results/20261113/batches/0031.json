@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1043",
+      "supplier_nomenclature": "NSII0024117012",
+      "checked_at_utc": "2026-11-13T14:50:26.502822+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1702L",
+      "supplier_nomenclature": "NSII0024067536",
+      "checked_at_utc": "2026-11-13T14:50:27.501122+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1702R",
+      "supplier_nomenclature": "NSII0024067537",
+      "checked_at_utc": "2026-11-13T14:50:28.628282+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1714L",
+      "supplier_nomenclature": "NSII0024067544",
+      "checked_at_utc": "2026-11-13T14:50:29.650740+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1714R",
+      "supplier_nomenclature": "NSII0024067545",
+      "checked_at_utc": "2026-11-13T14:50:30.586099+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1735L",
+      "supplier_nomenclature": "NSII0024067573",
+      "checked_at_utc": "2026-11-13T14:50:31.256033+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1735R",
+      "supplier_nomenclature": "NSII0024067574",
+      "checked_at_utc": "2026-11-13T14:50:32.323192+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1750L",
+      "supplier_nomenclature": "NSII0024067596",
+      "checked_at_utc": "2026-11-13T14:50:33.382544+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1750R",
+      "supplier_nomenclature": "NSII0024067597",
+      "checked_at_utc": "2026-11-13T14:50:34.288950+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1755L",
+      "supplier_nomenclature": "NSII0024067604",
+      "checked_at_utc": "2026-11-13T14:50:35.301114+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1764L",
+      "supplier_nomenclature": "NSII0024067620",
+      "checked_at_utc": "2026-11-13T14:50:36.927953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1764R",
+      "supplier_nomenclature": "NSII0024067621",
+      "checked_at_utc": "2026-11-13T14:50:37.147359+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1770L",
+      "supplier_nomenclature": "NSII0024067631",
+      "checked_at_utc": "2026-11-13T14:50:38.294753+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1770R",
+      "supplier_nomenclature": "NSII0024067632",
+      "checked_at_utc": "2026-11-13T14:50:39.327691+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1773L",
+      "supplier_nomenclature": "NSII0024067635",
+      "checked_at_utc": "2026-11-13T14:50:40.398597+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1802R",
+      "supplier_nomenclature": "NSII0024067668",
+      "checked_at_utc": "2026-11-13T14:50:41.218038+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1805L",
+      "supplier_nomenclature": "NSII0024067673",
+      "checked_at_utc": "2026-11-13T14:50:42.191308+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TATSUMI",
+      "article": "TEE1805R",
+      "supplier_nomenclature": "NSII0024067674",
+      "checked_at_utc": "2026-11-13T14:50:43.178738+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "4807530030",
+      "supplier_nomenclature": "NSIN0012403311",
+      "checked_at_utc": "2026-11-13T14:50:44.411050+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "4807630030",
+      "supplier_nomenclature": "NSIN0012403319",
+      "checked_at_utc": "2026-11-13T14:50:45.432910+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "4865460050",
+      "supplier_nomenclature": "NSIN0019649734",
+      "checked_at_utc": "2026-11-13T14:50:46.495161+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "4865560030",
+      "supplier_nomenclature": "NSIN0004470523",
+      "checked_at_utc": "2026-11-13T14:50:47.800254+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "4865560050",
+      "supplier_nomenclature": "NSIN0019649735",
+      "checked_at_utc": "2026-11-13T14:50:48.520748+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "4870260090",
+      "supplier_nomenclature": "NSIN0019640967",
+      "checked_at_utc": "2026-11-13T14:50:49.424564+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "9010512082",
+      "supplier_nomenclature": "NSIN0004636017",
+      "checked_at_utc": "2026-11-13T14:50:50.006744+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "9011914086",
+      "supplier_nomenclature": "NSIN0004638528",
+      "checked_at_utc": "2026-11-13T14:50:51.222276+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "9017912091",
+      "supplier_nomenclature": "NSIN0004640443",
+      "checked_at_utc": "2026-11-13T14:50:52.576636+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "9017912127",
+      "supplier_nomenclature": "NSIN0004640460",
+      "checked_at_utc": "2026-11-13T14:50:53.350763+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "9038522004",
+      "supplier_nomenclature": "NSIN0004644847",
+      "checked_at_utc": "2026-11-13T14:50:54.091994+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Toyota",
+      "article": "91554L1690",
+      "supplier_nomenclature": "NSIN0013308270",
+      "checked_at_utc": "2026-11-13T14:50:55.170535+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Trialli",
+      "article": "SB0141",
+      "supplier_nomenclature": "NSII0015591639",
+      "checked_at_utc": "2026-11-13T14:50:56.237516+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Trialli",
+      "article": "SB0540",
+      "supplier_nomenclature": "NSII0014971625",
+      "checked_at_utc": "2026-11-13T14:50:57.635588+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Trialli",
+      "article": "SB0845",
+      "supplier_nomenclature": "NSII0014971658",
+      "checked_at_utc": "2026-11-13T14:50:58.855371+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TRT",
+      "article": "NR1002",
+      "supplier_nomenclature": "NSII0022812794",
+      "checked_at_utc": "2026-11-13T14:50:59.470584+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TRT",
+      "article": "R9004L",
+      "supplier_nomenclature": "NSII0017307195",
+      "checked_at_utc": "2026-11-13T14:51:00.246042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "TRT",
+      "article": "RS9018R",
+      "supplier_nomenclature": "NSII0017307202",
+      "checked_at_utc": "2026-11-13T14:51:01.701108+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "VAG",
+      "article": "4M0407515A",
+      "supplier_nomenclature": "NSII0013100302",
+      "checked_at_utc": "2026-11-13T14:51:02.284997+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "VAG",
+      "article": "N10491802",
+      "supplier_nomenclature": "NSIN0013648636",
+      "checked_at_utc": "2026-11-13T14:51:03.095738+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061020",
+      "supplier_nomenclature": "NSII0009694390",
+      "checked_at_utc": "2026-11-13T14:51:04.844628+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061070",
+      "supplier_nomenclature": "NSII0009812438",
+      "checked_at_utc": "2026-11-13T14:51:05.495261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061071",
+      "supplier_nomenclature": "NSII0009701946",
+      "checked_at_utc": "2026-11-13T14:51:06.484880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061072",
+      "supplier_nomenclature": "NSII0009698682",
+      "checked_at_utc": "2026-11-13T14:51:07.297375+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "106133",
+      "supplier_nomenclature": "NSII0009735101",
+      "checked_at_utc": "2026-11-13T14:51:08.480203+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061426",
+      "supplier_nomenclature": "NSII0009731437",
+      "checked_at_utc": "2026-11-13T14:51:09.327527+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061433",
+      "supplier_nomenclature": "NSII0013063903",
+      "checked_at_utc": "2026-11-13T14:51:10.690991+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061434",
+      "supplier_nomenclature": "NSII0009831403",
+      "checked_at_utc": "2026-11-13T14:51:11.413405+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061461",
+      "supplier_nomenclature": "NSII0009694620",
+      "checked_at_utc": "2026-11-13T14:51:12.493650+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061469",
+      "supplier_nomenclature": "NSII0009922044",
+      "checked_at_utc": "2026-11-13T14:51:13.209276+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1061781",
+      "supplier_nomenclature": "NSII0013063884",
+      "checked_at_utc": "2026-11-13T14:51:14.544755+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "106204",
+      "supplier_nomenclature": "NSII0009727275",
+      "checked_at_utc": "2026-11-13T14:51:15.794656+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "106205",
+      "supplier_nomenclature": "NSII0009874197",
+      "checked_at_utc": "2026-11-13T14:51:16.352200+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "106227",
+      "supplier_nomenclature": "NSII0009690543",
+      "checked_at_utc": "2026-11-13T14:51:17.376884+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1063631",
+      "supplier_nomenclature": "NSII0018222244",
+      "checked_at_utc": "2026-11-13T14:51:19.270416+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1063057",
+      "supplier_nomenclature": "NSII0009691654",
+      "checked_at_utc": "2026-11-13T14:51:19.394989+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1063632",
+      "supplier_nomenclature": "NSII0018222294",
+      "checked_at_utc": "2026-11-13T14:51:20.285270+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "106413",
+      "supplier_nomenclature": "NSII0009692369",
+      "checked_at_utc": "2026-11-13T14:51:21.347885+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "106414",
+      "supplier_nomenclature": "NSII0009692370",
+      "checked_at_utc": "2026-11-13T14:51:22.945717+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1064256",
+      "supplier_nomenclature": "NSII0027135635",
+      "checked_at_utc": "2026-11-13T14:51:22.949242+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1064379",
+      "supplier_nomenclature": "NSII0027135637",
+      "checked_at_utc": "2026-11-13T14:51:24.088151+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1201436",
+      "supplier_nomenclature": "NSII0009702462",
+      "checked_at_utc": "2026-11-13T14:51:25.145854+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "13064133",
+      "supplier_nomenclature": "NSII0019773187",
+      "checked_at_utc": "2026-11-13T14:51:26.244042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "16061444",
+      "supplier_nomenclature": "NSII0009705734",
+      "checked_at_utc": "2026-11-13T14:51:27.801597+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "18064087",
+      "supplier_nomenclature": "NSII0019773194",
+      "checked_at_utc": "2026-11-13T14:51:28.236113+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "2061387",
+      "supplier_nomenclature": "NSII0009699834",
+      "checked_at_utc": "2026-11-13T14:51:29.181448+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "2062300",
+      "supplier_nomenclature": "NSII0009694879",
+      "checked_at_utc": "2026-11-13T14:51:30.445447+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "2063357",
+      "supplier_nomenclature": "NSII0015314043",
+      "checked_at_utc": "2026-11-13T14:51:32.001676+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "2063393",
+      "supplier_nomenclature": "NSII0015313891",
+      "checked_at_utc": "2026-11-13T14:51:32.181414+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "2063394",
+      "supplier_nomenclature": "NSII0015313892",
+      "checked_at_utc": "2026-11-13T14:51:33.167515+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "2063723",
+      "supplier_nomenclature": "NSII0018437459",
+      "checked_at_utc": "2026-11-13T14:51:34.392276+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "206491",
+      "supplier_nomenclature": "NSII0009690728",
+      "checked_at_utc": "2026-11-13T14:51:35.565016+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "206511",
+      "supplier_nomenclature": "NSII0009690727",
+      "checked_at_utc": "2026-11-13T14:51:36.346859+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "208688",
+      "supplier_nomenclature": "NSII0009711269",
+      "checked_at_utc": "2026-11-13T14:51:37.200717+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "208969",
+      "supplier_nomenclature": "NSII0009709388",
+      "checked_at_utc": "2026-11-13T14:51:38.597007+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "22061967",
+      "supplier_nomenclature": "NSII0009773133",
+      "checked_at_utc": "2026-11-13T14:51:39.820829+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "22062239",
+      "supplier_nomenclature": "NSII0013063898",
+      "checked_at_utc": "2026-11-13T14:51:40.697813+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "22063273",
+      "supplier_nomenclature": "NSII0014879961",
+      "checked_at_utc": "2026-11-13T14:51:41.984274+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "3061492",
+      "supplier_nomenclature": "NSII0009708727",
+      "checked_at_utc": "2026-11-13T14:51:42.498666+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "3063805",
+      "supplier_nomenclature": "NSII0018492564",
+      "checked_at_utc": "2026-11-13T14:51:43.002660+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "3063806",
+      "supplier_nomenclature": "NSII0018492562",
+      "checked_at_utc": "2026-11-13T14:51:44.353891+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "3064295",
+      "supplier_nomenclature": "NSII0024399018",
+      "checked_at_utc": "2026-11-13T14:51:45.092511+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "306991",
+      "supplier_nomenclature": "NSII0009791704",
+      "checked_at_utc": "2026-11-13T14:51:46.225739+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "35064240",
+      "supplier_nomenclature": "NSII0020532047",
+      "checked_at_utc": "2026-11-13T14:51:47.333186+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "40064197",
+      "supplier_nomenclature": "NSII0027135759",
+      "checked_at_utc": "2026-11-13T14:51:48.165007+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "40064198",
+      "supplier_nomenclature": "NSII0027135695",
+      "checked_at_utc": "2026-11-13T14:51:49.095572+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "40074130",
+      "supplier_nomenclature": "NSII0019543338",
+      "checked_at_utc": "2026-11-13T14:51:50.263432+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "4061003",
+      "supplier_nomenclature": "NSIN0023113351",
+      "checked_at_utc": "2026-11-13T14:51:51.198997+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "4061004",
+      "supplier_nomenclature": "NSIN0023113352",
+      "checked_at_utc": "2026-11-13T14:51:52.267775+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "4064287",
+      "supplier_nomenclature": "NSII0025738366",
+      "checked_at_utc": "2026-11-13T14:51:53.120915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "41064202",
+      "supplier_nomenclature": "NSII0027135697",
+      "checked_at_utc": "2026-11-13T14:51:54.033656+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "41064203",
+      "supplier_nomenclature": "NSII0027135698",
+      "checked_at_utc": "2026-11-13T14:51:55.066189+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "4121960",
+      "supplier_nomenclature": "NSII0014880368",
+      "checked_at_utc": "2026-11-13T14:51:56.251732+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "7061250",
+      "supplier_nomenclature": "NSII0009708794",
+      "checked_at_utc": "2026-11-13T14:51:57.450341+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "7061255",
+      "supplier_nomenclature": "NSII0009721408",
+      "checked_at_utc": "2026-11-13T14:51:58.502229+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "7062123",
+      "supplier_nomenclature": "NSII0009705020",
+      "checked_at_utc": "2026-11-13T14:51:59.095376+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "7062798",
+      "supplier_nomenclature": "NSII0014881135",
+      "checked_at_utc": "2026-11-13T14:52:00.472429+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "7062884",
+      "supplier_nomenclature": "NSII0013063907",
+      "checked_at_utc": "2026-11-13T14:52:01.456249+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "7063203",
+      "supplier_nomenclature": "NSII0015314021",
+      "checked_at_utc": "2026-11-13T14:52:02.214872+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "706359",
+      "supplier_nomenclature": "NSII0011007198",
+      "checked_at_utc": "2026-11-13T14:52:03.406238+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "7063996",
+      "supplier_nomenclature": "NSII0018493675",
+      "checked_at_utc": "2026-11-13T14:52:04.172431+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "806028",
+      "supplier_nomenclature": "NSII0009690070",
+      "checked_at_utc": "2026-11-13T14:52:05.477628+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
