@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0057",
+      "supplier_nomenclature": "NSII0023945230",
+      "checked_at_utc": "2026-11-13T14:05:30.030835+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0072",
+      "supplier_nomenclature": "NSII0023945245",
+      "checked_at_utc": "2026-11-13T14:05:31.046319+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0073",
+      "supplier_nomenclature": "NSII0023945246",
+      "checked_at_utc": "2026-11-13T14:05:31.812307+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0074",
+      "supplier_nomenclature": "NSII0023945247",
+      "checked_at_utc": "2026-11-13T14:05:33.020332+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0075",
+      "supplier_nomenclature": "NSII0023945248",
+      "checked_at_utc": "2026-11-13T14:05:34.079658+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0083",
+      "supplier_nomenclature": "NSII0023945255",
+      "checked_at_utc": "2026-11-13T14:05:35.369890+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0085",
+      "supplier_nomenclature": "NSII0023945257",
+      "checked_at_utc": "2026-11-13T14:05:35.866915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0109",
+      "supplier_nomenclature": "NSII0023945281",
+      "checked_at_utc": "2026-11-13T14:05:36.768820+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0112",
+      "supplier_nomenclature": "NSII0023945284",
+      "checked_at_utc": "2026-11-13T14:05:37.922996+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0123",
+      "supplier_nomenclature": "NSII0023945295",
+      "checked_at_utc": "2026-11-13T14:05:38.506278+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0130",
+      "supplier_nomenclature": "NSII0023945302",
+      "checked_at_utc": "2026-11-13T14:05:40.022439+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0148",
+      "supplier_nomenclature": "NSII0023945320",
+      "checked_at_utc": "2026-11-13T14:05:40.896443+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0158",
+      "supplier_nomenclature": "NSII0023945329",
+      "checked_at_utc": "2026-11-13T14:05:41.877340+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0159",
+      "supplier_nomenclature": "NSII0023945330",
+      "checked_at_utc": "2026-11-13T14:05:43.082898+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0162",
+      "supplier_nomenclature": "NSII0023945333",
+      "checked_at_utc": "2026-11-13T14:05:44.377441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0165",
+      "supplier_nomenclature": "NSII0023945336",
+      "checked_at_utc": "2026-11-13T14:05:44.869171+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0168",
+      "supplier_nomenclature": "NSII0023945339",
+      "checked_at_utc": "2026-11-13T14:05:45.386172+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0169",
+      "supplier_nomenclature": "NSII0023945340",
+      "checked_at_utc": "2026-11-13T14:05:46.303038+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0170",
+      "supplier_nomenclature": "NSII0023945341",
+      "checked_at_utc": "2026-11-13T14:05:47.334606+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0187",
+      "supplier_nomenclature": "NSII0023945358",
+      "checked_at_utc": "2026-11-13T14:05:48.769779+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0188",
+      "supplier_nomenclature": "NSII0023945359",
+      "checked_at_utc": "2026-11-13T14:05:49.413268+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0189",
+      "supplier_nomenclature": "NSII0023945360",
+      "checked_at_utc": "2026-11-13T14:05:50.382183+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0194",
+      "supplier_nomenclature": "NSII0023945365",
+      "checked_at_utc": "2026-11-13T14:05:51.609544+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0195",
+      "supplier_nomenclature": "NSII0023945366",
+      "checked_at_utc": "2026-11-13T14:05:52.344259+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0196",
+      "supplier_nomenclature": "NSII0023945367",
+      "checked_at_utc": "2026-11-13T14:05:53.411495+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0232",
+      "supplier_nomenclature": "NSII0023945399",
+      "checked_at_utc": "2026-11-13T14:05:54.719673+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0234",
+      "supplier_nomenclature": "NSII0023945401",
+      "checked_at_utc": "2026-11-13T14:05:55.942438+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0236",
+      "supplier_nomenclature": "NSII0023945403",
+      "checked_at_utc": "2026-11-13T14:05:56.593652+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0237",
+      "supplier_nomenclature": "NSII0023945404",
+      "checked_at_utc": "2026-11-13T14:05:57.699777+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0239",
+      "supplier_nomenclature": "NSII0023945406",
+      "checked_at_utc": "2026-11-13T14:05:58.542817+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0241",
+      "supplier_nomenclature": "NSII0023945408",
+      "checked_at_utc": "2026-11-13T14:05:59.935645+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0242",
+      "supplier_nomenclature": "NSII0023945409",
+      "checked_at_utc": "2026-11-13T14:06:00.925232+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0243",
+      "supplier_nomenclature": "NSII0023945410",
+      "checked_at_utc": "2026-11-13T14:06:01.781269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0244",
+      "supplier_nomenclature": "NSII0023945411",
+      "checked_at_utc": "2026-11-13T14:06:02.556685+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0246",
+      "supplier_nomenclature": "NSII0023945413",
+      "checked_at_utc": "2026-11-13T14:06:03.513401+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0247",
+      "supplier_nomenclature": "NSII0023945414",
+      "checked_at_utc": "2026-11-13T14:06:04.411193+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0251",
+      "supplier_nomenclature": "NSII0023945418",
+      "checked_at_utc": "2026-11-13T14:06:05.446042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0252",
+      "supplier_nomenclature": "NSII0023945419",
+      "checked_at_utc": "2026-11-13T14:06:06.624948+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0253",
+      "supplier_nomenclature": "NSII0023945420",
+      "checked_at_utc": "2026-11-13T14:06:08.083441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0261",
+      "supplier_nomenclature": "NSII0023945428",
+      "checked_at_utc": "2026-11-13T14:06:08.730669+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0279",
+      "supplier_nomenclature": "NSII0023945442",
+      "checked_at_utc": "2026-11-13T14:06:09.585507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0280",
+      "supplier_nomenclature": "NSII0023945443",
+      "checked_at_utc": "2026-11-13T14:06:10.606578+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0300",
+      "supplier_nomenclature": "NSII0023945461",
+      "checked_at_utc": "2026-11-13T14:06:11.953540+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0303",
+      "supplier_nomenclature": "NSII0023945464",
+      "checked_at_utc": "2026-11-13T14:06:12.650189+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0308",
+      "supplier_nomenclature": "NSII0023945469",
+      "checked_at_utc": "2026-11-13T14:06:13.462956+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0325",
+      "supplier_nomenclature": "NSII0023945487",
+      "checked_at_utc": "2026-11-13T14:06:14.923598+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0327",
+      "supplier_nomenclature": "NSII0023945489",
+      "checked_at_utc": "2026-11-13T14:06:15.817832+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0333",
+      "supplier_nomenclature": "NSII0023945495",
+      "checked_at_utc": "2026-11-13T14:06:16.420462+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0334",
+      "supplier_nomenclature": "NSII0023945496",
+      "checked_at_utc": "2026-11-13T14:06:17.733061+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0355",
+      "supplier_nomenclature": "NSII0023945518",
+      "checked_at_utc": "2026-11-13T14:06:18.392400+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0356",
+      "supplier_nomenclature": "NSII0023945519",
+      "checked_at_utc": "2026-11-13T14:06:19.613646+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0358",
+      "supplier_nomenclature": "NSII0023945521",
+      "checked_at_utc": "2026-11-13T14:06:20.515037+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0360",
+      "supplier_nomenclature": "NSII0023945523",
+      "checked_at_utc": "2026-11-13T14:06:22.200326+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0361",
+      "supplier_nomenclature": "NSII0023945524",
+      "checked_at_utc": "2026-11-13T14:06:22.738639+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0362",
+      "supplier_nomenclature": "NSII0023945525",
+      "checked_at_utc": "2026-11-13T14:06:23.325522+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0368",
+      "supplier_nomenclature": "NSII0023945531",
+      "checked_at_utc": "2026-11-13T14:06:24.496614+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0369",
+      "supplier_nomenclature": "NSII0023945532",
+      "checked_at_utc": "2026-11-13T14:06:25.789507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0370",
+      "supplier_nomenclature": "NSII0023945533",
+      "checked_at_utc": "2026-11-13T14:06:26.444098+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0371",
+      "supplier_nomenclature": "NSII0023945534",
+      "checked_at_utc": "2026-11-13T14:06:27.593249+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0375",
+      "supplier_nomenclature": "NSII0023945538",
+      "checked_at_utc": "2026-11-13T14:06:28.576426+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0395",
+      "supplier_nomenclature": "NSII0023945558",
+      "checked_at_utc": "2026-11-13T14:06:29.497315+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0396",
+      "supplier_nomenclature": "NSII0023945559",
+      "checked_at_utc": "2026-11-13T14:06:30.635977+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0398",
+      "supplier_nomenclature": "NSII0023945561",
+      "checked_at_utc": "2026-11-13T14:06:31.861403+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0399",
+      "supplier_nomenclature": "NSII0023945562",
+      "checked_at_utc": "2026-11-13T14:06:32.691999+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0400",
+      "supplier_nomenclature": "NSII0023945563",
+      "checked_at_utc": "2026-11-13T14:06:33.523260+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0401",
+      "supplier_nomenclature": "NSII0023945564",
+      "checked_at_utc": "2026-11-13T14:06:34.472256+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0419",
+      "supplier_nomenclature": "NSII0023945582",
+      "checked_at_utc": "2026-11-13T14:06:36.472625+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0411",
+      "supplier_nomenclature": "NSII0023945574",
+      "checked_at_utc": "2026-11-13T14:06:36.662872+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0420",
+      "supplier_nomenclature": "NSII0023945583",
+      "checked_at_utc": "2026-11-13T14:06:37.842375+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0421",
+      "supplier_nomenclature": "NSII0023945584",
+      "checked_at_utc": "2026-11-13T14:06:38.960849+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0422",
+      "supplier_nomenclature": "NSII0023945585",
+      "checked_at_utc": "2026-11-13T14:06:39.519481+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0423",
+      "supplier_nomenclature": "NSII0023945586",
+      "checked_at_utc": "2026-11-13T14:06:41.296946+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0424",
+      "supplier_nomenclature": "NSII0023945587",
+      "checked_at_utc": "2026-11-13T14:06:41.445753+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0426",
+      "supplier_nomenclature": "NSII0023945589",
+      "checked_at_utc": "2026-11-13T14:06:42.807657+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0427",
+      "supplier_nomenclature": "NSII0023945590",
+      "checked_at_utc": "2026-11-13T14:06:43.433419+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0428",
+      "supplier_nomenclature": "NSII0023945591",
+      "checked_at_utc": "2026-11-13T14:06:44.420277+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0429",
+      "supplier_nomenclature": "NSII0023945592",
+      "checked_at_utc": "2026-11-13T14:06:45.719845+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0430",
+      "supplier_nomenclature": "NSII0023945593",
+      "checked_at_utc": "2026-11-13T14:06:46.741954+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0433",
+      "supplier_nomenclature": "NSII0023945596",
+      "checked_at_utc": "2026-11-13T14:06:47.808717+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0436",
+      "supplier_nomenclature": "NSII0023945599",
+      "checked_at_utc": "2026-11-13T14:06:49.095357+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0437",
+      "supplier_nomenclature": "NSII0023945600",
+      "checked_at_utc": "2026-11-13T14:06:49.688715+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0438",
+      "supplier_nomenclature": "NSII0023945601",
+      "checked_at_utc": "2026-11-13T14:06:51.133961+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0439",
+      "supplier_nomenclature": "NSII0023945602",
+      "checked_at_utc": "2026-11-13T14:06:51.958931+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0440",
+      "supplier_nomenclature": "NSII0023945603",
+      "checked_at_utc": "2026-11-13T14:06:52.470559+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0441",
+      "supplier_nomenclature": "NSII0023945604",
+      "checked_at_utc": "2026-11-13T14:06:53.730646+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0442",
+      "supplier_nomenclature": "NSII0023945605",
+      "checked_at_utc": "2026-11-13T14:06:54.744496+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0443",
+      "supplier_nomenclature": "NSII0023945606",
+      "checked_at_utc": "2026-11-13T14:06:55.613514+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0445",
+      "supplier_nomenclature": "NSII0023945608",
+      "checked_at_utc": "2026-11-13T14:06:56.671954+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0449",
+      "supplier_nomenclature": "NSII0023945612",
+      "checked_at_utc": "2026-11-13T14:06:57.470583+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0453",
+      "supplier_nomenclature": "NSII0023945616",
+      "checked_at_utc": "2026-11-13T14:06:58.616459+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0454",
+      "supplier_nomenclature": "NSII0023945617",
+      "checked_at_utc": "2026-11-13T14:06:59.552824+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0456",
+      "supplier_nomenclature": "NSII0023945619",
+      "checked_at_utc": "2026-11-13T14:07:00.595688+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0457",
+      "supplier_nomenclature": "NSII0023945620",
+      "checked_at_utc": "2026-11-13T14:07:01.459245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0458",
+      "supplier_nomenclature": "NSII0023945621",
+      "checked_at_utc": "2026-11-13T14:07:02.840936+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0461",
+      "supplier_nomenclature": "NSII0023945624",
+      "checked_at_utc": "2026-11-13T14:07:03.734479+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0462",
+      "supplier_nomenclature": "NSII0023945625",
+      "checked_at_utc": "2026-11-13T14:07:04.553513+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0464",
+      "supplier_nomenclature": "NSII0023945627",
+      "checked_at_utc": "2026-11-13T14:07:05.815278+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0465",
+      "supplier_nomenclature": "NSII0023945628",
+      "checked_at_utc": "2026-11-13T14:07:06.564234+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0466",
+      "supplier_nomenclature": "NSII0023945629",
+      "checked_at_utc": "2026-11-13T14:07:07.967501+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "CTR",
+      "article": "GV0469",
+      "supplier_nomenclature": "NSII0023945632",
+      "checked_at_utc": "2026-11-13T14:07:08.643833+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
