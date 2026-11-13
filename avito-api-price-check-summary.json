@@ -1,9 +1,9 @@
 {
-  "time_utc": "2026-11-12T22:50:44.206437+00:00",
+  "time_utc": "2026-11-13T22:45:20.793847+00:00",
   "approved_total": 243,
-  "available_approved_zero_day": 232,
-  "api_requests_attempted": 232,
-  "api_wholesale_confirmed": 232,
+  "available_approved_zero_day": 230,
+  "api_requests_attempted": 230,
+  "api_wholesale_confirmed": 230,
   "api_not_confirmed": 0,
   "success_rate": 1.0,
   "failures": {},
