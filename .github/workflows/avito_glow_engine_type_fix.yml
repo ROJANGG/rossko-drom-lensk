@@ -1,0 +1,62 @@
+name: Avito - repair required engine subtype without changing listings
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_glow_engine_type_fix.yml'
+      - 'avito_glow_engine_type_fix.py'
+      - 'tests/test_avito_glow_engine_type_fix.py'
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  schema-only-fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          path: source
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: avito
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'requests>=2.31,<3'
+      - name: Test exact field repair and real generator output
+        working-directory: source
+        run: |
+          python -m unittest discover -s tests -p 'test_avito_glow_engine_type_fix.py' -v
+          python -m unittest discover -s tests -p 'test_avito_refresh_public_cdn.py' -v
+      - name: Add required engine subtype to live and archived glow-plug ads only
+        run: |
+          python source/avito_glow_engine_type_fix.py --live avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml --archive avito/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml --out fixed
+          cp fixed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml avito/
+          cp fixed/AVITO_APPROVED_CATALOG_195_ARCHIVE.xml avito/
+          cp fixed/avito-engine-subtype-fix-report.json avito/
+      - name: Publish strictly validated subtype repair and refresh exact CDN bytes
+        run: |
+          cd avito
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml AVITO_APPROVED_CATALOG_195_ARCHIVE.xml avito-engine-subtype-fix-report.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Avito: supply required engine subtype for glow plugs; preserve IDs, prices, OEM and photos'
+            git push origin HEAD:avito-irkutsk-feed
+          fi
+          python ../source/avito_refresh_public_cdn.py --xml AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: AVITO_ENGINE_SUBTYPE_REPAIR_AUDIT
+          path: fixed/avito-engine-subtype-fix-report.json
+          if-no-files-found: ignore

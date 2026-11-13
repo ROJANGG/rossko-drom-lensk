@@ -209,6 +209,8 @@ def make_ad(record,retail,photo,address):
           'AdType':'Товар приобретен на продажу','ProductType':'Для автомобилей',
           'SparePartType':group,'OEM':canon(record['oem']),'Title':title,'Description':details,
           'Address':address,'Price':str(retail),'Condition':'Новое','Availability':'В наличии','Brand':record['brand']}
+    if record['category']=='Свечи накала':
+        data['EngineSparePartType']='Катушка зажигания, свечи, электрика'
     ad=ET.Element('Ad')
     for k,v in data.items():ET.SubElement(ad,k).text=v
     ET.SubElement(ET.SubElement(ad,'Images'),'Image',url=photo['public_url'])
