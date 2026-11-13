@@ -32,16 +32,16 @@
   },
   "inventory_created_at_utc": "2026-11-13T13:58:34.835654+00:00",
   "source_commit": "a40d587793be5eabce4ae4ac6b0ca5ed8cf539d1",
-  "updated_at_utc": "2026-11-13T14:40:17.356149+00:00",
+  "updated_at_utc": "2026-11-13T14:41:58.507077+00:00",
   "state": "RUNNING",
   "queue_total": 13008,
   "scope_sha256": "9a868ea5f5926ed4e1de15bf7945f8ba9ec79b086fec14fc79516bfcbccfecc4",
-  "checked": 2534,
-  "pending": 10474,
-  "session_new_API_requests": 2400,
+  "checked": 2634,
+  "pending": 10374,
+  "session_new_API_requests": 2500,
   "session_recent_cache_reused": 135,
   "status_counts": {
-    "Иркутск_есть_иной_срок": 2531,
+    "Иркутск_есть_иной_срок": 2631,
     "exact_sku_not_found": 3
   },
   "API_zero_day_candidate_count": 0,
@@ -65,9 +65,9 @@
     {
       "category": "Рычаги подвески",
       "queued": 2826,
-      "checked": 2122,
+      "checked": 2222,
       "API_zero_day_candidates": 0,
-      "pending": 704
+      "pending": 604
     },
     {
       "category": "Тяги рулевые",
