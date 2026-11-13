@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251622",
+      "supplier_nomenclature": "NSII0028720952",
+      "checked_at_utc": "2026-11-13T15:25:59.431870+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251628",
+      "supplier_nomenclature": "NSII0028721442",
+      "checked_at_utc": "2026-11-13T15:26:00.516664+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251629",
+      "supplier_nomenclature": "NSII0028721443",
+      "checked_at_utc": "2026-11-13T15:26:01.548846+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251630",
+      "supplier_nomenclature": "NSII0028721444",
+      "checked_at_utc": "2026-11-13T15:26:02.511339+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251631",
+      "supplier_nomenclature": "NSII0028721445",
+      "checked_at_utc": "2026-11-13T15:26:03.573640+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251632",
+      "supplier_nomenclature": "NSII0028721446",
+      "checked_at_utc": "2026-11-13T15:26:04.440979+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251633",
+      "supplier_nomenclature": "NSII0028721447",
+      "checked_at_utc": "2026-11-13T15:26:05.469605+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251638",
+      "supplier_nomenclature": "NSII0028680735",
+      "checked_at_utc": "2026-11-13T15:26:07.851818+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251639",
+      "supplier_nomenclature": "NSII0028680732",
+      "checked_at_utc": "2026-11-13T15:26:08.489875+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251640",
+      "supplier_nomenclature": "NSII0028680436",
+      "checked_at_utc": "2026-11-13T15:26:08.598521+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251641",
+      "supplier_nomenclature": "NSII0028680467",
+      "checked_at_utc": "2026-11-13T15:26:09.515660+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251643",
+      "supplier_nomenclature": "NSII0028680511",
+      "checked_at_utc": "2026-11-13T15:26:10.565778+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251644",
+      "supplier_nomenclature": "NSII0028721448",
+      "checked_at_utc": "2026-11-13T15:26:11.424776+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251645",
+      "supplier_nomenclature": "NSII0028721449",
+      "checked_at_utc": "2026-11-13T15:26:12.970688+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251649",
+      "supplier_nomenclature": "NSII0028721450",
+      "checked_at_utc": "2026-11-13T15:26:13.420162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251653",
+      "supplier_nomenclature": "NSII0028680984",
+      "checked_at_utc": "2026-11-13T15:26:15.627745+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251654",
+      "supplier_nomenclature": "NSII0028680957",
+      "checked_at_utc": "2026-11-13T15:26:15.750448+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251658",
+      "supplier_nomenclature": "NSII0028988432",
+      "checked_at_utc": "2026-11-13T15:26:16.377338+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251659",
+      "supplier_nomenclature": "NSII0028721451",
+      "checked_at_utc": "2026-11-13T15:26:17.546225+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251660",
+      "supplier_nomenclature": "NSII0028721452",
+      "checked_at_utc": "2026-11-13T15:26:18.522411+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251664",
+      "supplier_nomenclature": "NSII0028721454",
+      "checked_at_utc": "2026-11-13T15:26:20.751345+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251663",
+      "supplier_nomenclature": "NSII0028721453",
+      "checked_at_utc": "2026-11-13T15:26:21.739893+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251667",
+      "supplier_nomenclature": "NSII0028721455",
+      "checked_at_utc": "2026-11-13T15:26:22.336539+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251668",
+      "supplier_nomenclature": "NSII0028721456",
+      "checked_at_utc": "2026-11-13T15:26:22.357685+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251669",
+      "supplier_nomenclature": "NSII0028721457",
+      "checked_at_utc": "2026-11-13T15:26:23.448183+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251670",
+      "supplier_nomenclature": "NSII0028721458",
+      "checked_at_utc": "2026-11-13T15:26:24.409707+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251671",
+      "supplier_nomenclature": "NSII0028720954",
+      "checked_at_utc": "2026-11-13T15:26:25.419501+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251672",
+      "supplier_nomenclature": "NSII0028680478",
+      "checked_at_utc": "2026-11-13T15:26:26.490800+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251673",
+      "supplier_nomenclature": "NSII0028680505",
+      "checked_at_utc": "2026-11-13T15:26:27.490881+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251674",
+      "supplier_nomenclature": "NSII0028988434",
+      "checked_at_utc": "2026-11-13T15:26:28.665405+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251675",
+      "supplier_nomenclature": "NSII0028988435",
+      "checked_at_utc": "2026-11-13T15:26:29.524937+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251714",
+      "supplier_nomenclature": "NSII0028988468",
+      "checked_at_utc": "2026-11-13T15:26:30.591222+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "NGN",
+      "article": "251715",
+      "supplier_nomenclature": "NSII0028988469",
+      "checked_at_utc": "2026-11-13T15:26:31.634862+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Pilenga",
+      "article": "TSP1186",
+      "supplier_nomenclature": "NSII0007385698",
+      "checked_at_utc": "2026-11-13T15:26:33.304865+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Pilenga",
+      "article": "TSP1203",
+      "supplier_nomenclature": "NSII0014562872",
+      "checked_at_utc": "2026-11-13T15:26:34.527672+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Pilenga",
+      "article": "TSP1187",
+      "supplier_nomenclature": "NSII0007385699",
+      "checked_at_utc": "2026-11-13T15:26:34.590603+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Pilenga",
+      "article": "TSP2486",
+      "supplier_nomenclature": "NSII0019018683",
+      "checked_at_utc": "2026-11-13T15:26:36.275567+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Pilenga",
+      "article": "TSP2487",
+      "supplier_nomenclature": "NSII0019018692",
+      "checked_at_utc": "2026-11-13T15:26:36.865699+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "21435",
+      "supplier_nomenclature": "NSIN0019728737",
+      "checked_at_utc": "2026-11-13T15:26:37.605042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "3631",
+      "supplier_nomenclature": "NSIN0018791417",
+      "checked_at_utc": "2026-11-13T15:26:40.159152+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "3630",
+      "supplier_nomenclature": "NSIN0019542269",
+      "checked_at_utc": "2026-11-13T15:26:40.194878+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "3637",
+      "supplier_nomenclature": "NSIN0023152456",
+      "checked_at_utc": "2026-11-13T15:26:42.447012+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "3738",
+      "supplier_nomenclature": "NSIN0001103650",
+      "checked_at_utc": "2026-11-13T15:26:43.612657+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "45942",
+      "supplier_nomenclature": "NSIN0000138560",
+      "checked_at_utc": "2026-11-13T15:26:43.786002+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "49630",
+      "supplier_nomenclature": "NSIN0019743299",
+      "checked_at_utc": "2026-11-13T15:26:44.487220+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "49631",
+      "supplier_nomenclature": "NSIN0019743300",
+      "checked_at_utc": "2026-11-13T15:26:45.453797+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "49930",
+      "supplier_nomenclature": "NSIN0001104289",
+      "checked_at_utc": "2026-11-13T15:26:46.388348+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "53136",
+      "supplier_nomenclature": "NSIN0018767238",
+      "checked_at_utc": "2026-11-13T15:26:47.447063+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "53137",
+      "supplier_nomenclature": "NSIN0018476215",
+      "checked_at_utc": "2026-11-13T15:26:48.537421+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "53330",
+      "supplier_nomenclature": "NSIN0019728799",
+      "checked_at_utc": "2026-11-13T15:26:49.576734+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "53331",
+      "supplier_nomenclature": "NSIN0019728800",
+      "checked_at_utc": "2026-11-13T15:26:51.687386+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "57132",
+      "supplier_nomenclature": "NSIN0001104668",
+      "checked_at_utc": "2026-11-13T15:26:52.387256+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "63638",
+      "supplier_nomenclature": "NSIN0000138712",
+      "checked_at_utc": "2026-11-13T15:26:53.772622+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "57133",
+      "supplier_nomenclature": "NSIN0001104669",
+      "checked_at_utc": "2026-11-13T15:26:54.952012+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "63639",
+      "supplier_nomenclature": "NSIN0000138713",
+      "checked_at_utc": "2026-11-13T15:26:54.975128+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "63730",
+      "supplier_nomenclature": "NSIN0000138718",
+      "checked_at_utc": "2026-11-13T15:26:56.886701+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "63731",
+      "supplier_nomenclature": "NSIN0000138719",
+      "checked_at_utc": "2026-11-13T15:26:57.544122+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "67034",
+      "supplier_nomenclature": "NSIN0006944152",
+      "checked_at_utc": "2026-11-13T15:26:58.369496+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Sidem",
+      "article": "67035",
+      "supplier_nomenclature": "NSIN0006944153",
+      "checked_at_utc": "2026-11-13T15:26:59.207706+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Stellox",
+      "article": "5100272SX",
+      "supplier_nomenclature": "NSII0016589425",
+      "checked_at_utc": "2026-11-13T15:26:59.934072+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Stellox",
+      "article": "5100275ASX",
+      "supplier_nomenclature": "NSII0011505935",
+      "checked_at_utc": "2026-11-13T15:27:00.660461+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Stellox",
+      "article": "5100698ASX",
+      "supplier_nomenclature": "NSII0014782478",
+      "checked_at_utc": "2026-11-13T15:27:01.987940+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Stellox",
+      "article": "51ES3358RASX",
+      "supplier_nomenclature": "NSII0019722597",
+      "checked_at_utc": "2026-11-13T15:27:02.519113+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "Stellox",
+      "article": "51ES3359RASX",
+      "supplier_nomenclature": "NSII0019032707",
+      "checked_at_utc": "2026-11-13T15:27:03.553373+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1001",
+      "supplier_nomenclature": "NSII0024848953",
+      "checked_at_utc": "2026-11-13T15:27:04.752863+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1002",
+      "supplier_nomenclature": "NSII0024848954",
+      "checked_at_utc": "2026-11-13T15:27:05.925587+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1003",
+      "supplier_nomenclature": "NSII0024848955",
+      "checked_at_utc": "2026-11-13T15:27:07.191445+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1004",
+      "supplier_nomenclature": "NSII0024848956",
+      "checked_at_utc": "2026-11-13T15:27:07.997347+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1005",
+      "supplier_nomenclature": "NSII0025740286",
+      "checked_at_utc": "2026-11-13T15:27:08.968425+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1006",
+      "supplier_nomenclature": "NSII0024848957",
+      "checked_at_utc": "2026-11-13T15:27:10.727769+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1007",
+      "supplier_nomenclature": "NSII0024848958",
+      "checked_at_utc": "2026-11-13T15:27:10.924933+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1008",
+      "supplier_nomenclature": "NSII0025740287",
+      "checked_at_utc": "2026-11-13T15:27:11.902817+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1010",
+      "supplier_nomenclature": "NSII0024848960",
+      "checked_at_utc": "2026-11-13T15:27:12.952452+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1011",
+      "supplier_nomenclature": "NSII0024848961",
+      "checked_at_utc": "2026-11-13T15:27:14.203062+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1013",
+      "supplier_nomenclature": "NSII0025740232",
+      "checked_at_utc": "2026-11-13T15:27:14.730985+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1014",
+      "supplier_nomenclature": "NSII0025740333",
+      "checked_at_utc": "2026-11-13T15:27:16.011611+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1015",
+      "supplier_nomenclature": "NSII0024848963",
+      "checked_at_utc": "2026-11-13T15:27:17.028182+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1017",
+      "supplier_nomenclature": "NSII0024848965",
+      "checked_at_utc": "2026-11-13T15:27:18.037056+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1018",
+      "supplier_nomenclature": "NSII0024848966",
+      "checked_at_utc": "2026-11-13T15:27:18.955503+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1019",
+      "supplier_nomenclature": "NSII0024848967",
+      "checked_at_utc": "2026-11-13T15:27:19.967809+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1020",
+      "supplier_nomenclature": "NSII0024848968",
+      "checked_at_utc": "2026-11-13T15:27:20.984578+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1021",
+      "supplier_nomenclature": "NSII0024848969",
+      "checked_at_utc": "2026-11-13T15:27:22.070748+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1022",
+      "supplier_nomenclature": "NSII0024848970",
+      "checked_at_utc": "2026-11-13T15:27:23.181486+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1025",
+      "supplier_nomenclature": "NSII0024848973",
+      "checked_at_utc": "2026-11-13T15:27:24.088715+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1026",
+      "supplier_nomenclature": "NSII0024848974",
+      "checked_at_utc": "2026-11-13T15:27:25.482927+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1028",
+      "supplier_nomenclature": "NSII0024848976",
+      "checked_at_utc": "2026-11-13T15:27:26.401405+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1032",
+      "supplier_nomenclature": "NSII0024848979",
+      "checked_at_utc": "2026-11-13T15:27:26.961164+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1035",
+      "supplier_nomenclature": "NSII0024848982",
+      "checked_at_utc": "2026-11-13T15:27:27.803341+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1039",
+      "supplier_nomenclature": "NSII0024848986",
+      "checked_at_utc": "2026-11-13T15:27:28.973602+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1040",
+      "supplier_nomenclature": "NSII0024848987",
+      "checked_at_utc": "2026-11-13T15:27:30.227563+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1043",
+      "supplier_nomenclature": "NSII0024848990",
+      "checked_at_utc": "2026-11-13T15:27:31.704899+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1044",
+      "supplier_nomenclature": "NSII0024848991",
+      "checked_at_utc": "2026-11-13T15:27:32.332202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1047",
+      "supplier_nomenclature": "NSII0024848994",
+      "checked_at_utc": "2026-11-13T15:27:33.135731+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1049",
+      "supplier_nomenclature": "NSII0024848996",
+      "checked_at_utc": "2026-11-13T15:27:34.101037+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1050",
+      "supplier_nomenclature": "NSII0024848997",
+      "checked_at_utc": "2026-11-13T15:27:35.442768+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1052",
+      "supplier_nomenclature": "NSII0024848999",
+      "checked_at_utc": "2026-11-13T15:27:36.201559+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1053",
+      "supplier_nomenclature": "NSII0024849000",
+      "checked_at_utc": "2026-11-13T15:27:37.096498+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1058",
+      "supplier_nomenclature": "NSII0024849005",
+      "checked_at_utc": "2026-11-13T15:27:37.963396+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1059",
+      "supplier_nomenclature": "NSII0024849006",
+      "checked_at_utc": "2026-11-13T15:27:39.764463+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Рулевые наконечники",
+      "brand": "SUFIX",
+      "article": "SE1062",
+      "supplier_nomenclature": "NSII0024849008",
+      "checked_at_utc": "2026-11-13T15:27:40.076016+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
