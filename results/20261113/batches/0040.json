@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1045",
+      "supplier_nomenclature": "NSII0024848943",
+      "checked_at_utc": "2026-11-13T15:05:38.609383+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1046",
+      "supplier_nomenclature": "NSII0024848944",
+      "checked_at_utc": "2026-11-13T15:05:40.294391+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1047",
+      "supplier_nomenclature": "NSII0024848945",
+      "checked_at_utc": "2026-11-13T15:05:41.208696+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1048",
+      "supplier_nomenclature": "NSII0025290773",
+      "checked_at_utc": "2026-11-13T15:05:41.631169+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1050",
+      "supplier_nomenclature": "NSII0025742104",
+      "checked_at_utc": "2026-11-13T15:05:43.160947+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1051",
+      "supplier_nomenclature": "NSII0024848947",
+      "checked_at_utc": "2026-11-13T15:05:43.990686+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1052",
+      "supplier_nomenclature": "NSII0024848948",
+      "checked_at_utc": "2026-11-13T15:05:44.852607+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1053",
+      "supplier_nomenclature": "NSII0025742105",
+      "checked_at_utc": "2026-11-13T15:05:46.061245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1055",
+      "supplier_nomenclature": "NSII0024848950",
+      "checked_at_utc": "2026-11-13T15:05:46.821181+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1059",
+      "supplier_nomenclature": "NSII0025292556",
+      "checked_at_utc": "2026-11-13T15:05:47.772441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1061",
+      "supplier_nomenclature": "NSII0025742107",
+      "checked_at_utc": "2026-11-13T15:05:48.796102+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1062",
+      "supplier_nomenclature": "NSII0025742108",
+      "checked_at_utc": "2026-11-13T15:05:49.725874+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1065",
+      "supplier_nomenclature": "NSII0025296886",
+      "checked_at_utc": "2026-11-13T15:05:50.679220+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1066",
+      "supplier_nomenclature": "NSII0025309871",
+      "checked_at_utc": "2026-11-13T15:05:51.676065+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1069",
+      "supplier_nomenclature": "NSII0025742111",
+      "checked_at_utc": "2026-11-13T15:05:52.547522+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1070",
+      "supplier_nomenclature": "NSII0025742112",
+      "checked_at_utc": "2026-11-13T15:05:53.583625+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1071",
+      "supplier_nomenclature": "NSII0025292557",
+      "checked_at_utc": "2026-11-13T15:05:54.636371+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1072",
+      "supplier_nomenclature": "NSII0025742252",
+      "checked_at_utc": "2026-11-13T15:05:55.627781+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1077",
+      "supplier_nomenclature": "NSII0025292558",
+      "checked_at_utc": "2026-11-13T15:05:56.904594+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1078",
+      "supplier_nomenclature": "NSII0025292559",
+      "checked_at_utc": "2026-11-13T15:05:57.494706+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1079",
+      "supplier_nomenclature": "NSII0025742114",
+      "checked_at_utc": "2026-11-13T15:05:58.613321+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1084",
+      "supplier_nomenclature": "NSII0025742253",
+      "checked_at_utc": "2026-11-13T15:05:59.497899+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1087",
+      "supplier_nomenclature": "NSII0025309875",
+      "checked_at_utc": "2026-11-13T15:06:00.956937+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1090",
+      "supplier_nomenclature": "NSII0025742119",
+      "checked_at_utc": "2026-11-13T15:06:01.516208+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1101",
+      "supplier_nomenclature": "NSII0025292638",
+      "checked_at_utc": "2026-11-13T15:06:02.596542+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1102",
+      "supplier_nomenclature": "NSII0025292546",
+      "checked_at_utc": "2026-11-13T15:06:03.685950+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1104",
+      "supplier_nomenclature": "NSII0025296889",
+      "checked_at_utc": "2026-11-13T15:06:04.763081+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1106",
+      "supplier_nomenclature": "NSII0025292620",
+      "checked_at_utc": "2026-11-13T15:06:06.076618+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1108",
+      "supplier_nomenclature": "NSII0025742124",
+      "checked_at_utc": "2026-11-13T15:06:07.003011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1110",
+      "supplier_nomenclature": "NSII0025292561",
+      "checked_at_utc": "2026-11-13T15:06:08.010698+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1114",
+      "supplier_nomenclature": "NSII0025742126",
+      "checked_at_utc": "2026-11-13T15:06:08.615422+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1115",
+      "supplier_nomenclature": "NSII0025292563",
+      "checked_at_utc": "2026-11-13T15:06:09.619019+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1116",
+      "supplier_nomenclature": "NSII0025290782",
+      "checked_at_utc": "2026-11-13T15:06:10.690835+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1117",
+      "supplier_nomenclature": "NSII0025742127",
+      "checked_at_utc": "2026-11-13T15:06:11.497926+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1119",
+      "supplier_nomenclature": "NSII0025292564",
+      "checked_at_utc": "2026-11-13T15:06:12.654198+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1120",
+      "supplier_nomenclature": "NSII0025292639",
+      "checked_at_utc": "2026-11-13T15:06:13.543753+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1121",
+      "supplier_nomenclature": "NSII0025292565",
+      "checked_at_utc": "2026-11-13T15:06:14.868458+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1127",
+      "supplier_nomenclature": "NSII0025742129",
+      "checked_at_utc": "2026-11-13T15:06:15.691114+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1135",
+      "supplier_nomenclature": "NSII0025742134",
+      "checked_at_utc": "2026-11-13T15:06:16.823457+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1136",
+      "supplier_nomenclature": "NSII0025742135",
+      "checked_at_utc": "2026-11-13T15:06:17.632208+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1137",
+      "supplier_nomenclature": "NSII0025290783",
+      "checked_at_utc": "2026-11-13T15:06:18.657111+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1140",
+      "supplier_nomenclature": "NSII0025292569",
+      "checked_at_utc": "2026-11-13T15:06:19.783258+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1144",
+      "supplier_nomenclature": "NSII0025742140",
+      "checked_at_utc": "2026-11-13T15:06:20.819245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1146",
+      "supplier_nomenclature": "NSII0025292621",
+      "checked_at_utc": "2026-11-13T15:06:21.526843+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1151",
+      "supplier_nomenclature": "NSII0025290785",
+      "checked_at_utc": "2026-11-13T15:06:22.652153+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1153",
+      "supplier_nomenclature": "NSII0025742142",
+      "checked_at_utc": "2026-11-13T15:06:23.624576+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1155",
+      "supplier_nomenclature": "NSII0025292622",
+      "checked_at_utc": "2026-11-13T15:06:24.859562+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1159",
+      "supplier_nomenclature": "NSII0025296875",
+      "checked_at_utc": "2026-11-13T15:06:25.678344+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1161",
+      "supplier_nomenclature": "NSII0025292571",
+      "checked_at_utc": "2026-11-13T15:06:26.602797+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1164",
+      "supplier_nomenclature": "NSII0025742145",
+      "checked_at_utc": "2026-11-13T15:06:27.602263+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1165",
+      "supplier_nomenclature": "NSII0025742146",
+      "checked_at_utc": "2026-11-13T15:06:28.483790+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1166",
+      "supplier_nomenclature": "NSII0025292572",
+      "checked_at_utc": "2026-11-13T15:06:29.575587+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1167",
+      "supplier_nomenclature": "NSII0025309873",
+      "checked_at_utc": "2026-11-13T15:06:30.613676+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1169",
+      "supplier_nomenclature": "NSII0025292574",
+      "checked_at_utc": "2026-11-13T15:06:31.539771+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1172",
+      "supplier_nomenclature": "NSII0025742147",
+      "checked_at_utc": "2026-11-13T15:06:32.760544+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1174",
+      "supplier_nomenclature": "NSII0025742149",
+      "checked_at_utc": "2026-11-13T15:06:33.515330+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1177",
+      "supplier_nomenclature": "NSII0025742254",
+      "checked_at_utc": "2026-11-13T15:06:34.491863+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1178",
+      "supplier_nomenclature": "NSII0025742262",
+      "checked_at_utc": "2026-11-13T15:06:35.538595+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1181",
+      "supplier_nomenclature": "NSII0025742153",
+      "checked_at_utc": "2026-11-13T15:06:36.524116+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1182",
+      "supplier_nomenclature": "NSII0025292575",
+      "checked_at_utc": "2026-11-13T15:06:37.849529+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1183",
+      "supplier_nomenclature": "NSII0025292625",
+      "checked_at_utc": "2026-11-13T15:06:38.458023+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1186",
+      "supplier_nomenclature": "NSII0025742154",
+      "checked_at_utc": "2026-11-13T15:06:39.862382+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1190",
+      "supplier_nomenclature": "NSII0025742157",
+      "checked_at_utc": "2026-11-13T15:06:40.615723+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1191",
+      "supplier_nomenclature": "NSII0025742158",
+      "checked_at_utc": "2026-11-13T15:06:41.501268+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1192",
+      "supplier_nomenclature": "NSII0025742159",
+      "checked_at_utc": "2026-11-13T15:06:42.701247+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1194",
+      "supplier_nomenclature": "NSII0025292577",
+      "checked_at_utc": "2026-11-13T15:06:43.630740+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1195",
+      "supplier_nomenclature": "NSII0025292578",
+      "checked_at_utc": "2026-11-13T15:06:44.620058+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1197",
+      "supplier_nomenclature": "NSII0025742162",
+      "checked_at_utc": "2026-11-13T15:06:45.751200+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1198",
+      "supplier_nomenclature": "NSII0025292579",
+      "checked_at_utc": "2026-11-13T15:06:46.764321+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1199",
+      "supplier_nomenclature": "NSII0025742163",
+      "checked_at_utc": "2026-11-13T15:06:47.535442+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1201",
+      "supplier_nomenclature": "NSII0025742165",
+      "checked_at_utc": "2026-11-13T15:06:48.511315+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1204",
+      "supplier_nomenclature": "NSII0025292580",
+      "checked_at_utc": "2026-11-13T15:06:49.567011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1207",
+      "supplier_nomenclature": "NSII0025742168",
+      "checked_at_utc": "2026-11-13T15:06:50.584013+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1211",
+      "supplier_nomenclature": "NSII0025742170",
+      "checked_at_utc": "2026-11-13T15:06:51.584179+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1214",
+      "supplier_nomenclature": "NSII0025292582",
+      "checked_at_utc": "2026-11-13T15:06:52.674837+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1217",
+      "supplier_nomenclature": "NSII0025742172",
+      "checked_at_utc": "2026-11-13T15:06:53.546967+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1219",
+      "supplier_nomenclature": "NSII0025742173",
+      "checked_at_utc": "2026-11-13T15:06:54.721391+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1220",
+      "supplier_nomenclature": "NSII0025742174",
+      "checked_at_utc": "2026-11-13T15:06:55.539675+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1224",
+      "supplier_nomenclature": "NSII0025290788",
+      "checked_at_utc": "2026-11-13T15:06:56.680181+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1237",
+      "supplier_nomenclature": "NSII0025292591",
+      "checked_at_utc": "2026-11-13T15:06:57.885037+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1240",
+      "supplier_nomenclature": "NSII0025296865",
+      "checked_at_utc": "2026-11-13T15:06:58.672103+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1242",
+      "supplier_nomenclature": "NSII0025292594",
+      "checked_at_utc": "2026-11-13T15:06:59.563061+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1243",
+      "supplier_nomenclature": "NSII0025290790",
+      "checked_at_utc": "2026-11-13T15:07:00.541005+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1245",
+      "supplier_nomenclature": "NSII0025742178",
+      "checked_at_utc": "2026-11-13T15:07:01.703902+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1246",
+      "supplier_nomenclature": "NSII0025290791",
+      "checked_at_utc": "2026-11-13T15:07:02.746741+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1269",
+      "supplier_nomenclature": "NSII0025292549",
+      "checked_at_utc": "2026-11-13T15:07:03.628556+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1272",
+      "supplier_nomenclature": "NSII0025292631",
+      "checked_at_utc": "2026-11-13T15:07:04.684750+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1274",
+      "supplier_nomenclature": "NSII0025742183",
+      "checked_at_utc": "2026-11-13T15:07:05.489758+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1275",
+      "supplier_nomenclature": "NSII0025742184",
+      "checked_at_utc": "2026-11-13T15:07:06.659544+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1276",
+      "supplier_nomenclature": "NSII0025292605",
+      "checked_at_utc": "2026-11-13T15:07:07.783971+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1278",
+      "supplier_nomenclature": "NSII0025292607",
+      "checked_at_utc": "2026-11-13T15:07:08.568093+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1281",
+      "supplier_nomenclature": "NSII0025292610",
+      "checked_at_utc": "2026-11-13T15:07:09.557278+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1288",
+      "supplier_nomenclature": "NSII0025742187",
+      "checked_at_utc": "2026-11-13T15:07:10.523635+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1292",
+      "supplier_nomenclature": "NSII0025296874",
+      "checked_at_utc": "2026-11-13T15:07:11.513765+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1293",
+      "supplier_nomenclature": "NSII0025292633",
+      "checked_at_utc": "2026-11-13T15:07:12.599379+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1296",
+      "supplier_nomenclature": "NSII0025742189",
+      "checked_at_utc": "2026-11-13T15:07:13.869689+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1297",
+      "supplier_nomenclature": "NSII0025742255",
+      "checked_at_utc": "2026-11-13T15:07:14.557779+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1299",
+      "supplier_nomenclature": "NSII0025742190",
+      "checked_at_utc": "2026-11-13T15:07:15.647658+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1300",
+      "supplier_nomenclature": "NSII0025292616",
+      "checked_at_utc": "2026-11-13T15:07:16.793370+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Тяги рулевые",
+      "brand": "SUFIX",
+      "article": "SD1305",
+      "supplier_nomenclature": "NSII0025742192",
+      "checked_at_utc": "2026-11-13T15:07:17.590612+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
