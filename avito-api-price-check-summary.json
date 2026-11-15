@@ -1,12 +1,15 @@
 {
-  "time_utc": "2026-11-14T21:37:02.873161+00:00",
+  "time_utc": "2026-11-15T21:58:00.301672+00:00",
   "approved_total": 243,
-  "available_approved_zero_day": 231,
-  "api_requests_attempted": 231,
-  "api_wholesale_confirmed": 231,
-  "api_not_confirmed": 0,
-  "success_rate": 1.0,
-  "failures": {},
+  "available_approved_zero_day": 232,
+  "api_requests_attempted": 232,
+  "api_wholesale_confirmed": 230,
+  "api_not_confirmed": 2,
+  "success_rate": 0.9914,
+  "failures": {
+    "exact_sku_not_found": 1,
+    "сбой_API_SSLError": 1
+  },
   "legacy_verified_retail_map_entries": 1077,
   "runtime_retail_map_entries": 1077,
   "min_acceptable_success_rate": 0.7,
