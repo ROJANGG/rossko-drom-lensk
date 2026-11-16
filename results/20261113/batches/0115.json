@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1343LR",
+      "supplier_nomenclature": "NSII0026169238",
+      "checked_at_utc": "2026-11-16T11:16:53.985906+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1367LR",
+      "supplier_nomenclature": "NSII0025915218",
+      "checked_at_utc": "2026-11-16T11:16:54.837948+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1379LR",
+      "supplier_nomenclature": "NSII0025915222",
+      "checked_at_utc": "2026-11-16T11:16:55.826254+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1412LR",
+      "supplier_nomenclature": "NSII0025915232",
+      "checked_at_utc": "2026-11-16T11:16:56.843173+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1417LR",
+      "supplier_nomenclature": "NSII0026546916",
+      "checked_at_utc": "2026-11-16T11:16:57.776156+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1419LR",
+      "supplier_nomenclature": "NSII0026546918",
+      "checked_at_utc": "2026-11-16T11:16:58.650038+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Mitsubishi",
+      "article": "MB303452",
+      "supplier_nomenclature": "NSIN0003405547",
+      "checked_at_utc": "2026-11-16T11:16:59.841110+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Nissan",
+      "article": "543203JA0A",
+      "supplier_nomenclature": "NSIN0020879469",
+      "checked_at_utc": "2026-11-16T11:17:00.960230+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Nissan",
+      "article": "54320JD00B",
+      "supplier_nomenclature": "NSIN0013771736",
+      "checked_at_utc": "2026-11-16T11:17:03.160750+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Pilenga",
+      "article": "CBP5051K",
+      "supplier_nomenclature": "NSII0019017293",
+      "checked_at_utc": "2026-11-16T11:17:04.104193+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Sidem",
+      "article": "853403",
+      "supplier_nomenclature": "NSII0016192659",
+      "checked_at_utc": "2026-11-16T11:17:04.411053+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Sidem",
+      "article": "863412",
+      "supplier_nomenclature": "NSII0016043515",
+      "checked_at_utc": "2026-11-16T11:17:05.736169+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Sidem",
+      "article": "867401",
+      "supplier_nomenclature": "NSIN0006944508",
+      "checked_at_utc": "2026-11-16T11:17:06.557358+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Stellox",
+      "article": "1217164SX",
+      "supplier_nomenclature": "NSII0009729599",
+      "checked_at_utc": "2026-11-16T11:17:07.247713+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1037",
+      "supplier_nomenclature": "NSII0025289587",
+      "checked_at_utc": "2026-11-16T11:17:08.606202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1080",
+      "supplier_nomenclature": "NSII0025740423",
+      "checked_at_utc": "2026-11-16T11:17:09.659735+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1086",
+      "supplier_nomenclature": "NSII0025289574",
+      "checked_at_utc": "2026-11-16T11:17:10.586180+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1091",
+      "supplier_nomenclature": "NSII0025289591",
+      "checked_at_utc": "2026-11-16T11:17:11.336239+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1109",
+      "supplier_nomenclature": "NSII0025289588",
+      "checked_at_utc": "2026-11-16T11:17:12.132767+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1122",
+      "supplier_nomenclature": "NSII0025289593",
+      "checked_at_utc": "2026-11-16T11:17:13.659539+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1127",
+      "supplier_nomenclature": "NSII0025289949",
+      "checked_at_utc": "2026-11-16T11:17:14.411735+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1160",
+      "supplier_nomenclature": "NSII0025289608",
+      "checked_at_utc": "2026-11-16T11:17:15.240344+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1171",
+      "supplier_nomenclature": "NSII0025289582",
+      "checked_at_utc": "2026-11-16T11:17:15.925539+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1174",
+      "supplier_nomenclature": "NSII0025289609",
+      "checked_at_utc": "2026-11-16T11:17:17.097988+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1179",
+      "supplier_nomenclature": "NSII0025289596",
+      "checked_at_utc": "2026-11-16T11:17:18.105034+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1194",
+      "supplier_nomenclature": "NSII0025289589",
+      "checked_at_utc": "2026-11-16T11:17:19.054297+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1201",
+      "supplier_nomenclature": "NSII0025289576",
+      "checked_at_utc": "2026-11-16T11:17:20.058932+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1235",
+      "supplier_nomenclature": "NSII0025289986",
+      "checked_at_utc": "2026-11-16T11:17:20.786850+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1236",
+      "supplier_nomenclature": "NSII0025289987",
+      "checked_at_utc": "2026-11-16T11:17:22.138207+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1244",
+      "supplier_nomenclature": "NSII0025289584",
+      "checked_at_utc": "2026-11-16T11:17:22.886822+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1255",
+      "supplier_nomenclature": "NSII0025289600",
+      "checked_at_utc": "2026-11-16T11:17:24.501073+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1267",
+      "supplier_nomenclature": "NSII0025289601",
+      "checked_at_utc": "2026-11-16T11:17:25.088322+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1278",
+      "supplier_nomenclature": "NSII0025289602",
+      "checked_at_utc": "2026-11-16T11:17:25.857325+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1293",
+      "supplier_nomenclature": "NSII0025289586",
+      "checked_at_utc": "2026-11-16T11:17:27.351143+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1302",
+      "supplier_nomenclature": "NSII0025290000",
+      "checked_at_utc": "2026-11-16T11:17:28.735771+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1308",
+      "supplier_nomenclature": "NSII0025740425",
+      "checked_at_utc": "2026-11-16T11:17:29.006048+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1310",
+      "supplier_nomenclature": "NSII0025740426",
+      "checked_at_utc": "2026-11-16T11:17:30.970220+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1315",
+      "supplier_nomenclature": "NSII0027087053",
+      "checked_at_utc": "2026-11-16T11:17:31.133437+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1316",
+      "supplier_nomenclature": "NSII0027087054",
+      "checked_at_utc": "2026-11-16T11:17:32.029956+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "FM1317",
+      "supplier_nomenclature": "NSII0027087055",
+      "checked_at_utc": "2026-11-16T11:17:33.491245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SK1001",
+      "supplier_nomenclature": "NSII0024849332",
+      "checked_at_utc": "2026-11-16T11:17:34.066562+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SL1013",
+      "supplier_nomenclature": "NSII0024849465",
+      "checked_at_utc": "2026-11-16T11:17:35.270838+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SL1227",
+      "supplier_nomenclature": "NSII0024849339",
+      "checked_at_utc": "2026-11-16T11:17:35.943281+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SL1389",
+      "supplier_nomenclature": "NSII0024849702",
+      "checked_at_utc": "2026-11-16T11:17:37.182562+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SL1590",
+      "supplier_nomenclature": "NSII0025291452",
+      "checked_at_utc": "2026-11-16T11:17:37.824739+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SL1830",
+      "supplier_nomenclature": "NSII0025291454",
+      "checked_at_utc": "2026-11-16T11:17:38.872113+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SL1949",
+      "supplier_nomenclature": "NSII0025291457",
+      "checked_at_utc": "2026-11-16T11:17:39.970954+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SL2465",
+      "supplier_nomenclature": "NSII0025291459",
+      "checked_at_utc": "2026-11-16T11:17:40.777146+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1019",
+      "supplier_nomenclature": "NSII0025741562",
+      "checked_at_utc": "2026-11-16T11:17:42.462899+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1020",
+      "supplier_nomenclature": "NSII0025741597",
+      "checked_at_utc": "2026-11-16T11:17:43.296473+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1101",
+      "supplier_nomenclature": "NSII0025741553",
+      "checked_at_utc": "2026-11-16T11:17:43.974740+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1168",
+      "supplier_nomenclature": "NSII0025741554",
+      "checked_at_utc": "2026-11-16T11:17:45.072402+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1175",
+      "supplier_nomenclature": "NSII0025741565",
+      "checked_at_utc": "2026-11-16T11:17:46.074803+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1176",
+      "supplier_nomenclature": "NSII0025741599",
+      "checked_at_utc": "2026-11-16T11:17:47.561622+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1182",
+      "supplier_nomenclature": "NSII0025741600",
+      "checked_at_utc": "2026-11-16T11:17:48.010768+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1184",
+      "supplier_nomenclature": "NSII0025741566",
+      "checked_at_utc": "2026-11-16T11:17:49.262200+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1239",
+      "supplier_nomenclature": "NSII0025741568",
+      "checked_at_utc": "2026-11-16T11:17:49.793773+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1240",
+      "supplier_nomenclature": "NSII0025741602",
+      "checked_at_utc": "2026-11-16T11:17:51.191158+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1253",
+      "supplier_nomenclature": "NSII0025741569",
+      "checked_at_utc": "2026-11-16T11:17:51.964075+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1254",
+      "supplier_nomenclature": "NSII0025741603",
+      "checked_at_utc": "2026-11-16T11:17:52.999796+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1313",
+      "supplier_nomenclature": "NSII0025741574",
+      "checked_at_utc": "2026-11-16T11:17:53.975793+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1314",
+      "supplier_nomenclature": "NSII0025741608",
+      "checked_at_utc": "2026-11-16T11:17:54.938401+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1325",
+      "supplier_nomenclature": "NSII0025741575",
+      "checked_at_utc": "2026-11-16T11:17:55.883046+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1326",
+      "supplier_nomenclature": "NSII0025741609",
+      "checked_at_utc": "2026-11-16T11:17:56.896151+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1377",
+      "supplier_nomenclature": "NSII0025741577",
+      "checked_at_utc": "2026-11-16T11:17:57.909875+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1411",
+      "supplier_nomenclature": "NSII0025741579",
+      "checked_at_utc": "2026-11-16T11:17:58.990624+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1412",
+      "supplier_nomenclature": "NSII0025741613",
+      "checked_at_utc": "2026-11-16T11:17:59.918587+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1485",
+      "supplier_nomenclature": "NSII0025741584",
+      "checked_at_utc": "2026-11-16T11:18:01.102740+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1486",
+      "supplier_nomenclature": "NSII0025741618",
+      "checked_at_utc": "2026-11-16T11:18:02.084029+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1517",
+      "supplier_nomenclature": "NSII0025741585",
+      "checked_at_utc": "2026-11-16T11:18:03.896860+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1518",
+      "supplier_nomenclature": "NSII0025741619",
+      "checked_at_utc": "2026-11-16T11:18:04.023276+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1748",
+      "supplier_nomenclature": "NSII0025741590",
+      "checked_at_utc": "2026-11-16T11:18:05.052252+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1749",
+      "supplier_nomenclature": "NSII0025741623",
+      "checked_at_utc": "2026-11-16T11:18:05.982755+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1762",
+      "supplier_nomenclature": "NSII0025741591",
+      "checked_at_utc": "2026-11-16T11:18:07.256106+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1763",
+      "supplier_nomenclature": "NSII0025741624",
+      "checked_at_utc": "2026-11-16T11:18:07.904974+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1768",
+      "supplier_nomenclature": "NSII0028952394",
+      "checked_at_utc": "2026-11-16T11:18:09.010986+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1769",
+      "supplier_nomenclature": "NSII0028952413",
+      "checked_at_utc": "2026-11-16T11:18:10.033739+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1818",
+      "supplier_nomenclature": "NSII0025741594",
+      "checked_at_utc": "2026-11-16T11:18:11.115056+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1819",
+      "supplier_nomenclature": "NSII0025741627",
+      "checked_at_utc": "2026-11-16T11:18:12.422327+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1872",
+      "supplier_nomenclature": "NSII0028952398",
+      "checked_at_utc": "2026-11-16T11:18:13.314529+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1873",
+      "supplier_nomenclature": "NSII0028952417",
+      "checked_at_utc": "2026-11-16T11:18:14.255392+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1880",
+      "supplier_nomenclature": "NSII0028952403",
+      "checked_at_utc": "2026-11-16T11:18:15.239828+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1881",
+      "supplier_nomenclature": "NSII0028952421",
+      "checked_at_utc": "2026-11-16T11:18:15.846891+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1922",
+      "supplier_nomenclature": "NSII0028952404",
+      "checked_at_utc": "2026-11-16T11:18:17.096626+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1923",
+      "supplier_nomenclature": "NSII0028952422",
+      "checked_at_utc": "2026-11-16T11:18:17.998966+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1924",
+      "supplier_nomenclature": "NSII0028952425",
+      "checked_at_utc": "2026-11-16T11:18:19.153658+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1925",
+      "supplier_nomenclature": "NSII0028952389",
+      "checked_at_utc": "2026-11-16T11:18:19.902103+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1926",
+      "supplier_nomenclature": "NSII0028952408",
+      "checked_at_utc": "2026-11-16T11:18:21.372207+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1927",
+      "supplier_nomenclature": "NSII0028952424",
+      "checked_at_utc": "2026-11-16T11:18:21.814372+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1928",
+      "supplier_nomenclature": "NSII0028952423",
+      "checked_at_utc": "2026-11-16T11:18:22.896362+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1930",
+      "supplier_nomenclature": "NSII0028952420",
+      "checked_at_utc": "2026-11-16T11:18:23.956756+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1931",
+      "supplier_nomenclature": "NSII0028952397",
+      "checked_at_utc": "2026-11-16T11:18:25.044505+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1932",
+      "supplier_nomenclature": "NSII0028952416",
+      "checked_at_utc": "2026-11-16T11:18:25.892466+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1934",
+      "supplier_nomenclature": "NSII0028952407",
+      "checked_at_utc": "2026-11-16T11:18:26.944057+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1935",
+      "supplier_nomenclature": "NSII0028952395",
+      "checked_at_utc": "2026-11-16T11:18:27.918002+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1936",
+      "supplier_nomenclature": "NSII0028952414",
+      "checked_at_utc": "2026-11-16T11:18:29.113163+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1937",
+      "supplier_nomenclature": "NSII0028952392",
+      "checked_at_utc": "2026-11-16T11:18:30.086148+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1938",
+      "supplier_nomenclature": "NSII0028952411",
+      "checked_at_utc": "2026-11-16T11:18:30.779645+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1939",
+      "supplier_nomenclature": "NSII0028952390",
+      "checked_at_utc": "2026-11-16T11:18:31.942880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1940",
+      "supplier_nomenclature": "NSII0028952409",
+      "checked_at_utc": "2026-11-16T11:18:32.818582+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
