@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1941",
+      "supplier_nomenclature": "NSII0028952391",
+      "checked_at_utc": "2026-11-16T11:18:35.424068+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1942",
+      "supplier_nomenclature": "NSII0028952410",
+      "checked_at_utc": "2026-11-16T11:18:36.307621+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1945",
+      "supplier_nomenclature": "NSII0028952399",
+      "checked_at_utc": "2026-11-16T11:18:37.446896+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1946",
+      "supplier_nomenclature": "NSII0028952418",
+      "checked_at_utc": "2026-11-16T11:18:38.383239+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1951",
+      "supplier_nomenclature": "NSII0028952400",
+      "checked_at_utc": "2026-11-16T11:18:40.108413+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1952",
+      "supplier_nomenclature": "NSII0028952419",
+      "checked_at_utc": "2026-11-16T11:18:40.324093+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1953",
+      "supplier_nomenclature": "NSII0028952396",
+      "checked_at_utc": "2026-11-16T11:18:41.739751+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1954",
+      "supplier_nomenclature": "NSII0028952415",
+      "checked_at_utc": "2026-11-16T11:18:42.492460+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1955",
+      "supplier_nomenclature": "NSII0028952387",
+      "checked_at_utc": "2026-11-16T11:18:43.473986+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1956",
+      "supplier_nomenclature": "NSII0028952406",
+      "checked_at_utc": "2026-11-16T11:18:44.422102+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1957",
+      "supplier_nomenclature": "NSII0028952393",
+      "checked_at_utc": "2026-11-16T11:18:45.505135+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "SUFIX",
+      "article": "SU1958",
+      "supplier_nomenclature": "NSII0028952412",
+      "checked_at_utc": "2026-11-16T11:18:46.620229+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Toyota",
+      "article": "4860933170",
+      "supplier_nomenclature": "NSIN0004470349",
+      "checked_at_utc": "2026-11-16T11:18:47.887550+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG01161",
+      "supplier_nomenclature": "NSII0015591342",
+      "checked_at_utc": "2026-11-16T11:18:49.615529+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG01063",
+      "supplier_nomenclature": "NSII0014971083",
+      "checked_at_utc": "2026-11-16T11:18:49.683755+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG01362",
+      "supplier_nomenclature": "NSII0015591351",
+      "checked_at_utc": "2026-11-16T11:18:50.717014+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG08153",
+      "supplier_nomenclature": "NSII0014971117",
+      "checked_at_utc": "2026-11-16T11:18:52.137318+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG08354",
+      "supplier_nomenclature": "NSII0014971167",
+      "checked_at_utc": "2026-11-16T11:18:53.127319+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG09053",
+      "supplier_nomenclature": "NSII0014971237",
+      "checked_at_utc": "2026-11-16T11:18:53.958936+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG09059",
+      "supplier_nomenclature": "NSII0018275513",
+      "checked_at_utc": "2026-11-16T11:18:54.468134+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG14156",
+      "supplier_nomenclature": "NSII0015591453",
+      "checked_at_utc": "2026-11-16T11:18:55.939720+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG14357",
+      "supplier_nomenclature": "NSII0015591478",
+      "checked_at_utc": "2026-11-16T11:18:56.717734+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG18050",
+      "supplier_nomenclature": "NSII0015591443",
+      "checked_at_utc": "2026-11-16T11:18:58.613605+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG18058",
+      "supplier_nomenclature": "NSII0015591388",
+      "checked_at_utc": "2026-11-16T11:18:58.971785+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG19152",
+      "supplier_nomenclature": "NSII0015591461",
+      "checked_at_utc": "2026-11-16T11:18:58.971943+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG19150",
+      "supplier_nomenclature": "NSII0015591460",
+      "checked_at_utc": "2026-11-16T11:18:59.908665+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG19166",
+      "supplier_nomenclature": "NSII0015779646",
+      "checked_at_utc": "2026-11-16T11:19:00.442127+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG19179",
+      "supplier_nomenclature": "NSII0020105647",
+      "checked_at_utc": "2026-11-16T11:19:01.521524+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG19353",
+      "supplier_nomenclature": "NSII0015591484",
+      "checked_at_utc": "2026-11-16T11:19:01.521667+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG19367",
+      "supplier_nomenclature": "NSII0015779657",
+      "checked_at_utc": "2026-11-16T11:19:03.435562+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG19351",
+      "supplier_nomenclature": "NSII0015591556",
+      "checked_at_utc": "2026-11-16T11:19:03.552975+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG19380",
+      "supplier_nomenclature": "NSII0020105658",
+      "checked_at_utc": "2026-11-16T11:19:04.306524+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG20160",
+      "supplier_nomenclature": "NSII0018464424",
+      "checked_at_utc": "2026-11-16T11:19:05.567744+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG20361",
+      "supplier_nomenclature": "NSII0018464425",
+      "checked_at_utc": "2026-11-16T11:19:06.791774+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG25160",
+      "supplier_nomenclature": "NSII0028498051",
+      "checked_at_utc": "2026-11-16T11:19:07.572885+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AG25361",
+      "supplier_nomenclature": "NSII0028498052",
+      "checked_at_utc": "2026-11-16T11:19:08.645644+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AH01161",
+      "supplier_nomenclature": "NSII0015293011",
+      "checked_at_utc": "2026-11-16T11:19:09.829483+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Trialli",
+      "article": "AH01362",
+      "supplier_nomenclature": "NSII0015591356",
+      "checked_at_utc": "2026-11-16T11:19:11.263420+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1042",
+      "supplier_nomenclature": "NSII0019853141",
+      "checked_at_utc": "2026-11-16T11:19:12.432708+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "Brave",
+      "article": "BRSC12",
+      "supplier_nomenclature": "NSII0026235374",
+      "checked_at_utc": "2026-11-16T11:19:12.877214+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1093",
+      "supplier_nomenclature": "NSII0019853176",
+      "checked_at_utc": "2026-11-16T11:19:13.244010+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1111",
+      "supplier_nomenclature": "NSII0019852365",
+      "checked_at_utc": "2026-11-16T11:19:14.211491+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1123",
+      "supplier_nomenclature": "NSII0019852373",
+      "checked_at_utc": "2026-11-16T11:19:15.653659+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1196",
+      "supplier_nomenclature": "NSII0019853182",
+      "checked_at_utc": "2026-11-16T11:19:16.481416+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1220",
+      "supplier_nomenclature": "NSII0019853206",
+      "checked_at_utc": "2026-11-16T11:19:17.600635+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1391",
+      "supplier_nomenclature": "NSII0019853363",
+      "checked_at_utc": "2026-11-16T11:19:18.600524+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1395",
+      "supplier_nomenclature": "NSII0019853365",
+      "checked_at_utc": "2026-11-16T11:19:19.680897+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1429",
+      "supplier_nomenclature": "NSII0019853391",
+      "checked_at_utc": "2026-11-16T11:19:20.300784+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1486",
+      "supplier_nomenclature": "NSII0019853435",
+      "checked_at_utc": "2026-11-16T11:19:21.274524+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1499",
+      "supplier_nomenclature": "NSII0019853447",
+      "checked_at_utc": "2026-11-16T11:19:22.375089+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1571",
+      "supplier_nomenclature": "NSII0019853513",
+      "checked_at_utc": "2026-11-16T11:19:23.277343+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1605",
+      "supplier_nomenclature": "NSII0019853541",
+      "checked_at_utc": "2026-11-16T11:19:24.284222+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1627",
+      "supplier_nomenclature": "NSII0019853561",
+      "checked_at_utc": "2026-11-16T11:19:25.562162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1672",
+      "supplier_nomenclature": "NSII0019853605",
+      "checked_at_utc": "2026-11-16T11:19:26.190738+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1693",
+      "supplier_nomenclature": "NSII0019853623",
+      "checked_at_utc": "2026-11-16T11:19:27.522250+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1694",
+      "supplier_nomenclature": "NSII0019853624",
+      "checked_at_utc": "2026-11-16T11:19:28.430995+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1722",
+      "supplier_nomenclature": "NSII0019853646",
+      "checked_at_utc": "2026-11-16T11:19:29.332809+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1742",
+      "supplier_nomenclature": "NSII0019853664",
+      "checked_at_utc": "2026-11-16T11:19:30.229276+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1834",
+      "supplier_nomenclature": "NSII0019853744",
+      "checked_at_utc": "2026-11-16T11:19:31.545795+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1875",
+      "supplier_nomenclature": "NSII0019853782",
+      "checked_at_utc": "2026-11-16T11:19:32.377270+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC1929",
+      "supplier_nomenclature": "NSII0019853834",
+      "checked_at_utc": "2026-11-16T11:19:33.269562+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2013",
+      "supplier_nomenclature": "NSII0019853905",
+      "checked_at_utc": "2026-11-16T11:19:34.199275+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2015",
+      "supplier_nomenclature": "NSII0019853907",
+      "checked_at_utc": "2026-11-16T11:19:35.296152+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2028",
+      "supplier_nomenclature": "NSII0019853918",
+      "checked_at_utc": "2026-11-16T11:19:36.344941+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2039",
+      "supplier_nomenclature": "NSII0019853929",
+      "checked_at_utc": "2026-11-16T11:19:37.287938+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2079",
+      "supplier_nomenclature": "NSII0019853963",
+      "checked_at_utc": "2026-11-16T11:19:38.272384+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2102",
+      "supplier_nomenclature": "NSII0019853979",
+      "checked_at_utc": "2026-11-16T11:19:39.500071+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2135",
+      "supplier_nomenclature": "NSII0019852431",
+      "checked_at_utc": "2026-11-16T11:19:40.244107+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2144",
+      "supplier_nomenclature": "NSII0019852440",
+      "checked_at_utc": "2026-11-16T11:19:41.309713+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2159",
+      "supplier_nomenclature": "NSII0019852455",
+      "checked_at_utc": "2026-11-16T11:19:42.402893+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2271",
+      "supplier_nomenclature": "NSII0019852555",
+      "checked_at_utc": "2026-11-16T11:19:43.658418+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2304",
+      "supplier_nomenclature": "NSII0019852583",
+      "checked_at_utc": "2026-11-16T11:19:44.836911+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2472",
+      "supplier_nomenclature": "NSII0019852728",
+      "checked_at_utc": "2026-11-16T11:19:45.226888+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2491",
+      "supplier_nomenclature": "NSII0019852742",
+      "checked_at_utc": "2026-11-16T11:19:46.770473+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2585",
+      "supplier_nomenclature": "NSII0019852827",
+      "checked_at_utc": "2026-11-16T11:19:47.442701+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2621",
+      "supplier_nomenclature": "NSII0019852862",
+      "checked_at_utc": "2026-11-16T11:19:48.571476+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2659",
+      "supplier_nomenclature": "NSII0019852900",
+      "checked_at_utc": "2026-11-16T11:19:49.354590+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2667",
+      "supplier_nomenclature": "NSII0019852907",
+      "checked_at_utc": "2026-11-16T11:19:50.624556+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2675",
+      "supplier_nomenclature": "NSII0019852914",
+      "checked_at_utc": "2026-11-16T11:19:51.328304+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2702",
+      "supplier_nomenclature": "NSII0019852936",
+      "checked_at_utc": "2026-11-16T11:19:52.237065+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2723",
+      "supplier_nomenclature": "NSII0019852955",
+      "checked_at_utc": "2026-11-16T11:19:53.368454+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2794",
+      "supplier_nomenclature": "NSII0019853016",
+      "checked_at_utc": "2026-11-16T11:19:54.311648+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2801",
+      "supplier_nomenclature": "NSII0019853023",
+      "checked_at_utc": "2026-11-16T11:19:55.523845+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2832",
+      "supplier_nomenclature": "NSII0025392344",
+      "checked_at_utc": "2026-11-16T11:19:56.290077+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2856",
+      "supplier_nomenclature": "NSII0025006623",
+      "checked_at_utc": "2026-11-16T11:19:56.290228+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2848",
+      "supplier_nomenclature": "NSII0025392349",
+      "checked_at_utc": "2026-11-16T11:19:57.544067+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2881",
+      "supplier_nomenclature": "NSII0019978747",
+      "checked_at_utc": "2026-11-16T11:19:58.610458+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2885",
+      "supplier_nomenclature": "NSII0025392358",
+      "checked_at_utc": "2026-11-16T11:19:59.565269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2888",
+      "supplier_nomenclature": "NSII0025006625",
+      "checked_at_utc": "2026-11-16T11:20:00.346075+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2895",
+      "supplier_nomenclature": "NSII0019978728",
+      "checked_at_utc": "2026-11-16T11:20:01.981989+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2920",
+      "supplier_nomenclature": "NSII0025006631",
+      "checked_at_utc": "2026-11-16T11:20:02.570251+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2923",
+      "supplier_nomenclature": "NSII0025532888",
+      "checked_at_utc": "2026-11-16T11:20:03.377639+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2935",
+      "supplier_nomenclature": "NSII0024661704",
+      "checked_at_utc": "2026-11-16T11:20:04.294413+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2936",
+      "supplier_nomenclature": "NSII0025532890",
+      "checked_at_utc": "2026-11-16T11:20:05.214619+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2942",
+      "supplier_nomenclature": "NSII0025532894",
+      "checked_at_utc": "2026-11-16T11:20:06.299482+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2945",
+      "supplier_nomenclature": "NSII0025532896",
+      "checked_at_utc": "2026-11-16T11:20:07.204851+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2947",
+      "supplier_nomenclature": "NSII0024661701",
+      "checked_at_utc": "2026-11-16T11:20:08.398711+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2950",
+      "supplier_nomenclature": "NSII0024661696",
+      "checked_at_utc": "2026-11-16T11:20:09.541479+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2977",
+      "supplier_nomenclature": "NSII0026631134",
+      "checked_at_utc": "2026-11-16T11:20:10.262529+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "LYNXauto",
+      "article": "SC2985",
+      "supplier_nomenclature": "NSII0024661697",
+      "checked_at_utc": "2026-11-16T11:20:11.598891+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
