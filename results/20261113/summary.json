@@ -32,19 +32,19 @@
   },
   "inventory_created_at_utc": "2026-11-13T13:58:34.835654+00:00",
   "source_commit": "a40d587793be5eabce4ae4ac6b0ca5ed8cf539d1",
-  "updated_at_utc": "2026-11-16T11:38:39.603596+00:00",
+  "updated_at_utc": "2026-11-16T11:40:19.792003+00:00",
   "state": "RUNNING",
   "queue_total": 13008,
   "scope_sha256": "9a868ea5f5926ed4e1de15bf7945f8ba9ec79b086fec14fc79516bfcbccfecc4",
-  "checked": 12686,
-  "pending": 322,
-  "session_new_API_requests": 4129,
+  "checked": 12786,
+  "pending": 222,
+  "session_new_API_requests": 4228,
   "session_recent_cache_reused": 135,
   "status_counts": {
-    "Иркутск_есть_иной_срок": 10050,
+    "Иркутск_есть_иной_срок": 10149,
     "exact_sku_not_found": 9,
     "опт_Иркутск_подтвержден": 2560,
-    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 66,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 67,
     "склад_Иркутск_не_подтвержден": 1
   },
   "API_zero_day_candidate_count": 2560,
@@ -194,9 +194,9 @@
     {
       "category": "Ступичные подшипники",
       "queued": 551,
-      "checked": 243,
+      "checked": 343,
       "API_zero_day_candidates": 0,
-      "pending": 308
+      "pending": 208
     },
     {
       "category": "Форсунки топливные",
