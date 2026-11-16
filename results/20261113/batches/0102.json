@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7148LR",
+      "supplier_nomenclature": "NSIN0023129529",
+      "checked_at_utc": "2026-11-16T10:55:09.342159+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7150LR",
+      "supplier_nomenclature": "NSIN0023129530",
+      "checked_at_utc": "2026-11-16T10:55:10.660365+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7152LR",
+      "supplier_nomenclature": "NSII0019025046",
+      "checked_at_utc": "2026-11-16T10:55:10.733818+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7157LR",
+      "supplier_nomenclature": "NSIN0023129315",
+      "checked_at_utc": "2026-11-16T10:55:11.580293+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7163LR",
+      "supplier_nomenclature": "NSIN0023129534",
+      "checked_at_utc": "2026-11-16T10:55:13.568175+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7172L",
+      "supplier_nomenclature": "NSIN0023129411",
+      "checked_at_utc": "2026-11-16T10:55:13.577797+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7172R",
+      "supplier_nomenclature": "NSIN0023129629",
+      "checked_at_utc": "2026-11-16T10:55:14.660367+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7183L",
+      "supplier_nomenclature": "NSIN0023129414",
+      "checked_at_utc": "2026-11-16T10:55:16.666496+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7183R",
+      "supplier_nomenclature": "NSIN0023129632",
+      "checked_at_utc": "2026-11-16T10:55:17.083044+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7185LR",
+      "supplier_nomenclature": "NSIN0023129286",
+      "checked_at_utc": "2026-11-16T10:55:18.365074+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7188LR",
+      "supplier_nomenclature": "NSIN0023129498",
+      "checked_at_utc": "2026-11-16T10:55:19.256513+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7192L",
+      "supplier_nomenclature": "NSIN0023129415",
+      "checked_at_utc": "2026-11-16T10:55:19.456810+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7192R",
+      "supplier_nomenclature": "NSIN0023129633",
+      "checked_at_utc": "2026-11-16T10:55:20.500189+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7210LR",
+      "supplier_nomenclature": "NSIN0023129504",
+      "checked_at_utc": "2026-11-16T10:55:21.812616+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7214LR",
+      "supplier_nomenclature": "NSIN0023129296",
+      "checked_at_utc": "2026-11-16T10:55:23.671996+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7213LR",
+      "supplier_nomenclature": "NSIN0023129505",
+      "checked_at_utc": "2026-11-16T10:55:23.753245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7224L",
+      "supplier_nomenclature": "NSIN0023129450",
+      "checked_at_utc": "2026-11-16T10:55:24.625137+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7224R",
+      "supplier_nomenclature": "NSIN0023129668",
+      "checked_at_utc": "2026-11-16T10:55:25.775668+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7227L",
+      "supplier_nomenclature": "NSIN0023129452",
+      "checked_at_utc": "2026-11-16T10:55:27.165531+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7227R",
+      "supplier_nomenclature": "NSIN0023129670",
+      "checked_at_utc": "2026-11-16T10:55:27.780058+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7238LR",
+      "supplier_nomenclature": "NSIN0023129229",
+      "checked_at_utc": "2026-11-16T10:55:28.729100+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7241L",
+      "supplier_nomenclature": "NSIN0023129461",
+      "checked_at_utc": "2026-11-16T10:55:29.789832+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7241R",
+      "supplier_nomenclature": "NSIN0023129680",
+      "checked_at_utc": "2026-11-16T10:55:30.941222+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7242L",
+      "supplier_nomenclature": "NSIN0023129423",
+      "checked_at_utc": "2026-11-16T10:55:31.527289+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7242R",
+      "supplier_nomenclature": "NSIN0023129641",
+      "checked_at_utc": "2026-11-16T10:55:32.481124+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7245LR",
+      "supplier_nomenclature": "NSIN0023129507",
+      "checked_at_utc": "2026-11-16T10:55:32.481264+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7244LR",
+      "supplier_nomenclature": "NSIN0023129569",
+      "checked_at_utc": "2026-11-16T10:55:34.344288+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7254L",
+      "supplier_nomenclature": "NSIN0023129424",
+      "checked_at_utc": "2026-11-16T10:55:35.253589+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7254R",
+      "supplier_nomenclature": "NSIN0023129642",
+      "checked_at_utc": "2026-11-16T10:55:36.067778+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7255R",
+      "supplier_nomenclature": "NSIN0023129392",
+      "checked_at_utc": "2026-11-16T10:55:36.815722+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7258LR",
+      "supplier_nomenclature": "NSIN0023129524",
+      "checked_at_utc": "2026-11-16T10:55:38.302750+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7265LR",
+      "supplier_nomenclature": "NSIN0023129485",
+      "checked_at_utc": "2026-11-16T10:55:39.286294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7268L",
+      "supplier_nomenclature": "NSIN0023129407",
+      "checked_at_utc": "2026-11-16T10:55:39.375819+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7268R",
+      "supplier_nomenclature": "NSIN0023129625",
+      "checked_at_utc": "2026-11-16T10:55:40.612073+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7269LR",
+      "supplier_nomenclature": "NSIN0023129279",
+      "checked_at_utc": "2026-11-16T10:55:41.776052+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7271L",
+      "supplier_nomenclature": "NSIN0023129235",
+      "checked_at_utc": "2026-11-16T10:55:43.850028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7270LR",
+      "supplier_nomenclature": "NSIN0023129487",
+      "checked_at_utc": "2026-11-16T10:55:43.893650+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7271R",
+      "supplier_nomenclature": "NSIN0023129369",
+      "checked_at_utc": "2026-11-16T10:55:45.027080+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7278LR",
+      "supplier_nomenclature": "NSIN0023129365",
+      "checked_at_utc": "2026-11-16T10:55:46.835311+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7282LR",
+      "supplier_nomenclature": "NSIN0023129605",
+      "checked_at_utc": "2026-11-16T10:55:47.120196+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7284LR",
+      "supplier_nomenclature": "NSIN0023129509",
+      "checked_at_utc": "2026-11-16T10:55:47.917518+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7285LR",
+      "supplier_nomenclature": "NSIN0023129300",
+      "checked_at_utc": "2026-11-16T10:55:48.728381+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7286L",
+      "supplier_nomenclature": "NSIN0023129256",
+      "checked_at_utc": "2026-11-16T10:55:49.497317+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7286R",
+      "supplier_nomenclature": "NSIN0023129390",
+      "checked_at_utc": "2026-11-16T10:55:50.626675+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7287LR",
+      "supplier_nomenclature": "NSIN0023129510",
+      "checked_at_utc": "2026-11-16T10:55:52.195813+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7288LR",
+      "supplier_nomenclature": "NSIN0023129581",
+      "checked_at_utc": "2026-11-16T10:55:52.849360+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7289LR",
+      "supplier_nomenclature": "NSIN0023129511",
+      "checked_at_utc": "2026-11-16T10:55:55.038484+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7290LR",
+      "supplier_nomenclature": "NSIN0023129512",
+      "checked_at_utc": "2026-11-16T10:55:55.066785+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7292L",
+      "supplier_nomenclature": "NSIN0023129242",
+      "checked_at_utc": "2026-11-16T10:55:56.078415+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7292R",
+      "supplier_nomenclature": "NSIN0023129376",
+      "checked_at_utc": "2026-11-16T10:55:57.150810+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7293LR",
+      "supplier_nomenclature": "NSIN0023129513",
+      "checked_at_utc": "2026-11-16T10:55:58.493322+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7294LR",
+      "supplier_nomenclature": "NSIN0023129351",
+      "checked_at_utc": "2026-11-16T10:55:59.345045+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7295LR",
+      "supplier_nomenclature": "NSIN0023129582",
+      "checked_at_utc": "2026-11-16T10:56:00.363091+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7297LR",
+      "supplier_nomenclature": "NSIN0023129352",
+      "checked_at_utc": "2026-11-16T10:56:01.269947+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7301LR",
+      "supplier_nomenclature": "NSIN0023129586",
+      "checked_at_utc": "2026-11-16T10:56:02.045495+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7302L",
+      "supplier_nomenclature": "NSIN0023129257",
+      "checked_at_utc": "2026-11-16T10:56:03.619140+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7302R",
+      "supplier_nomenclature": "NSIN0023129391",
+      "checked_at_utc": "2026-11-16T10:56:04.080888+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7303LR",
+      "supplier_nomenclature": "NSIN0023129587",
+      "checked_at_utc": "2026-11-16T10:56:05.335777+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7310LR",
+      "supplier_nomenclature": "NSIN0023129591",
+      "checked_at_utc": "2026-11-16T10:56:06.638856+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7312LR",
+      "supplier_nomenclature": "NSIN0023129598",
+      "checked_at_utc": "2026-11-16T10:56:07.047153+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7316LR",
+      "supplier_nomenclature": "NSIN0023129280",
+      "checked_at_utc": "2026-11-16T10:56:07.771251+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7320L",
+      "supplier_nomenclature": "NSIN0023129402",
+      "checked_at_utc": "2026-11-16T10:56:09.268781+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7320R",
+      "supplier_nomenclature": "NSIN0023129620",
+      "checked_at_utc": "2026-11-16T10:56:10.569793+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7323LR",
+      "supplier_nomenclature": "NSIN0023129515",
+      "checked_at_utc": "2026-11-16T10:56:11.632960+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7326LR",
+      "supplier_nomenclature": "NSIN0023129230",
+      "checked_at_utc": "2026-11-16T10:56:12.471693+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7329L",
+      "supplier_nomenclature": "NSIN0023129469",
+      "checked_at_utc": "2026-11-16T10:56:13.365291+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7329R",
+      "supplier_nomenclature": "NSIN0023129688",
+      "checked_at_utc": "2026-11-16T10:56:14.104622+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7331L",
+      "supplier_nomenclature": "NSIN0023129395",
+      "checked_at_utc": "2026-11-16T10:56:15.057933+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7332L",
+      "supplier_nomenclature": "NSIN0023129396",
+      "checked_at_utc": "2026-11-16T10:56:16.101084+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7332R",
+      "supplier_nomenclature": "NSIN0023129614",
+      "checked_at_utc": "2026-11-16T10:56:16.992521+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7345LR",
+      "supplier_nomenclature": "NSIN0023129517",
+      "checked_at_utc": "2026-11-16T10:56:18.482021+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7346L",
+      "supplier_nomenclature": "NSIN0023129429",
+      "checked_at_utc": "2026-11-16T10:56:19.109379+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7346R",
+      "supplier_nomenclature": "NSIN0023129647",
+      "checked_at_utc": "2026-11-16T10:56:20.203660+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7360L",
+      "supplier_nomenclature": "NSIN0023129244",
+      "checked_at_utc": "2026-11-16T10:56:21.103886+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7362L",
+      "supplier_nomenclature": "NSIN0023129245",
+      "checked_at_utc": "2026-11-16T10:56:22.148046+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7362R",
+      "supplier_nomenclature": "NSIN0023129379",
+      "checked_at_utc": "2026-11-16T10:56:23.756283+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7363L",
+      "supplier_nomenclature": "NSIN0023129232",
+      "checked_at_utc": "2026-11-16T10:56:24.134817+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7363R",
+      "supplier_nomenclature": "NSIN0023129367",
+      "checked_at_utc": "2026-11-16T10:56:24.965928+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7368LR",
+      "supplier_nomenclature": "NSIN0023129322",
+      "checked_at_utc": "2026-11-16T10:56:27.088436+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7377LR",
+      "supplier_nomenclature": "NSIN0023129326",
+      "checked_at_utc": "2026-11-16T10:56:28.178532+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7369LR",
+      "supplier_nomenclature": "NSIN0023129542",
+      "checked_at_utc": "2026-11-16T10:56:28.617805+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7386LR",
+      "supplier_nomenclature": "NSIN0023129359",
+      "checked_at_utc": "2026-11-16T10:56:28.617946+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7381LR",
+      "supplier_nomenclature": "NSIN0023129554",
+      "checked_at_utc": "2026-11-16T10:56:29.724991+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7388L",
+      "supplier_nomenclature": "NSIN0023129432",
+      "checked_at_utc": "2026-11-16T10:56:29.961302+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7388R",
+      "supplier_nomenclature": "NSIN0023129650",
+      "checked_at_utc": "2026-11-16T10:56:31.474678+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7389R",
+      "supplier_nomenclature": "NSIN0023129651",
+      "checked_at_utc": "2026-11-16T10:56:32.209653+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7397L",
+      "supplier_nomenclature": "NSIN0023129457",
+      "checked_at_utc": "2026-11-16T10:56:33.476837+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7397R",
+      "supplier_nomenclature": "NSIN0023129676",
+      "checked_at_utc": "2026-11-16T10:56:34.054030+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7399L",
+      "supplier_nomenclature": "NSIN0023129458",
+      "checked_at_utc": "2026-11-16T10:56:35.265665+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7399R",
+      "supplier_nomenclature": "NSIN0023129677",
+      "checked_at_utc": "2026-11-16T10:56:36.168111+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7404LR",
+      "supplier_nomenclature": "NSIN0023129478",
+      "checked_at_utc": "2026-11-16T10:56:37.101487+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7407L",
+      "supplier_nomenclature": "NSIN0023129434",
+      "checked_at_utc": "2026-11-16T10:56:38.963202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7407R",
+      "supplier_nomenclature": "NSIN0023129652",
+      "checked_at_utc": "2026-11-16T10:56:39.256754+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7408LR",
+      "supplier_nomenclature": "NSIN0023129565",
+      "checked_at_utc": "2026-11-16T10:56:40.309937+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7410LR",
+      "supplier_nomenclature": "NSIN0023129599",
+      "checked_at_utc": "2026-11-16T10:56:41.755269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7413L",
+      "supplier_nomenclature": "NSIN0023129436",
+      "checked_at_utc": "2026-11-16T10:56:41.982987+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7413R",
+      "supplier_nomenclature": "NSIN0023129654",
+      "checked_at_utc": "2026-11-16T10:56:43.163628+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7414L",
+      "supplier_nomenclature": "NSIN0023129246",
+      "checked_at_utc": "2026-11-16T10:56:44.033958+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7420LR",
+      "supplier_nomenclature": "NSIN0023129231",
+      "checked_at_utc": "2026-11-16T10:56:45.552393+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "LYNXauto",
+      "article": "C7421LR",
+      "supplier_nomenclature": "NSIN0023129602",
+      "checked_at_utc": "2026-11-16T10:56:46.394370+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
