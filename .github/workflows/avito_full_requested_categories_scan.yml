@@ -1,4 +1,5 @@
 name: Avito - full requested-category candidate search
+# Resume the saved queue on 2026-11-16; timestamps remain explicit.
 on:
   workflow_dispatch:
   push:
