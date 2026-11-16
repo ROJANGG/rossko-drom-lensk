@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Опоры двигателя",
+      "brand": "G-AUTOPARTS",
+      "article": "GRM16478",
+      "supplier_nomenclature": "NSII0024581781",
+      "checked_at_utc": "2026-11-16T11:28:36.395357+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21006",
+      "supplier_nomenclature": "NSII0007164987",
+      "checked_at_utc": "2026-11-16T11:28:36.395492+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21004",
+      "supplier_nomenclature": "NSII0007165001",
+      "checked_at_utc": "2026-11-16T11:28:37.293092+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21008",
+      "supplier_nomenclature": "NSII0007164991",
+      "checked_at_utc": "2026-11-16T11:28:37.566257+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21011",
+      "supplier_nomenclature": "NSII0009892316",
+      "checked_at_utc": "2026-11-16T11:28:38.693910+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21015",
+      "supplier_nomenclature": "NSII0007164982",
+      "checked_at_utc": "2026-11-16T11:28:39.472169+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21017",
+      "supplier_nomenclature": "NSII0007164995",
+      "checked_at_utc": "2026-11-16T11:28:40.396929+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21019",
+      "supplier_nomenclature": "NSII0007165002",
+      "checked_at_utc": "2026-11-16T11:28:41.425871+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21021",
+      "supplier_nomenclature": "NSII0009808756",
+      "checked_at_utc": "2026-11-16T11:28:42.658633+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21023",
+      "supplier_nomenclature": "NSII0007164992",
+      "checked_at_utc": "2026-11-16T11:28:43.461026+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21025",
+      "supplier_nomenclature": "NSII0007164973",
+      "checked_at_utc": "2026-11-16T11:28:44.581294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21026",
+      "supplier_nomenclature": "NSII0007165000",
+      "checked_at_utc": "2026-11-16T11:28:45.468643+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21027",
+      "supplier_nomenclature": "NSII0007164989",
+      "checked_at_utc": "2026-11-16T11:28:46.337691+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21031",
+      "supplier_nomenclature": "NSII0009583879",
+      "checked_at_utc": "2026-11-16T11:28:47.511816+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21034",
+      "supplier_nomenclature": "NSII0007164994",
+      "checked_at_utc": "2026-11-16T11:28:48.580908+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21062",
+      "supplier_nomenclature": "NSII0014094469",
+      "checked_at_utc": "2026-11-16T11:28:49.312760+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE21121",
+      "supplier_nomenclature": "NSII0014094470",
+      "checked_at_utc": "2026-11-16T11:28:50.409853+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE22006",
+      "supplier_nomenclature": "NSII0009961188",
+      "checked_at_utc": "2026-11-16T11:28:51.638471+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "BE23060",
+      "supplier_nomenclature": "NSII0015454513",
+      "checked_at_utc": "2026-11-16T11:28:52.415090+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "ME21009",
+      "supplier_nomenclature": "NSII0019549173",
+      "checked_at_utc": "2026-11-16T11:28:53.401271+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "ME21011H",
+      "supplier_nomenclature": "NSII0019211898",
+      "checked_at_utc": "2026-11-16T11:28:54.855063+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "ME21014",
+      "supplier_nomenclature": "NSII0022698550",
+      "checked_at_utc": "2026-11-16T11:28:55.176869+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "ME21095H",
+      "supplier_nomenclature": "NSII0019211906",
+      "checked_at_utc": "2026-11-16T11:28:56.508431+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "ME23050",
+      "supplier_nomenclature": "NSII0012779290",
+      "checked_at_utc": "2026-11-16T11:28:57.576600+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "ME28065",
+      "supplier_nomenclature": "NSII0012779227",
+      "checked_at_utc": "2026-11-16T11:28:58.517294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "MI21031",
+      "supplier_nomenclature": "NSII0007165282",
+      "checked_at_utc": "2026-11-16T11:28:59.702597+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "MI21058",
+      "supplier_nomenclature": "NSII0012779205",
+      "checked_at_utc": "2026-11-16T11:29:00.621660+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "MI22019",
+      "supplier_nomenclature": "NSII0017127064",
+      "checked_at_utc": "2026-11-16T11:29:01.650712+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "MI22020",
+      "supplier_nomenclature": "NSII0012779197",
+      "checked_at_utc": "2026-11-16T11:29:02.539620+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "MI22045",
+      "supplier_nomenclature": "NSII0014094772",
+      "checked_at_utc": "2026-11-16T11:29:03.515993+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "JIKIU",
+      "article": "MI23038",
+      "supplier_nomenclature": "NSII0015234942",
+      "checked_at_utc": "2026-11-16T11:29:04.825082+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ0031EI",
+      "supplier_nomenclature": "NSII0027442784",
+      "checked_at_utc": "2026-11-16T11:29:05.508148+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ0057ZP",
+      "supplier_nomenclature": "NSII0026220148",
+      "checked_at_utc": "2026-11-16T11:29:06.535915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ0077ZP",
+      "supplier_nomenclature": "NSII0026530848",
+      "checked_at_utc": "2026-11-16T11:29:07.676388+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1034CS",
+      "supplier_nomenclature": "NSII0025971882",
+      "checked_at_utc": "2026-11-16T11:29:08.266944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1046PJ",
+      "supplier_nomenclature": "NSII0029230502",
+      "checked_at_utc": "2026-11-16T11:29:09.305923+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1049ZP",
+      "supplier_nomenclature": "NSII0026530911",
+      "checked_at_utc": "2026-11-16T11:29:10.400139+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1051ZP",
+      "supplier_nomenclature": "NSII0026530912",
+      "checked_at_utc": "2026-11-16T11:29:11.445820+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1052CS",
+      "supplier_nomenclature": "NSII0025719176",
+      "checked_at_utc": "2026-11-16T11:29:13.023883+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1054ZP",
+      "supplier_nomenclature": "NSII0026220157",
+      "checked_at_utc": "2026-11-16T11:29:14.335932+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1102ZP",
+      "supplier_nomenclature": "NSII0026517620",
+      "checked_at_utc": "2026-11-16T11:29:14.479050+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1110ZP",
+      "supplier_nomenclature": "NSII0026530885",
+      "checked_at_utc": "2026-11-16T11:29:15.528045+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1111ZP",
+      "supplier_nomenclature": "NSII0026220169",
+      "checked_at_utc": "2026-11-16T11:29:16.513919+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1112ZP",
+      "supplier_nomenclature": "NSII0026530886",
+      "checked_at_utc": "2026-11-16T11:29:17.327664+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1115ZP",
+      "supplier_nomenclature": "NSII0026530889",
+      "checked_at_utc": "2026-11-16T11:29:18.470293+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1127ZP",
+      "supplier_nomenclature": "NSII0026530894",
+      "checked_at_utc": "2026-11-16T11:29:19.320042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1128JC",
+      "supplier_nomenclature": "NSII0028919160",
+      "checked_at_utc": "2026-11-16T11:29:20.649870+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1133ZP",
+      "supplier_nomenclature": "NSII0026514114",
+      "checked_at_utc": "2026-11-16T11:29:21.266799+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1134ZP",
+      "supplier_nomenclature": "NSII0026474615",
+      "checked_at_utc": "2026-11-16T11:29:22.642451+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1135ZP",
+      "supplier_nomenclature": "NSII0026220180",
+      "checked_at_utc": "2026-11-16T11:29:23.251784+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Krauf",
+      "article": "MMZ1139ZP",
+      "supplier_nomenclature": "NSII0026530898",
+      "checked_at_utc": "2026-11-16T11:29:24.359921+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Lemforder",
+      "article": "3474301",
+      "supplier_nomenclature": "NSIN0023094639",
+      "checked_at_utc": "2026-11-16T11:29:25.395446+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1008",
+      "supplier_nomenclature": "NSII0011513250",
+      "checked_at_utc": "2026-11-16T11:29:26.415697+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1010",
+      "supplier_nomenclature": "NSII0011513252",
+      "checked_at_utc": "2026-11-16T11:29:27.686191+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1017",
+      "supplier_nomenclature": "NSII0011513259",
+      "checked_at_utc": "2026-11-16T11:29:28.685848+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1023",
+      "supplier_nomenclature": "NSII0011513265",
+      "checked_at_utc": "2026-11-16T11:29:29.534055+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1025",
+      "supplier_nomenclature": "NSII0011513267",
+      "checked_at_utc": "2026-11-16T11:29:30.435370+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1026",
+      "supplier_nomenclature": "NSII0011513268",
+      "checked_at_utc": "2026-11-16T11:29:32.009801+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1027",
+      "supplier_nomenclature": "NSII0011513269",
+      "checked_at_utc": "2026-11-16T11:29:32.904942+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1032",
+      "supplier_nomenclature": "NSII0011513274",
+      "checked_at_utc": "2026-11-16T11:29:33.590040+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1033",
+      "supplier_nomenclature": "NSII0011513275",
+      "checked_at_utc": "2026-11-16T11:29:34.762359+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1039",
+      "supplier_nomenclature": "NSII0011513281",
+      "checked_at_utc": "2026-11-16T11:29:35.456056+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1043",
+      "supplier_nomenclature": "NSII0011513285",
+      "checked_at_utc": "2026-11-16T11:29:36.460924+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1045",
+      "supplier_nomenclature": "NSII0011513287",
+      "checked_at_utc": "2026-11-16T11:29:37.622103+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1047",
+      "supplier_nomenclature": "NSII0011513289",
+      "checked_at_utc": "2026-11-16T11:29:38.339922+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1048",
+      "supplier_nomenclature": "NSII0011513290",
+      "checked_at_utc": "2026-11-16T11:29:39.570898+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1052",
+      "supplier_nomenclature": "NSII0011513294",
+      "checked_at_utc": "2026-11-16T11:29:40.968048+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1053",
+      "supplier_nomenclature": "NSII0013061239",
+      "checked_at_utc": "2026-11-16T11:29:41.507085+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1064",
+      "supplier_nomenclature": "NSII0011513305",
+      "checked_at_utc": "2026-11-16T11:29:42.450106+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1076",
+      "supplier_nomenclature": "NSII0011513314",
+      "checked_at_utc": "2026-11-16T11:29:43.411090+00:00",
+      "api_status": "склад_Иркутск_не_подтвержден",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1077",
+      "supplier_nomenclature": "NSII0011513315",
+      "checked_at_utc": "2026-11-16T11:29:44.502059+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1078",
+      "supplier_nomenclature": "NSII0011513316",
+      "checked_at_utc": "2026-11-16T11:29:45.348159+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1082",
+      "supplier_nomenclature": "NSII0011513320",
+      "checked_at_utc": "2026-11-16T11:29:46.501525+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1096",
+      "supplier_nomenclature": "NSII0011513334",
+      "checked_at_utc": "2026-11-16T11:29:47.715291+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1105",
+      "supplier_nomenclature": "NSII0011513343",
+      "checked_at_utc": "2026-11-16T11:29:48.513980+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1108",
+      "supplier_nomenclature": "NSII0011513346",
+      "checked_at_utc": "2026-11-16T11:29:49.804872+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1109",
+      "supplier_nomenclature": "NSII0011513347",
+      "checked_at_utc": "2026-11-16T11:29:50.713348+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1114",
+      "supplier_nomenclature": "NSII0011513352",
+      "checked_at_utc": "2026-11-16T11:29:51.383460+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1116",
+      "supplier_nomenclature": "NSII0011513354",
+      "checked_at_utc": "2026-11-16T11:29:52.556719+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1127",
+      "supplier_nomenclature": "NSII0011513365",
+      "checked_at_utc": "2026-11-16T11:29:53.468284+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1131",
+      "supplier_nomenclature": "NSII0011513369",
+      "checked_at_utc": "2026-11-16T11:29:54.727006+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1136",
+      "supplier_nomenclature": "NSII0011513374",
+      "checked_at_utc": "2026-11-16T11:29:55.610999+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1138",
+      "supplier_nomenclature": "NSII0011513376",
+      "checked_at_utc": "2026-11-16T11:29:56.730269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1141",
+      "supplier_nomenclature": "NSII0011513379",
+      "checked_at_utc": "2026-11-16T11:29:57.622262+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1143",
+      "supplier_nomenclature": "NSII0011513381",
+      "checked_at_utc": "2026-11-16T11:29:58.584542+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1149",
+      "supplier_nomenclature": "NSII0011513387",
+      "checked_at_utc": "2026-11-16T11:29:59.409261+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1150",
+      "supplier_nomenclature": "NSII0011513388",
+      "checked_at_utc": "2026-11-16T11:30:00.439054+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1153",
+      "supplier_nomenclature": "NSII0011513391",
+      "checked_at_utc": "2026-11-16T11:30:01.605001+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1155",
+      "supplier_nomenclature": "NSII0011513393",
+      "checked_at_utc": "2026-11-16T11:30:02.393214+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1169",
+      "supplier_nomenclature": "NSII0011513407",
+      "checked_at_utc": "2026-11-16T11:30:03.569328+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1183",
+      "supplier_nomenclature": "NSII0011513421",
+      "checked_at_utc": "2026-11-16T11:30:04.492140+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1187",
+      "supplier_nomenclature": "NSII0011513425",
+      "checked_at_utc": "2026-11-16T11:30:05.570959+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1188",
+      "supplier_nomenclature": "NSII0011513426",
+      "checked_at_utc": "2026-11-16T11:30:06.515761+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1190",
+      "supplier_nomenclature": "NSII0011513428",
+      "checked_at_utc": "2026-11-16T11:30:07.621983+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1193",
+      "supplier_nomenclature": "NSII0011513431",
+      "checked_at_utc": "2026-11-16T11:30:08.572304+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1194",
+      "supplier_nomenclature": "NSII0011513432",
+      "checked_at_utc": "2026-11-16T11:30:09.631117+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1196",
+      "supplier_nomenclature": "NSII0011513434",
+      "checked_at_utc": "2026-11-16T11:30:10.539198+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1197",
+      "supplier_nomenclature": "NSII0011513435",
+      "checked_at_utc": "2026-11-16T11:30:11.400937+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1200",
+      "supplier_nomenclature": "NSII0011513438",
+      "checked_at_utc": "2026-11-16T11:30:12.971215+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "LYNXauto",
+      "article": "ME1201",
+      "supplier_nomenclature": "NSII0011513439",
+      "checked_at_utc": "2026-11-16T11:30:13.449775+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
