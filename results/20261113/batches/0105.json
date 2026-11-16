@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241053",
+      "supplier_nomenclature": "NSII0028681796",
+      "checked_at_utc": "2026-11-16T11:00:10.841821+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241052",
+      "supplier_nomenclature": "NSII0028681802",
+      "checked_at_utc": "2026-11-16T11:00:10.841782+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241054",
+      "supplier_nomenclature": "NSII0028681479",
+      "checked_at_utc": "2026-11-16T11:00:12.574247+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241055",
+      "supplier_nomenclature": "NSII0028681485",
+      "checked_at_utc": "2026-11-16T11:00:13.700419+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241056",
+      "supplier_nomenclature": "NSII0028682061",
+      "checked_at_utc": "2026-11-16T11:00:13.826355+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241057",
+      "supplier_nomenclature": "NSII0028681950",
+      "checked_at_utc": "2026-11-16T11:00:14.730659+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241058",
+      "supplier_nomenclature": "NSII0028681970",
+      "checked_at_utc": "2026-11-16T11:00:16.010503+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241059",
+      "supplier_nomenclature": "NSII0028681981",
+      "checked_at_utc": "2026-11-16T11:00:16.953631+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241060",
+      "supplier_nomenclature": "NSII0028681451",
+      "checked_at_utc": "2026-11-16T11:00:17.622710+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241061",
+      "supplier_nomenclature": "NSII0028681450",
+      "checked_at_utc": "2026-11-16T11:00:18.747983+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241062",
+      "supplier_nomenclature": "NSII0028681257",
+      "checked_at_utc": "2026-11-16T11:00:19.566799+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241064",
+      "supplier_nomenclature": "NSII0028681746",
+      "checked_at_utc": "2026-11-16T11:00:20.873941+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241065",
+      "supplier_nomenclature": "NSII0028681755",
+      "checked_at_utc": "2026-11-16T11:00:21.836028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241066",
+      "supplier_nomenclature": "NSII0028681969",
+      "checked_at_utc": "2026-11-16T11:00:22.817282+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241067",
+      "supplier_nomenclature": "NSII0028681974",
+      "checked_at_utc": "2026-11-16T11:00:23.901202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241068",
+      "supplier_nomenclature": "NSII0028682259",
+      "checked_at_utc": "2026-11-16T11:00:24.868792+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241069",
+      "supplier_nomenclature": "NSII0028682262",
+      "checked_at_utc": "2026-11-16T11:00:26.031294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241070",
+      "supplier_nomenclature": "NSII0028682003",
+      "checked_at_utc": "2026-11-16T11:00:26.765742+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241071",
+      "supplier_nomenclature": "NSII0028682004",
+      "checked_at_utc": "2026-11-16T11:00:27.708162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241074",
+      "supplier_nomenclature": "NSII0028681608",
+      "checked_at_utc": "2026-11-16T11:00:29.408833+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241075",
+      "supplier_nomenclature": "NSII0028681600",
+      "checked_at_utc": "2026-11-16T11:00:30.043023+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241076",
+      "supplier_nomenclature": "NSII0028681362",
+      "checked_at_utc": "2026-11-16T11:00:31.057035+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241077",
+      "supplier_nomenclature": "NSII0028681358",
+      "checked_at_utc": "2026-11-16T11:00:31.633782+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241078",
+      "supplier_nomenclature": "NSII0028681169",
+      "checked_at_utc": "2026-11-16T11:00:32.558958+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241080",
+      "supplier_nomenclature": "NSII0028681434",
+      "checked_at_utc": "2026-11-16T11:00:33.963510+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241081",
+      "supplier_nomenclature": "NSII0028681720",
+      "checked_at_utc": "2026-11-16T11:00:34.777630+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241082",
+      "supplier_nomenclature": "NSII0028681425",
+      "checked_at_utc": "2026-11-16T11:00:35.715684+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241083",
+      "supplier_nomenclature": "NSII0028681426",
+      "checked_at_utc": "2026-11-16T11:00:36.767283+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241084",
+      "supplier_nomenclature": "NSII0028681549",
+      "checked_at_utc": "2026-11-16T11:00:38.001749+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241085",
+      "supplier_nomenclature": "NSII0028682266",
+      "checked_at_utc": "2026-11-16T11:00:39.463040+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241087",
+      "supplier_nomenclature": "NSII0028682223",
+      "checked_at_utc": "2026-11-16T11:00:39.968440+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241088",
+      "supplier_nomenclature": "NSII0028681769",
+      "checked_at_utc": "2026-11-16T11:00:40.825422+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241089",
+      "supplier_nomenclature": "NSII0028681764",
+      "checked_at_utc": "2026-11-16T11:00:42.247000+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241090",
+      "supplier_nomenclature": "NSII0028682201",
+      "checked_at_utc": "2026-11-16T11:00:43.235927+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241091",
+      "supplier_nomenclature": "NSII0028682208",
+      "checked_at_utc": "2026-11-16T11:00:44.351910+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241092",
+      "supplier_nomenclature": "NSII0028682002",
+      "checked_at_utc": "2026-11-16T11:00:45.162373+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241093",
+      "supplier_nomenclature": "NSII0028681223",
+      "checked_at_utc": "2026-11-16T11:00:45.759037+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241094",
+      "supplier_nomenclature": "NSII0028681184",
+      "checked_at_utc": "2026-11-16T11:00:46.919031+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241095",
+      "supplier_nomenclature": "NSII0028681765",
+      "checked_at_utc": "2026-11-16T11:00:47.726199+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241097",
+      "supplier_nomenclature": "NSII0028681179",
+      "checked_at_utc": "2026-11-16T11:00:48.831622+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241101",
+      "supplier_nomenclature": "NSII0028681753",
+      "checked_at_utc": "2026-11-16T11:00:49.867839+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241102",
+      "supplier_nomenclature": "NSII0028681528",
+      "checked_at_utc": "2026-11-16T11:00:51.022895+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241103",
+      "supplier_nomenclature": "NSII0028682243",
+      "checked_at_utc": "2026-11-16T11:00:52.002389+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241104",
+      "supplier_nomenclature": "NSII0028682236",
+      "checked_at_utc": "2026-11-16T11:00:53.625372+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241105",
+      "supplier_nomenclature": "NSII0028682211",
+      "checked_at_utc": "2026-11-16T11:00:54.090320+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241107",
+      "supplier_nomenclature": "NSII0028681876",
+      "checked_at_utc": "2026-11-16T11:00:54.699356+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241108",
+      "supplier_nomenclature": "NSII0028681499",
+      "checked_at_utc": "2026-11-16T11:00:55.976145+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241109",
+      "supplier_nomenclature": "NSII0028681489",
+      "checked_at_utc": "2026-11-16T11:00:56.822693+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241110",
+      "supplier_nomenclature": "NSII0028682227",
+      "checked_at_utc": "2026-11-16T11:00:58.455451+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241111",
+      "supplier_nomenclature": "NSII0028682303",
+      "checked_at_utc": "2026-11-16T11:00:59.201726+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241112",
+      "supplier_nomenclature": "NSII0028681799",
+      "checked_at_utc": "2026-11-16T11:00:59.634617+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241115",
+      "supplier_nomenclature": "NSII0028682126",
+      "checked_at_utc": "2026-11-16T11:01:00.797711+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241116",
+      "supplier_nomenclature": "NSII0028681505",
+      "checked_at_utc": "2026-11-16T11:01:02.481395+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241117",
+      "supplier_nomenclature": "NSII0028682180",
+      "checked_at_utc": "2026-11-16T11:01:03.073520+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241118",
+      "supplier_nomenclature": "NSII0028682175",
+      "checked_at_utc": "2026-11-16T11:01:04.009792+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241120",
+      "supplier_nomenclature": "NSII0028681196",
+      "checked_at_utc": "2026-11-16T11:01:04.687635+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241121",
+      "supplier_nomenclature": "NSII0028681233",
+      "checked_at_utc": "2026-11-16T11:01:05.867822+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241122",
+      "supplier_nomenclature": "NSII0028681322",
+      "checked_at_utc": "2026-11-16T11:01:06.813993+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241123",
+      "supplier_nomenclature": "NSII0028681302",
+      "checked_at_utc": "2026-11-16T11:01:07.938050+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241125",
+      "supplier_nomenclature": "NSII0028681542",
+      "checked_at_utc": "2026-11-16T11:01:08.754214+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241127",
+      "supplier_nomenclature": "NSII0028682140",
+      "checked_at_utc": "2026-11-16T11:01:10.414526+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241128",
+      "supplier_nomenclature": "NSII0028681858",
+      "checked_at_utc": "2026-11-16T11:01:10.671055+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241129",
+      "supplier_nomenclature": "NSII0028681839",
+      "checked_at_utc": "2026-11-16T11:01:11.901079+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241132",
+      "supplier_nomenclature": "NSII0028682137",
+      "checked_at_utc": "2026-11-16T11:01:12.937572+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241135",
+      "supplier_nomenclature": "NSII0028681002",
+      "checked_at_utc": "2026-11-16T11:01:13.774700+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241136",
+      "supplier_nomenclature": "NSII0028681008",
+      "checked_at_utc": "2026-11-16T11:01:14.854539+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241138",
+      "supplier_nomenclature": "NSII0028988373",
+      "checked_at_utc": "2026-11-16T11:01:16.281578+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241140",
+      "supplier_nomenclature": "NSII0028681710",
+      "checked_at_utc": "2026-11-16T11:01:16.281711+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241141",
+      "supplier_nomenclature": "NSII0028681718",
+      "checked_at_utc": "2026-11-16T11:01:16.281767+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241139",
+      "supplier_nomenclature": "NSII0028988374",
+      "checked_at_utc": "2026-11-16T11:01:16.774230+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241145",
+      "supplier_nomenclature": "NSII0028681048",
+      "checked_at_utc": "2026-11-16T11:01:17.969011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241146",
+      "supplier_nomenclature": "NSII0028681049",
+      "checked_at_utc": "2026-11-16T11:01:19.169096+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241147",
+      "supplier_nomenclature": "NSII0028681023",
+      "checked_at_utc": "2026-11-16T11:01:19.886916+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241148",
+      "supplier_nomenclature": "NSII0028681151",
+      "checked_at_utc": "2026-11-16T11:01:20.839813+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241149",
+      "supplier_nomenclature": "NSII0028681161",
+      "checked_at_utc": "2026-11-16T11:01:21.892294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241150",
+      "supplier_nomenclature": "NSII0028721260",
+      "checked_at_utc": "2026-11-16T11:01:22.534698+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241153",
+      "supplier_nomenclature": "NSII0028681837",
+      "checked_at_utc": "2026-11-16T11:01:23.874746+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241156",
+      "supplier_nomenclature": "NSII0028682287",
+      "checked_at_utc": "2026-11-16T11:01:25.348362+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241158",
+      "supplier_nomenclature": "NSII0028681789",
+      "checked_at_utc": "2026-11-16T11:01:25.614215+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241159",
+      "supplier_nomenclature": "NSII0028682168",
+      "checked_at_utc": "2026-11-16T11:01:27.069836+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241160",
+      "supplier_nomenclature": "NSII0028682158",
+      "checked_at_utc": "2026-11-16T11:01:28.341800+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241162",
+      "supplier_nomenclature": "NSII0028681480",
+      "checked_at_utc": "2026-11-16T11:01:29.187056+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241164",
+      "supplier_nomenclature": "NSII0028682301",
+      "checked_at_utc": "2026-11-16T11:01:30.167224+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241166",
+      "supplier_nomenclature": "NSII0028681603",
+      "checked_at_utc": "2026-11-16T11:01:30.805375+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241168",
+      "supplier_nomenclature": "NSII0028681382",
+      "checked_at_utc": "2026-11-16T11:01:31.627843+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241170",
+      "supplier_nomenclature": "NSII0028682135",
+      "checked_at_utc": "2026-11-16T11:01:32.926413+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241178",
+      "supplier_nomenclature": "NSII0028681614",
+      "checked_at_utc": "2026-11-16T11:01:34.116826+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241179",
+      "supplier_nomenclature": "NSII0028681750",
+      "checked_at_utc": "2026-11-16T11:01:34.992785+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241180",
+      "supplier_nomenclature": "NSII0028681743",
+      "checked_at_utc": "2026-11-16T11:01:35.914431+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241185",
+      "supplier_nomenclature": "NSII0028682007",
+      "checked_at_utc": "2026-11-16T11:01:36.685589+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241186",
+      "supplier_nomenclature": "NSII0028682086",
+      "checked_at_utc": "2026-11-16T11:01:38.179037+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241187",
+      "supplier_nomenclature": "NSII0028682078",
+      "checked_at_utc": "2026-11-16T11:01:39.106678+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241188",
+      "supplier_nomenclature": "NSII0028681622",
+      "checked_at_utc": "2026-11-16T11:01:39.796693+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241189",
+      "supplier_nomenclature": "NSII0028681170",
+      "checked_at_utc": "2026-11-16T11:01:40.809306+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241191",
+      "supplier_nomenclature": "NSII0028681620",
+      "checked_at_utc": "2026-11-16T11:01:41.950518+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241192",
+      "supplier_nomenclature": "NSII0028681635",
+      "checked_at_utc": "2026-11-16T11:01:42.684697+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241193",
+      "supplier_nomenclature": "NSII0028680620",
+      "checked_at_utc": "2026-11-16T11:01:43.748035+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241194",
+      "supplier_nomenclature": "NSII0028680618",
+      "checked_at_utc": "2026-11-16T11:01:44.682893+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241195",
+      "supplier_nomenclature": "NSII0028682006",
+      "checked_at_utc": "2026-11-16T11:01:46.330300+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "NGN",
+      "article": "241196",
+      "supplier_nomenclature": "NSII0028681998",
+      "checked_at_utc": "2026-11-16T11:01:47.135252+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
