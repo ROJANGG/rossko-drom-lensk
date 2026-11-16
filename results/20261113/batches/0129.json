@@ -1,0 +1,851 @@
+{
+  "results": [
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511202",
+      "supplier_nomenclature": "NSII0028787655",
+      "checked_at_utc": "2026-11-16T11:40:23.991402+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511203",
+      "supplier_nomenclature": "NSII0028787676",
+      "checked_at_utc": "2026-11-16T11:40:24.964193+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511204",
+      "supplier_nomenclature": "NSII0028787677",
+      "checked_at_utc": "2026-11-16T11:40:25.124092+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511206",
+      "supplier_nomenclature": "NSII0028787679",
+      "checked_at_utc": "2026-11-16T11:40:26.095457+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511208",
+      "supplier_nomenclature": "NSII0028787605",
+      "checked_at_utc": "2026-11-16T11:40:27.909631+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511211",
+      "supplier_nomenclature": "NSII0028960332",
+      "checked_at_utc": "2026-11-16T11:40:28.821102+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511212",
+      "supplier_nomenclature": "NSII0028787498",
+      "checked_at_utc": "2026-11-16T11:40:29.296716+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511214",
+      "supplier_nomenclature": "NSII0028787797",
+      "checked_at_utc": "2026-11-16T11:40:30.384505+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511216",
+      "supplier_nomenclature": "NSII0028787507",
+      "checked_at_utc": "2026-11-16T11:40:31.270160+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511217",
+      "supplier_nomenclature": "NSII0028787508",
+      "checked_at_utc": "2026-11-16T11:40:32.245136+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511221",
+      "supplier_nomenclature": "NSII0028787561",
+      "checked_at_utc": "2026-11-16T11:40:33.391376+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511222",
+      "supplier_nomenclature": "NSII0028787728",
+      "checked_at_utc": "2026-11-16T11:40:34.187160+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511224",
+      "supplier_nomenclature": "NSII0028787727",
+      "checked_at_utc": "2026-11-16T11:40:35.374294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511225",
+      "supplier_nomenclature": "NSII0028787625",
+      "checked_at_utc": "2026-11-16T11:40:36.510311+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511227",
+      "supplier_nomenclature": "NSII0028787705",
+      "checked_at_utc": "2026-11-16T11:40:37.457157+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511229",
+      "supplier_nomenclature": "NSII0028787604",
+      "checked_at_utc": "2026-11-16T11:40:38.281309+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511230",
+      "supplier_nomenclature": "NSII0028787553",
+      "checked_at_utc": "2026-11-16T11:40:39.216601+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511231",
+      "supplier_nomenclature": "NSII0028787588",
+      "checked_at_utc": "2026-11-16T11:40:40.244072+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511232",
+      "supplier_nomenclature": "NSII0028787521",
+      "checked_at_utc": "2026-11-16T11:40:41.054058+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511234",
+      "supplier_nomenclature": "NSII0028787614",
+      "checked_at_utc": "2026-11-16T11:40:42.116673+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511238",
+      "supplier_nomenclature": "NSII0028787526",
+      "checked_at_utc": "2026-11-16T11:40:43.467395+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511239",
+      "supplier_nomenclature": "NSII0028787541",
+      "checked_at_utc": "2026-11-16T11:40:44.184556+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511243",
+      "supplier_nomenclature": "NSII0028787726",
+      "checked_at_utc": "2026-11-16T11:40:45.108305+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511246",
+      "supplier_nomenclature": "NSII0028787720",
+      "checked_at_utc": "2026-11-16T11:40:46.155879+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511247",
+      "supplier_nomenclature": "NSII0028787707",
+      "checked_at_utc": "2026-11-16T11:40:47.407429+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511251",
+      "supplier_nomenclature": "NSII0028960340",
+      "checked_at_utc": "2026-11-16T11:40:48.227385+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511254",
+      "supplier_nomenclature": "NSII0028960343",
+      "checked_at_utc": "2026-11-16T11:40:49.333504+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511255",
+      "supplier_nomenclature": "NSII0028787674",
+      "checked_at_utc": "2026-11-16T11:40:50.314150+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511257",
+      "supplier_nomenclature": "NSII0028960346",
+      "checked_at_utc": "2026-11-16T11:40:51.137313+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511258",
+      "supplier_nomenclature": "NSII0028787706",
+      "checked_at_utc": "2026-11-16T11:40:52.103907+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511259",
+      "supplier_nomenclature": "NSII0028787731",
+      "checked_at_utc": "2026-11-16T11:40:53.337882+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511274",
+      "supplier_nomenclature": "NSII0028787599",
+      "checked_at_utc": "2026-11-16T11:40:54.347555+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511277",
+      "supplier_nomenclature": "NSII0028787607",
+      "checked_at_utc": "2026-11-16T11:40:55.345953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511292",
+      "supplier_nomenclature": "NSII0028960360",
+      "checked_at_utc": "2026-11-16T11:40:56.625070+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511294",
+      "supplier_nomenclature": "NSII0028960361",
+      "checked_at_utc": "2026-11-16T11:40:56.963567+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511296",
+      "supplier_nomenclature": "NSII0028787714",
+      "checked_at_utc": "2026-11-16T11:40:58.031299+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511298",
+      "supplier_nomenclature": "NSII0028787693",
+      "checked_at_utc": "2026-11-16T11:41:00.222591+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511306",
+      "supplier_nomenclature": "NSII0028960275",
+      "checked_at_utc": "2026-11-16T11:41:00.228406+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511311",
+      "supplier_nomenclature": "NSII0028960282",
+      "checked_at_utc": "2026-11-16T11:41:01.772388+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511313",
+      "supplier_nomenclature": "NSII0028960285",
+      "checked_at_utc": "2026-11-16T11:41:02.448652+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511319",
+      "supplier_nomenclature": "NSII0028960292",
+      "checked_at_utc": "2026-11-16T11:41:03.517341+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511326",
+      "supplier_nomenclature": "NSII0028960303",
+      "checked_at_utc": "2026-11-16T11:41:04.356623+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511328",
+      "supplier_nomenclature": "NSII0028960305",
+      "checked_at_utc": "2026-11-16T11:41:05.314661+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511332",
+      "supplier_nomenclature": "NSII0028960309",
+      "checked_at_utc": "2026-11-16T11:41:06.332509+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511337",
+      "supplier_nomenclature": "NSII0028960316",
+      "checked_at_utc": "2026-11-16T11:41:07.404813+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511339",
+      "supplier_nomenclature": "NSII0028960319",
+      "checked_at_utc": "2026-11-16T11:41:08.350280+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511340",
+      "supplier_nomenclature": "NSII0028960320",
+      "checked_at_utc": "2026-11-16T11:41:09.517406+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511343",
+      "supplier_nomenclature": "NSII0028960323",
+      "checked_at_utc": "2026-11-16T11:41:10.362005+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511344",
+      "supplier_nomenclature": "NSII0028960325",
+      "checked_at_utc": "2026-11-16T11:41:11.211851+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511348",
+      "supplier_nomenclature": "NSII0028960330",
+      "checked_at_utc": "2026-11-16T11:41:12.379821+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511350",
+      "supplier_nomenclature": "NSII0028960334",
+      "checked_at_utc": "2026-11-16T11:41:13.402307+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511368",
+      "supplier_nomenclature": "NSII0028960358",
+      "checked_at_utc": "2026-11-16T11:41:14.219202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511370",
+      "supplier_nomenclature": "NSII0028960362",
+      "checked_at_utc": "2026-11-16T11:41:15.205071+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511372",
+      "supplier_nomenclature": "NSII0028960365",
+      "checked_at_utc": "2026-11-16T11:41:16.233137+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP0057",
+      "supplier_nomenclature": "NSIN0019725152",
+      "checked_at_utc": "2026-11-16T11:41:17.888996+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP0182",
+      "supplier_nomenclature": "NSII0007261489",
+      "checked_at_utc": "2026-11-16T11:41:19.144253+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP1306",
+      "supplier_nomenclature": "NSII0007261514",
+      "checked_at_utc": "2026-11-16T11:41:20.219245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP1307",
+      "supplier_nomenclature": "NSII0007261515",
+      "checked_at_utc": "2026-11-16T11:41:20.904166+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP1313",
+      "supplier_nomenclature": "NSII0007261516",
+      "checked_at_utc": "2026-11-16T11:41:21.993665+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP2170",
+      "supplier_nomenclature": "NSII0007199389",
+      "checked_at_utc": "2026-11-16T11:41:23.833234+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP3525",
+      "supplier_nomenclature": "NSII0009726014",
+      "checked_at_utc": "2026-11-16T11:41:24.455361+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP4003",
+      "supplier_nomenclature": "NSII0019018741",
+      "checked_at_utc": "2026-11-16T11:41:25.265022+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP4004",
+      "supplier_nomenclature": "NSII0019018743",
+      "checked_at_utc": "2026-11-16T11:41:26.652190+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP4100",
+      "supplier_nomenclature": "NSII0019018740",
+      "checked_at_utc": "2026-11-16T11:41:26.922157+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP5253K",
+      "supplier_nomenclature": "NSII0009722297",
+      "checked_at_utc": "2026-11-16T11:41:28.392968+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP6658",
+      "supplier_nomenclature": "NSII0019018738",
+      "checked_at_utc": "2026-11-16T11:41:29.031132+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP9041",
+      "supplier_nomenclature": "NSII0007261522",
+      "checked_at_utc": "2026-11-16T11:41:30.914148+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP6799",
+      "supplier_nomenclature": "NSII0015540280",
+      "checked_at_utc": "2026-11-16T11:41:31.034506+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Pilenga",
+      "article": "PWP9042",
+      "supplier_nomenclature": "NSII0007261523",
+      "checked_at_utc": "2026-11-16T11:41:32.026007+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SNR",
+      "article": "R15136S",
+      "supplier_nomenclature": "NSIN0018016462",
+      "checked_at_utc": "2026-11-16T11:41:32.026134+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SNR",
+      "article": "R15124",
+      "supplier_nomenclature": "NSIN0000117280",
+      "checked_at_utc": "2026-11-16T11:41:33.328645+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SNR",
+      "article": "R15464",
+      "supplier_nomenclature": "NSII0004506230",
+      "checked_at_utc": "2026-11-16T11:41:33.610095+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SNR",
+      "article": "R15954",
+      "supplier_nomenclature": "NSII0001063791",
+      "checked_at_utc": "2026-11-16T11:41:35.143550+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SNR",
+      "article": "R18012",
+      "supplier_nomenclature": "NSII0004506267",
+      "checked_at_utc": "2026-11-16T11:41:35.780813+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Stellox",
+      "article": "4030144SX",
+      "supplier_nomenclature": "NSII0019722498",
+      "checked_at_utc": "2026-11-16T11:41:36.865317+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Stellox",
+      "article": "4030453SX",
+      "supplier_nomenclature": "NSII0021310548",
+      "checked_at_utc": "2026-11-16T11:41:37.747215+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Stellox",
+      "article": "4328043SX",
+      "supplier_nomenclature": "NSII0002151811",
+      "checked_at_utc": "2026-11-16T11:41:39.075188+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Stellox",
+      "article": "4328081SX",
+      "supplier_nomenclature": "NSII0002151847",
+      "checked_at_utc": "2026-11-16T11:41:40.798661+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Stellox",
+      "article": "4329077SX",
+      "supplier_nomenclature": "NSII0016570760",
+      "checked_at_utc": "2026-11-16T11:41:40.834328+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Stellox",
+      "article": "4329186SX",
+      "supplier_nomenclature": "NSII0019016077",
+      "checked_at_utc": "2026-11-16T11:41:41.817549+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Stellox",
+      "article": "4329363SX",
+      "supplier_nomenclature": "NSII0024918600",
+      "checked_at_utc": "2026-11-16T11:41:42.862481+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1001",
+      "supplier_nomenclature": "NSII0024685090",
+      "checked_at_utc": "2026-11-16T11:41:44.294716+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1003",
+      "supplier_nomenclature": "NSII0024685092",
+      "checked_at_utc": "2026-11-16T11:41:44.955933+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1005",
+      "supplier_nomenclature": "NSII0024685094",
+      "checked_at_utc": "2026-11-16T11:41:46.072091+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1006",
+      "supplier_nomenclature": "NSII0024685095",
+      "checked_at_utc": "2026-11-16T11:41:47.095240+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1009",
+      "supplier_nomenclature": "NSII0024685097",
+      "checked_at_utc": "2026-11-16T11:41:48.067526+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1010",
+      "supplier_nomenclature": "NSII0024685098",
+      "checked_at_utc": "2026-11-16T11:41:49.177540+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1011",
+      "supplier_nomenclature": "NSII0024685099",
+      "checked_at_utc": "2026-11-16T11:41:49.953461+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1013",
+      "supplier_nomenclature": "NSII0024685101",
+      "checked_at_utc": "2026-11-16T11:41:58.109940+00:00",
+      "api_status": "сбой_API_SSLError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1012",
+      "supplier_nomenclature": "NSII0024685100",
+      "checked_at_utc": "2026-11-16T11:41:59.704309+00:00",
+      "api_status": "сбой_API_ConnectionError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1015",
+      "supplier_nomenclature": "NSII0024685103",
+      "checked_at_utc": "2026-11-16T11:42:15.110496+00:00",
+      "api_status": "сбой_API_SSLError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1017",
+      "supplier_nomenclature": "NSII0024685105",
+      "checked_at_utc": "2026-11-16T11:42:29.363866+00:00",
+      "api_status": "сбой_API_SSLError",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1016",
+      "supplier_nomenclature": "NSII0024685104",
+      "checked_at_utc": "2026-11-16T11:42:32.867209+00:00",
+      "api_status": "сбой_API_ReadTimeout",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1018",
+      "supplier_nomenclature": "NSII0024685106",
+      "checked_at_utc": "2026-11-16T11:42:42.136119+00:00",
+      "api_status": "сбой_API_ConnectionError",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
