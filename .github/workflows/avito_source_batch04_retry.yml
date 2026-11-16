@@ -1,4 +1,5 @@
 name: Avito - retry only three transient API failures
+# Exact three-SKU identity and duplicate-count guards verified locally.
 on:
   workflow_dispatch:
   push:

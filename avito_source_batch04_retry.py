@@ -17,7 +17,7 @@ def validate(records):
     scope=[[r['category'],r['brand'],r['article'],r['supplier_nomenclature']] for r in records]
     digest=hashlib.sha256(json.dumps(scope,ensure_ascii=False,separators=(',',':')).encode()).hexdigest()
     if len(records)!=3 or digest!=SCOPE_SHA256:raise ValueError('Unexpected exact 3-SKU retry scope')
-    if len({(canon(r['brand']),canon(r['article'])) for r in records})!=100:raise ValueError('Duplicate SKU')
+    if len({(canon(r['brand']),canon(r['article'])) for r in records})!=3:raise ValueError('Duplicate SKU')
     if any(r['category'] not in ('Ремни приводные',) for r in records):raise ValueError('Unexpected category')
 def review(records,found,client,creds,delivery,sleep=time.sleep,checkpoint=None):
     results=[];attempts=0;transient_streak=0
