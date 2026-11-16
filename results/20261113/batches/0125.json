@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4400",
+      "supplier_nomenclature": "NSII0025289674",
+      "checked_at_utc": "2026-11-16T11:33:36.157313+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4410",
+      "supplier_nomenclature": "NSII0025289675",
+      "checked_at_utc": "2026-11-16T11:33:36.933973+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4416",
+      "supplier_nomenclature": "NSII0025289736",
+      "checked_at_utc": "2026-11-16T11:33:37.915382+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4419",
+      "supplier_nomenclature": "NSII0025289765",
+      "checked_at_utc": "2026-11-16T11:33:38.920705+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4424",
+      "supplier_nomenclature": "NSII0025290244",
+      "checked_at_utc": "2026-11-16T11:33:39.872057+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4425",
+      "supplier_nomenclature": "NSII0025289737",
+      "checked_at_utc": "2026-11-16T11:33:40.780349+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4427",
+      "supplier_nomenclature": "NSII0025289629",
+      "checked_at_utc": "2026-11-16T11:33:41.782125+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4430",
+      "supplier_nomenclature": "NSII0025289811",
+      "checked_at_utc": "2026-11-16T11:33:42.996179+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4431",
+      "supplier_nomenclature": "NSII0025290181",
+      "checked_at_utc": "2026-11-16T11:33:44.119994+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4432",
+      "supplier_nomenclature": "NSII0025290215",
+      "checked_at_utc": "2026-11-16T11:33:44.802404+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4437",
+      "supplier_nomenclature": "NSII0025289843",
+      "checked_at_utc": "2026-11-16T11:33:45.833573+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4447",
+      "supplier_nomenclature": "NSII0025289747",
+      "checked_at_utc": "2026-11-16T11:33:45.833730+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4445",
+      "supplier_nomenclature": "NSII0025289676",
+      "checked_at_utc": "2026-11-16T11:33:47.049421+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4449",
+      "supplier_nomenclature": "NSII0025289679",
+      "checked_at_utc": "2026-11-16T11:33:48.027423+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4464",
+      "supplier_nomenclature": "NSII0025289844",
+      "checked_at_utc": "2026-11-16T11:33:48.027580+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4452",
+      "supplier_nomenclature": "NSII0025289738",
+      "checked_at_utc": "2026-11-16T11:33:48.782522+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4465",
+      "supplier_nomenclature": "NSII0025289754",
+      "checked_at_utc": "2026-11-16T11:33:49.984185+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4469",
+      "supplier_nomenclature": "NSII0025289741",
+      "checked_at_utc": "2026-11-16T11:33:50.713806+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4470",
+      "supplier_nomenclature": "NSII0025289630",
+      "checked_at_utc": "2026-11-16T11:33:52.111695+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4473",
+      "supplier_nomenclature": "NSII0025289742",
+      "checked_at_utc": "2026-11-16T11:33:53.177100+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4475",
+      "supplier_nomenclature": "NSII0025289845",
+      "checked_at_utc": "2026-11-16T11:33:54.748344+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4479",
+      "supplier_nomenclature": "NSII0025289763",
+      "checked_at_utc": "2026-11-16T11:33:55.063622+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4485",
+      "supplier_nomenclature": "NSII0025289637",
+      "checked_at_utc": "2026-11-16T11:33:55.892643+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4489",
+      "supplier_nomenclature": "NSII0025289817",
+      "checked_at_utc": "2026-11-16T11:33:56.956055+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4490",
+      "supplier_nomenclature": "NSII0025289850",
+      "checked_at_utc": "2026-11-16T11:33:58.092501+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4494",
+      "supplier_nomenclature": "NSII0025289744",
+      "checked_at_utc": "2026-11-16T11:33:58.831826+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4496",
+      "supplier_nomenclature": "NSII0025740414",
+      "checked_at_utc": "2026-11-16T11:33:59.906013+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4497",
+      "supplier_nomenclature": "NSII0025740416",
+      "checked_at_utc": "2026-11-16T11:34:00.965201+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4498",
+      "supplier_nomenclature": "NSII0025740412",
+      "checked_at_utc": "2026-11-16T11:34:01.896587+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4499",
+      "supplier_nomenclature": "NSII0025740415",
+      "checked_at_utc": "2026-11-16T11:34:03.237715+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4500",
+      "supplier_nomenclature": "NSII0025740410",
+      "checked_at_utc": "2026-11-16T11:34:03.906636+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4607",
+      "supplier_nomenclature": "NSII0028954774",
+      "checked_at_utc": "2026-11-16T11:34:04.928488+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4610",
+      "supplier_nomenclature": "NSII0028954777",
+      "checked_at_utc": "2026-11-16T11:34:05.915377+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4615",
+      "supplier_nomenclature": "NSII0028954782",
+      "checked_at_utc": "2026-11-16T11:34:06.740439+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4617",
+      "supplier_nomenclature": "NSII0028954784",
+      "checked_at_utc": "2026-11-16T11:34:08.209181+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4622",
+      "supplier_nomenclature": "NSII0028954789",
+      "checked_at_utc": "2026-11-16T11:34:08.806944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4623",
+      "supplier_nomenclature": "NSII0028954790",
+      "checked_at_utc": "2026-11-16T11:34:09.831739+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1001",
+      "supplier_nomenclature": "NSII0024117157",
+      "checked_at_utc": "2026-11-16T11:34:10.737149+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1027",
+      "supplier_nomenclature": "NSII0024068408",
+      "checked_at_utc": "2026-11-16T11:34:11.993402+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1034",
+      "supplier_nomenclature": "NSII0023744887",
+      "checked_at_utc": "2026-11-16T11:34:12.994394+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1059",
+      "supplier_nomenclature": "NSII0023745054",
+      "checked_at_utc": "2026-11-16T11:34:14.082831+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1110",
+      "supplier_nomenclature": "NSII0024117181",
+      "checked_at_utc": "2026-11-16T11:34:14.948245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1117",
+      "supplier_nomenclature": "NSII0024117184",
+      "checked_at_utc": "2026-11-16T11:34:16.101944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1118",
+      "supplier_nomenclature": "NSII0024068456",
+      "checked_at_utc": "2026-11-16T11:34:16.955119+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1159",
+      "supplier_nomenclature": "NSII0024068476",
+      "checked_at_utc": "2026-11-16T11:34:17.978148+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1165",
+      "supplier_nomenclature": "NSII0023744968",
+      "checked_at_utc": "2026-11-16T11:34:18.788219+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1225",
+      "supplier_nomenclature": "NSII0024068520",
+      "checked_at_utc": "2026-11-16T11:34:19.959684+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1232",
+      "supplier_nomenclature": "NSII0024068522",
+      "checked_at_utc": "2026-11-16T11:34:20.839283+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1243",
+      "supplier_nomenclature": "NSII0024068527",
+      "checked_at_utc": "2026-11-16T11:34:22.295238+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1265",
+      "supplier_nomenclature": "NSII0024155105",
+      "checked_at_utc": "2026-11-16T11:34:23.486064+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1292",
+      "supplier_nomenclature": "NSII0024068553",
+      "checked_at_utc": "2026-11-16T11:34:24.168653+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TATSUMI",
+      "article": "TEG1343",
+      "supplier_nomenclature": "NSII0023744822",
+      "checked_at_utc": "2026-11-16T11:34:25.276815+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Trialli",
+      "article": "RM0104",
+      "supplier_nomenclature": "NSII0015591836",
+      "checked_at_utc": "2026-11-16T11:34:26.120106+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Trialli",
+      "article": "RM0115",
+      "supplier_nomenclature": "NSII0014971594",
+      "checked_at_utc": "2026-11-16T11:34:26.965213+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Trialli",
+      "article": "RM0118",
+      "supplier_nomenclature": "NSII0015591840",
+      "checked_at_utc": "2026-11-16T11:34:27.920241+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Trialli",
+      "article": "RM0307",
+      "supplier_nomenclature": "NSII0015591838",
+      "checked_at_utc": "2026-11-16T11:34:28.849252+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "TRT",
+      "article": "NR1063",
+      "supplier_nomenclature": "NSII0020157816",
+      "checked_at_utc": "2026-11-16T11:34:30.719497+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DAC35770042",
+      "supplier_nomenclature": "NSII0007164459",
+      "checked_at_utc": "2026-11-16T11:34:30.980628+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DAC38803336",
+      "supplier_nomenclature": "NSII0009633716",
+      "checked_at_utc": "2026-11-16T11:34:32.820510+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DAC38700037",
+      "supplier_nomenclature": "NSII0007164477",
+      "checked_at_utc": "2026-11-16T11:34:32.907468+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DAC4276003835",
+      "supplier_nomenclature": "NSIN0020846530",
+      "checked_at_utc": "2026-11-16T11:34:33.891304+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DAC43760043",
+      "supplier_nomenclature": "NSII0007197538",
+      "checked_at_utc": "2026-11-16T11:34:35.455233+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DAC45820042",
+      "supplier_nomenclature": "NSII0007295029",
+      "checked_at_utc": "2026-11-16T11:34:36.273959+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DAC4584004139",
+      "supplier_nomenclature": "NSII0007164476",
+      "checked_at_utc": "2026-11-16T11:34:37.699856+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DAC45844042",
+      "supplier_nomenclature": "NSII0007164464",
+      "checked_at_utc": "2026-11-16T11:34:38.618714+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DACM32670040",
+      "supplier_nomenclature": "NSII0009633725",
+      "checked_at_utc": "2026-11-16T11:34:38.670138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DACM38740040",
+      "supplier_nomenclature": "NSII0009633727",
+      "checked_at_utc": "2026-11-16T11:34:40.033583+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "DACM51960050",
+      "supplier_nomenclature": "NSII0007197542",
+      "checked_at_utc": "2026-11-16T11:34:41.687998+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Asva",
+      "article": "NSWHV35R",
+      "supplier_nomenclature": "NSIN0020839804",
+      "checked_at_utc": "2026-11-16T11:34:42.364665+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "0247420",
+      "supplier_nomenclature": "NSII0026859521",
+      "checked_at_utc": "2026-11-16T11:34:42.852144+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "1788731",
+      "supplier_nomenclature": "NSII0026859523",
+      "checked_at_utc": "2026-11-16T11:34:43.774725+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "32010",
+      "supplier_nomenclature": "NSII0018300178",
+      "checked_at_utc": "2026-11-16T11:34:44.836489+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "35BCD08",
+      "supplier_nomenclature": "NSII0026859517",
+      "checked_at_utc": "2026-11-16T11:34:45.762559+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB0005",
+      "supplier_nomenclature": "NSII0028537985",
+      "checked_at_utc": "2026-11-16T11:34:46.994398+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108023",
+      "supplier_nomenclature": "NSII0015291200",
+      "checked_at_utc": "2026-11-16T11:34:48.366466+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108169",
+      "supplier_nomenclature": "NSII0015291172",
+      "checked_at_utc": "2026-11-16T11:34:48.956600+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108287",
+      "supplier_nomenclature": "NSII0015291231",
+      "checked_at_utc": "2026-11-16T11:34:50.481914+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108326",
+      "supplier_nomenclature": "NSII0015360575",
+      "checked_at_utc": "2026-11-16T11:34:52.018245+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108497",
+      "supplier_nomenclature": "NSII0015291169",
+      "checked_at_utc": "2026-11-16T11:34:52.247440+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108518",
+      "supplier_nomenclature": "NSII0015291177",
+      "checked_at_utc": "2026-11-16T11:34:52.247583+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108510",
+      "supplier_nomenclature": "NSII0015291164",
+      "checked_at_utc": "2026-11-16T11:34:53.075754+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108528",
+      "supplier_nomenclature": "NSII0018360240",
+      "checked_at_utc": "2026-11-16T11:34:54.314526+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108587",
+      "supplier_nomenclature": "NSII0015291228",
+      "checked_at_utc": "2026-11-16T11:34:54.314670+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108583",
+      "supplier_nomenclature": "NSII0015291207",
+      "checked_at_utc": "2026-11-16T11:34:54.863616+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108626",
+      "supplier_nomenclature": "NSII0015291161",
+      "checked_at_utc": "2026-11-16T11:34:54.863772+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108610",
+      "supplier_nomenclature": "NSII0015291229",
+      "checked_at_utc": "2026-11-16T11:34:56.653660+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108654",
+      "supplier_nomenclature": "NSII0019581467",
+      "checked_at_utc": "2026-11-16T11:34:57.135701+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108736",
+      "supplier_nomenclature": "NSII0015291201",
+      "checked_at_utc": "2026-11-16T11:34:58.630783+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108806",
+      "supplier_nomenclature": "NSII0017144085",
+      "checked_at_utc": "2026-11-16T11:34:59.395455+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108977",
+      "supplier_nomenclature": "NSII0018300179",
+      "checked_at_utc": "2026-11-16T11:35:01.314382+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB108861",
+      "supplier_nomenclature": "NSII0015291221",
+      "checked_at_utc": "2026-11-16T11:35:01.348655+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB109011",
+      "supplier_nomenclature": "NSII0015291121",
+      "checked_at_utc": "2026-11-16T11:35:02.492785+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB109075",
+      "supplier_nomenclature": "NSII0015291195",
+      "checked_at_utc": "2026-11-16T11:35:03.389912+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB109094",
+      "supplier_nomenclature": "NSII0015291233",
+      "checked_at_utc": "2026-11-16T11:35:04.754391+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB109105",
+      "supplier_nomenclature": "NSII0015291170",
+      "checked_at_utc": "2026-11-16T11:35:05.688285+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB109216",
+      "supplier_nomenclature": "NSII0015291224",
+      "checked_at_utc": "2026-11-16T11:35:06.782244+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB109307",
+      "supplier_nomenclature": "NSII0015291193",
+      "checked_at_utc": "2026-11-16T11:35:07.570494+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB3250",
+      "supplier_nomenclature": "NSII0015291208",
+      "checked_at_utc": "2026-11-16T11:35:08.127743+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB3252",
+      "supplier_nomenclature": "NSII0015291133",
+      "checked_at_utc": "2026-11-16T11:35:09.194181+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "DJB",
+      "article": "EB5031",
+      "supplier_nomenclature": "NSII0015291211",
+      "checked_at_utc": "2026-11-16T11:35:10.081138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
