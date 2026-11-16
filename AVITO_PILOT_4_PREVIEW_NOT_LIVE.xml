@@ -644,6 +644,29 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>irk-41914b10766df6d80ef102</Id>
+    <Category>Запчасти и аксессуары</Category>
+    <GoodsType>Запчасти</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Для автомобилей</ProductType>
+    <SparePartType>Рулевое управление</SparePartType>
+    <OEM>4550005030</OEM>
+    <Title>Рулевая рейка Krauf HNQ5090GQ новый</Title>
+    <Description>Рулевая рейка, производитель Krauf, артикул HNQ5090GQ.
+Состояние: новое.
+Доступно к самовывозу в Иркутске.
+Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
+Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
+    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
+    <Price>16050</Price>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Krauf</Brand>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-41914b10766df6d80ef102-135dc7014178.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>irk-c4d6a8c3c7f294c9aa9aef</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -917,29 +940,6 @@
     <Brand>MasterKit</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8e94570436e9641959d28c-305c83902c85.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>irk-4c58b8ebe58798633a323b</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Рулевое управление</SparePartType>
-    <OEM>490013367R</OEM>
-    <Title>Рулевая рейка Master KiT 77R040 новый</Title>
-    <Description>Рулевая рейка, производитель Master KiT, артикул 77R040.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>23250</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>MasterKit</Brand>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4c58b8ebe58798633a323b-8cea35b60f21.jpg" />
     </Images>
   </Ad>
   <Ad>
