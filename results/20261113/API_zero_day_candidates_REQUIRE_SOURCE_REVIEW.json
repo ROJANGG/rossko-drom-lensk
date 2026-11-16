@@ -28126,6 +28126,39 @@
       "source": "fresh_personal_ROSSKO_API",
       "avito_retail_rub": 1050,
       "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0258R",
+      "supplier_nomenclature": "NSII0023942620",
+      "checked_at_utc": "2026-11-16T10:49:56.169566+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1050,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0261L",
+      "supplier_nomenclature": "NSII0023942625",
+      "checked_at_utc": "2026-11-16T10:49:58.709540+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 950,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0261R",
+      "supplier_nomenclature": "NSII0023942626",
+      "checked_at_utc": "2026-11-16T10:49:59.299679+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 950,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     }
   ],
   "not_approved_for_publication": true

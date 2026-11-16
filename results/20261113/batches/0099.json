@@ -1,0 +1,911 @@
+{
+  "results": [
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0258R",
+      "supplier_nomenclature": "NSII0023942620",
+      "checked_at_utc": "2026-11-16T10:49:56.169566+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1050,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0261L",
+      "supplier_nomenclature": "NSII0023942625",
+      "checked_at_utc": "2026-11-16T10:49:58.709540+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 950,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0268",
+      "supplier_nomenclature": "NSII0023942634",
+      "checked_at_utc": "2026-11-16T10:49:58.709735+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0269",
+      "supplier_nomenclature": "NSII0023942635",
+      "checked_at_utc": "2026-11-16T10:49:58.709793+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0261R",
+      "supplier_nomenclature": "NSII0023942626",
+      "checked_at_utc": "2026-11-16T10:49:59.299679+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 950,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0275",
+      "supplier_nomenclature": "NSII0023942642",
+      "checked_at_utc": "2026-11-16T10:50:01.002586+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0276",
+      "supplier_nomenclature": "NSII0023942643",
+      "checked_at_utc": "2026-11-16T10:50:01.413196+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0278",
+      "supplier_nomenclature": "NSII0023942646",
+      "checked_at_utc": "2026-11-16T10:50:02.662133+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0282L",
+      "supplier_nomenclature": "NSII0023942651",
+      "checked_at_utc": "2026-11-16T10:50:03.669106+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0282R",
+      "supplier_nomenclature": "NSII0023942652",
+      "checked_at_utc": "2026-11-16T10:50:04.479323+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0288L",
+      "supplier_nomenclature": "NSII0023942661",
+      "checked_at_utc": "2026-11-16T10:50:06.108537+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0284",
+      "supplier_nomenclature": "NSII0023942655",
+      "checked_at_utc": "2026-11-16T10:50:06.218918+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0290",
+      "supplier_nomenclature": "NSII0023942665",
+      "checked_at_utc": "2026-11-16T10:50:08.806771+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0291",
+      "supplier_nomenclature": "NSII0023942666",
+      "checked_at_utc": "2026-11-16T10:50:09.203955+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0293",
+      "supplier_nomenclature": "NSII0023942668",
+      "checked_at_utc": "2026-11-16T10:50:10.841470+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0294",
+      "supplier_nomenclature": "NSII0023942669",
+      "checked_at_utc": "2026-11-16T10:50:11.834169+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0297L",
+      "supplier_nomenclature": "NSII0023942672",
+      "checked_at_utc": "2026-11-16T10:50:11.923711+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0297R",
+      "supplier_nomenclature": "NSII0023942673",
+      "checked_at_utc": "2026-11-16T10:50:12.734057+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0300L",
+      "supplier_nomenclature": "NSII0023942676",
+      "checked_at_utc": "2026-11-16T10:50:13.915824+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0300R",
+      "supplier_nomenclature": "NSII0023942677",
+      "checked_at_utc": "2026-11-16T10:50:15.225471+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0301",
+      "supplier_nomenclature": "NSII0023942678",
+      "checked_at_utc": "2026-11-16T10:50:16.500258+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0302L",
+      "supplier_nomenclature": "NSII0023942679",
+      "checked_at_utc": "2026-11-16T10:50:17.324073+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0302R",
+      "supplier_nomenclature": "NSII0023942680",
+      "checked_at_utc": "2026-11-16T10:50:18.093828+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0303L",
+      "supplier_nomenclature": "NSII0023942681",
+      "checked_at_utc": "2026-11-16T10:50:19.158730+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0303R",
+      "supplier_nomenclature": "NSII0023942682",
+      "checked_at_utc": "2026-11-16T10:50:19.937025+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0320",
+      "supplier_nomenclature": "NSII0023942709",
+      "checked_at_utc": "2026-11-16T10:50:21.437370+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0323L",
+      "supplier_nomenclature": "NSII0023942712",
+      "checked_at_utc": "2026-11-16T10:50:22.779619+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0323R",
+      "supplier_nomenclature": "NSII0023942713",
+      "checked_at_utc": "2026-11-16T10:50:23.554802+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0325",
+      "supplier_nomenclature": "NSII0023942715",
+      "checked_at_utc": "2026-11-16T10:50:24.156545+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0334",
+      "supplier_nomenclature": "NSII0023942723",
+      "checked_at_utc": "2026-11-16T10:50:24.792344+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0339L",
+      "supplier_nomenclature": "NSII0023942732",
+      "checked_at_utc": "2026-11-16T10:50:25.926482+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0339R",
+      "supplier_nomenclature": "NSII0023942733",
+      "checked_at_utc": "2026-11-16T10:50:26.953444+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0344L",
+      "supplier_nomenclature": "NSII0023942739",
+      "checked_at_utc": "2026-11-16T10:50:28.715967+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0344R",
+      "supplier_nomenclature": "NSII0023942740",
+      "checked_at_utc": "2026-11-16T10:50:29.677182+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0351",
+      "supplier_nomenclature": "NSII0023942750",
+      "checked_at_utc": "2026-11-16T10:50:29.846492+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0356",
+      "supplier_nomenclature": "NSII0023942757",
+      "checked_at_utc": "2026-11-16T10:50:31.169190+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0357",
+      "supplier_nomenclature": "NSII0023942758",
+      "checked_at_utc": "2026-11-16T10:50:32.428029+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0359",
+      "supplier_nomenclature": "NSII0023942761",
+      "checked_at_utc": "2026-11-16T10:50:33.958168+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0378",
+      "supplier_nomenclature": "NSII0023942781",
+      "checked_at_utc": "2026-11-16T10:50:33.982178+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0379",
+      "supplier_nomenclature": "NSII0023942782",
+      "checked_at_utc": "2026-11-16T10:50:35.059420+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0380",
+      "supplier_nomenclature": "NSII0023942783",
+      "checked_at_utc": "2026-11-16T10:50:36.432125+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0381",
+      "supplier_nomenclature": "NSII0023942784",
+      "checked_at_utc": "2026-11-16T10:50:37.075658+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0384",
+      "supplier_nomenclature": "NSII0023942787",
+      "checked_at_utc": "2026-11-16T10:50:38.455037+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0387",
+      "supplier_nomenclature": "NSII0023942790",
+      "checked_at_utc": "2026-11-16T10:50:40.100819+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0389",
+      "supplier_nomenclature": "NSII0023942792",
+      "checked_at_utc": "2026-11-16T10:50:40.254236+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0390",
+      "supplier_nomenclature": "NSII0023942793",
+      "checked_at_utc": "2026-11-16T10:50:41.460492+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0393",
+      "supplier_nomenclature": "NSII0023942796",
+      "checked_at_utc": "2026-11-16T10:50:43.040830+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0397",
+      "supplier_nomenclature": "NSII0023942800",
+      "checked_at_utc": "2026-11-16T10:50:44.176964+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0398",
+      "supplier_nomenclature": "NSII0023942801",
+      "checked_at_utc": "2026-11-16T10:50:44.789573+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0401",
+      "supplier_nomenclature": "NSII0023942805",
+      "checked_at_utc": "2026-11-16T10:50:46.874036+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0403L",
+      "supplier_nomenclature": "NSII0023942807",
+      "checked_at_utc": "2026-11-16T10:50:48.648352+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0402",
+      "supplier_nomenclature": "NSII0023942806",
+      "checked_at_utc": "2026-11-16T10:50:48.733959+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0403R",
+      "supplier_nomenclature": "NSII0023942808",
+      "checked_at_utc": "2026-11-16T10:50:49.676254+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0409",
+      "supplier_nomenclature": "NSII0023942811",
+      "checked_at_utc": "2026-11-16T10:50:50.784461+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0425L",
+      "supplier_nomenclature": "NSII0023942827",
+      "checked_at_utc": "2026-11-16T10:50:52.837428+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0410",
+      "supplier_nomenclature": "NSII0023942812",
+      "checked_at_utc": "2026-11-16T10:50:52.936614+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0425R",
+      "supplier_nomenclature": "NSII0023942828",
+      "checked_at_utc": "2026-11-16T10:50:54.104795+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0426L",
+      "supplier_nomenclature": "NSII0023942829",
+      "checked_at_utc": "2026-11-16T10:50:55.016799+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0426R",
+      "supplier_nomenclature": "NSII0023942830",
+      "checked_at_utc": "2026-11-16T10:50:55.856109+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0429",
+      "supplier_nomenclature": "NSII0023942833",
+      "checked_at_utc": "2026-11-16T10:50:57.939069+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0430",
+      "supplier_nomenclature": "NSII0023942834",
+      "checked_at_utc": "2026-11-16T10:51:00.256891+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0434",
+      "supplier_nomenclature": "NSII0023942840",
+      "checked_at_utc": "2026-11-16T10:51:00.310904+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0437",
+      "supplier_nomenclature": "NSII0023942843",
+      "checked_at_utc": "2026-11-16T10:51:01.948256+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0442",
+      "supplier_nomenclature": "NSII0023942848",
+      "checked_at_utc": "2026-11-16T10:51:02.992556+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0444",
+      "supplier_nomenclature": "NSII0023942850",
+      "checked_at_utc": "2026-11-16T10:51:02.992729+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0443",
+      "supplier_nomenclature": "NSII0023942849",
+      "checked_at_utc": "2026-11-16T10:51:03.619602+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0445",
+      "supplier_nomenclature": "NSII0023942851",
+      "checked_at_utc": "2026-11-16T10:51:03.951366+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0446",
+      "supplier_nomenclature": "NSII0023942852",
+      "checked_at_utc": "2026-11-16T10:51:05.398215+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0447",
+      "supplier_nomenclature": "NSII0023942853",
+      "checked_at_utc": "2026-11-16T10:51:05.942822+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0449",
+      "supplier_nomenclature": "NSII0023942854",
+      "checked_at_utc": "2026-11-16T10:51:07.645565+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0450",
+      "supplier_nomenclature": "NSII0023942855",
+      "checked_at_utc": "2026-11-16T10:51:08.575068+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0455",
+      "supplier_nomenclature": "NSII0023942860",
+      "checked_at_utc": "2026-11-16T10:51:09.402672+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0456",
+      "supplier_nomenclature": "NSII0023942861",
+      "checked_at_utc": "2026-11-16T10:51:10.439659+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0458",
+      "supplier_nomenclature": "NSII0023942863",
+      "checked_at_utc": "2026-11-16T10:51:11.445475+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0459",
+      "supplier_nomenclature": "NSII0023942864",
+      "checked_at_utc": "2026-11-16T10:51:12.172806+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0460L",
+      "supplier_nomenclature": "NSII0023942865",
+      "checked_at_utc": "2026-11-16T10:51:14.286943+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0460R",
+      "supplier_nomenclature": "NSII0023942866",
+      "checked_at_utc": "2026-11-16T10:51:15.408580+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0461",
+      "supplier_nomenclature": "NSII0023942867",
+      "checked_at_utc": "2026-11-16T10:51:15.881926+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0462",
+      "supplier_nomenclature": "NSII0023942868",
+      "checked_at_utc": "2026-11-16T10:51:17.183838+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0474",
+      "supplier_nomenclature": "NSII0023942880",
+      "checked_at_utc": "2026-11-16T10:51:18.383347+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0477",
+      "supplier_nomenclature": "NSII0023942883",
+      "checked_at_utc": "2026-11-16T10:51:19.335390+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0478",
+      "supplier_nomenclature": "NSII0023942884",
+      "checked_at_utc": "2026-11-16T10:51:19.460216+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0483",
+      "supplier_nomenclature": "NSII0023942889",
+      "checked_at_utc": "2026-11-16T10:51:20.385039+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0484",
+      "supplier_nomenclature": "NSII0023942890",
+      "checked_at_utc": "2026-11-16T10:51:21.886591+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0485L",
+      "supplier_nomenclature": "NSII0023942891",
+      "checked_at_utc": "2026-11-16T10:51:22.647791+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0485R",
+      "supplier_nomenclature": "NSII0023942892",
+      "checked_at_utc": "2026-11-16T10:51:23.783583+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0493",
+      "supplier_nomenclature": "NSII0023942903",
+      "checked_at_utc": "2026-11-16T10:51:24.405064+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0495L",
+      "supplier_nomenclature": "NSII0023942905",
+      "checked_at_utc": "2026-11-16T10:51:25.925462+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0495R",
+      "supplier_nomenclature": "NSII0023942906",
+      "checked_at_utc": "2026-11-16T10:51:26.246004+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0505L",
+      "supplier_nomenclature": "NSII0023942918",
+      "checked_at_utc": "2026-11-16T10:51:27.311856+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0505R",
+      "supplier_nomenclature": "NSII0023942919",
+      "checked_at_utc": "2026-11-16T10:51:28.611321+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0516L",
+      "supplier_nomenclature": "NSII0023942931",
+      "checked_at_utc": "2026-11-16T10:51:29.544026+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0516R",
+      "supplier_nomenclature": "NSII0023942932",
+      "checked_at_utc": "2026-11-16T10:51:30.727121+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0521",
+      "supplier_nomenclature": "NSII0023942936",
+      "checked_at_utc": "2026-11-16T10:51:32.262047+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0520",
+      "supplier_nomenclature": "NSII0023942935",
+      "checked_at_utc": "2026-11-16T10:51:32.497327+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0527",
+      "supplier_nomenclature": "NSII0023942943",
+      "checked_at_utc": "2026-11-16T10:51:34.091427+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0530",
+      "supplier_nomenclature": "NSII0023942946",
+      "checked_at_utc": "2026-11-16T10:51:34.906211+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0534",
+      "supplier_nomenclature": "NSII0023942951",
+      "checked_at_utc": "2026-11-16T10:51:35.709860+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0537",
+      "supplier_nomenclature": "NSII0023942954",
+      "checked_at_utc": "2026-11-16T10:51:36.973642+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "CTR",
+      "article": "CL0538",
+      "supplier_nomenclature": "NSII0023942955",
+      "checked_at_utc": "2026-11-16T10:51:37.700452+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
