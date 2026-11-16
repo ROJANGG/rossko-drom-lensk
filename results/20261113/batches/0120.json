@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "HM011",
+      "supplier_nomenclature": "NSIN0019671319",
+      "checked_at_utc": "2026-11-16T11:25:13.937597+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "HM053",
+      "supplier_nomenclature": "NSII0006734468",
+      "checked_at_utc": "2026-11-16T11:25:15.163357+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "HMCFAFR",
+      "supplier_nomenclature": "NSIN0019671432",
+      "checked_at_utc": "2026-11-16T11:25:15.874196+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "HMFITRH",
+      "supplier_nomenclature": "NSII0006734476",
+      "checked_at_utc": "2026-11-16T11:25:15.874361+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "HMFDATFR",
+      "supplier_nomenclature": "NSII0007149599",
+      "checked_at_utc": "2026-11-16T11:25:17.355012+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "HMRFFR",
+      "supplier_nomenclature": "NSIN0019718634",
+      "checked_at_utc": "2026-11-16T11:25:17.837397+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "MMB035",
+      "supplier_nomenclature": "NSII0009536774",
+      "checked_at_utc": "2026-11-16T11:25:18.815718+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "MMCYRH",
+      "supplier_nomenclature": "NSIN0023160079",
+      "checked_at_utc": "2026-11-16T11:25:20.114155+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "MMH58RR",
+      "supplier_nomenclature": "NSIN0019671351",
+      "checked_at_utc": "2026-11-16T11:25:20.944489+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "MZM021",
+      "supplier_nomenclature": "NSIN0019718623",
+      "checked_at_utc": "2026-11-16T11:25:21.903163+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "MZMDEMRR",
+      "supplier_nomenclature": "NSII0006904953",
+      "checked_at_utc": "2026-11-16T11:25:23.025901+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "NM026",
+      "supplier_nomenclature": "NSIN0019671564",
+      "checked_at_utc": "2026-11-16T11:25:24.087108+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "NM033",
+      "supplier_nomenclature": "NSII0006904941",
+      "checked_at_utc": "2026-11-16T11:25:24.861772+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "NM075",
+      "supplier_nomenclature": "NSIN0019671357",
+      "checked_at_utc": "2026-11-16T11:25:25.992760+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "NMB065",
+      "supplier_nomenclature": "NSII0015421861",
+      "checked_at_utc": "2026-11-16T11:25:26.770049+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "NMB30FD",
+      "supplier_nomenclature": "NSII0021395694",
+      "checked_at_utc": "2026-11-16T11:25:28.496123+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "NMBN30RH",
+      "supplier_nomenclature": "NSII0009606517",
+      "checked_at_utc": "2026-11-16T11:25:28.963934+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "NMBY62F",
+      "supplier_nomenclature": "NSII0019304768",
+      "checked_at_utc": "2026-11-16T11:25:29.831743+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "NME12R",
+      "supplier_nomenclature": "NSII0028958159",
+      "checked_at_utc": "2026-11-16T11:25:30.621445+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "PGMB001",
+      "supplier_nomenclature": "NSII0010426841",
+      "checked_at_utc": "2026-11-16T11:25:32.253901+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM02",
+      "supplier_nomenclature": "NSIN0019671510",
+      "checked_at_utc": "2026-11-16T11:25:32.849639+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM03",
+      "supplier_nomenclature": "NSIN0019671511",
+      "checked_at_utc": "2026-11-16T11:25:34.544826+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM073",
+      "supplier_nomenclature": "NSII0009535699",
+      "checked_at_utc": "2026-11-16T11:25:34.860836+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM088",
+      "supplier_nomenclature": "NSIN0019671392",
+      "checked_at_utc": "2026-11-16T11:25:35.825925+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM092",
+      "supplier_nomenclature": "NSIN0019671371",
+      "checked_at_utc": "2026-11-16T11:25:36.951567+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM10",
+      "supplier_nomenclature": "NSIN0019671500",
+      "checked_at_utc": "2026-11-16T11:25:39.137706+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM11",
+      "supplier_nomenclature": "NSII0006904981",
+      "checked_at_utc": "2026-11-16T11:25:39.425507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM2GRFERH",
+      "supplier_nomenclature": "NSII0006734539",
+      "checked_at_utc": "2026-11-16T11:25:40.248089+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TM320AT",
+      "supplier_nomenclature": "NSIN0019671315",
+      "checked_at_utc": "2026-11-16T11:25:41.391255+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMANE10RH",
+      "supplier_nomenclature": "NSII0009475573",
+      "checked_at_utc": "2026-11-16T11:25:41.869013+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMB05",
+      "supplier_nomenclature": "NSIN0019672755",
+      "checked_at_utc": "2026-11-16T11:25:43.371977+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMB105",
+      "supplier_nomenclature": "NSIN0019672428",
+      "checked_at_utc": "2026-11-16T11:25:43.910754+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMB13",
+      "supplier_nomenclature": "NSIN0019672432",
+      "checked_at_utc": "2026-11-16T11:25:45.216017+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMB300",
+      "supplier_nomenclature": "NSIN0019672869",
+      "checked_at_utc": "2026-11-16T11:25:45.887850+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMBAE115",
+      "supplier_nomenclature": "NSII0006735270",
+      "checked_at_utc": "2026-11-16T11:25:45.887991+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMB320",
+      "supplier_nomenclature": "NSIN0019672429",
+      "checked_at_utc": "2026-11-16T11:25:47.232058+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMBIPS",
+      "supplier_nomenclature": "NSIN0019672867",
+      "checked_at_utc": "2026-11-16T11:25:48.202622+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMBZZV50RR",
+      "supplier_nomenclature": "NSII0009536757",
+      "checked_at_utc": "2026-11-16T11:25:48.676351+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMCALDL",
+      "supplier_nomenclature": "NSIN0019671420",
+      "checked_at_utc": "2026-11-16T11:25:49.921484+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMCAM1",
+      "supplier_nomenclature": "NSIN0019671555",
+      "checked_at_utc": "2026-11-16T11:25:50.827596+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMCAM3",
+      "supplier_nomenclature": "NSIN0019671374",
+      "checked_at_utc": "2026-11-16T11:25:51.833083+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMCT190FR",
+      "supplier_nomenclature": "NSIN0019671497",
+      "checked_at_utc": "2026-11-16T11:25:52.892075+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMGUN126F",
+      "supplier_nomenclature": "NSII0028958163",
+      "checked_at_utc": "2026-11-16T11:25:53.832164+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMIPS",
+      "supplier_nomenclature": "NSIN0019671490",
+      "checked_at_utc": "2026-11-16T11:25:55.427159+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMIPSATR",
+      "supplier_nomenclature": "NSIN0019726769",
+      "checked_at_utc": "2026-11-16T11:25:55.779842+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMNCP15LH",
+      "supplier_nomenclature": "NSII0008081577",
+      "checked_at_utc": "2026-11-16T11:25:56.744242+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMNCP16RR",
+      "supplier_nomenclature": "NSII0010433817",
+      "checked_at_utc": "2026-11-16T11:25:57.698734+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMNHW20FR",
+      "supplier_nomenclature": "NSII0006904967",
+      "checked_at_utc": "2026-11-16T11:25:58.837722+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMSCP10RH",
+      "supplier_nomenclature": "NSII0013700123",
+      "checked_at_utc": "2026-11-16T11:26:00.010459+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMST220R",
+      "supplier_nomenclature": "NSIN0019671554",
+      "checked_at_utc": "2026-11-16T11:26:00.974103+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMSV40RH",
+      "supplier_nomenclature": "NSIN0019671559",
+      "checked_at_utc": "2026-11-16T11:26:01.842804+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMSV40RR",
+      "supplier_nomenclature": "NSIN0019671376",
+      "checked_at_utc": "2026-11-16T11:26:02.908069+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMZRR70F",
+      "supplier_nomenclature": "NSII0015421540",
+      "checked_at_utc": "2026-11-16T11:26:03.847141+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "TMZZV50RH",
+      "supplier_nomenclature": "NSII0013089777",
+      "checked_at_utc": "2026-11-16T11:26:05.074381+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "VLMBV70RR",
+      "supplier_nomenclature": "NSII0017836247",
+      "checked_at_utc": "2026-11-16T11:26:06.067210+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "Febest",
+      "article": "VLMXC70LH",
+      "supplier_nomenclature": "NSII0028986631",
+      "checked_at_utc": "2026-11-16T11:26:07.025324+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13F1328",
+      "supplier_nomenclature": "NSII0024415649",
+      "checked_at_utc": "2026-11-16T11:26:08.016424+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1001",
+      "supplier_nomenclature": "NSII0024415656",
+      "checked_at_utc": "2026-11-16T11:26:08.815426+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1006",
+      "supplier_nomenclature": "NSII0024415661",
+      "checked_at_utc": "2026-11-16T11:26:09.897585+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1007",
+      "supplier_nomenclature": "NSII0024415662",
+      "checked_at_utc": "2026-11-16T11:26:11.127635+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1008",
+      "supplier_nomenclature": "NSII0024415663",
+      "checked_at_utc": "2026-11-16T11:26:12.020651+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1009",
+      "supplier_nomenclature": "NSII0024415664",
+      "checked_at_utc": "2026-11-16T11:26:12.884639+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1011",
+      "supplier_nomenclature": "NSII0024415666",
+      "checked_at_utc": "2026-11-16T11:26:13.759820+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1014",
+      "supplier_nomenclature": "NSII0024415669",
+      "checked_at_utc": "2026-11-16T11:26:15.092920+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1018",
+      "supplier_nomenclature": "NSII0024415673",
+      "checked_at_utc": "2026-11-16T11:26:16.129045+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1019",
+      "supplier_nomenclature": "NSII0024415674",
+      "checked_at_utc": "2026-11-16T11:26:16.941600+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1021",
+      "supplier_nomenclature": "NSII0024415676",
+      "checked_at_utc": "2026-11-16T11:26:17.769586+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1022",
+      "supplier_nomenclature": "NSII0024415677",
+      "checked_at_utc": "2026-11-16T11:26:19.308967+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "13J1161",
+      "supplier_nomenclature": "NSII0027034567",
+      "checked_at_utc": "2026-11-16T11:26:19.874645+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14A2901",
+      "supplier_nomenclature": "NSII0027848376",
+      "checked_at_utc": "2026-11-16T11:26:20.766944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14A3823",
+      "supplier_nomenclature": "NSII0027848378",
+      "checked_at_utc": "2026-11-16T11:26:21.859293+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14F1103",
+      "supplier_nomenclature": "NSII0024415692",
+      "checked_at_utc": "2026-11-16T11:26:23.062381+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14F1133",
+      "supplier_nomenclature": "NSII0024415693",
+      "checked_at_utc": "2026-11-16T11:26:24.028430+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14F2709",
+      "supplier_nomenclature": "NSII0024415698",
+      "checked_at_utc": "2026-11-16T11:26:24.866851+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14F2752",
+      "supplier_nomenclature": "NSII0024415702",
+      "checked_at_utc": "2026-11-16T11:26:26.081498+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14F3835",
+      "supplier_nomenclature": "NSII0027848382",
+      "checked_at_utc": "2026-11-16T11:26:27.086151+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14G2483",
+      "supplier_nomenclature": "NSII0027848383",
+      "checked_at_utc": "2026-11-16T11:26:28.319919+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14G2579",
+      "supplier_nomenclature": "NSII0027661982",
+      "checked_at_utc": "2026-11-16T11:26:29.099960+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14G2606",
+      "supplier_nomenclature": "NSII0027848387",
+      "checked_at_utc": "2026-11-16T11:26:29.919975+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14G3759",
+      "supplier_nomenclature": "NSII0027848391",
+      "checked_at_utc": "2026-11-16T11:26:30.988456+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1002",
+      "supplier_nomenclature": "NSII0024415712",
+      "checked_at_utc": "2026-11-16T11:26:32.015220+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1003",
+      "supplier_nomenclature": "NSII0024415713",
+      "checked_at_utc": "2026-11-16T11:26:32.829950+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1004",
+      "supplier_nomenclature": "NSII0024415714",
+      "checked_at_utc": "2026-11-16T11:26:33.806492+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1005",
+      "supplier_nomenclature": "NSII0024415715",
+      "checked_at_utc": "2026-11-16T11:26:35.038870+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1008",
+      "supplier_nomenclature": "NSII0024415718",
+      "checked_at_utc": "2026-11-16T11:26:35.926327+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1011",
+      "supplier_nomenclature": "NSII0024415721",
+      "checked_at_utc": "2026-11-16T11:26:37.269291+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1012",
+      "supplier_nomenclature": "NSII0024415722",
+      "checked_at_utc": "2026-11-16T11:26:37.974141+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1014",
+      "supplier_nomenclature": "NSII0024415724",
+      "checked_at_utc": "2026-11-16T11:26:38.892819+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1015",
+      "supplier_nomenclature": "NSII0024415725",
+      "checked_at_utc": "2026-11-16T11:26:39.785814+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1020",
+      "supplier_nomenclature": "NSII0024415730",
+      "checked_at_utc": "2026-11-16T11:26:41.074243+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1022",
+      "supplier_nomenclature": "NSII0024415732",
+      "checked_at_utc": "2026-11-16T11:26:41.933689+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1023",
+      "supplier_nomenclature": "NSII0024415733",
+      "checked_at_utc": "2026-11-16T11:26:42.981985+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1025",
+      "supplier_nomenclature": "NSII0024415735",
+      "checked_at_utc": "2026-11-16T11:26:44.126348+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1026",
+      "supplier_nomenclature": "NSII0024415736",
+      "checked_at_utc": "2026-11-16T11:26:45.169052+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1029",
+      "supplier_nomenclature": "NSII0024415739",
+      "checked_at_utc": "2026-11-16T11:26:45.854175+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1030",
+      "supplier_nomenclature": "NSII0024415740",
+      "checked_at_utc": "2026-11-16T11:26:47.103201+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1033",
+      "supplier_nomenclature": "NSII0024415742",
+      "checked_at_utc": "2026-11-16T11:26:47.954104+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1034",
+      "supplier_nomenclature": "NSII0024415743",
+      "checked_at_utc": "2026-11-16T11:26:49.213530+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1035",
+      "supplier_nomenclature": "NSII0024415744",
+      "checked_at_utc": "2026-11-16T11:26:49.984149+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "FIESTROCO",
+      "article": "14J1036",
+      "supplier_nomenclature": "NSII0024415745",
+      "checked_at_utc": "2026-11-16T11:26:50.969922+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
