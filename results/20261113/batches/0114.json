@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "5023242",
+      "supplier_nomenclature": "NSII0014880663",
+      "checked_at_utc": "2026-11-16T11:15:13.344112+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "702095",
+      "supplier_nomenclature": "NSII0009813961",
+      "checked_at_utc": "2026-11-16T11:15:14.488380+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "7021239",
+      "supplier_nomenclature": "NSII0009990109",
+      "checked_at_utc": "2026-11-16T11:15:15.236929+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Asva",
+      "article": "0303033",
+      "supplier_nomenclature": "NSII0007962081",
+      "checked_at_utc": "2026-11-16T11:15:16.366026+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1100",
+      "supplier_nomenclature": "NSII0028693301",
+      "checked_at_utc": "2026-11-16T11:15:18.087814+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1102",
+      "supplier_nomenclature": "NSII0028693286",
+      "checked_at_utc": "2026-11-16T11:15:18.156532+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1103",
+      "supplier_nomenclature": "NSII0028693302",
+      "checked_at_utc": "2026-11-16T11:15:19.245028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1104",
+      "supplier_nomenclature": "NSII0028693303",
+      "checked_at_utc": "2026-11-16T11:15:20.842692+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1105",
+      "supplier_nomenclature": "NSII0028693304",
+      "checked_at_utc": "2026-11-16T11:15:21.423438+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1107",
+      "supplier_nomenclature": "NSII0028693306",
+      "checked_at_utc": "2026-11-16T11:15:22.399207+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1108",
+      "supplier_nomenclature": "NSII0028693307",
+      "checked_at_utc": "2026-11-16T11:15:23.453427+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1109",
+      "supplier_nomenclature": "NSII0028693308",
+      "checked_at_utc": "2026-11-16T11:15:25.515445+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1110",
+      "supplier_nomenclature": "NSII0028693309",
+      "checked_at_utc": "2026-11-16T11:15:25.990923+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1111",
+      "supplier_nomenclature": "NSII0028693310",
+      "checked_at_utc": "2026-11-16T11:15:26.540036+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1114",
+      "supplier_nomenclature": "NSII0028693312",
+      "checked_at_utc": "2026-11-16T11:15:27.456904+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1118",
+      "supplier_nomenclature": "NSII0028693314",
+      "checked_at_utc": "2026-11-16T11:15:28.503484+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1119",
+      "supplier_nomenclature": "NSII0028693289",
+      "checked_at_utc": "2026-11-16T11:15:29.378323+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1120",
+      "supplier_nomenclature": "NSII0028693315",
+      "checked_at_utc": "2026-11-16T11:15:30.572784+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1121",
+      "supplier_nomenclature": "NSII0028693317",
+      "checked_at_utc": "2026-11-16T11:15:31.362595+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1124",
+      "supplier_nomenclature": "NSII0028693292",
+      "checked_at_utc": "2026-11-16T11:15:32.110171+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1127",
+      "supplier_nomenclature": "NSII0028693294",
+      "checked_at_utc": "2026-11-16T11:15:33.301361+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1128",
+      "supplier_nomenclature": "NSII0028693341",
+      "checked_at_utc": "2026-11-16T11:15:34.235507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1129",
+      "supplier_nomenclature": "NSII0028693342",
+      "checked_at_utc": "2026-11-16T11:15:35.321056+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1131",
+      "supplier_nomenclature": "NSII0028693319",
+      "checked_at_utc": "2026-11-16T11:15:36.232626+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1135",
+      "supplier_nomenclature": "NSII0028693323",
+      "checked_at_utc": "2026-11-16T11:15:37.432772+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1137",
+      "supplier_nomenclature": "NSII0028693325",
+      "checked_at_utc": "2026-11-16T11:15:38.235727+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1139",
+      "supplier_nomenclature": "NSII0028693327",
+      "checked_at_utc": "2026-11-16T11:15:39.148177+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP1140",
+      "supplier_nomenclature": "NSII0028693328",
+      "checked_at_utc": "2026-11-16T11:15:40.195262+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP118",
+      "supplier_nomenclature": "NSII0028693330",
+      "checked_at_utc": "2026-11-16T11:15:41.714456+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP119",
+      "supplier_nomenclature": "NSII0028693331",
+      "checked_at_utc": "2026-11-16T11:15:42.321574+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP121",
+      "supplier_nomenclature": "NSII0028693333",
+      "checked_at_utc": "2026-11-16T11:15:43.458359+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP122",
+      "supplier_nomenclature": "NSII0028693296",
+      "checked_at_utc": "2026-11-16T11:15:44.310530+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP123",
+      "supplier_nomenclature": "NSII0028693297",
+      "checked_at_utc": "2026-11-16T11:15:45.184904+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP124",
+      "supplier_nomenclature": "NSII0028693298",
+      "checked_at_utc": "2026-11-16T11:15:46.412403+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP125",
+      "supplier_nomenclature": "NSII0028693334",
+      "checked_at_utc": "2026-11-16T11:15:47.310260+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP130",
+      "supplier_nomenclature": "NSII0028693337",
+      "checked_at_utc": "2026-11-16T11:15:48.632453+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP132",
+      "supplier_nomenclature": "NSII0028693300",
+      "checked_at_utc": "2026-11-16T11:15:49.308732+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Brave",
+      "article": "BRRP134",
+      "supplier_nomenclature": "NSII0028693340",
+      "checked_at_utc": "2026-11-16T11:15:50.562528+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "CTR",
+      "article": "GA0057L",
+      "supplier_nomenclature": "NSII0023944592",
+      "checked_at_utc": "2026-11-16T11:15:51.601298+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "CTR",
+      "article": "GA0057R",
+      "supplier_nomenclature": "NSII0023944593",
+      "checked_at_utc": "2026-11-16T11:15:52.973475+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Honda",
+      "article": "51920S7SJ02",
+      "supplier_nomenclature": "NSIN0019793306",
+      "checked_at_utc": "2026-11-16T11:15:52.973619+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Febest",
+      "article": "BZAB066",
+      "supplier_nomenclature": "NSII0028782578",
+      "checked_at_utc": "2026-11-16T11:15:53.139708+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Japanparts",
+      "article": "SM0007",
+      "supplier_nomenclature": "NSII0020604354",
+      "checked_at_utc": "2026-11-16T11:15:54.485667+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Japanparts",
+      "article": "SM0062",
+      "supplier_nomenclature": "NSII0020604409",
+      "checked_at_utc": "2026-11-16T11:15:55.617078+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Japanparts",
+      "article": "SM0143",
+      "supplier_nomenclature": "NSII0020604490",
+      "checked_at_utc": "2026-11-16T11:15:56.741998+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "JIKIU",
+      "article": "BS23027",
+      "supplier_nomenclature": "NSII0019548400",
+      "checked_at_utc": "2026-11-16T11:15:57.312441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "JIKIU",
+      "article": "MS21013",
+      "supplier_nomenclature": "NSII0007165179",
+      "checked_at_utc": "2026-11-16T11:15:58.820746+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Lemforder",
+      "article": "2102601",
+      "supplier_nomenclature": "NSIN0014783226",
+      "checked_at_utc": "2026-11-16T11:15:59.388400+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Lemforder",
+      "article": "3036301",
+      "supplier_nomenclature": "NSIN0014774513",
+      "checked_at_utc": "2026-11-16T11:16:00.715917+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Lemforder",
+      "article": "3191601",
+      "supplier_nomenclature": "NSIN0019752305",
+      "checked_at_utc": "2026-11-16T11:16:01.840425+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "Lemforder",
+      "article": "3539801",
+      "supplier_nomenclature": "NSIN0019752235",
+      "checked_at_utc": "2026-11-16T11:16:02.373207+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "C9267",
+      "supplier_nomenclature": "NSIN0023168824",
+      "checked_at_utc": "2026-11-16T11:16:03.524567+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "C9268",
+      "supplier_nomenclature": "NSIN0023168825",
+      "checked_at_utc": "2026-11-16T11:16:04.130455+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "C9830",
+      "supplier_nomenclature": "NSII0011200701",
+      "checked_at_utc": "2026-11-16T11:16:05.776923+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "C9831",
+      "supplier_nomenclature": "NSII0013062509",
+      "checked_at_utc": "2026-11-16T11:16:06.222031+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "C9834",
+      "supplier_nomenclature": "NSII0013062508",
+      "checked_at_utc": "2026-11-16T11:16:07.348485+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "C9846",
+      "supplier_nomenclature": "NSII0013062510",
+      "checked_at_utc": "2026-11-16T11:16:08.626696+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "G32785L",
+      "supplier_nomenclature": "NSIN0019721805",
+      "checked_at_utc": "2026-11-16T11:16:09.612856+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "G32785R",
+      "supplier_nomenclature": "NSIN0019721804",
+      "checked_at_utc": "2026-11-16T11:16:11.071937+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1010LR",
+      "supplier_nomenclature": "NSII0013062394",
+      "checked_at_utc": "2026-11-16T11:16:11.578047+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1026LR",
+      "supplier_nomenclature": "NSII0013062397",
+      "checked_at_utc": "2026-11-16T11:16:12.677745+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1049LR",
+      "supplier_nomenclature": "NSII0013062127",
+      "checked_at_utc": "2026-11-16T11:16:13.280182+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1050LR",
+      "supplier_nomenclature": "NSII0013062399",
+      "checked_at_utc": "2026-11-16T11:16:14.286003+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1053LR",
+      "supplier_nomenclature": "NSII0013062401",
+      "checked_at_utc": "2026-11-16T11:16:15.782507+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1058LR",
+      "supplier_nomenclature": "NSII0012977079",
+      "checked_at_utc": "2026-11-16T11:16:16.454497+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1065LR",
+      "supplier_nomenclature": "NSII0012977087",
+      "checked_at_utc": "2026-11-16T11:16:17.924563+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1066LR",
+      "supplier_nomenclature": "NSII0013062128",
+      "checked_at_utc": "2026-11-16T11:16:18.486982+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1072LR",
+      "supplier_nomenclature": "NSII0013062405",
+      "checked_at_utc": "2026-11-16T11:16:19.510823+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1073LR",
+      "supplier_nomenclature": "NSII0012977090",
+      "checked_at_utc": "2026-11-16T11:16:20.677707+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1089LR",
+      "supplier_nomenclature": "NSII0013062408",
+      "checked_at_utc": "2026-11-16T11:16:21.740793+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1094LR",
+      "supplier_nomenclature": "NSII0013104801",
+      "checked_at_utc": "2026-11-16T11:16:23.963441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1097LR",
+      "supplier_nomenclature": "NSII0013104804",
+      "checked_at_utc": "2026-11-16T11:16:24.167842+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1104LR",
+      "supplier_nomenclature": "NSII0013104812",
+      "checked_at_utc": "2026-11-16T11:16:25.032155+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1112LR",
+      "supplier_nomenclature": "NSII0013104821",
+      "checked_at_utc": "2026-11-16T11:16:26.860670+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1128LR",
+      "supplier_nomenclature": "NSII0015309410",
+      "checked_at_utc": "2026-11-16T11:16:28.047284+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1124LR",
+      "supplier_nomenclature": "NSII0015309406",
+      "checked_at_utc": "2026-11-16T11:16:28.254205+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1150LR",
+      "supplier_nomenclature": "NSII0015309432",
+      "checked_at_utc": "2026-11-16T11:16:29.162273+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1164LR",
+      "supplier_nomenclature": "NSII0015654536",
+      "checked_at_utc": "2026-11-16T11:16:30.588217+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1181L",
+      "supplier_nomenclature": "NSII0024289533",
+      "checked_at_utc": "2026-11-16T11:16:30.824962+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1181R",
+      "supplier_nomenclature": "NSII0024289534",
+      "checked_at_utc": "2026-11-16T11:16:31.776607+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1183L",
+      "supplier_nomenclature": "NSII0025294055",
+      "checked_at_utc": "2026-11-16T11:16:33.490710+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1183R",
+      "supplier_nomenclature": "NSII0025294056",
+      "checked_at_utc": "2026-11-16T11:16:33.924919+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1189L",
+      "supplier_nomenclature": "NSII0025915175",
+      "checked_at_utc": "2026-11-16T11:16:34.783500+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1191R",
+      "supplier_nomenclature": "NSII0025915178",
+      "checked_at_utc": "2026-11-16T11:16:35.670461+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1207L",
+      "supplier_nomenclature": "NSII0026169225",
+      "checked_at_utc": "2026-11-16T11:16:37.061708+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1209R",
+      "supplier_nomenclature": "NSII0025915190",
+      "checked_at_utc": "2026-11-16T11:16:37.800993+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1211L",
+      "supplier_nomenclature": "NSII0026169227",
+      "checked_at_utc": "2026-11-16T11:16:38.861222+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1272LR",
+      "supplier_nomenclature": "NSII0019852324",
+      "checked_at_utc": "2026-11-16T11:16:39.906635+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1273LR",
+      "supplier_nomenclature": "NSII0019852325",
+      "checked_at_utc": "2026-11-16T11:16:40.926529+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1275LR",
+      "supplier_nomenclature": "NSII0019852310",
+      "checked_at_utc": "2026-11-16T11:16:42.032673+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1276LR",
+      "supplier_nomenclature": "NSII0019852326",
+      "checked_at_utc": "2026-11-16T11:16:42.815114+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1284LR",
+      "supplier_nomenclature": "NSII0024919624",
+      "checked_at_utc": "2026-11-16T11:16:43.995714+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1301LR",
+      "supplier_nomenclature": "NSII0024289535",
+      "checked_at_utc": "2026-11-16T11:16:45.379372+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1302LR",
+      "supplier_nomenclature": "NSII0025021744",
+      "checked_at_utc": "2026-11-16T11:16:45.939692+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1304LR",
+      "supplier_nomenclature": "NSII0024289537",
+      "checked_at_utc": "2026-11-16T11:16:46.734711+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1305LR",
+      "supplier_nomenclature": "NSII0024919625",
+      "checked_at_utc": "2026-11-16T11:16:47.862287+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1306LR",
+      "supplier_nomenclature": "NSII0024289538",
+      "checked_at_utc": "2026-11-16T11:16:48.725760+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1320LR",
+      "supplier_nomenclature": "NSII0025546097",
+      "checked_at_utc": "2026-11-16T11:16:50.148508+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1331LR",
+      "supplier_nomenclature": "NSII0025915195",
+      "checked_at_utc": "2026-11-16T11:16:51.165323+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки амортизатора",
+      "brand": "LYNXauto",
+      "article": "MA1332LR",
+      "supplier_nomenclature": "NSII0025915196",
+      "checked_at_utc": "2026-11-16T11:16:51.711721+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
