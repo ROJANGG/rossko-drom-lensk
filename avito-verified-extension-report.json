@@ -1,37 +1,180 @@
 {
-  "as_of_utc": "2026-11-10T19:06:00.907547+00:00",
+  "as_of_utc": "2026-11-16T10:28:57.657355+00:00",
   "before": 232,
-  "after": 234,
-  "approved_before": 241,
-  "approved_after": 243,
+  "after": 245,
+  "approved_before": 243,
+  "approved_after": 256,
   "scope_count": 95,
-  "source_review_approved": 46,
-  "added_count": 2,
+  "source_review_approved": 59,
+  "added_count": 13,
   "added": [
     {
-      "id": "irk-1b05aaa952d2cf757e0dfb",
-      "brand": "Stellox",
-      "article": "000621SX",
-      "category": "Колодки барабанные",
-      "retail": 2350,
+      "id": "irk-1f53d20b13869aaea79297",
+      "brand": "Bosch",
+      "article": "0250201055",
+      "category": "Свечи накала",
+      "retail": 1750,
       "photo": {
-        "filename": "irk-1b05aaa952d2cf757e0dfb-9329fea0296c.jpg",
-        "sha256": "9329fea0296c62dd00f7e04a57d1d9c7f82167a0999078838f1bf0ec542d96e1",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1b05aaa952d2cf757e0dfb-9329fea0296c.jpg",
-        "source_verification": "same_day_primary_source_cache_max_3h"
+        "filename": "irk-1f53d20b13869aaea79297-1ed1bdcc9538.jpg",
+        "sha256": "1ed1bdcc95387c158574eaaae1073b27e618adfa53f1479021ae96c232d6bde6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1f53d20b13869aaea79297-1ed1bdcc9538.jpg",
+        "source_verification": "primary_catalogues_and_exact_supplier_nomenclature_max_3h"
       }
     },
     {
-      "id": "irk-ec071c563db63d97e98a68",
-      "brand": "Stellox",
-      "article": "174100SX",
-      "category": "Колодки барабанные",
+      "id": "irk-75d868f76cc76946835d27",
+      "brand": "Bosch",
+      "article": "0250202142",
+      "category": "Свечи накала",
+      "retail": 1550,
+      "photo": {
+        "filename": "irk-75d868f76cc76946835d27-1b05945b8ade.jpg",
+        "sha256": "1b05945b8ade081dd6b6770e1d28cb93ed60316952faef6c391827d03170b8a6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-75d868f76cc76946835d27-1b05945b8ade.jpg",
+        "source_verification": "primary_catalogues_and_exact_supplier_nomenclature_max_3h"
+      }
+    },
+    {
+      "id": "irk-99979b22d92977238b1cf5",
+      "brand": "Bosch",
+      "article": "0250403009",
+      "category": "Свечи накала",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-99979b22d92977238b1cf5-93fc87b6bfb0.jpg",
+        "sha256": "93fc87b6bfb0a4d7147b131cd163468266f585c5b859d814f25c3ea7183f4fb0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-99979b22d92977238b1cf5-93fc87b6bfb0.jpg",
+        "source_verification": "primary_catalogues_and_exact_supplier_nomenclature_max_3h"
+      }
+    },
+    {
+      "id": "irk-e86f90c0316f1a03c1053e",
+      "brand": "TATSUMI",
+      "article": "THQ1001",
+      "category": "Свечи накала",
+      "retail": 750,
+      "photo": {
+        "filename": "irk-e86f90c0316f1a03c1053e-368453fed90b.jpg",
+        "sha256": "368453fed90bf5a1479281c156f3784b25e8e8cb38c643357fd68d15d845afa1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e86f90c0316f1a03c1053e-368453fed90b.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-4eafb64aca70e14b39e0ef",
+      "brand": "TATSUMI",
+      "article": "THQ1005",
+      "category": "Свечи накала",
+      "retail": 650,
+      "photo": {
+        "filename": "irk-4eafb64aca70e14b39e0ef-ac6cc9fb85f8.jpg",
+        "sha256": "ac6cc9fb85f8998b345e263d6ea577b5df304710f2e6ffd8bd7938c8de0dbec2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4eafb64aca70e14b39e0ef-ac6cc9fb85f8.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-f211f07c4d166c9b207557",
+      "brand": "TATSUMI",
+      "article": "THQ1006",
+      "category": "Свечи накала",
+      "retail": 1050,
+      "photo": {
+        "filename": "irk-f211f07c4d166c9b207557-5ea1829fb32e.jpg",
+        "sha256": "5ea1829fb32edec1587eef06be2d58205c819f9ade63f2b6c24ec6a0f9abdb4a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f211f07c4d166c9b207557-5ea1829fb32e.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-8dc84ebb09889d4a578659",
+      "brand": "TATSUMI",
+      "article": "THQ1007",
+      "category": "Свечи накала",
+      "retail": 1250,
+      "photo": {
+        "filename": "irk-8dc84ebb09889d4a578659-a94efe18e0d2.jpg",
+        "sha256": "a94efe18e0d2cb1b6d5c19aa9928294bfeb0c16d293e40ac3ae851f4a3f2021b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8dc84ebb09889d4a578659-a94efe18e0d2.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-f0f93c65582c2cdd41ff85",
+      "brand": "TATSUMI",
+      "article": "THQ1008",
+      "category": "Свечи накала",
+      "retail": 1150,
+      "photo": {
+        "filename": "irk-f0f93c65582c2cdd41ff85-a4222be87c66.jpg",
+        "sha256": "a4222be87c66e799a87df7bdcc8cbce9b2950ca663b8d2db3a4456301f57fbab",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f0f93c65582c2cdd41ff85-a4222be87c66.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-5a0e5f1c0c124f8f32cc21",
+      "brand": "TATSUMI",
+      "article": "THQ1009",
+      "category": "Свечи накала",
+      "retail": 1550,
+      "photo": {
+        "filename": "irk-5a0e5f1c0c124f8f32cc21-ce5a3609bae6.jpg",
+        "sha256": "ce5a3609bae6b11704191a32a9461ca968dd4028739f84ba1b6e0c58dd45e0ff",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5a0e5f1c0c124f8f32cc21-ce5a3609bae6.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-52b8ae81bedc0b6d3969fd",
+      "brand": "TATSUMI",
+      "article": "THQ1010",
+      "category": "Свечи накала",
+      "retail": 1100,
+      "photo": {
+        "filename": "irk-52b8ae81bedc0b6d3969fd-3b055c6bf4e5.jpg",
+        "sha256": "3b055c6bf4e51bbb50c16df09343d6d999de313925c2e30a067db264d6b1d788",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-52b8ae81bedc0b6d3969fd-3b055c6bf4e5.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-f6980df093bd0fe924040b",
+      "brand": "TATSUMI",
+      "article": "THQ1011",
+      "category": "Свечи накала",
+      "retail": 750,
+      "photo": {
+        "filename": "irk-f6980df093bd0fe924040b-8ac415b36eb4.jpg",
+        "sha256": "8ac415b36eb486a5841dbef40f533441228d07c15be28a3329382172e0fcbcf9",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f6980df093bd0fe924040b-8ac415b36eb4.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-7a85756b725e7c9b96583f",
+      "brand": "TATSUMI",
+      "article": "THQ1012",
+      "category": "Свечи накала",
+      "retail": 1500,
+      "photo": {
+        "filename": "irk-7a85756b725e7c9b96583f-1debbb7ab083.jpg",
+        "sha256": "1debbb7ab083526fbab17ceee62ade42c609e06ccd9b341fce3679129b82503a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7a85756b725e7c9b96583f-1debbb7ab083.jpg",
+        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
+      }
+    },
+    {
+      "id": "irk-a4daab31c8635e80cea625",
+      "brand": "Bosch",
+      "article": "0250603001",
+      "category": "Свечи накала",
       "retail": 3250,
       "photo": {
-        "filename": "irk-ec071c563db63d97e98a68-586e918450af.jpg",
-        "sha256": "586e918450af81e7dace87a22a5085047d657f56522b28b61be1ddd2d6b8f78a",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ec071c563db63d97e98a68-586e918450af.jpg",
-        "source_verification": "same_day_primary_source_cache_max_3h"
+        "filename": "irk-a4daab31c8635e80cea625-50e0d9d62ae3.jpg",
+        "sha256": "50e0d9d62ae3caf49b946977a86e703d5241443f2ae8ad54c2326c2a8f45abe2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a4daab31c8635e80cea625-50e0d9d62ae3.jpg",
+        "source_verification": "primary_catalogues_and_exact_supplier_nomenclature_max_3h"
       }
     }
   ],
@@ -199,95 +342,17 @@
     ],
     [
       "Bosch",
-      "0250201055",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "Bosch",
-      "0250202142",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "Bosch",
       "0250402002",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "Bosch",
-      "0250403009",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "Bosch",
-      "0250603001",
-      "SOURCE_NOT_VERIFIED"
+      "REAL_SOURCE_PHOTO_600x180_BELOW_EXISTING_MIN_SHORT_SIDE_200"
     ],
     [
       "Bosch",
       "0250603006",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "TATSUMI",
-      "THQ1001",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1005",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1006",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1007",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1008",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1009",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1010",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1011",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TATSUMI",
-      "THQ1012",
-      "EXACT_PRODUCT_PHOTO_MISSING"
+      "REAL_SOURCE_PHOTO_600x180_BELOW_EXISTING_MIN_SHORT_SIDE_200"
     ]
   ],
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": true,
-  "publication_scope": "XML source branch only; Avito import and moderation not checked",
-  "xml_release_commit": "f4143431d0143975415f2f0fa2d0c94ecd1e8c7a",
-  "release_workflow_run_id": 42881688881,
-  "related_extension_run_ids": [
-    42798011773,
-    42879778721,
-    42881688881
-  ],
-  "public_exact_photo_hashes_verified": 2,
-  "cumulative_new_first95_skus_published": 46,
-  "cumulative_first95_skus_in_xml": 48,
-  "remaining_blocked_first95_skus": 47,
-  "avito_import_and_moderation_status": "NOT_CHECKED"
+  "publication_performed": false
 }
