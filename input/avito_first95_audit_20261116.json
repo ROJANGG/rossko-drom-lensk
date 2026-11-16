@@ -1,0 +1,28 @@
+{
+  "checked_at_utc": "2026-11-16T11:01:48.198335+00:00",
+  "active_ads": 245,
+  "archive_ids": 256,
+  "newly_published": 13,
+  "all_previous_232_ad_blocks_preserved_exactly": true,
+  "raw_and_CDN_identical": true,
+  "xml_sha256": "82dab3f0914eb57037465edbfdf0f97ad70d565601e65da08731c19605ebe27b",
+  "all_live_ids_in_archive": true,
+  "new_public_exact_image_hashes_verified": 13,
+  "engine_subtype_populated_for_new_glow_ads": true,
+  "publication_run_id": 43849033735,
+  "xml_release_commit": "dea53ee7904c8f38c74d63ccc7a76f512817e1e7",
+  "release_checks_passed": 43,
+  "first95_status_counts": {
+    "ADDED_TO_XML": 59,
+    "BLOCKED": 34,
+    "ALREADY_IN_FEED": 2
+  },
+  "first95_currently_active": 60,
+  "first95_ever_published_or_preexisting": 61,
+  "first95_published_but_currently_inactive": 1,
+  "remaining_first95_source_blocked": 34,
+  "scheduled_refresh_overlay_commit": "ae56db8b7865ebfe01d1613529a5d83d9353c2d8",
+  "Avito_import_and_moderation": "NOT_CHECKED",
+  "Drom_changed_by_this_work": false,
+  "private_buying_prices_published": false
+}
