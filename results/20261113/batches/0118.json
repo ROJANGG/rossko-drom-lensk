@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1004",
+      "supplier_nomenclature": "NSII0025060667",
+      "checked_at_utc": "2026-11-16T11:21:54.697081+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1007",
+      "supplier_nomenclature": "NSII0025060633",
+      "checked_at_utc": "2026-11-16T11:21:55.525372+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1013",
+      "supplier_nomenclature": "NSII0025060636",
+      "checked_at_utc": "2026-11-16T11:21:56.195915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1016",
+      "supplier_nomenclature": "NSII0025060638",
+      "checked_at_utc": "2026-11-16T11:21:57.569285+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1019",
+      "supplier_nomenclature": "NSII0025740742",
+      "checked_at_utc": "2026-11-16T11:21:58.126760+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1022",
+      "supplier_nomenclature": "NSII0025740744",
+      "checked_at_utc": "2026-11-16T11:21:59.158091+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1024",
+      "supplier_nomenclature": "NSII0025060640",
+      "checked_at_utc": "2026-11-16T11:22:00.510110+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1029",
+      "supplier_nomenclature": "NSII0025740746",
+      "checked_at_utc": "2026-11-16T11:22:01.328217+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1030",
+      "supplier_nomenclature": "NSII0025060644",
+      "checked_at_utc": "2026-11-16T11:22:02.619468+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1033",
+      "supplier_nomenclature": "NSII0025740747",
+      "checked_at_utc": "2026-11-16T11:22:03.378138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1038",
+      "supplier_nomenclature": "NSII0025060648",
+      "checked_at_utc": "2026-11-16T11:22:04.319494+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1059",
+      "supplier_nomenclature": "NSII0025740757",
+      "checked_at_utc": "2026-11-16T11:22:05.236797+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1065",
+      "supplier_nomenclature": "NSII0025740760",
+      "checked_at_utc": "2026-11-16T11:22:06.198792+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1110",
+      "supplier_nomenclature": "NSII0025740920",
+      "checked_at_utc": "2026-11-16T11:22:07.363092+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1117",
+      "supplier_nomenclature": "NSII0025740784",
+      "checked_at_utc": "2026-11-16T11:22:08.164410+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1118",
+      "supplier_nomenclature": "NSII0025060653",
+      "checked_at_utc": "2026-11-16T11:22:09.198980+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1120",
+      "supplier_nomenclature": "NSII0025740786",
+      "checked_at_utc": "2026-11-16T11:22:10.300772+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1129",
+      "supplier_nomenclature": "NSII0025740926",
+      "checked_at_utc": "2026-11-16T11:22:11.070593+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1131",
+      "supplier_nomenclature": "NSII0025740927",
+      "checked_at_utc": "2026-11-16T11:22:12.745877+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1167",
+      "supplier_nomenclature": "NSII0025740941",
+      "checked_at_utc": "2026-11-16T11:22:13.245449+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1177",
+      "supplier_nomenclature": "NSII0025740814",
+      "checked_at_utc": "2026-11-16T11:22:14.406717+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1187",
+      "supplier_nomenclature": "NSII0025740817",
+      "checked_at_utc": "2026-11-16T11:22:15.267404+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1193",
+      "supplier_nomenclature": "NSII0025740953",
+      "checked_at_utc": "2026-11-16T11:22:16.193745+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1195",
+      "supplier_nomenclature": "NSII0028952463",
+      "checked_at_utc": "2026-11-16T11:22:17.139520+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1196",
+      "supplier_nomenclature": "NSII0025740954",
+      "checked_at_utc": "2026-11-16T11:22:18.408457+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1213",
+      "supplier_nomenclature": "NSII0025740831",
+      "checked_at_utc": "2026-11-16T11:22:19.663946+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1225",
+      "supplier_nomenclature": "NSII0025740833",
+      "checked_at_utc": "2026-11-16T11:22:20.487687+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1245",
+      "supplier_nomenclature": "NSII0025060677",
+      "checked_at_utc": "2026-11-16T11:22:21.368575+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1272",
+      "supplier_nomenclature": "NSII0025060753",
+      "checked_at_utc": "2026-11-16T11:22:22.322433+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1293",
+      "supplier_nomenclature": "NSII0025731819",
+      "checked_at_utc": "2026-11-16T11:22:23.155273+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1315",
+      "supplier_nomenclature": "NSII0025740969",
+      "checked_at_utc": "2026-11-16T11:22:24.140486+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1337",
+      "supplier_nomenclature": "NSII0025060730",
+      "checked_at_utc": "2026-11-16T11:22:25.231586+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1338",
+      "supplier_nomenclature": "NSII0025060709",
+      "checked_at_utc": "2026-11-16T11:22:26.177896+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1344",
+      "supplier_nomenclature": "NSII0025060781",
+      "checked_at_utc": "2026-11-16T11:22:27.210365+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1363",
+      "supplier_nomenclature": "NSII0025060783",
+      "checked_at_utc": "2026-11-16T11:22:28.871885+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1402",
+      "supplier_nomenclature": "NSII0025060738",
+      "checked_at_utc": "2026-11-16T11:22:29.422488+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1476",
+      "supplier_nomenclature": "NSII0025060802",
+      "checked_at_utc": "2026-11-16T11:22:30.356926+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1479",
+      "supplier_nomenclature": "NSII0025060796",
+      "checked_at_utc": "2026-11-16T11:22:31.387981+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1518",
+      "supplier_nomenclature": "NSII0025731830",
+      "checked_at_utc": "2026-11-16T11:22:32.125163+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1522",
+      "supplier_nomenclature": "NSII0025731833",
+      "checked_at_utc": "2026-11-16T11:22:33.490014+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1541",
+      "supplier_nomenclature": "NSII0025731810",
+      "checked_at_utc": "2026-11-16T11:22:34.346401+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1600",
+      "supplier_nomenclature": "NSII0028952464",
+      "checked_at_utc": "2026-11-16T11:22:35.150869+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1672",
+      "supplier_nomenclature": "NSII0028952437",
+      "checked_at_utc": "2026-11-16T11:22:36.223613+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1676",
+      "supplier_nomenclature": "NSII0028952441",
+      "checked_at_utc": "2026-11-16T11:22:37.287233+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1681",
+      "supplier_nomenclature": "NSII0028952446",
+      "checked_at_utc": "2026-11-16T11:22:38.281188+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1682",
+      "supplier_nomenclature": "NSII0028952447",
+      "checked_at_utc": "2026-11-16T11:22:39.261277+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1683",
+      "supplier_nomenclature": "NSII0028952448",
+      "checked_at_utc": "2026-11-16T11:22:40.176811+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1684",
+      "supplier_nomenclature": "NSII0028952449",
+      "checked_at_utc": "2026-11-16T11:22:41.596845+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1685",
+      "supplier_nomenclature": "NSII0028952450",
+      "checked_at_utc": "2026-11-16T11:22:42.395393+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1687",
+      "supplier_nomenclature": "NSII0028952452",
+      "checked_at_utc": "2026-11-16T11:22:43.114149+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1688",
+      "supplier_nomenclature": "NSII0028952453",
+      "checked_at_utc": "2026-11-16T11:22:44.299402+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1691",
+      "supplier_nomenclature": "NSII0028952456",
+      "checked_at_utc": "2026-11-16T11:22:45.187173+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1692",
+      "supplier_nomenclature": "NSII0028952457",
+      "checked_at_utc": "2026-11-16T11:22:46.155354+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1693",
+      "supplier_nomenclature": "NSII0028952458",
+      "checked_at_utc": "2026-11-16T11:22:47.216787+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ1694",
+      "supplier_nomenclature": "NSII0028952459",
+      "checked_at_utc": "2026-11-16T11:22:48.296759+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2606",
+      "supplier_nomenclature": "NSII0025060337",
+      "checked_at_utc": "2026-11-16T11:22:49.346770+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2613",
+      "supplier_nomenclature": "NSII0025060332",
+      "checked_at_utc": "2026-11-16T11:22:50.269071+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2617",
+      "supplier_nomenclature": "NSII0025060340",
+      "checked_at_utc": "2026-11-16T11:22:51.882619+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2628",
+      "supplier_nomenclature": "NSII0025060350",
+      "checked_at_utc": "2026-11-16T11:22:52.408973+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2632",
+      "supplier_nomenclature": "NSII0025060353",
+      "checked_at_utc": "2026-11-16T11:22:53.584485+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2635",
+      "supplier_nomenclature": "NSII0025060356",
+      "checked_at_utc": "2026-11-16T11:22:54.332986+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2637",
+      "supplier_nomenclature": "NSII0025060358",
+      "checked_at_utc": "2026-11-16T11:22:55.360117+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2638",
+      "supplier_nomenclature": "NSII0025731815",
+      "checked_at_utc": "2026-11-16T11:22:56.347122+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2643",
+      "supplier_nomenclature": "NSII0025060363",
+      "checked_at_utc": "2026-11-16T11:22:57.387879+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2647",
+      "supplier_nomenclature": "NSII0025060367",
+      "checked_at_utc": "2026-11-16T11:22:58.440942+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2648",
+      "supplier_nomenclature": "NSII0025060368",
+      "checked_at_utc": "2026-11-16T11:22:59.398545+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2655",
+      "supplier_nomenclature": "NSII0025060375",
+      "checked_at_utc": "2026-11-16T11:23:00.705936+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2656",
+      "supplier_nomenclature": "NSII0025060376",
+      "checked_at_utc": "2026-11-16T11:23:01.339621+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2661",
+      "supplier_nomenclature": "NSII0025060381",
+      "checked_at_utc": "2026-11-16T11:23:02.379119+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2675",
+      "supplier_nomenclature": "NSII0025060390",
+      "checked_at_utc": "2026-11-16T11:23:03.453110+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2704",
+      "supplier_nomenclature": "NSII0025060416",
+      "checked_at_utc": "2026-11-16T11:23:04.394662+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2714",
+      "supplier_nomenclature": "NSII0025741009",
+      "checked_at_utc": "2026-11-16T11:23:05.367293+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2717",
+      "supplier_nomenclature": "NSII0025060420",
+      "checked_at_utc": "2026-11-16T11:23:06.616109+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2734",
+      "supplier_nomenclature": "NSII0025731854",
+      "checked_at_utc": "2026-11-16T11:23:06.616264+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2731",
+      "supplier_nomenclature": "NSII0025060432",
+      "checked_at_utc": "2026-11-16T11:23:07.467268+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2735",
+      "supplier_nomenclature": "NSII0025741012",
+      "checked_at_utc": "2026-11-16T11:23:08.173179+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2750",
+      "supplier_nomenclature": "NSII0025060444",
+      "checked_at_utc": "2026-11-16T11:23:09.757939+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2753",
+      "supplier_nomenclature": "NSII0025060446",
+      "checked_at_utc": "2026-11-16T11:23:10.289236+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2757",
+      "supplier_nomenclature": "NSII0025731856",
+      "checked_at_utc": "2026-11-16T11:23:11.705557+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2771",
+      "supplier_nomenclature": "NSII0025060459",
+      "checked_at_utc": "2026-11-16T11:23:12.701625+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2776",
+      "supplier_nomenclature": "NSII0025060463",
+      "checked_at_utc": "2026-11-16T11:23:13.433886+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2790",
+      "supplier_nomenclature": "NSII0025060472",
+      "checked_at_utc": "2026-11-16T11:23:14.750672+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2801",
+      "supplier_nomenclature": "NSII0025060483",
+      "checked_at_utc": "2026-11-16T11:23:15.364677+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2807",
+      "supplier_nomenclature": "NSII0025731857",
+      "checked_at_utc": "2026-11-16T11:23:16.245472+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2808",
+      "supplier_nomenclature": "NSII0025741028",
+      "checked_at_utc": "2026-11-16T11:23:17.134529+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2816",
+      "supplier_nomenclature": "NSII0025060494",
+      "checked_at_utc": "2026-11-16T11:23:18.201521+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2818",
+      "supplier_nomenclature": "NSII0025060495",
+      "checked_at_utc": "2026-11-16T11:23:19.409490+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2820",
+      "supplier_nomenclature": "NSII0025060496",
+      "checked_at_utc": "2026-11-16T11:23:20.302570+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2826",
+      "supplier_nomenclature": "NSII0025741031",
+      "checked_at_utc": "2026-11-16T11:23:21.193297+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2851",
+      "supplier_nomenclature": "NSII0025060524",
+      "checked_at_utc": "2026-11-16T11:23:22.512496+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2854",
+      "supplier_nomenclature": "NSII0025060525",
+      "checked_at_utc": "2026-11-16T11:23:23.381888+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2855",
+      "supplier_nomenclature": "NSII0025060526",
+      "checked_at_utc": "2026-11-16T11:23:24.690285+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2856",
+      "supplier_nomenclature": "NSII0025060527",
+      "checked_at_utc": "2026-11-16T11:23:25.326155+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2858",
+      "supplier_nomenclature": "NSII0025060529",
+      "checked_at_utc": "2026-11-16T11:23:26.369440+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2859",
+      "supplier_nomenclature": "NSII0025060530",
+      "checked_at_utc": "2026-11-16T11:23:27.726569+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2861",
+      "supplier_nomenclature": "NSII0025060532",
+      "checked_at_utc": "2026-11-16T11:23:28.312124+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2865",
+      "supplier_nomenclature": "NSII0025060536",
+      "checked_at_utc": "2026-11-16T11:23:29.358899+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2866",
+      "supplier_nomenclature": "NSII0025060537",
+      "checked_at_utc": "2026-11-16T11:23:30.241832+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2872",
+      "supplier_nomenclature": "NSII0025731816",
+      "checked_at_utc": "2026-11-16T11:23:30.241979+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Пружины подвески",
+      "brand": "SUFIX",
+      "article": "SZ2867",
+      "supplier_nomenclature": "NSII0025740874",
+      "checked_at_utc": "2026-11-16T11:23:31.650001+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
