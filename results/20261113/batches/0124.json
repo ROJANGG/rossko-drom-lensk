@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4090",
+      "supplier_nomenclature": "NSII0025289700",
+      "checked_at_utc": "2026-11-16T11:31:56.450365+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4091",
+      "supplier_nomenclature": "NSII0025289659",
+      "checked_at_utc": "2026-11-16T11:31:58.365299+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4094",
+      "supplier_nomenclature": "NSII0025290220",
+      "checked_at_utc": "2026-11-16T11:31:59.269075+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4096",
+      "supplier_nomenclature": "NSII0025289777",
+      "checked_at_utc": "2026-11-16T11:31:59.358227+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4099",
+      "supplier_nomenclature": "NSII0025289701",
+      "checked_at_utc": "2026-11-16T11:32:00.280116+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4109",
+      "supplier_nomenclature": "NSII0025289856",
+      "checked_at_utc": "2026-11-16T11:32:01.391862+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4110",
+      "supplier_nomenclature": "NSII0025289643",
+      "checked_at_utc": "2026-11-16T11:32:02.553602+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4111",
+      "supplier_nomenclature": "NSII0025289779",
+      "checked_at_utc": "2026-11-16T11:32:03.478470+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4115",
+      "supplier_nomenclature": "NSII0025289632",
+      "checked_at_utc": "2026-11-16T11:32:04.518074+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4116",
+      "supplier_nomenclature": "NSII0025289781",
+      "checked_at_utc": "2026-11-16T11:32:05.414035+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4119",
+      "supplier_nomenclature": "NSII0025290221",
+      "checked_at_utc": "2026-11-16T11:32:06.283945+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4121",
+      "supplier_nomenclature": "NSII0025290147",
+      "checked_at_utc": "2026-11-16T11:32:07.882660+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4122",
+      "supplier_nomenclature": "NSII0025289782",
+      "checked_at_utc": "2026-11-16T11:32:08.574163+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4125",
+      "supplier_nomenclature": "NSII0025289660",
+      "checked_at_utc": "2026-11-16T11:32:10.123999+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4126",
+      "supplier_nomenclature": "NSII0025289826",
+      "checked_at_utc": "2026-11-16T11:32:10.641543+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4130",
+      "supplier_nomenclature": "NSII0025289661",
+      "checked_at_utc": "2026-11-16T11:32:11.896671+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4131",
+      "supplier_nomenclature": "NSII0025290148",
+      "checked_at_utc": "2026-11-16T11:32:12.651009+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4132",
+      "supplier_nomenclature": "NSII0025290122",
+      "checked_at_utc": "2026-11-16T11:32:13.484534+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4133",
+      "supplier_nomenclature": "NSII0025289828",
+      "checked_at_utc": "2026-11-16T11:32:14.428437+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4134",
+      "supplier_nomenclature": "NSII0025289644",
+      "checked_at_utc": "2026-11-16T11:32:15.636196+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4135",
+      "supplier_nomenclature": "NSII0025290205",
+      "checked_at_utc": "2026-11-16T11:32:16.750098+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4141",
+      "supplier_nomenclature": "NSII0025289866",
+      "checked_at_utc": "2026-11-16T11:32:17.469810+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4143",
+      "supplier_nomenclature": "NSII0025289662",
+      "checked_at_utc": "2026-11-16T11:32:18.446487+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4154",
+      "supplier_nomenclature": "NSII0025289783",
+      "checked_at_utc": "2026-11-16T11:32:19.536816+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4155",
+      "supplier_nomenclature": "NSII0025289784",
+      "checked_at_utc": "2026-11-16T11:32:20.565067+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4162",
+      "supplier_nomenclature": "NSII0025290225",
+      "checked_at_utc": "2026-11-16T11:32:21.395358+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4163",
+      "supplier_nomenclature": "NSII0025289785",
+      "checked_at_utc": "2026-11-16T11:32:22.594935+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4166",
+      "supplier_nomenclature": "NSII0025289786",
+      "checked_at_utc": "2026-11-16T11:32:23.536072+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4171",
+      "supplier_nomenclature": "NSII0025290195",
+      "checked_at_utc": "2026-11-16T11:32:24.578289+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4175",
+      "supplier_nomenclature": "NSII0025289787",
+      "checked_at_utc": "2026-11-16T11:32:25.959805+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4177",
+      "supplier_nomenclature": "NSII0025289788",
+      "checked_at_utc": "2026-11-16T11:32:26.614530+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4178",
+      "supplier_nomenclature": "NSII0025290124",
+      "checked_at_utc": "2026-11-16T11:32:27.548506+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4183",
+      "supplier_nomenclature": "NSII0025289706",
+      "checked_at_utc": "2026-11-16T11:32:28.766147+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4184",
+      "supplier_nomenclature": "NSII0025289789",
+      "checked_at_utc": "2026-11-16T11:32:29.510555+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4187",
+      "supplier_nomenclature": "NSII0025289790",
+      "checked_at_utc": "2026-11-16T11:32:30.581068+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4188",
+      "supplier_nomenclature": "NSII0025290201",
+      "checked_at_utc": "2026-11-16T11:32:31.447323+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4193",
+      "supplier_nomenclature": "NSII0025290228",
+      "checked_at_utc": "2026-11-16T11:32:32.533731+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4194",
+      "supplier_nomenclature": "NSII0025289665",
+      "checked_at_utc": "2026-11-16T11:32:33.536479+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4196",
+      "supplier_nomenclature": "NSII0025290149",
+      "checked_at_utc": "2026-11-16T11:32:34.630585+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4199",
+      "supplier_nomenclature": "NSII0025289707",
+      "checked_at_utc": "2026-11-16T11:32:35.778424+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4205",
+      "supplier_nomenclature": "NSII0025289858",
+      "checked_at_utc": "2026-11-16T11:32:35.778548+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4207",
+      "supplier_nomenclature": "NSII0025289832",
+      "checked_at_utc": "2026-11-16T11:32:35.778601+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4204",
+      "supplier_nomenclature": "NSII0025289857",
+      "checked_at_utc": "2026-11-16T11:32:36.465077+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4219",
+      "supplier_nomenclature": "NSII0025289794",
+      "checked_at_utc": "2026-11-16T11:32:37.576582+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4221",
+      "supplier_nomenclature": "NSII0025290183",
+      "checked_at_utc": "2026-11-16T11:32:38.627442+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4223",
+      "supplier_nomenclature": "NSII0025289667",
+      "checked_at_utc": "2026-11-16T11:32:40.320562+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4225",
+      "supplier_nomenclature": "NSII0025289833",
+      "checked_at_utc": "2026-11-16T11:32:40.937677+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4230",
+      "supplier_nomenclature": "NSII0025289708",
+      "checked_at_utc": "2026-11-16T11:32:41.604378+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4232",
+      "supplier_nomenclature": "NSII0025289746",
+      "checked_at_utc": "2026-11-16T11:32:42.398367+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4234",
+      "supplier_nomenclature": "NSII0025289755",
+      "checked_at_utc": "2026-11-16T11:32:43.938931+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4237",
+      "supplier_nomenclature": "NSII0025289796",
+      "checked_at_utc": "2026-11-16T11:32:44.592276+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4238",
+      "supplier_nomenclature": "NSII0025289668",
+      "checked_at_utc": "2026-11-16T11:32:45.467097+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4239",
+      "supplier_nomenclature": "NSII0025289797",
+      "checked_at_utc": "2026-11-16T11:32:46.675171+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4245",
+      "supplier_nomenclature": "NSII0025290128",
+      "checked_at_utc": "2026-11-16T11:32:47.985667+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4247",
+      "supplier_nomenclature": "NSII0025289710",
+      "checked_at_utc": "2026-11-16T11:32:48.367043+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4251",
+      "supplier_nomenclature": "NSII0025289711",
+      "checked_at_utc": "2026-11-16T11:32:49.481760+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4256",
+      "supplier_nomenclature": "NSII0025289751",
+      "checked_at_utc": "2026-11-16T11:32:50.825668+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4259",
+      "supplier_nomenclature": "NSII0025289712",
+      "checked_at_utc": "2026-11-16T11:32:51.662648+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4262",
+      "supplier_nomenclature": "NSII0025290207",
+      "checked_at_utc": "2026-11-16T11:32:52.512138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4266",
+      "supplier_nomenclature": "NSII0025290189",
+      "checked_at_utc": "2026-11-16T11:32:53.446947+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4267",
+      "supplier_nomenclature": "NSII0025289798",
+      "checked_at_utc": "2026-11-16T11:32:54.414557+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4274",
+      "supplier_nomenclature": "NSII0025289819",
+      "checked_at_utc": "2026-11-16T11:32:55.549962+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4276",
+      "supplier_nomenclature": "NSII0025289764",
+      "checked_at_utc": "2026-11-16T11:32:56.320278+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4278",
+      "supplier_nomenclature": "NSII0025289799",
+      "checked_at_utc": "2026-11-16T11:32:58.190808+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4281",
+      "supplier_nomenclature": "NSII0025289621",
+      "checked_at_utc": "2026-11-16T11:32:58.579697+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4284",
+      "supplier_nomenclature": "NSII0025289634",
+      "checked_at_utc": "2026-11-16T11:32:59.441994+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4285",
+      "supplier_nomenclature": "NSII0025289716",
+      "checked_at_utc": "2026-11-16T11:33:01.246912+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4291",
+      "supplier_nomenclature": "NSII0025289861",
+      "checked_at_utc": "2026-11-16T11:33:01.771678+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4293",
+      "supplier_nomenclature": "NSII0025290209",
+      "checked_at_utc": "2026-11-16T11:33:02.423675+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4298",
+      "supplier_nomenclature": "NSII0025289801",
+      "checked_at_utc": "2026-11-16T11:33:03.501862+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4299",
+      "supplier_nomenclature": "NSII0025289719",
+      "checked_at_utc": "2026-11-16T11:33:04.973132+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4303",
+      "supplier_nomenclature": "NSII0025289802",
+      "checked_at_utc": "2026-11-16T11:33:05.450202+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4308",
+      "supplier_nomenclature": "NSII0025289803",
+      "checked_at_utc": "2026-11-16T11:33:06.458560+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4309",
+      "supplier_nomenclature": "NSII0025290236",
+      "checked_at_utc": "2026-11-16T11:33:07.782714+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4318",
+      "supplier_nomenclature": "NSII0025290211",
+      "checked_at_utc": "2026-11-16T11:33:08.422273+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4319",
+      "supplier_nomenclature": "NSII0025289721",
+      "checked_at_utc": "2026-11-16T11:33:09.616974+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4323",
+      "supplier_nomenclature": "NSII0025289622",
+      "checked_at_utc": "2026-11-16T11:33:10.618559+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4324",
+      "supplier_nomenclature": "NSII0025289671",
+      "checked_at_utc": "2026-11-16T11:33:11.446573+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4331",
+      "supplier_nomenclature": "NSII0025290197",
+      "checked_at_utc": "2026-11-16T11:33:12.657637+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4339",
+      "supplier_nomenclature": "NSII0025289650",
+      "checked_at_utc": "2026-11-16T11:33:13.415281+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4340",
+      "supplier_nomenclature": "NSII0025289752",
+      "checked_at_utc": "2026-11-16T11:33:14.425448+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4342",
+      "supplier_nomenclature": "NSII0025289725",
+      "checked_at_utc": "2026-11-16T11:33:15.434799+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4349",
+      "supplier_nomenclature": "NSII0025289839",
+      "checked_at_utc": "2026-11-16T11:33:16.427862+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4350",
+      "supplier_nomenclature": "NSII0025289652",
+      "checked_at_utc": "2026-11-16T11:33:17.636500+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4360",
+      "supplier_nomenclature": "NSII0025290249",
+      "checked_at_utc": "2026-11-16T11:33:18.680341+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4361",
+      "supplier_nomenclature": "NSII0025289807",
+      "checked_at_utc": "2026-11-16T11:33:19.429682+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4365",
+      "supplier_nomenclature": "NSII0025290240",
+      "checked_at_utc": "2026-11-16T11:33:20.489982+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4367",
+      "supplier_nomenclature": "NSII0025289727",
+      "checked_at_utc": "2026-11-16T11:33:21.763866+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4368",
+      "supplier_nomenclature": "NSII0025290241",
+      "checked_at_utc": "2026-11-16T11:33:23.227644+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4371",
+      "supplier_nomenclature": "NSII0025289682",
+      "checked_at_utc": "2026-11-16T11:33:24.292978+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4373",
+      "supplier_nomenclature": "NSII0025290178",
+      "checked_at_utc": "2026-11-16T11:33:24.716471+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4375",
+      "supplier_nomenclature": "NSII0025289729",
+      "checked_at_utc": "2026-11-16T11:33:25.596482+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4381",
+      "supplier_nomenclature": "NSII0025289809",
+      "checked_at_utc": "2026-11-16T11:33:26.559551+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4385",
+      "supplier_nomenclature": "NSII0025290243",
+      "checked_at_utc": "2026-11-16T11:33:27.495556+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4391",
+      "supplier_nomenclature": "NSII0025289862",
+      "checked_at_utc": "2026-11-16T11:33:28.508807+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4393",
+      "supplier_nomenclature": "NSII0025289731",
+      "checked_at_utc": "2026-11-16T11:33:29.453953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4395",
+      "supplier_nomenclature": "NSII0025289810",
+      "checked_at_utc": "2026-11-16T11:33:30.588999+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4396",
+      "supplier_nomenclature": "NSII0025289732",
+      "checked_at_utc": "2026-11-16T11:33:31.615120+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4397",
+      "supplier_nomenclature": "NSII0025289745",
+      "checked_at_utc": "2026-11-16T11:33:32.595909+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Опоры двигателя",
+      "brand": "SUFIX",
+      "article": "FM4398",
+      "supplier_nomenclature": "NSII0025289733",
+      "checked_at_utc": "2026-11-16T11:33:33.420572+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
