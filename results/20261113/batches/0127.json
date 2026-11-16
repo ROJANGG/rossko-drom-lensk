@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Japanparts",
+      "article": "KK22070",
+      "supplier_nomenclature": "NSIN0011358305",
+      "checked_at_utc": "2026-11-16T11:37:03.075162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1002",
+      "supplier_nomenclature": "NSII0007955480",
+      "checked_at_utc": "2026-11-16T11:37:04.436455+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1028",
+      "supplier_nomenclature": "NSII0007955506",
+      "checked_at_utc": "2026-11-16T11:37:04.436613+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1003",
+      "supplier_nomenclature": "NSII0007955481",
+      "checked_at_utc": "2026-11-16T11:37:05.429322+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1035",
+      "supplier_nomenclature": "NSII0012899579",
+      "checked_at_utc": "2026-11-16T11:37:07.445650+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1034",
+      "supplier_nomenclature": "NSII0012899578",
+      "checked_at_utc": "2026-11-16T11:37:07.521296+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1041",
+      "supplier_nomenclature": "NSII0012899584",
+      "checked_at_utc": "2026-11-16T11:37:08.646471+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1063",
+      "supplier_nomenclature": "NSII0013008503",
+      "checked_at_utc": "2026-11-16T11:37:09.577727+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1087",
+      "supplier_nomenclature": "NSII0017780673",
+      "checked_at_utc": "2026-11-16T11:37:10.307111+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1088",
+      "supplier_nomenclature": "NSII0012824073",
+      "checked_at_utc": "2026-11-16T11:37:11.409562+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1089",
+      "supplier_nomenclature": "NSII0012824074",
+      "checked_at_utc": "2026-11-16T11:37:12.334642+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1092",
+      "supplier_nomenclature": "NSII0012971461",
+      "checked_at_utc": "2026-11-16T11:37:13.420170+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1095",
+      "supplier_nomenclature": "NSII0012899611",
+      "checked_at_utc": "2026-11-16T11:37:14.714809+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1099",
+      "supplier_nomenclature": "NSII0017780676",
+      "checked_at_utc": "2026-11-16T11:37:15.265846+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1100",
+      "supplier_nomenclature": "NSII0012899913",
+      "checked_at_utc": "2026-11-16T11:37:16.239730+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1103",
+      "supplier_nomenclature": "NSII0017780679",
+      "checked_at_utc": "2026-11-16T11:37:17.517131+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1108",
+      "supplier_nomenclature": "NSII0012899616",
+      "checked_at_utc": "2026-11-16T11:37:18.423292+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1109",
+      "supplier_nomenclature": "NSII0012971462",
+      "checked_at_utc": "2026-11-16T11:37:19.343418+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1120",
+      "supplier_nomenclature": "NSII0012899626",
+      "checked_at_utc": "2026-11-16T11:37:21.008872+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1123",
+      "supplier_nomenclature": "NSII0012824076",
+      "checked_at_utc": "2026-11-16T11:37:21.560469+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1124",
+      "supplier_nomenclature": "NSII0012824077",
+      "checked_at_utc": "2026-11-16T11:37:23.106494+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1126",
+      "supplier_nomenclature": "NSII0012824078",
+      "checked_at_utc": "2026-11-16T11:37:24.409880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1127",
+      "supplier_nomenclature": "NSII0012899628",
+      "checked_at_utc": "2026-11-16T11:37:24.663738+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1133",
+      "supplier_nomenclature": "NSII0012971463",
+      "checked_at_utc": "2026-11-16T11:37:25.497849+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1142",
+      "supplier_nomenclature": "NSII0012899634",
+      "checked_at_utc": "2026-11-16T11:37:26.250365+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1145",
+      "supplier_nomenclature": "NSII0012899637",
+      "checked_at_utc": "2026-11-16T11:37:27.142644+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1156",
+      "supplier_nomenclature": "NSII0012899644",
+      "checked_at_utc": "2026-11-16T11:37:28.327264+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1171",
+      "supplier_nomenclature": "NSII0012899657",
+      "checked_at_utc": "2026-11-16T11:37:29.351246+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1172",
+      "supplier_nomenclature": "NSII0012899658",
+      "checked_at_utc": "2026-11-16T11:37:30.804401+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1176",
+      "supplier_nomenclature": "NSII0012824082",
+      "checked_at_utc": "2026-11-16T11:37:31.700845+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1180",
+      "supplier_nomenclature": "NSII0012899663",
+      "checked_at_utc": "2026-11-16T11:37:32.458362+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1182",
+      "supplier_nomenclature": "NSII0012824083",
+      "checked_at_utc": "2026-11-16T11:37:33.398228+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1186",
+      "supplier_nomenclature": "NSII0012824085",
+      "checked_at_utc": "2026-11-16T11:37:35.183814+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1215",
+      "supplier_nomenclature": "NSII0012824088",
+      "checked_at_utc": "2026-11-16T11:37:35.549648+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1218",
+      "supplier_nomenclature": "NSII0012899693",
+      "checked_at_utc": "2026-11-16T11:37:36.416953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1222",
+      "supplier_nomenclature": "NSII0012899696",
+      "checked_at_utc": "2026-11-16T11:37:37.449808+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1231",
+      "supplier_nomenclature": "NSII0012899702",
+      "checked_at_utc": "2026-11-16T11:37:38.534297+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1243",
+      "supplier_nomenclature": "NSII0012824092",
+      "checked_at_utc": "2026-11-16T11:37:40.753059+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1241",
+      "supplier_nomenclature": "NSII0012824091",
+      "checked_at_utc": "2026-11-16T11:37:41.056200+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1245",
+      "supplier_nomenclature": "NSII0012824093",
+      "checked_at_utc": "2026-11-16T11:37:42.733432+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1257",
+      "supplier_nomenclature": "NSII0012824095",
+      "checked_at_utc": "2026-11-16T11:37:43.719909+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1265",
+      "supplier_nomenclature": "NSII0012899725",
+      "checked_at_utc": "2026-11-16T11:37:43.720068+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1258",
+      "supplier_nomenclature": "NSII0012899719",
+      "checked_at_utc": "2026-11-16T11:37:43.907435+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1267",
+      "supplier_nomenclature": "NSII0012824097",
+      "checked_at_utc": "2026-11-16T11:37:45.013252+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1271",
+      "supplier_nomenclature": "NSII0012899730",
+      "checked_at_utc": "2026-11-16T11:37:45.415551+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1272",
+      "supplier_nomenclature": "NSII0012824098",
+      "checked_at_utc": "2026-11-16T11:37:46.616123+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1279",
+      "supplier_nomenclature": "NSII0012899735",
+      "checked_at_utc": "2026-11-16T11:37:47.939727+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1281",
+      "supplier_nomenclature": "NSII0012899737",
+      "checked_at_utc": "2026-11-16T11:37:48.989621+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1282",
+      "supplier_nomenclature": "NSII0012971465",
+      "checked_at_utc": "2026-11-16T11:37:50.104970+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1286",
+      "supplier_nomenclature": "NSII0012899740",
+      "checked_at_utc": "2026-11-16T11:37:50.883789+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1288",
+      "supplier_nomenclature": "NSII0012899742",
+      "checked_at_utc": "2026-11-16T11:37:51.761574+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1297",
+      "supplier_nomenclature": "NSII0012899750",
+      "checked_at_utc": "2026-11-16T11:37:52.826463+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1298",
+      "supplier_nomenclature": "NSII0012824099",
+      "checked_at_utc": "2026-11-16T11:37:54.343269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1305",
+      "supplier_nomenclature": "NSII0012899757",
+      "checked_at_utc": "2026-11-16T11:37:55.621186+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1299",
+      "supplier_nomenclature": "NSII0012899751",
+      "checked_at_utc": "2026-11-16T11:37:55.831146+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1314",
+      "supplier_nomenclature": "NSII0012899765",
+      "checked_at_utc": "2026-11-16T11:37:57.417815+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1316",
+      "supplier_nomenclature": "NSII0012899766",
+      "checked_at_utc": "2026-11-16T11:37:57.859850+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1320",
+      "supplier_nomenclature": "NSII0012971467",
+      "checked_at_utc": "2026-11-16T11:37:59.472743+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1318",
+      "supplier_nomenclature": "NSII0012899768",
+      "checked_at_utc": "2026-11-16T11:38:00.218618+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1324",
+      "supplier_nomenclature": "NSII0012824101",
+      "checked_at_utc": "2026-11-16T11:38:00.597413+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1332",
+      "supplier_nomenclature": "NSII0012899776",
+      "checked_at_utc": "2026-11-16T11:38:01.582436+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1335",
+      "supplier_nomenclature": "NSII0012824105",
+      "checked_at_utc": "2026-11-16T11:38:03.420362+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1336",
+      "supplier_nomenclature": "NSII0012824106",
+      "checked_at_utc": "2026-11-16T11:38:04.133365+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1342",
+      "supplier_nomenclature": "NSII0012899782",
+      "checked_at_utc": "2026-11-16T11:38:04.681915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1344",
+      "supplier_nomenclature": "NSII0012824108",
+      "checked_at_utc": "2026-11-16T11:38:06.122707+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1349",
+      "supplier_nomenclature": "NSII0012899788",
+      "checked_at_utc": "2026-11-16T11:38:07.044073+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1351",
+      "supplier_nomenclature": "NSII0012824109",
+      "checked_at_utc": "2026-11-16T11:38:07.906291+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1361",
+      "supplier_nomenclature": "NSII0012899792",
+      "checked_at_utc": "2026-11-16T11:38:07.906440+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1354",
+      "supplier_nomenclature": "NSII0012824110",
+      "checked_at_utc": "2026-11-16T11:38:08.653254+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1362",
+      "supplier_nomenclature": "NSII0012899793",
+      "checked_at_utc": "2026-11-16T11:38:10.589339+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1364",
+      "supplier_nomenclature": "NSII0012899902",
+      "checked_at_utc": "2026-11-16T11:38:11.013190+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1365",
+      "supplier_nomenclature": "NSII0012899794",
+      "checked_at_utc": "2026-11-16T11:38:12.470000+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1368",
+      "supplier_nomenclature": "NSII0012824111",
+      "checked_at_utc": "2026-11-16T11:38:12.862717+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1377",
+      "supplier_nomenclature": "NSII0012899800",
+      "checked_at_utc": "2026-11-16T11:38:14.493250+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1378",
+      "supplier_nomenclature": "NSII0012824113",
+      "checked_at_utc": "2026-11-16T11:38:14.734757+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1382",
+      "supplier_nomenclature": "NSII0012899803",
+      "checked_at_utc": "2026-11-16T11:38:15.746728+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1391",
+      "supplier_nomenclature": "NSII0012824115",
+      "checked_at_utc": "2026-11-16T11:38:16.989952+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1398",
+      "supplier_nomenclature": "NSII0012824117",
+      "checked_at_utc": "2026-11-16T11:38:17.977027+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1400",
+      "supplier_nomenclature": "NSII0012899817",
+      "checked_at_utc": "2026-11-16T11:38:18.731928+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1431",
+      "supplier_nomenclature": "NSII0012899838",
+      "checked_at_utc": "2026-11-16T11:38:19.505207+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1486",
+      "supplier_nomenclature": "NSII0012899866",
+      "checked_at_utc": "2026-11-16T11:38:20.505613+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1539",
+      "supplier_nomenclature": "NSII0012899876",
+      "checked_at_utc": "2026-11-16T11:38:21.677564+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1550",
+      "supplier_nomenclature": "NSII0027215467",
+      "checked_at_utc": "2026-11-16T11:38:22.871639+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1554",
+      "supplier_nomenclature": "NSII0027639034",
+      "checked_at_utc": "2026-11-16T11:38:23.711651+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "LYNXauto",
+      "article": "WB1557",
+      "supplier_nomenclature": "NSII0028701397",
+      "checked_at_utc": "2026-11-16T11:38:24.577350+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511008",
+      "supplier_nomenclature": "NSII0028787694",
+      "checked_at_utc": "2026-11-16T11:38:25.468567+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511010",
+      "supplier_nomenclature": "NSII0028787598",
+      "checked_at_utc": "2026-11-16T11:38:26.870183+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511012",
+      "supplier_nomenclature": "NSII0028787533",
+      "checked_at_utc": "2026-11-16T11:38:27.767222+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511023",
+      "supplier_nomenclature": "NSII0028787634",
+      "checked_at_utc": "2026-11-16T11:38:28.875371+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511027",
+      "supplier_nomenclature": "NSII0028787566",
+      "checked_at_utc": "2026-11-16T11:38:29.660567+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511028",
+      "supplier_nomenclature": "NSII0028787579",
+      "checked_at_utc": "2026-11-16T11:38:30.928616+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511029",
+      "supplier_nomenclature": "NSII0028787500",
+      "checked_at_utc": "2026-11-16T11:38:31.553645+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511030",
+      "supplier_nomenclature": "NSII0028787509",
+      "checked_at_utc": "2026-11-16T11:38:32.492345+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511035",
+      "supplier_nomenclature": "NSII0028787497",
+      "checked_at_utc": "2026-11-16T11:38:33.990637+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511037",
+      "supplier_nomenclature": "NSII0028787501",
+      "checked_at_utc": "2026-11-16T11:38:34.809677+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511038",
+      "supplier_nomenclature": "NSII0028787511",
+      "checked_at_utc": "2026-11-16T11:38:35.515637+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511041",
+      "supplier_nomenclature": "NSII0028787608",
+      "checked_at_utc": "2026-11-16T11:38:36.646062+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511043",
+      "supplier_nomenclature": "NSII0028787512",
+      "checked_at_utc": "2026-11-16T11:38:37.902910+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511044",
+      "supplier_nomenclature": "NSII0028787513",
+      "checked_at_utc": "2026-11-16T11:38:38.507512+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "NGN",
+      "article": "511047",
+      "supplier_nomenclature": "NSII0028787574",
+      "checked_at_utc": "2026-11-16T11:38:39.581131+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
