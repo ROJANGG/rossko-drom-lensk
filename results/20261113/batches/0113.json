@@ -1,0 +1,905 @@
+{
+  "results": [
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1576",
+      "supplier_nomenclature": "NSII0025292436",
+      "checked_at_utc": "2026-11-16T11:13:35.249144+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1577",
+      "supplier_nomenclature": "NSII0025741669",
+      "checked_at_utc": "2026-11-16T11:13:36.261796+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1578",
+      "supplier_nomenclature": "NSII0025296987",
+      "checked_at_utc": "2026-11-16T11:13:37.297972+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1583",
+      "supplier_nomenclature": "NSII0025741671",
+      "checked_at_utc": "2026-11-16T11:13:37.298112+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1581",
+      "supplier_nomenclature": "NSII0025297040",
+      "checked_at_utc": "2026-11-16T11:13:38.293191+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1586",
+      "supplier_nomenclature": "NSII0025741761",
+      "checked_at_utc": "2026-11-16T11:13:39.174756+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1587",
+      "supplier_nomenclature": "NSII0025297038",
+      "checked_at_utc": "2026-11-16T11:13:40.070079+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1588",
+      "supplier_nomenclature": "NSII0025741762",
+      "checked_at_utc": "2026-11-16T11:13:41.409783+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1589",
+      "supplier_nomenclature": "NSII0025292524",
+      "checked_at_utc": "2026-11-16T11:13:42.349013+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1590",
+      "supplier_nomenclature": "NSII0025309861",
+      "checked_at_utc": "2026-11-16T11:13:43.040217+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1593",
+      "supplier_nomenclature": "NSII0025741672",
+      "checked_at_utc": "2026-11-16T11:13:44.165944+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1594",
+      "supplier_nomenclature": "NSII0025292525",
+      "checked_at_utc": "2026-11-16T11:13:45.437812+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1595",
+      "supplier_nomenclature": "NSII0025741673",
+      "checked_at_utc": "2026-11-16T11:13:46.208007+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1610",
+      "supplier_nomenclature": "NSII0025741766",
+      "checked_at_utc": "2026-11-16T11:13:47.757290+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1612",
+      "supplier_nomenclature": "NSII0025741677",
+      "checked_at_utc": "2026-11-16T11:13:48.034818+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1619",
+      "supplier_nomenclature": "NSII0025741729",
+      "checked_at_utc": "2026-11-16T11:13:49.122419+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1620",
+      "supplier_nomenclature": "NSII0025741802",
+      "checked_at_utc": "2026-11-16T11:13:50.048631+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1625",
+      "supplier_nomenclature": "NSII0025741643",
+      "checked_at_utc": "2026-11-16T11:13:51.136860+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1626",
+      "supplier_nomenclature": "NSII0025741698",
+      "checked_at_utc": "2026-11-16T11:13:52.287865+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1631",
+      "supplier_nomenclature": "NSII0025741768",
+      "checked_at_utc": "2026-11-16T11:13:53.407059+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1638",
+      "supplier_nomenclature": "NSII0025741771",
+      "checked_at_utc": "2026-11-16T11:13:54.224714+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1640",
+      "supplier_nomenclature": "NSII0026901374",
+      "checked_at_utc": "2026-11-16T11:13:54.972013+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1642",
+      "supplier_nomenclature": "NSII0026829739",
+      "checked_at_utc": "2026-11-16T11:13:56.534955+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1654",
+      "supplier_nomenclature": "NSII0028782118",
+      "checked_at_utc": "2026-11-16T11:13:57.159098+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1658",
+      "supplier_nomenclature": "NSII0027938865",
+      "checked_at_utc": "2026-11-16T11:13:58.254469+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1659",
+      "supplier_nomenclature": "NSII0027939297",
+      "checked_at_utc": "2026-11-16T11:13:59.173483+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1663",
+      "supplier_nomenclature": "NSII0028806566",
+      "checked_at_utc": "2026-11-16T11:14:00.148141+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1666",
+      "supplier_nomenclature": "NSII0028806565",
+      "checked_at_utc": "2026-11-16T11:14:01.120348+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1667",
+      "supplier_nomenclature": "NSII0028806567",
+      "checked_at_utc": "2026-11-16T11:14:02.213244+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1670",
+      "supplier_nomenclature": "NSII0028916394",
+      "checked_at_utc": "2026-11-16T11:14:03.374706+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1671",
+      "supplier_nomenclature": "NSII0028916395",
+      "checked_at_utc": "2026-11-16T11:14:04.171262+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1688",
+      "supplier_nomenclature": "NSII0028509244",
+      "checked_at_utc": "2026-11-16T11:14:05.167350+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1689",
+      "supplier_nomenclature": "NSII0028782117",
+      "checked_at_utc": "2026-11-16T11:14:06.064409+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1693",
+      "supplier_nomenclature": "NSII0028954090",
+      "checked_at_utc": "2026-11-16T11:14:07.161343+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1703",
+      "supplier_nomenclature": "NSII0028954095",
+      "checked_at_utc": "2026-11-16T11:14:08.200075+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1704",
+      "supplier_nomenclature": "NSII0028954096",
+      "checked_at_utc": "2026-11-16T11:14:09.511960+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1709",
+      "supplier_nomenclature": "NSII0028954098",
+      "checked_at_utc": "2026-11-16T11:14:10.125197+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1710",
+      "supplier_nomenclature": "NSII0028954099",
+      "checked_at_utc": "2026-11-16T11:14:11.398742+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1712",
+      "supplier_nomenclature": "NSII0028954101",
+      "checked_at_utc": "2026-11-16T11:14:12.095115+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1714",
+      "supplier_nomenclature": "NSII0029043982",
+      "checked_at_utc": "2026-11-16T11:14:13.518237+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1716",
+      "supplier_nomenclature": "NSII0028954103",
+      "checked_at_utc": "2026-11-16T11:14:14.350780+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1717",
+      "supplier_nomenclature": "NSII0028954104",
+      "checked_at_utc": "2026-11-16T11:14:15.274284+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1718",
+      "supplier_nomenclature": "NSII0028954105",
+      "checked_at_utc": "2026-11-16T11:14:16.216428+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1721",
+      "supplier_nomenclature": "NSII0028954108",
+      "checked_at_utc": "2026-11-16T11:14:17.144093+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1723",
+      "supplier_nomenclature": "NSII0028954110",
+      "checked_at_utc": "2026-11-16T11:14:17.144236+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1724",
+      "supplier_nomenclature": "NSII0028954111",
+      "checked_at_utc": "2026-11-16T11:14:17.144302+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK",
+      "source": "fresh_supplier_recheck"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1722",
+      "supplier_nomenclature": "NSII0028954109",
+      "checked_at_utc": "2026-11-16T11:14:18.238012+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1725",
+      "supplier_nomenclature": "NSII0028954112",
+      "checked_at_utc": "2026-11-16T11:14:19.179849+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1726",
+      "supplier_nomenclature": "NSII0028954113",
+      "checked_at_utc": "2026-11-16T11:14:20.780692+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1727",
+      "supplier_nomenclature": "NSII0028954114",
+      "checked_at_utc": "2026-11-16T11:14:21.093770+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1728",
+      "supplier_nomenclature": "NSII0028954115",
+      "checked_at_utc": "2026-11-16T11:14:22.299294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1731",
+      "supplier_nomenclature": "NSII0028954117",
+      "checked_at_utc": "2026-11-16T11:14:23.110445+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1732",
+      "supplier_nomenclature": "NSII0028954118",
+      "checked_at_utc": "2026-11-16T11:14:24.122441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1736",
+      "supplier_nomenclature": "NSII0028954120",
+      "checked_at_utc": "2026-11-16T11:14:25.296670+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1737",
+      "supplier_nomenclature": "NSII0028954121",
+      "checked_at_utc": "2026-11-16T11:14:26.491063+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1741",
+      "supplier_nomenclature": "NSII0029043985",
+      "checked_at_utc": "2026-11-16T11:14:27.305651+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1743",
+      "supplier_nomenclature": "NSII0028954126",
+      "checked_at_utc": "2026-11-16T11:14:28.320138+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1744",
+      "supplier_nomenclature": "NSII0028954127",
+      "checked_at_utc": "2026-11-16T11:14:29.749141+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1746",
+      "supplier_nomenclature": "NSII0028954129",
+      "checked_at_utc": "2026-11-16T11:14:30.077387+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SJ1748",
+      "supplier_nomenclature": "NSII0028954130",
+      "checked_at_utc": "2026-11-16T11:14:31.034908+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SK2592",
+      "supplier_nomenclature": "NSII0025292302",
+      "checked_at_utc": "2026-11-16T11:14:32.145206+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SK2693",
+      "supplier_nomenclature": "NSII0025289075",
+      "checked_at_utc": "2026-11-16T11:14:33.471829+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SK2699",
+      "supplier_nomenclature": "NSII0025289191",
+      "checked_at_utc": "2026-11-16T11:14:34.525422+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SK2735",
+      "supplier_nomenclature": "NSII0025739307",
+      "checked_at_utc": "2026-11-16T11:14:35.297435+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "SUFIX",
+      "article": "SL1398",
+      "supplier_nomenclature": "NSII0024849747",
+      "checked_at_utc": "2026-11-16T11:14:36.521721+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "4881760010",
+      "supplier_nomenclature": "NSIN0019641136",
+      "checked_at_utc": "2026-11-16T11:14:37.027030+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "4881920030",
+      "supplier_nomenclature": "NSIN0005754205",
+      "checked_at_utc": "2026-11-16T11:14:38.228714+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "4882042030",
+      "supplier_nomenclature": "NSIN0012408366",
+      "checked_at_utc": "2026-11-16T11:14:40.460858+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "4883048010",
+      "supplier_nomenclature": "NSIN0004472167",
+      "checked_at_utc": "2026-11-16T11:14:41.132084+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "4883060030",
+      "supplier_nomenclature": "NSIN0004472170",
+      "checked_at_utc": "2026-11-16T11:14:42.125478+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "4884960010",
+      "supplier_nomenclature": "NSIN0004472215",
+      "checked_at_utc": "2026-11-16T11:14:42.415604+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "9038710175",
+      "supplier_nomenclature": "NSIN0019650900",
+      "checked_at_utc": "2026-11-16T11:14:43.117763+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "9056010275",
+      "supplier_nomenclature": "NSIN0004651508",
+      "checked_at_utc": "2026-11-16T11:14:44.187284+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "9094801002",
+      "supplier_nomenclature": "NSIN0005112817",
+      "checked_at_utc": "2026-11-16T11:14:45.401697+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Toyota",
+      "article": "9094801031",
+      "supplier_nomenclature": "NSIN0004655632",
+      "checked_at_utc": "2026-11-16T11:14:46.370685+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP0118",
+      "supplier_nomenclature": "NSII0013079570",
+      "checked_at_utc": "2026-11-16T11:14:47.565590+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP0141",
+      "supplier_nomenclature": "NSII0026496480",
+      "checked_at_utc": "2026-11-16T11:14:49.425752+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP0192",
+      "supplier_nomenclature": "NSII0015592032",
+      "checked_at_utc": "2026-11-16T11:14:49.634880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP0509",
+      "supplier_nomenclature": "NSII0024834772",
+      "checked_at_utc": "2026-11-16T11:14:51.214726+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP0805",
+      "supplier_nomenclature": "NSII0024554455",
+      "checked_at_utc": "2026-11-16T11:14:51.831925+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP0901",
+      "supplier_nomenclature": "NSII0023832126",
+      "checked_at_utc": "2026-11-16T11:14:53.090165+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1011",
+      "supplier_nomenclature": "NSII0023832125",
+      "checked_at_utc": "2026-11-16T11:14:53.793973+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1016",
+      "supplier_nomenclature": "NSII0025069893",
+      "checked_at_utc": "2026-11-16T11:14:55.166852+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1116",
+      "supplier_nomenclature": "NSII0025069908",
+      "checked_at_utc": "2026-11-16T11:14:56.375248+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1126",
+      "supplier_nomenclature": "NSII0025069906",
+      "checked_at_utc": "2026-11-16T11:14:56.791121+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1127",
+      "supplier_nomenclature": "NSII0025069907",
+      "checked_at_utc": "2026-11-16T11:14:58.017465+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1418",
+      "supplier_nomenclature": "NSII0024834779",
+      "checked_at_utc": "2026-11-16T11:14:58.887597+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1419",
+      "supplier_nomenclature": "NSII0024834780",
+      "checked_at_utc": "2026-11-16T11:14:59.979000+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1801",
+      "supplier_nomenclature": "NSII0024834784",
+      "checked_at_utc": "2026-11-16T11:15:01.369144+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP1805",
+      "supplier_nomenclature": "NSII0024834783",
+      "checked_at_utc": "2026-11-16T11:15:02.146344+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP3005",
+      "supplier_nomenclature": "NSII0025069894",
+      "checked_at_utc": "2026-11-16T11:15:02.518061+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "Trialli",
+      "article": "SP3006",
+      "supplier_nomenclature": "NSII0025069895",
+      "checked_at_utc": "2026-11-16T11:15:03.566182+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "002002",
+      "supplier_nomenclature": "NSII0007383474",
+      "checked_at_utc": "2026-11-16T11:15:04.224287+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "002016",
+      "supplier_nomenclature": "NSII0009945006",
+      "checked_at_utc": "2026-11-16T11:15:05.439343+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "003021",
+      "supplier_nomenclature": "NSII0009695040",
+      "checked_at_utc": "2026-11-16T11:15:06.436054+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "102001",
+      "supplier_nomenclature": "NSII0009633875",
+      "checked_at_utc": "2026-11-16T11:15:07.849661+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "1021109",
+      "supplier_nomenclature": "NSII0009939332",
+      "checked_at_utc": "2026-11-16T11:15:08.143441+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "102907",
+      "supplier_nomenclature": "NSII0009764360",
+      "checked_at_utc": "2026-11-16T11:15:09.258841+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "106057",
+      "supplier_nomenclature": "NSII0009759130",
+      "checked_at_utc": "2026-11-16T11:15:10.429474+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "brand": "ТОЧКА ОПОРЫ",
+      "article": "3021414",
+      "supplier_nomenclature": "NSII0009704367",
+      "checked_at_utc": "2026-11-16T11:15:11.353351+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "source": "fresh_personal_ROSSKO_API"
+    }
+  ],
+  "batch_max_size": 100
+}
