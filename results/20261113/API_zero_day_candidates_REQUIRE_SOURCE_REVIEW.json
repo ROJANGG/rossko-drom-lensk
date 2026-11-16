@@ -14266,6 +14266,17 @@
       "source": "fresh_personal_ROSSKO_API",
       "avito_retail_rub": 3950,
       "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "871700",
+      "supplier_nomenclature": "NSII0013105040",
+      "checked_at_utc": "2026-11-16T10:25:45.064405+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1350,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     }
   ],
   "not_approved_for_publication": true
