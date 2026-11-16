@@ -1,0 +1,32 @@
+{
+  "batch_id": "source04-transient-retry",
+  "scope": 3,
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "13X1075HD",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0018630676",
+      "previous_API_checked_at_utc": "2026-11-13T16:01:59.825383+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1100HD",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0018470717",
+      "previous_API_checked_at_utc": "2026-11-13T16:02:01.305930+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1125LX",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0018142244",
+      "previous_API_checked_at_utc": "2026-11-13T16:02:01.775887+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ],
+  "no_XML_changes": true,
+  "publication_performed": false
+}
