@@ -1362,5 +1362,17 @@
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": false
+  "publication_performed": true,
+  "publication_observed": true,
+  "release_workflow_run_id": 44043971294,
+  "release_workflow_conclusion": "failure_after_successful_XML_publication_old_CDN_count_guard",
+  "CDN_verification_run_id": 44044710117,
+  "CDN_verification_conclusion": "success",
+  "CDN_exact_bytes_verified": true,
+  "XML_SHA256": "16812e551a950c3fbb99ded75140265bf9cf0dbc0eee3530ab7c72c154043480",
+  "public_exact_photo_hashes_verified": 84,
+  "original_245_ads_independently_preserved": true,
+  "original_256_archive_entries_independently_preserved": true,
+  "Avito_import_and_moderation_verified": false,
+  "XML_release_commit": "26c83ab30b1910501ce171d74f43ea7a15f5896d"
 }
