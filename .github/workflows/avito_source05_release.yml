@@ -47,7 +47,7 @@ jobs:
       - name: Load exact reviewed belt support and original protections
         run: |
           cp extension/avito_irkutsk.py extension/avito_active_feed_refresh.py extension/avito_wholesale_live_api_refresh.py generator/
-          cp extension/avito_reviewed_drive_belts.py extension/avito_belt_release.py generator/
+          cp extension/avito_reviewed_drive_belts.py extension/avito_belt_release.py extension/avito_refresh_public_cdn.py generator/
           cp extension/input/avito_verified_extension_evidence.json extension/input/avito_reviewed_drive_belts.json extension/input/avito_reviewed_drive_belts_source05.json generator/input/
           cp extension/tests/test_avito_active_feed_refresh.py extension/tests/test_avito_reviewed_drive_belts.py extension/tests/test_avito_belt_release.py extension/tests/test_avito_wholesale_live_api_refresh.py generator/tests/
           cp extension/tests/test_avito_source05_release.py extension/tests/test_avito_refresh_public_cdn.py generator/tests/
