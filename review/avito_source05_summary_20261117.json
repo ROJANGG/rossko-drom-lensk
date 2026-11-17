@@ -1,0 +1,16 @@
+{
+  "scope": 100,
+  "API_positive": 94,
+  "sources_attempted": 94,
+  "OEM": 85,
+  "fitment": 85,
+  "visually_reviewed_photos": 82,
+  "ready_drafts": 82,
+  "blocked": 18,
+  "primary_blockers": {
+    "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED": 9,
+    "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED": 3,
+    "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED": 6
+  },
+  "publication_performed": false
+}
