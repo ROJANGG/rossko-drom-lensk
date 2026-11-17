@@ -28203,6 +28203,17 @@
       "source": "fresh_personal_ROSSKO_API",
       "avito_retail_rub": 4950,
       "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Febest",
+      "article": "0115ZVW30T",
+      "supplier_nomenclature": "NSII0009536154",
+      "checked_at_utc": "2026-11-17T07:48:08.037791+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3050,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     }
   ],
   "not_approved_for_publication": true
