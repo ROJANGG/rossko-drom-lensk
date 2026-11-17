@@ -1,0 +1,17 @@
+{
+  "live_count_observed": 245,
+  "archive_count_observed": 256,
+  "unpublished_belt_drafts": 85,
+  "duplicate_ids_with_archive": 0,
+  "duplicate_skus_with_archive": 0,
+  "combined_live_count_if_all_pass_release": 330,
+  "all_ad_fields_preserved_without_fresh_API": true,
+  "test_price_inputs_are_synthetic_not_real_account_data": true,
+  "new_publication_performed": false,
+  "fresh_API_and_source_revalidation_required": true,
+  "regular_workflows_belt_support_activated": false,
+  "release_builder_still_requires_separate_belt_cohort_support": true,
+  "unit_tests_passed": 16,
+  "full_scan_run_id": 44041389397,
+  "supplier_filter_rejects_wrong_city_delivery_nonpositive_stock_unknown_sku": true
+}

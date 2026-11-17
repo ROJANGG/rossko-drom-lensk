@@ -1,0 +1,1538 @@
+{
+  "batch_id": "source-04",
+  "scope_sha256": "44669d31474885bb90ceaa49ce89eba747296ad6ee9339d3a8a261e774da47c0",
+  "publication_performed": false,
+  "requires_fresh_API_at_release": true,
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "10X1000LX",
+      "category": "Ремни приводные",
+      "oem": "11231279479",
+      "fitment": "BMW 3 (E30) 82-91, 324 d (M21 D24, M21 D24), 63 (86), 09/85-12/90; BMW 3 (E30) 82-91, 324 td (M21 D24 (246TB)), 85 (115), 09/87-08/91; BMW 3 Touring (E30) 87-94, 324 td (M21 D24 (246TB)), 85 (115), 01/88-06/93",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X1000LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15042",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X1000LX.jpg",
+      "photo_sha256": "c90cc6eba752cc20cdbf97213c504709731e86f9d24d8b93c84ae7b3a05fc2ee",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X1050LX",
+      "category": "Ремни приводные",
+      "oem": "04315444",
+      "fitment": "GAZ GAZELLE Bus 93-13, 2.4 (ZMZ-4025.10), 66 (90), 01/03-12/06; GAZ GAZELLE Bus 93-13, 2.4 (ZMZ-4026.10), 63 (86), 01/03-12/06; GAZ GAZELLE Bus 93-13, 2.4 (ZMZ-4026.10), 74 (101), 01/03-12/06, Alternator, high power",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X1050LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=GAZ&product_id=15045",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X1050LX.jpg",
+      "photo_sha256": "95b614c31a72a0321ab9d7ada372018c8a93cfec82dec88f798f8fdacce6d404",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X1075LX",
+      "category": "Ремни приводные",
+      "oem": "07119990181",
+      "fitment": "HYUNDAI GALLOPER II (JK-01) 98-03, 2.5 TD (D4BA, D4BF), 65 (88), 08/98-12/03; HYUNDAI H100 Platform/Chassis (HR) 04-, 2.5 TD (4D56-T), 74 (101), 11/06-; HYUNDAI TERRACAN (HP) 01-06, 2.5 D (D4BH), 74 (101), 06/01-10/03, Alternator, x2, -10/03",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X1075LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HYUNDAI&product_id=15047",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X1075LX.jpg",
+      "photo_sha256": "76ad6b86bdd34ec4572ca886f5709d57a85015ffce5aa39d04f02ca61132205d",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X1100LX",
+      "category": "Ремни приводные",
+      "oem": "575031",
+      "fitment": "HYUNDAI GALLOPER I 91-98, 2.5 TD (4D56-T), 62 (85), 08/91-07/98; HYUNDAI GALLOPER I 91-98, 2.5 TD intercooler (4D56-T), 70 (95), 08/91-07/98; HYUNDAI GALLOPER II (JK-01) 98-03, 2.5 TCi D (D4BH), 77 (105), 08/98-12/03",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X1100LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HYUNDAI&product_id=15049",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X1100LX.jpg",
+      "photo_sha256": "168b5a4246e7cc4dd96aa3473332c525fcd969aff845a21c6159afd4cd11d735",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X1125LX",
+      "category": "Ремни приводные",
+      "oem": "07119990178",
+      "fitment": "TOYOTA COASTER Bus (_B2_, _B3_) 82-93, 3.4 D (BB2_, BB3_) (3B), 05/82-01/93, AC Compressor, 08/88-; TOYOTA COASTER Bus (_B2_, _B3_) 82-93, 3.7 D (BB23_, BB24_, BB32_) (14B), 08/88-12/92, AC Compressor, 08/88-; TOYOTA COASTER Bus (_B4_, _B5_) 93-06, 4.1 LPG (BZB40_, BZB50_) (1BZ-FPE), 85 (116), 11/03-, AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X1125LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15050",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X1125LX.jpg",
+      "photo_sha256": "d4ea7cdcbc0dc3421a7092d4b331e28be22a7606fbd679d31274a33318f8b903",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X1138LX",
+      "category": "Ремни приводные",
+      "oem": "128003",
+      "fitment": "NISSAN PATROL | SAFARI GR IV (Y60, GR) 88-98, 4.2 Cat (TB42E), 121 (165), 11/88-02/98, Alternator; NISSAN PATROL | SAFARI GR IV (Y60, GR) 88-98, 4.2 Efi 4WD (Y60) (TB42E), 129 (175), 02/88-12/95, Alternator; NISSAN PATROL | SAFARI GR V Wagon (Y61) 97-07, 4.5 (Y61) (TB45E), 145 (197), 12/97-09/01, Alternator",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X1138LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=NISSAN&product_id=15051",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X1138LX.jpg",
+      "photo_sha256": "63a8e79e0543b24fc6717804af764a9972e036968c15440b164c7e0b60adbdc1",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X1175LX",
+      "category": "Ремни приводные",
+      "oem": "5414629N",
+      "fitment": "TOYOTA DYNA 200 | TOYOACE G25 Platform/Chassis 85-01, 4.1 TDi (15B-FTE), 125 (170), 06/99-07/01; TOYOTA DYNA 400 Platform/Chassis (BU_, XZU_) 02-06, 4.1 TDi (BU4_, XZU3_) (15B-FTE), 125 (170), 11/02-12/06; TOYOTA LAND CRUISER 90 (_J9_) 95-02, 3.0 TD (KZJ90_, KZJ95_) (1KZ-TE), 92 (125), 04/96-12/02, AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X1175LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15053",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X1175LX.jpg",
+      "photo_sha256": "16a505ce68adcb2bd357d47b619252fd8fe9d13ed3b8a6d9b4df71cda401d73e",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X1250LX",
+      "category": "Ремни приводные",
+      "oem": "105481010301",
+      "fitment": "RENAULT SAFRANE I (B54_) 92-96, 2.0 12V (B542, B54E) (J7R 734, J7R 735), 97 (132), 04/92-07/96; RENAULT SAFRANE I (B54_) 92-96, 2.2 (B541) (J7T 762), 79 (107), 04/92-07/96; RENAULT SAFRANE I (B54_) 92-96, 2.2 (B543) (J7T 760, J7T 761), 101 (137), 04/92-07/96",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X1250LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=RENAULT&product_id=15056",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X1250LX.jpg",
+      "photo_sha256": "53867b5366c9755ec933c5dbdf1ce6be131140bb46b31e7a3c8c1d7a8a457681",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X700LX",
+      "category": "Ремни приводные",
+      "oem": "574908",
+      "fitment": "DAIHATSU MOVE (L9_) 94-02, 1.0 i (EJ-DE), 41 (55), 10/98-09/02; DAIHATSU SIRION | STORIA (M1) 98-05, 1.0 i (M100) (EJ-DE), 41 (56), 04/98-09/00; DAIHATSU SIRION | STORIA (M1) 98-05, 1.0 i (M101) (EJ-VE), 43 (58), 09/00-01/05, AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X700LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=15073",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X700LX.jpg",
+      "photo_sha256": "d0e5f20a346610df9624b4cffb51876557c9c3f9d3ffc9542b18e2e6da2bea04",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X713LX",
+      "category": "Ремни приводные",
+      "oem": "A113412051",
+      "fitment": "AUDI 80 B3 Saloon (893, 894, 8A2) 86-91, 1.6 D (JK), 40 (54), 02/87-07/89; AUDI 80 B3 Saloon (893, 894, 8A2) 86-91, 1.6 TD (RA, SB), 59 (80), 09/86-08/91; AUDI 80 B3 Saloon (893, 894, 8A2) 86-91, 1.9 D (1Y), 50 (68), 08/89-08/91",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X713LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15074",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X713LX.jpg",
+      "photo_sha256": "d4210451fb28cb120c75a6518390aa7efd46c112353b206aff172d3f4bc7b14e",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X725LX",
+      "category": "Ремни приводные",
+      "oem": "32421727136",
+      "fitment": "BMW 3 (E36) 90-98, 316 i (M40 B16 (164E1)), 73 (100), 03/91-08/93, Power Steering; BMW 3 (E36) 90-98, 316 i (M43 B16 (164E2)), 75 (102), 09/93-05/98; BMW 3 (E36) 90-98, 318 i (M40 B18 (184E1)), 83 (113), 09/90-08/93, Power Steering",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X725LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15075",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X725LX.jpg",
+      "photo_sha256": "5b5880d6b31bea1be0eeee07365cf831efea9352ebb7652693c95110f678ae18",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X750LX",
+      "category": "Ремни приводные",
+      "oem": "50310724004",
+      "fitment": "GAZ GAZELLE Bus 93-13, 2.9 (UMZ-4216), 79 (107), 01/07-03/13, Alternator, [+] Power Steering; GAZ GAZELLE Bus 93-13, 2.9 4WD (UMZ-4216), 79 (107), 01/07-03/13, Alternator, [+] Power Steering; GAZ GAZELLE Platform/Chassis 93-13, 2.9 (UMZ-4216), 79 (107), 01/07-03/13, Alternator, [+] Power Steering",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X750LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=GAZ&product_id=15078",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X750LX.jpg",
+      "photo_sha256": "854ed9afd5b6bbccbce2b6a9df08de0e3023f276a4f828eadcd1821255258a1b",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X775LX",
+      "category": "Ремни приводные",
+      "oem": "128015",
+      "fitment": "AUDI 80 B3 Saloon (893, 894, 8A2) 86-91, 1.9 D (1Y), 50 (68), 08/89-08/91",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X775LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15081",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X775LX.jpg",
+      "photo_sha256": "bf4c67eb1453b939d8ec161d360d723545a24177e460487a73772d0f9ad18515",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X800LX",
+      "category": "Ремни приводные",
+      "oem": "32421717953",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 1.9 (WH), 74 (100), 02/83-07/84; AUDI 100 C3 Avant (445, 446) 82-90, 2.0 E (KP), 85 (115), 01/85-12/87; AUDI 100 C3 Avant (445, 446) 82-90, 2.0 TD (DE), 64 (87), 03/83-10/87",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X800LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15083",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X800LX.jpg",
+      "photo_sha256": "f9c964e11e428dd1188d5fcac8e6dba00f58cfb828211a77a3481c14bf0d1828",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X838LX",
+      "category": "Ремни приводные",
+      "oem": "53001773",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 2.4 D (3D), 60 (82), 08/89-11/90; AUDI 100 C3 Avant (445, 446) 82-90, 2.5 TDI (1T), 88 (120), 01/90-11/90; AUDI 100 C3 Saloon (443, 444) 82-91, 2.4 D (3D), 60 (82), 08/89-07/91",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X838LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15086",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X838LX.jpg",
+      "photo_sha256": "81d3f5e3aaee6256143c379bf5dc28b513a1e94b7dc32f52e286ca4edf1a6383",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X865LX",
+      "category": "Ремни приводные",
+      "oem": "11231709636",
+      "fitment": "BMW 3 (E30) 82-91, 324 d (M21 D24, M21 D24), 63 (86), 09/85-12/90; BMW 3 (E30) 82-91, 324 td (M21 D24 (246TB)), 85 (115), 09/87-08/91; BMW 3 Touring (E30) 87-94, 324 td (M21 D24 (246TB)), 85 (115), 01/88-06/93",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X865LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15088",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X865LX.jpg",
+      "photo_sha256": "2f354b52579f96e09e2e9e31d3594e1303d18912ac78bfc8b544fb1325490846",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X875LX",
+      "category": "Ремни приводные",
+      "oem": "12311254121",
+      "fitment": "AUDI 80 B4 Avant (8C5) 91-96, 2.3 E (NG), 98 (133), 07/92-01/96; AUDI 80 B4 Avant (8C5) 91-96, 2.3 E quattro (NG), 98 (133), 09/91-11/94; AUDI 80 B4 Saloon (8C2) 91-94, 2.0 E 16V (6A), 101 (137), 09/91-07/92",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X875LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15089",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X875LX.jpg",
+      "photo_sha256": "bd3e2e627e8e0d4076b512785a6b1318242e47bb7a87ef66cc96a0ca91c079e7",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X925LX",
+      "category": "Ремни приводные",
+      "oem": "574922",
+      "fitment": "IVECO DAILY II Bus 90-99, A 40-10 (95719111, 95719131, 95719311, 95719315,... (8140.23), 76 (103), 09/96-05/99; IVECO DAILY II Bus 90-99, A 40-12 (95819311, 95819315, 95819317, 95819331) (8140.43.), 90 (122), 05/96-05/99; IVECO DAILY II Bus 90-99, A 45-10 (95739111, 95739131, 95739311, 95739317,... (8140.23), 76 (103), 05/96-05/99",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X925LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=IVECO&product_id=15093",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X925LX.jpg",
+      "photo_sha256": "716b60f02eaf8ba5a9210dd4648f0987c727bec970176432092319ba37783242",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X938LX",
+      "category": "Ремни приводные",
+      "oem": "12311278250",
+      "fitment": "CHEVROLET NIVA (2123) 02-09, 1.7 4WD, 61 (83), 01/10-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X938LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHEVROLET&product_id=15094",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X938LX.jpg",
+      "photo_sha256": "01a436b2a5261a913fb2a9dbe53fa1d4e2d00a42b58f6341140cb8b3644a2c98",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X950LX",
+      "category": "Ремни приводные",
+      "oem": "07119990161",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 1.8 (DR, RS), 55 (75), 08/82-12/87; AUDI 100 C3 Avant (445, 446) 82-90, 1.8 (DS, JW, NP), 66 (90), 08/83-07/89; AUDI 100 C3 Avant (445, 446) 82-90, 1.8 (SH), 65 (88), 02/86-07/90",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X950LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15095",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X950LX.jpg",
+      "photo_sha256": "7554f4784f1d89ee4c4a680eb4550ad4cf781e48a30d11981ab6ddfc6870f1d1",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X960LX",
+      "category": "Ремни приводные",
+      "oem": "11511706710",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 2.1 (WC), 100 (136), 08/82-07/84; AUDI 100 C3 Saloon (443, 444) 82-91, 2.1 (WC), 100 (136), 08/82-07/84; AUDI 100 C3 Saloon (443, 444) 82-91, 2.2 (KF), 96 (130), 08/82-07/84",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X960LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15096",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X960LX.jpg",
+      "photo_sha256": "93c670f193c27aac7916fe4e224b3ca9186faf2fbfceec59f65f3ca4247d47a2",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "10X975LX",
+      "category": "Ремни приводные",
+      "oem": "11211258120",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 2.1 (WC), 100 (136), 08/82-07/84; AUDI 100 C3 Saloon (443, 444) 82-91, 2.1 (WC), 100 (136), 08/82-07/84; AUDI 100 C3 Saloon (443, 444) 82-91, 2.2 (KF), 96 (130), 08/82-07/84",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/10X975LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15097",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/10X975LX.jpg",
+      "photo_sha256": "3bf481e50b20cefed70cd70e53e93c9371cd588ce2caf35f66001dc2a22e480c",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "11X528LX",
+      "category": "Ремни приводные",
+      "oem": "058145271",
+      "fitment": "AUDI A4 B5 (8D2) 94-01, 1.6 (ADP, AHL, ANA, ARM), 74 (100), 11/94-10/00, Water Pump; AUDI A4 B5 (8D2) 94-01, 1.8 (ADR, APT, ARG, AVV), 92 (125), 11/94-11/00, Water Pump; AUDI A4 B5 (8D2) 94-01, 1.8 (AFY), 85 (115), 04/95-11/00, Water Pump",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/11X528LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15145",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/11X528LX.jpg",
+      "photo_sha256": "993c8420b5d892837e06caa64e0b6b8a8d73bc17b51e79f3012b19c5fc566d6a",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1000LX",
+      "category": "Ремни приводные",
+      "oem": "11231315353",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 1.9 (WH), 74 (100), 02/83-07/84; AUDI 100 C3 Avant (445, 446) 82-90, 2.0 (SL), 83 (113), 09/86-11/87; AUDI 100 C3 Avant (445, 446) 82-90, 2.0 D (CN), 51 (70), 03/83-11/90",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1000LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15237",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1000LX.jpg",
+      "photo_sha256": "99baada23981a869a98a7ef05109f108b6465349f8d95c048950e4409203b332",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1025LX",
+      "category": "Ремни приводные",
+      "oem": "07119990174",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 2.4 D (3D), 60 (82), 08/89-11/90; AUDI 100 C3 Avant (445, 446) 82-90, 2.5 TDI (1T), 88 (120), 01/90-11/90; AUDI 100 C3 Saloon (443, 444) 82-91, 2.4 D (3D), 60 (82), 08/89-07/91",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1025LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15239",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1025LX.jpg",
+      "photo_sha256": "058da6be769e75c987610a528490efad600092c64aaf26968fb9fb69acd21194",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1050HD",
+      "category": "Ремни приводные",
+      "oem": "0296961",
+      "fitment": "DAIHATSU DELTA WIDE Van (YB_) 84-99, 1.8 (2Y), 04/87-09/92, Power Steering; DAIHATSU DELTA WIDE Van (YB_) 84-99, 2.0 (3Y), 65 (88), 04/85-09/99, Power Steering",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1050HD.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=15240",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1050HD.jpg",
+      "photo_sha256": "9cc8eb57c96ba855617d4d35d58319024a0070053695aefc40b8aef8eb115702",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1050LX",
+      "category": "Ремни приводные",
+      "oem": "07119990175",
+      "fitment": "BMW 3 Touring (E30) 87-94, 320 i (M20 B20 (206KA)), 95 (129), 01/88-12/91; BMW 3 Touring (E30) 87-94, 325 i (M20 B25 (256K1)), 125 (170), 07/87-03/93; BMW 3 Touring (E30) 87-94, 325 i X (M20 B25 (256K1)), 125 (170), 06/88-10/93",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1050LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15241",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1050LX.jpg",
+      "photo_sha256": "45df5c0a2154476ed253443ae88a5674a783d7d2284a1b7e1c4482e321cc1524",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1075HD",
+      "category": "Ремни приводные",
+      "oem": "0894415",
+      "fitment": "FORD TRANSIT Bus (E_ _) 91-94, 2.9 i (BRT), 107 (145), 01/91-09/94",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1075HD.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15242",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1075HD.jpg",
+      "photo_sha256": "f58a0a9561af1b99813437a24059a4866848c4cd1af682edf95a11110fed7d59",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1125LX",
+      "category": "Ремни приводные",
+      "oem": "195172383400",
+      "fitment": "KIA BESTA Bus 92-03, 2.2 D (HW, R2), 48 (65), 07/92-12/03; KIA BESTA Van 96-03, 2.2 D (R2), 48 (65), 02/96-12/03; KIA RETONA Closed Off-Road Vehicle (FK) 99-01, 2.0 TD (RF), 61 (83), 06/99-12/01",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1125LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=KIA&product_id=15244",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1125LX.jpg",
+      "photo_sha256": "5c5b8d6355a812475d191aa6b257411d733fbf4c72ef9c4a18dda374643c66fa",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1150LX",
+      "category": "Ремни приводные",
+      "oem": "37010136000263",
+      "fitment": "FORD MAVERICK (UDS, UNS) 93-98, 2.4 i (KA24), 87 (118), 09/96-04/98, Power Steering; FORD MAVERICK (UDS, UNS) 93-98, 2.4 i (KA24E), 91 (124), 02/93-08/96, Power Steering; FORD MAVERICK (UDS, UNS) 93-98, 2.4 i (UDS) (KA24), 85 (116), 09/96-04/98, Power Steering",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1150LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15247",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1150LX.jpg",
+      "photo_sha256": "f940284bd3d31adc355d9f23d114e1c24bd35b305ec452cac5941e400871d65d",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1175LX",
+      "category": "Ремни приводные",
+      "oem": "B0017465",
+      "fitment": "FORD RANGER (ER, EQ, R_) 99-06, 2.6 (F6D6), 80 (109), 10/02-09/04; FORD SCORPIO I (GAE, GGE) 85-94, 2.8 i (PRE), 110 (150), 04/85-11/86; FORD SCORPIO I (GAE, GGE) 85-94, 2.8 i 4WD (PRE), 110 (150), 10/85-11/86",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1175LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15249",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1175LX.jpg",
+      "photo_sha256": "9234514c540df1178ad0171ef21820c717b77c0f8717f936d8e6dc071a680861",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1200LX",
+      "category": "Ремни приводные",
+      "oem": "6169928",
+      "fitment": "FORD SCORPIO I (GAE, GGE) 85-94, 2.4 i (ARC), 96 (130), 09/86-09/88; FORD SCORPIO I (GAE, GGE) 85-94, 2.4 i (ARD), 92 (125), 10/88-02/92; FORD SCORPIO I (GAE, GGE) 85-94, 2.4 i Cat (ARD), 92 (125), 10/88-09/94",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1200LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15250",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1200LX.jpg",
+      "photo_sha256": "6d78fea21be0ad64232620be42acc1e3dd0ee7f1ec364e2e195894ea8ee7d09d",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1225LX",
+      "category": "Ремни приводные",
+      "oem": "82401269",
+      "fitment": "TOYOTA CROWN | CROWN MAJESTA (_S14_, _S13_, _S15_) 91-01, 2.4 D (LS130_, LS131_, LS141_, LS151_) (2L-TE), 67 (91), 08/94-08/99, AC Compressor; TOYOTA CROWN | CROWN MAJESTA (_S14_, _S13_, _S15_) 91-01, 2.4 D (LS151_) (2L-TE), 71 (97), 12/95-09/99, AC Compressor; TOYOTA HIACE IV Bus | REGIUS (_H1_, _H2_) 95-12, 2.4 D (LXH12, LXH22) (2L), 58 (79), 08/95-08/01, AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1225LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15251",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1225LX.jpg",
+      "photo_sha256": "b1fd43352008618f4c52266a2192b6236662c9e94e8d98de0c806ef7053e573f",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1250LX",
+      "category": "Ремни приводные",
+      "oem": "105121010300",
+      "fitment": "ISUZU TROOPER III (UBS_) | BIGHORN 98-04, 3.0 DTI (4JX1), 117 (159), 05/98-08/04; ISUZU TROOPER III Open Off-Road Vehicle | BIGHORN 00-04, 3.0 DTI (4JX1T), 118 (160), 04/00-08/04",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1250LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=ISUZU&product_id=15252",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1250LX.jpg",
+      "photo_sha256": "51109c39023099cf01c48c6a1eb45e2ef600c79ab01ead679511d7fa0a198422",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1275LX",
+      "category": "Ремни приводные",
+      "oem": "5013541",
+      "fitment": "MERCEDES-BENZ 123 Saloon (W123) 76-85, 250 (123.026) (M 123.921), 103 (140), 10/79-07/85; MERCEDES-BENZ 123 Saloon (W123) 76-85, 250 (123.026) (M 123.921), 95 (129), 02/76-10/79; MERCEDES-BENZ 123 Saloon (W123) 76-85, 280 E (123.033) (M 110.984, M 110.988), 136 (185), 02/76-11/85",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1275LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MERCEDES-BENZ&product_id=15253",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1275LX.jpg",
+      "photo_sha256": "2ecb7611ef8083c0f93436d6dce3a40c5b6d6734bbac0bae8cdb430e30174607",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X1300LX",
+      "category": "Ремни приводные",
+      "oem": "0039973692",
+      "fitment": "MERCEDES-BENZ T2/LN1 Platform/Chassis 86-94, 609 D (668.001, 668.002, 668.003) (OM 364.906), 66 (90), 04/86-12/94; MERCEDES-BENZ T2/LN1 Platform/Chassis 86-94, 609 D (668.001, 668.002, 668.003) (OM 364.919), 63 (86), 04/86-12/94; MERCEDES-BENZ T2/LN1 Platform/Chassis 86-94, 609 DK (668.041, 668.042) (OM 364.906), 66 (90), 04/86-12/94",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X1300LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MERCEDES-BENZ&product_id=15254",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X1300LX.jpg",
+      "photo_sha256": "dea39c77112d092e677d26d9213d0f389e56dd456e1dd5b181858395f41425a5",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X750LX",
+      "category": "Ремни приводные",
+      "oem": "60805196",
+      "fitment": "FIAT COUPE (175_) 93-00, 2.0 16V (836 A3.000), 102 (139), 11/93-08/96, Power Steering, [+] AC Compressor; FIAT COUPE (175_) 93-00, 2.0 16V Turbo (175 A1.000), 140 (190), 11/93-08/96",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X750LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FIAT&product_id=15281",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X750LX.jpg",
+      "photo_sha256": "dfe1c916e49dbe06473ec05b885dd883de100439921fc8708faaf029633d8014",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X825LX",
+      "category": "Ремни приводные",
+      "oem": "11232242209",
+      "fitment": "BMW 3 (E30) 82-91, 324 d (M21 D24, M21 D24), 63 (86), 09/85-12/90; BMW 3 (E30) 82-91, 324 td (M21 D24 (246TB)), 85 (115), 09/87-08/91; BMW 3 Touring (E30) 87-94, 320 i (M20 B20 (206KA)), 95 (129), 01/88-12/91",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X825LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15285",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X825LX.jpg",
+      "photo_sha256": "3636d5a9563d0f723b46e7eea2ca72691f7adf0eef0982655de06bee1e34151d",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X850LX",
+      "category": "Ремни приводные",
+      "oem": "64521722371",
+      "fitment": "BMW 3 (E30) 82-91, 316 i (M40 B16 (164E1)), 73 (100), 09/87-06/91; BMW 3 Touring (E30) 87-94, 318 i (M40 B18 (184E1)), 83 (113), 04/89-06/94; BMW 3 Touring (E30) 87-94, 318 i (M40 B18 (184E1)), 85 (115), 09/87-06/91",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X850LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15286",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X850LX.jpg",
+      "photo_sha256": "226617f4344f170a57e9805b4089696228e1d0e2e9f9a7e62ca2275e929755d2",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X875LX",
+      "category": "Ремни приводные",
+      "oem": "9086108800",
+      "fitment": "AUDI 80 B3 Saloon (893, 894, 8A2) 86-91, 1.6 TD (RA, SB), 59 (80), 09/86-08/91; AUDI 80 B3 Saloon (893, 894, 8A2) 86-91, 1.9 D (1Y), 50 (68), 08/89-08/91; AUDI 90 B3 (893, 894, 8A2) 87-91, 1.6 TD (RA, SB), 59 (80), 04/87-09/91",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X875LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15287",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X875LX.jpg",
+      "photo_sha256": "5ed281a5e9fcc81b8a76a7bf824690ffa6b75c16e479f7cbd7ac9bd28c2b3b09",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X900LX",
+      "category": "Ремни приводные",
+      "oem": "64551734669",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 2.1 (WC), 100 (136), 08/82-07/84; AUDI 100 C3 Saloon (443, 444) 82-91, 2.1 (WC), 100 (136), 08/82-07/84; AUDI 100 C3 Saloon (443, 444) 82-91, 2.2 (KF), 96 (130), 08/82-07/84",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X900LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15289",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X900LX.jpg",
+      "photo_sha256": "58d01c71b51b50524982233599873dc57d05b1c661a1613b270afe26418fcae8",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X925LX",
+      "category": "Ремни приводные",
+      "oem": "4829182",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 1.9 (WH), 74 (100), 02/83-07/84; AUDI 100 C3 Avant (445, 446) 82-90, 2.0 (SL), 83 (113), 09/86-11/87; AUDI 100 C3 Avant (445, 446) 82-90, 2.0 D (CN), 51 (70), 03/83-11/90",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X925LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15290",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X925LX.jpg",
+      "photo_sha256": "20cc3116a3851327385604440292884848b88c467dffa85d869fd377f438daea",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X950LX",
+      "category": "Ремни приводные",
+      "oem": "60548814",
+      "fitment": "AUDI 100 C3 Avant (445, 446) 82-90, 1.9 (WH), 74 (100), 02/83-07/84; AUDI 100 C3 Avant (445, 446) 82-90, 2.0 (SL), 83 (113), 09/86-11/87; AUDI 100 C3 Avant (445, 446) 82-90, 2.0 E (KP), 85 (115), 01/85-12/87",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X950LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15291",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X950LX.jpg",
+      "photo_sha256": "518a5a8af2365338b980ff2d127e2dc04d30e326e52a7d36db09925e3c2afa86",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "13X975LX",
+      "category": "Ремни приводные",
+      "oem": "11721312977",
+      "fitment": "FORD RANGER (ET) 06-12, 2.5 TDCi 4WD (WLAA), 105 (143), 05/06-07/12, AC Compressor; FORD RANGER (ET) 06-12, 2.5 TDdi (WLAA), 105 (143), 05/06-07/12, AC Compressor; FORD TRANSIT Bus (E_ _) 91-94, 2.5 DI (EBS, EDS, EGL, ESS, EUS) (4DA), 59 (80), 09/91-07/94",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/13X975LX.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15292",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/13X975LX.jpg",
+      "photo_sha256": "bf0f586435d9e5813dc5e14ce4cfe3e9519f81b2ad81515befb5416ff87d48c9",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "3PK0495",
+      "category": "Ремни приводные",
+      "oem": "1714477E00",
+      "fitment": "SUZUKI GRAND VITARA I | ESCUDO I | XL-7 (FT, HT) 98-06, 2.0 4WD (SQ420, TA52, TD52, TL52) (J20A), 97 (132), 08/98-12/00; SUZUKI GRAND VITARA I | ESCUDO I | XL-7 (FT, HT) 98-06, 2.0 4WD (TA52, TL52, SQ 420) (J20A), 94 (128), 03/98-07/03, Fan; SUZUKI GRAND VITARA II | ESCUDO II (JT, TE, TD) 05-15, 2.0 (JB420) (J20A), 103 (140), 10/05-02/15, Fan",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/3PK0495.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=SUZUKI&product_id=15435",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/3PK0495.jpg",
+      "photo_sha256": "e670c54969a28dcbc5644333e959f1323333d6e05b549f0420199f87e8defa59",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "3PK0683",
+      "category": "Ремни приводные",
+      "oem": "46770221",
+      "fitment": "FORD MAVERICK 01-, 3.0 V6 24V (AJ), 145 (197), 02/01-, Water Pump; FORD MAVERICK 01-, 3.0 V6 24V (AJ), 149 (203), 03/04-, Water Pump; FORD MAVERICK 01-, 3.0 V6 24V FWD (AJ), 145 (197), 02/01-, Water Pump",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/3PK0683.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15443",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/3PK0683.jpg",
+      "photo_sha256": "8d5ee1a72bdfdbc90f25cfc3d56c272f1029e5772dbfd4f265df0f66bf4638ae",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "3PK0738",
+      "category": "Ремни приводные",
+      "oem": "5750FL",
+      "fitment": "HONDA INTEGRA Hatchback (DA) 85-93, 1.5 (DA4) (D15A1), 63 (86), 10/85-08/89",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/3PK0738.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15448",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/3PK0738.jpg",
+      "photo_sha256": "07b6638b2e1a91eae6231a6d2b78e9431c1d0759ecb131cb3b10e52a1d0c8171",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "3PK0753",
+      "category": "Ремни приводные",
+      "oem": "AHU2716",
+      "fitment": "DAIHATSU MOVE (L150_, L160_) 02-07, 0.7 Turbo (JB-DET), 47 (64), 10/02-12/07, Power Steering",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/3PK0753.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=15449",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/3PK0753.jpg",
+      "photo_sha256": "878926024f3c15c7b9e1f83deef709afe1743e642705bb2b49a13bbe8773cef1",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "3PK0763",
+      "category": "Ремни приводные",
+      "oem": "4431887703",
+      "fitment": "DAIHATSU CHARADE III (G100, G101, G102) 87-93, 1.0 TD (G101) (CL, CL 61), 35 (48), 03/87-12/92",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/3PK0763.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=15450",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/3PK0763.jpg",
+      "photo_sha256": "cfdab9f1c62cc42a630e9e9f5431923f87e8305ed552ff09566196ec580e9919",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "3PK0848",
+      "category": "Ремни приводные",
+      "oem": "3407012S16",
+      "fitment": "GREAT WALL COOLBEAR 09-13, 1.5 (GW4G15), 77 (105), 03/09-12/13",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/3PK0848.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=GREAT+WALL&product_id=15458",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/3PK0848.jpg",
+      "photo_sha256": "d4e68227f9509589f313d44553152f640bfc7c3fff562b8cbe13251249159169",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0635",
+      "category": "Ремни приводные",
+      "oem": "400941",
+      "fitment": "HYUNDAI S COUPE (SLC) 90-96, 1.5 i (G4EK), 65 (88), 04/92-05/96; HYUNDAI S COUPE (SLC) 90-96, 1.5 i Turbo (G4EK-TC), 85 (116), 04/91-05/96, Power Steering",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0635.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HYUNDAI&product_id=15483",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0635.jpg",
+      "photo_sha256": "b339f2d6db16ca5167c467043da7ef10b1032d5a27e5d19b5b024a0cd28aa655",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0708",
+      "category": "Ремни приводные",
+      "oem": "9004831008",
+      "fitment": "DAIHATSU ATRAI WAGON Bus (S220_, S230_) 99-05, 1.3 (K3-VE), 07/00-09/03, AC Compressor; DAIHATSU EXTOL | Atrai Bus (S22_, S23_) 00-11, 1.3 (K3-VE), 63 (86), 07/00-11/11; DAIHATSU EXTOL | Atrai Bus (S22_, S23_) 00-11, 1.3 4WD (K3-VE), 66 (90), 07/00-09/03",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0708.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=15490",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0708.jpg",
+      "photo_sha256": "2ac123a27d165320575a525204ed36c4108223306d90d85c2d3a4152fd0861d0",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0711EL",
+      "category": "Ремни приводные",
+      "oem": "1353946",
+      "fitment": "FORD MONDEO III (B5Y) 00-07, 2.0 16V DI / TDDi / TDCi (D5BA, SDBA), 66 (90), 10/00-03/07; FORD MONDEO III (B5Y) 00-07, 2.0 16V TDDi / TDCi (D6BA, HJBA, HJBB, HJBC), 85 (115), 10/00-03/07; FORD MONDEO III (B5Y) 00-07, 2.0 TDCi (FMBA, N7BA, N7BB), 96 (130), 10/01-03/07",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0711EL.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=35609",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0711EL.jpg",
+      "photo_sha256": "d4b7d450019596370d9fd157ded3d80966d0e2caf31348e34fdfab1edabc118d",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0718",
+      "category": "Ремни приводные",
+      "oem": "LK3407020B",
+      "fitment": "CHEVROLET SPARK 05-10, 1.0 SX (B10S, LA2), 46 (63), 05/05-, Power Steering, [-] AC Compressor; CHEVROLET SPARK 05-10, 1.0 SX (LA2), 44 (60), 06/09-, Power Steering, [-] AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0718.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHEVROLET&product_id=15491",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0718.jpg",
+      "photo_sha256": "cc2294b9fa7ecc5c189ef1d94b312fafd831a54cc3f3d6911af8a9bde334dada",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0773",
+      "category": "Ремни приводные",
+      "oem": "9004831004",
+      "fitment": "HONDA CIVIC V Hatchback (EG) 91-95, 1.6 VTi 16V (EG6) (B16A2), 118 (160), 10/91-11/95; HONDA CIVIC V Saloon | CIVIC FERIO (EG, EH) 91-95, 1.6 VTi (EG9) (B16A2), 118 (160), 10/91-11/95; HONDA CIVIC VI Coupe (EJ, EM1) 96-00, 1.6 i Vtec (EM1) (B16A2), 118 (160), 04/99-12/00, Alternator",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0773.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15497",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0773.jpg",
+      "photo_sha256": "7fbd7bca10721ed3f9950919e9021fde92093f19fe226cbb7d3f04fb54568136",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0788",
+      "category": "Ремни приводные",
+      "oem": "11282245179",
+      "fitment": "BMW 3 (E90) 04-11, 325 d (M57 D30 (306D3)), 145 (197), 09/06-02/10, AC Compressor; BMW 3 (E90) 04-11, 330 d (M57 D30 (306D3)), 170 (231), 09/05-09/08, AC Compressor; BMW 3 (E90) 04-11, 330 xd (M57 D30 (306D3)), 170 (231), 09/05-08/08, AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0788.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15499",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0788.jpg",
+      "photo_sha256": "44bc542a8c9923ce35bc0cbdfae1b2c0486bee494f54288c3c845d3c75092c23",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0806EL",
+      "category": "Ремни приводные",
+      "oem": "11718AA080",
+      "fitment": "SUBARU FORESTER (SH_, S12) 08-13, 2.0 AWD (SH5) (EJ204), 110 (150), 01/08-09/13; SUBARU FORESTER (SH_, S12) 08-13, 2.0 AWD (SHJ) (FB20), 118 (160), 10/10-; SUBARU FORESTER (SH_, S12) 08-13, 2.5 AWD (SH9) (EJ25), 126 (171), 01/09-09/13",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0806EL.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=SUBARU&product_id=35611",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0806EL.jpg",
+      "photo_sha256": "34d742145a601b639f19039e88721d1526a093e3f171b9de8e7e1ada607486e4",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0813",
+      "category": "Ремни приводные",
+      "oem": "B213701325",
+      "fitment": "BMW 1 (E81) 06-12, 118 d (N47 D20 A, N47 D20 C), 105 (143), 09/06-12/11, Hydro Power Steering; BMW 1 (E81) 06-12, 120 d (N47 D20 A, N47 D20 C), 130 (177), 03/07-12/11, Hydro Power Steering; BMW 1 (E81) 06-12, 123 d (N47 D20 B, N47 D20 D), 150 (204), 03/07-12/11, Hydro Power Steering",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0813.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15502",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0813.jpg",
+      "photo_sha256": "6c585e41ccca2bb6f8c0207a443dca3045b1e220e891f473bf24153945d581ac",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0823",
+      "category": "Ремни приводные",
+      "oem": "8845887710",
+      "fitment": "DAIHATSU CHARADE III (G100, G101, G102) 87-93, 1.3 i (G102) (HC-E), 66 (90), 06/88-12/92; DAIHATSU CHARADE III (G100, G101, G102) 87-93, 1.3 i 4WD (G102) (HC-E), 66 (90), 06/88-01/93; DAIHATSU CHARADE IV (G200, G202) 93-00, 1.5 HG (HEE, HEEG), 55 (75), 06/94-03/96, AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0823.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=15503",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0823.jpg",
+      "photo_sha256": "69a58e9b2c3858ea3710ad6c643e5028196d08a2bbf222d92cd9813776b9f22f",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0833",
+      "category": "Ремни приводные",
+      "oem": "8845887102",
+      "fitment": "BMW 3 (E90) 04-11, 335 d (M57 D30 (306D5)), 210 (286), 09/06-12/11, AC Compressor; BMW 3 Coupe (E92) 06-13, 335 d (M57 D30 (306D5)), 210 (286), 03/06-03/13, AC Compressor; BMW 3 Touring (E46) 99-05, 330 d (M57 D30 (306D2)), 150 (204), 03/03-02/05, AC Compressor, 10/04-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0833.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15504",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0833.jpg",
+      "photo_sha256": "304388f48beab96682f64f808dccdb00a54419566bf5bcd89db944f794779004",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0843EL",
+      "category": "Ремни приводные",
+      "oem": "64557809801",
+      "fitment": "BMW 5 (E60) 01-10, 525 d (M57 D30 (306D3)), 145 (197), 01/07-03/10; BMW 5 (E60) 01-10, 525 d xDrive (M57 D30 (306D3)), 145 (197), 09/07-12/09; BMW 5 (E60) 01-10, 530 d (M57 D30 (306D3)), 173 (235), 02/07-12/09",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0843EL.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=35617",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0843EL.jpg",
+      "photo_sha256": "430325e97c37d4d1c83a520212c2fa3400b49f4861f0a77ed96bcfb966689195",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0845",
+      "category": "Ремни приводные",
+      "oem": "11287512563",
+      "fitment": "BMW 5 (E60) 01-10, 520 i (M54 B22 (226S1)), 125 (170), 07/03-03/10; BMW 5 (E60) 01-10, 525 i (M54 B25 (256S5)), 141 (192), 09/03-02/05, AC Compressor; BMW 5 (E60) 01-10, 530 i (M54 B30 (306S3)), 170 (231), 12/01-02/05, AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0845.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15506",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0845.jpg",
+      "photo_sha256": "ffe02be79df52caee84dc1c084095277e7ae1ecae7cbdff788d4e778632e364e",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0850",
+      "category": "Ремни приводные",
+      "oem": "04612229",
+      "fitment": "CHRYSLER PT CRUISER (PT_) 00-10, 2.0 (ECC), 100 (136), 10/04-12/10; CHRYSLER PT CRUISER (PT_) 00-10, 2.0 (ECC), 104 (141), 06/00-09/04",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0850.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHRYSLER&product_id=15507",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0850.jpg",
+      "photo_sha256": "925e008bc64d8423e55a461bdeefce8e0734057d77d2dbd7f18219a9645abdad",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0878",
+      "category": "Ремни приводные",
+      "oem": "04668380AA",
+      "fitment": "CHRYSLER PT CRUISER (PT_) 00-10, 2.4 (EDZ), 105 (143), 08/05-12/10; CHRYSLER PT CRUISER (PT_) 00-10, 2.4 (EDZ), 110 (150), 06/00-12/10; CHRYSLER PT CRUISER (PT_) 00-10, GT 2.4 (EDV), 164 (223), 08/03-12/10",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0878.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHRYSLER&product_id=15511",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0878.jpg",
+      "photo_sha256": "5f30a86e068aafa549f9ee4cd317ca77a1b2768d6a021e2f9ccb3b030f96faaf",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0895EL",
+      "category": "Ремни приводные",
+      "oem": "64557795144",
+      "fitment": "BMW 3 (E46) 97-05, 318 d (M47 D20 (204D4)), 85 (116), 03/03-02/05; BMW 3 (E46) 97-05, 320 d (M47 D20 (204D4)), 110 (150), 09/01-05/05; BMW 3 Compact (E46) 01-05, 318 td (M47 D20 (204D4)), 85 (115), 03/03-02/05",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0895EL.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=35619",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0895EL.jpg",
+      "photo_sha256": "e9ef81c8c811fd00df9dc5f307b9a82e619e9e44501558e58b960229dddbaa76",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0898",
+      "category": "Ремни приводные",
+      "oem": "04663182",
+      "fitment": "CHRYSLER CIRRUS 94-00, 2.0 LX (ECB), 96 (131), 05/94-09/97; CHRYSLER CIRRUS 94-00, 2.0 LX (ECB), 98 (133), 10/97-09/00; CHRYSLER CIRRUS 94-00, 2.4 LX (EDZ), 103 (140), 05/94-09/00",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0898.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHRYSLER&product_id=15515",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0898.jpg",
+      "photo_sha256": "0526f7deb9a0fc98772cf47fd10a95b2b9e36160d980d59cf68bfce08d3226d5",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0916EL",
+      "category": "Ремни приводные",
+      "oem": "6001547970",
+      "fitment": "LADA LARGUS Estate Van (KS0_, RS0_, KSA_) 12-, 1.6 (KS0Y5, RS0Y5) (K7M), 62 (84), 03/12-, AC Compr, [-] PS; LADA LARGUS Van (FS0_, FSA_) 12-, 1.6 (FS015) (K7M), 62 (84), 03/12-, AC Compr, [-] PS",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0916EL.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=15518",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0916EL.jpg",
+      "photo_sha256": "8fd48af5c55035ffc1ddccaea09f5281f7db038b8c43b3ec500d2a7ccc54993b",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0922EL",
+      "category": "Ремни приводные",
+      "oem": "4009P2",
+      "fitment": "CITROEN JUMPER II | RELAY Bus 06-19, 2.2 HDi 100 (4HV (P22DTE)), 74 (101), 04/06-; CITROEN JUMPER II | RELAY Bus 06-19, 2.2 HDi 110 (4HG (P22DTE)), 81 (110), 07/11-; CITROEN JUMPER II | RELAY Bus 06-19, 2.2 HDi 120 (4HU (P22DTE)), 88 (120), 04/06-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0922EL.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CITROEN&product_id=35621",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0922EL.jpg",
+      "photo_sha256": "0335b1e2d7afa93a9e6b25b78e0ef5a0b946f20f9f625857908daa16f2152881",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0928",
+      "category": "Ремни приводные",
+      "oem": "6453KL",
+      "fitment": "INFINITI FX (S51) 08-13, 50 AWD (VK50VE), 287 (390), 10/08-; INFINITI G Coupe (V35) 02-06, 35 (VQ35DE), 191 (260), 01/03-, AC Compressor; INFINITI G Coupe (V35) 02-06, 35 (VQ35DE), 209 (284), 09/02-12/06",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0928.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=INFINITI&product_id=15520",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0928.jpg",
+      "photo_sha256": "ec4582727102f2f1c3fd31cc84cadd164d88e6f91dbb15f2e9246a99e415a744",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0948",
+      "category": "Ремни приводные",
+      "oem": "85523082",
+      "fitment": "CHERY QQ 04-, 0.8 (SQR372), 38 (52), 03/04-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0948.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHERY&product_id=15522",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0948.jpg",
+      "photo_sha256": "7da0a75aba95546e22adbf09853c31409384ade7d0c0e99860594e05267c9a53",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0955",
+      "category": "Ремни приводные",
+      "oem": "575070",
+      "fitment": "CHEVROLET MATIZ (M200, M250) 05-13, 1.0 (LQ4(61CUL4)), 47 (64), 03/05-12/07; CHEVROLET MATIZ (M200, M250) 05-13, 1.0 (LQ4(61CUL4)), 49 (67), 03/05-; CHEVROLET SPARK 05-10, 1.0 SX (B10S, LA2), 46 (63), 05/05-, Power Steering, [+] AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0955.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHEVROLET&product_id=15523",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0955.jpg",
+      "photo_sha256": "9921028adfa288d6b6baa31fdce13ff66328249e90c85459944fa8b6f99bcab4",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0970",
+      "category": "Ремни приводные",
+      "oem": "11287785212",
+      "fitment": "BMW 3 (E46) 97-05, 318 d (M47 D20 (204D4)), 85 (116), 03/03-02/05; BMW 3 (E46) 97-05, 320 d (M47 D20 (204D4)), 110 (150), 09/01-05/05, AC Compressor, -09/04; BMW 3 (F30) 11-18, 330 e (B48 B20 A), 185 (252), 11/15-10/18",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0970.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15526",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0970.jpg",
+      "photo_sha256": "cbda9e222283b1f3b43ce11a2173565674ce34cb9d7ec962166e6209934fc27f",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0985",
+      "category": "Ремни приводные",
+      "oem": "S118104051BC",
+      "fitment": "CADILLAC CTS 02-10, 5.7 V8 (LS6(346CUV8)), 294 (400), 03/05-09/07",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0985.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CADILLAC&product_id=15528",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0985.jpg",
+      "photo_sha256": "a48da88fa20524efff7b6ecda8c055d84ea7e21382830935fa0738741d6df99a",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0993",
+      "category": "Ремни приводные",
+      "oem": "85523545",
+      "fitment": "CHERY TIGGO T11 05-14, 2.0 4WD (4G63-S4M), 92 (125), 03/05-11/09; CHERY TIGGO T11 05-14, 2.4 (4G64-S4M), 95 (129), 03/05-12/08; CHERY TIGGO T11 05-14, 2.4 AWD (4G64-S4M), 95 (129), 11/05-12/08",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK0993.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHERY&product_id=15529",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK0993.jpg",
+      "photo_sha256": "dae607c6e7f0b5da6b5bb551092afd05788d92653d485ea0d9a968c9456826b8",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1100",
+      "category": "Ремни приводные",
+      "oem": "60805193",
+      "fitment": "CITROEN JUMPER II | RELAY Bus 06-19, 3.0 HDi 160 (F1CE0481D (F30DT)), 116 (157), 09/06-, AC Compressor; CITROEN JUMPER II | RELAY Van 06-19, 3.0 HDi 160 (F1CE0481D (F30DT)), 116 (157), 09/06-, AC Compressor",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1100.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CITROEN&product_id=15541",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1100.jpg",
+      "photo_sha256": "5444c4129ec4c41038004ac41907299d68adb4ab10a41e15f1a8cfce46bbec2b",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1108",
+      "category": "Ремни приводные",
+      "oem": "38920P64003",
+      "fitment": "HONDA ACCORD VI Coupe (CG) 97-03, 3.0 V6 24V (CG2) (J30A1), 147 (200), 02/98-06/03, Power Steering; HONDA INSPIRE | SABER (UA4, UA5) 95-03, 2.5 GX (UA4) (J25A), 147 (200), 06/95-08/03, Power Steering",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1108.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15542",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1108.jpg",
+      "photo_sha256": "2b7cb358fbacf80f19539a44f695326595f313b3969235590f1180f844d69542",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1123",
+      "category": "Ремни приводные",
+      "oem": "04668249AB",
+      "fitment": "AUDI A6 Allroad C8 (4AH) 19-, 55 TFSI Mild Hybrid quattro (DLZA), 250 (340), 11/19-; AUDI A6 C8 (4A2) 18-, 55 TFSi Mild Hybrid quattro (DLZA), 250 (340), 02/18-; AUDI A6 C8 Avant (4A5) 18-, 55 TFSI Mild Hybrid quattro (DLZA), 250 (340), 05/18-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1123.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15543",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1123.jpg",
+      "photo_sha256": "d926dcb5d1d4f37270623b18bcc3de41809ff4afe8d2735997d815bb9acc5d56",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1140",
+      "category": "Ремни приводные",
+      "oem": "AY14041140",
+      "fitment": "AUDI Q7 (4MB, 4MG, 4MQ) 15-19, SQ7 TDI quattro (CZAC, DMVA), 320 (435), 04/16-12/19",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1140.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=49386",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1140.jpg",
+      "photo_sha256": "5f325f9ff784f89c4718dfd88d7eddc614382134c4034a42bb58693e6de65206",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1155",
+      "category": "Ремни приводные",
+      "oem": "7700260888",
+      "fitment": "HONDA JAZZ III | FIT II (GE_, GG_, GP_) 07-14, 1.3 HYBRID (GP1) (LDA3), 65 (88), 04/11-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1155.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=35625",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1155.jpg",
+      "photo_sha256": "233072b4111f6d9b03e38dacce97a639f456489f9d747593ccf8aaa7a353147f",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1170",
+      "category": "Ремни приводные",
+      "oem": "0306GM0061N",
+      "fitment": "SUBARU TREZIA 10-14, 1.3 (NSP120X, NSP120L) (1NR-FE, 1NR-FKE), 73 (99), 03/11-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1170.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=SUBARU&product_id=15545",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1170.jpg",
+      "photo_sha256": "fea8cded50e8c35dc08824b273193b0e6954bbc1b72487a6bc8f12429ed29b05",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1183",
+      "category": "Ремни приводные",
+      "oem": "1867503390",
+      "fitment": "MAZDA 323 III Station Wagon (BW) 86-95, 1.5 (BW105) (B5, B50, B53), 54 (73), 01/87-05/89; MAZDA 323 III Station Wagon (BW) 86-95, 1.5 (BW5W, BW105) (B50, B53, E5), 55 (75), 05/86-05/89",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1183.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MAZDA&product_id=15546",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1183.jpg",
+      "photo_sha256": "a40fd71f3908583449027c0306118ba8f3e7eb43b409e242f26ff3f4319978db",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1230",
+      "category": "Ремни приводные",
+      "oem": "575078",
+      "fitment": "LADA NIVA (2121, 2131) 76-15, 1900 Diesel (21215) (XUD9SD), 48 (65), 01/93-08/99; LADA NIVA (2121, 2131) 76-15, 1900 Diesel (21215) (XUD9SD), 55 (75), 01/99-12/06",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1230.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=15550",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1230.jpg",
+      "photo_sha256": "a16e4aa9cf0dd7985d57c4c85786c4f17c7b4ce9ffe3ba9c27f0bd0685f02096",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1390",
+      "category": "Ремни приводные",
+      "oem": "04891519AE",
+      "fitment": "LEXUS LX (_J2_) 07-, 450d (VDJ201) (1VD-FTV), 200 (272), 09/15-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1390.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LEXUS&product_id=40791",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1390.jpg",
+      "photo_sha256": "3eb5e8abf348b70038a2b26d7018c739cc358f05ef2260bb2f1fc32f35652b86",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1590",
+      "category": "Ремни приводные",
+      "oem": "9004831049000",
+      "fitment": "DAIHATSU MATERIA (M4_) 06-, 1.3 (K3-VE), 67 (91), 10/06-; DAIHATSU SIRION (M3_) 05-13, 1.3 (M301) (K3-VE), 64 (87), 01/05-; DAIHATSU SIRION (M3_) 05-13, 1.3 (M301) (K3-VE), 67 (91), 03/08-",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1590.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=35630",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1590.jpg",
+      "photo_sha256": "fa42f33c658bd2538f085b964d2f4b2cd44bfe833c97452fe476748a749aeb67",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "4PK1708",
+      "category": "Ремни приводные",
+      "oem": "9004831030",
+      "fitment": "DAIHATSU SIRION | STORIA (M1) 98-05, 1.0 i (M101) (EJ-VE), 43 (58), 09/00-01/05; DAIHATSU SIRION | STORIA (M1) 98-05, 1.0 i 4WD (M110) (EJ-VE), 43 (58), 09/00-01/05; DAIHATSU SIRION | STORIA (M1) 98-05, 1.3 Sport (M101) (K3-VE2), 75 (102), 08/00-01/05",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/4PK1708.html",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=15563",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/4PK1708.jpg",
+      "photo_sha256": "64aecb9c22e05a2a4a2ec8a580a9f92efad2ef391e689c1bf4a53e6a24e929ca",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "exact_sku_verified": true,
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "source_reviewed_at_utc": "2026-11-16T11:00:42.894186+00:00"
+    }
+  ]
+}

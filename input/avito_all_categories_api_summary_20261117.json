@@ -1,0 +1,214 @@
+{
+  "source_rows": 45711,
+  "eligible_total": 13055,
+  "already_active_excluded": 47,
+  "category_inventory_counts": {
+    "Рычаги подвески": 2826,
+    "Тяги рулевые": 955,
+    "Рулевые наконечники": 1375,
+    "Стойки стабилизатора": 1681,
+    "Прокладки ГБЦ": 218,
+    "Колодки тормозные (дисковые)": 1473,
+    "Ремни приводные": 808,
+    "Опоры двигателя": 630,
+    "Стойки амортизатора": 235,
+    "ШРУС": 1148,
+    "Ступичные подшипники": 551,
+    "Свечи накала": 40,
+    "Пружины подвески": 284,
+    "Ремни ГРМ": 154,
+    "Радиаторы охлаждения": 191,
+    "Генератор": 179,
+    "Насос ГУР": 98,
+    "Радиаторы печки": 63,
+    "Радиаторы кондиционера": 37,
+    "Колодки барабанные": 22,
+    "Комплекты цепи ГРМ": 87
+  },
+  "category_already_active_counts": {
+    "Свечи накала": 21,
+    "Радиаторы кондиционера": 9,
+    "Колодки барабанные": 17
+  },
+  "inventory_created_at_utc": "2026-11-13T13:58:34.835654+00:00",
+  "source_commit": "a40d587793be5eabce4ae4ac6b0ca5ed8cf539d1",
+  "updated_at_utc": "2026-11-17T07:50:23.795369+00:00",
+  "state": "COMPLETE",
+  "queue_total": 13008,
+  "scope_sha256": "9a868ea5f5926ed4e1de15bf7945f8ba9ec79b086fec14fc79516bfcbccfecc4",
+  "checked": 13008,
+  "pending": 0,
+  "session_new_API_requests": 131,
+  "session_recent_cache_reused": 135,
+  "status_counts": {
+    "Иркутск_есть_иной_срок": 10236,
+    "exact_sku_not_found": 9,
+    "опт_Иркутск_подтвержден": 2691,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 71,
+    "склад_Иркутск_не_подтвержден": 1
+  },
+  "API_zero_day_candidate_count": 2691,
+  "fully_source_verified_publishable_count": null,
+  "source_verification_pending_count": 2691,
+  "categories": [
+    {
+      "category": "Насос ГУР",
+      "queued": 98,
+      "checked": 98,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "Генератор",
+      "queued": 179,
+      "checked": 179,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "Рычаги подвески",
+      "queued": 2826,
+      "checked": 2826,
+      "API_zero_day_candidates": 1,
+      "pending": 0
+    },
+    {
+      "category": "Тяги рулевые",
+      "queued": 955,
+      "checked": 955,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "Рулевые наконечники",
+      "queued": 1375,
+      "checked": 1375,
+      "API_zero_day_candidates": 1,
+      "pending": 0
+    },
+    {
+      "category": "Колодки тормозные (дисковые)",
+      "queued": 1473,
+      "checked": 1473,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "Ремни приводные",
+      "queued": 808,
+      "checked": 808,
+      "API_zero_day_candidates": 640,
+      "pending": 0
+    },
+    {
+      "category": "Комплекты цепи ГРМ",
+      "queued": 87,
+      "checked": 87,
+      "API_zero_day_candidates": 15,
+      "pending": 0
+    },
+    {
+      "category": "Ремни ГРМ",
+      "queued": 154,
+      "checked": 154,
+      "API_zero_day_candidates": 154,
+      "pending": 0
+    },
+    {
+      "category": "Прокладки ГБЦ",
+      "queued": 218,
+      "checked": 218,
+      "API_zero_day_candidates": 218,
+      "pending": 0
+    },
+    {
+      "category": "Свечи накала",
+      "queued": 19,
+      "checked": 19,
+      "API_zero_day_candidates": 19,
+      "pending": 0
+    },
+    {
+      "category": "Радиаторы охлаждения",
+      "queued": 191,
+      "checked": 191,
+      "API_zero_day_candidates": 191,
+      "pending": 0
+    },
+    {
+      "category": "Радиаторы кондиционера",
+      "queued": 28,
+      "checked": 28,
+      "API_zero_day_candidates": 27,
+      "pending": 0
+    },
+    {
+      "category": "Радиаторы печки",
+      "queued": 63,
+      "checked": 63,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "ШРУС",
+      "queued": 1148,
+      "checked": 1148,
+      "API_zero_day_candidates": 1132,
+      "pending": 0
+    },
+    {
+      "category": "Стойки стабилизатора",
+      "queued": 1681,
+      "checked": 1681,
+      "API_zero_day_candidates": 176,
+      "pending": 0
+    },
+    {
+      "category": "Стойки амортизатора",
+      "queued": 235,
+      "checked": 235,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "Пружины подвески",
+      "queued": 284,
+      "checked": 284,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "Колодки барабанные",
+      "queued": 5,
+      "checked": 5,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "Опоры двигателя",
+      "queued": 630,
+      "checked": 630,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    },
+    {
+      "category": "Ступичные подшипники",
+      "queued": 551,
+      "checked": 551,
+      "API_zero_day_candidates": 117,
+      "pending": 0
+    },
+    {
+      "category": "Форсунки топливные",
+      "queued": 0,
+      "checked": 0,
+      "API_zero_day_candidates": 0,
+      "pending": 0
+    }
+  ],
+  "Avito_XML_modified": false,
+  "private_buying_prices_written": false,
+  "API_max_workers": 2,
+  "API_start_interval_seconds": 1,
+  "results_are_timestamped_not_a_simultaneous_stock_snapshot": true
+}

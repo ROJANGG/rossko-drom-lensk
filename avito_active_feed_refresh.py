@@ -45,6 +45,9 @@ def price_decimal(value):
 def seller_sku(ad):
     title = ad.findtext("Title", "")
     brand = ad.findtext("Brand", "")
+    if title.startswith("Ремень приводной "):
+        from avito_reviewed_drive_belts import belt_sku
+        return belt_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
     # Parse only explicit supported titles, including individually approved extensions.
     matched = re.fullmatch(
         r"(Тормозной диск|Рулевая рейка|Радиатор кондиционера|Колодки барабанные|Свеча накаливания|Свечи накала)\s+(.+)\s+([A-Za-z0-9.+/\-]+)\s+(новый|новые|новая)",
@@ -85,6 +88,18 @@ if _extension_path.exists():
         if _k in EXTRA_APPROVED_STOCK_CATEGORIES:
             raise ValueError("Duplicate approved extension SKU")
         EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record["category"]
+_belt_path = Path(__file__).parent / "input/avito_reviewed_drive_belts.json"
+_reviewed_belts = []
+if _belt_path.exists():
+    from avito_reviewed_drive_belts import load_reviewed_belts
+    _reviewed_belts = load_reviewed_belts(_belt_path)
+    for _record in _reviewed_belts:
+        _k = key(_record["brand"], _record["article"])
+        if _k in EXTRA_APPROVED_STOCK_CATEGORIES:
+            raise ValueError("Duplicate approved belt SKU")
+        EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record["category"]
+# Preserve the existing bound unless the exact reviewed extra scope is loaded.
+APPROVED_CATALOG_LIMIT = 300 + len(_reviewed_belts)
 EXTRA_APPROVED_STOCK_SKUS = set(EXTRA_APPROVED_STOCK_CATEGORIES)
 
 
@@ -130,7 +145,9 @@ def supplier_products(book, config):
         k = key(item["Бренд"], item["Артикул"])
         if k in found:
             raise ValueError("Duplicate supplier brand/article")
-        if item["Группа"] not in ("Тормозные диски", "Рулевые рейки", "Радиаторы кондиционера", "Колодки барабанные", "Свечи накала"):
+        if (item["Группа"] not in ("Тормозные диски", "Рулевые рейки", "Радиаторы кондиционера", "Колодки барабанные", "Свечи накала")
+                and not (item["Группа"] == "Ремни приводные"
+                         and EXTRA_APPROVED_STOCK_CATEGORIES.get(k) == "Ремни приводные")):
             raise ValueError("Unexpected supplier category")
         found[k] = item
     return found
@@ -183,7 +200,7 @@ def plan(old_xml, source, retail, *, second_stock=None, max_removed=12,
     if root.tag != "Ads" or root.get("formatVersion") != "3":
         raise ValueError("Invalid existing XML structure")
     ads = root.findall("Ad")
-    if not min_ads <= len(ads) <= 300:
+    if not min_ads <= len(ads) <= APPROVED_CATALOG_LIMIT:
         raise ValueError("Unusual live ad count; refuse to replace")
     ids = [ad.findtext("Id") for ad in ads]
     if len(ids) != len(set(ids)) or any(not x for x in ids):
@@ -302,7 +319,7 @@ def reconstruct_approved_catalog(archive_xml, live_xml, source, verified, *, fre
         raise ValueError("Mismatch between approved archive and live Avito feed")
     known = archive.findall("Ad")
     existing = live.findall("Ad")
-    if not 150 <= len(known) <= 300 or not 150 <= len(existing) <= len(known):
+    if not 150 <= len(known) <= APPROVED_CATALOG_LIMIT or not 150 <= len(existing) <= len(known):
         raise ValueError("Invalid approved archive or active listing count")
     known_by_id = {a.findtext("Id"): a for a in known}
     live_by_id = {a.findtext("Id"): a for a in existing}
@@ -352,7 +369,7 @@ def read_fresh_confirmed(path):
             if not all(k) or k in keys:
                 raise ValueError("Duplicate/invalid fresh API key")
             keys.add(k)
-    if not 100 <= len(keys) <= 300:
+    if not 100 <= len(keys) <= APPROVED_CATALOG_LIMIT:
         raise ValueError("Insufficient fresh API confirmations; refuse live feed update")
     return keys
 
@@ -444,4 +461,5 @@ def main():
 
 if __name__=="__main__":
     main()
+
 
