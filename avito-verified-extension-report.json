@@ -1,366 +1,1366 @@
 {
-  "as_of_utc": "2026-11-16T10:28:57.657355+00:00",
-  "before": 232,
-  "after": 245,
-  "approved_before": 243,
-  "approved_after": 256,
-  "scope_count": 95,
-  "source_review_approved": 59,
-  "added_count": 13,
+  "as_of_utc": "2026-11-17T08:11:12.737451+00:00",
+  "before": 245,
+  "after": 329,
+  "approved_before": 256,
+  "approved_after": 340,
+  "scope_count": 85,
+  "added_count": 84,
   "added": [
     {
-      "id": "irk-1f53d20b13869aaea79297",
-      "brand": "Bosch",
-      "article": "0250201055",
-      "category": "Свечи накала",
-      "retail": 1750,
+      "id": "irk-2fa0e2a726ecae03762df2",
+      "brand": "LYNXauto",
+      "article": "10X1000LX",
+      "category": "Ремни приводные",
+      "retail": 400,
       "photo": {
-        "filename": "irk-1f53d20b13869aaea79297-1ed1bdcc9538.jpg",
-        "sha256": "1ed1bdcc95387c158574eaaae1073b27e618adfa53f1479021ae96c232d6bde6",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1f53d20b13869aaea79297-1ed1bdcc9538.jpg",
-        "source_verification": "primary_catalogues_and_exact_supplier_nomenclature_max_3h"
-      }
+        "filename": "irk-2fa0e2a726ecae03762df2-c90cc6eba752.jpg",
+        "sha256": "c90cc6eba752cc20cdbf97213c504709731e86f9d24d8b93c84ae7b3a05fc2ee",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2fa0e2a726ecae03762df2-c90cc6eba752.jpg",
+        "manufacturer_page_sha256": "76e7767b1282e353f37ad96322cdf2efb60efc64a82a7318f805f7877ade33fc",
+        "fitment_page_sha256": "f6520a16c5bb1e5530f9ed03422c4d24994d5638648a83bef9836d442b261a08",
+        "verified_at_utc": "2026-11-17T08:07:42.326457+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:25.917742+00:00"
     },
     {
-      "id": "irk-75d868f76cc76946835d27",
-      "brand": "Bosch",
-      "article": "0250202142",
-      "category": "Свечи накала",
-      "retail": 1550,
+      "id": "irk-c6de35fe796922faf416fc",
+      "brand": "LYNXauto",
+      "article": "10X1050LX",
+      "category": "Ремни приводные",
+      "retail": 400,
       "photo": {
-        "filename": "irk-75d868f76cc76946835d27-1b05945b8ade.jpg",
-        "sha256": "1b05945b8ade081dd6b6770e1d28cb93ed60316952faef6c391827d03170b8a6",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-75d868f76cc76946835d27-1b05945b8ade.jpg",
-        "source_verification": "primary_catalogues_and_exact_supplier_nomenclature_max_3h"
-      }
+        "filename": "irk-c6de35fe796922faf416fc-95b614c31a72.jpg",
+        "sha256": "95b614c31a72a0321ab9d7ada372018c8a93cfec82dec88f798f8fdacce6d404",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c6de35fe796922faf416fc-95b614c31a72.jpg",
+        "manufacturer_page_sha256": "8a935c27182a59ae699d3f433e0c67a6e5da1a28f3cbc87d89fcb952240f2068",
+        "fitment_page_sha256": "4b31ef847ed00e006dbfbe11cfa975a77de4d60906637644f24ad4ec9637a094",
+        "verified_at_utc": "2026-11-17T08:07:42.324395+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:27.788086+00:00"
     },
     {
-      "id": "irk-99979b22d92977238b1cf5",
-      "brand": "Bosch",
-      "article": "0250403009",
-      "category": "Свечи накала",
-      "retail": 1450,
+      "id": "irk-ac633c36792c11f3170167",
+      "brand": "LYNXauto",
+      "article": "10X1075LX",
+      "category": "Ремни приводные",
+      "retail": 500,
       "photo": {
-        "filename": "irk-99979b22d92977238b1cf5-93fc87b6bfb0.jpg",
-        "sha256": "93fc87b6bfb0a4d7147b131cd163468266f585c5b859d814f25c3ea7183f4fb0",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-99979b22d92977238b1cf5-93fc87b6bfb0.jpg",
-        "source_verification": "primary_catalogues_and_exact_supplier_nomenclature_max_3h"
-      }
+        "filename": "irk-ac633c36792c11f3170167-76ad6b86bdd3.jpg",
+        "sha256": "76ad6b86bdd34ec4572ca886f5709d57a85015ffce5aa39d04f02ca61132205d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ac633c36792c11f3170167-76ad6b86bdd3.jpg",
+        "manufacturer_page_sha256": "5fe209d737c917910334c56894875983580c413af97699788830ebcc24b68169",
+        "fitment_page_sha256": "1879263c243daeb2960e7ef1fa1573ee8c4d888d0d9b9e0fee3440e545f7fc8f",
+        "verified_at_utc": "2026-11-17T08:07:43.616698+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:29.917764+00:00"
     },
     {
-      "id": "irk-e86f90c0316f1a03c1053e",
-      "brand": "TATSUMI",
-      "article": "THQ1001",
-      "category": "Свечи накала",
+      "id": "irk-7e0beca4007b9ef660b1c8",
+      "brand": "LYNXauto",
+      "article": "10X1100LX",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-7e0beca4007b9ef660b1c8-168b5a4246e7.jpg",
+        "sha256": "168b5a4246e7cc4dd96aa3473332c525fcd969aff845a21c6159afd4cd11d735",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7e0beca4007b9ef660b1c8-168b5a4246e7.jpg",
+        "manufacturer_page_sha256": "fa6709f403390b5dffc8d36056c9158aa770d3a4728bd6586bf3eca535b3fc12",
+        "fitment_page_sha256": "966fa30c05ff6abf45b49b7dd1837873918724b3d8b1813b1a6cbb286ba790df",
+        "verified_at_utc": "2026-11-17T08:07:43.751641+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:32.007732+00:00"
+    },
+    {
+      "id": "irk-466bc99a7f3a81fe7c0f44",
+      "brand": "LYNXauto",
+      "article": "10X1125LX",
+      "category": "Ремни приводные",
+      "retail": 500,
+      "photo": {
+        "filename": "irk-466bc99a7f3a81fe7c0f44-d4ea7cdcbc0d.jpg",
+        "sha256": "d4ea7cdcbc0dc3421a7092d4b331e28be22a7606fbd679d31274a33318f8b903",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-466bc99a7f3a81fe7c0f44-d4ea7cdcbc0d.jpg",
+        "manufacturer_page_sha256": "36d5443724a8f2e8104eb4a5e3d0881c935616c96c02c2bb77551a4df72681e8",
+        "fitment_page_sha256": "e9515a4a4b59596b9411a0e5c0aa8564ad6b80f51d9a9ff7f14a60fbc3c84e4c",
+        "verified_at_utc": "2026-11-17T08:07:45.604983+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:33.661067+00:00"
+    },
+    {
+      "id": "irk-b0fc5c49bbcb0d9d59993f",
+      "brand": "LYNXauto",
+      "article": "10X1138LX",
+      "category": "Ремни приводные",
+      "retail": 350,
+      "photo": {
+        "filename": "irk-b0fc5c49bbcb0d9d59993f-63a8e79e0543.jpg",
+        "sha256": "63a8e79e0543b24fc6717804af764a9972e036968c15440b164c7e0b60adbdc1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b0fc5c49bbcb0d9d59993f-63a8e79e0543.jpg",
+        "manufacturer_page_sha256": "3537051e36c703fa433cc4c5a660d2f00713c5a75f4e727e82620867e50a2d80",
+        "fitment_page_sha256": "9b9e08d7d6d13266cbce7635c90ad6184438a9e72d8d3a34893a2997ae487812",
+        "verified_at_utc": "2026-11-17T08:07:45.600979+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:35.114808+00:00"
+    },
+    {
+      "id": "irk-864555d7e5fede10056a24",
+      "brand": "LYNXauto",
+      "article": "10X1175LX",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-864555d7e5fede10056a24-16a505ce68ad.jpg",
+        "sha256": "16a505ce68adcb2bd357d47b619252fd8fe9d13ed3b8a6d9b4df71cda401d73e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-864555d7e5fede10056a24-16a505ce68ad.jpg",
+        "manufacturer_page_sha256": "012dfacfac77189846dce4af9c84439e597c49c2c2cc7818a8b54f07073253e9",
+        "fitment_page_sha256": "1fecdcc1f16ca2111b8d8555f52f820bb2925a5b8a0d6ddcfb59a0cbdee906a7",
+        "verified_at_utc": "2026-11-17T08:07:46.955557+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:37.033071+00:00"
+    },
+    {
+      "id": "irk-6488e64f2edbb3796542be",
+      "brand": "LYNXauto",
+      "article": "10X1250LX",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-6488e64f2edbb3796542be-53867b5366c9.jpg",
+        "sha256": "53867b5366c9755ec933c5dbdf1ce6be131140bb46b31e7a3c8c1d7a8a457681",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6488e64f2edbb3796542be-53867b5366c9.jpg",
+        "manufacturer_page_sha256": "902dddfc6dc1847c657cdf09916bbd83000454563b0bdaa90cee301898acbec5",
+        "fitment_page_sha256": "cf06f2fc0c3854e6171389f46afc636155e92f9d3901207566b2270cf29993a4",
+        "verified_at_utc": "2026-11-17T08:07:46.937386+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:38.356315+00:00"
+    },
+    {
+      "id": "irk-c9702ab57c4864403d19ed",
+      "brand": "LYNXauto",
+      "article": "10X700LX",
+      "category": "Ремни приводные",
+      "retail": 350,
+      "photo": {
+        "filename": "irk-c9702ab57c4864403d19ed-d0e5f20a3466.jpg",
+        "sha256": "d0e5f20a346610df9624b4cffb51876557c9c3f9d3ffc9542b18e2e6da2bea04",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c9702ab57c4864403d19ed-d0e5f20a3466.jpg",
+        "manufacturer_page_sha256": "31789cbb8a2efe6ab4532e1f85913e63bedfce229ccf237fa8a22483c17045c7",
+        "fitment_page_sha256": "6eb289659fa84479ac97891fa6e9a61f0a86eff41ab415fcc1655ac0f778188c",
+        "verified_at_utc": "2026-11-17T08:07:48.326225+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:40.075770+00:00"
+    },
+    {
+      "id": "irk-3c51cf20eef5c1f917a5ad",
+      "brand": "LYNXauto",
+      "article": "10X713LX",
+      "category": "Ремни приводные",
+      "retail": 250,
+      "photo": {
+        "filename": "irk-3c51cf20eef5c1f917a5ad-d4210451fb28.jpg",
+        "sha256": "d4210451fb28cb120c75a6518390aa7efd46c112353b206aff172d3f4bc7b14e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3c51cf20eef5c1f917a5ad-d4210451fb28.jpg",
+        "manufacturer_page_sha256": "c3f3e5f7b96dc9e362d96d65c50bcb44c636b8f987bb87370193d6f4bb94d272",
+        "fitment_page_sha256": "ab3fb7efe1d1fad3a1144e674cf5e3a032af91a1eb20e7ea5065b2ac1362ce50",
+        "verified_at_utc": "2026-11-17T08:07:48.315871+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:41.959516+00:00"
+    },
+    {
+      "id": "irk-c806ff664035e5f790f840",
+      "brand": "LYNXauto",
+      "article": "10X725LX",
+      "category": "Ремни приводные",
+      "retail": 350,
+      "photo": {
+        "filename": "irk-c806ff664035e5f790f840-5b5880d6b31b.jpg",
+        "sha256": "5b5880d6b31bea1be0eeee07365cf831efea9352ebb7652693c95110f678ae18",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c806ff664035e5f790f840-5b5880d6b31b.jpg",
+        "manufacturer_page_sha256": "c5a15c158cc44ac27aef68adc31d011c358d94ba45132ea2d45373e07e5ad57a",
+        "fitment_page_sha256": "39b176da453e1c4997692a0d97185083f555366999ef9301dce34d3f4dec6d85",
+        "verified_at_utc": "2026-11-17T08:07:49.426387+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:43.922274+00:00"
+    },
+    {
+      "id": "irk-8f1d804deeeedc4a053371",
+      "brand": "LYNXauto",
+      "article": "10X750LX",
+      "category": "Ремни приводные",
+      "retail": 300,
+      "photo": {
+        "filename": "irk-8f1d804deeeedc4a053371-854ed9afd5b6.jpg",
+        "sha256": "854ed9afd5b6bbccbce2b6a9df08de0e3023f276a4f828eadcd1821255258a1b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8f1d804deeeedc4a053371-854ed9afd5b6.jpg",
+        "manufacturer_page_sha256": "b095e6146266e35cd5ab7f1dd64688257fdabd269cc10200fa1ce847ecb86e7b",
+        "fitment_page_sha256": "bf30046289e5fe059d64c87d2e5bb82edb30d104b4a0cbb28b894d87c3e03799",
+        "verified_at_utc": "2026-11-17T08:07:49.440137+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:46.107470+00:00"
+    },
+    {
+      "id": "irk-311c8faf2808fa5eb9a566",
+      "brand": "LYNXauto",
+      "article": "10X775LX",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-311c8faf2808fa5eb9a566-bf4c67eb1453.jpg",
+        "sha256": "bf4c67eb1453b939d8ec161d360d723545a24177e460487a73772d0f9ad18515",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-311c8faf2808fa5eb9a566-bf4c67eb1453.jpg",
+        "manufacturer_page_sha256": "c5f0b07268418ebc959681b6aff361fd4229e2061dc8ffa121e06d607051621f",
+        "fitment_page_sha256": "d1893cfe336f07cdd67643b97e6c47c3254c4c382437814e2112de170ccfe84d",
+        "verified_at_utc": "2026-11-17T08:07:50.819452+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:48.039572+00:00"
+    },
+    {
+      "id": "irk-539443251b1aa4d20ef8e1",
+      "brand": "LYNXauto",
+      "article": "10X800LX",
+      "category": "Ремни приводные",
+      "retail": 350,
+      "photo": {
+        "filename": "irk-539443251b1aa4d20ef8e1-f9c964e11e42.jpg",
+        "sha256": "f9c964e11e428dd1188d5fcac8e6dba00f58cfb828211a77a3481c14bf0d1828",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-539443251b1aa4d20ef8e1-f9c964e11e42.jpg",
+        "manufacturer_page_sha256": "3f7f9e5a234ae6529e4addf4398660333777b47caa339ec6eca37db556d8657b",
+        "fitment_page_sha256": "88f33e4996b97ffbc0d7bba19cf9733124a446ecd4938f7b311ec6dce04bb720",
+        "verified_at_utc": "2026-11-17T08:07:50.708134+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:49.998729+00:00"
+    },
+    {
+      "id": "irk-958431459186a6348d9aa9",
+      "brand": "LYNXauto",
+      "article": "10X838LX",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-958431459186a6348d9aa9-81d3f5e3aaee.jpg",
+        "sha256": "81d3f5e3aaee6256143c379bf5dc28b513a1e94b7dc32f52e286ca4edf1a6383",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-958431459186a6348d9aa9-81d3f5e3aaee.jpg",
+        "manufacturer_page_sha256": "13d6b28668447df57c208e25fce27634ef47531dc51040e5bcc042a09b16e0fc",
+        "fitment_page_sha256": "f2be910008e829fff16ebfe66bf295e37c708848ed77c54193d3d4de8c6f596a",
+        "verified_at_utc": "2026-11-17T08:07:51.749385+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:51.971638+00:00"
+    },
+    {
+      "id": "irk-2ba7e1c4255d2ed6d4c508",
+      "brand": "LYNXauto",
+      "article": "10X865LX",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-2ba7e1c4255d2ed6d4c508-2f354b52579f.jpg",
+        "sha256": "2f354b52579f96e09e2e9e31d3594e1303d18912ac78bfc8b544fb1325490846",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2ba7e1c4255d2ed6d4c508-2f354b52579f.jpg",
+        "manufacturer_page_sha256": "c12a4cc9589b571c1e4263a7f66ac3768c94ff9081ddf2d52d8a09c95f5338eb",
+        "fitment_page_sha256": "174d07b65eea5bcba0feb3cb90365a0519c3a9961a6807e53e626a422bc56f8b",
+        "verified_at_utc": "2026-11-17T08:07:51.857347+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:53.620155+00:00"
+    },
+    {
+      "id": "irk-16b25e87652efcc0cd24f4",
+      "brand": "LYNXauto",
+      "article": "10X875LX",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-16b25e87652efcc0cd24f4-bd3e2e627e8e.jpg",
+        "sha256": "bd3e2e627e8e0d4076b512785a6b1318242e47bb7a87ef66cc96a0ca91c079e7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-16b25e87652efcc0cd24f4-bd3e2e627e8e.jpg",
+        "manufacturer_page_sha256": "2bdf440be7bc8a084db874bb497988d3e3ff33ef860e29f9877a4bc2b9ebc3d8",
+        "fitment_page_sha256": "9ecc6bc6086dc9bb2b67630bfefb5d9d490b59eb51028b6cda1ba68c45665fa1",
+        "verified_at_utc": "2026-11-17T08:07:52.572719+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:55.352166+00:00"
+    },
+    {
+      "id": "irk-4ab8fb814c7f138c4ff27f",
+      "brand": "LYNXauto",
+      "article": "10X925LX",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-4ab8fb814c7f138c4ff27f-716b60f02eaf.jpg",
+        "sha256": "716b60f02eaf8ba5a9210dd4648f0987c727bec970176432092319ba37783242",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4ab8fb814c7f138c4ff27f-716b60f02eaf.jpg",
+        "manufacturer_page_sha256": "7e971587f923d9dff090c83085c9dbf9509ce499b1b548bb9222aa04f1f5b43c",
+        "fitment_page_sha256": "bb02bcb0da76ef666b56318e6295250ad9ad147cf9c4f9028d002471aad6fec2",
+        "verified_at_utc": "2026-11-17T08:07:52.706084+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:56.991727+00:00"
+    },
+    {
+      "id": "irk-8b8766e71ac74a949e28fe",
+      "brand": "LYNXauto",
+      "article": "10X938LX",
+      "category": "Ремни приводные",
+      "retail": 300,
+      "photo": {
+        "filename": "irk-8b8766e71ac74a949e28fe-01a436b2a526.jpg",
+        "sha256": "01a436b2a5261a913fb2a9dbe53fa1d4e2d00a42b58f6341140cb8b3644a2c98",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8b8766e71ac74a949e28fe-01a436b2a526.jpg",
+        "manufacturer_page_sha256": "da66a76c530bf67cc99499f55d810e6e3d6ac39731dfc83492f3beb6fbe46b69",
+        "fitment_page_sha256": "c9232bb4fc18809ed74bc133cb77821ae9dd66069c37e118da87fa2f8b154d42",
+        "verified_at_utc": "2026-11-17T08:07:53.443917+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:08:59.341325+00:00"
+    },
+    {
+      "id": "irk-b4ad65b6011ee0d4f14147",
+      "brand": "LYNXauto",
+      "article": "10X950LX",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-b4ad65b6011ee0d4f14147-7554f4784f1d.jpg",
+        "sha256": "7554f4784f1d89ee4c4a680eb4550ad4cf781e48a30d11981ab6ddfc6870f1d1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b4ad65b6011ee0d4f14147-7554f4784f1d.jpg",
+        "manufacturer_page_sha256": "6736065a04862104992d3e7c65697d55a8be20880bbfbe3ca84377bf3cfea3d6",
+        "fitment_page_sha256": "bb9a36898b88255ab12b0514baf921801547927aeb9a1be8a35381bca0a710a3",
+        "verified_at_utc": "2026-11-17T08:07:53.680510+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:01.345048+00:00"
+    },
+    {
+      "id": "irk-3d470f9960d4fb5381b944",
+      "brand": "LYNXauto",
+      "article": "10X960LX",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-3d470f9960d4fb5381b944-93c670f193c2.jpg",
+        "sha256": "93c670f193c27aac7916fe4e224b3ca9186faf2fbfceec59f65f3ca4247d47a2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3d470f9960d4fb5381b944-93c670f193c2.jpg",
+        "manufacturer_page_sha256": "d9cfa8c01402129834ceeed1c1be86ed0d9f8826775633d1f6d0df1edea09f2d",
+        "fitment_page_sha256": "9ca51f59db0c1b72815f61e0b3aac707e99021e6176d4f0e5a0900a0032dfb3b",
+        "verified_at_utc": "2026-11-17T08:07:54.374743+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:03.313849+00:00"
+    },
+    {
+      "id": "irk-faa51903087d099ca8f10b",
+      "brand": "LYNXauto",
+      "article": "10X975LX",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-faa51903087d099ca8f10b-3bf481e50b20.jpg",
+        "sha256": "3bf481e50b20cefed70cd70e53e93c9371cd588ce2caf35f66001dc2a22e480c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-faa51903087d099ca8f10b-3bf481e50b20.jpg",
+        "manufacturer_page_sha256": "c06e1073225efb9ded224e810efe8fa2e7c6b9e079ba844dfb880a0a3cd8d6f4",
+        "fitment_page_sha256": "4054d5ba904a333dec89380969761a6902ed93d17c0d6ca1be81c9f1399ec641",
+        "verified_at_utc": "2026-11-17T08:07:54.563791+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:05.210772+00:00"
+    },
+    {
+      "id": "irk-cc5493d2415d1dda03b881",
+      "brand": "LYNXauto",
+      "article": "11X528LX",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-cc5493d2415d1dda03b881-993c8420b5d8.jpg",
+        "sha256": "993c8420b5d892837e06caa64e0b6b8a8d73bc17b51e79f3012b19c5fc566d6a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cc5493d2415d1dda03b881-993c8420b5d8.jpg",
+        "manufacturer_page_sha256": "4f0144cc4fd13cef2d4981a4badf17d902640dd4b70742f9d8647b86e11c769e",
+        "fitment_page_sha256": "64f5705bab0cfd838e12fac52cced0dd1638f3a587b1a1393306032c8330b5f7",
+        "verified_at_utc": "2026-11-17T08:07:55.369787+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:06.575217+00:00"
+    },
+    {
+      "id": "irk-1884079e56591631f9e924",
+      "brand": "LYNXauto",
+      "article": "13X1000LX",
+      "category": "Ремни приводные",
+      "retail": 600,
+      "photo": {
+        "filename": "irk-1884079e56591631f9e924-99baada23981.jpg",
+        "sha256": "99baada23981a869a98a7ef05109f108b6465349f8d95c048950e4409203b332",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1884079e56591631f9e924-99baada23981.jpg",
+        "manufacturer_page_sha256": "d4f00af2cda1cba99d6832ed5f41a0d2d6d7be0ee9756d860c38172fb4e2a175",
+        "fitment_page_sha256": "dbcfaa1041bec6d55957ac4d8187058008ee7d1ab47340254731408d824fc86d",
+        "verified_at_utc": "2026-11-17T08:07:55.683351+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:08.383314+00:00"
+    },
+    {
+      "id": "irk-ead48c2834318bdb4d00d7",
+      "brand": "LYNXauto",
+      "article": "13X1025LX",
+      "category": "Ремни приводные",
+      "retail": 600,
+      "photo": {
+        "filename": "irk-ead48c2834318bdb4d00d7-058da6be769e.jpg",
+        "sha256": "058da6be769e75c987610a528490efad600092c64aaf26968fb9fb69acd21194",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ead48c2834318bdb4d00d7-058da6be769e.jpg",
+        "manufacturer_page_sha256": "7cfd90b42eb813f1704bd816e85e80884368069707c8c150dcee48c1d66423cf",
+        "fitment_page_sha256": "2734843f65b3fa19430a913328302076828927edf384746804b500273951bbd8",
+        "verified_at_utc": "2026-11-17T08:07:56.151201+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:10.214517+00:00"
+    },
+    {
+      "id": "irk-e489f52e544cf1e7431548",
+      "brand": "LYNXauto",
+      "article": "13X1050HD",
+      "category": "Ремни приводные",
       "retail": 750,
       "photo": {
-        "filename": "irk-e86f90c0316f1a03c1053e-368453fed90b.jpg",
-        "sha256": "368453fed90bf5a1479281c156f3784b25e8e8cb38c643357fd68d15d845afa1",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e86f90c0316f1a03c1053e-368453fed90b.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-e489f52e544cf1e7431548-9cc8eb57c96b.jpg",
+        "sha256": "9cc8eb57c96ba855617d4d35d58319024a0070053695aefc40b8aef8eb115702",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e489f52e544cf1e7431548-9cc8eb57c96b.jpg",
+        "manufacturer_page_sha256": "0fef1436af7b347b4467a8a5fb971314ad666b578b59e0fdd44a45411013b7db",
+        "fitment_page_sha256": "5fb92d36c3433282f52a743ff0543a48fd1ed84486678fedaee0b503628b8c76",
+        "verified_at_utc": "2026-11-17T08:07:56.506341+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:12.301469+00:00"
     },
     {
-      "id": "irk-4eafb64aca70e14b39e0ef",
-      "brand": "TATSUMI",
-      "article": "THQ1005",
-      "category": "Свечи накала",
+      "id": "irk-6c0121c51a8c0b49e8459a",
+      "brand": "LYNXauto",
+      "article": "13X1050LX",
+      "category": "Ремни приводные",
+      "retail": 500,
+      "photo": {
+        "filename": "irk-6c0121c51a8c0b49e8459a-45df5c0a2154.jpg",
+        "sha256": "45df5c0a2154476ed253443ae88a5674a783d7d2284a1b7e1c4482e321cc1524",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6c0121c51a8c0b49e8459a-45df5c0a2154.jpg",
+        "manufacturer_page_sha256": "59beb0b50e319aee876d449ddc20bb502916ede0cd2c3516357c92bff120da3a",
+        "fitment_page_sha256": "ef9706aaf18c5ba3a1bf46a8a08b852a0b9f55cb8d470c7476995905ca4dcbb3",
+        "verified_at_utc": "2026-11-17T08:07:57.072471+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:14.584839+00:00"
+    },
+    {
+      "id": "irk-c738afbb4a07ca59ac9eaa",
+      "brand": "LYNXauto",
+      "article": "13X1075HD",
+      "category": "Ремни приводные",
+      "retail": 700,
+      "photo": {
+        "filename": "irk-c738afbb4a07ca59ac9eaa-f58a0a9561af.jpg",
+        "sha256": "f58a0a9561af1b99813437a24059a4866848c4cd1af682edf95a11110fed7d59",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c738afbb4a07ca59ac9eaa-f58a0a9561af.jpg",
+        "manufacturer_page_sha256": "ba9f9f6887a74b6f95b57d4f0061540bb2dd3d55bf9900e5d550638ad15f272b",
+        "fitment_page_sha256": "ec8da44bf1f044c5421a9e1f348d747fae25b5abe251a6317bf5d2dc0c645056",
+        "verified_at_utc": "2026-11-17T08:07:57.356703+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:16.679676+00:00"
+    },
+    {
+      "id": "irk-a080aae31f7b16e37bd9aa",
+      "brand": "LYNXauto",
+      "article": "13X1125LX",
+      "category": "Ремни приводные",
       "retail": 650,
       "photo": {
-        "filename": "irk-4eafb64aca70e14b39e0ef-ac6cc9fb85f8.jpg",
-        "sha256": "ac6cc9fb85f8998b345e263d6ea577b5df304710f2e6ffd8bd7938c8de0dbec2",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4eafb64aca70e14b39e0ef-ac6cc9fb85f8.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-a080aae31f7b16e37bd9aa-5c5b8d6355a8.jpg",
+        "sha256": "5c5b8d6355a812475d191aa6b257411d733fbf4c72ef9c4a18dda374643c66fa",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a080aae31f7b16e37bd9aa-5c5b8d6355a8.jpg",
+        "manufacturer_page_sha256": "8b462c7401490140079c2c4f78c472238d3ea8b90a065928b46ad21b73133e70",
+        "fitment_page_sha256": "c1a073752b159bcbcb5c7d599a61e21f9bdba1c9117316021c4c8a4a78cf2c26",
+        "verified_at_utc": "2026-11-17T08:07:57.844806+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:18.865922+00:00"
     },
     {
-      "id": "irk-f211f07c4d166c9b207557",
-      "brand": "TATSUMI",
-      "article": "THQ1006",
-      "category": "Свечи накала",
-      "retail": 1050,
+      "id": "irk-fc8f90441f8dd92bccbe3d",
+      "brand": "LYNXauto",
+      "article": "13X1150LX",
+      "category": "Ремни приводные",
+      "retail": 650,
       "photo": {
-        "filename": "irk-f211f07c4d166c9b207557-5ea1829fb32e.jpg",
-        "sha256": "5ea1829fb32edec1587eef06be2d58205c819f9ade63f2b6c24ec6a0f9abdb4a",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f211f07c4d166c9b207557-5ea1829fb32e.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-fc8f90441f8dd92bccbe3d-f940284bd3d3.jpg",
+        "sha256": "f940284bd3d31adc355d9f23d114e1c24bd35b305ec452cac5941e400871d65d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fc8f90441f8dd92bccbe3d-f940284bd3d3.jpg",
+        "manufacturer_page_sha256": "7ef25c37fc8cf32424606fb6224d4aff8d3d77f66c6c8c6c311c8e6b22d3a2fc",
+        "fitment_page_sha256": "bef4ad733f4352e98a1f2ebb7dee05287cbd9a59113bb6321b9a92a5730bfe59",
+        "verified_at_utc": "2026-11-17T08:07:58.221187+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:21.115629+00:00"
     },
     {
-      "id": "irk-8dc84ebb09889d4a578659",
-      "brand": "TATSUMI",
-      "article": "THQ1007",
-      "category": "Свечи накала",
-      "retail": 1250,
+      "id": "irk-54c9ba0dcaf231d9ba04ea",
+      "brand": "LYNXauto",
+      "article": "13X1175LX",
+      "category": "Ремни приводные",
+      "retail": 700,
       "photo": {
-        "filename": "irk-8dc84ebb09889d4a578659-a94efe18e0d2.jpg",
-        "sha256": "a94efe18e0d2cb1b6d5c19aa9928294bfeb0c16d293e40ac3ae851f4a3f2021b",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8dc84ebb09889d4a578659-a94efe18e0d2.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-54c9ba0dcaf231d9ba04ea-9234514c540d.jpg",
+        "sha256": "9234514c540df1178ad0171ef21820c717b77c0f8717f936d8e6dc071a680861",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-54c9ba0dcaf231d9ba04ea-9234514c540d.jpg",
+        "manufacturer_page_sha256": "17f7763da3a55156fb8365b4abc55a58cc2890d254eaecaf23b94efd49e40885",
+        "fitment_page_sha256": "519e50ba852541d44d8f517c8ae11e27b2b0e2a43b8ffc719f78d71ca3aef6d3",
+        "verified_at_utc": "2026-11-17T08:07:58.617521+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:22.895020+00:00"
     },
     {
-      "id": "irk-f0f93c65582c2cdd41ff85",
-      "brand": "TATSUMI",
-      "article": "THQ1008",
-      "category": "Свечи накала",
-      "retail": 1150,
+      "id": "irk-6ea4b359ac3485dc0c7637",
+      "brand": "LYNXauto",
+      "article": "13X1200LX",
+      "category": "Ремни приводные",
+      "retail": 600,
       "photo": {
-        "filename": "irk-f0f93c65582c2cdd41ff85-a4222be87c66.jpg",
-        "sha256": "a4222be87c66e799a87df7bdcc8cbce9b2950ca663b8d2db3a4456301f57fbab",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f0f93c65582c2cdd41ff85-a4222be87c66.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-6ea4b359ac3485dc0c7637-6d78fea21be0.jpg",
+        "sha256": "6d78fea21be0ad64232620be42acc1e3dd0ee7f1ec364e2e195894ea8ee7d09d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6ea4b359ac3485dc0c7637-6d78fea21be0.jpg",
+        "manufacturer_page_sha256": "1f62dfde8a23c5592c9fbcf133f1805b9aca6e4405d13ff3247e8b8b66451689",
+        "fitment_page_sha256": "a0ae535a5115047cbc10212c4e280df79f1e3afb804782cda9c67d9e9a3514bc",
+        "verified_at_utc": "2026-11-17T08:07:58.934993+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:25.086340+00:00"
     },
     {
-      "id": "irk-5a0e5f1c0c124f8f32cc21",
-      "brand": "TATSUMI",
-      "article": "THQ1009",
-      "category": "Свечи накала",
-      "retail": 1550,
+      "id": "irk-0fe2c5fb50d20fc91d6907",
+      "brand": "LYNXauto",
+      "article": "13X1225LX",
+      "category": "Ремни приводные",
+      "retail": 600,
       "photo": {
-        "filename": "irk-5a0e5f1c0c124f8f32cc21-ce5a3609bae6.jpg",
-        "sha256": "ce5a3609bae6b11704191a32a9461ca968dd4028739f84ba1b6e0c58dd45e0ff",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5a0e5f1c0c124f8f32cc21-ce5a3609bae6.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-0fe2c5fb50d20fc91d6907-b1fd43352008.jpg",
+        "sha256": "b1fd43352008618f4c52266a2192b6236662c9e94e8d98de0c806ef7053e573f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0fe2c5fb50d20fc91d6907-b1fd43352008.jpg",
+        "manufacturer_page_sha256": "5ae2a7a67ce6a1b47d5cbc1c12872e027b698eb4f401483669b238ed96d4292a",
+        "fitment_page_sha256": "05dd81e06ebe85b0836730e792665059f4513dffedbf97540b56c7212ef04224",
+        "verified_at_utc": "2026-11-17T08:07:59.449727+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:26.693514+00:00"
     },
     {
-      "id": "irk-52b8ae81bedc0b6d3969fd",
-      "brand": "TATSUMI",
-      "article": "THQ1010",
-      "category": "Свечи накала",
-      "retail": 1100,
+      "id": "irk-c29637438a1493dace1a55",
+      "brand": "LYNXauto",
+      "article": "13X1250LX",
+      "category": "Ремни приводные",
+      "retail": 650,
       "photo": {
-        "filename": "irk-52b8ae81bedc0b6d3969fd-3b055c6bf4e5.jpg",
-        "sha256": "3b055c6bf4e51bbb50c16df09343d6d999de313925c2e30a067db264d6b1d788",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-52b8ae81bedc0b6d3969fd-3b055c6bf4e5.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-c29637438a1493dace1a55-51109c390230.jpg",
+        "sha256": "51109c39023099cf01c48c6a1eb45e2ef600c79ab01ead679511d7fa0a198422",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c29637438a1493dace1a55-51109c390230.jpg",
+        "manufacturer_page_sha256": "f4d7a61c3bd928bd2fcc10acc082287e1a8c34e5a71bc3af7f1bf0f651fc99a2",
+        "fitment_page_sha256": "ec7cd86fc4ca6d0de0862bee158cc067f39e581a0203b9ed53b94af1b3cca2a1",
+        "verified_at_utc": "2026-11-17T08:07:59.736959+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:28.829747+00:00"
     },
     {
-      "id": "irk-f6980df093bd0fe924040b",
-      "brand": "TATSUMI",
-      "article": "THQ1011",
-      "category": "Свечи накала",
+      "id": "irk-fb30097ae24f5cf63163f6",
+      "brand": "LYNXauto",
+      "article": "13X1275LX",
+      "category": "Ремни приводные",
+      "retail": 650,
+      "photo": {
+        "filename": "irk-fb30097ae24f5cf63163f6-2ecb7611ef80.jpg",
+        "sha256": "2ecb7611ef8083c0f93436d6dce3a40c5b6d6734bbac0bae8cdb430e30174607",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fb30097ae24f5cf63163f6-2ecb7611ef80.jpg",
+        "manufacturer_page_sha256": "10a6313e754b29350df2e1128f8bc35af8ac1a4d55d7b7da35894edaba09982f",
+        "fitment_page_sha256": "defe71a622b5e257477fff2d290fb2ad9fbb538e4bd95a2d9b831b58311fd750",
+        "verified_at_utc": "2026-11-17T08:08:00.203152+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:31.496660+00:00"
+    },
+    {
+      "id": "irk-3660e9d57f5b3d194f6bd3",
+      "brand": "LYNXauto",
+      "article": "13X1300LX",
+      "category": "Ремни приводные",
+      "retail": 650,
+      "photo": {
+        "filename": "irk-3660e9d57f5b3d194f6bd3-dea39c77112d.jpg",
+        "sha256": "dea39c77112d092e677d26d9213d0f389e56dd456e1dd5b181858395f41425a5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3660e9d57f5b3d194f6bd3-dea39c77112d.jpg",
+        "manufacturer_page_sha256": "ccf68cb996562d80f542a79771e35a074e51160c20b9061a7b795841b5d5020c",
+        "fitment_page_sha256": "9dbeebf38e7017fbe1848df3ff88d3cc3b90c14df35985d668c7701c530e6a19",
+        "verified_at_utc": "2026-11-17T08:08:00.639775+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:32.834884+00:00"
+    },
+    {
+      "id": "irk-b422d50978ba606dc3e7bb",
+      "brand": "LYNXauto",
+      "article": "13X750LX",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-b422d50978ba606dc3e7bb-dfe1c916e49d.jpg",
+        "sha256": "dfe1c916e49dbe06473ec05b885dd883de100439921fc8708faaf029633d8014",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b422d50978ba606dc3e7bb-dfe1c916e49d.jpg",
+        "manufacturer_page_sha256": "4f871d08e8ba52f08fb54c999f32a1160eb2a390923f05c71b1a9a0002609f87",
+        "fitment_page_sha256": "f1781aed501bec9402d93ee4c04adc9d7e4517dac64af65b0a7332a9ae45459f",
+        "verified_at_utc": "2026-11-17T08:08:00.926715+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:35.434426+00:00"
+    },
+    {
+      "id": "irk-5228d54512755d93add4ef",
+      "brand": "LYNXauto",
+      "article": "13X825LX",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-5228d54512755d93add4ef-3636d5a9563d.jpg",
+        "sha256": "3636d5a9563d0f723b46e7eea2ca72691f7adf0eef0982655de06bee1e34151d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5228d54512755d93add4ef-3636d5a9563d.jpg",
+        "manufacturer_page_sha256": "a3329a8011bac667d755cc36ae3e90f6a13592d651cd74f56abb663381d0e02f",
+        "fitment_page_sha256": "27d906a145b684af918a5aeac916757b87afb098c5585188e07593f541208830",
+        "verified_at_utc": "2026-11-17T08:08:01.455993+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:37.194835+00:00"
+    },
+    {
+      "id": "irk-3e27f5f82999259f570acb",
+      "brand": "LYNXauto",
+      "article": "13X850LX",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-3e27f5f82999259f570acb-226617f4344f.jpg",
+        "sha256": "226617f4344f170a57e9805b4089696228e1d0e2e9f9a7e62ca2275e929755d2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3e27f5f82999259f570acb-226617f4344f.jpg",
+        "manufacturer_page_sha256": "97b12744b86e8df086cacad63b53ef8f8296bee2112f598af745519a9ae429d1",
+        "fitment_page_sha256": "333b61fa7e13dcfc134d22b3f96f18b53fb10d198f8437f3a8f608700e5b9eba",
+        "verified_at_utc": "2026-11-17T08:08:01.793964+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:39.377940+00:00"
+    },
+    {
+      "id": "irk-0479e975196a7847a44b1e",
+      "brand": "LYNXauto",
+      "article": "13X875LX",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-0479e975196a7847a44b1e-5ed281a5e9fc.jpg",
+        "sha256": "5ed281a5e9fcc81b8a76a7bf824690ffa6b75c16e479f7cbd7ac9bd28c2b3b09",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0479e975196a7847a44b1e-5ed281a5e9fc.jpg",
+        "manufacturer_page_sha256": "ac0428da0ff032b998ab729a2f190572815dff4b5f08c14d1c784caf4c09b100",
+        "fitment_page_sha256": "e5c71f0bdbaf85971d931116181f1372133755c130b4f5273cccd03a3bc9a447",
+        "verified_at_utc": "2026-11-17T08:08:02.685086+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:41.444477+00:00"
+    },
+    {
+      "id": "irk-332818120424b2157b728e",
+      "brand": "LYNXauto",
+      "article": "13X900LX",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-332818120424b2157b728e-58d01c71b51b.jpg",
+        "sha256": "58d01c71b51b50524982233599873dc57d05b1c661a1613b270afe26418fcae8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-332818120424b2157b728e-58d01c71b51b.jpg",
+        "manufacturer_page_sha256": "d3a24996c452702b13cd43daef4625e533c9675f21d9c228ba0e7d1b6a414374",
+        "fitment_page_sha256": "779fd33b1eac712300517eeafc397bf9fb0e0f25ff27477ce36dd98f50159f8e",
+        "verified_at_utc": "2026-11-17T08:08:02.725319+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:43.264123+00:00"
+    },
+    {
+      "id": "irk-de86fc35a9565dd579a978",
+      "brand": "LYNXauto",
+      "article": "13X925LX",
+      "category": "Ремни приводные",
+      "retail": 500,
+      "photo": {
+        "filename": "irk-de86fc35a9565dd579a978-20cc3116a385.jpg",
+        "sha256": "20cc3116a3851327385604440292884848b88c467dffa85d869fd377f438daea",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-de86fc35a9565dd579a978-20cc3116a385.jpg",
+        "manufacturer_page_sha256": "dec8d6241b80c8d8ed199a04230a195bd7565efc2e2e9bb99b866868c4d3b92f",
+        "fitment_page_sha256": "b48994bad56a5559986a7b1a6894b346f2cddb398bf0fcf1dabc41143888dfc9",
+        "verified_at_utc": "2026-11-17T08:08:03.770402+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:45.875902+00:00"
+    },
+    {
+      "id": "irk-770f399ae5b25a66d8dd4f",
+      "brand": "LYNXauto",
+      "article": "13X950LX",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-770f399ae5b25a66d8dd4f-518a5a8af236.jpg",
+        "sha256": "518a5a8af2365338b980ff2d127e2dc04d30e326e52a7d36db09925e3c2afa86",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-770f399ae5b25a66d8dd4f-518a5a8af236.jpg",
+        "manufacturer_page_sha256": "84cd45140d6fef68d5c0d52b2c189a163e58767f81d407c1b890475bbe44744c",
+        "fitment_page_sha256": "fee7783be3a25b858402127eeecd225452219e2999760d1ed53d69506d33e8ec",
+        "verified_at_utc": "2026-11-17T08:08:03.744362+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:48.479742+00:00"
+    },
+    {
+      "id": "irk-a1122fe78d41add892c80d",
+      "brand": "LYNXauto",
+      "article": "13X975LX",
+      "category": "Ремни приводные",
+      "retail": 600,
+      "photo": {
+        "filename": "irk-a1122fe78d41add892c80d-bf0f586435d9.jpg",
+        "sha256": "bf0f586435d9e5813dc5e14ce4cfe3e9519f81b2ad81515befb5416ff87d48c9",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a1122fe78d41add892c80d-bf0f586435d9.jpg",
+        "manufacturer_page_sha256": "b0d7086e216c0ad3ae1ccfad9079bdfa75f4f123df74c40f243d468104c6c98f",
+        "fitment_page_sha256": "ca9d08915c375e3f161877fef9cfd44a849b1c95063adc5eb60c6c86c5b29e59",
+        "verified_at_utc": "2026-11-17T08:08:04.520522+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:50.172293+00:00"
+    },
+    {
+      "id": "irk-8b131e55ab302022f4a2f4",
+      "brand": "LYNXauto",
+      "article": "3PK0495",
+      "category": "Ремни приводные",
+      "retail": 350,
+      "photo": {
+        "filename": "irk-8b131e55ab302022f4a2f4-e670c54969a2.jpg",
+        "sha256": "e670c54969a28dcbc5644333e959f1323333d6e05b549f0420199f87e8defa59",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8b131e55ab302022f4a2f4-e670c54969a2.jpg",
+        "manufacturer_page_sha256": "cee0cac75efa6e0dbeb6f5215efa058ac577c6b82ab8fb98895ae731658dbd46",
+        "fitment_page_sha256": "3cad57480e75ea16993bcab0a6fc1fed8b817f88c364fc3c1745216ee1be767c",
+        "verified_at_utc": "2026-11-17T08:08:04.525638+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:51.688439+00:00"
+    },
+    {
+      "id": "irk-3ed723f27fc6a846df2c64",
+      "brand": "LYNXauto",
+      "article": "3PK0683",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-3ed723f27fc6a846df2c64-8d5ee1a72bdf.jpg",
+        "sha256": "8d5ee1a72bdfdbc90f25cfc3d56c272f1029e5772dbfd4f265df0f66bf4638ae",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3ed723f27fc6a846df2c64-8d5ee1a72bdf.jpg",
+        "manufacturer_page_sha256": "46aafd8f7cdee771bbe701b043c9906454c534308eeca30b9291683b9c18a84c",
+        "fitment_page_sha256": "94301ad6dd435caa7f1109093ffb46519a0535e8c78a617eb5f4b8e2e976aab0",
+        "verified_at_utc": "2026-11-17T08:08:05.526516+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:53.337673+00:00"
+    },
+    {
+      "id": "irk-215e9417f891bd88535e9e",
+      "brand": "LYNXauto",
+      "article": "3PK0738",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-215e9417f891bd88535e9e-07b6638b2e1a.jpg",
+        "sha256": "07b6638b2e1a91eae6231a6d2b78e9431c1d0759ecb131cb3b10e52a1d0c8171",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-215e9417f891bd88535e9e-07b6638b2e1a.jpg",
+        "manufacturer_page_sha256": "fc126b0f7e59d319f8d472a031be991935521e751dd3f38c9b54e241a4700159",
+        "fitment_page_sha256": "3a079967164eef9eebc8e81531de1adfc5589859e53faa8d3eb3af130214b62b",
+        "verified_at_utc": "2026-11-17T08:08:05.529375+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:54.998909+00:00"
+    },
+    {
+      "id": "irk-88f4769d6dde699f997ed9",
+      "brand": "LYNXauto",
+      "article": "3PK0753",
+      "category": "Ремни приводные",
+      "retail": 400,
+      "photo": {
+        "filename": "irk-88f4769d6dde699f997ed9-878926024f3c.jpg",
+        "sha256": "878926024f3c15c7b9e1f83deef709afe1743e642705bb2b49a13bbe8773cef1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-88f4769d6dde699f997ed9-878926024f3c.jpg",
+        "manufacturer_page_sha256": "de49e4e5c58f7431770d31e8558bf879f352ad871533b5224278e6ca542c40da",
+        "fitment_page_sha256": "61fb69581bb680c4d7bfdcfbe63fb8615085ba9bad300ea194a6df9e90d4420f",
+        "verified_at_utc": "2026-11-17T08:08:06.570857+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:57.170677+00:00"
+    },
+    {
+      "id": "irk-46d9a835197642a1d144e7",
+      "brand": "LYNXauto",
+      "article": "3PK0763",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-46d9a835197642a1d144e7-cfdab9f1c62c.jpg",
+        "sha256": "cfdab9f1c62cc42a630e9e9f5431923f87e8305ed552ff09566196ec580e9919",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-46d9a835197642a1d144e7-cfdab9f1c62c.jpg",
+        "manufacturer_page_sha256": "ded7f92f95fa28287700e8880f44b8d859d80cd721fa4b66a8ae00e5d81ae507",
+        "fitment_page_sha256": "b404a12cf73a3554cc8666aa8d64c960fab778dcaa3bd046600b0123e69dec68",
+        "verified_at_utc": "2026-11-17T08:08:06.569513+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:09:59.059754+00:00"
+    },
+    {
+      "id": "irk-e39801459c4af30916dd1b",
+      "brand": "LYNXauto",
+      "article": "3PK0848",
+      "category": "Ремни приводные",
       "retail": 750,
       "photo": {
-        "filename": "irk-f6980df093bd0fe924040b-8ac415b36eb4.jpg",
-        "sha256": "8ac415b36eb486a5841dbef40f533441228d07c15be28a3329382172e0fcbcf9",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f6980df093bd0fe924040b-8ac415b36eb4.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-e39801459c4af30916dd1b-d4e68227f950.jpg",
+        "sha256": "d4e68227f9509589f313d44553152f640bfc7c3fff562b8cbe13251249159169",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e39801459c4af30916dd1b-d4e68227f950.jpg",
+        "manufacturer_page_sha256": "15a80e26b0b44e69289417fbe5a0decc9255870461c8e5c8f8aaa0c2103525a0",
+        "fitment_page_sha256": "a1647e843b5ff2c96a063d5fa8729156d8df0277f44e644f724e228293a8fefa",
+        "verified_at_utc": "2026-11-17T08:08:07.516971+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:01.082517+00:00"
     },
     {
-      "id": "irk-7a85756b725e7c9b96583f",
-      "brand": "TATSUMI",
-      "article": "THQ1012",
-      "category": "Свечи накала",
-      "retail": 1500,
+      "id": "irk-8a83d487cd6b7f22ffa4c4",
+      "brand": "LYNXauto",
+      "article": "4PK0635",
+      "category": "Ремни приводные",
+      "retail": 450,
       "photo": {
-        "filename": "irk-7a85756b725e7c9b96583f-1debbb7ab083.jpg",
-        "sha256": "1debbb7ab083526fbab17ceee62ade42c609e06ccd9b341fce3679129b82503a",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7a85756b725e7c9b96583f-1debbb7ab083.jpg",
-        "source_verification": "manufacturer_OES_fitment_and_exact_supplier_photo_max_3h"
-      }
+        "filename": "irk-8a83d487cd6b7f22ffa4c4-b339f2d6db16.jpg",
+        "sha256": "b339f2d6db16ca5167c467043da7ef10b1032d5a27e5d19b5b024a0cd28aa655",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8a83d487cd6b7f22ffa4c4-b339f2d6db16.jpg",
+        "manufacturer_page_sha256": "1536bf45ecf286f46a68542dcd4b7615f8f9ed2edb9d2c446aea429386acb366",
+        "fitment_page_sha256": "532270abb7157310fd25abd2ec88bece4d4a617eb620b125788486b9d1aded5c",
+        "verified_at_utc": "2026-11-17T08:08:07.507482+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:02.656383+00:00"
     },
     {
-      "id": "irk-a4daab31c8635e80cea625",
-      "brand": "Bosch",
-      "article": "0250603001",
-      "category": "Свечи накала",
-      "retail": 3250,
+      "id": "irk-4fb233abfd33f202cffb88",
+      "brand": "LYNXauto",
+      "article": "4PK0711EL",
+      "category": "Ремни приводные",
+      "retail": 600,
       "photo": {
-        "filename": "irk-a4daab31c8635e80cea625-50e0d9d62ae3.jpg",
-        "sha256": "50e0d9d62ae3caf49b946977a86e703d5241443f2ae8ad54c2326c2a8f45abe2",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a4daab31c8635e80cea625-50e0d9d62ae3.jpg",
-        "source_verification": "primary_catalogues_and_exact_supplier_nomenclature_max_3h"
-      }
+        "filename": "irk-4fb233abfd33f202cffb88-d4b7d4500195.jpg",
+        "sha256": "d4b7d450019596370d9fd157ded3d80966d0e2caf31348e34fdfab1edabc118d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4fb233abfd33f202cffb88-d4b7d4500195.jpg",
+        "manufacturer_page_sha256": "f6cad18f2e33da5f18e1c4fc0bbd193eccfabdb12bfc331793a22345f0045b9a",
+        "fitment_page_sha256": "19b4ef26e378ed5c855fce4e080dd330d355ca09c425dd269a5fcd2edc3550b3",
+        "verified_at_utc": "2026-11-17T08:08:08.620648+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:04.346096+00:00"
+    },
+    {
+      "id": "irk-6ddd16e900b52a9e505989",
+      "brand": "LYNXauto",
+      "article": "4PK0718",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-6ddd16e900b52a9e505989-cc2294b9fa7e.jpg",
+        "sha256": "cc2294b9fa7ecc5c189ef1d94b312fafd831a54cc3f3d6911af8a9bde334dada",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6ddd16e900b52a9e505989-cc2294b9fa7e.jpg",
+        "manufacturer_page_sha256": "6b4c67e3a2736c3bcbb9b66f03493dd149f21fe7d0e62a7b258ae96f2e8d97b7",
+        "fitment_page_sha256": "42f895ca84eb1a6246687c96e4b3b8df293b59e48cea28b66117a07f3949ae47",
+        "verified_at_utc": "2026-11-17T08:08:08.605578+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:06.265497+00:00"
+    },
+    {
+      "id": "irk-31e7a1ecea90e288518b11",
+      "brand": "LYNXauto",
+      "article": "4PK0773",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-31e7a1ecea90e288518b11-7fbd7bca1072.jpg",
+        "sha256": "7fbd7bca10721ed3f9950919e9021fde92093f19fe226cbb7d3f04fb54568136",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-31e7a1ecea90e288518b11-7fbd7bca1072.jpg",
+        "manufacturer_page_sha256": "01ed9f8a06e1d6a3477d4644b201bb5d7d4605ba68f162253bbe0a43da5335b6",
+        "fitment_page_sha256": "6afdf008d671b43192c4465e0b8f06e9d20bb82a120038fd8f45763ba87f51cb",
+        "verified_at_utc": "2026-11-17T08:08:09.366185+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:09.070229+00:00"
+    },
+    {
+      "id": "irk-c13b7f92ba88940e4f015e",
+      "brand": "LYNXauto",
+      "article": "4PK0788",
+      "category": "Ремни приводные",
+      "retail": 800,
+      "photo": {
+        "filename": "irk-c13b7f92ba88940e4f015e-44bc542a8c99.jpg",
+        "sha256": "44bc542a8c9923ce35bc0cbdfae1b2c0486bee494f54288c3c845d3c75092c23",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c13b7f92ba88940e4f015e-44bc542a8c99.jpg",
+        "manufacturer_page_sha256": "ddc2749c55a55a6231a17268dc18b75cd20c6b6a74b66b9ac6c22dfcebb002fd",
+        "fitment_page_sha256": "432ee7f542fcd794fb93deeb6b747202e3f4e7b91f5491e7c71852be21f23c9a",
+        "verified_at_utc": "2026-11-17T08:08:09.498084+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:10.906658+00:00"
+    },
+    {
+      "id": "irk-f029919622306e30c0cf7b",
+      "brand": "LYNXauto",
+      "article": "4PK0806EL",
+      "category": "Ремни приводные",
+      "retail": 900,
+      "photo": {
+        "filename": "irk-f029919622306e30c0cf7b-34d742145a60.jpg",
+        "sha256": "34d742145a601b639f19039e88721d1526a093e3f171b9de8e7e1ada607486e4",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f029919622306e30c0cf7b-34d742145a60.jpg",
+        "manufacturer_page_sha256": "75404754e3e8d4963ec466fd99db4ac9c0de54193ff9032233455152593c967b",
+        "fitment_page_sha256": "bc9f66f2fbddc081fc17484aa062ad29e6925c000b0e6dfe89287a310e25e20b",
+        "verified_at_utc": "2026-11-17T08:08:10.155796+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:12.210013+00:00"
+    },
+    {
+      "id": "irk-374184d20e1d2be0e60d69",
+      "brand": "LYNXauto",
+      "article": "4PK0813",
+      "category": "Ремни приводные",
+      "retail": 500,
+      "photo": {
+        "filename": "irk-374184d20e1d2be0e60d69-6c585e41ccca.jpg",
+        "sha256": "6c585e41ccca2bb6f8c0207a443dca3045b1e220e891f473bf24153945d581ac",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-374184d20e1d2be0e60d69-6c585e41ccca.jpg",
+        "manufacturer_page_sha256": "137c4f82a6a66e1cef1de0825a948d044a369bb6fcebe3ade34a8e1f11df31c5",
+        "fitment_page_sha256": "8b93aaa211acb5d5afa03429f624e162ba5266c9dfaf17374d762b4bafe257d6",
+        "verified_at_utc": "2026-11-17T08:08:10.331457+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:15.627270+00:00"
+    },
+    {
+      "id": "irk-94fba7393c9015094116d4",
+      "brand": "LYNXauto",
+      "article": "4PK0823",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-94fba7393c9015094116d4-69a58e9b2c38.jpg",
+        "sha256": "69a58e9b2c3858ea3710ad6c643e5028196d08a2bbf222d92cd9813776b9f22f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-94fba7393c9015094116d4-69a58e9b2c38.jpg",
+        "manufacturer_page_sha256": "9c48531b43588f8be1df379eafa2ac50af9ee08011e77af35afe1d87d5699c7f",
+        "fitment_page_sha256": "ae12c5d19721b60e85493db0028bf84fe3c6e289268dd86708adb85d867687f4",
+        "verified_at_utc": "2026-11-17T08:08:10.928355+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:18.123866+00:00"
+    },
+    {
+      "id": "irk-6442727d9ff0356ea07edd",
+      "brand": "LYNXauto",
+      "article": "4PK0833",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-6442727d9ff0356ea07edd-304388f48bea.jpg",
+        "sha256": "304388f48beab96682f64f808dccdb00a54419566bf5bcd89db944f794779004",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6442727d9ff0356ea07edd-304388f48bea.jpg",
+        "manufacturer_page_sha256": "47beaa7445f523af88d5617f6ec44e0804fe9f6bd8b647fabc317a4ebd46fcb7",
+        "fitment_page_sha256": "663422548d2798b14c9bf1667a2b9e8d67954f425a40b7e8f01511c3ca0e9ac5",
+        "verified_at_utc": "2026-11-17T08:08:11.093135+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:20.533721+00:00"
+    },
+    {
+      "id": "irk-403f234cf30311890a4922",
+      "brand": "LYNXauto",
+      "article": "4PK0843EL",
+      "category": "Ремни приводные",
+      "retail": 800,
+      "photo": {
+        "filename": "irk-403f234cf30311890a4922-430325e97c37.jpg",
+        "sha256": "430325e97c37d4d1c83a520212c2fa3400b49f4861f0a77ed96bcfb966689195",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-403f234cf30311890a4922-430325e97c37.jpg",
+        "manufacturer_page_sha256": "96ddc721390c1741aac9af99a15b49344a26ee783205faf7fcac76c399ae885f",
+        "fitment_page_sha256": "a5f7d58c89b1c18bc204273cc640722abe521eace0a7ae8db20f9525d8ec10be",
+        "verified_at_utc": "2026-11-17T08:08:11.713329+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:21.907062+00:00"
+    },
+    {
+      "id": "irk-f4b4852776c5472d1ed329",
+      "brand": "LYNXauto",
+      "article": "4PK0845",
+      "category": "Ремни приводные",
+      "retail": 800,
+      "photo": {
+        "filename": "irk-f4b4852776c5472d1ed329-ffe02be79df5.jpg",
+        "sha256": "ffe02be79df52caee84dc1c084095277e7ae1ecae7cbdff788d4e778632e364e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f4b4852776c5472d1ed329-ffe02be79df5.jpg",
+        "manufacturer_page_sha256": "29da7dc7dde2c87c8b7b747ede43bac1a82a1ac05b2d4d00d27e2918ab0bb705",
+        "fitment_page_sha256": "33f195080089d1b15bcaf998af6351ead15eadef7a0904b3be07505cbf19363d",
+        "verified_at_utc": "2026-11-17T08:08:11.946782+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:24.409755+00:00"
+    },
+    {
+      "id": "irk-bce7a45b52bbfcbbd7da09",
+      "brand": "LYNXauto",
+      "article": "4PK0850",
+      "category": "Ремни приводные",
+      "retail": 600,
+      "photo": {
+        "filename": "irk-bce7a45b52bbfcbbd7da09-925e008bc64d.jpg",
+        "sha256": "925e008bc64d8423e55a461bdeefce8e0734057d77d2dbd7f18219a9645abdad",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bce7a45b52bbfcbbd7da09-925e008bc64d.jpg",
+        "manufacturer_page_sha256": "ef5a3abe11dcdaaa62b5623743a40f93551c9eec81542007b526dc6bd9088e5b",
+        "fitment_page_sha256": "e96be7d538f903c7c1e013650d03b5bb08b93f7b8fee2be006a26c66f1551cca",
+        "verified_at_utc": "2026-11-17T08:08:12.447076+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:27.234623+00:00"
+    },
+    {
+      "id": "irk-5ea317e6ff96982241799a",
+      "brand": "LYNXauto",
+      "article": "4PK0878",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-5ea317e6ff96982241799a-5f30a86e068a.jpg",
+        "sha256": "5f30a86e068aafa549f9ee4cd317ca77a1b2768d6a021e2f9ccb3b030f96faaf",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5ea317e6ff96982241799a-5f30a86e068a.jpg",
+        "manufacturer_page_sha256": "44286114a8d13b31f2c6dae59b20491877d4a3c3e493688cf326c99660d1a57d",
+        "fitment_page_sha256": "3da381f8a1e814dcfb0b5af0dacf631c21e5424ae63d89c6e103bb0c15b50a43",
+        "verified_at_utc": "2026-11-17T08:08:12.847465+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:30.132120+00:00"
+    },
+    {
+      "id": "irk-8e46479c515b4decb0e2e0",
+      "brand": "LYNXauto",
+      "article": "4PK0895EL",
+      "category": "Ремни приводные",
+      "retail": 600,
+      "photo": {
+        "filename": "irk-8e46479c515b4decb0e2e0-e9ef81c8c811.jpg",
+        "sha256": "e9ef81c8c811fd00df9dc5f307b9a82e619e9e44501558e58b960229dddbaa76",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8e46479c515b4decb0e2e0-e9ef81c8c811.jpg",
+        "manufacturer_page_sha256": "427de18bb3bcfe4c08ca1412ff93fb71dd9ca68258b856849d199b9fb1b37cf8",
+        "fitment_page_sha256": "00625934f118afad2dcf61c40b25c204cee588f82e9fc66851962b89481ee556",
+        "verified_at_utc": "2026-11-17T08:08:13.234062+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:31.741766+00:00"
+    },
+    {
+      "id": "irk-8d9f2e2ce24121ad5840bb",
+      "brand": "LYNXauto",
+      "article": "4PK0898",
+      "category": "Ремни приводные",
+      "retail": 700,
+      "photo": {
+        "filename": "irk-8d9f2e2ce24121ad5840bb-0526f7deb9a0.jpg",
+        "sha256": "0526f7deb9a0fc98772cf47fd10a95b2b9e36160d980d59cf68bfce08d3226d5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8d9f2e2ce24121ad5840bb-0526f7deb9a0.jpg",
+        "manufacturer_page_sha256": "895b308d0d5211314c17eb0826505b0757b0991063d235df0b9015b9e862cbe4",
+        "fitment_page_sha256": "1038ebe63f8b62f048da8dae1a956dd54b50bf177815619673d7dc64544f01a5",
+        "verified_at_utc": "2026-11-17T08:08:13.598297+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:35.261075+00:00"
+    },
+    {
+      "id": "irk-b2a54e1bc9436b59f458fb",
+      "brand": "LYNXauto",
+      "article": "4PK0916EL",
+      "category": "Ремни приводные",
+      "retail": 850,
+      "photo": {
+        "filename": "irk-b2a54e1bc9436b59f458fb-8fd48af5c550.jpg",
+        "sha256": "8fd48af5c55035ffc1ddccaea09f5281f7db038b8c43b3ec500d2a7ccc54993b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b2a54e1bc9436b59f458fb-8fd48af5c550.jpg",
+        "manufacturer_page_sha256": "e5a4d72c8f72396c230022918c1d851318baa766639a9382e9e20daa3cc13728",
+        "fitment_page_sha256": "40999ffe31602e86b3a288b7f89f2f5fdbdae329052619f8a3947859fde7a640",
+        "verified_at_utc": "2026-11-17T08:08:13.972942+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:36.654554+00:00"
+    },
+    {
+      "id": "irk-e40ef8a4a2aa2444eb1600",
+      "brand": "LYNXauto",
+      "article": "4PK0922EL",
+      "category": "Ремни приводные",
+      "retail": 850,
+      "photo": {
+        "filename": "irk-e40ef8a4a2aa2444eb1600-0335b1e2d7af.jpg",
+        "sha256": "0335b1e2d7afa93a9e6b25b78e0ef5a0b946f20f9f625857908daa16f2152881",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e40ef8a4a2aa2444eb1600-0335b1e2d7af.jpg",
+        "manufacturer_page_sha256": "c7aef965892e98d2439a9b67632ee98470284c51f212149ef8884fb682ea3490",
+        "fitment_page_sha256": "638ad6fb5663460ef0f0b105a53bf44428c70c32aa25d585ad987cff7ea0e073",
+        "verified_at_utc": "2026-11-17T08:08:14.478572+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:38.639962+00:00"
+    },
+    {
+      "id": "irk-101ab5396897288bb23864",
+      "brand": "LYNXauto",
+      "article": "4PK0928",
+      "category": "Ремни приводные",
+      "retail": 850,
+      "photo": {
+        "filename": "irk-101ab5396897288bb23864-ec4582727102.jpg",
+        "sha256": "ec4582727102f2f1c3fd31cc84cadd164d88e6f91dbb15f2e9246a99e415a744",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-101ab5396897288bb23864-ec4582727102.jpg",
+        "manufacturer_page_sha256": "b6ad01d1032c668d01f6af4252559d4e80a77d1418a2c7ef7a79f177cb701f22",
+        "fitment_page_sha256": "364ee3a8cb3dd3d1b715c26a5d24e7eed32c39f8b6b8287f8856c5ac14925a6a",
+        "verified_at_utc": "2026-11-17T08:08:14.710425+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:40.569620+00:00"
+    },
+    {
+      "id": "irk-6a5174809b24bdcf2b2297",
+      "brand": "LYNXauto",
+      "article": "4PK0948",
+      "category": "Ремни приводные",
+      "retail": 750,
+      "photo": {
+        "filename": "irk-6a5174809b24bdcf2b2297-7da0a75aba95.jpg",
+        "sha256": "7da0a75aba95546e22adbf09853c31409384ade7d0c0e99860594e05267c9a53",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6a5174809b24bdcf2b2297-7da0a75aba95.jpg",
+        "manufacturer_page_sha256": "39877084dbc0b6a74803ae0d6b06f5eedf6c42014aab37f2229796d20ccbdfaf",
+        "fitment_page_sha256": "35b53ffb1c9125d2380e9d7f731054253ae69699e7f50720e5e4d4d871f86fe0",
+        "verified_at_utc": "2026-11-17T08:08:15.242007+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:42.957462+00:00"
+    },
+    {
+      "id": "irk-2fe9c678e9f7e711adca57",
+      "brand": "LYNXauto",
+      "article": "4PK0955",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-2fe9c678e9f7e711adca57-9921028adfa2.jpg",
+        "sha256": "9921028adfa288d6b6baa31fdce13ff66328249e90c85459944fa8b6f99bcab4",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2fe9c678e9f7e711adca57-9921028adfa2.jpg",
+        "manufacturer_page_sha256": "a643eaae9e6465941ac96d8c2c391cce65ebcf1dabcccc3ec8b2a82bdbc77abb",
+        "fitment_page_sha256": "9aafa42d970608730454e936bdb33d171c50ca804af6a797c9b3b81dd04613b1",
+        "verified_at_utc": "2026-11-17T08:08:15.529377+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:44.651820+00:00"
+    },
+    {
+      "id": "irk-f16b33844f5c6e460ad0ca",
+      "brand": "LYNXauto",
+      "article": "4PK0970",
+      "category": "Ремни приводные",
+      "retail": 800,
+      "photo": {
+        "filename": "irk-f16b33844f5c6e460ad0ca-cbda9e222283.jpg",
+        "sha256": "cbda9e222283b1f3b43ce11a2173565674ce34cb9d7ec962166e6209934fc27f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f16b33844f5c6e460ad0ca-cbda9e222283.jpg",
+        "manufacturer_page_sha256": "0bc558f00026209bf383aecbd15bc0a38daa77d18aa6d03f8995a5ae8eac7f7c",
+        "fitment_page_sha256": "331963b062ddcd556473ba7f5d79b56bfc42c0c8aa8f5b588cdc7509a06df262",
+        "verified_at_utc": "2026-11-17T08:08:16.236528+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:46.585785+00:00"
+    },
+    {
+      "id": "irk-732b89c16e7b69d17bb3ca",
+      "brand": "LYNXauto",
+      "article": "4PK0985",
+      "category": "Ремни приводные",
+      "retail": 750,
+      "photo": {
+        "filename": "irk-732b89c16e7b69d17bb3ca-a48da88fa205.jpg",
+        "sha256": "a48da88fa20524efff7b6ecda8c055d84ea7e21382830935fa0738741d6df99a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-732b89c16e7b69d17bb3ca-a48da88fa205.jpg",
+        "manufacturer_page_sha256": "8841345726e54b590de07ffae7c00cfe83e81011433b009097b804bb6f12985f",
+        "fitment_page_sha256": "8fe2b3846341482d78a621eee375355ba0274aa9adb287e578913fe8d1421ac7",
+        "verified_at_utc": "2026-11-17T08:08:16.431635+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:48.850429+00:00"
+    },
+    {
+      "id": "irk-15bc896d2f461cfe38a893",
+      "brand": "LYNXauto",
+      "article": "4PK0993",
+      "category": "Ремни приводные",
+      "retail": 700,
+      "photo": {
+        "filename": "irk-15bc896d2f461cfe38a893-dae607c6e7f0.jpg",
+        "sha256": "dae607c6e7f0b5da6b5bb551092afd05788d92653d485ea0d9a968c9456826b8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-15bc896d2f461cfe38a893-dae607c6e7f0.jpg",
+        "manufacturer_page_sha256": "722abcb915cc0e8c24060e7fa2ddb9a48ea619e81974f896c00227b52e09624a",
+        "fitment_page_sha256": "76acb3882a0ee20814a453c304a2ff8ac472366334eaba3f8d209cd84f28d047",
+        "verified_at_utc": "2026-11-17T08:08:17.053087+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:50.947323+00:00"
+    },
+    {
+      "id": "irk-cd3fee35ec715e3d3935dc",
+      "brand": "LYNXauto",
+      "article": "4PK1100",
+      "category": "Ремни приводные",
+      "retail": 800,
+      "photo": {
+        "filename": "irk-cd3fee35ec715e3d3935dc-5444c4129ec4.jpg",
+        "sha256": "5444c4129ec4c41038004ac41907299d68adb4ab10a41e15f1a8cfce46bbec2b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cd3fee35ec715e3d3935dc-5444c4129ec4.jpg",
+        "manufacturer_page_sha256": "b782c51095bdf8abf4ad517ff677f96bcf75c7796401bd38baaba5a44493e0a4",
+        "fitment_page_sha256": "7b02a264a67dea7b89a8cab1f038925bee506c8e718d2477c5644327ea7554a4",
+        "verified_at_utc": "2026-11-17T08:08:17.213530+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:53.300062+00:00"
+    },
+    {
+      "id": "irk-bd49fd306c9a9a524e9e2f",
+      "brand": "LYNXauto",
+      "article": "4PK1108",
+      "category": "Ремни приводные",
+      "retail": 850,
+      "photo": {
+        "filename": "irk-bd49fd306c9a9a524e9e2f-2b7cb358fbac.jpg",
+        "sha256": "2b7cb358fbacf80f19539a44f695326595f313b3969235590f1180f844d69542",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bd49fd306c9a9a524e9e2f-2b7cb358fbac.jpg",
+        "manufacturer_page_sha256": "4c748cd68593e29a21bdbe734c7abb4c1fe27f9fb5a097d1f76b9d454bff9841",
+        "fitment_page_sha256": "2ded939d039a0c1dcbc9f5bce6750f1b38e37962fba15c56dddd8ca7ec8ad3ae",
+        "verified_at_utc": "2026-11-17T08:08:17.991232+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:55.743833+00:00"
+    },
+    {
+      "id": "irk-53db7a0752fda12e244aae",
+      "brand": "LYNXauto",
+      "article": "4PK1123",
+      "category": "Ремни приводные",
+      "retail": 650,
+      "photo": {
+        "filename": "irk-53db7a0752fda12e244aae-d926dcb5d1d4.jpg",
+        "sha256": "d926dcb5d1d4f37270623b18bcc3de41809ff4afe8d2735997d815bb9acc5d56",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-53db7a0752fda12e244aae-d926dcb5d1d4.jpg",
+        "manufacturer_page_sha256": "c665423e0b2c854a8f281d7bcf4246e98fc701e6f3b5123d5c398b20e806c847",
+        "fitment_page_sha256": "3d67eaa5da00bbed81c1067ac737982465913dedf63c34fd93f3befc51b840df",
+        "verified_at_utc": "2026-11-17T08:08:18.025338+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:57.768461+00:00"
+    },
+    {
+      "id": "irk-fa5f4027706a53f5fcc8bb",
+      "brand": "LYNXauto",
+      "article": "4PK1140",
+      "category": "Ремни приводные",
+      "retail": 700,
+      "photo": {
+        "filename": "irk-fa5f4027706a53f5fcc8bb-5f325f9ff784.jpg",
+        "sha256": "5f325f9ff784f89c4718dfd88d7eddc614382134c4034a42bb58693e6de65206",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fa5f4027706a53f5fcc8bb-5f325f9ff784.jpg",
+        "manufacturer_page_sha256": "a9af871797e3afc8c934344ff27cbbf316fd31937e442b49e35f8f061fbd6c47",
+        "fitment_page_sha256": "84a36fbf417e03689411abb57a9e9689d0d38f167e6d56b97c0e0c43c9c0ff7f",
+        "verified_at_utc": "2026-11-17T08:08:18.842769+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:10:59.328379+00:00"
+    },
+    {
+      "id": "irk-81ca147a490db1642a621c",
+      "brand": "LYNXauto",
+      "article": "4PK1155",
+      "category": "Ремни приводные",
+      "retail": 800,
+      "photo": {
+        "filename": "irk-81ca147a490db1642a621c-233072b4111f.jpg",
+        "sha256": "233072b4111f6d9b03e38dacce97a639f456489f9d747593ccf8aaa7a353147f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-81ca147a490db1642a621c-233072b4111f.jpg",
+        "manufacturer_page_sha256": "c33299edafcf16e65910b3dfb74be9012236f726c71c8356b4939f9ae836d85b",
+        "fitment_page_sha256": "8c5176ec361dda0810f37f60923ae620283a8f5fec711606e0c9400355181690",
+        "verified_at_utc": "2026-11-17T08:08:18.880145+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:11:01.034815+00:00"
+    },
+    {
+      "id": "irk-c7acac3574f3cf9569d65a",
+      "brand": "LYNXauto",
+      "article": "4PK1170",
+      "category": "Ремни приводные",
+      "retail": 900,
+      "photo": {
+        "filename": "irk-c7acac3574f3cf9569d65a-fea8cded50e8.jpg",
+        "sha256": "fea8cded50e8c35dc08824b273193b0e6954bbc1b72487a6bc8f12429ed29b05",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c7acac3574f3cf9569d65a-fea8cded50e8.jpg",
+        "manufacturer_page_sha256": "685b0b7984b99e698013763deeef19a76288e9aa4b6a95e1da33ddf4442861d0",
+        "fitment_page_sha256": "b7d0048c89bbc36062aa0f43ef0a88b359efa7d562741986696093d2dcfa3498",
+        "verified_at_utc": "2026-11-17T08:08:19.666815+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:11:02.926277+00:00"
+    },
+    {
+      "id": "irk-e6318643645250557fa49a",
+      "brand": "LYNXauto",
+      "article": "4PK1183",
+      "category": "Ремни приводные",
+      "retail": 750,
+      "photo": {
+        "filename": "irk-e6318643645250557fa49a-a40fd71f3908.jpg",
+        "sha256": "a40fd71f3908583449027c0306118ba8f3e7eb43b409e242f26ff3f4319978db",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e6318643645250557fa49a-a40fd71f3908.jpg",
+        "manufacturer_page_sha256": "25e3eb80f07d92de021cd74418a852e3dfc290f2be5f5efadf29bb1d691e9807",
+        "fitment_page_sha256": "84407344cc72df07b1eb30de1bcfe9c09b143034f78af9df8dc47c84edfccdca",
+        "verified_at_utc": "2026-11-17T08:08:19.706052+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:11:05.504573+00:00"
+    },
+    {
+      "id": "irk-6473f01c673d3f4aefd219",
+      "brand": "LYNXauto",
+      "article": "4PK1230",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-6473f01c673d3f4aefd219-a16e4aa9cf0d.jpg",
+        "sha256": "a16e4aa9cf0dd7985d57c4c85786c4f17c7b4ce9ffe3ba9c27f0bd0685f02096",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6473f01c673d3f4aefd219-a16e4aa9cf0d.jpg",
+        "manufacturer_page_sha256": "5b01ca3562a471df8801fcbebec0a208a4bf153230fdc3be04ec3372059a0e45",
+        "fitment_page_sha256": "e34ed9adb300d4ecad1ab56046b83a69584a0682b9820399f9a76c4ed66733de",
+        "verified_at_utc": "2026-11-17T08:08:20.689029+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:11:06.945396+00:00"
+    },
+    {
+      "id": "irk-2aa2615ae9fdc6c3330688",
+      "brand": "LYNXauto",
+      "article": "4PK1390",
+      "category": "Ремни приводные",
+      "retail": 800,
+      "photo": {
+        "filename": "irk-2aa2615ae9fdc6c3330688-3eb5e8abf348.jpg",
+        "sha256": "3eb5e8abf348b70038a2b26d7018c739cc358f05ef2260bb2f1fc32f35652b86",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2aa2615ae9fdc6c3330688-3eb5e8abf348.jpg",
+        "manufacturer_page_sha256": "058cc27995dc43b7d5c79344569b6c3f97200ed1d77d0bf9ea1c72114910bec7",
+        "fitment_page_sha256": "f88fc314986dfd1cd5aa932c0f6c2e8cdb2da03c9d8baf3df939a6265ba8ffa2",
+        "verified_at_utc": "2026-11-17T08:08:20.686266+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:11:08.666116+00:00"
+    },
+    {
+      "id": "irk-20e137f056bbbb9a9b6b0c",
+      "brand": "LYNXauto",
+      "article": "4PK1590",
+      "category": "Ремни приводные",
+      "retail": 700,
+      "photo": {
+        "filename": "irk-20e137f056bbbb9a9b6b0c-fa42f33c658b.jpg",
+        "sha256": "fa42f33c658bd2538f085b964d2f4b2cd44bfe833c97452fe476748a749aeb67",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-20e137f056bbbb9a9b6b0c-fa42f33c658b.jpg",
+        "manufacturer_page_sha256": "b5d15f0f6a20ee4566a3a84c4636b22d2a8a941ba2b77472a8af199538ee13e5",
+        "fitment_page_sha256": "fdd2a836d9a79b6a1c1fbc4f5e4b2b888a979e380f3e42bc0c8d8df9990b79eb",
+        "verified_at_utc": "2026-11-17T08:08:21.860686+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:11:10.362151+00:00"
+    },
+    {
+      "id": "irk-f812c24fcb9ca53dad2298",
+      "brand": "LYNXauto",
+      "article": "4PK1708",
+      "category": "Ремни приводные",
+      "retail": 900,
+      "photo": {
+        "filename": "irk-f812c24fcb9ca53dad2298-64aecb9c22e0.jpg",
+        "sha256": "64aecb9c22e05a2a4a2ec8a580a9f92efad2ef391e689c1bf4a53e6a24e929ca",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f812c24fcb9ca53dad2298-64aecb9c22e0.jpg",
+        "manufacturer_page_sha256": "b217d4f989ed8d4d0b80e5a3438217c1433a5e89688a109fdf7a85ec9a612cce",
+        "fitment_page_sha256": "be8060df1983df2b5d4c08105985983b103dd779284ab0ddd43de56b7166cecd",
+        "verified_at_utc": "2026-11-17T08:08:21.859670+00:00"
+      },
+      "API_checked_at_utc": "2026-11-17T08:11:12.000762+00:00"
     }
   ],
-  "skipped": [],
-  "blocked_source_review": [
-    [
-      "Stellox",
-      "112100SX",
-      "DRAWING_INSTEAD_OF_REAL_PHOTO"
-    ],
-    [
-      "TRANSMASTER",
-      "TR500669C",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TRANSMASTER",
-      "TR500670C",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TRANSMASTER",
-      "TR500672C",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "TRANSMASTER",
-      "TR500673C",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "LYNXauto",
-      "RC0019",
-      "EXACT_MANUFACTURER_CARD_NOT_CONFIRMED;MANUFACTURER_OEM_MISSING;MANUFACTURER_FITMENT_MISSING;EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "LYNXauto",
-      "RC0082",
-      "EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "LYNXauto",
-      "RC0705",
-      "EXACT_MANUFACTURER_CARD_NOT_CONFIRMED;MANUFACTURER_OEM_MISSING;MANUFACTURER_FITMENT_MISSING;EXACT_PRODUCT_PHOTO_MISSING"
-    ],
-    [
-      "SUFIX",
-      "XC1005",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1009",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1010",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1012",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1018",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1021",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1022",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1034",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1038",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1040",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1042",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1044",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1045",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1050",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1052",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1054",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1058",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1059",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1060",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1064",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "SUFIX",
-      "XC1066",
-      "SOURCE_NOT_VERIFIED"
-    ],
-    [
-      "Stellox",
-      "1045152SX",
-      "MANUFACTURER_FITMENT_MISSING;DRAWING_INSTEAD_OF_REAL_PHOTO"
-    ],
-    [
-      "Stellox",
-      "1045355SX",
-      "MANUFACTURER_FITMENT_MISSING;DRAWING_INSTEAD_OF_REAL_PHOTO"
-    ],
-    [
-      "Stellox",
-      "1045719SX",
-      "DRAWING_INSTEAD_OF_REAL_PHOTO"
-    ],
-    [
-      "Bosch",
-      "0250402002",
-      "REAL_SOURCE_PHOTO_600x180_BELOW_EXISTING_MIN_SHORT_SIDE_200"
-    ],
-    [
-      "Bosch",
-      "0250603006",
-      "REAL_SOURCE_PHOTO_600x180_BELOW_EXISTING_MIN_SHORT_SIDE_200"
-    ]
+  "skipped": [
+    {
+      "brand": "LYNXauto",
+      "article": "4PK0708",
+      "reason": "no_current_Irkutsk_zero_day_stock"
+    }
   ],
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": true,
-  "publication_scope": "XML source branch only; Avito import and moderation not checked",
-  "xml_release_commit": "dea53ee7904c8f38c74d63ccc7a76f512817e1e7",
-  "release_workflow_run_id": 43849033735,
-  "public_exact_photo_hashes_verified": 13,
-  "cumulative_new_first95_skus_published": 59,
-  "cumulative_first95_skus_ever_in_XML": 61,
-  "remaining_source_blocked_first95_skus": 34,
-  "avito_import_and_moderation_status": "NOT_CHECKED"
+  "publication_performed": false
 }
