@@ -60,14 +60,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 2
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "9091602643",
       "manufacturer_OEM_raw": "90916-02643",
       "fitment_summary": "TOYOTA LAND CRUISER 100 (_J1_) 98-07, 4.2 TD (HDJ100_, HDJ100) (1HD-FTE), 150 (204), 01/98-08/07, AC Compressor, +XTR HTR",
       "title": "Ремень приводной LYNXauto 4PK1720 новый",
       "avito_retail_rub": 1450,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-fd305fe758f9b22158af18",
+      "published_retail_rub": 1450,
+      "release_verification": {
+        "id": "irk-fd305fe758f9b22158af18",
+        "brand": "LYNXauto",
+        "article": "4PK1720",
+        "category": "Ремни приводные",
+        "retail": 1450,
+        "photo": {
+          "filename": "irk-fd305fe758f9b22158af18-9aff879294c7.jpg",
+          "sha256": "9aff879294c713509bb482a38d3c478de24bb3410445d741bdbf6554bcd5ba70",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fd305fe758f9b22158af18-9aff879294c7.jpg",
+          "manufacturer_page_sha256": "2e6a4017a0cf682e4d9e420f93c880ea5aca7176acd4e4ca330c336cfebdc3b4",
+          "fitment_page_sha256": "22deea50f1563cf73e2b0f224518d8b3ea6c834cdf8432a11e2d5a1b7c538690",
+          "verified_at_utc": "2026-11-17T09:01:22.541022+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:40.506531+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -139,14 +158,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 5
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "9091602475",
       "manufacturer_OEM_raw": "90916-02475",
       "fitment_summary": "LEXUS LS (_F5_) 17-, 500h (GVF50_) (8GR-FXS), 220 (299), 10/17-",
       "title": "Ремень приводной LYNXauto 4PK1770 новый",
       "avito_retail_rub": 1250,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-e797f4f3d3d1594167b72a",
+      "published_retail_rub": 1250,
+      "release_verification": {
+        "id": "irk-e797f4f3d3d1594167b72a",
+        "brand": "LYNXauto",
+        "article": "4PK1770",
+        "category": "Ремни приводные",
+        "retail": 1250,
+        "photo": {
+          "filename": "irk-e797f4f3d3d1594167b72a-e7f5054bcd66.jpg",
+          "sha256": "e7f5054bcd66e6fcb0972e1462678fef146bee1063fc054e60d4d58b8d1095a9",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e797f4f3d3d1594167b72a-e7f5054bcd66.jpg",
+          "manufacturer_page_sha256": "96e5052c16b8196d6372cd04d284cbc3006ba23b6a0dff5852a9485fb0c179f9",
+          "fitment_page_sha256": "d16e4ef312c56d946dab4715b549eb25a33fa6e1bf9abc056758f9317f8400be",
+          "verified_at_utc": "2026-11-17T09:01:22.542517+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:42.145389+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -209,14 +247,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 1
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "03C145933A",
       "manufacturer_OEM_raw": "03C 145 933 A",
       "fitment_summary": "AUDI A1 (8X1, 8XK) 10-18, 1.4 TFSI (CAVG, CTHG), 136 (185), 01/11-04/15, Air Compressor; AUDI A1 Sportback (8XA, 8XF) 11-18, 1.4 TFSI (CAVG, CTHG), 136 (185), 11/11-04/15, Air Compressor",
       "title": "Ремень приводной LYNXauto 5PK0493 новый",
       "avito_retail_rub": 500,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-11e9537419d5813e0df39e",
+      "published_retail_rub": 500,
+      "release_verification": {
+        "id": "irk-11e9537419d5813e0df39e",
+        "brand": "LYNXauto",
+        "article": "5PK0493",
+        "category": "Ремни приводные",
+        "retail": 500,
+        "photo": {
+          "filename": "irk-11e9537419d5813e0df39e-dee8a4fc8030.jpg",
+          "sha256": "dee8a4fc80303b3a6c1ccc4898401465a70800c318d8d2897cae7c36fd651f5d",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-11e9537419d5813e0df39e-dee8a4fc8030.jpg",
+          "manufacturer_page_sha256": "339e027d8fb9ad4f5eac21946c85060706e15379c9d5868ba98a99ed0bfb9d40",
+          "fitment_page_sha256": "d8fe8ac71f0ef9193092ddb6bd18b3439e747580db5eb43c98843f5c00000143",
+          "verified_at_utc": "2026-11-17T09:01:24.708313+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:44.741499+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -311,14 +368,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 9
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750D8",
       "manufacturer_OEM_raw": "5750.D8",
       "fitment_summary": "MAZDA 626 IV | CRONOS (GE) 92-97, 2.0 D GLX Comprex (GEFP) (RF55), 55 (75), 10/92-04/97, Alternator, Water Pump; MAZDA 626 IV | CRONOS Hatchback (GE) 91-97, 2.0 D GLX Comprex (GEFP) (RF55), 55 (75), 01/93-04/97, Alternator, Water Pump",
       "title": "Ремень приводной LYNXauto 5PK0690 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-ca929188edf754fc052b65",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-ca929188edf754fc052b65",
+        "brand": "LYNXauto",
+        "article": "5PK0690",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-ca929188edf754fc052b65-1907badcd588.jpg",
+          "sha256": "1907badcd588772cf464b930469fa8558dd6b7a915c1d5b011e86438dcdbf5aa",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ca929188edf754fc052b65-1907badcd588.jpg",
+          "manufacturer_page_sha256": "55d93f7725144acea4fa9ff95140626fb8e30ee5eb90ce38022cc7d7b446b16a",
+          "fitment_page_sha256": "b04f835b25059c2ddd954336f3d14eb8d511c989c94d99aac3364c0de61ad70c",
+          "verified_at_utc": "2026-11-17T09:01:24.625091+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:46.985035+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -439,14 +515,33 @@
         "manufacturer_original_OE_row_count": 19,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1143407",
       "manufacturer_OEM_raw": "1 143 407",
       "fitment_summary": "FORD FIESTA V (JH_, JD_) 01-08, 1.25 16V (FUJA, FUJB), 55 (75), 05/02-06/08, Elastic type, [+] AC, [+] Power Steering; FORD FIESTA V (JH_, JD_) 01-08, 1.25 16V (M7JA, M7JB), 51 (70), 03/03-06/08, Elastic type, [+] AC, [+] Power Steering; FORD FIESTA V (JH_, JD_) 01-08, 1.4 16V (FXJA, FXJB), 59 (80), 11/01-06/08, Elastic type, [+] AC, [+] Power Steering",
       "title": "Ремень приводной LYNXauto 5PK0692EL новый",
       "avito_retail_rub": 1050,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-75840caf31458db14ff15e",
+      "published_retail_rub": 1050,
+      "release_verification": {
+        "id": "irk-75840caf31458db14ff15e",
+        "brand": "LYNXauto",
+        "article": "5PK0692EL",
+        "category": "Ремни приводные",
+        "retail": 1050,
+        "photo": {
+          "filename": "irk-75840caf31458db14ff15e-b9264080a8cf.jpg",
+          "sha256": "b9264080a8cf7288988c9f06f446e6f268426440573f3cde94c357cd7b7f21ba",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-75840caf31458db14ff15e-b9264080a8cf.jpg",
+          "manufacturer_page_sha256": "a9524f40f3b1d19d710daa962d8e7970bc959b0c04ae908e708bbea8ee56f420",
+          "fitment_page_sha256": "e3a32cd87d7bd338c8ca0a842989e897580736c6b1e80b293fa6ca6f06a225c0",
+          "verified_at_utc": "2026-11-17T09:01:26.714304+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:48.672731+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -567,14 +662,33 @@
         "manufacturer_original_OE_row_count": 14,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287786171",
       "manufacturer_OEM_raw": "11 28 7 786 171",
       "fitment_summary": "BMW 3 (E46) 97-05, 318 d (M47 D20 (204D1)), 85 (116), 09/01-03/03; BMW 3 (E46) 97-05, 320 d (M47 D20 (204D1)), 100 (136), 04/98-09/01, AC Compressor; BMW 3 (E46) 97-05, 320 d (M47 D20 (204D1)), 95 (129), 02/98-08/01",
       "title": "Ремень приводной LYNXauto 5PK0838 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-4fb636da1b8892a445dcc5",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-4fb636da1b8892a445dcc5",
+        "brand": "LYNXauto",
+        "article": "5PK0838",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-4fb636da1b8892a445dcc5-98d90192aacf.jpg",
+          "sha256": "98d90192aacf0d9c08e18be8745534e4a8d47e7baac208b9b28e52f5c06e9eb1",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4fb636da1b8892a445dcc5-98d90192aacf.jpg",
+          "manufacturer_page_sha256": "04a983da2a5281cda21192f7ada3ec11882f69e17e1cfbce4aa9313601005e33",
+          "fitment_page_sha256": "1165a6e44514692613e549bb347ede0285a5c1e3a7521293bf95be6aeb0fde61",
+          "verified_at_utc": "2026-11-17T09:01:26.790075+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:50.735177+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -688,14 +802,33 @@
         "manufacturer_original_OE_row_count": 26,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "575085",
       "manufacturer_OEM_raw": "5750.85",
       "fitment_summary": "FORD FOCUS II (DA_, HCP, DP) 04-12, 2.5 RS (JZDA), 224 (305), 01/09-07/11; FORD FOCUS II (DA_, HCP, DP) 04-12, 2.5 RS 500 (JZDA), 257 (350), 05/10-07/11; FORD FOCUS II (DA_, HCP, DP) 04-12, 2.5 ST (HYDA), 166 (225), 10/05-09/12, AC Compressor, -01/09",
       "title": "Ремень приводной LYNXauto 5PK0848 новый",
       "avito_retail_rub": 650,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-0545f08d7d6e2351188c9d",
+      "published_retail_rub": 650,
+      "release_verification": {
+        "id": "irk-0545f08d7d6e2351188c9d",
+        "brand": "LYNXauto",
+        "article": "5PK0848",
+        "category": "Ремни приводные",
+        "retail": 650,
+        "photo": {
+          "filename": "irk-0545f08d7d6e2351188c9d-32e42785e58a.jpg",
+          "sha256": "32e42785e58a8f2474e400231c10d2c0aa43dab756f374958b16030bf08d9ec1",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0545f08d7d6e2351188c9d-32e42785e58a.jpg",
+          "manufacturer_page_sha256": "414dad281b2fada94a14c2e7bc00ad80fe609a9aa2f750d83b7d11cb5c16dd4b",
+          "fitment_page_sha256": "248423b01fdfecc0850c464fc72c5de64d2cee1d26d75a0ee953f478c4ab336b",
+          "verified_at_utc": "2026-11-17T09:01:28.824013+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:52.502882+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -816,14 +949,33 @@
         "manufacturer_original_OE_row_count": 18,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281437450",
       "manufacturer_OEM_raw": "11 28 1 437 450",
       "fitment_summary": "BMW 3 (E36) 90-98, 323 i (M52 B25 (256S3)), 125 (170), 05/95-11/98, AC Compressor; BMW 3 (E36) 90-98, 325 i (M50 B25 (256S1), M50 B25 (256S2)), 141 (192), 09/90-12/95, AC Compressor; BMW 3 (E46) 97-05, 320 i (M52 B20 (206S4)), 110 (150), 03/98-09/00, AC Compressor",
       "title": "Ремень приводной LYNXauto 5PK0865 новый",
       "avito_retail_rub": 650,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-75cf95c8d15bd7236d410f",
+      "published_retail_rub": 650,
+      "release_verification": {
+        "id": "irk-75cf95c8d15bd7236d410f",
+        "brand": "LYNXauto",
+        "article": "5PK0865",
+        "category": "Ремни приводные",
+        "retail": 650,
+        "photo": {
+          "filename": "irk-75cf95c8d15bd7236d410f-b212c3715e54.jpg",
+          "sha256": "b212c3715e541eeacdeffef927c9c793b612a7d8a210bb6445f39feb000bebac",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-75cf95c8d15bd7236d410f-b212c3715e54.jpg",
+          "manufacturer_page_sha256": "9902838efc88a9918f8702f69031132feb652d7bf56973d6f49f3c994f356fd1",
+          "fitment_page_sha256": "3313da73e4b8b1151d22a6e7bcab55f233c2823c4789776e952344539847befa",
+          "verified_at_utc": "2026-11-17T09:01:29.024714+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:54.368060+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -857,7 +1009,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -978,14 +1131,33 @@
         "manufacturer_original_OE_row_count": 12,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1253790",
       "manufacturer_OEM_raw": "1 253 790",
       "fitment_summary": "FORD C-MAX (DM2) 07-10, 1.6 (HWDA, HWDB, SHDA, SHDB, SHDC), 74 (100), 02/07-09/10; FORD FOCUS C-MAX (DM2) 03-07, 1.6 (HWDA, HWDB, SHDA, SHDB, SHDC), 74 (100), 10/03-03/07, Elastic type, [+] AC Compressor; FORD FOCUS C-MAX (DM2) 03-07, 1.6 Ti (HXDA, SIDA), 85 (115), 08/04-03/07",
       "title": "Ремень приводной LYNXauto 5PK0868EL новый",
       "avito_retail_rub": 1150,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-f80c2b4b5a9141b93c8bb4",
+      "published_retail_rub": 1150,
+      "release_verification": {
+        "id": "irk-f80c2b4b5a9141b93c8bb4",
+        "brand": "LYNXauto",
+        "article": "5PK0868EL",
+        "category": "Ремни приводные",
+        "retail": 1150,
+        "photo": {
+          "filename": "irk-f80c2b4b5a9141b93c8bb4-4466faa7bf21.jpg",
+          "sha256": "4466faa7bf216c4155a4cb980e76b1c84b495a8e6be424db42347ec7f0251963",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f80c2b4b5a9141b93c8bb4-4466faa7bf21.jpg",
+          "manufacturer_page_sha256": "7aad97b5c87f51eece288a9f32b0c13f1a2181473af2cdc7ef644cbe8a73983d",
+          "fitment_page_sha256": "d61adbc57ab77be53dc38e76841ff336abe9d0b1d0f46f6cc4265fc0b4e3f01a",
+          "verified_at_utc": "2026-11-17T09:01:31.273324+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:56.333265+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1019,7 +1191,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -1140,14 +1313,33 @@
         "manufacturer_original_OE_row_count": 56,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "400799",
       "manufacturer_OEM_raw": "4007.99",
       "fitment_summary": "CITROEN BERLINGO / BERLINGO FIRST Box Body/MPV (M_) 96-11, 1.1 i (MAHDZ, MBHDZ, MBHFX) (HDZ (TU1M), HFX (TU1JP)), 44 (60), 07/96-03/08, Power Steering, [-] AC Compressor, -07/01, ORG NR -09023; CITROEN BERLINGO / BERLINGO FIRST Box Body/MPV (M_) 96-11, 1.4 i (MBKFX, MBKFW) (KFW (TU3A), KFW (TU3JP), KFX (TU3JP)), 55 (75), 07/96-12/11, Power Steering, [-] AC Compressor, -07/01, ORG NR -09023; CITROEN BERLINGO / BERLINGO FIRST Box Body/MPV (M_) 96-11, 1.4 i bivalent (MBKFW) (KFW (TU3JP)), 55 (75), 04/03-10/05, Power Steering, [-] AC Compressor, -07/01, ORG NR -09023",
       "title": "Ремень приводной LYNXauto 5PK0880 новый",
       "avito_retail_rub": 650,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-05f6471578b69bb0c1255e",
+      "published_retail_rub": 650,
+      "release_verification": {
+        "id": "irk-05f6471578b69bb0c1255e",
+        "brand": "LYNXauto",
+        "article": "5PK0880",
+        "category": "Ремни приводные",
+        "retail": 650,
+        "photo": {
+          "filename": "irk-05f6471578b69bb0c1255e-851147564b89.jpg",
+          "sha256": "851147564b89f493c389a912e77e0ce0facfc3633787c6bbee18dc160b52ebe9",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-05f6471578b69bb0c1255e-851147564b89.jpg",
+          "manufacturer_page_sha256": "124488a1bdac4428bccaef3f23887fc6af5087d14f923e7e805832f53eb85fe8",
+          "fitment_page_sha256": "6ad4af94226e0f9e9e0430a0863bf61ee528edd47ab502029864d361ace25749",
+          "verified_at_utc": "2026-11-17T09:01:30.959185+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:02:58.286799+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1240,14 +1432,33 @@
         "manufacturer_original_OE_row_count": 16,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "8845887702",
       "manufacturer_OEM_raw": "88458-87702",
       "fitment_summary": "DAIHATSU CHARADE III (G100, G101, G102) 87-93, 1.0 TD (G101) (CL, CL 61), 35 (48), 03/87-12/92",
       "title": "Ремень приводной LYNXauto 5PK0903 новый",
       "avito_retail_rub": 650,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-49ee965daf133e64d54c6d",
+      "published_retail_rub": 650,
+      "release_verification": {
+        "id": "irk-49ee965daf133e64d54c6d",
+        "brand": "LYNXauto",
+        "article": "5PK0903",
+        "category": "Ремни приводные",
+        "retail": 650,
+        "photo": {
+          "filename": "irk-49ee965daf133e64d54c6d-d4c2d22de973.jpg",
+          "sha256": "d4c2d22de973d9ba17fa801007f31b0f6f7b0bcae712d858886c24bff5b587ea",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-49ee965daf133e64d54c6d-d4c2d22de973.jpg",
+          "manufacturer_page_sha256": "0806c49fe97ac3c1fc767a2a4fa6dfedd6afedadf17e411db6bede131d14a10a",
+          "fitment_page_sha256": "9735a1fb61a58e3ba90b3e79eb9cd6f931b1385f648f0f5395ceb4ed88c49b52",
+          "verified_at_utc": "2026-11-17T09:01:32.994269+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:00.266019+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1368,14 +1579,33 @@
         "manufacturer_original_OE_row_count": 22,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281437449",
       "manufacturer_OEM_raw": "11 28 1 437 449",
       "fitment_summary": "BMW 3 (E36) 90-98, 320 i (M50 B20 (206S1), M50 B20 (206S2), M52 B20 (206S3)), 110 (150), 01/91-02/98, AC Compressor, M52; BMW 3 (E36) 90-98, 323 i (M52 B25 (256S3)), 125 (170), 05/95-11/98; BMW 3 (E36) 90-98, 328 i (M52 B28 (286S1)), 142 (193), 01/95-04/98, AC Compressor",
       "title": "Ремень приводной LYNXauto 5PK0908 новый",
       "avito_retail_rub": 950,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-804156eab8c05717dca9d4",
+      "published_retail_rub": 950,
+      "release_verification": {
+        "id": "irk-804156eab8c05717dca9d4",
+        "brand": "LYNXauto",
+        "article": "5PK0908",
+        "category": "Ремни приводные",
+        "retail": 950,
+        "photo": {
+          "filename": "irk-804156eab8c05717dca9d4-1545c7036102.jpg",
+          "sha256": "1545c70361027057b92dcbaf78d279dd10a1e14038f0744e88db0e8575e5bd3d",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-804156eab8c05717dca9d4-1545c7036102.jpg",
+          "manufacturer_page_sha256": "9f17fe8b582800a891983e4aaa2f2785c2c5e1b07aeb71974141577255638956",
+          "fitment_page_sha256": "24f8a73f77b7440294b1f7bd1c958ec877948ad564a834af616f799e5ea25cc2",
+          "verified_at_utc": "2026-11-17T09:01:33.094951+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:01.982327+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1460,7 +1690,7 @@
             "1.7 TD (176 A5.000)",
             "52 (71)",
             "01/94-09/99",
-            "Alternator, [-] AC Compressor, eng. â -01815651"
+            "Alternator, [-] AC Compressor, eng. № -01815651"
           ]
         ],
         "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
@@ -1475,14 +1705,34 @@
         "manufacturer_original_OE_row_count": 26,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "7721293",
       "manufacturer_OEM_raw": "7721293",
-      "fitment_summary": "FIAT PUNTO (176_) 93-99, 1.7 TD (176 A3.000), 51 (69), 01/94-09/99; FIAT PUNTO (176_) 93-99, 1.7 TD (176 A5.000), 52 (71), 01/94-09/99, Alternator, [-] AC Compressor, eng. â -01815651",
+      "fitment_summary": "FIAT PUNTO (176_) 93-99, 1.7 TD (176 A3.000), 51 (69), 01/94-09/99; FIAT PUNTO (176_) 93-99, 1.7 TD (176 A5.000), 52 (71), 01/94-09/99, Alternator, [-] AC Compressor, eng. № -01815651",
       "title": "Ремень приводной LYNXauto 5PK0933 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "UTF8_fitment_decoding_corrected": true,
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-c5300b10f22bd7d4a6e29c",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-c5300b10f22bd7d4a6e29c",
+        "brand": "LYNXauto",
+        "article": "5PK0933",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-c5300b10f22bd7d4a6e29c-2c1c66e7724c.jpg",
+          "sha256": "2c1c66e7724c50578f928e0866a4c526a6df406de71ceb73c1a0dc04945fc0b9",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c5300b10f22bd7d4a6e29c-2c1c66e7724c.jpg",
+          "manufacturer_page_sha256": "e17274dc8d8a63ab0a9e92923740aff410f64432a60fba7e08c606bf5a1d7dd1",
+          "fitment_page_sha256": "d32fbb38201327e797412345fb43e552c352a9a2283cf9f50286a27743a412a1",
+          "verified_at_utc": "2026-11-17T09:06:48.143563+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:06:55.319930+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1582,14 +1832,33 @@
         "manufacturer_original_OE_row_count": 39,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "206996",
       "manufacturer_OEM_raw": "206996",
       "fitment_summary": "CADILLAC SRX 03-09, 4.6 (LH2), 239 (325), 09/03-12/09; CADILLAC SRX 03-09, 4.6 AWD (LH2), 239 (325), 09/03-12/09",
       "title": "Ремень приводной LYNXauto 5PK0940 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-6af31333858eed3e1ad577",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-6af31333858eed3e1ad577",
+        "brand": "LYNXauto",
+        "article": "5PK0940",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-6af31333858eed3e1ad577-f0ff0658b66c.jpg",
+          "sha256": "f0ff0658b66c73458817b307cbaba62e670ff0aef281805046ce675cc4c38d7c",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6af31333858eed3e1ad577-f0ff0658b66c.jpg",
+          "manufacturer_page_sha256": "a3e6139475322002963f7373d4ae53ebfa29a8aff36a735ee7db8bb7a719c7f9",
+          "fitment_page_sha256": "7aa2a5e3143a624f8b8d2c542367f84500f37dd46fa85580f474249608deaa3c",
+          "verified_at_utc": "2026-11-17T09:01:35.126799+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:04.516743+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1696,14 +1965,33 @@
         "manufacturer_original_OE_row_count": 36,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "575079",
       "manufacturer_OEM_raw": "5750.79",
       "fitment_summary": "CHEVROLET LANOS Saloon 05-18, 1.4 (L13(82CUL4)), 55 (75), 11/05-12/10; CHEVROLET LANOS Saloon 05-18, 1.5 (LX6), 63 (86), 11/05-12/10, Alternator, [+] Power Steering; CHEVROLET LANOS Saloon 05-18, 1.5 (LX6), 64 (87), 11/05-12/18, Alternator, [+] Power Steering",
       "title": "Ремень приводной LYNXauto 5PK0970 новый",
       "avito_retail_rub": 750,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-5680a2c3480e94e021093c",
+      "published_retail_rub": 750,
+      "release_verification": {
+        "id": "irk-5680a2c3480e94e021093c",
+        "brand": "LYNXauto",
+        "article": "5PK0970",
+        "category": "Ремни приводные",
+        "retail": 750,
+        "photo": {
+          "filename": "irk-5680a2c3480e94e021093c-03605e8aec69.jpg",
+          "sha256": "03605e8aec692b9efceee056c48c71e21ce57e20691ef784af839eef630ef324",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5680a2c3480e94e021093c-03605e8aec69.jpg",
+          "manufacturer_page_sha256": "3ca3110521d0f5a126294f579a28d8c7060a1209cab3e5b1fd23c248a2f0bccc",
+          "fitment_page_sha256": "9e033a05f745967f59e2a9d8d27137dd8889e2e5ceb15bb522fef29b87254278",
+          "verified_at_utc": "2026-11-17T09:01:36.178886+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:07.456361+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1817,14 +2105,33 @@
         "manufacturer_original_OE_row_count": 19,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "7670173",
       "manufacturer_OEM_raw": "7670173",
       "fitment_summary": "MAZDA XEDOS 6 | EUNOS 500 (CA) 92-99, 2.0 V6 (CAEP) (KF1), 103 (140), 06/94-10/99, Alternator, [+] AC Compressor; MAZDA XEDOS 9 (TA) 93-02, 2.0 24V (KF), 105 (143), 08/93-01/00, Alternator, [+] AC Compressor, [+] OE; MAZDA XEDOS 9 (TA) 93-02, 2.5 24V (TA5P) (KL), 123 (167), 07/93-07/00, Alternator, [+] AC Compressor, [+] OE",
       "title": "Ремень приводной LYNXauto 5PK0998 новый",
       "avito_retail_rub": 950,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-bc3942cba47b4935e678cb",
+      "published_retail_rub": 950,
+      "release_verification": {
+        "id": "irk-bc3942cba47b4935e678cb",
+        "brand": "LYNXauto",
+        "article": "5PK0998",
+        "category": "Ремни приводные",
+        "retail": 950,
+        "photo": {
+          "filename": "irk-bc3942cba47b4935e678cb-ae3661dbd31c.jpg",
+          "sha256": "ae3661dbd31c09e1623fcb6b6be2152727de77fa3df05b8452123f195334bcc5",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bc3942cba47b4935e678cb-ae3661dbd31c.jpg",
+          "manufacturer_page_sha256": "3f34b08a680f8ae3a7c7f0bbf99842e19f78e30df20a80672fafca07e3fce962",
+          "fitment_page_sha256": "162c6182fa194973cd0e87e9c00467e4d2071df7939ad5347cb50745bc8422cb",
+          "verified_at_utc": "2026-11-17T09:01:36.813142+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:09.137993+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1924,14 +2231,33 @@
         "manufacturer_original_OE_row_count": 35,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750P7",
       "manufacturer_OEM_raw": "5750.P7",
       "fitment_summary": "CADILLAC BLS 06-, 2.0 T (B207L, LK9(122CUL4), Z 20 NET), 129 (175), 04/06-; CADILLAC BLS Wagon 07-, 2.0 T (Z 20 NET), 129 (175), 12/07-",
       "title": "Ремень приводной LYNXauto 5PK1030 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-ed2f5ae42ffe189df7eef7",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-ed2f5ae42ffe189df7eef7",
+        "brand": "LYNXauto",
+        "article": "5PK1030",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-ed2f5ae42ffe189df7eef7-0f186800f915.jpg",
+          "sha256": "0f186800f915dd92374c9a3936afd6f7d9bea6f9e550a59af8bd1a4eda5a9420",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ed2f5ae42ffe189df7eef7-0f186800f915.jpg",
+          "manufacturer_page_sha256": "1f1a4e290e469781e466b7fc3d29c43818458e771019cccac7f015c728731b50",
+          "fitment_page_sha256": "e708b06cf04bf1ea80071bf5ab7ec365796cfe1c2fa09f8346b435de3de526f5",
+          "verified_at_utc": "2026-11-17T09:01:37.671498+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:11.204794+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2009,35 +2335,35 @@
             "2.5 D Combinato (8140.67)",
             "62 (84)",
             "08/94-04/02",
-            "AC Compressor, eng. â -2669395"
+            "AC Compressor, eng. № -2669395"
           ],
           [
             "DUCATO Bus (230_) 94-02",
             "2.5 TDI 4WD (8140.47)",
             "85 (116)",
             "04/97-04/02",
-            "AC Compressor, =4x4, eng. â -2669395"
+            "AC Compressor, =4x4, eng. № -2669395"
           ],
           [
             "DUCATO Bus (230_) 94-02",
             "2.5 TDI Panorama/Combinato (8140.47)",
             "85 (116)",
             "03/94-04/02",
-            "AC Compressor, =4x4, eng. â -2669395"
+            "AC Compressor, =4x4, eng. № -2669395"
           ],
           [
             "DUCATO Bus (230_) 94-02",
             "2.5 TDI Panorama/Combinato (8140.47R)",
             "80 (109)",
             "07/94-04/02",
-            "AC Compressor, =4x4, eng. â -2669395"
+            "AC Compressor, =4x4, eng. № -2669395"
           ],
           [
             "DUCATO Platform/Chassis (230_) 94-02",
             "2.5 D (8140.67)",
             "62 (84)",
             "03/94-04/02",
-            "AC Compressor, eng. â -2669395"
+            "AC Compressor, eng. № -2669395"
           ]
         ],
         "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
@@ -2052,14 +2378,34 @@
         "manufacturer_original_OE_row_count": 14,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "6543CH",
       "manufacturer_OEM_raw": "6543.CH",
-      "fitment_summary": "FIAT DUCATO Bus (230_) 94-02, 2.5 D Combinato (8140.67), 62 (84), 08/94-04/02, AC Compressor, eng. â -2669395; FIAT DUCATO Bus (230_) 94-02, 2.5 TDI 4WD (8140.47), 85 (116), 04/97-04/02, AC Compressor, =4x4, eng. â -2669395; FIAT DUCATO Bus (230_) 94-02, 2.5 TDI Panorama/Combinato (8140.47), 85 (116), 03/94-04/02, AC Compressor, =4x4, eng. â -2669395",
+      "fitment_summary": "FIAT DUCATO Bus (230_) 94-02, 2.5 D Combinato (8140.67), 62 (84), 08/94-04/02, AC Compressor, eng. № -2669395; FIAT DUCATO Bus (230_) 94-02, 2.5 TDI 4WD (8140.47), 85 (116), 04/97-04/02, AC Compressor, =4x4, eng. № -2669395; FIAT DUCATO Bus (230_) 94-02, 2.5 TDI Panorama/Combinato (8140.47), 85 (116), 03/94-04/02, AC Compressor, =4x4, eng. № -2669395",
       "title": "Ремень приводной LYNXauto 5PK1083 новый",
       "avito_retail_rub": 1100,
-      "blockers": []
+      "blockers": [],
+      "UTF8_fitment_decoding_corrected": true,
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-89d6314c0267665201cbd2",
+      "published_retail_rub": 1100,
+      "release_verification": {
+        "id": "irk-89d6314c0267665201cbd2",
+        "brand": "LYNXauto",
+        "article": "5PK1083",
+        "category": "Ремни приводные",
+        "retail": 1100,
+        "photo": {
+          "filename": "irk-89d6314c0267665201cbd2-8ec44010fe38.jpg",
+          "sha256": "8ec44010fe381fdd3b5f617123cc690bd39d45f2f5493aba8a53885ffb153bb3",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-89d6314c0267665201cbd2-8ec44010fe38.jpg",
+          "manufacturer_page_sha256": "89bb9757d67bbb5795995e7bb593dfc11728edf9212cdb888be9ffe4d58c4966",
+          "fitment_page_sha256": "6b6533c0352c57a0b2732fb08455951d07b73d81e4eb092ea3b14ead33e18832",
+          "verified_at_utc": "2026-11-17T09:06:48.142405+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:06:57.661397+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2159,14 +2505,33 @@
         "manufacturer_original_OE_row_count": 46,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11288511920",
       "manufacturer_OEM_raw": "11 28 8 511 920",
       "fitment_summary": "AUDI A6 C6 (4F2) 04-11, 4.2 quattro (BAT, BNK), 246 (335), 05/04-05/06, Alternator; AUDI A6 C6 Avant (4F5) 04-11, 4.2 quattro (BAT), 246 (335), 03/05-05/06, Alternator",
       "title": "Ремень приводной LYNXauto 5PK1103 новый",
       "avito_retail_rub": 900,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-558985eabe873e03c48f8e",
+      "published_retail_rub": 900,
+      "release_verification": {
+        "id": "irk-558985eabe873e03c48f8e",
+        "brand": "LYNXauto",
+        "article": "5PK1103",
+        "category": "Ремни приводные",
+        "retail": 900,
+        "photo": {
+          "filename": "irk-558985eabe873e03c48f8e-c7c860dbda85.jpg",
+          "sha256": "c7c860dbda85fd7c5434347b76f948ce23aa4df5b0d57d328372157dcb424cb4",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-558985eabe873e03c48f8e-c7c860dbda85.jpg",
+          "manufacturer_page_sha256": "4aa7c1f57a6c6e9606819be5a0af9995d0d29bec4a1aa9ad64c8f68631f4a241",
+          "fitment_page_sha256": "dbcb35b2611315044933391b11617fe1b00d4090a7a5fb1298c632cf987b2cab",
+          "verified_at_utc": "2026-11-17T09:01:39.221698+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:13.191627+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2287,14 +2652,33 @@
         "manufacturer_original_OE_row_count": 30,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "46820378",
       "manufacturer_OEM_raw": "46820378",
       "fitment_summary": "FIAT 500 (312_) 07-, 1.2 (312AXA1A) (169 A4.000), 51 (69), 07/07-; FIAT 500 (312_) 07-, 1.2 LPG (312AXA1A) (169 A4.000), 51 (69), 12/10-; FIAT 500 (312_) 07-, 1.4 (312AXC1B, 312CXC1B) (169 A3.000), 74 (100), 10/07-",
       "title": "Ремень приводной LYNXauto 5PK1148 новый",
       "avito_retail_rub": 650,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-9f073b1181d44a03276a2f",
+      "published_retail_rub": 650,
+      "release_verification": {
+        "id": "irk-9f073b1181d44a03276a2f",
+        "brand": "LYNXauto",
+        "article": "5PK1148",
+        "category": "Ремни приводные",
+        "retail": 650,
+        "photo": {
+          "filename": "irk-9f073b1181d44a03276a2f-27b918dda4c3.jpg",
+          "sha256": "27b918dda4c391d4b8e169a110e9746850975e81072919d46dc75d0ec46a7c43",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9f073b1181d44a03276a2f-27b918dda4c3.jpg",
+          "manufacturer_page_sha256": "dea0ea3c00d21c715666d85c17d0c61df106546783533191281c8cfc025e9985",
+          "fitment_page_sha256": "a2ff827cda7b27a1dd279ff67c1614b66fbfa943180c2d480374cb472bf81737",
+          "verified_at_utc": "2026-11-17T09:01:39.725501+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:14.911465+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2387,14 +2771,33 @@
         "manufacturer_original_OE_row_count": 31,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281715636",
       "manufacturer_OEM_raw": "11 28 1 715 636",
       "fitment_summary": "BMW 7 (E32) 85-94, 750 i,iL V12 (M70 B50 (5012A)), 220 (300), 09/87-09/94",
       "title": "Ремень приводной LYNXauto 5PK1163 новый",
       "avito_retail_rub": 650,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-14624fb94477040e21a6fa",
+      "published_retail_rub": 650,
+      "release_verification": {
+        "id": "irk-14624fb94477040e21a6fa",
+        "brand": "LYNXauto",
+        "article": "5PK1163",
+        "category": "Ремни приводные",
+        "retail": 650,
+        "photo": {
+          "filename": "irk-14624fb94477040e21a6fa-d105a32b3134.jpg",
+          "sha256": "d105a32b31346e9be86facebfe8d0a50c95380172db1e550315bba9e6d45156a",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-14624fb94477040e21a6fa-d105a32b3134.jpg",
+          "manufacturer_page_sha256": "f39a81ba058efbe924744cd93801980cab339c7ed2f9395e50313f4a6146d2c3",
+          "fitment_page_sha256": "e3b6f4de79bd96b63d881d700e9d2cf87f5d3101b63ccee9ea10362550f061b0",
+          "verified_at_utc": "2026-11-17T09:01:40.909049+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:16.662714+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2515,14 +2918,33 @@
         "manufacturer_original_OE_row_count": 21,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281738517",
       "manufacturer_OEM_raw": "11 28 1 738 517",
       "fitment_summary": "OPEL AGILA (A) (H00) 00-07, 1.0 (F68) (Z 10 XEP), 44 (60), 08/03-12/07, Alternator, [-] AC Compressor; OPEL AGILA (A) (H00) 00-07, 1.0 12V (F68) (Z 10 XE), 43 (58), 09/00-12/07, Alternator, [-] AC Compressor; OPEL AGILA (A) (H00) 00-07, 1.2 16V (F68) (Z 12 XE), 55 (75), 09/00-12/07, Alternator, [-] AC Compressor",
       "title": "Ремень приводной LYNXauto 5PK1230 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-346186e5f19dcc680163d3",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-346186e5f19dcc680163d3",
+        "brand": "LYNXauto",
+        "article": "5PK1230",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-346186e5f19dcc680163d3-b8c4c15415b1.jpg",
+          "sha256": "b8c4c15415b1f924c139d348cf44e6cc7ee855326cd310f4c1ab344a843263f5",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-346186e5f19dcc680163d3-b8c4c15415b1.jpg",
+          "manufacturer_page_sha256": "a5c090b73f0cd5cbba4e04b944cd84af1f093019b5448837792cceee1a6fe30a",
+          "fitment_page_sha256": "76fcdd7c5b7cd742ea126b8ed39b878a5e40f2175f235413ad0411480b300df2",
+          "verified_at_utc": "2026-11-17T09:01:41.404058+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:18.674780+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2615,14 +3037,33 @@
         "manufacturer_original_OE_row_count": 15,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "16075816",
       "manufacturer_OEM_raw": "16075816",
       "fitment_summary": "CITROEN C4 AIRCROSS 12-, 1.6 (4A92, NKZ (4A92)), 86 (117), 04/12-",
       "title": "Ремень приводной LYNXauto 5PK1243 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-594646a0db900ea7a6bea9",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-594646a0db900ea7a6bea9",
+        "brand": "LYNXauto",
+        "article": "5PK1243",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-594646a0db900ea7a6bea9-65f6b5c3c82f.jpg",
+          "sha256": "65f6b5c3c82f2b7f2297bbf12744344afd893d70ace2ca4b85360428e7a5ab76",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-594646a0db900ea7a6bea9-65f6b5c3c82f.jpg",
+          "manufacturer_page_sha256": "57c22966cf617821edc553b1ddab1ed93e8753f1d0aff6d565da9867d8694138",
+          "fitment_page_sha256": "a9192d2f01fc4f93027b6b3d11156937da9288c813ea7ea9a5594637c74561c2",
+          "verified_at_utc": "2026-11-17T09:01:42.596060+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:20.361373+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2707,7 +3148,7 @@
             "1.6 (ALZ)",
             "75 (102)",
             "07/00-11/00",
-            "ALT, Chassis â-8D-1-200000"
+            "ALT, Chassis №-8D-1-200000"
           ],
           [
             "A4 B5 (8D2) 94-01",
@@ -2743,14 +3184,34 @@
         "manufacturer_original_OE_row_count": 16,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1025024GG010XZ",
       "manufacturer_OEM_raw": "1025024GG010XZ",
-      "fitment_summary": "AUDI A4 B5 (8D2) 94-01, 1.6 (ADP, AHL, ANA, ARM), 74 (100), 11/94-10/00, Alternator; AUDI A4 B5 (8D2) 94-01, 1.6 (ALZ), 75 (102), 07/00-11/00, ALT, Chassis â-8D-1-200000; AUDI A4 B5 (8D2) 94-01, 1.8 (ADR, APT, ARG, AVV), 92 (125), 11/94-11/00, Alternator",
+      "fitment_summary": "AUDI A4 B5 (8D2) 94-01, 1.6 (ADP, AHL, ANA, ARM), 74 (100), 11/94-10/00, Alternator; AUDI A4 B5 (8D2) 94-01, 1.6 (ALZ), 75 (102), 07/00-11/00, ALT, Chassis №-8D-1-200000; AUDI A4 B5 (8D2) 94-01, 1.8 (ADR, APT, ARG, AVV), 92 (125), 11/94-11/00, Alternator",
       "title": "Ремень приводной LYNXauto 5PK1303 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "UTF8_fitment_decoding_corrected": true,
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-8f553116b67d8a0b11dd19",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-8f553116b67d8a0b11dd19",
+        "brand": "LYNXauto",
+        "article": "5PK1303",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-8f553116b67d8a0b11dd19-34401deba7aa.jpg",
+          "sha256": "34401deba7aab0d502c7d58f18f7e96e14b720dd8fe34a51dffa1c27edfbc036",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8f553116b67d8a0b11dd19-34401deba7aa.jpg",
+          "manufacturer_page_sha256": "41e65308cabbbf82f2ef065ae4391b676f51a3293edd5f58d47b3c96a265428c",
+          "fitment_page_sha256": "c057454fea9dc17dced503117722535ddd9e7b577f5455b6ad1574c9c2a483df",
+          "verified_at_utc": "2026-11-17T09:06:49.896114+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:07:00.338583+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2784,7 +3245,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -2872,7 +3334,8 @@
       "requires_fresh_API_at_release": true,
       "blockers": [
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -2962,14 +3425,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 6
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "55350421",
       "manufacturer_OEM_raw": "55350421",
       "fitment_summary": "FIAT CROMA (194_) 05-11, 1.8 16V (939 A4.000), 103 (140), 12/05-, Alternator; FIAT STILO (192_) 01-07, 1.6 16V (192 B3.000), 77 (105), 05/05-11/06; FIAT STILO Multi Wagon (192_) 03-08, 1.6 16V (192 B3.000), 77 (105), 03/05-12/07",
       "title": "Ремень приводной LYNXauto 5PK1545 новый",
       "avito_retail_rub": 1300,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-89470ec6f56e52accd8566",
+      "published_retail_rub": 1300,
+      "release_verification": {
+        "id": "irk-89470ec6f56e52accd8566",
+        "brand": "LYNXauto",
+        "article": "5PK1545",
+        "category": "Ремни приводные",
+        "retail": 1300,
+        "photo": {
+          "filename": "irk-89470ec6f56e52accd8566-814eb82e7fcf.jpg",
+          "sha256": "814eb82e7fcf6d293d3c143f5490157343e08c358992537eb91b02fd9e71e348",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-89470ec6f56e52accd8566-814eb82e7fcf.jpg",
+          "manufacturer_page_sha256": "8cffaa7865f627913528ed0842b2448ee462df28e0498437edf95bea000bf200",
+          "fitment_page_sha256": "41d42f51027c8af89185326f5a1a60d925eaab8b5812a839e9761edcd3cf0608",
+          "verified_at_utc": "2026-11-17T09:01:44.395455+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:22.697135+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -3090,14 +3572,33 @@
         "manufacturer_original_OE_row_count": 14,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "46550322",
       "manufacturer_OEM_raw": "46550322",
       "fitment_summary": "AUDI A4 B5 (8D2) 94-01, 1.9 TDI (1Z, AHH, AHU), 66 (90), 01/95-11/00, Alternator; AUDI A4 B5 (8D2) 94-01, 1.9 TDI (AFF), 55 (75), 12/95-11/00, Alternator; AUDI A4 B5 (8D2) 94-01, 1.9 TDI (AFN, AVG), 81 (110), 10/95-11/00, Alternator",
       "title": "Ремень приводной LYNXauto 5PK1590 новый",
       "avito_retail_rub": 1000,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-c571f991e5ea7c58a32b6f",
+      "published_retail_rub": 1000,
+      "release_verification": {
+        "id": "irk-c571f991e5ea7c58a32b6f",
+        "brand": "LYNXauto",
+        "article": "5PK1590",
+        "category": "Ремни приводные",
+        "retail": 1000,
+        "photo": {
+          "filename": "irk-c571f991e5ea7c58a32b6f-9097a411e8c2.jpg",
+          "sha256": "9097a411e8c257c16da87239e9626b4da265c9f27df1b4d9771d2fc6a7dcca78",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c571f991e5ea7c58a32b6f-9097a411e8c2.jpg",
+          "manufacturer_page_sha256": "e081c7584303866344de0e92f8ba8b6018d537f04126378b059f63baa97f4bfe",
+          "fitment_page_sha256": "75b6c5ddbba81080085c447995a3d9926903dcacea9f6216770f4aab77594610",
+          "verified_at_utc": "2026-11-17T09:01:44.388098+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:24.773361+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -3205,14 +3706,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 7
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "12653580",
       "manufacturer_OEM_raw": "12653580",
       "fitment_summary": "OPEL ASTRA K (B16) 15-, 1.0 Turbo (68) (B 10 XFL, D 10 XFL), 77 (105), 06/15-; OPEL ASTRA K (B16) 15-, 1.0 Turbo (68) (D 10 XFL), 66 (90), 06/18-; OPEL ASTRA K (B16) 15-, 1.4 (68) (B 14 XE), 74 (100), 06/15-",
       "title": "Ремень приводной LYNXauto 5PK1650 новый",
       "avito_retail_rub": 950,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-d6f31e82d14abd84f67e84",
+      "published_retail_rub": 950,
+      "release_verification": {
+        "id": "irk-d6f31e82d14abd84f67e84",
+        "brand": "LYNXauto",
+        "article": "5PK1650",
+        "category": "Ремни приводные",
+        "retail": 950,
+        "photo": {
+          "filename": "irk-d6f31e82d14abd84f67e84-708c70d60d6c.jpg",
+          "sha256": "708c70d60d6cdcfecc7d467b2b8fba6aec4ceab1cf4ef58a95926ff7edbff19a",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d6f31e82d14abd84f67e84-708c70d60d6c.jpg",
+          "manufacturer_page_sha256": "2da481b0e7aaaec3157e7d1f2503189ef10e4d175608feef8cab0c9c339ae9cd",
+          "fitment_page_sha256": "cec4d9957771dc07b9bd30d923a365e5a00fc1d3ccee70ff3873e452fe259d66",
+          "verified_at_utc": "2026-11-17T09:01:46.265416+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:26.309495+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -3333,14 +3853,33 @@
         "manufacturer_original_OE_row_count": 12,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "55591186",
       "manufacturer_OEM_raw": "55591186",
       "fitment_summary": "HYUNDAI TERRACAN (HP) 01-06, 2.9 CRDi (J3(CRDi)), 110 (150), 11/01-07/03, Alternator; HYUNDAI TERRACAN (HP) 01-06, 2.9 CRDi 4WD (J3(CRDi)), 110 (150), 12/01-12/06, Alternator; HYUNDAI TERRACAN (HP) 01-06, 2.9 CRDi 4WD (J3(CRDi)), 110 (150), 11/01-12/06, Alternator",
       "title": "Ремень приводной LYNXauto 5PK1683 новый",
       "avito_retail_rub": 950,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-0fa488a9bed11c63928576",
+      "published_retail_rub": 950,
+      "release_verification": {
+        "id": "irk-0fa488a9bed11c63928576",
+        "brand": "LYNXauto",
+        "article": "5PK1683",
+        "category": "Ремни приводные",
+        "retail": 950,
+        "photo": {
+          "filename": "irk-0fa488a9bed11c63928576-5b149d930e2e.jpg",
+          "sha256": "5b149d930e2e894fda0b4c7e836b2ffd84880d5f2a9b7a068e66edec6ee93d54",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0fa488a9bed11c63928576-5b149d930e2e.jpg",
+          "manufacturer_page_sha256": "74914ad17dba44ea2ab13682f69628d8213db8094d193a168dbeb74918b7aab2",
+          "fitment_page_sha256": "f7eaa3ebf371b221d36e64d6ee02aa26c942067639a9ea03762bb8dd7e11ed7e",
+          "verified_at_utc": "2026-11-17T09:01:46.209064+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:28.266603+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -3440,14 +3979,33 @@
         "manufacturer_original_OE_row_count": 16,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "12652186",
       "manufacturer_OEM_raw": "12652186",
       "fitment_summary": "HYUNDAI MATRIX (FC) 01-10, 1.5 CRDi (D4FA), 75 (102), 12/04-08/10; HYUNDAI MATRIX (FC) 01-10, 1.5 CRDi VGT (D4FA), 81 (110), 08/05-08/10",
       "title": "Ремень приводной LYNXauto 5PK1750 новый",
       "avito_retail_rub": 1050,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-bdc6d53e61dda0ac62089d",
+      "published_retail_rub": 1050,
+      "release_verification": {
+        "id": "irk-bdc6d53e61dda0ac62089d",
+        "brand": "LYNXauto",
+        "article": "5PK1750",
+        "category": "Ремни приводные",
+        "retail": 1050,
+        "photo": {
+          "filename": "irk-bdc6d53e61dda0ac62089d-62c0e888be1f.jpg",
+          "sha256": "62c0e888be1fc863f3da25616ab997c6ef8a6043c85a261ccd85e86996a3b22a",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bdc6d53e61dda0ac62089d-62c0e888be1f.jpg",
+          "manufacturer_page_sha256": "feeef214ea71daa8576f865658d41c9f6e2c23c2ada86cde8d7f032b868ba8ed",
+          "fitment_page_sha256": "b0105b5fbeb865b0c830fed0fb740afdfe2a6f6229ac40e4a13f5a48c2fb958c",
+          "verified_at_utc": "2026-11-17T09:01:48.243753+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:30.197811+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -3543,14 +4101,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 4
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "12627134",
       "manufacturer_OEM_raw": "12627134",
       "fitment_summary": "MERCEDES-BENZ A-CLASS (W169) 04-12, A 150 (169.031, 169.331) (M 266.920), 70 (95), 09/04-06/12, Alternator, [+] AC Compressor; MERCEDES-BENZ A-CLASS (W169) 04-12, A 160 (169.031, 169.331) (M 266.920), 70 (95), 04/09-06/12; MERCEDES-BENZ A-CLASS (W169) 04-12, A 170 (169.032, 169.332) (M 266.940), 85 (116), 09/04-06/12, Alternator, [+] AC Compressor",
       "title": "Ремень приводной LYNXauto 5PK1765 новый",
       "avito_retail_rub": 1150,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-4530bc0abe376884db08a6",
+      "published_retail_rub": 1150,
+      "release_verification": {
+        "id": "irk-4530bc0abe376884db08a6",
+        "brand": "LYNXauto",
+        "article": "5PK1765",
+        "category": "Ремни приводные",
+        "retail": 1150,
+        "photo": {
+          "filename": "irk-4530bc0abe376884db08a6-1f219eadf352.jpg",
+          "sha256": "1f219eadf3522680e81c07d95509ed2e4a2270005b9c6155786c43b09a3b8ee0",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4530bc0abe376884db08a6-1f219eadf352.jpg",
+          "manufacturer_page_sha256": "05d0f7bb0cd9b3339cd070ac834c3fec69ec76eb6a17b34fcd7b611cd63838ca",
+          "fitment_page_sha256": "4fedcb49b3ba813796698367d7c9447900eebdbda6ec674f2285dc99204f2d31",
+          "verified_at_utc": "2026-11-17T09:01:48.302044+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:31.927974+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -3670,14 +4247,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 10
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1682201",
       "manufacturer_OEM_raw": "1 682 201",
       "fitment_summary": "FORD GALAXY II (WA6) 06-15, 2.0 EcoBoost (TNWA), 149 (203), 03/10-06/15; FORD MONDEO IV (BA7) 07-15, 2.0 EcoBoost (TPBA), 176 (240), 07/10-01/15; FORD MONDEO IV (BA7) 07-15, 2.0 SCTi (TNBA), 149 (203), 03/10-01/15",
       "title": "Ремень приводной LYNXauto 6DPK2280 новый",
       "avito_retail_rub": 3700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-a485969baef6242652f621",
+      "published_retail_rub": 3700,
+      "release_verification": {
+        "id": "irk-a485969baef6242652f621",
+        "brand": "LYNXauto",
+        "article": "6DPK2280",
+        "category": "Ремни приводные",
+        "retail": 3700,
+        "photo": {
+          "filename": "irk-a485969baef6242652f621-2804633e2ff5.jpg",
+          "sha256": "2804633e2ff5ea965b81036f76cb756eff60c14b1a73393cb05a29b7000d8335",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a485969baef6242652f621-2804633e2ff5.jpg",
+          "manufacturer_page_sha256": "2ac173f071ef1e656076399c1e3a5e608dc7f20dd30b1a6719797ac71bb3c005",
+          "fitment_page_sha256": "bc1a96a3c684d027d871085a5968cbbb4c3d8757a0b9decefce4ee14c29b380a",
+          "verified_at_utc": "2026-11-17T09:01:50.500046+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:33.251462+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -3798,14 +4394,33 @@
         "manufacturer_original_OE_row_count": 11,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750FF",
       "manufacturer_OEM_raw": "5750.FF",
       "fitment_summary": "AUDI A1 (8X1, 8XK) 10-18, 1.0 TFSI (CHZB, DKLD), 70 (95), 03/15-10/18; AUDI A1 (8X1, 8XK) 10-18, 1.0 TFSI (CHZE), 60 (82), 01/16-10/18; AUDI A1 (8X1, 8XK) 10-18, 1.4 TFSI (CPTA), 103 (140), 04/12-04/15, Alternator, [-] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK0745 новый",
       "avito_retail_rub": 600,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-0203826a3b5f9861ee6a0f",
+      "published_retail_rub": 600,
+      "release_verification": {
+        "id": "irk-0203826a3b5f9861ee6a0f",
+        "brand": "LYNXauto",
+        "article": "6PK0745",
+        "category": "Ремни приводные",
+        "retail": 600,
+        "photo": {
+          "filename": "irk-0203826a3b5f9861ee6a0f-49921f115e83.jpg",
+          "sha256": "49921f115e833c3f413c76441508ed222a94f1b23812dfd65943d098acaf0655",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0203826a3b5f9861ee6a0f-49921f115e83.jpg",
+          "manufacturer_page_sha256": "51e0c10ead60366a6baf9529acb20c275a5d0fc81d19de389da94a119682d3bf",
+          "fitment_page_sha256": "1a5a87ba66764ca18a0b7924c113a1ad96c79c8e5353294c1ed12902918bea76",
+          "verified_at_utc": "2026-11-17T09:01:50.597766+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:35.602039+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -3839,7 +4454,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -3960,14 +4576,33 @@
         "manufacturer_original_OE_row_count": 25,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287795036",
       "manufacturer_OEM_raw": "11 28 7 795 036",
       "fitment_summary": "CITROEN BERLINGO Box Body/MPV (B9) 08-, 1.6 HDi / BlueHDi 75 (9HN (DV6ETED), BHW (DV6FE)), 55 (75), 07/10-; CITROEN BERLINGO Box Body/MPV (B9) 08-, 1.6 HDi 110 (9HL (DV6C), 9HR (DV6C)), 82 (112), 07/10-; CITROEN BERLINGO Box Body/MPV (B9) 08-, 1.6 HDi 110 (9HZ (DV6TED4)), 80 (109), 04/08-",
       "title": "Ремень приводной LYNXauto 6PK0803 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-a21f7390e56a122a43039f",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-a21f7390e56a122a43039f",
+        "brand": "LYNXauto",
+        "article": "6PK0803",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-a21f7390e56a122a43039f-d484ddf7edcb.jpg",
+          "sha256": "d484ddf7edcb5d96941f6c6a3445df39ab43e57c96aa3b3d94a4e560c090fc6b",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a21f7390e56a122a43039f-d484ddf7edcb.jpg",
+          "manufacturer_page_sha256": "0845959e34eff62b4dad8d3ca4df4444eab415a67bda9d33173a0f5518e02e24",
+          "fitment_page_sha256": "970b9c90a0db9fa6b4c70776912e6b2422ca03aeb0167a40e363d61fcf3010fb",
+          "verified_at_utc": "2026-11-17T09:01:52.352064+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:37.131521+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4059,14 +4694,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 3
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1118104102007",
       "manufacturer_OEM_raw": "1118-1041020-07",
       "fitment_summary": "LADA GRANTA (2190_) 11-19, 1.6 (21901) (11186), 64 (87), 10/11-; LADA GRANTA (2190_) 11-19, 1.6 (21906) (11183), 60 (82), 10/11-, Alternator, [-] AC; LADA GRANTA Estate (2194_) 18-, 1.6 (21941) (11186), 64 (87), 08/18-",
       "title": "Ремень приводной LYNXauto 6PK0823EL новый",
       "avito_retail_rub": 1050,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-318dbdc0433905336f0d11",
+      "published_retail_rub": 1050,
+      "release_verification": {
+        "id": "irk-318dbdc0433905336f0d11",
+        "brand": "LYNXauto",
+        "article": "6PK0823EL",
+        "category": "Ремни приводные",
+        "retail": 1050,
+        "photo": {
+          "filename": "irk-318dbdc0433905336f0d11-21e094544760.jpg",
+          "sha256": "21e094544760ae096ad2ada2b7654d56bb710c144a017e8c2a19662eb41b799d",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-318dbdc0433905336f0d11-21e094544760.jpg",
+          "manufacturer_page_sha256": "7af6393fd80700bb0652f6ca222578d508a7774a05a18cf33393ba5059aaabb8",
+          "fitment_page_sha256": "d41bfba0099c10aef2a9b2287d75c2f0f9e9223303fbc682c65de1519fcd1e89",
+          "verified_at_utc": "2026-11-17T09:01:52.273261+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:39.571688+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4144,14 +4798,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 3
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "117200M200",
       "manufacturer_OEM_raw": "11720-0M200",
       "fitment_summary": "LADA GRANTA (2190_) 11-19, 1.6 (21902) (21126), 72 (98), 10/11-, Without tensioner; LADA GRANTA Hatchback (2192_) 18-, 1.6 (21921) (11186, 21116), 64 (87), 08/18-, Without tensioner; LADA GRANTA Liftback (2191_) 14-, 1.6 (21911) (11186, 21116), 64 (87), 08/14-, Without tensioner",
       "title": "Ремень приводной LYNXauto 6PK0825 новый",
       "avito_retail_rub": 950,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-0a0e506c5344144ac66d0e",
+      "published_retail_rub": 950,
+      "release_verification": {
+        "id": "irk-0a0e506c5344144ac66d0e",
+        "brand": "LYNXauto",
+        "article": "6PK0825",
+        "category": "Ремни приводные",
+        "retail": 950,
+        "photo": {
+          "filename": "irk-0a0e506c5344144ac66d0e-7feb2e9ae125.jpg",
+          "sha256": "7feb2e9ae1258170b59b8b6bd7783826119578af633b21f240ae2a478bd79a6d",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0a0e506c5344144ac66d0e-7feb2e9ae125.jpg",
+          "manufacturer_page_sha256": "12248394d97a0ac7c91abcdabe33ea08123b1f6ee7e2d0ef78761c4f02937d6e",
+          "fitment_page_sha256": "edd78a14b3f34a7dd6066a0f22098e702b7c3cd6e56d7dd666fc645d0d1a4b82",
+          "verified_at_utc": "2026-11-17T09:01:53.956267+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:41.278208+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4251,14 +4924,33 @@
         "manufacturer_original_OE_row_count": 13,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "V88AB6C301AA",
       "manufacturer_OEM_raw": "V88AB-6C301-AA",
       "fitment_summary": "DAIHATSU CUORE VII (L275_, L285_, L276_) 06-, 1.0 (L276) (1KR-FE), 51 (70), 04/07-; DAIHATSU SIRION (M3_) 05-13, 1.0 (M300) (1KR-FE), 51 (70), 01/05-06/13",
       "title": "Ремень приводной LYNXauto 6PK0843 новый",
       "avito_retail_rub": 900,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-c4e480a198b176d82f8b3f",
+      "published_retail_rub": 900,
+      "release_verification": {
+        "id": "irk-c4e480a198b176d82f8b3f",
+        "brand": "LYNXauto",
+        "article": "6PK0843",
+        "category": "Ремни приводные",
+        "retail": 900,
+        "photo": {
+          "filename": "irk-c4e480a198b176d82f8b3f-d474bb32183d.jpg",
+          "sha256": "d474bb32183de4986d9a7dabce70c1415f7f38244d72705c8c8618291d3a7f67",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c4e480a198b176d82f8b3f-d474bb32183d.jpg",
+          "manufacturer_page_sha256": "8785626360bfcd5f20a15acfcd1a52098320b875b69a7f1a3ef020b9c8ffe438",
+          "fitment_page_sha256": "c61b49cb1304c6c4740eb69effb6673721068801cd2c1e02fcf3d34537d1c606",
+          "verified_at_utc": "2026-11-17T09:01:54.032696+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:42.904087+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4351,14 +5043,33 @@
         "manufacturer_original_OE_row_count": 21,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287534703",
       "manufacturer_OEM_raw": "11 28 7 534 703",
       "fitment_summary": "AUDI Q7 (4MB, 4MG, 4MQ) 15-19, 60 TFSI e quattro (DCBE), 250 (340), 11/19-",
       "title": "Ремень приводной LYNXauto 6PK0870 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-1d7f299e2c57ada83a998e",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-1d7f299e2c57ada83a998e",
+        "brand": "LYNXauto",
+        "article": "6PK0870",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-1d7f299e2c57ada83a998e-52a9885a9b97.jpg",
+          "sha256": "52a9885a9b97e7b1a83cc0734527e62f53940841f7e8c610b0ef1d126921fb63",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1d7f299e2c57ada83a998e-52a9885a9b97.jpg",
+          "manufacturer_page_sha256": "53f6dcdf2a24df390800d4e6731978d2b937b17c7595117fdd3e8cb1aad148eb",
+          "fitment_page_sha256": "e251a2884e17ca15bdf0a501bc25bd12d2508d9eb3e423cb9be0f9b1645896dc",
+          "verified_at_utc": "2026-11-17T09:01:56.033300+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:44.867341+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4479,14 +5190,33 @@
         "manufacturer_original_OE_row_count": 29,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "04891506AB",
       "manufacturer_OEM_raw": "04891 506AB",
       "fitment_summary": "CHEVROLET AVEO / KALOS Hatchback (T200) 03-08, 1.4 16V (L14(85CUL4)), 69 (94), 05/03-05/08, Alternator, [-] Power Steering, [-] AC Compressor; CHEVROLET AVEO / KALOS Hatchback (T200) 03-08, 1.5 (LV8(91CUL4)), 62 (84), 01/05-05/08; CHEVROLET AVEO / KALOS Saloon (T200) 03-08, 1.4 (L14(85CUL4)), 69 (94), 05/03-05/08, Alternator, [-] Power Steering, [-] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK0883 новый",
       "avito_retail_rub": 750,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-19919fab2676c831e06a4c",
+      "published_retail_rub": 750,
+      "release_verification": {
+        "id": "irk-19919fab2676c831e06a4c",
+        "brand": "LYNXauto",
+        "article": "6PK0883",
+        "category": "Ремни приводные",
+        "retail": 750,
+        "photo": {
+          "filename": "irk-19919fab2676c831e06a4c-20d888737998.jpg",
+          "sha256": "20d888737998cf30709a4915cf6ff943bf2a536110f8433c434a6417e1e5924f",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-19919fab2676c831e06a4c-20d888737998.jpg",
+          "manufacturer_page_sha256": "b0d8f2896189bb0e7c62b0be31d7549ca6656bafde6886c5bc60a2349b0d76ca",
+          "fitment_page_sha256": "5d053748f0aab51048c91b0fafb25fc4846d5d59878dbd552dea6068e2edaa07",
+          "verified_at_utc": "2026-11-17T09:01:56.081364+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:47.704716+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4579,14 +5309,33 @@
         "manufacturer_original_OE_row_count": 21,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "2521204150",
       "manufacturer_OEM_raw": "2521204150",
       "fitment_summary": "AUDI Q7 (4MB, 4MG, 4MQ) 15-19, SQ7 TDI quattro (CZAC, DMVA), 320 (435), 04/16-12/19",
       "title": "Ремень приводной LYNXauto 6PK0923 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-cfa7fe7150d9d4ce2a13d1",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-cfa7fe7150d9d4ce2a13d1",
+        "brand": "LYNXauto",
+        "article": "6PK0923",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-cfa7fe7150d9d4ce2a13d1-90f04069e526.jpg",
+          "sha256": "90f04069e5260740804fa906d2901e528edca380471d7f5d95e457b32b295b5f",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cfa7fe7150d9d4ce2a13d1-90f04069e526.jpg",
+          "manufacturer_page_sha256": "e5e02cd62d2d66e4a67c1a9f408b2be22fbea18922da84b1b9bf92d7260a6a10",
+          "fitment_page_sha256": "b15d458a694a5557d99c1904b178b2d88cd68eb83ee1e4f351cf814ac963ee99",
+          "verified_at_utc": "2026-11-17T09:01:58.199652+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:49.652561+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4707,14 +5456,33 @@
         "manufacturer_original_OE_row_count": 15,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "128048",
       "manufacturer_OEM_raw": "1280.48",
       "fitment_summary": "AUDI A3 (8P1) 03-12, 1.9 TDI (BKC, BLS, BXE), 77 (105), 05/03-05/10; AUDI A3 (8P1) 03-12, 2.0 TDI (AZV, CBAA, CFFA), 100 (136), 05/03-08/12, Alternator, [-] AC Compressor; AUDI A3 (8P1) 03-12, 2.0 TDI (BMM), 103 (140), 06/05-06/08, Alternator, [-] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK0948 новый",
       "avito_retail_rub": 1050,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-8b58035e0a7b8029ea3e76",
+      "published_retail_rub": 1050,
+      "release_verification": {
+        "id": "irk-8b58035e0a7b8029ea3e76",
+        "brand": "LYNXauto",
+        "article": "6PK0948",
+        "category": "Ремни приводные",
+        "retail": 1050,
+        "photo": {
+          "filename": "irk-8b58035e0a7b8029ea3e76-674513663849.jpg",
+          "sha256": "67451366384994e75b90386d3e072527ee2504243addc3132739212efbb3d006",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8b58035e0a7b8029ea3e76-674513663849.jpg",
+          "manufacturer_page_sha256": "407bf164aee1e640edffc6ff269ace04c34bb6a43e968fa63953c27236ed52df",
+          "fitment_page_sha256": "969286647d14ca9c1c3fcf16b78dee5394a55fd102d659247fd0a3708127f30e",
+          "verified_at_utc": "2026-11-17T09:01:58.260701+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:51.645154+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4740,7 +5508,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -4774,7 +5543,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -4874,14 +5644,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 5
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "PY0115909",
       "manufacturer_OEM_raw": "PY01-15-909",
       "fitment_summary": "MAZDA 6 | ATENZA Estate (GJ, GL) 12-18, 2.5 (PY-Y8, PY-ZA, PYY1), 141 (192), 12/12-, Alternator, ->02/18; MAZDA 6 | ATENZA Estate (GJ, GL) 12-18, 2.5 (GJ5FW) (PYY1), 138 (188), 12/12-; MAZDA 6 | ATENZA Saloon (GJ, GL) 12-, 2.5 (PYZ8, PYZC), 143 (194), 03/18-",
       "title": "Ремень приводной LYNXauto 6PK0970 новый",
       "avito_retail_rub": 1500,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-3bbe1e1eea27a63a1b8f84",
+      "published_retail_rub": 1500,
+      "release_verification": {
+        "id": "irk-3bbe1e1eea27a63a1b8f84",
+        "brand": "LYNXauto",
+        "article": "6PK0970",
+        "category": "Ремни приводные",
+        "retail": 1500,
+        "photo": {
+          "filename": "irk-3bbe1e1eea27a63a1b8f84-428dcef6e6df.jpg",
+          "sha256": "428dcef6e6df6d25aaf0ab823f8bbd47c6deffaabd439a0b7d950f72fbab077d",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3bbe1e1eea27a63a1b8f84-428dcef6e6df.jpg",
+          "manufacturer_page_sha256": "54d3de133e177ea201154d9409b3f475d3a2bd3f75d2f26fddce835cfb4836b8",
+          "fitment_page_sha256": "99f42afcb87e1925870dd2a5857449842d55480b3d704b437cd2c15c0852d811",
+          "verified_at_utc": "2026-11-17T09:02:00.170493+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:53.730758+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -4988,14 +5777,33 @@
         "manufacturer_original_OE_row_count": 27,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "128046",
       "manufacturer_OEM_raw": "1280.46",
       "fitment_summary": "AUDI A2 (8Z0) 00-05, 1.2 TDI (ANY), 45 (61), 03/01-08/05, Alternator, [+] AC Compressor; AUDI A2 (8Z0) 00-05, 1.4 TDI (AMF, BHC), 55 (75), 02/00-08/05, Alternator, [+] AC Compressor; AUDI A2 (8Z0) 00-05, 1.4 TDI (ATL), 66 (90), 11/03-08/05, Alternator, [+] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK0995 новый",
       "avito_retail_rub": 750,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-9b77f7374324298a5ec1db",
+      "published_retail_rub": 750,
+      "release_verification": {
+        "id": "irk-9b77f7374324298a5ec1db",
+        "brand": "LYNXauto",
+        "article": "6PK0995",
+        "category": "Ремни приводные",
+        "retail": 750,
+        "photo": {
+          "filename": "irk-9b77f7374324298a5ec1db-c72884f31320.jpg",
+          "sha256": "c72884f313205129d196fff07b43dd0c8fa9a8bc176c637431f47f7f64cbb2ec",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9b77f7374324298a5ec1db-c72884f31320.jpg",
+          "manufacturer_page_sha256": "7bd0b363f494ecd350fa1f5bc338a8caa4eea4d8cb7a6532ff4a26ff0440c734",
+          "fitment_page_sha256": "cbc55c739134af88a15d1135b2573f7a470f58cc310ce6dcec47f5b80bea095e",
+          "verified_at_utc": "2026-11-17T09:02:00.216162+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:57.071410+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -5088,14 +5896,33 @@
         "manufacturer_original_OE_row_count": 23,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "04861017",
       "manufacturer_OEM_raw": "04861 017",
       "fitment_summary": "CHRYSLER VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01, 2.0 i (C00), 98 (133), 01/95-03/01",
       "title": "Ремень приводной LYNXauto 6PK1018 новый",
       "avito_retail_rub": 750,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-918c6c62cfc07befa3a47e",
+      "published_retail_rub": 750,
+      "release_verification": {
+        "id": "irk-918c6c62cfc07befa3a47e",
+        "brand": "LYNXauto",
+        "article": "6PK1018",
+        "category": "Ремни приводные",
+        "retail": 750,
+        "photo": {
+          "filename": "irk-918c6c62cfc07befa3a47e-5def149ef4ee.jpg",
+          "sha256": "5def149ef4eede2affbe08ffefb09f0acfa6606fcf9a4c7d004bba3f2b741183",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-918c6c62cfc07befa3a47e-5def149ef4ee.jpg",
+          "manufacturer_page_sha256": "bb234df64a7f3f2f89bb801acc46bffd93a3b25cb25b6d14ec6dd5b12eee12c1",
+          "fitment_page_sha256": "fc6c2d7aae3f445e59c648fdc786339eaecb4f9bdf4b3211e0ba1c1d5a75c7ba",
+          "verified_at_utc": "2026-11-17T09:02:02.177732+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:03:59.874817+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -5216,14 +6043,33 @@
         "manufacturer_original_OE_row_count": 22,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1141317",
       "manufacturer_OEM_raw": "1 141 317",
       "fitment_summary": "FORD C-MAX II (DXA/CB7, DXA/CEU) 10-, 1.6 Flexifuel (MUDA, MUDD), 88 (120), 02/11-; FORD C-MAX II (DXA/CB7, DXA/CEU) 10-, 1.6 LPG (MUDA, MUDD), 86 (117), 02/12-; FORD C-MAX II (DXA/CB7, DXA/CEU) 10-, 1.6 LPG (MUDA, MUDD), 88 (120), 02/12-",
       "title": "Ремень приводной LYNXauto 6PK1019EL новый",
       "avito_retail_rub": 1400,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-9690f50992b9fc32a7da09",
+      "published_retail_rub": 1400,
+      "release_verification": {
+        "id": "irk-9690f50992b9fc32a7da09",
+        "brand": "LYNXauto",
+        "article": "6PK1019EL",
+        "category": "Ремни приводные",
+        "retail": 1400,
+        "photo": {
+          "filename": "irk-9690f50992b9fc32a7da09-03a9bc3418f8.jpg",
+          "sha256": "03a9bc3418f8d9d283f6b6aa26c8206f768bf8ab8ccc0ff29ef7a9c0627cc5bc",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9690f50992b9fc32a7da09-03a9bc3418f8.jpg",
+          "manufacturer_page_sha256": "71183444a5de1cd0231c1eb7ac2594f408f31249f1cc155fff5de7773a22e9c8",
+          "fitment_page_sha256": "d6cb2e4798d938ced6ef2604d15f893d126dcf694af3e29594b919f72e3c80a2",
+          "verified_at_utc": "2026-11-17T09:02:02.270030+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:01.640198+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -5327,14 +6173,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 6
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "04861017AB",
       "manufacturer_OEM_raw": "04861 017AB",
       "fitment_summary": "AUDI A1 (8X1, 8XK) 10-18, 1.6 TDI (CXMA), 85 (115), 11/14-10/18; AUDI A1 Sportback (8XA, 8XF) 11-18, 1.6 TDI (CXMA), 85 (115), 11/14-10/18; AUDI A3 (8V1, 8VK) 12-16, 1.6 TDI (CLHA), 77 (105), 10/12-05/15",
       "title": "Ремень приводной LYNXauto 6PK1025 новый",
       "avito_retail_rub": 700,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-486d5b0092d0924a66c451",
+      "published_retail_rub": 700,
+      "release_verification": {
+        "id": "irk-486d5b0092d0924a66c451",
+        "brand": "LYNXauto",
+        "article": "6PK1025",
+        "category": "Ремни приводные",
+        "retail": 700,
+        "photo": {
+          "filename": "irk-486d5b0092d0924a66c451-656411d2e360.jpg",
+          "sha256": "656411d2e360b5607a5e09db744cd6eb1511ca7594bfdf6243c06fd5bdf4215d",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-486d5b0092d0924a66c451-656411d2e360.jpg",
+          "manufacturer_page_sha256": "2f4479e8e7377cd72f263c9a5082cb8edea47b2fc13ceaaf494fbdeeee2264ec",
+          "fitment_page_sha256": "bf85e0d9e506263e430c24c1e677f65d4bf8009e6212e7827f1de916a3615ad2",
+          "verified_at_utc": "2026-11-17T09:02:04.629982+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:03.610489+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -5455,14 +6320,33 @@
         "manufacturer_original_OE_row_count": 20,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750S3",
       "manufacturer_OEM_raw": "5750.S3",
       "fitment_summary": "AUDI A3 (8V1, 8VK) 12-16, 1.6 TDI (CRKB, CXXB, DBKA), 81 (110), 09/13-; AUDI A3 (8V1, 8VK) 12-16, 1.6 TDI (DDYA, DGTE), 85 (115), 02/17-; AUDI A3 (8V1, 8VK) 12-16, 2.0 TDI (CRBC, CRLB, CRUA, DBGA, DCYA, DEJA), 110 (150), 04/12-",
       "title": "Ремень приводной LYNXauto 6PK1028 новый",
       "avito_retail_rub": 1050,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-c3cd70252f89f041ff3acb",
+      "published_retail_rub": 1050,
+      "release_verification": {
+        "id": "irk-c3cd70252f89f041ff3acb",
+        "brand": "LYNXauto",
+        "article": "6PK1028",
+        "category": "Ремни приводные",
+        "retail": 1050,
+        "photo": {
+          "filename": "irk-c3cd70252f89f041ff3acb-a4bdc8c14cf0.jpg",
+          "sha256": "a4bdc8c14cf0b9ab8cf62d74e1c762b16d1f62f1c1e0a24dc40b477e43f42b05",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c3cd70252f89f041ff3acb-a4bdc8c14cf0.jpg",
+          "manufacturer_page_sha256": "452ad1ace3fb5635dffc70a96eb1e2fb2f5cd0c436c190e400fac1f0c0e1bb1d",
+          "fitment_page_sha256": "0de6bcac06cfd6bbca56cccc245ed1684212949955188b61c30c8543390e32cf",
+          "verified_at_utc": "2026-11-17T09:02:04.567943+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:05.859966+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -5583,7 +6467,8 @@
       "requires_fresh_API_at_release": true,
       "blockers": [
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -5690,14 +6575,33 @@
         "manufacturer_original_OE_row_count": 25,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287509992",
       "manufacturer_OEM_raw": "11 28 7 509 992",
       "fitment_summary": "CITROEN C-ELYSEE (DD_) 12-, 1.6 VTi 115 (NFP (EC5)), 85 (115), 11/12-, Alternator, [+] AC Compressor, 80A; CITROEN C2 (JM_) 03-12, 1.4 16V (KFU (ET3J4)), 65 (90), 04/05-12/09; CITROEN C3 I (FC_, FN_) 02-10, 1.4 16V (KFU (ET3J4)), 65 (88), 12/03-",
       "title": "Ремень приводной LYNXauto 6PK1033 новый",
       "avito_retail_rub": 1000,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-f464f030a5ef52678cccea",
+      "published_retail_rub": 1000,
+      "release_verification": {
+        "id": "irk-f464f030a5ef52678cccea",
+        "brand": "LYNXauto",
+        "article": "6PK1033",
+        "category": "Ремни приводные",
+        "retail": 1000,
+        "photo": {
+          "filename": "irk-f464f030a5ef52678cccea-f3ad62aa0f05.jpg",
+          "sha256": "f3ad62aa0f0554ce29d117f909c9c8f14f8e4564423a777e6a342f4e9312b8f0",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f464f030a5ef52678cccea-f3ad62aa0f05.jpg",
+          "manufacturer_page_sha256": "6e4a2f2fb4e5e4d61fa4e88ac99a3e5959534b34ed496d38e25d7266ea234b75",
+          "fitment_page_sha256": "cc6349f0af3112aceaa044a7aaf4f333fb1c28bed3b0743a6ab466b2c355d813",
+          "verified_at_utc": "2026-11-17T09:02:06.165150+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:07.716833+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -5818,14 +6722,33 @@
         "manufacturer_original_OE_row_count": 18,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "3865157",
       "manufacturer_OEM_raw": "3865157",
       "fitment_summary": "CITROEN BERLINGO / BERLINGO FIRST Box Body/MPV (M_) 96-11, 1.9 D 70 (MBWJZ, MCWJZ) (WJY (DW8B), WJZ (DW8)), 51 (69), 04/99-12/11, Alternator, [+] AC Compressor, [-] Power Steering, -10/02; CITROEN BERLINGO / BERLINGO FIRST Box Body/MPV (M_) 96-11, 1.9 D 70 4WD (MBWJZ, MCWJZ) (WJY (DW8B), WJZ (DW8)), 51 (69), 07/98-03/06, Alternator, [+] AC Compressor, [-] Power Steering, -10/02; CITROEN BERLINGO / BERLINGO FIRST MPV (MF_, GJK_, GFK_) 96-11, 1.9 D (MFWJZ) (WJY (DW8B), WJZ (DW8)), 51 (70), 07/98-10/05, Alternator, [+] AC Compressor, [-] Power Steering, -10/02",
       "title": "Ремень приводной LYNXauto 6PK1038 новый",
       "avito_retail_rub": 900,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-07608457c2864917162c22",
+      "published_retail_rub": 900,
+      "release_verification": {
+        "id": "irk-07608457c2864917162c22",
+        "brand": "LYNXauto",
+        "article": "6PK1038",
+        "category": "Ремни приводные",
+        "retail": 900,
+        "photo": {
+          "filename": "irk-07608457c2864917162c22-cbad67dee6c3.jpg",
+          "sha256": "cbad67dee6c34a4c7b6165a4a494c537cd6195ec771b0c2989c19fe81d562c11",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-07608457c2864917162c22-cbad67dee6c3.jpg",
+          "manufacturer_page_sha256": "ab5f4f077485b3302384df4da0518bad7d228e5999522223a3adafd40b588eea",
+          "fitment_page_sha256": "2668a072e66b737e95b34d7c4a8d26f1feac66996d4c6c21e853ac33645b86cd",
+          "verified_at_utc": "2026-11-17T09:02:06.323216+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:10.014490+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -5909,14 +6832,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 1
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "8450006328",
       "manufacturer_OEM_raw": "8450006328",
       "fitment_summary": "LADA LARGUS Estate Van (KS0_, RS0_, KSA_) 12-, 1.6 (KS045, RS045) (21129 (P4M)), 78 (106), 09/17-; LADA VESTA (GFL_) 15-, 1.6 (GFL11) (21129), 75 (102), 11/18-; LADA VESTA (GFL_) 15-, 1.6 (GFL11) (21129), 78 (106), 11/15-",
       "title": "Ремень приводной LYNXauto 6PK1039EL новый",
       "avito_retail_rub": 1300,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-7c3322c7d83b0192b78b0b",
+      "published_retail_rub": 1300,
+      "release_verification": {
+        "id": "irk-7c3322c7d83b0192b78b0b",
+        "brand": "LYNXauto",
+        "article": "6PK1039EL",
+        "category": "Ремни приводные",
+        "retail": 1300,
+        "photo": {
+          "filename": "irk-7c3322c7d83b0192b78b0b-c5e87118ec7c.jpg",
+          "sha256": "c5e87118ec7cf5417d9a531cf72fb1bec133aa4518395556155c72bcb359e8fe",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7c3322c7d83b0192b78b0b-c5e87118ec7c.jpg",
+          "manufacturer_page_sha256": "8068324d196002caf661011bb5e3e39058739500d092c357b4630f4f6b80990e",
+          "fitment_page_sha256": "6a2f04a73d7bb635ab344bd71081502e8a789497a60d1ab2b5072d1a2ec894c0",
+          "verified_at_utc": "2026-11-17T09:02:07.736810+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:11.494381+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -5942,7 +6884,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -5968,7 +6911,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -6089,14 +7033,33 @@
         "manufacturer_original_OE_row_count": 29,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287838200",
       "manufacturer_OEM_raw": "11 28 7 838 200",
       "fitment_summary": "AUDI A1 (8X1, 8XK) 10-18, 1.6 TDI (CAYB), 66 (90), 03/11-04/15, Alternator, [+] AC Compressor; AUDI A1 (8X1, 8XK) 10-18, 1.6 TDI (CAYC), 77 (105), 05/10-04/15, Alternator, [+] AC Compressor; AUDI A1 (8X1, 8XK) 10-18, 2.0 TDI (CFHD), 105 (143), 09/11-04/15, Alternator, [+] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK1070 новый",
       "avito_retail_rub": 750,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-860ec38d60062565cff600",
+      "published_retail_rub": 750,
+      "release_verification": {
+        "id": "irk-860ec38d60062565cff600",
+        "brand": "LYNXauto",
+        "article": "6PK1070",
+        "category": "Ремни приводные",
+        "retail": 750,
+        "photo": {
+          "filename": "irk-860ec38d60062565cff600-45c564186161.jpg",
+          "sha256": "45c564186161e31479aeb2ab6dc04070499ef7b0301fdcb1d7bb274ca3b61882",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-860ec38d60062565cff600-45c564186161.jpg",
+          "manufacturer_page_sha256": "6cf7c3dfafe51cb3c596472036663c80ea6018ebf81b2bd8f6871cbf980fbb1f",
+          "fitment_page_sha256": "9f9d87bb35dae3a6c870d5957cd6e4fef942b3484372358f682f4c627d2798a2",
+          "verified_at_utc": "2026-11-17T09:02:08.266105+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:13.778076+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -6217,14 +7180,33 @@
         "manufacturer_original_OE_row_count": 35,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281715770",
       "manufacturer_OEM_raw": "11 28 1 715 770",
       "fitment_summary": "AUDI A1 (8X1, 8XK) 10-18, 1.4 TDI (CUSB), 66 (90), 11/14-10/18; AUDI A1 Sportback (8XA, 8XF) 11-18, 1.4 TDI (CUSB), 66 (90), 11/14-10/18; AUDI A2 (8Z0) 00-05, 1.6 FSI (BAD), 81 (110), 05/02-08/05, Alternator, [+] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK1078 новый",
       "avito_retail_rub": 900,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-3cbd7c7a88b280b8331915",
+      "published_retail_rub": 900,
+      "release_verification": {
+        "id": "irk-3cbd7c7a88b280b8331915",
+        "brand": "LYNXauto",
+        "article": "6PK1078",
+        "category": "Ремни приводные",
+        "retail": 900,
+        "photo": {
+          "filename": "irk-3cbd7c7a88b280b8331915-ebf652a21e7e.jpg",
+          "sha256": "ebf652a21e7e3fa7dadeb628c40151584c26ca50849524332c2c3e821ec5ba1a",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3cbd7c7a88b280b8331915-ebf652a21e7e.jpg",
+          "manufacturer_page_sha256": "b117189b767f6f19e8beacbbf078c1753220097658e14d89cd586406eeed6db9",
+          "fitment_page_sha256": "48a6675ebf322fb3cd3c23c785d886bb38d1cc157408d22b19efd9e4d50d1f54",
+          "verified_at_utc": "2026-11-17T09:02:09.434874+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:16.047266+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -6345,14 +7327,33 @@
         "manufacturer_original_OE_row_count": 40,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5450L0",
       "manufacturer_OEM_raw": "5450.L0",
       "fitment_summary": "AUDI A3 (8P1) 03-12, 1.8 TFSI (BYT, BZB, CDAA), 118 (160), 11/06-08/12, Alternator; AUDI A3 (8P1) 03-12, 1.8 TFSI quattro (CDAA), 118 (160), 07/08-08/12; AUDI A3 (8P1) 03-12, 2.0 TFSI (AXX, BWA, CAWB, CCZA), 147 (200), 09/04-08/12",
       "title": "Ремень приводной LYNXauto 6PK1113 новый",
       "avito_retail_rub": 800,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-e1bb0b82143e1ed4c95425",
+      "published_retail_rub": 800,
+      "release_verification": {
+        "id": "irk-e1bb0b82143e1ed4c95425",
+        "brand": "LYNXauto",
+        "article": "6PK1113",
+        "category": "Ремни приводные",
+        "retail": 800,
+        "photo": {
+          "filename": "irk-e1bb0b82143e1ed4c95425-9d80f252c6d1.jpg",
+          "sha256": "9d80f252c6d12ed8c4d19f66ca07bf5b7df0d53ba9527f299f95f6364bef237f",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e1bb0b82143e1ed4c95425-9d80f252c6d1.jpg",
+          "manufacturer_page_sha256": "e2262a61f6597766214af46c8e51e075a1e91d4bc697343a5d14292cf951c68c",
+          "fitment_page_sha256": "203bab1e7cfe02290d6950c964233b10f7ae87b6ad5d985a59c4694ec7e9035f",
+          "verified_at_utc": "2026-11-17T09:02:09.980213+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:19.174541+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -6473,14 +7474,33 @@
         "manufacturer_original_OE_row_count": 29,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750GE",
       "manufacturer_OEM_raw": "5750.GE",
       "fitment_summary": "AUDI A3 (8L1) 96-03, 1.6 (AEH, AKL, APF), 74 (101), 09/96-05/03, Alternator, [-] AC Compressor; AUDI A3 (8L1) 96-03, 1.6 (AVU, BFQ), 75 (102), 08/00-05/03, Alternator, [-] AC Compressor; AUDI A3 (8L1) 96-03, 1.8 (AGN, APG), 92 (125), 09/96-05/03, Alternator, [-] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK1123 новый",
       "avito_retail_rub": 800,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-d7e8561cf13d6d14389981",
+      "published_retail_rub": 800,
+      "release_verification": {
+        "id": "irk-d7e8561cf13d6d14389981",
+        "brand": "LYNXauto",
+        "article": "6PK1123",
+        "category": "Ремни приводные",
+        "retail": 800,
+        "photo": {
+          "filename": "irk-d7e8561cf13d6d14389981-210df23f184f.jpg",
+          "sha256": "210df23f184fe1c7b532827ff2277d5469ea22758fb3012d89297c47d0831700",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d7e8561cf13d6d14389981-210df23f184f.jpg",
+          "manufacturer_page_sha256": "f6447b6e871a72c00900de2e5664beec4bcdeb9cdc36ca6a8ea8049b919bc931",
+          "fitment_page_sha256": "bb58ef2747caa0370e65dd5e1e0e553335e1645f53ae3a10d627412cb2452bdb",
+          "verified_at_utc": "2026-11-17T09:02:11.170606+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:21.799170+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -6595,14 +7615,33 @@
         "manufacturer_original_OE_row_count": 53,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281470027",
       "manufacturer_OEM_raw": "11 28 1 470 027",
       "fitment_summary": "BMW 7 (E38) 94-01, 750 i, iL (M73 B54, M73 B54), 240 (326), 11/94-07/01; BMW 7 (G11, G12) 15-, 750 d, Ld xDrive (B57 D30 C), 294 (400), 07/16-, Alternator; BMW X5 (G05) 18-, xDrive M 50 d (B57 D30 C), 294 (400), 08/18-",
       "title": "Ремень приводной LYNXauto 6PK1183 новый",
       "avito_retail_rub": 800,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-088a8ac935d909eede5fbb",
+      "published_retail_rub": 800,
+      "release_verification": {
+        "id": "irk-088a8ac935d909eede5fbb",
+        "brand": "LYNXauto",
+        "article": "6PK1183",
+        "category": "Ремни приводные",
+        "retail": 800,
+        "photo": {
+          "filename": "irk-088a8ac935d909eede5fbb-aa9c0ae6d233.jpg",
+          "sha256": "aa9c0ae6d233c1b3e9c6d89adab3bd77abff76811768fa9caac3b28ac334a83b",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-088a8ac935d909eede5fbb-aa9c0ae6d233.jpg",
+          "manufacturer_page_sha256": "9cb9c82456427c244ae664bca7a763e17300c193ff667dd1fb21da175ef8f10a",
+          "fitment_page_sha256": "e18e1552b3f97e187866d265b61cd5b81a90ee00aeacb738d7a08bcf8e241653",
+          "verified_at_utc": "2026-11-17T09:02:11.531775+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:24.000560+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -6702,14 +7741,33 @@
         "manufacturer_original_OE_row_count": 26,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281710958",
       "manufacturer_OEM_raw": "11 28 1 710 958",
       "fitment_summary": "ACURA MDX (YD1) 00-05, 3.5 AWD (J35A4), 193 (262), 08/00-12/05; ACURA RDX 06-15, 3.5 AWD (J35Z2), 204 (277), 01/12-08/15",
       "title": "Ремень приводной LYNXauto 6PK1190 новый",
       "avito_retail_rub": 1000,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-58006ebca4842629feda58",
+      "published_retail_rub": 1000,
+      "release_verification": {
+        "id": "irk-58006ebca4842629feda58",
+        "brand": "LYNXauto",
+        "article": "6PK1190",
+        "category": "Ремни приводные",
+        "retail": 1000,
+        "photo": {
+          "filename": "irk-58006ebca4842629feda58-8ac3ac70654a.jpg",
+          "sha256": "8ac3ac70654a5c4ddcc2ba6c7b60e2be2489dc5c5451e7fe9258e2a54907366b",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-58006ebca4842629feda58-8ac3ac70654a.jpg",
+          "manufacturer_page_sha256": "212bc26d82463baae08a7685a4e6a8d0306de9807c2946e1e83e607ab62d6319",
+          "fitment_page_sha256": "eeb6f718b2df04f07b8853d497af9788564cfe0d3b6a32930e25215a1b62f582",
+          "verified_at_utc": "2026-11-17T09:02:12.740417+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:26.124118+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -6802,14 +7860,33 @@
         "manufacturer_original_OE_row_count": 25,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281741427",
       "manufacturer_OEM_raw": "11 28 1 741 427",
       "fitment_summary": "ACURA MDX (YD1) 00-05, 3.5 AWD (J35A4), 193 (262), 08/00-12/05",
       "title": "Ремень приводной LYNXauto 6PK1195 новый",
       "avito_retail_rub": 950,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-f833e65109ec33976cbe57",
+      "published_retail_rub": 950,
+      "release_verification": {
+        "id": "irk-f833e65109ec33976cbe57",
+        "brand": "LYNXauto",
+        "article": "6PK1195",
+        "category": "Ремни приводные",
+        "retail": 950,
+        "photo": {
+          "filename": "irk-f833e65109ec33976cbe57-eff467bdfd50.jpg",
+          "sha256": "eff467bdfd50928f1db829234c19e77eabf9ae2e63eeb8cafed9dbeb93e287ef",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f833e65109ec33976cbe57-eff467bdfd50.jpg",
+          "manufacturer_page_sha256": "7ba95c23bf493c68911d7ee64e07efc4a21a412886f46ee51fa360c6706d4802",
+          "fitment_page_sha256": "96b6664026c9883aca77bc20db024a24e62d8cf197a1efd4530eb8e4a7b44a6c",
+          "verified_at_utc": "2026-11-17T09:02:13.056857+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:28.019920+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -6843,7 +7920,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -6950,7 +8028,8 @@
       "requires_fresh_API_at_release": true,
       "blockers": [
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -7050,14 +8129,33 @@
         "manufacturer_original_OE_row_count": 41,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1612351580",
       "manufacturer_OEM_raw": "1612351580",
       "fitment_summary": "CADILLAC CTS 02-10, 2.8 (LP1), 158 (215), 03/05-09/07; CADILLAC CTS 02-10, 3.6 (LY7), 189 (257), 03/05-09/07",
       "title": "Ремень приводной LYNXauto 6PK1203 новый",
       "avito_retail_rub": 900,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-5052b157b28613bd341b1e",
+      "published_retail_rub": 900,
+      "release_verification": {
+        "id": "irk-5052b157b28613bd341b1e",
+        "brand": "LYNXauto",
+        "article": "6PK1203",
+        "category": "Ремни приводные",
+        "retail": 900,
+        "photo": {
+          "filename": "irk-5052b157b28613bd341b1e-cd74f41c608b.jpg",
+          "sha256": "cd74f41c608bff9bebfc2aaa391dfe7296fdcac583ad84e68e9b65fd630491cd",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5052b157b28613bd341b1e-cd74f41c608b.jpg",
+          "manufacturer_page_sha256": "2caa0c09df4e53f5855dc913a257509f39fa316fc47df37cff1841ff33241856",
+          "fitment_page_sha256": "e58d1981cc156671bf6975f27ed7ae28b26754d1d40c78df188d74a98f9c99e4",
+          "verified_at_utc": "2026-11-17T09:02:14.209592+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:31.341648+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -7178,14 +8276,33 @@
         "manufacturer_original_OE_row_count": 26,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750QL",
       "manufacturer_OEM_raw": "5750.QL",
       "fitment_summary": "CHEVROLET AVEO Hatchback (T300) 11-15, 1.2 (LDC), 63 (86), 03/11-; CHEVROLET AVEO Hatchback (T300) 11-15, 1.2 (LWD), 51 (69), 03/11-; CHEVROLET AVEO Hatchback (T300) 11-15, 1.4 (LDD), 74 (101), 03/11-",
       "title": "Ремень приводной LYNXauto 6PK1210 новый",
       "avito_retail_rub": 1450,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-b518cea394e00a1f7ca40b",
+      "published_retail_rub": 1450,
+      "release_verification": {
+        "id": "irk-b518cea394e00a1f7ca40b",
+        "brand": "LYNXauto",
+        "article": "6PK1210",
+        "category": "Ремни приводные",
+        "retail": 1450,
+        "photo": {
+          "filename": "irk-b518cea394e00a1f7ca40b-4fbdc41cf5a4.jpg",
+          "sha256": "4fbdc41cf5a49e8cc80dc905bd9544ab880039034caa980d3a6114926f288df1",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b518cea394e00a1f7ca40b-4fbdc41cf5a4.jpg",
+          "manufacturer_page_sha256": "de1e54964d6bd78849932e85f76376b481f98dd28391418927a5182dbac0b522",
+          "fitment_page_sha256": "46edc87803198f40fef9aac2ee86792c629e3a8c9f51d75e10008f31c021f884",
+          "verified_at_utc": "2026-11-17T09:02:14.611163+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:34.240564+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -7306,14 +8423,33 @@
         "manufacturer_original_OE_row_count": 53,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750LE",
       "manufacturer_OEM_raw": "5750.LE",
       "fitment_summary": "CADILLAC CTS 02-10, 2.8 (LP1), 155 (211), 01/08-12/09; CADILLAC CTS 02-10, 3.6 (LLT), 229 (311), 01/08-; CADILLAC CTS 02-10, 3.6 AWD (LLT), 229 (311), 01/08-",
       "title": "Ремень приводной LYNXauto 6PK1218 новый",
       "avito_retail_rub": 800,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-6f1c41b0536c163f578e06",
+      "published_retail_rub": 800,
+      "release_verification": {
+        "id": "irk-6f1c41b0536c163f578e06",
+        "brand": "LYNXauto",
+        "article": "6PK1218",
+        "category": "Ремни приводные",
+        "retail": 800,
+        "photo": {
+          "filename": "irk-6f1c41b0536c163f578e06-37099c37f687.jpg",
+          "sha256": "37099c37f6874a5ba1b236b0bd53621d149b2a9db381b68d99ec2a1480ca3caf",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6f1c41b0536c163f578e06-37099c37f687.jpg",
+          "manufacturer_page_sha256": "f874d15e93238837f64891628e4bd393abbfb34c4845dd684afbe8544d58d7ac",
+          "fitment_page_sha256": "3221f0284c02bb229118d38d1b8bb51f84f7c03ba6c2ca54dc079a35f52e015e",
+          "verified_at_utc": "2026-11-17T09:02:15.711844+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:36.868789+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -7434,14 +8570,33 @@
         "manufacturer_original_OE_row_count": 12,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "55194731",
       "manufacturer_OEM_raw": "55194731",
       "fitment_summary": "FIAT GRANDE PUNTO (199_) 05-15, 1.3 D Multijet (199 A2.000), 55 (75), 10/05-, Alternator, [+] AC Compressor; FIAT GRANDE PUNTO (199_) 05-15, 1.3 D Multijet (199 B2.000), 51 (69), 07/08-; FIAT GRANDE PUNTO (199_) 05-15, 1.3 D Multijet (199 B4.000, 223 A9.000), 62 (84), 04/10-",
       "title": "Ремень приводной LYNXauto 6PK1320 новый",
       "avito_retail_rub": 1150,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-1281c59b07c25d1ab7a89e",
+      "published_retail_rub": 1150,
+      "release_verification": {
+        "id": "irk-1281c59b07c25d1ab7a89e",
+        "brand": "LYNXauto",
+        "article": "6PK1320",
+        "category": "Ремни приводные",
+        "retail": 1150,
+        "photo": {
+          "filename": "irk-1281c59b07c25d1ab7a89e-34ac439d59ce.jpg",
+          "sha256": "34ac439d59ce57688f99a05daba0dc9ea48be2f003e98794d644f9642aeb79e4",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1281c59b07c25d1ab7a89e-34ac439d59ce.jpg",
+          "manufacturer_page_sha256": "9d7ebe42f7adf59c94e1b3910ca4c2051090fc24a6046a9955d4e1352651a9a0",
+          "fitment_page_sha256": "8dc64792753d46bbc79ed25d6e8a4ab850516d837f260bff8772d52fd9a43978",
+          "verified_at_utc": "2026-11-17T09:02:16.125097+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:38.367919+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -7548,14 +8703,33 @@
         "manufacturer_original_OE_row_count": 26,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281403281",
       "manufacturer_OEM_raw": "11 28 1 403 281",
       "fitment_summary": "CHRYSLER CIRRUS 94-00, 2.4 LX (EDZ), 103 (140), 05/94-09/00; CHRYSLER STRATUS (JA) 95-01, 2.4 16 V (EDZ), 103 (140), 12/95-04/01; CHRYSLER STRATUS (JA) 95-01, 2.4 16V (EDZ), 112 (152), 12/95-04/01",
       "title": "Ремень приводной LYNXauto 6PK1368 новый",
       "avito_retail_rub": 950,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-da5a54c1face2c86ecf2b6",
+      "published_retail_rub": 950,
+      "release_verification": {
+        "id": "irk-da5a54c1face2c86ecf2b6",
+        "brand": "LYNXauto",
+        "article": "6PK1368",
+        "category": "Ремни приводные",
+        "retail": 950,
+        "photo": {
+          "filename": "irk-da5a54c1face2c86ecf2b6-32ca1341ff0c.jpg",
+          "sha256": "32ca1341ff0c5a6be4f69e92797fa030fcbc0faa09a00349aba42031c7d3ead2",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-da5a54c1face2c86ecf2b6-32ca1341ff0c.jpg",
+          "manufacturer_page_sha256": "29ace1a368643907a93b704904faa97cdbea0cd401df7e0510b8e171de42fe05",
+          "fitment_page_sha256": "1f9356da1df11baf632820b4ba91586512fc8a4370691f589112aa75543cff3c",
+          "verified_at_utc": "2026-11-17T09:02:17.160650+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:40.908212+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -7669,14 +8843,33 @@
         "manufacturer_original_OE_row_count": 55,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281402971",
       "manufacturer_OEM_raw": "11 28 1 402 971",
       "fitment_summary": "CADILLAC BLS 06-, 1.9 D (Z 19 DTR), 132 (180), 12/07-; CADILLAC BLS 06-, 1.9 D (Z19DTH), 110 (150), 04/06-; CADILLAC BLS Wagon 07-, 1.9 D (Z 19 DTR), 132 (180), 12/07-",
       "title": "Ремень приводной LYNXauto 6PK1413 новый",
       "avito_retail_rub": 1000,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-ce7a47eb795302366f2fdd",
+      "published_retail_rub": 1000,
+      "release_verification": {
+        "id": "irk-ce7a47eb795302366f2fdd",
+        "brand": "LYNXauto",
+        "article": "6PK1413",
+        "category": "Ремни приводные",
+        "retail": 1000,
+        "photo": {
+          "filename": "irk-ce7a47eb795302366f2fdd-e63b45fdc938.jpg",
+          "sha256": "e63b45fdc938886f6f1d43d6518ae6b81f60fe359f85c06bc31f1e94f7a85262",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ce7a47eb795302366f2fdd-e63b45fdc938.jpg",
+          "manufacturer_page_sha256": "215ed1b0971caddc63d71f47485275709fc909ce613044f081cb251daec61caf",
+          "fitment_page_sha256": "32514ba4370d14b9a58136483824568ca5e70cd6c4f75bd77fc643b3711ce312",
+          "verified_at_utc": "2026-11-17T09:02:17.671460+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:42.797075+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -7757,14 +8950,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 7
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750Q4",
       "manufacturer_OEM_raw": "5750.Q4",
       "fitment_summary": "CADILLAC ESCALADE 06-14, 6.0 HYBRID AWD (LZ1), 248 (337), 11/10-",
       "title": "Ремень приводной LYNXauto 6PK1495 новый",
       "avito_retail_rub": 1000,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-af0904a99cc03633984308",
+      "published_retail_rub": 1000,
+      "release_verification": {
+        "id": "irk-af0904a99cc03633984308",
+        "brand": "LYNXauto",
+        "article": "6PK1495",
+        "category": "Ремни приводные",
+        "retail": 1000,
+        "photo": {
+          "filename": "irk-af0904a99cc03633984308-b28b66ce045b.jpg",
+          "sha256": "b28b66ce045b2d95798eecf336604088eab14825b699c6e62e9019187f5ed9e2",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-af0904a99cc03633984308-b28b66ce045b.jpg",
+          "manufacturer_page_sha256": "61612fb964f8db40a74e28c75a1febd29df8cf22ba524a88d1a8d936200bbe7d",
+          "fitment_page_sha256": "53dc01526e8969a58e598975e8d19ee3564c69e8a95ff61a1195396f97a12565",
+          "verified_at_utc": "2026-11-17T09:02:18.659626+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:44.500104+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -7885,14 +9097,33 @@
         "manufacturer_original_OE_row_count": 15,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281401157",
       "manufacturer_OEM_raw": "11 28 1 401 157",
       "fitment_summary": "HYUNDAI ELANTRA III (XD) 00-06, 2.0 CRDi (D4EA), 83 (113), 04/01-07/06; HYUNDAI ELANTRA III Saloon (XD) 00-06, 2.0 CRDi (D4EA), 83 (113), 04/01-07/06; HYUNDAI GRANDEUR (TG) | AZERA 05-11, 2.2 CRDi (D4EB), 110 (150), 06/06-12/11, Alternator",
       "title": "Ремень приводной LYNXauto 6PK1513 новый",
       "avito_retail_rub": 1100,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-08357d8c3beea927c71814",
+      "published_retail_rub": 1100,
+      "release_verification": {
+        "id": "irk-08357d8c3beea927c71814",
+        "brand": "LYNXauto",
+        "article": "6PK1513",
+        "category": "Ремни приводные",
+        "retail": 1100,
+        "photo": {
+          "filename": "irk-08357d8c3beea927c71814-82892d0a4faa.jpg",
+          "sha256": "82892d0a4faa31f444bb3fe8b68262f441b523e9a8717ba1c4148f4c79d851b9",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-08357d8c3beea927c71814-82892d0a4faa.jpg",
+          "manufacturer_page_sha256": "46e176218e9f10f50bc6e2cafca8f77436482b3433e555781a68951e7f16f1e4",
+          "fitment_page_sha256": "ce03b2a32a20c79b700c88cd3c4d2dc5e79c49c960bb2fdb7b11b4c5c8b44809",
+          "verified_at_utc": "2026-11-17T09:02:19.241244+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:46.227083+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -7918,7 +9149,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -7944,7 +9176,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -7970,7 +9203,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -8072,14 +9306,33 @@
         "manufacturer_original_OE_row_count": 42,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281427250",
       "manufacturer_OEM_raw": "11 28 1 427 250",
       "fitment_summary": "AUDI A6 C6 (4F2) 04-11, 2.0 TFSI (BPJ, BYK), 125 (170), 06/05-03/11; AUDI A6 C6 Avant (4F5) 04-11, 2.0 TFSI (BPJ), 125 (170), 06/05-08/11, Alternator, 01/09-",
       "title": "Ремень приводной LYNXauto 6PK1555 новый",
       "avito_retail_rub": 900,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-7afa1cdd72381b0ee8ff81",
+      "published_retail_rub": 900,
+      "release_verification": {
+        "id": "irk-7afa1cdd72381b0ee8ff81",
+        "brand": "LYNXauto",
+        "article": "6PK1555",
+        "category": "Ремни приводные",
+        "retail": 900,
+        "photo": {
+          "filename": "irk-7afa1cdd72381b0ee8ff81-adeb1e51b906.jpg",
+          "sha256": "adeb1e51b906f9a29babf50c23d3ba65296ca17653cff1d9964d4657c33e2c4e",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7afa1cdd72381b0ee8ff81-adeb1e51b906.jpg",
+          "manufacturer_page_sha256": "e303d4a8b13c5c4b1eec8bb4127e44da66abb477f38b7e4d893a5bf04b3513b6",
+          "fitment_page_sha256": "501e8da78acff09770f6f22fada1264072db599e52a6b5c13013229deeae36af",
+          "verified_at_utc": "2026-11-17T09:02:20.178257+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:49.143241+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -8114,7 +9367,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -8199,14 +9453,14 @@
             "3.2 V6 quattro (BDB, BMJ, BUB)",
             "184 (250)",
             "07/03-05/09",
-            "Alternator, [+] AC Compressor, Chassis â -8P-7-103000"
+            "Alternator, [+] AC Compressor, Chassis № -8P-7-103000"
           ],
           [
             "A3 Sportback (8PA) 04-13",
             "3.2 V6 quattro (BDB, BMJ, BUB)",
             "184 (250)",
             "09/04-05/09",
-            "Alternator, [+] AC Compressor, Chassis â -8P-7-103000"
+            "Alternator, [+] AC Compressor, Chassis № -8P-7-103000"
           ],
           [
             "A8 D3 (4E2, 4E8) 02-10",
@@ -8237,14 +9491,34 @@
         "manufacturer_original_OE_row_count": 29,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "85523606",
       "manufacturer_OEM_raw": "8552-3606",
-      "fitment_summary": "AUDI A3 (8P1) 03-12, 3.2 V6 quattro (BDB, BMJ, BUB), 184 (250), 07/03-05/09, Alternator, [+] AC Compressor, Chassis â -8P-7-103000; AUDI A3 Sportback (8PA) 04-13, 3.2 V6 quattro (BDB, BMJ, BUB), 184 (250), 09/04-05/09, Alternator, [+] AC Compressor, Chassis â -8P-7-103000; AUDI A8 D3 (4E2, 4E8) 02-10, 4.0 TDI quattro (ASE), 202 (275), 05/03-07/05, Alternator",
+      "fitment_summary": "AUDI A3 (8P1) 03-12, 3.2 V6 quattro (BDB, BMJ, BUB), 184 (250), 07/03-05/09, Alternator, [+] AC Compressor, Chassis № -8P-7-103000; AUDI A3 Sportback (8PA) 04-13, 3.2 V6 quattro (BDB, BMJ, BUB), 184 (250), 09/04-05/09, Alternator, [+] AC Compressor, Chassis № -8P-7-103000; AUDI A8 D3 (4E2, 4E8) 02-10, 4.0 TDI quattro (ASE), 202 (275), 05/03-07/05, Alternator",
       "title": "Ремень приводной LYNXauto 6PK1623 новый",
       "avito_retail_rub": 1100,
-      "blockers": []
+      "blockers": [],
+      "UTF8_fitment_decoding_corrected": true,
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-01ab13e14fee06704faa31",
+      "published_retail_rub": 1100,
+      "release_verification": {
+        "id": "irk-01ab13e14fee06704faa31",
+        "brand": "LYNXauto",
+        "article": "6PK1623",
+        "category": "Ремни приводные",
+        "retail": 1100,
+        "photo": {
+          "filename": "irk-01ab13e14fee06704faa31-4da53220312f.jpg",
+          "sha256": "4da53220312f67c5958676010ecc887c64277cdd8bc79734f92091fb8f8589f3",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-01ab13e14fee06704faa31-4da53220312f.jpg",
+          "manufacturer_page_sha256": "4e39a6c9a62aa93e8140762fe6e516f8a39e7af5487136f98063ff4a9836361a",
+          "fitment_page_sha256": "17445a3042fb1696e45c35518f9c7cda56b978e61c9db050dbeeaff9d9d29e7f",
+          "verified_at_utc": "2026-11-17T09:06:49.869276+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:07:02.016208+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -8279,7 +9553,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -8400,14 +9675,33 @@
         "manufacturer_original_OE_row_count": 19,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "6180852",
       "manufacturer_OEM_raw": "6 180 852",
       "fitment_summary": "AUDI 80 B4 Avant (8C5) 91-96, 2.6 (ABC), 110 (150), 07/92-01/96; AUDI 80 B4 Avant (8C5) 91-96, 2.6 quattro (ABC), 110 (150), 07/92-07/95; AUDI 80 B4 Avant (8C5) 91-96, 2.8 (AAH), 128 (174), 09/91-01/96",
       "title": "Ремень приводной LYNXauto 6PK1633 новый",
       "avito_retail_rub": 1100,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-122b3c0db3df8561b8a1f5",
+      "published_retail_rub": 1100,
+      "release_verification": {
+        "id": "irk-122b3c0db3df8561b8a1f5",
+        "brand": "LYNXauto",
+        "article": "6PK1633",
+        "category": "Ремни приводные",
+        "retail": 1100,
+        "photo": {
+          "filename": "irk-122b3c0db3df8561b8a1f5-368ac53e6f91.jpg",
+          "sha256": "368ac53e6f91dc85ccb4448903e0ece6449c3941ec0d1b8f276f74de74f385d6",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-122b3c0db3df8561b8a1f5-368ac53e6f91.jpg",
+          "manufacturer_page_sha256": "d15abefaefc7f0debf77f42adb79f3620ae040a0a3a2c779de953199a04383b5",
+          "fitment_page_sha256": "39833afc65d0b0376f48cd260a8f5dbc5ceb8befebf35256c0628ba91ddcb634",
+          "verified_at_utc": "2026-11-17T09:02:21.758968+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:51.397890+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -8528,14 +9822,33 @@
         "manufacturer_original_OE_row_count": 37,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287515316",
       "manufacturer_OEM_raw": "11 28 7 515 316",
       "fitment_summary": "BMW 1 (E81) 06-12, 116 i (N45 B16 A), 85 (115), 09/07-12/11, Alternator, [-] AC Compressor; BMW 1 (E81) 06-12, 118 i (N46 B20 B), 100 (136), 09/06-12/11; BMW 1 (E81) 06-12, 120 i (N43 B20 A), 125 (170), 03/07-09/12, Alternator, [-] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK1640 новый",
       "avito_retail_rub": 1050,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-5a52cd651c0e90df44327c",
+      "published_retail_rub": 1050,
+      "release_verification": {
+        "id": "irk-5a52cd651c0e90df44327c",
+        "brand": "LYNXauto",
+        "article": "6PK1640",
+        "category": "Ремни приводные",
+        "retail": 1050,
+        "photo": {
+          "filename": "irk-5a52cd651c0e90df44327c-f1f8aa25bfb1.jpg",
+          "sha256": "f1f8aa25bfb161e248f34bb54a35bfe49d02b9689c37a9e412ae3614452b26f8",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5a52cd651c0e90df44327c-f1f8aa25bfb1.jpg",
+          "manufacturer_page_sha256": "ea3bcd41cba3b49841aebe301d00187a434e135459b9bdda5938917335b7ef18",
+          "fitment_page_sha256": "08e23aa5d362917e313f84faee320526083c71a7749451d22873a82842abd31c",
+          "verified_at_utc": "2026-11-17T09:02:21.956776+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:53.653280+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -8651,14 +9964,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 9
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "5750M2",
       "manufacturer_OEM_raw": "5750.M2",
       "fitment_summary": "FORD ESCORT CLASSIC (AAL, ABL) 98-00, 1.6 16V (L1E, L1K), 66 (90), 10/98-07/00; FORD ESCORT CLASSIC Turnier (ANL) 99-00, 1.6 16V (L1E, L1K), 66 (90), 02/99-07/00; FORD ESCORT V (AAL, ABL) 90-95, 1.6 i 16V (L1E), 66 (90), 09/92-01/95",
       "title": "Ремень приводной LYNXauto 6PK1650 новый",
       "avito_retail_rub": 1050,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-c229129b50a34944ef2b49",
+      "published_retail_rub": 1050,
+      "release_verification": {
+        "id": "irk-c229129b50a34944ef2b49",
+        "brand": "LYNXauto",
+        "article": "6PK1650",
+        "category": "Ремни приводные",
+        "retail": 1050,
+        "photo": {
+          "filename": "irk-c229129b50a34944ef2b49-54e7a245ad16.jpg",
+          "sha256": "54e7a245ad165751bcd31d4ff8374d79809c5bcbd65ffe032da8c92c7531dcbb",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c229129b50a34944ef2b49-54e7a245ad16.jpg",
+          "manufacturer_page_sha256": "f9254b53adf194265a3e0743a7f6f2210c1009597922ece4c2c77caf24223b6b",
+          "fitment_page_sha256": "2551a3d0d269fc364ec48f612ab4587399a5ba148c7591c47c9235049dd6fa08",
+          "verified_at_utc": "2026-11-17T09:02:24.168653+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:55.429710+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -8758,14 +10090,33 @@
         "manufacturer_original_OE_row_count": 22,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281247284",
       "manufacturer_OEM_raw": "11 28 1 247 284",
       "fitment_summary": "AUDI A3 (8L1) 96-03, 1.9 TDI (AGR, ALH), 66 (90), 09/96-07/01, Alternator, [+] AC Compressor; AUDI A3 (8L1) 96-03, 1.9 TDI (AHF, ASV), 81 (110), 08/97-07/01",
       "title": "Ремень приводной LYNXauto 6PK1660 новый",
       "avito_retail_rub": 1050,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-ee21edcfa8bfcb766363b7",
+      "published_retail_rub": 1050,
+      "release_verification": {
+        "id": "irk-ee21edcfa8bfcb766363b7",
+        "brand": "LYNXauto",
+        "article": "6PK1660",
+        "category": "Ремни приводные",
+        "retail": 1050,
+        "photo": {
+          "filename": "irk-ee21edcfa8bfcb766363b7-6f482c70fbbb.jpg",
+          "sha256": "6f482c70fbbb6c18bd0b3a0047ee2d7ccd21d80535999df9ee3b4c4421a85184",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ee21edcfa8bfcb766363b7-6f482c70fbbb.jpg",
+          "manufacturer_page_sha256": "0af17d1eabda58516c39b0b114c8b1e0035d63f4b23caa465a9fe55e1bc4da0e",
+          "fitment_page_sha256": "880e6f93429a056b7b121000adbb1db40e8d3df095a011bd33016adcd006e4f3",
+          "verified_at_utc": "2026-11-17T09:02:24.035409+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:57.118596+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -8886,14 +10237,33 @@
         "manufacturer_original_OE_row_count": 30,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1025011NE01",
       "manufacturer_OEM_raw": "1025011NE01",
       "fitment_summary": "AUDI 100 C4 Avant (4A5) 90-94, 2.6 (ABC), 110 (150), 03/92-07/94, Alternator, [-] AC Compressor; AUDI 100 C4 Avant (4A5) 90-94, 2.6 (ACZ), 102 (139), 07/93-07/94; AUDI 100 C4 Avant (4A5) 90-94, 2.6 quattro (ABC), 110 (150), 07/92-07/94, Alternator, [-] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK1678 новый",
       "avito_retail_rub": 1100,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-b71e8b5bdfc79e3b053637",
+      "published_retail_rub": 1100,
+      "release_verification": {
+        "id": "irk-b71e8b5bdfc79e3b053637",
+        "brand": "LYNXauto",
+        "article": "6PK1678",
+        "category": "Ремни приводные",
+        "retail": 1100,
+        "photo": {
+          "filename": "irk-b71e8b5bdfc79e3b053637-fc3871dd2904.jpg",
+          "sha256": "fc3871dd2904356a4825e14a779f519bec75f9b915704a310944d98bff57469f",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b71e8b5bdfc79e3b053637-fc3871dd2904.jpg",
+          "manufacturer_page_sha256": "157ed23ae7e66eaa5562c4eb54edd1244f7ece4d5a04f66dcb8d5834ca3f4153",
+          "fitment_page_sha256": "7cd50d3f0a2dadf3daba507c32d1fd1561d94d806233a0f978cc6702d676f4c5",
+          "verified_at_utc": "2026-11-17T09:02:26.355847+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:04:58.805819+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -8971,28 +10341,28 @@
             "2.8 E (AAH)",
             "128 (174)",
             "09/91-07/94",
-            "Alternator, [-] AC Compressor, Chassis â - 4A-M-100000"
+            "Alternator, [-] AC Compressor, Chassis № - 4A-M-100000"
           ],
           [
             "100 C4 Avant (4A5) 90-94",
             "2.8 E quattro (AAH)",
             "128 (174)",
             "09/91-07/94",
-            "Alternator, [-] AC Compressor, Chassis â - 4A-M-100000"
+            "Alternator, [-] AC Compressor, Chassis № - 4A-M-100000"
           ],
           [
             "100 C4 Saloon (4A2) 90-94",
             "2.8 E (AAH)",
             "128 (174)",
             "12/90-07/94",
-            "Alternator, [-] AC Compressor, Chassis â - 4A-M-100000"
+            "Alternator, [-] AC Compressor, Chassis № - 4A-M-100000"
           ],
           [
             "100 C4 Saloon (4A2) 90-94",
             "2.8 E quattro (AAH)",
             "128 (174)",
             "12/90-07/94",
-            "Alternator, [-] AC Compressor, Chassis â - 4A-M-100000"
+            "Alternator, [-] AC Compressor, Chassis № - 4A-M-100000"
           ]
         ],
         "photo_status": "ACTUAL_EXACT_PRODUCT_PHOTO_VISUALLY_VERIFIED",
@@ -9007,14 +10377,34 @@
         "manufacturer_original_OE_row_count": 30,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287795601",
       "manufacturer_OEM_raw": "11 28 7 795 601",
-      "fitment_summary": "AUDI 100 C4 Avant (4A5) 90-94, 2.8 E (AAH), 128 (174), 09/91-07/94, Alternator, [-] AC Compressor, Chassis â - 4A-M-100000; AUDI 100 C4 Avant (4A5) 90-94, 2.8 E quattro (AAH), 128 (174), 09/91-07/94, Alternator, [-] AC Compressor, Chassis â - 4A-M-100000; AUDI 100 C4 Saloon (4A2) 90-94, 2.8 E (AAH), 128 (174), 12/90-07/94, Alternator, [-] AC Compressor, Chassis â - 4A-M-100000",
+      "fitment_summary": "AUDI 100 C4 Avant (4A5) 90-94, 2.8 E (AAH), 128 (174), 09/91-07/94, Alternator, [-] AC Compressor, Chassis № - 4A-M-100000; AUDI 100 C4 Avant (4A5) 90-94, 2.8 E quattro (AAH), 128 (174), 09/91-07/94, Alternator, [-] AC Compressor, Chassis № - 4A-M-100000; AUDI 100 C4 Saloon (4A2) 90-94, 2.8 E (AAH), 128 (174), 12/90-07/94, Alternator, [-] AC Compressor, Chassis № - 4A-M-100000",
       "title": "Ремень приводной LYNXauto 6PK1685 новый",
       "avito_retail_rub": 1150,
-      "blockers": []
+      "blockers": [],
+      "UTF8_fitment_decoding_corrected": true,
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-812c9825b21f99df7091ed",
+      "published_retail_rub": 1150,
+      "release_verification": {
+        "id": "irk-812c9825b21f99df7091ed",
+        "brand": "LYNXauto",
+        "article": "6PK1685",
+        "category": "Ремни приводные",
+        "retail": 1150,
+        "photo": {
+          "filename": "irk-812c9825b21f99df7091ed-5c195a9377a9.jpg",
+          "sha256": "5c195a9377a920500e57b7d44b44906ca2cf4bb085bed903a4f7d38bcaaf52d9",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-812c9825b21f99df7091ed-5c195a9377a9.jpg",
+          "manufacturer_page_sha256": "38bcb65e43b942b9662d4cc34abd5fd16247458498fe43de9e4e13ca110a92c1",
+          "fitment_page_sha256": "0ff6480c648e32fd9deacb1fd9052422883982d36ad63ebdf4d301c854ef3ee8",
+          "verified_at_utc": "2026-11-17T09:06:51.066400+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:07:04.793725+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -9128,14 +10518,33 @@
         "manufacturer_original_OE_row_count": 47,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11281437869",
       "manufacturer_OEM_raw": "11 28 1 437 869",
       "fitment_summary": "AUDI 100 C4 Avant (4A5) 90-94, 2.4 D (AAS), 60 (82), 12/90-07/94; AUDI 100 C4 Avant (4A5) 90-94, 2.5 TDI (AAT, ABP), 85 (115), 12/90-07/94; AUDI 100 C4 Saloon (4A2) 90-94, 2.4 D (AAS), 60 (82), 12/90-07/94",
       "title": "Ремень приводной LYNXauto 6PK1708 новый",
       "avito_retail_rub": 1150,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-abc56600a4991146c04dc8",
+      "published_retail_rub": 1150,
+      "release_verification": {
+        "id": "irk-abc56600a4991146c04dc8",
+        "brand": "LYNXauto",
+        "article": "6PK1708",
+        "category": "Ремни приводные",
+        "retail": 1150,
+        "photo": {
+          "filename": "irk-abc56600a4991146c04dc8-6d3f741783d1.jpg",
+          "sha256": "6d3f741783d15be840b8f2f9b0a60f5a4ac52781842f39a8e458f796197ed2dc",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-abc56600a4991146c04dc8-6d3f741783d1.jpg",
+          "manufacturer_page_sha256": "f6a5e53ef5b6b454d1df8564234a6c48b0126e7a69c638c3166e039e443f954d",
+          "fitment_page_sha256": "37e231968ff50bd906627a7cd869c756c72fad931712cbeb127cca954b33742d",
+          "verified_at_utc": "2026-11-17T09:02:28.122512+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:01.119578+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -9219,14 +10628,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 8
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "04891804AA",
       "manufacturer_OEM_raw": "04891 804AA",
       "fitment_summary": "CHRYSLER SEBRING (JS) 07-10, 2.0 CRD (ECD), 103 (140), 07/07-12/10",
       "title": "Ремень приводной LYNXauto 6PK1730 новый",
       "avito_retail_rub": 1150,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-cfa90287ff59455d5f7252",
+      "published_retail_rub": 1150,
+      "release_verification": {
+        "id": "irk-cfa90287ff59455d5f7252",
+        "brand": "LYNXauto",
+        "article": "6PK1730",
+        "category": "Ремни приводные",
+        "retail": 1150,
+        "photo": {
+          "filename": "irk-cfa90287ff59455d5f7252-52c33bd56e2b.jpg",
+          "sha256": "52c33bd56e2bb5134b72971808e4d471c2e5b618f03710d33cb735cb7651b679",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cfa90287ff59455d5f7252-52c33bd56e2b.jpg",
+          "manufacturer_page_sha256": "6d60e154625ec235d5d25c5c79983268d80c435f2cdeebcb27c3b73aedda0c15",
+          "fitment_page_sha256": "35f17065eb398fd0c6033bc9330d648da57501f3851a8ea957c9740b40754a82",
+          "verified_at_utc": "2026-11-17T09:02:28.089603+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:03.826776+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -9347,14 +10775,33 @@
         "manufacturer_original_OE_row_count": 26,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287794248",
       "manufacturer_OEM_raw": "11 28 7 794 248",
       "fitment_summary": "AUDI A4 B5 (8D2) 94-01, 2.4 (AGA, ALF, AML, APS, ARJ), 121 (165), 03/97-11/00, Alternator, [-] AC Compressor; AUDI A4 B5 (8D2) 94-01, 2.4 (AJG, AMM, APZ), 120 (163), 08/97-11/00, Alternator, [-] AC Compressor; AUDI A4 B5 (8D2) 94-01, 2.4 quattro (AGA, ALF, AML, APS, ARJ), 121 (165), 03/97-11/00, Alternator, [-] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK1763 новый",
       "avito_retail_rub": 1200,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-e96c3d2239280c23b905e1",
+      "published_retail_rub": 1200,
+      "release_verification": {
+        "id": "irk-e96c3d2239280c23b905e1",
+        "brand": "LYNXauto",
+        "article": "6PK1763",
+        "category": "Ремни приводные",
+        "retail": 1200,
+        "photo": {
+          "filename": "irk-e96c3d2239280c23b905e1-1db8461361dd.jpg",
+          "sha256": "1db8461361dda41819a4a1a1c427727cc8cf7aca2cd2f7c5c36f7bd5afed40fd",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e96c3d2239280c23b905e1-1db8461361dd.jpg",
+          "manufacturer_page_sha256": "cc453fd8c7804dcaecc4ef4f3e74105ab3016f02135c09ac671c0a5ca344d9f7",
+          "fitment_page_sha256": "59febe71926cde23bd3b6c70aafd71aaf297106a9bc00f6bca389d7e5da90b6c",
+          "verified_at_utc": "2026-11-17T09:02:30.437860+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:05.745955+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -9388,7 +10835,8 @@
         "EXACT_MANUFACTURER_IDENTITY_OR_OEM_NOT_CONFIRMED",
         "MANUFACTURER_FITMENT_NOT_CONFIRMED",
         "EXACT_REAL_PHOTO_NOT_VISUALLY_VERIFIED"
-      ]
+      ],
+      "release_status": "BLOCKED_PREVIOUS_SOURCE_OR_API"
     },
     {
       "brand": "LYNXauto",
@@ -9509,14 +10957,33 @@
         "manufacturer_original_OE_row_count": 57,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287800485",
       "manufacturer_OEM_raw": "11 28 7 800 485",
       "fitment_summary": "BMW 1 (E81) 06-12, 116 d (N47 D20 A, N47 D20 C), 85 (116), 11/08-12/11; BMW 1 (E81) 06-12, 118 d (N47 D20 A, N47 D20 C), 105 (143), 09/06-12/11, Alternator, [-] AC Compressor, [-] Electro Power Steering; BMW 1 (E81) 06-12, 120 d (N47 D20 A, N47 D20 C), 120 (163), 03/07-12/11",
       "title": "Ремень приводной LYNXauto 6PK1795 новый",
       "avito_retail_rub": 1100,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-1e7ca7c4100ca69f6a21e5",
+      "published_retail_rub": 1100,
+      "release_verification": {
+        "id": "irk-1e7ca7c4100ca69f6a21e5",
+        "brand": "LYNXauto",
+        "article": "6PK1795",
+        "category": "Ремни приводные",
+        "retail": 1100,
+        "photo": {
+          "filename": "irk-1e7ca7c4100ca69f6a21e5-7bf6b003a5e8.jpg",
+          "sha256": "7bf6b003a5e8ee5d7f4fa284f205a50a63306c48114b4b09cc3dc4a0526acc9f",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1e7ca7c4100ca69f6a21e5-7bf6b003a5e8.jpg",
+          "manufacturer_page_sha256": "e33aca8eabc95fcc7bd3058f8fe2650e66726cd758b37c7fb12d128f88ccadde",
+          "fitment_page_sha256": "afa8893f7ec146df7d108b73ee80ef9d5295fcb7632431fb1c9bea596e108ca8",
+          "verified_at_utc": "2026-11-17T09:02:30.306040+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:07.880065+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -9637,14 +11104,33 @@
         "manufacturer_original_OE_row_count": 15,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "11287532144",
       "manufacturer_OEM_raw": "11 28 7 532 144",
       "fitment_summary": "BMW 1 (E81) 06-12, 130 i (N52 B30 A, N52 B30 B, N52 B30 BF), 190 (258), 09/06-12/11; BMW 1 (E81) 06-12, 130 i (N52 B30 A, N52 B30 B, N52 B30 BF), 195 (265), 09/06-12/11; BMW 1 (E87) 04-11, 130 i (N52 B30 A, N52 B30 AF, N52 B30 B, N52 B30 BF), 190 (258), 03/07-06/11",
       "title": "Ремень приводной LYNXauto 6PK1830 новый",
       "avito_retail_rub": 1350,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-7d4eec9d8a8e04d99aa584",
+      "published_retail_rub": 1350,
+      "release_verification": {
+        "id": "irk-7d4eec9d8a8e04d99aa584",
+        "brand": "LYNXauto",
+        "article": "6PK1830",
+        "category": "Ремни приводные",
+        "retail": 1350,
+        "photo": {
+          "filename": "irk-7d4eec9d8a8e04d99aa584-7cd58719c395.jpg",
+          "sha256": "7cd58719c395bb1ed8365e21a27c3792a46fd229923b3818810194f50274f674",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7d4eec9d8a8e04d99aa584-7cd58719c395.jpg",
+          "manufacturer_page_sha256": "471216f47b85c099897d8ca42a5b6f3ff75e376dbe70b518645883f723de20b6",
+          "fitment_page_sha256": "a0a5c3fe253f44f328f2168f62a9ba32139bf80b1a7109783b39d48fddd8ee82",
+          "verified_at_utc": "2026-11-17T09:02:32.679880+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:10.333730+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -9765,14 +11251,33 @@
         "manufacturer_original_OE_row_count": 26,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "9004831064",
       "manufacturer_OEM_raw": "90048-31064",
       "fitment_summary": "AUDI A4 B5 (8D2) 94-01, 2.4 (AGA, ALF, AML, APS, ARJ), 121 (165), 03/97-11/00, Alternator, [+] AC Compressor; AUDI A4 B5 (8D2) 94-01, 2.4 (AJG, AMM, APZ), 120 (163), 08/97-11/00, Alternator, [+] AC Compressor; AUDI A4 B5 (8D2) 94-01, 2.4 quattro (AGA, ALF, AML, APS, ARJ), 121 (165), 03/97-11/00, Alternator, [+] AC Compressor",
       "title": "Ремень приводной LYNXauto 6PK1880 новый",
       "avito_retail_rub": 1100,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-abca65c46851484d963da5",
+      "published_retail_rub": 1100,
+      "release_verification": {
+        "id": "irk-abca65c46851484d963da5",
+        "brand": "LYNXauto",
+        "article": "6PK1880",
+        "category": "Ремни приводные",
+        "retail": 1100,
+        "photo": {
+          "filename": "irk-abca65c46851484d963da5-c56732ae7443.jpg",
+          "sha256": "c56732ae7443fe4fd90ea1a0ba2e82233e3d5c3d6457026d90f5b14648e77132",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-abca65c46851484d963da5-c56732ae7443.jpg",
+          "manufacturer_page_sha256": "fe2e2926c576330756399c4347f29c69a17d3908967ac8e9167530623f646d21",
+          "fitment_page_sha256": "1a4d6d73fed794f0c2f8323024d1cfe10f3518ccc85712a6ca2dea9e90031dfd",
+          "verified_at_utc": "2026-11-17T09:02:32.698722+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:12.207412+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -9884,14 +11389,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 8
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "046510641F",
       "manufacturer_OEM_raw": "04651 0641F",
       "fitment_summary": "FORD FOCUS I (DAW, DBW) 98-04, 1.4 16V (FXDA, FXDB, FXDC, FXDD), 55 (75), 10/98-11/04, Alternator, [+] AC Compressor, 03/02-; FORD FOCUS I (DAW, DBW) 98-04, 1.4 16V (FXDA), 55 (75), 10/98-09/99, Alternator, [+] AC Compressor, 03/02-; FORD FOCUS I (DAW, DBW) 98-04, 1.6 16V (FYDA, FYDB, FYDC, FYDD, FYDH), 74 (100), 10/98-11/04, Alternator, [+] AC Compressor, 03/02-",
       "title": "Ремень приводной LYNXauto 6PK1910 новый",
       "avito_retail_rub": 1450,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-9abeeaf69d717609a651f6",
+      "published_retail_rub": 1450,
+      "release_verification": {
+        "id": "irk-9abeeaf69d717609a651f6",
+        "brand": "LYNXauto",
+        "article": "6PK1910",
+        "category": "Ремни приводные",
+        "retail": 1450,
+        "photo": {
+          "filename": "irk-9abeeaf69d717609a651f6-3055fef8cf13.jpg",
+          "sha256": "3055fef8cf133e4fb4536bbdf2cfcb3d7c79d306f012a444b2c0cdc9be94d79a",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9abeeaf69d717609a651f6-3055fef8cf13.jpg",
+          "manufacturer_page_sha256": "e4ca77c91b1f84bd8e934efb9cd018b3502d9841b2086115a2f7d7da987e76d2",
+          "fitment_page_sha256": "303dea281782a7f962f5a4c5367f64de092e3b97ba932f3c23d9961270db5156",
+          "verified_at_utc": "2026-11-17T09:02:35.082858+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:13.547977+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -9983,14 +11507,33 @@
         "photo_format": "JPEG",
         "manufacturer_original_OE_row_count": 3
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "1137008",
       "manufacturer_OEM_raw": "1 137 008",
       "fitment_summary": "FORD FOCUS I (DAW, DBW) 98-04, 1.4 16V (FXDA, FXDB, FXDC, FXDD), 55 (75), 10/98-11/04; FORD FOCUS I (DAW, DBW) 98-04, 1.6 16V (FYDA, FYDB, FYDC, FYDD, FYDH), 74 (100), 10/98-11/04; FORD FOCUS I Saloon (DFW) 99-05, 1.4 16V (FXDA, FXDB, FXDC, FXDD), 55 (75), 02/99-11/04",
       "title": "Ремень приводной LYNXauto 6PK1915 новый",
       "avito_retail_rub": 1750,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-6ffcac567e9086615c17f3",
+      "published_retail_rub": 1750,
+      "release_verification": {
+        "id": "irk-6ffcac567e9086615c17f3",
+        "brand": "LYNXauto",
+        "article": "6PK1915",
+        "category": "Ремни приводные",
+        "retail": 1750,
+        "photo": {
+          "filename": "irk-6ffcac567e9086615c17f3-1e11a618111f.jpg",
+          "sha256": "1e11a618111fb0b15a1d4d3a9c1eccc601eb413b6f7666c1393acd8b19bba0cc",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6ffcac567e9086615c17f3-1e11a618111f.jpg",
+          "manufacturer_page_sha256": "4f224f05d947ed692611ba7d2ad83c282fee68f7f2a64829c3bf3233128eb4de",
+          "fitment_page_sha256": "1cd7cec418d6d79db4be05d9b026be63e68a78f82eeb9fb317c2e2d1c4229d79",
+          "verified_at_utc": "2026-11-17T09:02:35.086392+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:15.414653+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -10111,14 +11654,33 @@
         "manufacturer_original_OE_row_count": 13,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "H150120100",
       "manufacturer_OEM_raw": "H15012-0100",
       "fitment_summary": "FORD SCORPIO I (GAE, GGE) 85-94, 2.0 i (N9D), 88 (120), 05/89-09/94; FORD SCORPIO I Saloon (GGE) 86-94, 2.0 i (N9D), 88 (120), 05/89-09/94; FORD SCORPIO I Saloon (GGE) 86-94, 2.0 i (N9F), 85 (115), 02/92-09/94",
       "title": "Ремень приводной LYNXauto 6PK1950 новый",
       "avito_retail_rub": 1950,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-6d8c10055f258c3451ebb0",
+      "published_retail_rub": 1950,
+      "release_verification": {
+        "id": "irk-6d8c10055f258c3451ebb0",
+        "brand": "LYNXauto",
+        "article": "6PK1950",
+        "category": "Ремни приводные",
+        "retail": 1950,
+        "photo": {
+          "filename": "irk-6d8c10055f258c3451ebb0-cf6a382bb2ba.jpg",
+          "sha256": "cf6a382bb2ba0389c7b362517f8d9ebbefef77e01301d68f5c8b3c17914c428d",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6d8c10055f258c3451ebb0-cf6a382bb2ba.jpg",
+          "manufacturer_page_sha256": "b9ea99e8d23c1c89aed2254f8ad2eca32ebbd10ccce7d35fc804702de64b96dd",
+          "fitment_page_sha256": "45cff5808143ac3bd73812c4abf3286013afd7a54ec20752a836cdad29926381",
+          "verified_at_utc": "2026-11-17T09:02:37.358016+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:16.945664+00:00"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -10211,17 +11773,36 @@
         "manufacturer_original_OE_row_count": 11,
         "original_OE_rows_are_review_excerpt": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "requires_fresh_API_at_release": true,
       "selected_OEM": "05184442AB",
       "manufacturer_OEM_raw": "05184 442AB",
       "fitment_summary": "CHRYSLER GRAND VOYAGER V (RT) 07-, 3.6 (ERB), 208 (283), 02/11-",
       "title": "Ремень приводной LYNXauto 6PK1955 новый",
       "avito_retail_rub": 1350,
-      "blockers": []
+      "blockers": [],
+      "release_status": "PUBLISHED_IN_XML",
+      "published_id": "irk-258d5e766c16bc5028b6a1",
+      "published_retail_rub": 1350,
+      "release_verification": {
+        "id": "irk-258d5e766c16bc5028b6a1",
+        "brand": "LYNXauto",
+        "article": "6PK1955",
+        "category": "Ремни приводные",
+        "retail": 1350,
+        "photo": {
+          "filename": "irk-258d5e766c16bc5028b6a1-a718a1a26761.jpg",
+          "sha256": "a718a1a26761dc326bedc94baed185b3cf6d472577ed366a458b6f06ca58fd99",
+          "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-258d5e766c16bc5028b6a1-a718a1a26761.jpg",
+          "manufacturer_page_sha256": "594ab961f2fb20cf093fad2e8e6f69e574f9e299cfbb64b5a3c8d9ea43815b27",
+          "fitment_page_sha256": "60668bc1745a6fa4fe8fc6a06969b50aa1df9f20b2865d3e770f7b346c912efe",
+          "verified_at_utc": "2026-11-17T09:02:37.280830+00:00"
+        },
+        "API_checked_at_utc": "2026-11-17T09:05:19.050556+00:00"
+      }
     }
   ],
-  "publication_performed": false,
+  "publication_performed": true,
   "selection_excludes_approved_archive_and_all_source04_items": true,
   "API_workflow_run_id": 44046227222,
   "API_positive_count": 94,
@@ -10232,8 +11813,15 @@
     "SOURCE_AND_API_VERIFIED_REVIEW_DRAFT_ONLY": 82,
     "BLOCKED": 18
   },
-  "XML_status": "UNPUBLISHED_REVIEW_DRAFT_ONLY",
-  "remaining_release_checks": [
+  "XML_status": "82_PUBLISHED_18_BLOCKED",
+  "published_count": 82,
+  "release_status_counts": {
+    "PUBLISHED_IN_XML": 82,
+    "BLOCKED_PREVIOUS_SOURCE_OR_API": 18
+  },
+  "release_audit_file": "input/avito_source05_release_20261117.json",
+  "Avito_import_and_moderation_verified": false,
+  "remaining_release_checks_for_unpublished": [
     "fresh primary sources and API",
     "public exact photo SHA256",
     "extend exact scope in both regular refreshes and CDN",
