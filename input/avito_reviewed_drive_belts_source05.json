@@ -225,7 +225,7 @@
       "article": "5PK0933",
       "category": "Ремни приводные",
       "oem": "7721293",
-      "fitment": "FIAT PUNTO (176_) 93-99, 1.7 TD (176 A3.000), 51 (69), 01/94-09/99; FIAT PUNTO (176_) 93-99, 1.7 TD (176 A5.000), 52 (71), 01/94-09/99, Alternator, [-] AC Compressor, eng. â -01815651",
+      "fitment": "FIAT PUNTO (176_) 93-99, 1.7 TD (176 A3.000), 51 (69), 01/94-09/99; FIAT PUNTO (176_) 93-99, 1.7 TD (176 A5.000), 52 (71), 01/94-09/99, Alternator, [-] AC Compressor, eng. № -01815651",
       "manufacturer_page": "https://ecatalogue.lynxauto.jp/5PK0933.html",
       "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FIAT&product_id=15610",
       "photo_url": "https://ecatalogue.lynxauto.jp/image/5PK0933.jpg",
@@ -236,7 +236,8 @@
       ],
       "exact_sku_verified": true,
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00"
+      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00",
+      "UTF8_fitment_decoding_corrected": true
     },
     {
       "brand": "LYNXauto",
@@ -315,7 +316,7 @@
       "article": "5PK1083",
       "category": "Ремни приводные",
       "oem": "6543CH",
-      "fitment": "FIAT DUCATO Bus (230_) 94-02, 2.5 D Combinato (8140.67), 62 (84), 08/94-04/02, AC Compressor, eng. â -2669395; FIAT DUCATO Bus (230_) 94-02, 2.5 TDI 4WD (8140.47), 85 (116), 04/97-04/02, AC Compressor, =4x4, eng. â -2669395; FIAT DUCATO Bus (230_) 94-02, 2.5 TDI Panorama/Combinato (8140.47), 85 (116), 03/94-04/02, AC Compressor, =4x4, eng. â -2669395",
+      "fitment": "FIAT DUCATO Bus (230_) 94-02, 2.5 D Combinato (8140.67), 62 (84), 08/94-04/02, AC Compressor, eng. № -2669395; FIAT DUCATO Bus (230_) 94-02, 2.5 TDI 4WD (8140.47), 85 (116), 04/97-04/02, AC Compressor, =4x4, eng. № -2669395; FIAT DUCATO Bus (230_) 94-02, 2.5 TDI Panorama/Combinato (8140.47), 85 (116), 03/94-04/02, AC Compressor, =4x4, eng. № -2669395",
       "manufacturer_page": "https://ecatalogue.lynxauto.jp/5PK1083.html",
       "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FIAT&product_id=15627",
       "photo_url": "https://ecatalogue.lynxauto.jp/image/5PK1083.jpg",
@@ -326,7 +327,8 @@
       ],
       "exact_sku_verified": true,
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00"
+      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00",
+      "UTF8_fitment_decoding_corrected": true
     },
     {
       "brand": "LYNXauto",
@@ -423,7 +425,7 @@
       "article": "5PK1303",
       "category": "Ремни приводные",
       "oem": "1025024GG010XZ",
-      "fitment": "AUDI A4 B5 (8D2) 94-01, 1.6 (ADP, AHL, ANA, ARM), 74 (100), 11/94-10/00, Alternator; AUDI A4 B5 (8D2) 94-01, 1.6 (ALZ), 75 (102), 07/00-11/00, ALT, Chassis â-8D-1-200000; AUDI A4 B5 (8D2) 94-01, 1.8 (ADR, APT, ARG, AVV), 92 (125), 11/94-11/00, Alternator",
+      "fitment": "AUDI A4 B5 (8D2) 94-01, 1.6 (ADP, AHL, ANA, ARM), 74 (100), 11/94-10/00, Alternator; AUDI A4 B5 (8D2) 94-01, 1.6 (ALZ), 75 (102), 07/00-11/00, ALT, Chassis №-8D-1-200000; AUDI A4 B5 (8D2) 94-01, 1.8 (ADR, APT, ARG, AVV), 92 (125), 11/94-11/00, Alternator",
       "manufacturer_page": "https://ecatalogue.lynxauto.jp/5PK1303.html",
       "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15651",
       "photo_url": "https://ecatalogue.lynxauto.jp/image/5PK1303.jpg",
@@ -434,7 +436,8 @@
       ],
       "exact_sku_verified": true,
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00"
+      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00",
+      "UTF8_fitment_decoding_corrected": true
     },
     {
       "brand": "LYNXauto",
@@ -1179,7 +1182,7 @@
       "article": "6PK1623",
       "category": "Ремни приводные",
       "oem": "85523606",
-      "fitment": "AUDI A3 (8P1) 03-12, 3.2 V6 quattro (BDB, BMJ, BUB), 184 (250), 07/03-05/09, Alternator, [+] AC Compressor, Chassis â -8P-7-103000; AUDI A3 Sportback (8PA) 04-13, 3.2 V6 quattro (BDB, BMJ, BUB), 184 (250), 09/04-05/09, Alternator, [+] AC Compressor, Chassis â -8P-7-103000; AUDI A8 D3 (4E2, 4E8) 02-10, 4.0 TDI quattro (ASE), 202 (275), 05/03-07/05, Alternator",
+      "fitment": "AUDI A3 (8P1) 03-12, 3.2 V6 quattro (BDB, BMJ, BUB), 184 (250), 07/03-05/09, Alternator, [+] AC Compressor, Chassis № -8P-7-103000; AUDI A3 Sportback (8PA) 04-13, 3.2 V6 quattro (BDB, BMJ, BUB), 184 (250), 09/04-05/09, Alternator, [+] AC Compressor, Chassis № -8P-7-103000; AUDI A8 D3 (4E2, 4E8) 02-10, 4.0 TDI quattro (ASE), 202 (275), 05/03-07/05, Alternator",
       "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK1623.html",
       "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15811",
       "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK1623.jpg",
@@ -1190,7 +1193,8 @@
       ],
       "exact_sku_verified": true,
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00"
+      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00",
+      "UTF8_fitment_decoding_corrected": true
     },
     {
       "brand": "LYNXauto",
@@ -1287,7 +1291,7 @@
       "article": "6PK1685",
       "category": "Ремни приводные",
       "oem": "11287795601",
-      "fitment": "AUDI 100 C4 Avant (4A5) 90-94, 2.8 E (AAH), 128 (174), 09/91-07/94, Alternator, [-] AC Compressor, Chassis â - 4A-M-100000; AUDI 100 C4 Avant (4A5) 90-94, 2.8 E quattro (AAH), 128 (174), 09/91-07/94, Alternator, [-] AC Compressor, Chassis â - 4A-M-100000; AUDI 100 C4 Saloon (4A2) 90-94, 2.8 E (AAH), 128 (174), 12/90-07/94, Alternator, [-] AC Compressor, Chassis â - 4A-M-100000",
+      "fitment": "AUDI 100 C4 Avant (4A5) 90-94, 2.8 E (AAH), 128 (174), 09/91-07/94, Alternator, [-] AC Compressor, Chassis № - 4A-M-100000; AUDI 100 C4 Avant (4A5) 90-94, 2.8 E quattro (AAH), 128 (174), 09/91-07/94, Alternator, [-] AC Compressor, Chassis № - 4A-M-100000; AUDI 100 C4 Saloon (4A2) 90-94, 2.8 E (AAH), 128 (174), 12/90-07/94, Alternator, [-] AC Compressor, Chassis № - 4A-M-100000",
       "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK1685.html",
       "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15819",
       "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK1685.jpg",
@@ -1298,7 +1302,8 @@
       ],
       "exact_sku_verified": true,
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
-      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00"
+      "source_reviewed_at_utc": "2026-11-17T08:40:55.854414+00:00",
+      "UTF8_fitment_decoding_corrected": true
     },
     {
       "brand": "LYNXauto",
