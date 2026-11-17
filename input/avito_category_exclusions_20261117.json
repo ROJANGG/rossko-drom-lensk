@@ -9,7 +9,84 @@
       "confirmed_product_type": "CVJ grease, 90 g",
       "manufacturer_reference": "https://ecatalogue.lynxauto.jp/index.php?product_id=23017&route=product%2Fproduct",
       "no_API_request_in_this_batch": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1084",
+      "manufacturer_article": "SM-1084",
+      "incorrect_category": "Ступичные подшипники",
+      "confirmed_product_type": "Подшипник полуоси",
+      "manufacturer_product_title": "Подшипник полуоси Арт. SM-1084",
+      "manufacturer_reference": "https://sufix.pro/SM-1084.html",
+      "manufacturer_page_sha256": "54fb5d8870031fcad70928870a9a333951ae6debdc530fcdf4d47d388e34a0ac",
+      "reason": "Axle-shaft bearing, not the requested wheel-bearing category"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1182",
+      "manufacturer_article": "SM-1182",
+      "incorrect_category": "Ступичные подшипники",
+      "confirmed_product_type": "Подшипник полуоси",
+      "manufacturer_product_title": "Подшипник полуоси Арт. SM-1182",
+      "manufacturer_reference": "https://sufix.pro/SM-1182.html",
+      "manufacturer_page_sha256": "5bda15ccf9a384abfe1cee2c6c01897495010172e8be81ecbae8231655d4c3ce",
+      "reason": "Axle-shaft bearing, not the requested wheel-bearing category"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1191",
+      "manufacturer_article": "SM-1191",
+      "incorrect_category": "Ступичные подшипники",
+      "confirmed_product_type": "Подшипник полуоси",
+      "manufacturer_product_title": "Подшипник полуоси Арт. SM-1191",
+      "manufacturer_reference": "https://sufix.pro/SM-1191.html",
+      "manufacturer_page_sha256": "61ef24d8b200a1b50ca766b3ac0be1a675c113c244609cd0b00985f143b176f2",
+      "reason": "Axle-shaft bearing, not the requested wheel-bearing category"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1217",
+      "manufacturer_article": "SM-1217",
+      "incorrect_category": "Ступичные подшипники",
+      "confirmed_product_type": "Подшипник полуоси",
+      "manufacturer_product_title": "Подшипник полуоси Арт. SM-1217",
+      "manufacturer_reference": "https://sufix.pro/SM-1217.html",
+      "manufacturer_page_sha256": "4dcd5020709e0ad767732635fa0230702452b240e12faa028b61541f4f6cfe3e",
+      "reason": "Axle-shaft bearing, not the requested wheel-bearing category"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1235",
+      "manufacturer_article": "SM-1235",
+      "incorrect_category": "Ступичные подшипники",
+      "confirmed_product_type": "Подшипник полуоси",
+      "manufacturer_product_title": "Подшипник полуоси Арт. SM-1235",
+      "manufacturer_reference": "https://sufix.pro/SM-1235.html",
+      "manufacturer_page_sha256": "d98c42f7598f1451eb5240d245cf107713465742ab108590689a3da762228092",
+      "reason": "Axle-shaft bearing, not the requested wheel-bearing category"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1332",
+      "manufacturer_article": "SM-1332",
+      "incorrect_category": "Ступичные подшипники",
+      "confirmed_product_type": "Подшипник полуоси",
+      "manufacturer_product_title": "Подшипник полуоси Арт. SM-1332",
+      "manufacturer_reference": "https://sufix.pro/SM-1332.html",
+      "manufacturer_page_sha256": "f0e3f99686fe942e3dedd423d188403a991cfa24fa60487c4d722d0e4c87fc6d",
+      "reason": "Axle-shaft bearing, not the requested wheel-bearing category"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1429",
+      "manufacturer_article": "SM-1429",
+      "incorrect_category": "Ступичные подшипники",
+      "confirmed_product_type": "Подшипник полуоси",
+      "manufacturer_product_title": "Подшипник полуоси Арт. SM-1429",
+      "manufacturer_reference": "https://sufix.pro/SM-1429.html",
+      "manufacturer_page_sha256": "d2d6fc659972d0bf66fafe0ba59cc7e296e00be0e8c6dd49a23955bf08c49e00",
+      "reason": "Axle-shaft bearing, not the requested wheel-bearing category"
     }
   ],
-  "policy": "Exclude only this manufacturer-confirmed non-joint SKU; do not silently remove candidates from frozen historical scan"
+  "policy": "Exclude only explicitly manufacturer-confirmed products outside the requested category; retain historical frozen scan results"
 }

@@ -1,0 +1,29 @@
+{
+  "batch_id": "source-08",
+  "scope": 100,
+  "API_requests_attempted": 100,
+  "API_status_counts": {
+    "Иркутск_есть_иной_срок": 100
+  },
+  "API_zero_day_confirmed": 0,
+  "manufacturer_pages_attempted": 100,
+  "manufacturer_facts_verified": 93,
+  "visually_verified_photos": 93,
+  "unique_photo_hashes": 93,
+  "source_bundles_verified": 93,
+  "incomplete_source_bundles": 7,
+  "wrong_product_type_articles": [
+    "SM1084",
+    "SM1182",
+    "SM1191",
+    "SM1217",
+    "SM1235",
+    "SM1332",
+    "SM1429"
+  ],
+  "publication_ready": 0,
+  "new_XML_publications": 0,
+  "source_primary_blockers": {
+    "NOT_REQUESTED_PRODUCT_TYPE": 7
+  }
+}
