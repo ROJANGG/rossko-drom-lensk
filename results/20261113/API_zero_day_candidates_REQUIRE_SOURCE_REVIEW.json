@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "category": "Рычаги подвески",
+      "brand": "Sidem",
+      "article": "871700",
+      "supplier_nomenclature": "NSII0013105040",
+      "checked_at_utc": "2026-11-16T10:25:45.064405+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1350,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
       "category": "Рулевые наконечники",
       "brand": "NGN",
       "article": "251227",
@@ -14268,17 +14279,6 @@
       "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     },
     {
-      "category": "Рычаги подвески",
-      "brand": "Sidem",
-      "article": "871700",
-      "supplier_nomenclature": "NSII0013105040",
-      "checked_at_utc": "2026-11-16T10:25:45.064405+00:00",
-      "api_status": "опт_Иркутск_подтвержден",
-      "source": "fresh_personal_ROSSKO_API",
-      "avito_retail_rub": 1350,
-      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
-    },
-    {
       "category": "ШРУС",
       "brand": "Asva",
       "article": "KANSA48",
@@ -14292,23 +14292,23 @@
     {
       "category": "ШРУС",
       "brand": "Asva",
-      "article": "MEIUIST",
-      "supplier_nomenclature": "NSIN0020840446",
-      "checked_at_utc": "2026-11-16T10:25:48.342038+00:00",
-      "api_status": "опт_Иркутск_подтвержден",
-      "source": "fresh_personal_ROSSKO_API",
-      "avito_retail_rub": 5900,
-      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
-    },
-    {
-      "category": "ШРУС",
-      "brand": "Asva",
       "article": "MEISTA48",
       "supplier_nomenclature": "NSIN0019662977",
       "checked_at_utc": "2026-11-16T10:25:49.183310+00:00",
       "api_status": "опт_Иркутск_подтвержден",
       "source": "fresh_personal_ROSSKO_API",
       "avito_retail_rub": 4350,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "MEIUIST",
+      "supplier_nomenclature": "NSIN0020840446",
+      "checked_at_utc": "2026-11-16T10:25:48.342038+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 5900,
       "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     },
     {
