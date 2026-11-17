@@ -797,54 +797,132 @@
       "brand": "SUFIX",
       "article": "SM1013",
       "supplier_nomenclature": "NSII0024685101",
-      "checked_at_utc": "2026-11-16T11:41:58.109940+00:00",
-      "api_status": "сбой_API_SSLError",
-      "source": "fresh_personal_ROSSKO_API"
+      "checked_at_utc": "2026-11-17T07:48:22.778199+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1750,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     },
     {
       "category": "Ступичные подшипники",
       "brand": "SUFIX",
       "article": "SM1012",
       "supplier_nomenclature": "NSII0024685100",
-      "checked_at_utc": "2026-11-16T11:41:59.704309+00:00",
-      "api_status": "сбой_API_ConnectionError",
-      "source": "fresh_personal_ROSSKO_API"
+      "checked_at_utc": "2026-11-17T07:48:21.113586+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1000,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     },
     {
       "category": "Ступичные подшипники",
       "brand": "SUFIX",
       "article": "SM1015",
       "supplier_nomenclature": "NSII0024685103",
-      "checked_at_utc": "2026-11-16T11:42:15.110496+00:00",
-      "api_status": "сбой_API_SSLError",
-      "source": "fresh_personal_ROSSKO_API"
+      "checked_at_utc": "2026-11-17T07:48:23.437982+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1350,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     },
     {
       "category": "Ступичные подшипники",
       "brand": "SUFIX",
       "article": "SM1017",
       "supplier_nomenclature": "NSII0024685105",
-      "checked_at_utc": "2026-11-16T11:42:29.363866+00:00",
-      "api_status": "сбой_API_SSLError",
-      "source": "fresh_personal_ROSSKO_API"
+      "checked_at_utc": "2026-11-17T07:48:25.505912+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1750,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     },
     {
       "category": "Ступичные подшипники",
       "brand": "SUFIX",
       "article": "SM1016",
       "supplier_nomenclature": "NSII0024685104",
-      "checked_at_utc": "2026-11-16T11:42:32.867209+00:00",
-      "api_status": "сбой_API_ReadTimeout",
-      "source": "fresh_personal_ROSSKO_API"
+      "checked_at_utc": "2026-11-17T07:48:24.674511+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1600,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     },
     {
       "category": "Ступичные подшипники",
       "brand": "SUFIX",
       "article": "SM1018",
       "supplier_nomenclature": "NSII0024685106",
-      "checked_at_utc": "2026-11-16T11:42:42.136119+00:00",
-      "api_status": "сбой_API_ConnectionError",
-      "source": "fresh_personal_ROSSKO_API"
+      "checked_at_utc": "2026-11-17T07:48:26.301753+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1400,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1019",
+      "supplier_nomenclature": "NSII0024685107",
+      "checked_at_utc": "2026-11-17T07:48:28.925000+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 700,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1020",
+      "supplier_nomenclature": "NSII0024685108",
+      "checked_at_utc": "2026-11-17T07:48:29.315513+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1400,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1021",
+      "supplier_nomenclature": "NSII0024685109",
+      "checked_at_utc": "2026-11-17T07:48:30.590117+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1250,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1022",
+      "supplier_nomenclature": "NSII0024685110",
+      "checked_at_utc": "2026-11-17T07:48:31.398705+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1450,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1025",
+      "supplier_nomenclature": "NSII0024685111",
+      "checked_at_utc": "2026-11-17T07:48:32.582058+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1750,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "SUFIX",
+      "article": "SM1028",
+      "supplier_nomenclature": "NSII0024685114",
+      "checked_at_utc": "2026-11-17T07:48:33.339318+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 1250,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     }
   ],
   "batch_max_size": 100
