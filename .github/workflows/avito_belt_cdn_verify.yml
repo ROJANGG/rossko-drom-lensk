@@ -1,0 +1,33 @@
+name: Avito - verify public CDN after reviewed belt release
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_belt_cdn_verify.yml']
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          path: support
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: avito
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test expanded exact-byte CDN refresh
+        run: PYTHONPATH=support python -m unittest discover -s support/tests -p test_avito_refresh_public_cdn.py -v
+      - name: Refresh and independently verify public XML
+        run: python support/avito_refresh_public_cdn.py --xml avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
