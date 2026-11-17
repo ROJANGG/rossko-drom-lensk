@@ -1,0 +1,15 @@
+{
+  "as_of_date": "2026-11-17",
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "CG1001",
+      "manufacturer_article": "CG-1001",
+      "incorrect_category": "ШРУС",
+      "confirmed_product_type": "CVJ grease, 90 g",
+      "manufacturer_reference": "https://ecatalogue.lynxauto.jp/index.php?product_id=23017&route=product%2Fproduct",
+      "no_API_request_in_this_batch": true
+    }
+  ],
+  "policy": "Exclude only this manufacturer-confirmed non-joint SKU; do not silently remove candidates from frozen historical scan"
+}

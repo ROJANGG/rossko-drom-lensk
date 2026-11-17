@@ -1,0 +1,27 @@
+{
+  "scope": 100,
+  "API_positive": 0,
+  "sources_attempted": 0,
+  "OEM": 0,
+  "fitment": 0,
+  "visually_reviewed_photos": 0,
+  "ready_by_category": {},
+  "ready_drafts": 0,
+  "blocked": 100,
+  "primary_blockers": {
+    "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED": 100
+  },
+  "publication_performed": false,
+  "batch_id": "source-06",
+  "workflow_run_id": 44071029928,
+  "API_requests_attempted": 98,
+  "API_status_counts": {
+    "Иркутск_есть_иной_срок": 98,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 2
+  },
+  "category_scope_counts": {
+    "Ремни ГРМ": 36,
+    "Прокладки ГБЦ": 49,
+    "Радиаторы охлаждения": 15
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "as_of_utc": "2026-11-17T11:17:15.829741+00:00",
+  "scope_total": 200,
+  "distinct_SKUs": 200,
+  "batch_sizes": [
+    100,
+    100
+  ],
+  "API_requests_attempted": 198,
+  "status_counts": {
+    "Иркутск_есть_иной_срок": 198,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 2
+  },
+  "API_zero_day_confirmed": 0,
+  "source_verification_performed": false,
+  "source_verification_pending_until_fresh_zero_day": true,
+  "new_XML_publications": 0,
+  "live_ads_observed": 411,
+  "approved_archive_at_selection": 422,
+  "live_XML_blob_sha": "d23af6bd399e1ccf9c7a931185f4fdc47bd70d66",
+  "live_XML_unchanged_during_review": true,
+  "workflow_run_ids": [
+    44071029928,
+    44072226603
+  ],
+  "individual_timestamps_preserved": true,
+  "earliest_check_utc": "2026-11-17T11:07:34.367566+00:00",
+  "latest_check_utc": "2026-11-17T11:17:15.829741+00:00",
+  "private_buying_prices_written": false,
+  "Avito_import_and_moderation_verified": false,
+  "misclassified_excluded": [
+    {
+      "brand": "LYNXauto",
+      "article": "CG1001",
+      "manufacturer_article": "CG-1001",
+      "incorrect_category": "ШРУС",
+      "confirmed_product_type": "CVJ grease, 90 g",
+      "manufacturer_reference": "https://ecatalogue.lynxauto.jp/index.php?product_id=23017&route=product%2Fproduct",
+      "no_API_request_in_this_batch": true
+    }
+  ]
+}

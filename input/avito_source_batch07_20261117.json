@@ -8,7 +8,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0020278866",
       "previous_API_checked_at_utc": "2026-11-16T10:33:09.804843+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1013",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:11.096211+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -16,7 +32,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026703418",
       "previous_API_checked_at_utc": "2026-11-16T10:33:11.365302+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1015",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:12.193597+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -24,7 +56,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0020278902",
       "previous_API_checked_at_utc": "2026-11-16T10:33:11.990546+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1025",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:13.374358+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -32,7 +80,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0020278891",
       "previous_API_checked_at_utc": "2026-11-16T10:33:12.936704+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1059",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:14.731828+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -40,7 +104,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024595239",
       "previous_API_checked_at_utc": "2026-11-16T10:33:14.702387+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1073",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:16.064062+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -48,7 +128,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024118000",
       "previous_API_checked_at_utc": "2026-11-16T10:33:14.992926+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1095",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:17.381483+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -56,7 +152,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024117998",
       "previous_API_checked_at_utc": "2026-11-16T10:33:15.844673+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1096",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:18.545537+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -64,7 +176,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024118006",
       "previous_API_checked_at_utc": "2026-11-16T10:33:17.206863+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1103",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:19.696930+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -72,7 +200,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024118007",
       "previous_API_checked_at_utc": "2026-11-16T10:33:17.978844+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1105",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:21.266534+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -80,7 +224,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0025021616",
       "previous_API_checked_at_utc": "2026-11-16T10:33:18.922420+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1106",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:23.008545+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -88,7 +248,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024118017",
       "previous_API_checked_at_utc": "2026-11-16T10:33:19.789405+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1116",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:23.970305+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -96,7 +272,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024595240",
       "previous_API_checked_at_utc": "2026-11-16T10:33:20.718803+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1128",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:25.425120+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -104,7 +296,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479860",
       "previous_API_checked_at_utc": "2026-11-16T10:33:21.677244+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1132",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:26.654031+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -112,7 +320,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479863",
       "previous_API_checked_at_utc": "2026-11-16T10:33:22.723036+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1148",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:28.112830+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -120,7 +344,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479864",
       "previous_API_checked_at_utc": "2026-11-16T10:33:23.771572+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1149",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:29.253716+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -128,7 +368,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479879",
       "previous_API_checked_at_utc": "2026-11-16T10:33:24.941181+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1164",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:30.301008+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -136,7 +392,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479886",
       "previous_API_checked_at_utc": "2026-11-16T10:33:25.974485+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1171",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:31.378642+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -144,7 +416,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479889",
       "previous_API_checked_at_utc": "2026-11-16T10:33:26.900000+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1174",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:32.657153+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -152,7 +440,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479893",
       "previous_API_checked_at_utc": "2026-11-16T10:33:28.050473+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1178",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:33.812845+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -160,7 +464,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479895",
       "previous_API_checked_at_utc": "2026-11-16T10:33:28.715003+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1180",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:34.725836+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -168,7 +488,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479897",
       "previous_API_checked_at_utc": "2026-11-16T10:33:29.738957+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1182",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:35.760855+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -176,7 +512,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479899",
       "previous_API_checked_at_utc": "2026-11-16T10:33:30.898104+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1184",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:36.851996+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -184,7 +536,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479900",
       "previous_API_checked_at_utc": "2026-11-16T10:33:31.896016+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1185",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:37.831685+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -192,7 +560,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479904",
       "previous_API_checked_at_utc": "2026-11-16T10:33:33.396151+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1189",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:38.976083+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -200,7 +584,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479907",
       "previous_API_checked_at_utc": "2026-11-16T10:33:33.929817+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1191",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:40.063893+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -208,7 +608,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479913",
       "previous_API_checked_at_utc": "2026-11-16T10:33:34.806182+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1197",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:41.709979+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -216,7 +632,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479919",
       "previous_API_checked_at_utc": "2026-11-16T10:33:35.970822+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1203",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:42.824302+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -224,7 +656,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479923",
       "previous_API_checked_at_utc": "2026-11-16T10:33:36.813153+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1207",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:44.140588+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -232,7 +680,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479928",
       "previous_API_checked_at_utc": "2026-11-16T10:33:37.801997+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1212",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:45.561844+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -240,7 +704,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479929",
       "previous_API_checked_at_utc": "2026-11-16T10:33:39.175983+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1213",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:46.781302+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -248,7 +728,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479930",
       "previous_API_checked_at_utc": "2026-11-16T10:33:39.854899+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1214",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:48.049909+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -256,7 +752,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479935",
       "previous_API_checked_at_utc": "2026-11-16T10:33:41.011546+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1219",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:49.015828+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -264,7 +776,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479936",
       "previous_API_checked_at_utc": "2026-11-16T10:33:41.912044+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1220",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:50.447492+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -272,7 +800,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479940",
       "previous_API_checked_at_utc": "2026-11-16T10:33:42.985369+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1224",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:52.193286+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -280,7 +824,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479943",
       "previous_API_checked_at_utc": "2026-11-16T10:33:43.778812+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1227",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:53.279703+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -288,7 +848,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479951",
       "previous_API_checked_at_utc": "2026-11-16T10:33:44.970290+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1234",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:54.437007+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -296,7 +872,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479952",
       "previous_API_checked_at_utc": "2026-11-16T10:33:45.767393+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1235",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:55.828354+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -304,7 +896,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479956",
       "previous_API_checked_at_utc": "2026-11-16T10:33:46.626623+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1239",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:56.990912+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -312,7 +920,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479963",
       "previous_API_checked_at_utc": "2026-11-16T10:33:47.673820+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1246",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:58.212704+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -320,7 +944,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479965",
       "previous_API_checked_at_utc": "2026-11-16T10:33:48.614022+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1248",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:15:59.256240+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -328,7 +968,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026479970",
       "previous_API_checked_at_utc": "2026-11-16T10:33:49.818104+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1253",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:00.360309+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -336,7 +992,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547092",
       "previous_API_checked_at_utc": "2026-11-16T10:33:50.666421+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1269",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:01.563393+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -344,7 +1016,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547096",
       "previous_API_checked_at_utc": "2026-11-16T10:33:51.642742+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1279",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:02.698439+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -352,7 +1040,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547097",
       "previous_API_checked_at_utc": "2026-11-16T10:33:53.365866+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1280",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:03.764383+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -360,7 +1064,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547101",
       "previous_API_checked_at_utc": "2026-11-16T10:33:53.707736+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1284",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:04.763483+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -368,7 +1088,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547208",
       "previous_API_checked_at_utc": "2026-11-16T10:33:54.697488+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1292",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:05.740723+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -376,7 +1112,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547117",
       "previous_API_checked_at_utc": "2026-11-16T10:33:55.790284+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1301",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:07.027248+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -384,7 +1136,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547118",
       "previous_API_checked_at_utc": "2026-11-16T10:33:57.027410+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1302",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:08.306753+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -392,7 +1160,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547127",
       "previous_API_checked_at_utc": "2026-11-16T10:33:57.783464+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1311",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:09.551224+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -400,7 +1184,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547133",
       "previous_API_checked_at_utc": "2026-11-16T10:33:58.739107+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1317",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:10.544961+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -408,7 +1208,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547135",
       "previous_API_checked_at_utc": "2026-11-16T10:33:59.743363+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1319",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:11.818287+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -416,7 +1232,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547142",
       "previous_API_checked_at_utc": "2026-11-16T10:34:00.759670+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1326",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:12.773718+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -424,7 +1256,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547144",
       "previous_API_checked_at_utc": "2026-11-16T10:34:01.714837+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1328",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:13.845549+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -432,7 +1280,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547145",
       "previous_API_checked_at_utc": "2026-11-16T10:34:02.655309+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1329",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:14.838389+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -440,7 +1304,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547146",
       "previous_API_checked_at_utc": "2026-11-16T10:34:03.900108+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1330",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:15.813914+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -448,7 +1328,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547147",
       "previous_API_checked_at_utc": "2026-11-16T10:34:04.612876+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1331",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:17.056452+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -456,7 +1352,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547155",
       "previous_API_checked_at_utc": "2026-11-16T10:34:05.698304+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1339",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:18.042255+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -464,7 +1376,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547171",
       "previous_API_checked_at_utc": "2026-11-16T10:34:06.827770+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1357",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:19.895387+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -472,7 +1400,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547179",
       "previous_API_checked_at_utc": "2026-11-16T10:34:08.117690+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1365",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:20.943646+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -480,7 +1424,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547180",
       "previous_API_checked_at_utc": "2026-11-16T10:34:08.687089+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1366",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:22.044185+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -488,7 +1448,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547187",
       "previous_API_checked_at_utc": "2026-11-16T10:34:09.655493+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1374",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:23.124010+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -496,7 +1472,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0026547200",
       "previous_API_checked_at_utc": "2026-11-16T10:34:10.777400+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI1387",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:24.433999+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -504,7 +1496,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0018860107",
       "previous_API_checked_at_utc": "2026-11-16T10:34:12.430237+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3403",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:25.494105+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -512,7 +1520,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0023168978",
       "previous_API_checked_at_utc": "2026-11-16T10:34:13.095633+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3710",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:26.677641+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -520,7 +1544,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0023168980",
       "previous_API_checked_at_utc": "2026-11-16T10:34:13.741805+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3712",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:28.196186+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -528,7 +1568,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0023168987",
       "previous_API_checked_at_utc": "2026-11-16T10:34:14.952474+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3720",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:29.219749+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -536,7 +1592,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0023168988",
       "previous_API_checked_at_utc": "2026-11-16T10:34:16.455048+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3721",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:30.424348+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -544,7 +1616,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0013104765",
       "previous_API_checked_at_utc": "2026-11-16T10:34:17.044283+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3729",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:31.980318+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -552,7 +1640,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0013104766",
       "previous_API_checked_at_utc": "2026-11-16T10:34:17.706363+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3730",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:33.013671+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -560,7 +1664,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0013104769",
       "previous_API_checked_at_utc": "2026-11-16T10:34:19.044514+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3733",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:34.330212+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -568,7 +1688,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0013104771",
       "previous_API_checked_at_utc": "2026-11-16T10:34:19.940929+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3735",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:35.768918+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -576,7 +1712,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0013104774",
       "previous_API_checked_at_utc": "2026-11-16T10:34:21.221743+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3738",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:36.882935+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -584,7 +1736,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0013104782",
       "previous_API_checked_at_utc": "2026-11-16T10:34:21.659037+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3746",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:37.896116+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -592,7 +1760,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0013104784",
       "previous_API_checked_at_utc": "2026-11-16T10:34:22.822879+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3748",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:39.322349+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -600,7 +1784,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0015300327",
       "previous_API_checked_at_utc": "2026-11-16T10:34:23.879485+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3757",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:40.800264+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -608,7 +1808,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0015300329",
       "previous_API_checked_at_utc": "2026-11-16T10:34:25.313975+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3761",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:41.960942+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -616,7 +1832,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0018271005",
       "previous_API_checked_at_utc": "2026-11-16T10:34:25.776045+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3766",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:43.502040+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -624,7 +1856,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0018502635",
       "previous_API_checked_at_utc": "2026-11-16T10:34:27.039952+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3790",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:44.700738+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -632,7 +1880,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0018502645",
       "previous_API_checked_at_utc": "2026-11-16T10:34:28.000944+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3797",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:46.110698+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -640,7 +1904,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0018502638",
       "previous_API_checked_at_utc": "2026-11-16T10:34:29.034863+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3798",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:47.254648+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -648,7 +1928,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0018502646",
       "previous_API_checked_at_utc": "2026-11-16T10:34:29.928402+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3799",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:48.504328+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -656,7 +1952,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0018502628",
       "previous_API_checked_at_utc": "2026-11-16T10:34:31.413975+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI3815",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:50.112190+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -664,7 +1976,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0019617847",
       "previous_API_checked_at_utc": "2026-11-16T10:34:32.233759+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI4601",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:51.483028+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -672,7 +2000,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0019617848",
       "previous_API_checked_at_utc": "2026-11-16T10:34:33.519835+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI4602",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:53.066322+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -680,7 +2024,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0018860109",
       "previous_API_checked_at_utc": "2026-11-16T10:34:33.950515+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CI7501",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:54.699409+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -688,7 +2048,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0018470898",
       "previous_API_checked_at_utc": "2026-11-16T10:34:36.187019+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1202A",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:55.867693+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -696,7 +2072,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0023155121",
       "previous_API_checked_at_utc": "2026-11-16T10:34:36.616602+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1205",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:57.732526+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -704,7 +2096,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0019700417",
       "previous_API_checked_at_utc": "2026-11-16T10:34:37.567354+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1225",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:16:59.519766+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -712,7 +2120,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0019648442",
       "previous_API_checked_at_utc": "2026-11-16T10:34:38.804541+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1227",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:00.989844+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -720,7 +2144,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0018860113",
       "previous_API_checked_at_utc": "2026-11-16T10:34:39.819768+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1808A",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:02.858443+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -728,7 +2168,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSIN0019616866",
       "previous_API_checked_at_utc": "2026-11-16T10:34:40.628543+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1821",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:04.394724+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -736,7 +2192,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0021319053",
       "previous_API_checked_at_utc": "2026-11-16T10:34:41.413946+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1842",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:05.446758+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -744,7 +2216,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0019585730",
       "previous_API_checked_at_utc": "2026-11-16T10:34:42.575973+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1843A",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:06.710491+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -752,7 +2240,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0022740577",
       "previous_API_checked_at_utc": "2026-11-16T10:34:42.784576+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1851A",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:08.137670+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -760,7 +2264,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0023743835",
       "previous_API_checked_at_utc": "2026-11-16T10:34:44.182173+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1854",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:09.131350+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -768,7 +2288,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024117979",
       "previous_API_checked_at_utc": "2026-11-16T10:34:45.075799+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1855A",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:10.461910+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -776,7 +2312,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024117978",
       "previous_API_checked_at_utc": "2026-11-16T10:34:46.246961+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1861A",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:11.854386+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -784,7 +2336,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024117986",
       "previous_API_checked_at_utc": "2026-11-16T10:34:47.181105+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1880",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:13.108552+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -792,7 +2360,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024118003",
       "previous_API_checked_at_utc": "2026-11-16T10:34:49.876135+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1882",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:14.180109+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -800,7 +2384,23 @@
       "category": "ШРУС",
       "supplier_nomenclature": "NSII0024118010",
       "previous_API_checked_at_utc": "2026-11-16T10:34:50.126746+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "CO1886",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-17T11:17:15.829741+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     }
   ],
   "publication_performed": false,
@@ -813,5 +2413,24 @@
       "reason": "CVJ grease, not a CV joint",
       "manufacturer_reference": "https://ecatalogue.lynxauto.jp/index.php?product_id=23017&route=product%2Fproduct"
     }
-  ]
+  ],
+  "API_workflow_run_id": 44072226603,
+  "API_positive_count": 0,
+  "verified_source_and_API_count": 0,
+  "blocked_count": 100,
+  "source_review_finished_at_utc": "2026-11-17T11:18:56.810828+00:00",
+  "review_status_counts": {
+    "BLOCKED_AT_API_GATE": 100
+  },
+  "XML_status": "NO_PUBLISHABLE_XML_CANDIDATE",
+  "remaining_release_checks": [
+    "fresh primary sources and API",
+    "public exact photo SHA256",
+    "extend exact scope in both regular refreshes and CDN",
+    "append-only trial assembly",
+    "current Avito category schema confirmation",
+    "Avito import is not yet verified"
+  ],
+  "source_review_policy": "NOT_PERFORMED_NO_FRESH_API_ZERO_DAY_CANDIDATES",
+  "source_verification_pending_until_API_zero_day": true
 }

@@ -8,7 +8,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0007308725",
       "previous_API_checked_at_utc": "2026-11-13T16:12:12.998230+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "104CL22",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:34.367566+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -16,7 +32,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0019523195",
       "previous_API_checked_at_utc": "2026-11-13T16:12:14.247090+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "105FL22",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:35.637338+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -24,7 +56,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0019709695",
       "previous_API_checked_at_utc": "2026-11-13T16:12:15.782004+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "111CL19",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:37.407169+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -32,7 +80,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0022333702",
       "previous_API_checked_at_utc": "2026-11-13T16:12:15.934637+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "111CL25",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:38.876921+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -40,7 +104,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018766042",
       "previous_API_checked_at_utc": "2026-11-13T16:12:17.307330+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "111EL17",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:39.861404+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 3
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -48,7 +128,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018766044",
       "previous_API_checked_at_utc": "2026-11-13T16:12:18.213776+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "112FL24",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:41.722849+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -56,7 +152,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0007151846",
       "previous_API_checked_at_utc": "2026-11-13T16:12:19.243050+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "113FL17",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:43.092053+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -64,7 +176,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0013008517",
       "previous_API_checked_at_utc": "2026-11-13T16:12:20.078025+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "117EL22",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:44.664538+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -72,7 +200,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018860015",
       "previous_API_checked_at_utc": "2026-11-13T16:12:21.328942+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "117FL22",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:46.136807+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -80,7 +224,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0027903609",
       "previous_API_checked_at_utc": "2026-11-13T16:12:22.114404+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "117FL22XS",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:47.845354+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -88,7 +248,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018766045",
       "previous_API_checked_at_utc": "2026-11-13T16:12:23.026994+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "121AL21",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:49.248704+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -96,7 +272,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018630674",
       "previous_API_checked_at_utc": "2026-11-13T16:12:24.142751+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "123FL29",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:50.894231+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -104,7 +296,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0019725084",
       "previous_API_checked_at_utc": "2026-11-13T16:12:25.171719+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "124FL29",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:52.236713+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -112,7 +320,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0019616955",
       "previous_API_checked_at_utc": "2026-11-13T16:12:26.002320+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "125FL26",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:53.745531+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -120,7 +344,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018470895",
       "previous_API_checked_at_utc": "2026-11-13T16:12:26.985975+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "129AL27",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:55.637849+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -128,7 +368,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018423347",
       "previous_API_checked_at_utc": "2026-11-13T16:12:27.959496+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "129FL254",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:57.144033+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -136,7 +392,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0022333690",
       "previous_API_checked_at_utc": "2026-11-13T16:12:29.237940+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "134CL254",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:58.565422+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -144,7 +416,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018860016",
       "previous_API_checked_at_utc": "2026-11-13T16:12:29.999211+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "137AL254",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:07:59.808359+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -152,7 +440,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0022333756",
       "previous_API_checked_at_utc": "2026-11-13T16:12:31.183339+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "137FL22",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:01.172013+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -160,7 +464,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0013008524",
       "previous_API_checked_at_utc": "2026-11-13T16:12:31.961274+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "141EL30",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:02.564039+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -168,7 +488,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018766054",
       "previous_API_checked_at_utc": "2026-11-13T16:12:33.087583+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "150CL23",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:03.756916+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -176,7 +512,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018142250",
       "previous_API_checked_at_utc": "2026-11-13T16:12:34.106852+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "153FL29",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:05.056966+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -184,7 +536,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0019727638",
       "previous_API_checked_at_utc": "2026-11-13T16:12:35.070218+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "162CL20",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:06.370352+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -192,7 +560,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018423353",
       "previous_API_checked_at_utc": "2026-11-13T16:12:36.081429+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "163CL267",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:08.341854+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 6
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -200,7 +584,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0013008536",
       "previous_API_checked_at_utc": "2026-11-13T16:12:37.342296+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "163EL20",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:09.759420+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -208,7 +608,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0022333712",
       "previous_API_checked_at_utc": "2026-11-13T16:12:38.106132+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "173CL25",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:11.175386+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -216,7 +632,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0022333810",
       "previous_API_checked_at_utc": "2026-11-13T16:12:39.020217+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "177AL25",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:12.699021+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -224,7 +656,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018630678",
       "previous_API_checked_at_utc": "2026-11-13T16:12:40.026941+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "177EL254",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:13.742513+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -232,7 +680,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0013008538",
       "previous_API_checked_at_utc": "2026-11-13T16:12:40.974835+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "179EL20",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:15.004117+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -240,7 +704,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0027903612",
       "previous_API_checked_at_utc": "2026-11-13T16:12:42.162826+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "187BL32XS",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:16.071707+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -248,7 +728,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018630860",
       "previous_API_checked_at_utc": "2026-11-13T16:12:43.041742+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "211AL32",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:17.685923+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -256,7 +752,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0007308865",
       "previous_API_checked_at_utc": "2026-11-13T16:12:44.129087+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "281BL30",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:19.057037+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -264,7 +776,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0018470720",
       "previous_API_checked_at_utc": "2026-11-13T16:12:45.125578+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "65BL127",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:20.202366+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -272,7 +800,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0023159667",
       "previous_API_checked_at_utc": "2026-11-13T16:12:47.479260+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "96CL173",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:21.454907+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -280,7 +824,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSIN0019725089",
       "previous_API_checked_at_utc": "2026-11-13T16:12:48.392006+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "96EL17",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:23.031699+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -288,7 +848,23 @@
       "category": "Ремни ГРМ",
       "supplier_nomenclature": "NSII0025737884",
       "previous_API_checked_at_utc": "2026-11-13T16:12:49.150916+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "97CL216",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-17T11:08:24.439082+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -296,7 +872,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142081",
       "previous_API_checked_at_utc": "2026-11-13T16:15:10.047196+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0006",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:25.508517+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -304,7 +896,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142088",
       "previous_API_checked_at_utc": "2026-11-13T16:15:11.071198+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0061",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:26.580406+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -312,7 +920,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0026236328",
       "previous_API_checked_at_utc": "2026-11-13T16:15:12.362834+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0085",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:27.908745+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -320,7 +944,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019579982",
       "previous_API_checked_at_utc": "2026-11-13T16:15:13.341541+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0087",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:29.239292+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -328,7 +968,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142106",
       "previous_API_checked_at_utc": "2026-11-13T16:15:13.887153+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0096",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:30.492595+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -336,7 +992,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142113",
       "previous_API_checked_at_utc": "2026-11-13T16:15:14.864924+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0121",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:31.746208+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -344,7 +1016,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022662083",
       "previous_API_checked_at_utc": "2026-11-13T16:15:15.883755+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0128",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:32.786025+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -352,7 +1040,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142118",
       "previous_API_checked_at_utc": "2026-11-13T16:15:16.872943+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0137",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:33.971093+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -360,7 +1064,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142119",
       "previous_API_checked_at_utc": "2026-11-13T16:15:18.040744+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0144",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:35.110933+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -368,7 +1088,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142120",
       "previous_API_checked_at_utc": "2026-11-13T16:15:18.849794+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0145",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:36.343275+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -376,7 +1112,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142124",
       "previous_API_checked_at_utc": "2026-11-13T16:15:19.991438+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0156",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:37.391787+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -384,7 +1136,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277558",
       "previous_API_checked_at_utc": "2026-11-13T16:15:21.093949+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0186",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:38.660651+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -392,7 +1160,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142130",
       "previous_API_checked_at_utc": "2026-11-13T16:15:22.012586+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0193",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:39.786771+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -400,7 +1184,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022739387",
       "previous_API_checked_at_utc": "2026-11-13T16:15:23.229276+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0202",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:41.210829+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -408,7 +1208,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142139",
       "previous_API_checked_at_utc": "2026-11-13T16:15:23.899178+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0209",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:42.589694+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -416,7 +1232,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022739422",
       "previous_API_checked_at_utc": "2026-11-13T16:15:25.018537+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0273",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:43.858091+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -424,7 +1256,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0026236378",
       "previous_API_checked_at_utc": "2026-11-13T16:15:26.059609+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0346",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:45.000276+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -432,7 +1280,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0025062861",
       "previous_API_checked_at_utc": "2026-11-13T16:15:26.881246+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0347",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:46.217576+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -440,7 +1304,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142145",
       "previous_API_checked_at_utc": "2026-11-13T16:15:27.940849+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0365",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:47.410104+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -448,7 +1328,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019926706",
       "previous_API_checked_at_utc": "2026-11-13T16:15:29.176106+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0378",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:48.555215+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 4
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -456,7 +1352,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277571",
       "previous_API_checked_at_utc": "2026-11-13T16:15:30.222088+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0380",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:50.069907+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -464,7 +1376,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0024393521",
       "previous_API_checked_at_utc": "2026-11-13T16:15:31.033605+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0420",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:51.196829+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 5
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -472,7 +1400,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022739378",
       "previous_API_checked_at_utc": "2026-11-13T16:15:32.329168+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0450",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:52.844833+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -480,7 +1424,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022739386",
       "previous_API_checked_at_utc": "2026-11-13T16:15:32.960062+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0491",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:54.410103+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -488,7 +1448,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019579988",
       "previous_API_checked_at_utc": "2026-11-13T16:15:34.143855+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0512",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:55.435757+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -496,7 +1472,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277552",
       "previous_API_checked_at_utc": "2026-11-13T16:15:35.077381+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0522",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:56.753226+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -504,7 +1496,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019579991",
       "previous_API_checked_at_utc": "2026-11-13T16:15:36.207305+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0531",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:58.037949+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -512,7 +1520,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022739416",
       "previous_API_checked_at_utc": "2026-11-13T16:15:37.111238+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0532",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:08:59.338235+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -520,7 +1544,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277556",
       "previous_API_checked_at_utc": "2026-11-13T16:15:38.053373+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0561",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:01.392623+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -528,7 +1568,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0025062869",
       "previous_API_checked_at_utc": "2026-11-13T16:15:38.948747+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0562",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:02.585293+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -536,7 +1592,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277560",
       "previous_API_checked_at_utc": "2026-11-13T16:15:39.991718+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0568",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:03.876226+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -544,7 +1616,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277568",
       "previous_API_checked_at_utc": "2026-11-13T16:15:41.194437+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0618",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:05.179247+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -552,7 +1640,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019579989",
       "previous_API_checked_at_utc": "2026-11-13T16:15:41.981064+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0620",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:06.470126+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -560,7 +1664,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022739398",
       "previous_API_checked_at_utc": "2026-11-13T16:15:43.003286+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0664",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:07.581264+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -568,7 +1688,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277586",
       "previous_API_checked_at_utc": "2026-11-13T16:15:44.228581+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0680",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:08.666683+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -576,7 +1712,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277567",
       "previous_API_checked_at_utc": "2026-11-13T16:15:45.033171+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0732",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:10.164258+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -584,7 +1736,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142156",
       "previous_API_checked_at_utc": "2026-11-13T16:15:45.964966+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0815",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:11.545495+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -592,7 +1760,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277596",
       "previous_API_checked_at_utc": "2026-11-13T16:15:46.976227+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0955",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:12.759289+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -600,7 +1784,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0019277589",
       "previous_API_checked_at_utc": "2026-11-13T16:15:48.006450+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0956",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:14.118979+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -608,7 +1808,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142162",
       "previous_API_checked_at_utc": "2026-11-13T16:15:49.181316+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH0958",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:15.328600+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -616,7 +1832,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0025021877",
       "previous_API_checked_at_utc": "2026-11-13T16:15:49.922450+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1085",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:16.513677+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 4
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -624,7 +1856,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142164",
       "previous_API_checked_at_utc": "2026-11-13T16:15:51.023260+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1105",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:17.793215+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -632,7 +1880,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022739449",
       "previous_API_checked_at_utc": "2026-11-13T16:15:51.936077+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1130",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:18.899860+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -640,7 +1904,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0027142167",
       "previous_API_checked_at_utc": "2026-11-13T16:15:52.838326+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1177",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:20.310389+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -648,7 +1928,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0025062928",
       "previous_API_checked_at_utc": "2026-11-13T16:15:53.933565+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1230",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:21.471645+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -656,7 +1952,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0024393525",
       "previous_API_checked_at_utc": "2026-11-13T16:15:54.923341+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1256",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:22.600683+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -664,7 +1976,22 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0022739446",
       "previous_API_checked_at_utc": "2026-11-13T16:15:56.058439+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1260",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:23.768722+00:00",
+        "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -672,7 +1999,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0024393529",
       "previous_API_checked_at_utc": "2026-11-13T16:15:56.922366+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1308",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:23.768751+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -680,7 +2023,23 @@
       "category": "Прокладки ГБЦ",
       "supplier_nomenclature": "NSII0024393530",
       "previous_API_checked_at_utc": "2026-11-13T16:15:58.018936+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "SH1309",
+        "category": "Прокладки ГБЦ",
+        "checked_at_utc": "2026-11-17T11:09:25.041689+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -688,7 +2047,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360163",
       "previous_API_checked_at_utc": "2026-11-13T16:17:45.902071+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1005",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:26.584738+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -696,7 +2071,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018376313",
       "previous_API_checked_at_utc": "2026-11-13T16:17:46.801302+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1008",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:27.670534+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -704,7 +2095,22 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360156",
       "previous_API_checked_at_utc": "2026-11-13T16:17:47.941835+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1010",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:29.400391+00:00",
+        "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -712,7 +2118,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018376315",
       "previous_API_checked_at_utc": "2026-11-13T16:17:49.126982+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1012",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:29.400420+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -720,7 +2142,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360206",
       "previous_API_checked_at_utc": "2026-11-13T16:17:53.318358+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1022",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:30.949945+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -728,7 +2166,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360204",
       "previous_API_checked_at_utc": "2026-11-13T16:17:52.980130+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1024",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:32.321045+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -736,7 +2190,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360203",
       "previous_API_checked_at_utc": "2026-11-13T16:17:53.831924+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1025",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:33.786381+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -744,7 +2214,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360169",
       "previous_API_checked_at_utc": "2026-11-13T16:17:54.811407+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1035",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:35.045317+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -752,7 +2238,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360170",
       "previous_API_checked_at_utc": "2026-11-13T16:17:55.808521+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1036",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:36.635794+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -760,7 +2262,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018376363",
       "previous_API_checked_at_utc": "2026-11-13T16:17:56.562196+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1108",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:38.540288+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -768,7 +2286,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360166",
       "previous_API_checked_at_utc": "2026-11-13T16:17:57.654983+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1115",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:39.588107+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -776,7 +2310,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360165",
       "previous_API_checked_at_utc": "2026-11-13T16:17:58.583660+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1117",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:40.791727+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -784,7 +2334,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360209",
       "previous_API_checked_at_utc": "2026-11-13T16:17:59.822914+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1124",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:41.975400+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -792,7 +2358,23 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360213",
       "previous_API_checked_at_utc": "2026-11-13T16:18:00.923363+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1126",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:43.255807+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 1
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     },
     {
       "brand": "LYNXauto",
@@ -800,10 +2382,45 @@
       "category": "Радиаторы охлаждения",
       "supplier_nomenclature": "NSII0018360212",
       "previous_API_checked_at_utc": "2026-11-13T16:18:01.943106+00:00",
-      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+      "review_status": "BLOCKED_AT_API_GATE",
+      "account_API_review": {
+        "brand": "LYNXauto",
+        "article": "RB1129",
+        "category": "Радиаторы охлаждения",
+        "checked_at_utc": "2026-11-17T11:09:44.804574+00:00",
+        "api_status": "Иркутск_есть_иной_срок",
+        "supplier_zero_day_stock": 2
+      },
+      "source_review": {
+        "review_status": "NOT_CHECKED_API_GATE_FAILED"
+      },
+      "publication_performed": false,
+      "requires_fresh_API_at_release": true,
+      "blockers": [
+        "FRESH_ZERO_DAY_API_OR_STOCK_NOT_CONFIRMED"
+      ]
     }
   ],
   "publication_performed": false,
   "archive_count_at_selection": 422,
-  "excluded_previous_source_batches": true
+  "excluded_previous_source_batches": true,
+  "API_workflow_run_id": 44071029928,
+  "API_positive_count": 0,
+  "verified_source_and_API_count": 0,
+  "blocked_count": 100,
+  "source_review_finished_at_utc": "2026-11-17T11:11:18.296622+00:00",
+  "review_status_counts": {
+    "BLOCKED_AT_API_GATE": 100
+  },
+  "XML_status": "NO_PUBLISHABLE_XML_CANDIDATE",
+  "remaining_release_checks": [
+    "fresh primary sources and API",
+    "public exact photo SHA256",
+    "extend exact scope in both regular refreshes and CDN",
+    "append-only trial assembly",
+    "current Avito category schema confirmation",
+    "Avito import is not yet verified"
+  ],
+  "source_review_policy": "NOT_PERFORMED_NO_FRESH_API_ZERO_DAY_CANDIDATES",
+  "source_verification_pending_until_API_zero_day": true
 }
