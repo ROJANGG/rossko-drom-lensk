@@ -1,5 +1,5 @@
 name: Avito - release exact reviewed source05 82 drive belts
-# Exact 85-SKU scope, fresh manufacturer/photo/API checks on every release.
+# Retry only unarchived source05 SKUs after exact UTF-8 evidence correction.
 on:
   workflow_dispatch:
   push:
