@@ -88,16 +88,18 @@ if _extension_path.exists():
         if _k in EXTRA_APPROVED_STOCK_CATEGORIES:
             raise ValueError("Duplicate approved extension SKU")
         EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record["category"]
-_belt_path = Path(__file__).parent / "input/avito_reviewed_drive_belts.json"
 _reviewed_belts = []
-if _belt_path.exists():
+for _belt_name in ("avito_reviewed_drive_belts.json", "avito_reviewed_drive_belts_source05.json"):
+    _belt_path = Path(__file__).parent / "input" / _belt_name
+    if not _belt_path.exists():
+        continue
     from avito_reviewed_drive_belts import load_reviewed_belts
-    _reviewed_belts = load_reviewed_belts(_belt_path)
-    for _record in _reviewed_belts:
+    for _record in load_reviewed_belts(_belt_path):
         _k = key(_record["brand"], _record["article"])
         if _k in EXTRA_APPROVED_STOCK_CATEGORIES:
             raise ValueError("Duplicate approved belt SKU")
         EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record["category"]
+        _reviewed_belts.append(_record)
 # Preserve the existing bound unless the exact reviewed extra scope is loaded.
 APPROVED_CATALOG_LIMIT = 300 + len(_reviewed_belts)
 EXTRA_APPROVED_STOCK_SKUS = set(EXTRA_APPROVED_STOCK_CATEGORIES)
@@ -461,5 +463,6 @@ def main():
 
 if __name__=="__main__":
     main()
+
 
 

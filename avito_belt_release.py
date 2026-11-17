@@ -124,7 +124,7 @@ def append_ads(original, ads):
     return raw
 
 def build(args):
-    records = load_reviewed_belts(args.manifest)
+    records = load_reviewed_belts(args.manifest); scope_count = len(records)
     args.out.mkdir(parents=True, exist_ok=True)
     images = args.out/'avito-images'; images.mkdir(exist_ok=True)
     current, archive = args.live.read_bytes(), args.archive.read_bytes()
@@ -206,7 +206,7 @@ def build(args):
     with (args.out/'avito-verified-retail-prices.csv').open('w', encoding='utf-8-sig', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=columns, delimiter=';'); writer.writeheader(); writer.writerows(prices)
     report = {'as_of_utc': datetime.now(timezone.utc).isoformat(), 'before': len(old), 'after': len(old)+len(ads), 'approved_before': len(prior), 'approved_after': len(prior)+len(ads),
-              'scope_count': 85, 'added_count': len(ads), 'added': added, 'skipped': skipped, 'all_original_ads_preserved': True, 'private_API_costs_published': False, 'checkout_mode': mode, 'publication_performed': False}
+              'scope_count': scope_count, 'added_count': len(ads), 'added': added, 'skipped': skipped, 'all_original_ads_preserved': True, 'private_API_costs_published': False, 'checkout_mode': mode, 'publication_performed': False}
     (args.out/'avito-verified-extension-report.json').write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
     print('BELT_CANDIDATE', json.dumps(report, ensure_ascii=False), flush=True)
 
@@ -215,3 +215,4 @@ if __name__ == '__main__':
     for name in ('config', 'live', 'archive', 'retail', 'manifest', 'out'):
         p.add_argument('--'+name, type=Path, required=True)
     build(p.parse_args())
+

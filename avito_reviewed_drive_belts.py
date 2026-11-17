@@ -5,6 +5,7 @@ import re
 from urllib.parse import urlparse
 
 SCOPE_SHA256 = '44669d31474885bb90ceaa49ce89eba747296ad6ee9339d3a8a261e774da47c0'
+APPROVED_SCOPES = {SCOPE_SHA256: 85, 'eee1e6bbef4c58bb405e32ec53adef48801b955671a38016783beb19a7bd7140': 82}
 CATEGORY = 'Ремни приводные'
 ENGINE_TYPE = 'Приводные ремни, натяжители'
 
@@ -12,11 +13,11 @@ ENGINE_TYPE = 'Приводные ремни, натяжители'
 def load_reviewed_belts(path):
     manifest = json.loads(path.read_text(encoding='utf-8'))
     records = manifest['items']
-    if len(records) != 85:
+    if manifest.get('scope_sha256') not in APPROVED_SCOPES or len(records) != APPROVED_SCOPES[manifest['scope_sha256']]:
         raise ValueError('Unexpected reviewed belt count')
     keys = [r['brand'].casefold() + '|' + r['article'].casefold() for r in records]
     digest = hashlib.sha256('\n'.join(sorted(keys)).encode()).hexdigest()
-    if len(set(keys)) != 85 or digest != SCOPE_SHA256 or manifest['scope_sha256'] != digest:
+    if len(set(keys)) != len(records) or digest not in APPROVED_SCOPES or manifest['scope_sha256'] != digest:
         raise ValueError('Reviewed belt scope changed')
     images = set()
     for r in records:
@@ -49,3 +50,4 @@ def belt_sku(ad, approved, key):
     if approved.get(sku) != CATEGORY:
         raise ValueError('Belt outside reviewed exact SKU scope')
     return sku, CATEGORY
+
