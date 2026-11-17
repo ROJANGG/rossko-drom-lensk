@@ -2,6 +2,10 @@
 alliednippon;adc01128v
 alliednippon;adc0456v
 alliednippon;adc0832v
+bosch;0250201055
+bosch;0250202142
+bosch;0250403009
+bosch;0250603001
 brave;brbd198
 ctr;gd0004
 ctr;gd0009
@@ -19,6 +23,7 @@ ctr;gd0068
 ctr;gd0088
 ctr;gd0092
 ctr;gd0103
+ctr;gd0109
 ctr;gd0123
 ctr;gd0127
 ctr;gd0135
@@ -49,6 +54,7 @@ febest;16642010
 fenox;tb219353
 krauf;hnq2025gq
 krauf;hnq2139gq
+krauf;hnq2424gq
 krauf;hnq2434gq
 krauf;hnq2470gq
 krauf;hnq2724gq
@@ -56,6 +62,7 @@ krauf;hnq5020gq
 krauf;hnq5054gq
 krauf;hnq5056gq
 krauf;hnq5082gq
+krauf;hnq5090gq
 krauf;hnq5119gq
 krauf;hnq9011gq
 krauf;hnq9012gq
@@ -95,7 +102,6 @@ marshall;m2001534
 masterkit;77r010
 masterkit;77r015
 masterkit;77r036
-masterkit;77r040
 masterkit;77r046
 masterkit;77r047
 masterkit;77r072
@@ -227,5 +233,14 @@ stellox;378100sx
 stellox;397100sx
 stellox;657100sx
 stellox;720100sx
+tatsumi;thq1001
+tatsumi;thq1005
+tatsumi;thq1006
+tatsumi;thq1007
+tatsumi;thq1008
+tatsumi;thq1009
+tatsumi;thq1010
+tatsumi;thq1011
+tatsumi;thq1012
 transmaster;tr500674c
 transmaster;ts076
