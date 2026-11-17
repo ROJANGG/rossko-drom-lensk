@@ -25,7 +25,7 @@ from xml.etree import ElementTree as ET
 
 from avito_active_feed_refresh import (
     seller_sku, key, price_decimal, supplier_products, add_raw_source_costs,
-    read_wholesale_retail,
+    read_wholesale_retail, APPROVED_CATALOG_LIMIT, EXTRA_APPROVED_STOCK_CATEGORIES,
 )
 from avito_irkutsk import load_fresh_price
 from avito_pricing import progressive_price
@@ -48,7 +48,7 @@ def list_approved(archive_xml):
     if root.tag != "Ads" or root.get("formatVersion") != "3":
         raise ValueError("Approved XML version mismatch")
     items = root.findall("Ad")
-    if not 150 <= len(items) <= 300:
+    if not 150 <= len(items) <= APPROVED_CATALOG_LIMIT:
         raise ValueError("Unexpected number of approved Avito listings")
     keys, ids, output = set(), set(), []
     for ad in items:
@@ -56,7 +56,8 @@ def list_approved(archive_xml):
         k, group = seller_sku(ad)
         if not id or id in ids or k in keys:
             raise ValueError("Duplicate/invalid approved Avito SKU")
-        if group not in ("Тормозные диски", "Рулевые рейки", "Радиаторы кондиционера", "Колодки барабанные", "Свечи накала"):
+        if (group not in ("Тормозные диски", "Рулевые рейки", "Радиаторы кондиционера", "Колодки барабанные", "Свечи накала")
+                and not (group == "Ремни приводные" and EXTRA_APPROVED_STOCK_CATEGORIES.get(k) == group)):
             raise ValueError("Unexpected category in approved Avito feed")
         keys.add(k)
         ids.add(id)
@@ -82,7 +83,7 @@ def read_previous_mapping(path):
 
 
 def compare_and_build(approved, supplier, original, search_fn, *,
-                      min_success_rate=0.70, max_api_requests=300, sleeper=time.sleep):
+                      min_success_rate=0.70, max_api_requests=APPROVED_CATALOG_LIMIT, sleeper=time.sleep):
     """Pure coordination, inject search_fn for tests; never guesses wholesale."""
     valid = []
     for k, category, brand in approved:
@@ -259,4 +260,5 @@ def main():
 
 if __name__=="__main__":
     main()
+
 
