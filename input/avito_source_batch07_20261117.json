@@ -1,0 +1,817 @@
+{
+  "batch_id": "source-07",
+  "scope": 100,
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "CI1013",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0020278866",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:09.804843+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1015",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026703418",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:11.365302+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1025",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0020278902",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:11.990546+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1059",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0020278891",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:12.936704+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1073",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024595239",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:14.702387+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1095",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024118000",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:14.992926+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1096",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024117998",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:15.844673+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1103",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024118006",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:17.206863+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1105",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024118007",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:17.978844+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1106",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025021616",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:18.922420+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1116",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024118017",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:19.789405+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1128",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024595240",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:20.718803+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1132",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479860",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:21.677244+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1148",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479863",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:22.723036+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1149",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479864",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:23.771572+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1164",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479879",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:24.941181+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1171",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479886",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:25.974485+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1174",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479889",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:26.900000+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1178",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479893",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:28.050473+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1180",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479895",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:28.715003+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1182",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479897",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:29.738957+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1184",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479899",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:30.898104+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1185",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479900",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:31.896016+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1189",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479904",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:33.396151+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1191",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479907",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:33.929817+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1197",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479913",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:34.806182+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1203",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479919",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:35.970822+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1207",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479923",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:36.813153+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1212",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479928",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:37.801997+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1213",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479929",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:39.175983+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1214",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479930",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:39.854899+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1219",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479935",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:41.011546+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1220",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479936",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:41.912044+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1224",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479940",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:42.985369+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1227",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479943",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:43.778812+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1234",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479951",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:44.970290+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1235",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479952",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:45.767393+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1239",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479956",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:46.626623+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1246",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479963",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:47.673820+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1248",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479965",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:48.614022+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1253",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026479970",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:49.818104+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1269",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547092",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:50.666421+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1279",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547096",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:51.642742+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1280",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547097",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:53.365866+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1284",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547101",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:53.707736+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1292",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547208",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:54.697488+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1301",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547117",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:55.790284+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1302",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547118",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:57.027410+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1311",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547127",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:57.783464+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1317",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547133",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:58.739107+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1319",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547135",
+      "previous_API_checked_at_utc": "2026-11-16T10:33:59.743363+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1326",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547142",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:00.759670+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1328",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547144",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:01.714837+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1329",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547145",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:02.655309+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1330",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547146",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:03.900108+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1331",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547147",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:04.612876+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1339",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547155",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:05.698304+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1357",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547171",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:06.827770+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1365",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547179",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:08.117690+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1366",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547180",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:08.687089+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1374",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547187",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:09.655493+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI1387",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026547200",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:10.777400+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3403",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0018860107",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:12.430237+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3710",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023168978",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:13.095633+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3712",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023168980",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:13.741805+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3720",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023168987",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:14.952474+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3721",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023168988",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:16.455048+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3729",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0013104765",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:17.044283+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3730",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0013104766",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:17.706363+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3733",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0013104769",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:19.044514+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3735",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0013104771",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:19.940929+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3738",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0013104774",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:21.221743+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3746",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0013104782",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:21.659037+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3748",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0013104784",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:22.822879+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3757",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0015300327",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:23.879485+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3761",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0015300329",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:25.313975+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3766",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018271005",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:25.776045+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3790",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018502635",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:27.039952+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3797",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018502645",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:28.000944+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3798",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018502638",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:29.034863+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3799",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018502646",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:29.928402+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI3815",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018502628",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:31.413975+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI4601",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019617847",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:32.233759+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI4602",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019617848",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:33.519835+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CI7501",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0018860109",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:33.950515+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1202A",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0018470898",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:36.187019+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1205",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023155121",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:36.616602+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1225",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019700417",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:37.567354+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1227",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019648442",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:38.804541+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1808A",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0018860113",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:39.819768+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1821",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019616866",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:40.628543+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1842",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0021319053",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:41.413946+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1843A",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0019585730",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:42.575973+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1851A",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0022740577",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:42.784576+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1854",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0023743835",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:44.182173+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1855A",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024117979",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:45.075799+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1861A",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024117978",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:46.246961+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1880",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024117986",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:47.181105+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1882",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024118003",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:49.876135+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "CO1886",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024118010",
+      "previous_API_checked_at_utc": "2026-11-16T10:34:50.126746+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ],
+  "publication_performed": false,
+  "archive_count_at_selection": 422,
+  "excluded_previous_source_batches": true,
+  "excluded_misclassified": [
+    {
+      "brand": "LYNXauto",
+      "article": "CG1001",
+      "reason": "CVJ grease, not a CV joint",
+      "manufacturer_reference": "https://ecatalogue.lynxauto.jp/index.php?product_id=23017&route=product%2Fproduct"
+    }
+  ]
+}
