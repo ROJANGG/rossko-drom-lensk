@@ -28159,6 +28159,50 @@
       "source": "fresh_personal_ROSSKO_API",
       "avito_retail_rub": 950,
       "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "TYZZE15",
+      "supplier_nomenclature": "NSIN0019755406",
+      "checked_at_utc": "2026-11-17T07:48:02.786638+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3950,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "TYRACA30",
+      "supplier_nomenclature": "NSII0007196045",
+      "checked_at_utc": "2026-11-17T07:48:03.185781+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3250,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "VW5N",
+      "supplier_nomenclature": "NSII0009633837",
+      "checked_at_utc": "2026-11-17T07:48:05.032636+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 5200,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "Asva",
+      "article": "VWIU1KC6AT",
+      "supplier_nomenclature": "NSII0009633839",
+      "checked_at_utc": "2026-11-17T07:48:06.025163+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 4950,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     }
   ],
   "not_approved_for_publication": true
