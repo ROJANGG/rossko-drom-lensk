@@ -29512,6 +29512,94 @@
       "source": "fresh_personal_ROSSKO_API",
       "avito_retail_rub": 2450,
       "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Trialli",
+      "article": "CS1673",
+      "supplier_nomenclature": "NSII0027061171",
+      "checked_at_utc": "2026-11-17T07:50:15.535364+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3250,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Trialli",
+      "article": "CS1171",
+      "supplier_nomenclature": "NSII0024834733",
+      "checked_at_utc": "2026-11-17T07:50:15.740789+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3300,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Trialli",
+      "article": "CS2070",
+      "supplier_nomenclature": "NSII0026496295",
+      "checked_at_utc": "2026-11-17T07:50:17.811460+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3300,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Trialli",
+      "article": "CS2173",
+      "supplier_nomenclature": "NSII0027061127",
+      "checked_at_utc": "2026-11-17T07:50:18.169224+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3000,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Trialli",
+      "article": "CS2175",
+      "supplier_nomenclature": "NSII0026496279",
+      "checked_at_utc": "2026-11-17T07:50:19.508413+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3450,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Trialli",
+      "article": "CS2574",
+      "supplier_nomenclature": "NSII0026496290",
+      "checked_at_utc": "2026-11-17T07:50:20.244253+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3500,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Trialli",
+      "article": "CS3528",
+      "supplier_nomenclature": "NSII0027061090",
+      "checked_at_utc": "2026-11-17T07:50:21.943895+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2350,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "Ступичные подшипники",
+      "brand": "Trialli",
+      "article": "CS3901",
+      "supplier_nomenclature": "NSII0026496280",
+      "checked_at_utc": "2026-11-17T07:50:22.389568+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2700,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     }
   ],
   "not_approved_for_publication": true
