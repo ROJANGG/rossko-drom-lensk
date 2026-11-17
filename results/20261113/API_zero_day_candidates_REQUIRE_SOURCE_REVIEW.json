@@ -28214,6 +28214,105 @@
       "source": "fresh_personal_ROSSKO_API",
       "avito_retail_rub": 3050,
       "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1023",
+      "supplier_nomenclature": "NSII0024685654",
+      "checked_at_utc": "2026-11-17T07:48:10.901974+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2700,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1031",
+      "supplier_nomenclature": "NSII0024685618",
+      "checked_at_utc": "2026-11-17T07:48:11.388237+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2600,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1038",
+      "supplier_nomenclature": "NSII0024685590",
+      "checked_at_utc": "2026-11-17T07:48:12.584628+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2550,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1045",
+      "supplier_nomenclature": "NSII0024685596",
+      "checked_at_utc": "2026-11-17T07:48:13.236564+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2750,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1046",
+      "supplier_nomenclature": "NSII0024685603",
+      "checked_at_utc": "2026-11-17T07:48:14.557047+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2200,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1048",
+      "supplier_nomenclature": "NSII0024685563",
+      "checked_at_utc": "2026-11-17T07:48:15.737627+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3200,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1050",
+      "supplier_nomenclature": "NSII0024685638",
+      "checked_at_utc": "2026-11-17T07:48:16.208566+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2100,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1065",
+      "supplier_nomenclature": "NSII0024685586",
+      "checked_at_utc": "2026-11-17T07:48:17.470896+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 2650,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
+    },
+    {
+      "category": "ШРУС",
+      "brand": "SUFIX",
+      "article": "ST1074",
+      "supplier_nomenclature": "NSII0024685652",
+      "checked_at_utc": "2026-11-17T07:48:18.931425+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "source": "fresh_personal_ROSSKO_API",
+      "avito_retail_rub": 3250,
+      "source_review_status": "PENDING_OEM_FITMENT_REAL_PHOTO_VERIFICATION"
     }
   ],
   "not_approved_for_publication": true
