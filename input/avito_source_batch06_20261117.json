@@ -1,0 +1,809 @@
+{
+  "batch_id": "source-06",
+  "scope": 100,
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "104CL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0007308725",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:12.998230+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "105FL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019523195",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:14.247090+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL19",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019709695",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:15.782004+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL25",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0022333702",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:15.934637+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111EL17",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018766042",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:17.307330+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "112FL24",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018766044",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:18.213776+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "113FL17",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0007151846",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:19.243050+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117EL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0013008517",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:20.078025+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117FL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018860015",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:21.328942+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117FL22XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0027903609",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:22.114404+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "121AL21",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018766045",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:23.026994+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "123FL29",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018630674",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:24.142751+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "124FL29",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019725084",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:25.171719+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "125FL26",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019616955",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:26.002320+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "129AL27",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018470895",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:26.985975+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "129FL254",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018423347",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:27.959496+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "134CL254",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0022333690",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:29.237940+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "137AL254",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018860016",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:29.999211+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "137FL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0022333756",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:31.183339+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "141EL30",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0013008524",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:31.961274+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "150CL23",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018766054",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:33.087583+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "153FL29",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018142250",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:34.106852+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "162CL20",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019727638",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:35.070218+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "163CL267",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018423353",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:36.081429+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "163EL20",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0013008536",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:37.342296+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "173CL25",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0022333712",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:38.106132+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "177AL25",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0022333810",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:39.020217+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "177EL254",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018630678",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:40.026941+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "179EL20",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0013008538",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:40.974835+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "187BL32XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0027903612",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:42.162826+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "211AL32",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018630860",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:43.041742+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "281BL30",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0007308865",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:44.129087+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "65BL127",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018470720",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:45.125578+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "96CL173",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0023159667",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:47.479260+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "96EL17",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019725089",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:48.392006+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "97CL216",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0025737884",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:49.150916+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0006",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142081",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:10.047196+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0061",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142088",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:11.071198+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0085",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026236328",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:12.362834+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0087",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019579982",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:13.341541+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0096",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142106",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:13.887153+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0121",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142113",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:14.864924+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0128",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022662083",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:15.883755+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0137",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142118",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:16.872943+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0144",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142119",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:18.040744+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0145",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142120",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:18.849794+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0156",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142124",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:19.991438+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0186",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277558",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:21.093949+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0193",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142130",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:22.012586+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0202",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022739387",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:23.229276+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0209",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142139",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:23.899178+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0273",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022739422",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:25.018537+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0346",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026236378",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:26.059609+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0347",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0025062861",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:26.881246+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0365",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142145",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:27.940849+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0378",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019926706",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:29.176106+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0380",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277571",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:30.222088+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0420",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0024393521",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:31.033605+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0450",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022739378",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:32.329168+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0491",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022739386",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:32.960062+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0512",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019579988",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:34.143855+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0522",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277552",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:35.077381+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0531",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019579991",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:36.207305+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0532",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022739416",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:37.111238+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0561",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277556",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:38.053373+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0562",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0025062869",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:38.948747+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0568",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277560",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:39.991718+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0618",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277568",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:41.194437+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0620",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019579989",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:41.981064+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0664",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022739398",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:43.003286+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0680",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277586",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:44.228581+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0732",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277567",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:45.033171+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0815",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142156",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:45.964966+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0955",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277596",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:46.976227+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0956",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019277589",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:48.006450+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0958",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142162",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:49.181316+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1085",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0025021877",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:49.922450+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1105",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142164",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:51.023260+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1130",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022739449",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:51.936077+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1177",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0027142167",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:52.838326+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1230",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0025062928",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:53.933565+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1256",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0024393525",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:54.923341+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1260",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0022739446",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:56.058439+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1308",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0024393529",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:56.922366+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH1309",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0024393530",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:58.018936+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1005",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360163",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:45.902071+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1008",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018376313",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:46.801302+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1010",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360156",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:47.941835+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1012",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018376315",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:49.126982+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1022",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360206",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:53.318358+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1024",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360204",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:52.980130+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1025",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360203",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:53.831924+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1035",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360169",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:54.811407+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1036",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360170",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:55.808521+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1108",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018376363",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:56.562196+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1115",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360166",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:57.654983+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1117",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360165",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:58.583660+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1124",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360209",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:59.822914+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1126",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360213",
+      "previous_API_checked_at_utc": "2026-11-13T16:18:00.923363+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "RB1129",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0018360212",
+      "previous_API_checked_at_utc": "2026-11-13T16:18:01.943106+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ],
+  "publication_performed": false,
+  "archive_count_at_selection": 422,
+  "excluded_previous_source_batches": true
+}
