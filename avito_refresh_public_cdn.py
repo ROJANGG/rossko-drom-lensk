@@ -31,11 +31,11 @@ def refresh(expected, *, getter=fetch, sleeper=time.sleep):
     result = json.loads(getter(PURGE))
     if result.get('status') not in ('finished', 'pending', 'processing'):
         raise ValueError('CDN refresh request not accepted')
-    for attempt in range(5):
+    for attempt in range(12):
         if hashlib.sha256(getter(CDN)).hexdigest() == digest:
             return {'ads': count, 'sha256': digest, 'cdn_exact_bytes_verified': True}
-        if attempt < 4:
-            sleeper(2 * (attempt + 1))
+        if attempt < 11:
+            sleeper(10)
     raise ValueError('CDN still serves different XML bytes after refresh')
 
 
