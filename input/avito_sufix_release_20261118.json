@@ -1,0 +1,1301 @@
+{
+  "as_of_utc": "2026-11-18T08:43:54.475008+00:00",
+  "before": 408,
+  "after": 482,
+  "approved_before": 422,
+  "approved_after": 496,
+  "scope_count": 93,
+  "added_count": 74,
+  "added": [
+    {
+      "id": "irk-b60272f90432562ae77e2e",
+      "brand": "SUFIX",
+      "article": "SM1013",
+      "category": "Ступичные подшипники",
+      "retail": 1750,
+      "photo": {
+        "filename": "irk-b60272f90432562ae77e2e-6a00498a9e98.jpg",
+        "sha256": "6a00498a9e98155edce6136e42e80f384ec01dae3262440ea4b767bec9b1b326",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b60272f90432562ae77e2e-6a00498a9e98.jpg",
+        "manufacturer_page_sha256": "2443121d32e4b465198f59e113d6a522e3bc6c6ba6e1b7e1f13676580ce6640e",
+        "fitment_page_sha256": "2443121d32e4b465198f59e113d6a522e3bc6c6ba6e1b7e1f13676580ce6640e",
+        "verified_at_utc": "2026-11-18T08:39:12.989510+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:24.766634+00:00"
+    },
+    {
+      "id": "irk-13abba806666e8eb4493ae",
+      "brand": "SUFIX",
+      "article": "SM1015",
+      "category": "Ступичные подшипники",
+      "retail": 1350,
+      "photo": {
+        "filename": "irk-13abba806666e8eb4493ae-8053ce7701a2.jpg",
+        "sha256": "8053ce7701a244b6bfcbe25ba330fe66c2e1fb1c4787153a23f8122ce2d0f014",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-13abba806666e8eb4493ae-8053ce7701a2.jpg",
+        "manufacturer_page_sha256": "4b709846fe9f4329778c7f7a076d1b2891540ff91cd8c81b36c2ef4939ece43f",
+        "fitment_page_sha256": "4b709846fe9f4329778c7f7a076d1b2891540ff91cd8c81b36c2ef4939ece43f",
+        "verified_at_utc": "2026-11-18T08:39:13.429701+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:26.610010+00:00"
+    },
+    {
+      "id": "irk-c623e7960457b749faa2b4",
+      "brand": "SUFIX",
+      "article": "SM1017",
+      "category": "Ступичные подшипники",
+      "retail": 1750,
+      "photo": {
+        "filename": "irk-c623e7960457b749faa2b4-117c41afbd81.jpg",
+        "sha256": "117c41afbd8101318f44f0b5e8954c80c7cd4360a5bb9b8f5c367b081072cd40",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c623e7960457b749faa2b4-117c41afbd81.jpg",
+        "manufacturer_page_sha256": "a961a08e214fe0926414a60d0b2b66ef2389cba94895190aea8ce32c7fde90fb",
+        "fitment_page_sha256": "a961a08e214fe0926414a60d0b2b66ef2389cba94895190aea8ce32c7fde90fb",
+        "verified_at_utc": "2026-11-18T08:39:16.679868+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:28.542352+00:00"
+    },
+    {
+      "id": "irk-845717948bb14727778f23",
+      "brand": "SUFIX",
+      "article": "SM1016",
+      "category": "Ступичные подшипники",
+      "retail": 1600,
+      "photo": {
+        "filename": "irk-845717948bb14727778f23-bdb1308a85f9.jpg",
+        "sha256": "bdb1308a85f9232179ac470508c4db81a5fe211298bcb2cc059439cb5fbff29b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-845717948bb14727778f23-bdb1308a85f9.jpg",
+        "manufacturer_page_sha256": "9ab0b974450b6c9fa74073dcc2bd3affb3126ca23095c51867a5fdd63eef7250",
+        "fitment_page_sha256": "9ab0b974450b6c9fa74073dcc2bd3affb3126ca23095c51867a5fdd63eef7250",
+        "verified_at_utc": "2026-11-18T08:39:16.331510+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:30.966929+00:00"
+    },
+    {
+      "id": "irk-4d548f109672a073526c4f",
+      "brand": "SUFIX",
+      "article": "SM1018",
+      "category": "Ступичные подшипники",
+      "retail": 1400,
+      "photo": {
+        "filename": "irk-4d548f109672a073526c4f-881608902071.jpg",
+        "sha256": "8816089020712aecfbffa3b6519a624a86dd7d77dc3cf4f13a024fb462e493c4",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4d548f109672a073526c4f-881608902071.jpg",
+        "manufacturer_page_sha256": "a48901e620f2110b52d781a137cf06cd67193cc0bd5d3d9c92f12021f3e7d5f8",
+        "fitment_page_sha256": "a48901e620f2110b52d781a137cf06cd67193cc0bd5d3d9c92f12021f3e7d5f8",
+        "verified_at_utc": "2026-11-18T08:39:18.883824+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:33.499072+00:00"
+    },
+    {
+      "id": "irk-44e8e8bd7a5b4ccc9cf910",
+      "brand": "SUFIX",
+      "article": "SM1020",
+      "category": "Ступичные подшипники",
+      "retail": 1400,
+      "photo": {
+        "filename": "irk-44e8e8bd7a5b4ccc9cf910-448b68e78872.jpg",
+        "sha256": "448b68e7887296c532de7a634039e885aaf9c8ff716fe522f3b3a80a58505062",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-44e8e8bd7a5b4ccc9cf910-448b68e78872.jpg",
+        "manufacturer_page_sha256": "83f71575c80dae941f8cc8efe0209235389e00d553e719f0b832397638ce9ad4",
+        "fitment_page_sha256": "83f71575c80dae941f8cc8efe0209235389e00d553e719f0b832397638ce9ad4",
+        "verified_at_utc": "2026-11-18T08:39:19.528723+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:35.510100+00:00"
+    },
+    {
+      "id": "irk-a727227f1cb44a2704fa89",
+      "brand": "SUFIX",
+      "article": "SM1021",
+      "category": "Ступичные подшипники",
+      "retail": 1250,
+      "photo": {
+        "filename": "irk-a727227f1cb44a2704fa89-75c3394189a8.jpg",
+        "sha256": "75c3394189a8a1ebb160c629ca24e8dd5927fa57985aac902e047e8bdf8ac120",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a727227f1cb44a2704fa89-75c3394189a8.jpg",
+        "manufacturer_page_sha256": "67156280fb5d8f6e824c159f597ad9e584de69168e6b89e4b415de95c5164aae",
+        "fitment_page_sha256": "67156280fb5d8f6e824c159f597ad9e584de69168e6b89e4b415de95c5164aae",
+        "verified_at_utc": "2026-11-18T08:39:21.209102+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:37.079949+00:00"
+    },
+    {
+      "id": "irk-614e2fe1085260fb2fac1b",
+      "brand": "SUFIX",
+      "article": "SM1022",
+      "category": "Ступичные подшипники",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-614e2fe1085260fb2fac1b-e27987d214ce.jpg",
+        "sha256": "e27987d214ce87bbfbffd7bf6e02400725196053ae0a1dedd37a764d05b33d7d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-614e2fe1085260fb2fac1b-e27987d214ce.jpg",
+        "manufacturer_page_sha256": "bedb2fb83f05ebac7e9c0a05fa035e1eaf829bb490b1a513422c697e0166a711",
+        "fitment_page_sha256": "bedb2fb83f05ebac7e9c0a05fa035e1eaf829bb490b1a513422c697e0166a711",
+        "verified_at_utc": "2026-11-18T08:39:24.254811+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:39.277495+00:00"
+    },
+    {
+      "id": "irk-e6f61a1c905747103283c8",
+      "brand": "SUFIX",
+      "article": "SM1025",
+      "category": "Ступичные подшипники",
+      "retail": 1750,
+      "photo": {
+        "filename": "irk-e6f61a1c905747103283c8-5392910f3f94.jpg",
+        "sha256": "5392910f3f94e0639887219198127e3d2fca8edb411cfd88304f83d2bde3a651",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e6f61a1c905747103283c8-5392910f3f94.jpg",
+        "manufacturer_page_sha256": "520d5bbc1862ae891767236ff53e2d84e742a384fb2c6adc923be368a37f1a9e",
+        "fitment_page_sha256": "520d5bbc1862ae891767236ff53e2d84e742a384fb2c6adc923be368a37f1a9e",
+        "verified_at_utc": "2026-11-18T08:39:25.302946+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:41.509762+00:00"
+    },
+    {
+      "id": "irk-6fe45c0ee04a5137a5e42d",
+      "brand": "SUFIX",
+      "article": "SM1028",
+      "category": "Ступичные подшипники",
+      "retail": 1250,
+      "photo": {
+        "filename": "irk-6fe45c0ee04a5137a5e42d-7263e04784bf.jpg",
+        "sha256": "7263e04784bfee8137f04ef9f5b0f5ba668be372eec19363b94f13858b941f24",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6fe45c0ee04a5137a5e42d-7263e04784bf.jpg",
+        "manufacturer_page_sha256": "ddbb129fe425e650a627dbc3a5709e817422f8b393ebdd04b9b3c9aef96a3133",
+        "fitment_page_sha256": "ddbb129fe425e650a627dbc3a5709e817422f8b393ebdd04b9b3c9aef96a3133",
+        "verified_at_utc": "2026-11-18T08:39:31.031122+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:43.955533+00:00"
+    },
+    {
+      "id": "irk-96cd09e571ca73b0aa7775",
+      "brand": "SUFIX",
+      "article": "SM1029",
+      "category": "Ступичные подшипники",
+      "retail": 1500,
+      "photo": {
+        "filename": "irk-96cd09e571ca73b0aa7775-3940c51e0d8c.jpg",
+        "sha256": "3940c51e0d8cdc68acd831714aacf374f40e94d694d40c20c6349423945053e9",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-96cd09e571ca73b0aa7775-3940c51e0d8c.jpg",
+        "manufacturer_page_sha256": "ffc34633805639dcc0a8b3b9b83d3a95639bb7128e6b3cecf2306389dbeae8d6",
+        "fitment_page_sha256": "ffc34633805639dcc0a8b3b9b83d3a95639bb7128e6b3cecf2306389dbeae8d6",
+        "verified_at_utc": "2026-11-18T08:39:38.783340+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:46.766342+00:00"
+    },
+    {
+      "id": "irk-e4636ba890437b2a1ee4cb",
+      "brand": "SUFIX",
+      "article": "SM1032",
+      "category": "Ступичные подшипники",
+      "retail": 2900,
+      "photo": {
+        "filename": "irk-e4636ba890437b2a1ee4cb-608876a70f35.jpg",
+        "sha256": "608876a70f35c2d6ed641c9a2437489705a9a10ab131ec70a82d469917220cac",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e4636ba890437b2a1ee4cb-608876a70f35.jpg",
+        "manufacturer_page_sha256": "49cf60833096a2c88dbe21caad53e41bc981d859745d2a1c27700f23b652b3a8",
+        "fitment_page_sha256": "49cf60833096a2c88dbe21caad53e41bc981d859745d2a1c27700f23b652b3a8",
+        "verified_at_utc": "2026-11-18T08:39:39.365744+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:48.992380+00:00"
+    },
+    {
+      "id": "irk-1f9b257fc1e0c435bd8d83",
+      "brand": "SUFIX",
+      "article": "SM1035",
+      "category": "Ступичные подшипники",
+      "retail": 1550,
+      "photo": {
+        "filename": "irk-1f9b257fc1e0c435bd8d83-0b943feafee5.jpg",
+        "sha256": "0b943feafee5d399aaaf1146d6105a623f2751a66b820cff0c018724fcf3c17c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1f9b257fc1e0c435bd8d83-0b943feafee5.jpg",
+        "manufacturer_page_sha256": "3f56fbee5596b39c28d87d455ca28546618777dcc0c9a9086999e00636d9bd09",
+        "fitment_page_sha256": "3f56fbee5596b39c28d87d455ca28546618777dcc0c9a9086999e00636d9bd09",
+        "verified_at_utc": "2026-11-18T08:39:41.476346+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:51.593612+00:00"
+    },
+    {
+      "id": "irk-9036340e9a8b04d7db4715",
+      "brand": "SUFIX",
+      "article": "SM1040",
+      "category": "Ступичные подшипники",
+      "retail": 1300,
+      "photo": {
+        "filename": "irk-9036340e9a8b04d7db4715-fd92cb7cba2b.jpg",
+        "sha256": "fd92cb7cba2bb4d4f35b6ed209708475934438c5dab0848e0d8e8d5ed80287ba",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9036340e9a8b04d7db4715-fd92cb7cba2b.jpg",
+        "manufacturer_page_sha256": "f6c4f387573e88628a3e91385af5b1c28edb8168f61be5aebc7a95080a56331d",
+        "fitment_page_sha256": "f6c4f387573e88628a3e91385af5b1c28edb8168f61be5aebc7a95080a56331d",
+        "verified_at_utc": "2026-11-18T08:39:42.080364+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:53.745752+00:00"
+    },
+    {
+      "id": "irk-429721354ced3f0738e4e3",
+      "brand": "SUFIX",
+      "article": "SM1041",
+      "category": "Ступичные подшипники",
+      "retail": 1750,
+      "photo": {
+        "filename": "irk-429721354ced3f0738e4e3-3dd355444454.jpg",
+        "sha256": "3dd355444454af0d75c7642f9d54b00e684f819c79b3d9272557af4484d04747",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-429721354ced3f0738e4e3-3dd355444454.jpg",
+        "manufacturer_page_sha256": "c113eaebe10bded0ab8bb27ff9d44e12c1cb81e3cf8ed82578a1239e1ab86f01",
+        "fitment_page_sha256": "c113eaebe10bded0ab8bb27ff9d44e12c1cb81e3cf8ed82578a1239e1ab86f01",
+        "verified_at_utc": "2026-11-18T08:39:43.900732+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:56.350261+00:00"
+    },
+    {
+      "id": "irk-f726b175f0952f3ce1ea07",
+      "brand": "SUFIX",
+      "article": "SM1044",
+      "category": "Ступичные подшипники",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-f726b175f0952f3ce1ea07-a0c5d0bf8e05.jpg",
+        "sha256": "a0c5d0bf8e05aecba837c8374fb31ee0813d9d5b98c09140c9e387ab0e7ca836",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f726b175f0952f3ce1ea07-a0c5d0bf8e05.jpg",
+        "manufacturer_page_sha256": "48f3103ba8c622688c0fee385345126c9134e47b8f478fd58486b2bff8defe16",
+        "fitment_page_sha256": "48f3103ba8c622688c0fee385345126c9134e47b8f478fd58486b2bff8defe16",
+        "verified_at_utc": "2026-11-18T08:39:46.552310+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:41:59.588888+00:00"
+    },
+    {
+      "id": "irk-cea3ec134b301ea2dd29d4",
+      "brand": "SUFIX",
+      "article": "SM1046",
+      "category": "Ступичные подшипники",
+      "retail": 1650,
+      "photo": {
+        "filename": "irk-cea3ec134b301ea2dd29d4-8bfb17a89dbf.jpg",
+        "sha256": "8bfb17a89dbf8984d07a4862ce3df4b1f0a4dc1e240cadcfad7013a3aee1f353",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cea3ec134b301ea2dd29d4-8bfb17a89dbf.jpg",
+        "manufacturer_page_sha256": "c230e2517428bc86d91b1a86d4c15e935b3fafb469269aed2498ecb6d7ab89e3",
+        "fitment_page_sha256": "c230e2517428bc86d91b1a86d4c15e935b3fafb469269aed2498ecb6d7ab89e3",
+        "verified_at_utc": "2026-11-18T08:39:47.582496+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:01.495625+00:00"
+    },
+    {
+      "id": "irk-c62dbb4d1859e77c375077",
+      "brand": "SUFIX",
+      "article": "SM1054",
+      "category": "Ступичные подшипники",
+      "retail": 1300,
+      "photo": {
+        "filename": "irk-c62dbb4d1859e77c375077-cb6861a334b8.jpg",
+        "sha256": "cb6861a334b855a6269da0516eabb8dfdad0779a3e419d34a28816a790d648d3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c62dbb4d1859e77c375077-cb6861a334b8.jpg",
+        "manufacturer_page_sha256": "c89588f477296b5e8f3aac7e6c00af21ba1106573f459454a65a4c6cc2a105ca",
+        "fitment_page_sha256": "c89588f477296b5e8f3aac7e6c00af21ba1106573f459454a65a4c6cc2a105ca",
+        "verified_at_utc": "2026-11-18T08:39:53.757030+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:04.596720+00:00"
+    },
+    {
+      "id": "irk-375e58635463fa24aa5fd8",
+      "brand": "SUFIX",
+      "article": "SM1055",
+      "category": "Ступичные подшипники",
+      "retail": 1850,
+      "photo": {
+        "filename": "irk-375e58635463fa24aa5fd8-e8c47f30157e.jpg",
+        "sha256": "e8c47f30157ecf47d51bccd98f2a3c7dc5bddcb2f5a075ed5bc16c89f9222ddd",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-375e58635463fa24aa5fd8-e8c47f30157e.jpg",
+        "manufacturer_page_sha256": "b8980cf2855f11c3d38ae1d2bb458f69b5e5f9cdd774a4ace8b8ca36db1538df",
+        "fitment_page_sha256": "b8980cf2855f11c3d38ae1d2bb458f69b5e5f9cdd774a4ace8b8ca36db1538df",
+        "verified_at_utc": "2026-11-18T08:39:54.492301+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:06.686088+00:00"
+    },
+    {
+      "id": "irk-df7d98eaebd68f688518e8",
+      "brand": "SUFIX",
+      "article": "SM1057",
+      "category": "Ступичные подшипники",
+      "retail": 1800,
+      "photo": {
+        "filename": "irk-df7d98eaebd68f688518e8-f68604e65a96.jpg",
+        "sha256": "f68604e65a96d02ca6b4c984c79096f35eaf80c8151070d21e9497089c255d69",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-df7d98eaebd68f688518e8-f68604e65a96.jpg",
+        "manufacturer_page_sha256": "772d69f0b274ae84d180473d9bcb8f57d305b7d177e5e130f09545e2daeb52b2",
+        "fitment_page_sha256": "772d69f0b274ae84d180473d9bcb8f57d305b7d177e5e130f09545e2daeb52b2",
+        "verified_at_utc": "2026-11-18T08:39:56.449012+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:08.867694+00:00"
+    },
+    {
+      "id": "irk-1fbc27f80d34ac86123256",
+      "brand": "SUFIX",
+      "article": "SM1059",
+      "category": "Ступичные подшипники",
+      "retail": 1650,
+      "photo": {
+        "filename": "irk-1fbc27f80d34ac86123256-fe9b6baf2ba4.jpg",
+        "sha256": "fe9b6baf2ba40f2b26a8405ffe1b1c5c5c389a6647b926928240ee88dddcb8b0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1fbc27f80d34ac86123256-fe9b6baf2ba4.jpg",
+        "manufacturer_page_sha256": "250c2af488b649117053f2d16644e3f58cf0d1961f798a892808e962ce37b011",
+        "fitment_page_sha256": "250c2af488b649117053f2d16644e3f58cf0d1961f798a892808e962ce37b011",
+        "verified_at_utc": "2026-11-18T08:39:57.004247+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:10.750417+00:00"
+    },
+    {
+      "id": "irk-f9adf8e983b95c677534f1",
+      "brand": "SUFIX",
+      "article": "SM1061",
+      "category": "Ступичные подшипники",
+      "retail": 1800,
+      "photo": {
+        "filename": "irk-f9adf8e983b95c677534f1-61a65298a279.jpg",
+        "sha256": "61a65298a2794f2d4e4929a420387cb451fef18fa173d3ee9f903e272a656a39",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f9adf8e983b95c677534f1-61a65298a279.jpg",
+        "manufacturer_page_sha256": "e5578069326a45175642d37992e124a709c46699021cb6e63fa7eb41c494ffa2",
+        "fitment_page_sha256": "e5578069326a45175642d37992e124a709c46699021cb6e63fa7eb41c494ffa2",
+        "verified_at_utc": "2026-11-18T08:39:58.815607+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:13.080338+00:00"
+    },
+    {
+      "id": "irk-6d599bd8389e70b3c4d546",
+      "brand": "SUFIX",
+      "article": "SM1062",
+      "category": "Ступичные подшипники",
+      "retail": 1550,
+      "photo": {
+        "filename": "irk-6d599bd8389e70b3c4d546-32eb87b959af.jpg",
+        "sha256": "32eb87b959af6c65c34dc4dac0db349b9d22f4cfb23e8a250b6cbbdcd3455549",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6d599bd8389e70b3c4d546-32eb87b959af.jpg",
+        "manufacturer_page_sha256": "b32acfc4f62340b81f622e7e96d5f7aae247ce3fc9a777d1e61ea830b534bced",
+        "fitment_page_sha256": "b32acfc4f62340b81f622e7e96d5f7aae247ce3fc9a777d1e61ea830b534bced",
+        "verified_at_utc": "2026-11-18T08:40:01.970965+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:15.123111+00:00"
+    },
+    {
+      "id": "irk-e8cfec1585cc529b19df26",
+      "brand": "SUFIX",
+      "article": "SM1063",
+      "category": "Ступичные подшипники",
+      "retail": 1700,
+      "photo": {
+        "filename": "irk-e8cfec1585cc529b19df26-505c26ac3720.jpg",
+        "sha256": "505c26ac3720903cd14e15494334866ef671544a503af8e2f096b84785d078d7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e8cfec1585cc529b19df26-505c26ac3720.jpg",
+        "manufacturer_page_sha256": "ed0129d7cafe6f979957d537bf5e6b585236a85ec1efadbc62449292f7a7ff38",
+        "fitment_page_sha256": "ed0129d7cafe6f979957d537bf5e6b585236a85ec1efadbc62449292f7a7ff38",
+        "verified_at_utc": "2026-11-18T08:40:02.753821+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:16.880486+00:00"
+    },
+    {
+      "id": "irk-628549166d1fe24b922958",
+      "brand": "SUFIX",
+      "article": "SM1064",
+      "category": "Ступичные подшипники",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-628549166d1fe24b922958-19ba062609ae.jpg",
+        "sha256": "19ba062609ae57ecb5b23ddaa19e50c026b1373b357193e7befffb89b04097fe",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-628549166d1fe24b922958-19ba062609ae.jpg",
+        "manufacturer_page_sha256": "22bba7b72bab33d1026e7f7a2c73b78b01ca07ab0404378599560da4b2efc877",
+        "fitment_page_sha256": "22bba7b72bab33d1026e7f7a2c73b78b01ca07ab0404378599560da4b2efc877",
+        "verified_at_utc": "2026-11-18T08:40:04.529946+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:19.218133+00:00"
+    },
+    {
+      "id": "irk-f740a41f8fe4b3ed717fac",
+      "brand": "SUFIX",
+      "article": "SM1066",
+      "category": "Ступичные подшипники",
+      "retail": 1750,
+      "photo": {
+        "filename": "irk-f740a41f8fe4b3ed717fac-6f476d1a42f0.jpg",
+        "sha256": "6f476d1a42f09a39c156a8aabb2ea881e7461f35923c63cdad2ccc6bae5ed4c0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f740a41f8fe4b3ed717fac-6f476d1a42f0.jpg",
+        "manufacturer_page_sha256": "d86957dbf4145f1713862fcd156e4a2e0aa0ce1c90b22bb1f09983ec8add9747",
+        "fitment_page_sha256": "d86957dbf4145f1713862fcd156e4a2e0aa0ce1c90b22bb1f09983ec8add9747",
+        "verified_at_utc": "2026-11-18T08:40:08.350502+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:22.362433+00:00"
+    },
+    {
+      "id": "irk-76ec5cfcd47e70714921b4",
+      "brand": "SUFIX",
+      "article": "SM1067",
+      "category": "Ступичные подшипники",
+      "retail": 2000,
+      "photo": {
+        "filename": "irk-76ec5cfcd47e70714921b4-dd3229a8078f.jpg",
+        "sha256": "dd3229a8078f65a63d834f072d4b193d5604af905c4239d3694d1de28b1dece0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-76ec5cfcd47e70714921b4-dd3229a8078f.jpg",
+        "manufacturer_page_sha256": "7fc8fab06beeaf90041fb4210abc92e41e3991287c1f9c7a203f894d9e5066ea",
+        "fitment_page_sha256": "7fc8fab06beeaf90041fb4210abc92e41e3991287c1f9c7a203f894d9e5066ea",
+        "verified_at_utc": "2026-11-18T08:40:09.769336+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:24.979860+00:00"
+    },
+    {
+      "id": "irk-f646c33f91462e519e23dd",
+      "brand": "SUFIX",
+      "article": "SM1068",
+      "category": "Ступичные подшипники",
+      "retail": 1600,
+      "photo": {
+        "filename": "irk-f646c33f91462e519e23dd-bae8a9a6cfec.jpg",
+        "sha256": "bae8a9a6cfec79424110fea50c0d64866c72f1f49fe6c2ddc7af11b25db0a556",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f646c33f91462e519e23dd-bae8a9a6cfec.jpg",
+        "manufacturer_page_sha256": "a587045747a41b7835566e064806799d26aa64dd3c7a685932d9e27b5197b5dd",
+        "fitment_page_sha256": "a587045747a41b7835566e064806799d26aa64dd3c7a685932d9e27b5197b5dd",
+        "verified_at_utc": "2026-11-18T08:40:10.694046+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:27.021922+00:00"
+    },
+    {
+      "id": "irk-55abebe2804648fb7e9359",
+      "brand": "SUFIX",
+      "article": "SM1073",
+      "category": "Ступичные подшипники",
+      "retail": 1250,
+      "photo": {
+        "filename": "irk-55abebe2804648fb7e9359-6c7442f05979.jpg",
+        "sha256": "6c7442f05979e5d5dc9e1bab0b4bf978668bb77e040dfe13e1aece5d63690076",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-55abebe2804648fb7e9359-6c7442f05979.jpg",
+        "manufacturer_page_sha256": "6087d54a79e99194edc87b3ff98993019583804abc13d3f7f24e116f86ad3f82",
+        "fitment_page_sha256": "6087d54a79e99194edc87b3ff98993019583804abc13d3f7f24e116f86ad3f82",
+        "verified_at_utc": "2026-11-18T08:40:13.381675+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:30.842325+00:00"
+    },
+    {
+      "id": "irk-bdd598f8563f4044f57268",
+      "brand": "SUFIX",
+      "article": "SM1075",
+      "category": "Ступичные подшипники",
+      "retail": 1800,
+      "photo": {
+        "filename": "irk-bdd598f8563f4044f57268-ae8f3722b294.jpg",
+        "sha256": "ae8f3722b2946dd61f02e43af62a69b28d15fde7a3bf0aa611465fdf49ae2d3b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bdd598f8563f4044f57268-ae8f3722b294.jpg",
+        "manufacturer_page_sha256": "b27e615596aa9bb483a3adf01e666c6188368a29b500e7e278d40169b0db29e6",
+        "fitment_page_sha256": "b27e615596aa9bb483a3adf01e666c6188368a29b500e7e278d40169b0db29e6",
+        "verified_at_utc": "2026-11-18T08:40:12.991734+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:32.895602+00:00"
+    },
+    {
+      "id": "irk-114dc328141abc74d9e2a3",
+      "brand": "SUFIX",
+      "article": "SM1077",
+      "category": "Ступичные подшипники",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-114dc328141abc74d9e2a3-bec46dbf24d7.jpg",
+        "sha256": "bec46dbf24d718140588731850aa59f70db899ce7216e47e3300a19756aca058",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-114dc328141abc74d9e2a3-bec46dbf24d7.jpg",
+        "manufacturer_page_sha256": "584a77783a2b8ef5356aa7425209d5516ed142c288dec33b030f56ee4d6d3e62",
+        "fitment_page_sha256": "584a77783a2b8ef5356aa7425209d5516ed142c288dec33b030f56ee4d6d3e62",
+        "verified_at_utc": "2026-11-18T08:40:15.599304+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:35.007788+00:00"
+    },
+    {
+      "id": "irk-60f84a980bc1ab78e5b5e7",
+      "brand": "SUFIX",
+      "article": "SM1079",
+      "category": "Ступичные подшипники",
+      "retail": 1900,
+      "photo": {
+        "filename": "irk-60f84a980bc1ab78e5b5e7-0f40d9711e77.jpg",
+        "sha256": "0f40d9711e77134ebf1d18764d2baa692896f15293f2a19f6acda015c764be34",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-60f84a980bc1ab78e5b5e7-0f40d9711e77.jpg",
+        "manufacturer_page_sha256": "b3cb7e8b83f9c0110a3c7290b7d7198028de8fb479ba22895f1120af7aba3063",
+        "fitment_page_sha256": "b3cb7e8b83f9c0110a3c7290b7d7198028de8fb479ba22895f1120af7aba3063",
+        "verified_at_utc": "2026-11-18T08:40:18.299924+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:36.633505+00:00"
+    },
+    {
+      "id": "irk-6bb8fac83c5c5135658dd9",
+      "brand": "SUFIX",
+      "article": "SM1080",
+      "category": "Ступичные подшипники",
+      "retail": 1700,
+      "photo": {
+        "filename": "irk-6bb8fac83c5c5135658dd9-eb2e4c7d0636.jpg",
+        "sha256": "eb2e4c7d063604ab77ec20cbb20046b225c484fa8a976af1ac892cb49bb3d074",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6bb8fac83c5c5135658dd9-eb2e4c7d0636.jpg",
+        "manufacturer_page_sha256": "029a28584ad920dc82532902570ac085d6182f768657a07670db9faf5e0ef545",
+        "fitment_page_sha256": "029a28584ad920dc82532902570ac085d6182f768657a07670db9faf5e0ef545",
+        "verified_at_utc": "2026-11-18T08:40:18.273550+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:39.236270+00:00"
+    },
+    {
+      "id": "irk-28eac47dfef565be1be4b6",
+      "brand": "SUFIX",
+      "article": "SM1081",
+      "category": "Ступичные подшипники",
+      "retail": 1250,
+      "photo": {
+        "filename": "irk-28eac47dfef565be1be4b6-d4248d683127.jpg",
+        "sha256": "d4248d683127bdfd28df058573f40ea827c43ea4dd70331e9a65d2e2df299c14",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-28eac47dfef565be1be4b6-d4248d683127.jpg",
+        "manufacturer_page_sha256": "75b91be6e279ecb814858a25c8e609fb02d3f54c76e09fbc09c10656d90adb3b",
+        "fitment_page_sha256": "75b91be6e279ecb814858a25c8e609fb02d3f54c76e09fbc09c10656d90adb3b",
+        "verified_at_utc": "2026-11-18T08:40:20.742399+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:42.330575+00:00"
+    },
+    {
+      "id": "irk-971e63b80b3d9707619824",
+      "brand": "SUFIX",
+      "article": "SM1082",
+      "category": "Ступичные подшипники",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-971e63b80b3d9707619824-fb55bd6a4852.jpg",
+        "sha256": "fb55bd6a48522f0905b9df97b1d4b2436ec95d8b735a1d6f16918c9a8bc5cf11",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-971e63b80b3d9707619824-fb55bd6a4852.jpg",
+        "manufacturer_page_sha256": "9eb9a3f28e99542398e0d4fd6ec8b45f357bc30e9efa93b6bb4d1eadc9b6ad35",
+        "fitment_page_sha256": "9eb9a3f28e99542398e0d4fd6ec8b45f357bc30e9efa93b6bb4d1eadc9b6ad35",
+        "verified_at_utc": "2026-11-18T08:40:20.501575+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:44.777522+00:00"
+    },
+    {
+      "id": "irk-5b50781436b44c94c87f57",
+      "brand": "SUFIX",
+      "article": "SM1083",
+      "category": "Ступичные подшипники",
+      "retail": 4700,
+      "photo": {
+        "filename": "irk-5b50781436b44c94c87f57-33f44da8051b.jpg",
+        "sha256": "33f44da8051bd060b729e9fc17aa51805a26affc9e5dac0757216677d2cfe18c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5b50781436b44c94c87f57-33f44da8051b.jpg",
+        "manufacturer_page_sha256": "8f754074c4483a400837ffa741c0025f076e5f5e60cfff22b89396ff5235bb57",
+        "fitment_page_sha256": "8f754074c4483a400837ffa741c0025f076e5f5e60cfff22b89396ff5235bb57",
+        "verified_at_utc": "2026-11-18T08:40:22.779655+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:46.266617+00:00"
+    },
+    {
+      "id": "irk-74c191fe92371cc60df4cc",
+      "brand": "SUFIX",
+      "article": "SM1085",
+      "category": "Ступичные подшипники",
+      "retail": 1950,
+      "photo": {
+        "filename": "irk-74c191fe92371cc60df4cc-3a1ee749d981.jpg",
+        "sha256": "3a1ee749d981470c9829282072de4f4cb7ef76e5789b232a2d239bb24a9829d7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-74c191fe92371cc60df4cc-3a1ee749d981.jpg",
+        "manufacturer_page_sha256": "9eeedc292f21753a9b0ce6ce4b04f5506398471e563ebe24f71f82330ace8649",
+        "fitment_page_sha256": "9eeedc292f21753a9b0ce6ce4b04f5506398471e563ebe24f71f82330ace8649",
+        "verified_at_utc": "2026-11-18T08:40:23.035634+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:48.121434+00:00"
+    },
+    {
+      "id": "irk-5ca433f1eaeace759f7092",
+      "brand": "SUFIX",
+      "article": "SM1086",
+      "category": "Ступичные подшипники",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-5ca433f1eaeace759f7092-ff48fff3c16f.jpg",
+        "sha256": "ff48fff3c16f1ba9eda6dcf8b5b3c514bd4324e876ba0cdf32bb5315c0609358",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5ca433f1eaeace759f7092-ff48fff3c16f.jpg",
+        "manufacturer_page_sha256": "28f591ca91c9daab01d03bee155babb04a955d2e457db285e8c71ba3a6113cee",
+        "fitment_page_sha256": "28f591ca91c9daab01d03bee155babb04a955d2e457db285e8c71ba3a6113cee",
+        "verified_at_utc": "2026-11-18T08:40:26.004892+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:50.116703+00:00"
+    },
+    {
+      "id": "irk-87db1780847bde99963736",
+      "brand": "SUFIX",
+      "article": "SM1088",
+      "category": "Ступичные подшипники",
+      "retail": 1400,
+      "photo": {
+        "filename": "irk-87db1780847bde99963736-34958c86099a.jpg",
+        "sha256": "34958c86099add1f01589f4be5128c047877d22d722bd018ae10b756c4a6b985",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-87db1780847bde99963736-34958c86099a.jpg",
+        "manufacturer_page_sha256": "d0e30dde82a675f429038387ee703148506c93cd6bd494ed52b88afe02837035",
+        "fitment_page_sha256": "d0e30dde82a675f429038387ee703148506c93cd6bd494ed52b88afe02837035",
+        "verified_at_utc": "2026-11-18T08:40:25.277485+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:51.604239+00:00"
+    },
+    {
+      "id": "irk-383b511a1745d172d4fe2d",
+      "brand": "SUFIX",
+      "article": "SM1092",
+      "category": "Ступичные подшипники",
+      "retail": 1050,
+      "photo": {
+        "filename": "irk-383b511a1745d172d4fe2d-25596e9d57fc.jpg",
+        "sha256": "25596e9d57fcbbe89f2236ec56f6f8b268417127124670537e1ffd8123a05ff6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-383b511a1745d172d4fe2d-25596e9d57fc.jpg",
+        "manufacturer_page_sha256": "0a8c72093dbc198d96fe3ae8f4246ad7e12d520bc6c4e1cff9638d3c933c6208",
+        "fitment_page_sha256": "0a8c72093dbc198d96fe3ae8f4246ad7e12d520bc6c4e1cff9638d3c933c6208",
+        "verified_at_utc": "2026-11-18T08:40:27.688627+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:53.119574+00:00"
+    },
+    {
+      "id": "irk-e0538c68766eab4e4db8c5",
+      "brand": "SUFIX",
+      "article": "SM1097",
+      "category": "Ступичные подшипники",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-e0538c68766eab4e4db8c5-8f7e6c80ba48.jpg",
+        "sha256": "8f7e6c80ba4818fc053e538465eed980d29210c039ba8348d448b25b75a5bc15",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e0538c68766eab4e4db8c5-8f7e6c80ba48.jpg",
+        "manufacturer_page_sha256": "eb9800e9937fb04c73079571f60be81c5bea6325df738b3103670a9dcb2da387",
+        "fitment_page_sha256": "eb9800e9937fb04c73079571f60be81c5bea6325df738b3103670a9dcb2da387",
+        "verified_at_utc": "2026-11-18T08:40:28.480579+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:54.961051+00:00"
+    },
+    {
+      "id": "irk-d0562560498935bc949c58",
+      "brand": "SUFIX",
+      "article": "SM1123",
+      "category": "Ступичные подшипники",
+      "retail": 2050,
+      "photo": {
+        "filename": "irk-d0562560498935bc949c58-85e533779809.jpg",
+        "sha256": "85e533779809299e7ead991ac14a8fc5d42f857c4293ad7befd6e413a2abcbc0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d0562560498935bc949c58-85e533779809.jpg",
+        "manufacturer_page_sha256": "d9ee87d158996ef1186407d4cd565c1ca063415c4b59379e69d4383ca3b2a44d",
+        "fitment_page_sha256": "d9ee87d158996ef1186407d4cd565c1ca063415c4b59379e69d4383ca3b2a44d",
+        "verified_at_utc": "2026-11-18T08:40:30.057228+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:56.553091+00:00"
+    },
+    {
+      "id": "irk-7727419f1960c145a9ad92",
+      "brand": "SUFIX",
+      "article": "SM1124",
+      "category": "Ступичные подшипники",
+      "retail": 3250,
+      "photo": {
+        "filename": "irk-7727419f1960c145a9ad92-d88885b2c589.jpg",
+        "sha256": "d88885b2c5891fa12c8e991499dfb59c28618d175e984e533b2628990d001bc7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7727419f1960c145a9ad92-d88885b2c589.jpg",
+        "manufacturer_page_sha256": "5e23e2a130cb91a4d28652caad2054ba652e65be7879a654ac3b7fd820cc6bec",
+        "fitment_page_sha256": "5e23e2a130cb91a4d28652caad2054ba652e65be7879a654ac3b7fd820cc6bec",
+        "verified_at_utc": "2026-11-18T08:40:31.032437+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:58.013880+00:00"
+    },
+    {
+      "id": "irk-580bc7453ecf3e0aa5fe61",
+      "brand": "SUFIX",
+      "article": "SM1125",
+      "category": "Ступичные подшипники",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-580bc7453ecf3e0aa5fe61-bf97fde85950.jpg",
+        "sha256": "bf97fde8595074445523541c2ac015529fd7e629cbd0774ddc1235c88b12b1d4",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-580bc7453ecf3e0aa5fe61-bf97fde85950.jpg",
+        "manufacturer_page_sha256": "054b63202f750a1646da99ce911265d7888edd5a37331931e50cf30ebc47637f",
+        "fitment_page_sha256": "054b63202f750a1646da99ce911265d7888edd5a37331931e50cf30ebc47637f",
+        "verified_at_utc": "2026-11-18T08:40:32.197763+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:42:59.639770+00:00"
+    },
+    {
+      "id": "irk-169e72fe8327d1645d771e",
+      "brand": "SUFIX",
+      "article": "SM1132",
+      "category": "Ступичные подшипники",
+      "retail": 2750,
+      "photo": {
+        "filename": "irk-169e72fe8327d1645d771e-11352b139a26.jpg",
+        "sha256": "11352b139a26ac0766bb53ca75cbfacf42021f39b6b9a23d9005a50a1ece2c9a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-169e72fe8327d1645d771e-11352b139a26.jpg",
+        "manufacturer_page_sha256": "d97b4644590be5f3730ed3268603fd3fe286c6c7c550ebca7173acfaeae582b9",
+        "fitment_page_sha256": "d97b4644590be5f3730ed3268603fd3fe286c6c7c550ebca7173acfaeae582b9",
+        "verified_at_utc": "2026-11-18T08:40:34.926970+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:01.198741+00:00"
+    },
+    {
+      "id": "irk-8fcc4f3f956b1cb690d8a3",
+      "brand": "SUFIX",
+      "article": "SM1137",
+      "category": "Ступичные подшипники",
+      "retail": 2400,
+      "photo": {
+        "filename": "irk-8fcc4f3f956b1cb690d8a3-85a31a14006f.jpg",
+        "sha256": "85a31a14006f492ef02c9d6d3d6ae4e07ed13517bc8df5b84442420850889941",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8fcc4f3f956b1cb690d8a3-85a31a14006f.jpg",
+        "manufacturer_page_sha256": "4a0f455c75d9337ce700cfa44634dbf824b659331c3656f731c957f22987cea1",
+        "fitment_page_sha256": "4a0f455c75d9337ce700cfa44634dbf824b659331c3656f731c957f22987cea1",
+        "verified_at_utc": "2026-11-18T08:40:39.860984+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:02.958350+00:00"
+    },
+    {
+      "id": "irk-96a02d183e3dcfb7c6d0b2",
+      "brand": "SUFIX",
+      "article": "SM1156",
+      "category": "Ступичные подшипники",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-96a02d183e3dcfb7c6d0b2-b9d158535ca7.jpg",
+        "sha256": "b9d158535ca7055e0a580c8c5fca79b44f58fd0ed3e36c8ba5e35949e357d1e2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-96a02d183e3dcfb7c6d0b2-b9d158535ca7.jpg",
+        "manufacturer_page_sha256": "acb003cf6acde3131df7bd34961ec8ce3db56c770e4717c65280377a5e94a80d",
+        "fitment_page_sha256": "acb003cf6acde3131df7bd34961ec8ce3db56c770e4717c65280377a5e94a80d",
+        "verified_at_utc": "2026-11-18T08:40:40.931385+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:04.554202+00:00"
+    },
+    {
+      "id": "irk-d883ce793858259f2ffa9d",
+      "brand": "SUFIX",
+      "article": "SM1159",
+      "category": "Ступичные подшипники",
+      "retail": 2050,
+      "photo": {
+        "filename": "irk-d883ce793858259f2ffa9d-921726570f80.jpg",
+        "sha256": "921726570f80d154f5a9a8386d0752101c614db8351d437f26569b65bf083790",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d883ce793858259f2ffa9d-921726570f80.jpg",
+        "manufacturer_page_sha256": "9a2e0ca632a022a4e22efee1235279147ac456eaf83bca0e88141e0b89880442",
+        "fitment_page_sha256": "9a2e0ca632a022a4e22efee1235279147ac456eaf83bca0e88141e0b89880442",
+        "verified_at_utc": "2026-11-18T08:40:44.082773+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:06.180980+00:00"
+    },
+    {
+      "id": "irk-1b447f004ca091dca79e8d",
+      "brand": "SUFIX",
+      "article": "SM1161",
+      "category": "Ступичные подшипники",
+      "retail": 2600,
+      "photo": {
+        "filename": "irk-1b447f004ca091dca79e8d-6f753f2d501a.jpg",
+        "sha256": "6f753f2d501aa7593af12036a607cd281873b29077c7e1a507502ecfa4410a35",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1b447f004ca091dca79e8d-6f753f2d501a.jpg",
+        "manufacturer_page_sha256": "94ee15d2ebb2409c662c254610070b8339fe4b1db89d971107d3ec461c988857",
+        "fitment_page_sha256": "94ee15d2ebb2409c662c254610070b8339fe4b1db89d971107d3ec461c988857",
+        "verified_at_utc": "2026-11-18T08:40:43.159790+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:07.633647+00:00"
+    },
+    {
+      "id": "irk-235e5ee0c9eeb9cb267c1a",
+      "brand": "SUFIX",
+      "article": "SM1164",
+      "category": "Ступичные подшипники",
+      "retail": 1850,
+      "photo": {
+        "filename": "irk-235e5ee0c9eeb9cb267c1a-5548bb524a12.jpg",
+        "sha256": "5548bb524a12505a7a37936968e2ff7df0ef9b1423e7dd369ed7f68157c5ad87",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-235e5ee0c9eeb9cb267c1a-5548bb524a12.jpg",
+        "manufacturer_page_sha256": "45f90e76de45c609702f3ba51300996a76bce624efc1dd8186f27291e75bef44",
+        "fitment_page_sha256": "45f90e76de45c609702f3ba51300996a76bce624efc1dd8186f27291e75bef44",
+        "verified_at_utc": "2026-11-18T08:40:46.003240+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:09.679755+00:00"
+    },
+    {
+      "id": "irk-0a4843875dd8668e5ff7c1",
+      "brand": "SUFIX",
+      "article": "SM1165",
+      "category": "Ступичные подшипники",
+      "retail": 1550,
+      "photo": {
+        "filename": "irk-0a4843875dd8668e5ff7c1-e888d56ec31b.jpg",
+        "sha256": "e888d56ec31bc78005a8a34eb1383ba80bcfc5b3e282657d2470e5e90d30cb4c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0a4843875dd8668e5ff7c1-e888d56ec31b.jpg",
+        "manufacturer_page_sha256": "d34df063e6b53dc48b0d4c4585e76f85f72883cf6c1b94cc0a7e15a2c156c3f7",
+        "fitment_page_sha256": "d34df063e6b53dc48b0d4c4585e76f85f72883cf6c1b94cc0a7e15a2c156c3f7",
+        "verified_at_utc": "2026-11-18T08:40:47.743561+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:11.589500+00:00"
+    },
+    {
+      "id": "irk-11f540ff6e2a7b00a2ee71",
+      "brand": "SUFIX",
+      "article": "SM1168",
+      "category": "Ступичные подшипники",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-11f540ff6e2a7b00a2ee71-1241791cb468.jpg",
+        "sha256": "1241791cb4688e6058a743d8add156f1673c3ef6efa630191e4245863e75a4c5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-11f540ff6e2a7b00a2ee71-1241791cb468.jpg",
+        "manufacturer_page_sha256": "50d39720b52189b57e668ab208c810acf988355364fdaca852ede70436342ac1",
+        "fitment_page_sha256": "50d39720b52189b57e668ab208c810acf988355364fdaca852ede70436342ac1",
+        "verified_at_utc": "2026-11-18T08:40:48.412807+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:13.431184+00:00"
+    },
+    {
+      "id": "irk-b0f75fc90865e6d7ac65a0",
+      "brand": "SUFIX",
+      "article": "SM1178",
+      "category": "Ступичные подшипники",
+      "retail": 1800,
+      "photo": {
+        "filename": "irk-b0f75fc90865e6d7ac65a0-aa8eeb8fc7b4.jpg",
+        "sha256": "aa8eeb8fc7b4af05fd90e6aa97d5453fe38629aa7feb4ba603249e5f06e09050",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b0f75fc90865e6d7ac65a0-aa8eeb8fc7b4.jpg",
+        "manufacturer_page_sha256": "cf5d788dd4992e4427dd35eb91e12da87f166272a54d0c03fc954bed97e79774",
+        "fitment_page_sha256": "cf5d788dd4992e4427dd35eb91e12da87f166272a54d0c03fc954bed97e79774",
+        "verified_at_utc": "2026-11-18T08:40:50.592918+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:15.166795+00:00"
+    },
+    {
+      "id": "irk-d059b59dadac1eafb009b5",
+      "brand": "SUFIX",
+      "article": "SM1179",
+      "category": "Ступичные подшипники",
+      "retail": 1500,
+      "photo": {
+        "filename": "irk-d059b59dadac1eafb009b5-839761d3ace2.jpg",
+        "sha256": "839761d3ace2451e25be369646121b27f1794a5c86d5bfbf0f0aacbf55d9f1ac",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d059b59dadac1eafb009b5-839761d3ace2.jpg",
+        "manufacturer_page_sha256": "5a1ac7975d6c4a774b2f8bf1f55c5478f1f6131b1a2065217ba720619cdaec9a",
+        "fitment_page_sha256": "5a1ac7975d6c4a774b2f8bf1f55c5478f1f6131b1a2065217ba720619cdaec9a",
+        "verified_at_utc": "2026-11-18T08:40:50.821919+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:16.888390+00:00"
+    },
+    {
+      "id": "irk-7de3e6c25b63e050614536",
+      "brand": "SUFIX",
+      "article": "SM1185",
+      "category": "Ступичные подшипники",
+      "retail": 2000,
+      "photo": {
+        "filename": "irk-7de3e6c25b63e050614536-c22ca2f2fa8f.jpg",
+        "sha256": "c22ca2f2fa8f8f6414501e68a32b18e4196952eca05b764421f7c0223e1bb138",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7de3e6c25b63e050614536-c22ca2f2fa8f.jpg",
+        "manufacturer_page_sha256": "82e716e9d652d8043e2fb7803aa1477d14b8cdbdd2b4e9c318fb7322f4c2afb5",
+        "fitment_page_sha256": "82e716e9d652d8043e2fb7803aa1477d14b8cdbdd2b4e9c318fb7322f4c2afb5",
+        "verified_at_utc": "2026-11-18T08:40:53.822870+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:18.323833+00:00"
+    },
+    {
+      "id": "irk-627d0769cdc0bb177b23e5",
+      "brand": "SUFIX",
+      "article": "SM1186",
+      "category": "Ступичные подшипники",
+      "retail": 2950,
+      "photo": {
+        "filename": "irk-627d0769cdc0bb177b23e5-db75f66a52e3.jpg",
+        "sha256": "db75f66a52e38647061918decf8d083762f99096891a57c11cf899bebf00a58a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-627d0769cdc0bb177b23e5-db75f66a52e3.jpg",
+        "manufacturer_page_sha256": "854ac5d1bee0f8dbe4ca7af436daf5a8137755e6bc32122f12a769fa21449f4e",
+        "fitment_page_sha256": "854ac5d1bee0f8dbe4ca7af436daf5a8137755e6bc32122f12a769fa21449f4e",
+        "verified_at_utc": "2026-11-18T08:40:53.128510+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:19.612537+00:00"
+    },
+    {
+      "id": "irk-140b7fcd30ba92666e0f4f",
+      "brand": "SUFIX",
+      "article": "SM1188",
+      "category": "Ступичные подшипники",
+      "retail": 1600,
+      "photo": {
+        "filename": "irk-140b7fcd30ba92666e0f4f-4a1e27cb716e.jpg",
+        "sha256": "4a1e27cb716e537feb898602c4d8943cdca4f376511f03fac0d4fed8e8172764",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-140b7fcd30ba92666e0f4f-4a1e27cb716e.jpg",
+        "manufacturer_page_sha256": "c86a48c3eace4996a5eef9d5d9f5ed7f20f9b9fce16933056aafbe3cd96e02a9",
+        "fitment_page_sha256": "c86a48c3eace4996a5eef9d5d9f5ed7f20f9b9fce16933056aafbe3cd96e02a9",
+        "verified_at_utc": "2026-11-18T08:40:55.776989+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:21.533954+00:00"
+    },
+    {
+      "id": "irk-09a308a6efb032496f7586",
+      "brand": "SUFIX",
+      "article": "SM1211",
+      "category": "Ступичные подшипники",
+      "retail": 1400,
+      "photo": {
+        "filename": "irk-09a308a6efb032496f7586-a68ece828001.jpg",
+        "sha256": "a68ece8280019b6701a9a8bae103a08c295663ce9984c01745edce1725c97259",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-09a308a6efb032496f7586-a68ece828001.jpg",
+        "manufacturer_page_sha256": "da840264eb81359a794b0b738437f7612db7c4e333c0bf335ccbd516ad3f00e7",
+        "fitment_page_sha256": "da840264eb81359a794b0b738437f7612db7c4e333c0bf335ccbd516ad3f00e7",
+        "verified_at_utc": "2026-11-18T08:40:56.816493+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:23.879782+00:00"
+    },
+    {
+      "id": "irk-d8ccd969df831994a3fa9f",
+      "brand": "SUFIX",
+      "article": "SM1212",
+      "category": "Ступичные подшипники",
+      "retail": 3700,
+      "photo": {
+        "filename": "irk-d8ccd969df831994a3fa9f-55dd63435ed7.jpg",
+        "sha256": "55dd63435ed74df662df6b6c241d728e7694c971d38fa89b50326eca245736e0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d8ccd969df831994a3fa9f-55dd63435ed7.jpg",
+        "manufacturer_page_sha256": "1037d7c9a68ae64f5b3041ebb9b8e54af2233477de577fa61763d4c5a6fe3242",
+        "fitment_page_sha256": "1037d7c9a68ae64f5b3041ebb9b8e54af2233477de577fa61763d4c5a6fe3242",
+        "verified_at_utc": "2026-11-18T08:40:57.910474+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:25.674127+00:00"
+    },
+    {
+      "id": "irk-26aa222c4b96dae8753202",
+      "brand": "SUFIX",
+      "article": "SM1228",
+      "category": "Ступичные подшипники",
+      "retail": 1650,
+      "photo": {
+        "filename": "irk-26aa222c4b96dae8753202-3ac0f080e65d.jpg",
+        "sha256": "3ac0f080e65defbc829d3d082c8aa49b86ac012d9f08555a49f25cf328766317",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-26aa222c4b96dae8753202-3ac0f080e65d.jpg",
+        "manufacturer_page_sha256": "e229da9d9f02406e2e2de19b535b61fa41313c2588bc8cccfbcb7e07eb90f326",
+        "fitment_page_sha256": "e229da9d9f02406e2e2de19b535b61fa41313c2588bc8cccfbcb7e07eb90f326",
+        "verified_at_utc": "2026-11-18T08:40:59.430820+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:27.226478+00:00"
+    },
+    {
+      "id": "irk-aa1cf6e7770a18aa27e729",
+      "brand": "SUFIX",
+      "article": "SM1245",
+      "category": "Ступичные подшипники",
+      "retail": 1700,
+      "photo": {
+        "filename": "irk-aa1cf6e7770a18aa27e729-54c3b75b4116.jpg",
+        "sha256": "54c3b75b41168626da35625f1f9d11c0ea01b761223a18f3305ef3a010e80f18",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-aa1cf6e7770a18aa27e729-54c3b75b4116.jpg",
+        "manufacturer_page_sha256": "1612db3cde3ac18756b7a25685da7f2d8a8f792d051b1c7ab7424758f0ad8671",
+        "fitment_page_sha256": "1612db3cde3ac18756b7a25685da7f2d8a8f792d051b1c7ab7424758f0ad8671",
+        "verified_at_utc": "2026-11-18T08:41:00.303604+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:29.156665+00:00"
+    },
+    {
+      "id": "irk-01b6c329b1dba980880bd0",
+      "brand": "SUFIX",
+      "article": "SM1250",
+      "category": "Ступичные подшипники",
+      "retail": 2400,
+      "photo": {
+        "filename": "irk-01b6c329b1dba980880bd0-c8edf3a97bf5.jpg",
+        "sha256": "c8edf3a97bf56d7ab417ee77f56b754a09ce151d15591ce3e952a8be382e4e5d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-01b6c329b1dba980880bd0-c8edf3a97bf5.jpg",
+        "manufacturer_page_sha256": "a00ce3c3bc793a4573d32b18231336f023752816d93d65fa3784148f30bdeef4",
+        "fitment_page_sha256": "a00ce3c3bc793a4573d32b18231336f023752816d93d65fa3784148f30bdeef4",
+        "verified_at_utc": "2026-11-18T08:41:01.997774+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:31.235058+00:00"
+    },
+    {
+      "id": "irk-f0a47b0d761aea562c450d",
+      "brand": "SUFIX",
+      "article": "SM1253",
+      "category": "Ступичные подшипники",
+      "retail": 2200,
+      "photo": {
+        "filename": "irk-f0a47b0d761aea562c450d-c98866197c14.jpg",
+        "sha256": "c98866197c1484fc4fa8dcd8bb24c535b0d987fd6b6376eced2d7b572f6e15dd",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f0a47b0d761aea562c450d-c98866197c14.jpg",
+        "manufacturer_page_sha256": "9ee7ed56f363bd0007d74f6b3f4a6f833c195ae56f0c328d36a37d93f8453db5",
+        "fitment_page_sha256": "9ee7ed56f363bd0007d74f6b3f4a6f833c195ae56f0c328d36a37d93f8453db5",
+        "verified_at_utc": "2026-11-18T08:41:02.681720+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:33.337819+00:00"
+    },
+    {
+      "id": "irk-fbb9c46566f1bc66454056",
+      "brand": "SUFIX",
+      "article": "SM1261",
+      "category": "Ступичные подшипники",
+      "retail": 4150,
+      "photo": {
+        "filename": "irk-fbb9c46566f1bc66454056-52fb138f0139.jpg",
+        "sha256": "52fb138f01397851683dc07680f74f42433d5e6bd0166baf6258e075d969e2f3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fbb9c46566f1bc66454056-52fb138f0139.jpg",
+        "manufacturer_page_sha256": "da952bd03a66b75473b2cb5bd2c6b80fa5cc583652196f1777a79dd1b4f0d085",
+        "fitment_page_sha256": "da952bd03a66b75473b2cb5bd2c6b80fa5cc583652196f1777a79dd1b4f0d085",
+        "verified_at_utc": "2026-11-18T08:41:04.675181+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:34.693679+00:00"
+    },
+    {
+      "id": "irk-17bdedf0a61b0859135c8a",
+      "brand": "SUFIX",
+      "article": "SM1265",
+      "category": "Ступичные подшипники",
+      "retail": 2450,
+      "photo": {
+        "filename": "irk-17bdedf0a61b0859135c8a-624e93b5db6e.jpg",
+        "sha256": "624e93b5db6e63870e11979ddd58c129b32a2ceb0495f1fb3ed9b3b661145add",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-17bdedf0a61b0859135c8a-624e93b5db6e.jpg",
+        "manufacturer_page_sha256": "4c3111293690977efb03c468036ce28cd619a441248724e09a516c5fe81045fd",
+        "fitment_page_sha256": "4c3111293690977efb03c468036ce28cd619a441248724e09a516c5fe81045fd",
+        "verified_at_utc": "2026-11-18T08:41:05.318617+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:37.643358+00:00"
+    },
+    {
+      "id": "irk-afb3001eb63984eaf72237",
+      "brand": "SUFIX",
+      "article": "SM1266",
+      "category": "Ступичные подшипники",
+      "retail": 2300,
+      "photo": {
+        "filename": "irk-afb3001eb63984eaf72237-4b7ef490778d.jpg",
+        "sha256": "4b7ef490778de9630a267abcbedb15d486721a26add5c99abc058e204ebc5548",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-afb3001eb63984eaf72237-4b7ef490778d.jpg",
+        "manufacturer_page_sha256": "8295dcb535ac07d5ecf7f31a98d0e82b96ed8a598f88b301a5dead0a5d96ed4a",
+        "fitment_page_sha256": "8295dcb535ac07d5ecf7f31a98d0e82b96ed8a598f88b301a5dead0a5d96ed4a",
+        "verified_at_utc": "2026-11-18T08:41:07.324170+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:39.390082+00:00"
+    },
+    {
+      "id": "irk-852dfe0a87424cb61924b0",
+      "brand": "SUFIX",
+      "article": "SM1273",
+      "category": "Ступичные подшипники",
+      "retail": 1800,
+      "photo": {
+        "filename": "irk-852dfe0a87424cb61924b0-deeacf31402d.jpg",
+        "sha256": "deeacf31402dd217458859df8ed0f582239b1b29041457408095c90e899f4476",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-852dfe0a87424cb61924b0-deeacf31402d.jpg",
+        "manufacturer_page_sha256": "308d9714b3daaa08b69b1d5053378d313a6c3b0b19be209954fc9ea8d91fa276",
+        "fitment_page_sha256": "308d9714b3daaa08b69b1d5053378d313a6c3b0b19be209954fc9ea8d91fa276",
+        "verified_at_utc": "2026-11-18T08:41:07.620848+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:41.469383+00:00"
+    },
+    {
+      "id": "irk-8575be96d45d25c0586b7a",
+      "brand": "SUFIX",
+      "article": "SM1277",
+      "category": "Ступичные подшипники",
+      "retail": 3300,
+      "photo": {
+        "filename": "irk-8575be96d45d25c0586b7a-89cd09ecce12.jpg",
+        "sha256": "89cd09ecce12ab65e769c2f84ad2d0843831d0bbd3a21de80736f534f135fa17",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8575be96d45d25c0586b7a-89cd09ecce12.jpg",
+        "manufacturer_page_sha256": "0ade6a876d18372b75eb4715f2f3c2a4661673e5159e5d0bb550d0a99ad10af3",
+        "fitment_page_sha256": "0ade6a876d18372b75eb4715f2f3c2a4661673e5159e5d0bb550d0a99ad10af3",
+        "verified_at_utc": "2026-11-18T08:41:09.856923+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:43.275670+00:00"
+    },
+    {
+      "id": "irk-a4d068ec8809d7b41c5e6a",
+      "brand": "SUFIX",
+      "article": "SM1283",
+      "category": "Ступичные подшипники",
+      "retail": 3150,
+      "photo": {
+        "filename": "irk-a4d068ec8809d7b41c5e6a-c1325e3b7994.jpg",
+        "sha256": "c1325e3b7994474f7967d230ed1b76c5ac547cf62830e1a0c2ed0ac58b997cc8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a4d068ec8809d7b41c5e6a-c1325e3b7994.jpg",
+        "manufacturer_page_sha256": "102ed6c72a8dc77f71d358f6bab2c42232f0f2c2778d634d89221a7639ccc37f",
+        "fitment_page_sha256": "102ed6c72a8dc77f71d358f6bab2c42232f0f2c2778d634d89221a7639ccc37f",
+        "verified_at_utc": "2026-11-18T08:41:10.205951+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:45.416263+00:00"
+    },
+    {
+      "id": "irk-7735bd47dcac49434d0338",
+      "brand": "SUFIX",
+      "article": "SM1291",
+      "category": "Ступичные подшипники",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-7735bd47dcac49434d0338-b8f2e075a180.jpg",
+        "sha256": "b8f2e075a18082b30f2007614111735cafe7ce9ae23ff57a528cc32e2ece4fa0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7735bd47dcac49434d0338-b8f2e075a180.jpg",
+        "manufacturer_page_sha256": "299a1039e901c4ed77fb99aedfe76ef5c4e2d4f21489c4ff229791039c9332b2",
+        "fitment_page_sha256": "299a1039e901c4ed77fb99aedfe76ef5c4e2d4f21489c4ff229791039c9332b2",
+        "verified_at_utc": "2026-11-18T08:41:12.694690+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:46.859611+00:00"
+    },
+    {
+      "id": "irk-3b0bd95d8a8aac8ab93d7d",
+      "brand": "SUFIX",
+      "article": "SM1314",
+      "category": "Ступичные подшипники",
+      "retail": 8200,
+      "photo": {
+        "filename": "irk-3b0bd95d8a8aac8ab93d7d-a239df408953.jpg",
+        "sha256": "a239df408953dcbcfb0951b23dd84323a28592299ce607066f05167f0eff819a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3b0bd95d8a8aac8ab93d7d-a239df408953.jpg",
+        "manufacturer_page_sha256": "5846272b24831506d68d57212523b76755b8bb75747713e53c73916ec716fe4a",
+        "fitment_page_sha256": "5846272b24831506d68d57212523b76755b8bb75747713e53c73916ec716fe4a",
+        "verified_at_utc": "2026-11-18T08:41:12.546060+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:48.753066+00:00"
+    },
+    {
+      "id": "irk-f8caba1dffc5b15ff3fc15",
+      "brand": "SUFIX",
+      "article": "SM1377",
+      "category": "Ступичные подшипники",
+      "retail": 1550,
+      "photo": {
+        "filename": "irk-f8caba1dffc5b15ff3fc15-a76fc150930f.jpg",
+        "sha256": "a76fc150930f1b1859f5a470c97582f461cab2990cd43be21065e622f19bc77e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f8caba1dffc5b15ff3fc15-a76fc150930f.jpg",
+        "manufacturer_page_sha256": "c93c06519c3c0e04f089f828082b0d121ea5b70c858a1f8b4dcb9bdc682b8e54",
+        "fitment_page_sha256": "c93c06519c3c0e04f089f828082b0d121ea5b70c858a1f8b4dcb9bdc682b8e54",
+        "verified_at_utc": "2026-11-18T08:41:17.876666+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:50.690278+00:00"
+    },
+    {
+      "id": "irk-52e36787e9645302846945",
+      "brand": "SUFIX",
+      "article": "SM1440",
+      "category": "Ступичные подшипники",
+      "retail": 1350,
+      "photo": {
+        "filename": "irk-52e36787e9645302846945-14a60c8f0d1f.jpg",
+        "sha256": "14a60c8f0d1f7a0c8b31140f5404c60a5b0f7dea2227d13a6e70f6f102c35812",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-52e36787e9645302846945-14a60c8f0d1f.jpg",
+        "manufacturer_page_sha256": "ab7df26e5e6ddc663c5cdb2037411c60a324f157e7ec4377436c914fdc53e35c",
+        "fitment_page_sha256": "ab7df26e5e6ddc663c5cdb2037411c60a324f157e7ec4377436c914fdc53e35c",
+        "verified_at_utc": "2026-11-18T08:41:17.871189+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:52.347181+00:00"
+    },
+    {
+      "id": "irk-ac23ec20b140c8ab0758e8",
+      "brand": "SUFIX",
+      "article": "SM1472",
+      "category": "Ступичные подшипники",
+      "retail": 2000,
+      "photo": {
+        "filename": "irk-ac23ec20b140c8ab0758e8-d2874dfcf302.jpg",
+        "sha256": "d2874dfcf3025a1f6250ce9504d2b3462517dfa68db2012d064510a0ec9c0bb9",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ac23ec20b140c8ab0758e8-d2874dfcf302.jpg",
+        "manufacturer_page_sha256": "b2c8ac3024ad9aed949236acff895fabaadacfec669b718dd094d0b9d233653d",
+        "fitment_page_sha256": "b2c8ac3024ad9aed949236acff895fabaadacfec669b718dd094d0b9d233653d",
+        "verified_at_utc": "2026-11-18T08:41:20.331438+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T08:43:53.714356+00:00"
+    }
+  ],
+  "skipped": [
+    {
+      "brand": "SUFIX",
+      "article": "SM1012",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1019",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1038",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1050",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1074",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1118",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1119",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1129",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1130",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1170",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1174",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1195",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1236",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1259",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1290",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1309",
+      "reason": "no_current_Irkutsk_zero_day_stock"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1317",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1408",
+      "reason": "package_unit_confirmation_required"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1409",
+      "reason": "package_unit_confirmation_required"
+    }
+  ],
+  "all_original_ads_preserved": true,
+  "private_API_costs_published": false,
+  "checkout_mode": "account_pickup",
+  "publication_performed": true,
+  "release_workflow_run_id": 44268744161,
+  "CDN_exact_bytes_verified": true,
+  "CDN_sha256": "54ae3132d30e7ab3f102e2623e5b5319289e580cc78043912ddfa5b59b12c5fb",
+  "Avito_import_verified": false,
+  "public_images_exact_bytes_verified": 74
+}

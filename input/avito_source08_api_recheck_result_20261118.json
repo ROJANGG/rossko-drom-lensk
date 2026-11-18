@@ -1,0 +1,1219 @@
+{
+  "batch_size": 93,
+  "API_requests_attempted": 92,
+  "results": [
+    {
+      "brand": "SUFIX",
+      "article": "SM1013",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:32.432907+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 6,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1012",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:34.064569+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1000
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1015",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:35.771065+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1350
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1017",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:37.082731+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1016",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:39.279964+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 6,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1018",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:41.069309+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 1400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1019",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:42.629528+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1020",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:44.919974+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1021",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:47.566217+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1250
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1022",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:48.857251+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1025",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:50.734136+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1028",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:52.764748+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1250
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1029",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:54.589116+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1032",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:56.873112+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1035",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:27:58.486243+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1038",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:00.471929+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1200
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1040",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:02.004610+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 5,
+      "avito_retail_rub": 1300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1041",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:04.216622+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1044",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:06.434120+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1046",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:07.859242+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1050",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:09.559648+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1054",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:11.015544+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 5,
+      "avito_retail_rub": 1300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1055",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:13.624854+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1850
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1057",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:15.693748+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1059",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:17.503298+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1061",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:18.839690+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1062",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:21.675495+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1063",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:23.501286+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1064",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:25.652844+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1066",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:26.847365+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1067",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:28.672683+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2000
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1068",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:31.146931+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 5,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1074",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:32.957698+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1073",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:34.682739+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 1250
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1075",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:37.684535+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1077",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:39.755653+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 10,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1079",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:42.417744+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1080",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:43.967102+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1081",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:45.898576+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1250
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1082",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:49.131996+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2350
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1083",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:50.500434+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1085",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:51.607619+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1950
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1086",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:53.945386+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 5,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1088",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:55.744128+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1092",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:57.120850+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1050
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1097",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:28:58.428595+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1118",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:00.026441+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 950
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1119",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:02.144549+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1123",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:03.538811+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2050
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1124",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:04.788220+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3250
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1125",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:06.250151+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2150
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1129",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:07.855826+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1130",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:09.173058+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1100
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1132",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:10.802430+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1137",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:12.210195+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1156",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:14.200103+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1159",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:15.473405+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2050
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1161",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:17.121387+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1164",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:18.578409+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1850
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1165",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:20.340350+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1168",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:21.462374+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1170",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:22.779606+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1174",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:24.142353+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1178",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:25.316960+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1179",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:26.506597+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1185",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:27.900729+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2000
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1186",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:29.244266+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2950
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1188",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:30.280771+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1195",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:31.394825+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1211",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:33.596151+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1212",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:35.157880+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 3700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1228",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:36.626750+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1236",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:37.926599+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1850
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1245",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:39.368944+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1250",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:41.143321+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1253",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:42.262087+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1259",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:43.599777+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2250
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1261",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:45.802828+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4150
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1265",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:46.888634+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1266",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:48.259649+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1273",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:49.864673+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1277",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:50.832424+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1283",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:52.099598+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3150
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1290",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:53.778561+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1291",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:55.109129+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1309",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:56.176081+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1314",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:56.176107+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 8200
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1317",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:57.404509+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1377",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:58.454810+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1408",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:29:59.902100+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1409",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:30:01.610449+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1440",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:30:02.914197+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1350
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1472",
+      "category": "Ступичные подшипники",
+      "checked_at_utc": "2026-11-18T08:30:04.045447+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2000
+    }
+  ],
+  "status_counts": {
+    "опт_Иркутск_подтвержден": 92,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1
+  },
+  "ready_for_full_source_review": [
+    {
+      "brand": "SUFIX",
+      "article": "SM1013"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1012"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1015"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1017"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1016"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1018"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1019"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1020"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1021"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1022"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1025"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1028"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1029"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1032"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1035"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1038"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1040"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1041"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1044"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1046"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1050"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1054"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1055"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1057"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1059"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1061"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1062"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1063"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1064"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1066"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1067"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1068"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1074"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1073"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1075"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1077"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1079"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1080"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1081"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1082"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1083"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1085"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1086"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1088"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1092"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1097"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1118"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1119"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1123"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1124"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1125"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1129"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1130"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1132"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1137"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1156"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1159"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1161"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1164"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1165"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1168"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1170"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1174"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1178"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1179"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1185"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1186"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1188"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1195"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1211"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1212"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1228"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1236"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1245"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1250"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1253"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1259"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1261"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1265"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1266"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1273"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1277"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1283"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1290"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1291"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1314"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1317"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1377"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1408"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1409"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1440"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "SM1472"
+    }
+  ],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}
