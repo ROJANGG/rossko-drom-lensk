@@ -52,6 +52,7 @@ jobs:
           cp extension/tests/test_avito_active_feed_refresh.py extension/tests/test_avito_reviewed_drive_belts.py extension/tests/test_avito_sufix_drive_release.py extension/tests/test_avito_lynx_source06.py extension/tests/test_avito_sufix_release.py extension/tests/test_avito_wholesale_live_api_refresh.py extension/tests/test_avito_refresh_public_cdn.py generator/tests/
           mkdir -p generator/tests/fixtures
           cp extension/tests/fixtures/product.html extension/tests/fixtures/fitment.html generator/tests/fixtures/
+          cp extension/avito_reviewed_sufix_drive_belts.py extension/avito_sufix_drive_release.py generator/
       - name: Test exact LYNX scope category prices stock and unchanged existing ads
         working-directory: generator
         run: |
