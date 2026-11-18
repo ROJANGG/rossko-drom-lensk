@@ -1,0 +1,271 @@
+{
+  "batch_id": "source12",
+  "scope": 33,
+  "publication_performed": false,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "FB1001",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235671",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:56.436743+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1002",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235672",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:57.705985+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1006",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235676",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:59.057949+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1007",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235677",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:59.430900+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1008",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235678",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:00.423534+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1009",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235679",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:01.422061+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1011",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235681",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:02.826956+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1016",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235686",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:03.225130+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1017",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235687",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:04.272244+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1020",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235690",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:05.315966+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1021",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235691",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:06.088013+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1022",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235692",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:07.181013+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1023",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235693",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:08.260696+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1028",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235698",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:09.393857+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1029",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235699",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:10.109625+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1031",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235701",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:11.306025+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1033",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235703",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:12.877910+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1034",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235704",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:13.132176+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1036",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235706",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:14.196834+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1038",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235708",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:15.594782+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1039",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235709",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:16.163481+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1040",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235710",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:17.389342+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1041",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235711",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:18.182025+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1042",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235712",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:19.035154+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1043",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235713",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:20.195965+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1045",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235715",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:21.209494+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1046",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235716",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:22.335435+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1047",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235717",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:23.152396+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1051",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235721",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:24.230520+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1052",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235722",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:25.156606+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1057",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026829746",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:27.217917+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1055",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235725",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:27.403135+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1068",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0027135326",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:28.092257+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ]
+}
