@@ -1,0 +1,1144 @@
+{
+  "date": "2026-11-18",
+  "source_batch": "source06",
+  "scope_sha256": "d697a87e9d014d472f601eda8c0ecad451bc0ccbf4b71633364611c71fda3ea3",
+  "scope_count": 12,
+  "OEM_group_policy": "Original OE table; direct same make or explicit manufacturer group VAG/GENERAL MOTORS/HYUNDAI-KIA/TOYOTA. Applicability independently taken from the linked manufacturer table; no VIN claim.",
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "111EL17",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018766042",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/111EL17.html",
+      "checked_at_utc": "2026-11-18T08:59:00.236136+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "dcf2e5f577856eacb29a51b20a66e1f3368a55902597a798c66c5468d5970eda",
+      "original_OE_rows": [
+        [
+          "GENERAL MOTORS",
+          "90353179"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90354782"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90410223"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90531677"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90531678"
+        ],
+        [
+          "GENERAL MOTORS",
+          "9128723"
+        ],
+        [
+          "GENERAL MOTORS",
+          "96183353"
+        ],
+        [
+          "GENERAL MOTORS",
+          "96352407"
+        ],
+        [
+          "OPEL",
+          "06 36 372"
+        ],
+        [
+          "OPEL",
+          "06 36 561"
+        ],
+        [
+          "OPEL",
+          "06 36 566"
+        ],
+        [
+          "OPEL",
+          "56 36 356"
+        ],
+        [
+          "OPEL",
+          "56 36 364"
+        ],
+        [
+          "OPEL",
+          "56 36 560"
+        ],
+        [
+          "OPEL",
+          "6 36 372"
+        ],
+        [
+          "OPEL",
+          "6 36 561"
+        ],
+        [
+          "OPEL",
+          "6 36 566"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHEVROLET&product_id=15118",
+      "fitment_page_sha256": "6e3a90f7e673360b3dfe28149295b28e6392f14a2b0c450de3fba23cbedce0b6",
+      "fitment_rows": [
+        [
+          "AVEO / KALOS Hatchback (T200) 03-08",
+          "1.4 (LX5(85CUL4))",
+          "61 (83)",
+          "03/05-05/08",
+          ""
+        ],
+        [
+          "AVEO / KALOS Hatchback (T200) 03-08",
+          "1.5 (LV8(91CUL4))",
+          "62 (84)",
+          "01/05-05/08",
+          ""
+        ],
+        [
+          "AVEO / KALOS Saloon (T200) 03-08",
+          "1.5 (LV8(91CUL4))",
+          "63 (86)",
+          "10/04-05/06",
+          ""
+        ],
+        [
+          "AVEO / KALOS Saloon (T250, T255) 05-12",
+          "1.4 (LX5(85CUL4))",
+          "61 (83)",
+          "03/05-",
+          ""
+        ],
+        [
+          "AVEO / KALOS Saloon (T250, T255) 05-12",
+          "1.5 (F15S3, LX6)",
+          "62 (84)",
+          "05/05-",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/111EL17.jpg",
+      "photo_sha256": "c4b78bc38a58469f4967e1b74c8be20e26463735e796d07d1010af9abde73852",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "90353179",
+      "OEM_make": "GENERAL MOTORS",
+      "exact_sku_verified": true,
+      "fitment": "CHEVROLET AVEO / KALOS Hatchback (T200) 03-08, 1.4 (LX5(85CUL4)), 61 (83), 03/05-05/08; CHEVROLET AVEO / KALOS Hatchback (T200) 03-08, 1.5 (LV8(91CUL4)), 62 (84), 01/05-05/08; CHEVROLET AVEO / KALOS Saloon (T200) 03-08, 1.5 (LV8(91CUL4)), 63 (86), 10/04-05/06",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "112FL24",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018766044",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/112FL24.html",
+      "checked_at_utc": "2026-11-18T08:59:00.238259+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "ac738b4e88396573584615d4d7042458fdb3380aba7f3247b004a402281b59f4",
+      "original_OE_rows": [
+        [
+          "HONDA",
+          "06141-P0A-305"
+        ],
+        [
+          "HONDA",
+          "06141-PEA-305"
+        ],
+        [
+          "HONDA",
+          "14400-P04-004"
+        ],
+        [
+          "HONDA",
+          "14400-P0A-004"
+        ],
+        [
+          "HONDA",
+          "14400-PAA-A01"
+        ],
+        [
+          "HONDA",
+          "14400-PAA-A02"
+        ],
+        [
+          "HONDA",
+          "14400-PDA-E01"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15125",
+      "fitment_page_sha256": "e09ff009404e6f3e21ccf30c4062ddc7a53f808ddf9856522a39ad55cd64886b",
+      "fitment_rows": [
+        [
+          "ACCORD V (CE, CF_) 95-98",
+          "2.2 (CE9) (F22Z2)",
+          "103 (140)",
+          "04/96-12/97",
+          "Camshaft"
+        ],
+        [
+          "ACCORD V (CE, CF_) 95-98",
+          "2.2 i VTEC (CE9) (F22Z2)",
+          "110 (150)",
+          "02/96-10/98",
+          ""
+        ],
+        [
+          "ACCORD VI (CG, CH, CF, CL) 97-03",
+          "1.8 i (CG8) (F18B2)",
+          "100 (136)",
+          "10/98-12/02",
+          ""
+        ],
+        [
+          "ACCORD VI (CG, CH, CF, CL) 97-03",
+          "2.0 i (CG9, CF4, CF9, CH3, CL3) (F20B2)",
+          "110 (150)",
+          "09/97-05/00",
+          ""
+        ],
+        [
+          "ACCORD VI (CG, CH, CF, CL) 97-03",
+          "2.0 i (CG9) (F20B6)",
+          "108 (147)",
+          "10/98-01/01",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/112FL24.jpg",
+      "photo_sha256": "f8900a34afd28f40d7fd5cc2458d12a5b814060ad45c7f25d2b5dc2565e16380",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "06141P0A305",
+      "OEM_make": "HONDA",
+      "exact_sku_verified": true,
+      "fitment": "HONDA ACCORD V (CE, CF_) 95-98, 2.2 (CE9) (F22Z2), 103 (140), 04/96-12/97, Camshaft; HONDA ACCORD V (CE, CF_) 95-98, 2.2 i VTEC (CE9) (F22Z2), 110 (150), 02/96-10/98; HONDA ACCORD VI (CG, CH, CF, CL) 97-03, 1.8 i (CG8) (F18B2), 100 (136), 10/98-12/02",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117FL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018860015",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/117FL22.html",
+      "checked_at_utc": "2026-11-18T08:59:22.944131+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "61c450ce22565cbcf6c88ff4c93c5cc39a7c950cd8f53c4a77e7f1c9787b81ba",
+      "original_OE_rows": [
+        [
+          "FORD",
+          "1 004 297"
+        ],
+        [
+          "FORD",
+          "1 004 299"
+        ],
+        [
+          "FORD",
+          "1 823 388"
+        ],
+        [
+          "FORD USA",
+          "96MM-6K288-A1A"
+        ],
+        [
+          "FORD USA",
+          "96MM-6K288-A2A"
+        ],
+        [
+          "FORD USA",
+          "96MM-6K288-BA"
+        ],
+        [
+          "MAZDA",
+          "1E05-12-205"
+        ],
+        [
+          "MAZDA",
+          "1E06-12-205"
+        ],
+        [
+          "MAZDA",
+          "C201-12-201"
+        ],
+        [
+          "MAZDA",
+          "C201-12-201A"
+        ],
+        [
+          "MAZDA",
+          "C606-12-201"
+        ],
+        [
+          "VOLVO",
+          "274562"
+        ],
+        [
+          "VOLVO",
+          "30711607"
+        ],
+        [
+          "VOLVO",
+          "30750903"
+        ],
+        [
+          "VOLVO",
+          "31330351"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15139",
+      "fitment_page_sha256": "22c185e365841c3e35debb0d0297f5a43952298f82c14e2c19467ccc283b0de7",
+      "fitment_rows": [
+        [
+          "C-MAX (DM2) 07-10",
+          "1.6 (HWDA, HWDB, SHDA, SHDB, SHDC)",
+          "74 (100)",
+          "02/07-09/10",
+          ""
+        ],
+        [
+          "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "1.6 Ti (IQDA, IQDB)",
+          "77 (105)",
+          "12/10-",
+          ""
+        ],
+        [
+          "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "1.6 Ti (XTDA, XTDB)",
+          "63 (85)",
+          "12/10-",
+          ""
+        ],
+        [
+          "FIESTA III (GFJ) 89-97",
+          "1.4 (F4A, FUG, FUJ)",
+          "54 (73)",
+          "03/89-12/95",
+          ""
+        ],
+        [
+          "FIESTA IV (JA_, JB_) 95-02",
+          "1.25 i 16V (DHA, DHB, DHC, DHD, DHE, DHF, DHG)",
+          "55 (75)",
+          "08/95-01/02",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/117FL22.jpg",
+      "photo_sha256": "a1ab3c701267e4e3b9c657a5f7fa092af54989e2b825f1fa2471bef0bc479435",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "1004297",
+      "OEM_make": "FORD",
+      "exact_sku_verified": true,
+      "fitment": "FORD C-MAX (DM2) 07-10, 1.6 (HWDA, HWDB, SHDA, SHDB, SHDC), 74 (100), 02/07-09/10; FORD C-MAX II (DXA/CB7, DXA/CEU) 10-, 1.6 Ti (IQDA, IQDB), 77 (105), 12/10-; FORD C-MAX II (DXA/CB7, DXA/CEU) 10-, 1.6 Ti (XTDA, XTDB), 63 (85), 12/10-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "124FL29",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019725084",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/124FL29.html",
+      "checked_at_utc": "2026-11-18T08:59:49.618481+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "9b38651dbb7e541982201a840182f0d020a30d2073be8da67ba1e0ba51345a50",
+      "original_OE_rows": [
+        [
+          "GREAT WALL",
+          "SMD182294"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 182294"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 197144"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 323455"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 339052"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=GREAT+WALL&product_id=15173",
+      "fitment_page_sha256": "e618ba2dbe2db98822755c674c1f9f21dfc57e1bb12034732a712863f0c6ffea",
+      "fitment_rows": [
+        [
+          "HOVER 05-10",
+          "2.4 (4G64)",
+          "93 (125)",
+          "11/05-10/08",
+          ""
+        ],
+        [
+          "HOVER 05-10",
+          "2.4 AWD (4G64)",
+          "93 (125)",
+          "11/05-10/08",
+          ""
+        ],
+        [
+          "HOVER H5 | HAVAL 5 10-14",
+          "2.4 (4G69-S4N)",
+          "100 (136)",
+          "06/10-",
+          ""
+        ],
+        [
+          "HOVER H5 | HAVAL 5 10-14",
+          "2.4 (4G69-S4N)",
+          "93 (126)",
+          "01/13-",
+          ""
+        ],
+        [
+          "HOVER H5 | HAVAL 5 10-14",
+          "2.4 4WD (4G69-S4N)",
+          "93 (126)",
+          "01/13-",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/124FL29.jpg",
+      "photo_sha256": "00918fe798db1b99fcecd33e7a56b18de6cbda02aae75e2d39fdbba02974bbd0",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "SMD182294",
+      "OEM_make": "GREAT WALL",
+      "exact_sku_verified": true,
+      "fitment": "GREAT WALL HOVER 05-10, 2.4 (4G64), 93 (125), 11/05-10/08; GREAT WALL HOVER 05-10, 2.4 AWD (4G64), 93 (125), 11/05-10/08; GREAT WALL HOVER H5 | HAVAL 5 10-14, 2.4 (4G69-S4N), 100 (136), 06/10-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "125FL26",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019616955",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/125FL26.html",
+      "checked_at_utc": "2026-11-18T08:59:49.638267+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "a45a5fee18087d0a071b5b97cc4de5a5658d00e9a70877540290283369cd7eb9",
+      "original_OE_rows": [
+        [
+          "HONDA",
+          "06141-P7J-305"
+        ],
+        [
+          "HONDA",
+          "06141-PR4-305"
+        ],
+        [
+          "HONDA",
+          "14400-P7J-004"
+        ],
+        [
+          "HONDA",
+          "14400-PR4-004"
+        ],
+        [
+          "HONDA",
+          "14400-PR4-A01"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15182",
+      "fitment_page_sha256": "d7b64acc2c47656a229b6c9cbe766bcd26fca37cdb99eebe14f991c09e7d184e",
+      "fitment_rows": [
+        [
+          "CR-V I (RD_) 95-02",
+          "2.0 (RD2) (B20B4)",
+          "94 (128)",
+          "09/96-12/98",
+          ""
+        ],
+        [
+          "CR-V I (RD_) 95-02",
+          "2.0 16V 4WD (RD1, RD3) (B20B)",
+          "94 (128)",
+          "10/95-12/01",
+          ""
+        ],
+        [
+          "CR-V I (RD_) 95-02",
+          "2.0 16V 4WD (RD1, RD3) (B20Z1)",
+          "108 (147)",
+          "01/99-02/02",
+          ""
+        ],
+        [
+          "CR-V I (RD_) 95-02",
+          "2.0 16V 4WD (RD3) (B20Z2)",
+          "109 (148)",
+          "09/98-12/01",
+          ""
+        ],
+        [
+          "INTEGRA Hatchback (DA) 85-93",
+          "1.8 (DA9) (B18A1)",
+          "96 (131)",
+          "06/89-07/93",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/125FL26.jpg",
+      "photo_sha256": "cf778c82bccc1693d575628d2fe1887f0cc76b0ca04e99ae0810f722e0904be3",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "06141P7J305",
+      "OEM_make": "HONDA",
+      "exact_sku_verified": true,
+      "fitment": "HONDA CR-V I (RD_) 95-02, 2.0 (RD2) (B20B4), 94 (128), 09/96-12/98; HONDA CR-V I (RD_) 95-02, 2.0 16V 4WD (RD1, RD3) (B20B), 94 (128), 10/95-12/01; HONDA CR-V I (RD_) 95-02, 2.0 16V 4WD (RD1, RD3) (B20Z1), 108 (147), 01/99-02/02",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "129AL27",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018470895",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/129AL27.html",
+      "checked_at_utc": "2026-11-18T09:00:10.154038+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "801717d94c46c2124d787319ba84847bd14a37680fa70c09874a9e0c9e1bc1c4",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "13568-70080"
+        ],
+        [
+          "TOYOTA",
+          "13568-70100"
+        ],
+        [
+          "TOYOTA",
+          "13568-79065"
+        ],
+        [
+          "TOYOTA",
+          "13568-79085"
+        ],
+        [
+          "TOYOTA",
+          "13568-79235"
+        ],
+        [
+          "TOYOTA",
+          "13568-YZZ20"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LEXUS&product_id=15194",
+      "fitment_page_sha256": "edccb8ad3f7eab20ed50980fe5698fa5d40f65444ba045f5572d72bfa24008c8",
+      "fitment_rows": [
+        [
+          "IS I (_E1_) 99-05",
+          "200 (GXE10) (1G-FE)",
+          "114 (155)",
+          "04/99-07/05",
+          ""
+        ],
+        [
+          "IS I SportCross (_E1_) 01-05",
+          "200 (GXE10_) (1G-FE)",
+          "114 (155)",
+          "10/02-10/05",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/129AL27.jpg",
+      "photo_sha256": "173e0076446462f92b975371210aef51aa4a7aa63a35ff3a35d3d595ba2b6a71",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "1356870080",
+      "OEM_make": "TOYOTA",
+      "exact_sku_verified": true,
+      "fitment": "LEXUS IS I (_E1_) 99-05, 200 (GXE10) (1G-FE), 114 (155), 04/99-07/05; LEXUS IS I SportCross (_E1_) 01-05, 200 (GXE10_) (1G-FE), 114 (155), 10/02-10/05",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "137FL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0022333756",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/137FL22.html",
+      "checked_at_utc": "2026-11-18T09:00:25.307925+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "13eaea0ada83bf13cf1e8960af77201d59b038ce197166bf5502cfe3ab313f3c",
+      "original_OE_rows": [
+        [
+          "LADA",
+          "21126-1006040"
+        ],
+        [
+          "LADA",
+          "21126-1006040-00"
+        ],
+        [
+          "LADA",
+          "21126-1006040-01"
+        ],
+        [
+          "LADA",
+          "21126-1006040-02"
+        ],
+        [
+          "LADA",
+          "8450036630"
+        ],
+        [
+          "LADA",
+          "8450056633"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=15231",
+      "fitment_page_sha256": "1087442374ff0690d350407b46ffc769a7d82d821c6ecaeacdc5a772cb6be144",
+      "fitment_rows": [
+        [
+          "GRANTA (2190_) 11-19",
+          "1.6 (21902) (21126)",
+          "72 (98)",
+          "10/11-",
+          ""
+        ],
+        [
+          "GRANTA (2190_) 11-19",
+          "1.6 (21907) (21127)",
+          "78 (106)",
+          "07/13-",
+          ""
+        ],
+        [
+          "GRANTA (2190_) 11-19",
+          "1.6 Sport (21905) (21126)",
+          "87 (118)",
+          "07/13-09/18",
+          ""
+        ],
+        [
+          "GRANTA (2190_) 11-19",
+          "1.6 Sport (219059) (21126)",
+          "84 (114)",
+          "04/16-01/19",
+          ""
+        ],
+        [
+          "GRANTA Estate (2194_) 18-",
+          "1.6 (21942) (21126)",
+          "72 (98)",
+          "08/18-",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/137FL22.jpg",
+      "photo_sha256": "1dc72c71b587c7299cd8e46d50233d098dd7e637d9b652e35cfa8b9d9b370ea5",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "211261006040",
+      "OEM_make": "LADA",
+      "exact_sku_verified": true,
+      "fitment": "LADA GRANTA (2190_) 11-19, 1.6 (21902) (21126), 72 (98), 10/11-; LADA GRANTA (2190_) 11-19, 1.6 (21907) (21127), 78 (106), 07/13-; LADA GRANTA (2190_) 11-19, 1.6 Sport (21905) (21126), 87 (118), 07/13-09/18",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "141EL30",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0013008524",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/141EL30.html",
+      "checked_at_utc": "2026-11-18T09:00:30.343148+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "3cbabee71c31e0a5338411916de262fedd93e354fe8237540e1e1100a40063a0",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "68001 143AA"
+        ],
+        [
+          "CHRYSLER",
+          "68001 309AA"
+        ],
+        [
+          "MITSUBISHI",
+          "MN 980100"
+        ],
+        [
+          "VAG",
+          "03G 109 119"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=35552",
+      "fitment_page_sha256": "1fb43869b274e628656cf496520488497b1ba67adec7dcf8f1918ac1c1fdcde7",
+      "fitment_rows": [
+        [
+          "A3 (8P1) 03-12",
+          "2.0 TDI (AZV, CBAA, CFFA)",
+          "100 (136)",
+          "05/03-08/12",
+          ""
+        ],
+        [
+          "A3 (8P1) 03-12",
+          "2.0 TDI (BMN, CBBB, CFGB)",
+          "125 (170)",
+          "03/06-08/12",
+          ""
+        ],
+        [
+          "A3 (8P1) 03-12",
+          "2.0 TDI (BUY)",
+          "120 (163)",
+          "06/06-06/08",
+          ""
+        ],
+        [
+          "A3 (8P1) 03-12",
+          "2.0 TDI 16V (BKD, CBAB, CBEA, CFFB, CLJA)",
+          "103 (140)",
+          "05/03-08/12",
+          ""
+        ],
+        [
+          "A3 (8P1) 03-12",
+          "2.0 TDI 16V quattro (BKD, CBAB, CFFB)",
+          "103 (140)",
+          "08/04-08/12",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/141EL30.jpg",
+      "photo_sha256": "15b0fe54796f0546c032a5cf9b14f7ee38ef9ef7fe9ebd67bef7df52e9145da0",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "03G109119",
+      "OEM_make": "VAG",
+      "exact_sku_verified": true,
+      "fitment": "AUDI A3 (8P1) 03-12, 2.0 TDI (AZV, CBAA, CFFA), 100 (136), 05/03-08/12; AUDI A3 (8P1) 03-12, 2.0 TDI (BMN, CBBB, CFGB), 125 (170), 03/06-08/12; AUDI A3 (8P1) 03-12, 2.0 TDI (BUY), 120 (163), 06/06-06/08",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "150CL23",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018766054",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/150CL23.html",
+      "checked_at_utc": "2026-11-18T09:00:42.953813+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "a9affaf34158ef543799f9b786d83600053cad2094aea87292b80c69320cac7a",
+      "original_OE_rows": [
+        [
+          "VAG",
+          "06B 109 119 A"
+        ],
+        [
+          "VAG",
+          "06B 109 119 B"
+        ],
+        [
+          "VAG",
+          "06B 109 119 F"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=AUDI&product_id=15327",
+      "fitment_page_sha256": "bb9edf92c7c9ffc33ec1103ff12fd01723e48a72db4cc8155608a9babfbde0b6",
+      "fitment_rows": [
+        [
+          "A3 (8L1) 96-03",
+          "1.8 (AGN, APG)",
+          "92 (125)",
+          "09/96-05/03",
+          ""
+        ],
+        [
+          "A3 (8L1) 96-03",
+          "1.8 T (AGU, AQA, ARZ, AUM)",
+          "110 (150)",
+          "12/96-05/03",
+          ""
+        ],
+        [
+          "A3 (8L1) 96-03",
+          "1.8 T (AJQ, APP, ARY, AUQ)",
+          "132 (180)",
+          "12/98-05/03",
+          ""
+        ],
+        [
+          "A3 (8L1) 96-03",
+          "1.8 T quattro (AGU, AQA, ARX)",
+          "110 (150)",
+          "12/96-05/03",
+          ""
+        ],
+        [
+          "A3 (8L1) 96-03",
+          "1.8 T quattro (AJQ, ARY)",
+          "132 (180)",
+          "10/98-05/03",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/150CL23.jpg",
+      "photo_sha256": "b599eac0aa3e7657a2d97f012052ba77e0d8fd2bc4e2686d48b10f46bfbe496f",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "06B109119A",
+      "OEM_make": "VAG",
+      "exact_sku_verified": true,
+      "fitment": "AUDI A3 (8L1) 96-03, 1.8 (AGN, APG), 92 (125), 09/96-05/03; AUDI A3 (8L1) 96-03, 1.8 T (AGU, AQA, ARZ, AUM), 110 (150), 12/96-05/03; AUDI A3 (8L1) 96-03, 1.8 T (AJQ, APP, ARY, AUQ), 132 (180), 12/98-05/03",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "153FL29",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018142250",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/153FL29.html",
+      "checked_at_utc": "2026-11-18T09:00:48.008216+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "e9f7339826496aea7431f012a9a684b3424420f69b6e2b263122f168116882ed",
+      "original_OE_rows": [
+        [
+          "HYUNDAI/KIA",
+          "24312-33110"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "24312-33120"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "24312-33130"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "24312-33140"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "24312-33150"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "24312-33160"
+        ],
+        [
+          "MITSUBISHI",
+          "1145A038"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 110029"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 133115"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 145713"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 171748"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 182291"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 197142"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 326025"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 326059"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 327394"
+        ],
+        [
+          "MITSUBISHI",
+          "MN 187466"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HYUNDAI&product_id=15343",
+      "fitment_page_sha256": "52f720f931da700e718d3147af76d5f0d9fcf4db277668fe8c01fcdc683c1b41",
+      "fitment_rows": [
+        [
+          "ELANTRA/LANTRA I (J-1) 90-95",
+          "1.8 i.e. 16V (G4CN)",
+          "93 (127)",
+          "10/90-11/95",
+          ""
+        ],
+        [
+          "SANTAMO 99-02",
+          "2.0 16V (G4JP)",
+          "102 (139)",
+          "05/99-12/02",
+          ""
+        ],
+        [
+          "SANTAMO 99-02",
+          "2.0 16V 4WD (G4CP-D)",
+          "102 (139)",
+          "05/99-12/02",
+          ""
+        ],
+        [
+          "SONATA II (Y-2) 88-93",
+          "2.0 i 16V (G4CP-D)",
+          "96 (130)",
+          "01/91-10/93",
+          ""
+        ],
+        [
+          "SONATA III (Y-3) 93-98",
+          "2.0 i (G4EP)",
+          "70 (95)",
+          "08/96-06/98",
+          "Camshaft"
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/153FL29.jpg",
+      "photo_sha256": "5e70c2802e488100b9722b3ef36d030ca86bbfaa532d335d1e5eceb5cf959033",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "2431233110",
+      "OEM_make": "HYUNDAI/KIA",
+      "exact_sku_verified": true,
+      "fitment": "HYUNDAI ELANTRA/LANTRA I (J-1) 90-95, 1.8 i.e. 16V (G4CN), 93 (127), 10/90-11/95; HYUNDAI SANTAMO 99-02, 2.0 16V (G4JP), 102 (139), 05/99-12/02; HYUNDAI SANTAMO 99-02, 2.0 16V 4WD (G4CP-D), 102 (139), 05/99-12/02",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "162CL20",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019727638",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/162CL20.html",
+      "checked_at_utc": "2026-11-18T09:01:00.531687+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "90c963bea326ddf40ddcf2676a0e9452e38fd123aef6bb226829d3bbb93a3b12",
+      "original_OE_rows": [
+        [
+          "GENERAL MOTORS",
+          "24451895"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90531858"
+        ],
+        [
+          "GENERAL MOTORS",
+          "9129060"
+        ],
+        [
+          "GENERAL MOTORS",
+          "96413861"
+        ],
+        [
+          "OPEL",
+          "56 36 373"
+        ],
+        [
+          "OPEL",
+          "56 36 564"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHEVROLET&product_id=15354",
+      "fitment_page_sha256": "237e0a7f88f6da4e8fd769a18316cf4f8708bcc5d395a7f9d553f0326288b17c",
+      "fitment_rows": [
+        [
+          "LACETTI (J200) 05-12",
+          "1.8 (LDA)",
+          "89 (121)",
+          "08/05-",
+          ""
+        ],
+        [
+          "LACETTI (J200) 05-12",
+          "1.8 (LDA)",
+          "90 (122)",
+          "03/05-",
+          ""
+        ],
+        [
+          "LACETTI Estate (J200) 03-13",
+          "1.8 (LDA)",
+          "89 (121)",
+          "08/05-",
+          ""
+        ],
+        [
+          "NIVA (2123) 02-09",
+          "1.8 4WD (2H9)",
+          "92 (125)",
+          "01/07-12/09",
+          ""
+        ],
+        [
+          "NUBIRA Estate 05-11",
+          "1.8 (LDA)",
+          "89 (121)",
+          "08/05-12/11",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/162CL20.jpg",
+      "photo_sha256": "f1bedc474853941d1063ab950657ea7c311e2606f81dcda2ad066774bfe24eac",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "24451895",
+      "OEM_make": "GENERAL MOTORS",
+      "exact_sku_verified": true,
+      "fitment": "CHEVROLET LACETTI (J200) 05-12, 1.8 (LDA), 89 (121), 08/05-; CHEVROLET LACETTI (J200) 05-12, 1.8 (LDA), 90 (122), 03/05-; CHEVROLET LACETTI Estate (J200) 03-13, 1.8 (LDA), 89 (121), 08/05-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "173CL25",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0022333712",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/173CL25.html",
+      "checked_at_utc": "2026-11-18T09:01:17.316293+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "e08c14afdf6036c7b3fab4f3b81171d0585fad283e0dfbb4d000605f9e93437d",
+      "original_OE_rows": [
+        [
+          "CHERY",
+          "481H-1007073-BA"
+        ],
+        [
+          "CHERY",
+          "481H-1007073-CA"
+        ],
+        [
+          "CHERY",
+          "481H-1007073-EA"
+        ],
+        [
+          "CHERY",
+          "481H-1007077"
+        ],
+        [
+          "CITROEN/PEUGEOT",
+          "0816.63"
+        ],
+        [
+          "FIAT",
+          "7613823"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHERY&product_id=15372",
+      "fitment_page_sha256": "394aadc4684b423978914012a6ae0a0f632b445f1ff8e896781bcc2cb8d34264",
+      "fitment_rows": [
+        [
+          "A5 | ELARA | FORA 06-",
+          "1.6 (SQR481F)",
+          "88 (120)",
+          "01/11-12/12",
+          ""
+        ],
+        [
+          "A5 | ELARA | FORA 06-",
+          "2.0 (SQR484F)",
+          "95 (129)",
+          "01/06-",
+          ""
+        ],
+        [
+          "CROSSEASTAR 07-",
+          "2.0 (SQR484F)",
+          "100 (136)",
+          "06/07-",
+          ""
+        ],
+        [
+          "M11 | A3 Hatchback 09-14",
+          "1.6 (SQR481F)",
+          "88 (120)",
+          "01/09-12/14",
+          ""
+        ],
+        [
+          "M11 | A3 Saloon 08-14",
+          "1.6 (SQR481F, SQR481FD)",
+          "88 (120)",
+          "09/08-12/10",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/173CL25.jpg",
+      "photo_sha256": "1a9af0f89a79975b6b6fbaba00df38082d08070ad212ef5658681a970452736f",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "481H1007073BA",
+      "OEM_make": "CHERY",
+      "exact_sku_verified": true,
+      "fitment": "CHERY A5 | ELARA | FORA 06-, 1.6 (SQR481F), 88 (120), 01/11-12/12; CHERY A5 | ELARA | FORA 06-, 2.0 (SQR484F), 95 (129), 01/06-; CHERY CROSSEASTAR 07-, 2.0 (SQR484F), 100 (136), 06/07-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    }
+  ]
+}

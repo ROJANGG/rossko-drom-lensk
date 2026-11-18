@@ -51,6 +51,9 @@ def seller_sku(ad):
     if title.startswith("Подшипник ступицы "):
         from avito_reviewed_sufix_bearings import bearing_sku
         return bearing_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
+    if title.startswith(('Ремень ГРМ ', 'Прокладка ГБЦ ', 'Радиатор охлаждения ')):
+        from avito_reviewed_lynx_source06 import lynx_sku
+        return lynx_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
     # Parse only explicit supported titles, including individually approved extensions.
     matched = re.fullmatch(
         r"(Тормозной диск|Рулевая рейка|Радиатор кондиционера|Колодки барабанные|Свеча накаливания|Свечи накала)\s+(.+)\s+([A-Za-z0-9.+/\-]+)\s+(новый|новые|новая)",
@@ -114,7 +117,17 @@ if _bearing_path.exists():
         if _k in EXTRA_APPROVED_STOCK_CATEGORIES:
             raise ValueError("Duplicate reviewed SUFIX SKU")
         EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record["category"]
-APPROVED_CATALOG_LIMIT = 300 + len(_reviewed_belts) + len(_reviewed_bearings)
+_reviewed_lynx06 = []
+_lynx06_path = Path(__file__).parent / 'input/avito_reviewed_lynx_source06.json'
+if _lynx06_path.exists():
+    from avito_reviewed_lynx_source06 import load_reviewed_lynx
+    _reviewed_lynx06 = load_reviewed_lynx(_lynx06_path)
+    for _record in _reviewed_lynx06:
+        _k = key(_record['brand'], _record['article'])
+        if _k in EXTRA_APPROVED_STOCK_CATEGORIES:
+            raise ValueError('Duplicate exact LYNX source06 SKU')
+        EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record['category']
+APPROVED_CATALOG_LIMIT = 300 + len(_reviewed_belts) + len(_reviewed_bearings) + len(_reviewed_lynx06)
 EXTRA_APPROVED_STOCK_SKUS = set(EXTRA_APPROVED_STOCK_CATEGORIES)
 
 
@@ -161,7 +174,7 @@ def supplier_products(book, config):
         if k in found:
             raise ValueError("Duplicate supplier brand/article")
         if (item["Группа"] not in ("Тормозные диски", "Рулевые рейки", "Радиаторы кондиционера", "Колодки барабанные", "Свечи накала")
-                and not (item["Группа"] in ("Ремни приводные", "Ступичные подшипники")
+                and not (item["Группа"] in ("Ремни приводные", "Ступичные подшипники", "Ремни ГРМ", "Прокладки ГБЦ", "Радиаторы охлаждения")
                          and EXTRA_APPROVED_STOCK_CATEGORIES.get(k) == item["Группа"])):
             raise ValueError("Unexpected supplier category")
         found[k] = item
