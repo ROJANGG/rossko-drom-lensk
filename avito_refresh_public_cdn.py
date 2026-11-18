@@ -25,7 +25,7 @@ def fetch(url):
 def refresh(expected, *, getter=fetch, sleeper=time.sleep):
     root = ET.fromstring(expected)
     count = len(root.findall('Ad'))
-    if root.tag != 'Ads' or root.get('formatVersion') != '3' or not 150 <= count <= 467:
+    if root.tag != 'Ads' or root.get('formatVersion') != '3' or not 150 <= count <= 560:
         raise ValueError('Unexpected validated Avito XML')
     digest = hashlib.sha256(expected).hexdigest()
     result = json.loads(getter(PURGE))
@@ -44,4 +44,5 @@ if __name__ == '__main__':
     parser.add_argument('--xml', type=Path, required=True)
     args = parser.parse_args()
     print('AVITO_PUBLIC_CDN_REFRESH', json.dumps(refresh(args.xml.read_bytes())))
+
 
