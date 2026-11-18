@@ -2645,29 +2645,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>irk-6bfa202649f68789204210</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
-    <OEM>MR418067</OEM>
-    <Title>Тормозной диск NGN 361331 новый</Title>
-    <Description>Тормозной диск, производитель NGN, артикул 361331.
-Состояние: новое.
-Доступно к самовывозу в Иркутске.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Наличие перед приездом уточняйте, совместимость проверяйте по VIN.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>5900</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>NGN</Brand>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/avito-images/irk-6bfa202649f68789204210-05702184f18c.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>irk-705192a07e777d578b1059</Id>
     <Category>Запчасти и аксессуары</Category>
     <GoodsType>Запчасти</GoodsType>
@@ -6646,30 +6623,6 @@ OEM: 5013541.
     <Brand>LYNXauto</Brand>
     <Images>
       <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fb30097ae24f5cf63163f6-2ecb7611ef80.jpg" />
-    </Images>
-  </Ad><Ad>
-    <Id>irk-3660e9d57f5b3d194f6bd3</Id>
-    <Category>Запчасти и аксессуары</Category>
-    <GoodsType>Запчасти</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Двигатель</SparePartType>
-    <EngineSparePartType>Приводные ремни, натяжители</EngineSparePartType>
-    <OEM>0039973692</OEM>
-    <Title>Ремень приводной LYNXauto 13X1300LX новый</Title>
-    <Description>Ремень приводной. Производитель: LYNXauto. Артикул: 13X1300LX.
-Состояние: новое. Цена за одну штуку.
-OEM: 0039973692.
-Применяемость по каталогу производителя, выборка: MERCEDES-BENZ T2/LN1 Platform/Chassis 86-94, 609 D (668.001, 668.002, 668.003) (OM 364.906), 66 (90), 04/86-12/94; MERCEDES-BENZ T2/LN1 Platform/Chassis 86-94, 609 D (668.001, 668.002, 668.003) (OM 364.919), 63 (86), 04/86-12/94; MERCEDES-BENZ T2/LN1 Platform/Chassis 86-94, 609 DK (668.041, 668.042) (OM 364.906), 66 (90), 04/86-12/94.
-Самовывоз: г. Иркутск, ул. Каховского, д. 11/1.
-Перед покупкой сверьте OEM и VIN. Наличие перед приездом уточняйте.</Description>
-    <Address>г. Иркутск, ул. Каховского, д. 11/1</Address>
-    <Price>650</Price>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>LYNXauto</Brand>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3660e9d57f5b3d194f6bd3-dea39c77112d.jpg" />
     </Images>
   </Ad><Ad>
     <Id>irk-b422d50978ba606dc3e7bb</Id>
