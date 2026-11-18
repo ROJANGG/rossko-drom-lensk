@@ -46,6 +46,9 @@ def seller_sku(ad):
     title = ad.findtext("Title", "")
     brand = ad.findtext("Brand", "")
     if title.startswith("Ремень приводной "):
+        if brand == 'SUFIX':
+            from avito_reviewed_sufix_drive_belts import sufix_belt_sku
+            return sufix_belt_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
         from avito_reviewed_drive_belts import belt_sku
         return belt_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
     if title.startswith("Подшипник ступицы "):
@@ -127,7 +130,16 @@ if _lynx06_path.exists():
         if _k in EXTRA_APPROVED_STOCK_CATEGORIES:
             raise ValueError('Duplicate exact LYNX source06 SKU')
         EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record['category']
-APPROVED_CATALOG_LIMIT = 300 + len(_reviewed_belts) + len(_reviewed_bearings) + len(_reviewed_lynx06)
+_reviewed_sufix_drive = []
+_sufix_drive_path = Path(__file__).parent / 'input/avito_reviewed_sufix_drive_belts.json'
+if _sufix_drive_path.exists():
+    from avito_reviewed_sufix_drive_belts import load_reviewed_sufix_belts
+    _reviewed_sufix_drive = load_reviewed_sufix_belts(_sufix_drive_path)
+    for _record in _reviewed_sufix_drive:
+        _k = key(_record['brand'], _record['article'])
+        if _k in EXTRA_APPROVED_STOCK_CATEGORIES:raise ValueError('Duplicate exact SUFIX drive belt SKU')
+        EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record['category']
+APPROVED_CATALOG_LIMIT = 300 + len(_reviewed_belts) + len(_reviewed_bearings) + len(_reviewed_lynx06) + len(_reviewed_sufix_drive)
 EXTRA_APPROVED_STOCK_SKUS = set(EXTRA_APPROVED_STOCK_CATEGORIES)
 
 

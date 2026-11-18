@@ -22,4 +22,4 @@ class PublicCDNTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'different XML'):
             refresh(self.xml(330),getter=lambda u:b'{"status":"finished"}' if u==PURGE else self.xml(245),sleeper=lambda _:None)
         with self.assertRaisesRegex(ValueError,'Unexpected validated'):
-            refresh(self.xml(573),getter=lambda _:self.fail('No network for invalid XML'))
+            refresh(self.xml(589),getter=lambda _:self.fail('No network for invalid XML'))

@@ -1,0 +1,2770 @@
+{
+  "date": "2026-11-18",
+  "scope_sha256": "939ca33ba5e3c069e8c5b3ad1d673e72245b62ba3af1809ae7da12aa0e1bea84",
+  "original_selection_scope": 100,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "FB3005",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235775",
+      "source_checked_at_utc": "2026-11-18T09:14:01.703203+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3005.html",
+      "page_captured_at_utc": "2026-11-18T09:14:04.565857+00:00",
+      "manufacturer_page_sha256": "1a68ac160e960f11f1abdc5824b21f049b3ba9e5fd4c76b9c84511c9f93dc669",
+      "manufacturer_MPN": "FB-3005",
+      "product_title": "Ремень поликлиновой (3PK753) Арт. FB-3005",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "LANDROVER",
+          "AHU2716"
+        ],
+        [
+          "LANDROVER",
+          "CDU2160"
+        ],
+        [
+          "LANDROVER",
+          "GMB30735"
+        ],
+        [
+          "LANDROVER",
+          "GMB30755"
+        ],
+        [
+          "RENAULT",
+          "82 00 041 848"
+        ],
+        [
+          "RENAULT",
+          "82 00 830 183"
+        ],
+        [
+          "SUZUKI",
+          "95141-M79F00"
+        ],
+        [
+          "SUZUKI",
+          "95141-M79F00-000"
+        ],
+        [
+          "TOYOTA",
+          "90080-91054"
+        ],
+        [
+          "TOYOTA",
+          "90916-02317"
+        ],
+        [
+          "TOYOTA",
+          "90916-02318"
+        ],
+        [
+          "TOYOTA",
+          "99363-00750"
+        ],
+        [
+          "TOYOTA",
+          "99363-20750"
+        ],
+        [
+          "TOYOTA",
+          "99363-30750"
+        ],
+        [
+          "TOYOTA",
+          "99363-60750"
+        ],
+        [
+          "TOYOTA",
+          "99363-80750"
+        ],
+        [
+          "TOYOTA",
+          "99363-90750"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "DAIHATSU": 1,
+        "LAND ROVER": 4,
+        "MITSUBISHI": 4,
+        "RENAULT": 7,
+        "SUZUKI": 1,
+        "TOYOTA": 21
+      },
+      "OEM_make": "LANDROVER",
+      "OEM_raw": "AHU2716",
+      "OEM": "AHU2716",
+      "fitment_rows": [
+        {
+          "model": "LAND ROVER FREELANDER I (L314) 98-06",
+          "modification": "1.8 16V 4WD (18 K4F) 86кВт/117лс 04.1998-10.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=15591"
+        },
+        {
+          "model": "LAND ROVER FREELANDER I (L314) 98-06",
+          "modification": "1.8 i 16V 4WD (18 K4F) 88кВт/120лс 02.1998-11.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=8985"
+        },
+        {
+          "model": "LAND ROVER FREELANDER I Soft Top (L314) 98-06",
+          "modification": "1.8 4WD (18 K4F) 86кВт/117лс 10.2000-09.2003",
+          "url": "https://sufix.pro/selection_parts.html?na_id=55967"
+        },
+        {
+          "model": "LAND ROVER FREELANDER I Soft Top (L314) 98-06",
+          "modification": "1.8 i 16V 4WD (18 K4F) 88кВт/120лс 02.1998-10.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10539"
+        }
+      ],
+      "applicability_make": "LAND ROVER",
+      "OEM_group_label_as_on_manufacturer_page": "LANDROVER",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3005.1.jpg",
+      "photo_sha256": "40aa9713a1327a4d2291d524ab659617a855846e6da43fcb5f76454a831752db",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "AHU2716",
+      "fitment": "LAND ROVER FREELANDER I (L314) 98-06 1.8 16V 4WD (18 K4F) 86кВт/117лс 04.1998-10.2006; LAND ROVER FREELANDER I (L314) 98-06 1.8 i 16V 4WD (18 K4F) 88кВт/120лс 02.1998-11.2000; LAND ROVER FREELANDER I Soft Top (L314) 98-06 1.8 4WD (18 K4F) 86кВт/117лс 10.2000-09.2003",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3022",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235792",
+      "source_checked_at_utc": "2026-11-18T09:14:22.634071+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3022.html",
+      "page_captured_at_utc": "2026-11-18T09:14:24.371498+00:00",
+      "manufacturer_page_sha256": "90b3c8d5266ce3186cffab5994f012f28b1ac169175ac8b4280faae759633da8",
+      "manufacturer_MPN": "FB-3022",
+      "product_title": "Ремень поликлиновой (4PK840) Арт. FB-3022",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "BMW",
+          "11 28 2 245 850"
+        ],
+        [
+          "BMW",
+          "64 55 2 245 850"
+        ],
+        [
+          "DAIHATSU",
+          "88458-87101"
+        ],
+        [
+          "FIAT",
+          "46517850"
+        ],
+        [
+          "FIAT",
+          "46527553"
+        ],
+        [
+          "FIAT",
+          "46746017"
+        ],
+        [
+          "FIAT",
+          "71718838"
+        ],
+        [
+          "GENERALMOTORS",
+          "25182776"
+        ],
+        [
+          "GENERALMOTORS",
+          "96416335"
+        ],
+        [
+          "HONDA",
+          "31110-P3G-505"
+        ],
+        [
+          "JAGUAR",
+          "EAC9369"
+        ],
+        [
+          "LANDROVER",
+          "ETC9101"
+        ],
+        [
+          "LANDROVER",
+          "STC3397"
+        ],
+        [
+          "NISSAN",
+          "11720-4A0A1"
+        ],
+        [
+          "NISSAN",
+          "11950-35F00"
+        ],
+        [
+          "SUZUKI",
+          "95141-60G50"
+        ],
+        [
+          "SUZUKI",
+          "95141-64A00"
+        ],
+        [
+          "TOYOTA",
+          "90916-02669"
+        ],
+        [
+          "TOYOTA",
+          "99364-00840"
+        ],
+        [
+          "TOYOTA",
+          "99364-20840"
+        ],
+        [
+          "TOYOTA",
+          "99364-50840"
+        ],
+        [
+          "TOYOTA",
+          "99364-70840"
+        ],
+        [
+          "TOYOTA",
+          "99364-80840"
+        ],
+        [
+          "VAG",
+          "038 260 849"
+        ],
+        [
+          "VAG",
+          "038 260 849 A"
+        ],
+        [
+          "VAG",
+          "J99 364 508 40"
+        ],
+        [
+          "VAG",
+          "J99 364 808 40"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "AUDI": 8,
+        "BMW": 6,
+        "CHEVROLET": 7,
+        "FIAT": 25,
+        "LAND ROVER": 1,
+        "SUZUKI": 7,
+        "TOYOTA": 33
+      },
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 2 245 850",
+      "OEM": "11282245850",
+      "fitment_rows": [
+        {
+          "model": "BMW 3 (E36) 90-98",
+          "modification": "318 tds (M41 D17 (174T1)) 66кВт/90лс 01.1995-02.1998",
+          "url": "https://sufix.pro/selection_parts.html?na_id=3818"
+        },
+        {
+          "model": "BMW 3 Compact (E36) 94-00",
+          "modification": "318 tds (M41 D17 (174T1)) 66кВт/90лс 06.1995-08.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=3824"
+        },
+        {
+          "model": "BMW 3 Touring (E36) 95-99",
+          "modification": "318 tds (M41 D17 (174T1)) 66кВт/90лс 03.1995-04.1999",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4625"
+        },
+        {
+          "model": "BMW X5 (E70) 06-13",
+          "modification": "3.0 d (M57 D30 (306D3)) 173кВт/235лс 12.2006-09.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=23282"
+        },
+        {
+          "model": "BMW X5 (E70) 06-13",
+          "modification": "xDrive 30 d (M57 D30 (306D3)) 173кВт/235лс 10.2008-03.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=30908"
+        }
+      ],
+      "applicability_make": "BMW",
+      "OEM_group_label_as_on_manufacturer_page": "BMW",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3022.2.jpg",
+      "photo_sha256": "675d946f93b2258c7f50ae1466ce820282b214c2596d39b86baaaa73b36d38dc",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "11282245850",
+      "fitment": "BMW 3 (E36) 90-98 318 tds (M41 D17 (174T1)) 66кВт/90лс 01.1995-02.1998; BMW 3 Compact (E36) 94-00 318 tds (M41 D17 (174T1)) 66кВт/90лс 06.1995-08.2000; BMW 3 Touring (E36) 95-99 318 tds (M41 D17 (174T1)) 66кВт/90лс 03.1995-04.1999",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3023",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235793",
+      "source_checked_at_utc": "2026-11-18T09:14:22.824143+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3023.html",
+      "page_captured_at_utc": "2026-11-18T09:14:24.270971+00:00",
+      "manufacturer_page_sha256": "085aad053e712939b5e1fafbce4f9bf0fff95e105afa9c116235ba0bfe182849",
+      "manufacturer_MPN": "FB-3023",
+      "product_title": "Ремень поликлиновой (4PK845) Арт. FB-3023",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "BMW",
+          "11 28 7 512 563"
+        ],
+        [
+          "BMW",
+          "11 28 7 559 454"
+        ],
+        [
+          "BMW",
+          "11 28 7 631 822"
+        ],
+        [
+          "DAIHATSU",
+          "88458-87704"
+        ],
+        [
+          "DAIHATSU",
+          "88458-87705"
+        ],
+        [
+          "HONDA",
+          "38920-P2T-003"
+        ],
+        [
+          "HONDA",
+          "38920-P3F-003"
+        ],
+        [
+          "HONDA",
+          "38920-P3F-004"
+        ],
+        [
+          "HONDA",
+          "38920-PW0-001"
+        ],
+        [
+          "HONDA",
+          "38920-PW0-G01"
+        ],
+        [
+          "HONDA",
+          "38920-PW0-G02"
+        ],
+        [
+          "HONDA",
+          "56992-P1J-E01"
+        ],
+        [
+          "HONDA",
+          "56992-P2A-003"
+        ],
+        [
+          "HONDA",
+          "56992-P2A-004"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25212-26001"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25212-26021"
+        ],
+        [
+          "HYUNDAIKIA",
+          "S2521 226021"
+        ],
+        [
+          "ISUZU",
+          "5-86010-793-0"
+        ],
+        [
+          "KIA",
+          "0K2FT-15-908"
+        ],
+        [
+          "MAZDA",
+          "B3C7-15-907B"
+        ],
+        [
+          "NISSAN",
+          "11920-V7300"
+        ],
+        [
+          "NISSAN",
+          "11920-V7301"
+        ],
+        [
+          "NISSAN",
+          "11920-V7311"
+        ],
+        [
+          "NISSAN",
+          "11950-53J10"
+        ],
+        [
+          "NISSAN",
+          "11950-53J20"
+        ],
+        [
+          "NISSAN",
+          "11950-70J00"
+        ],
+        [
+          "NISSAN",
+          "11950-70J05"
+        ],
+        [
+          "NISSAN",
+          "11950-9F600"
+        ],
+        [
+          "NISSAN",
+          "11950-9F605"
+        ],
+        [
+          "SUBARU",
+          "80921-4470"
+        ],
+        [
+          "SUBARU",
+          "80921-4500"
+        ],
+        [
+          "SUBARU",
+          "80921-4550"
+        ],
+        [
+          "TOYOTA",
+          "90916-02200"
+        ],
+        [
+          "TOYOTA",
+          "90916-02364"
+        ],
+        [
+          "TOYOTA",
+          "99364-00845"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "BMW": 7,
+        "DAIHATSU": 1,
+        "HONDA": 48,
+        "HYUNDAI": 25,
+        "KIA": 12,
+        "MITSUBISHI": 9,
+        "NISSAN": 65,
+        "SUBARU": 13,
+        "TOYOTA": 41
+      },
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 7 512 563",
+      "OEM": "11287512563",
+      "fitment_rows": [
+        {
+          "model": "BMW 5 (E60) 01-10",
+          "modification": "520 i (M54 B22 (226S1)) 125кВт/170лс 07.2003-03.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17290"
+        },
+        {
+          "model": "BMW 5 (E60) 01-10",
+          "modification": "525 i (M54 B25 (256S5)) 141кВт/192лс 09.2003-02.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17293"
+        },
+        {
+          "model": "BMW 5 (E60) 01-10",
+          "modification": "530 i (M54 B30 (306S3)) 170кВт/231лс 12.2001-02.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17291"
+        },
+        {
+          "model": "BMW 5 Touring (E61) 04-10",
+          "modification": "525 i (M54 B25 (256S5)) 141кВт/192лс 06.2004-12.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17775"
+        },
+        {
+          "model": "BMW 7 (E65, E66, E67) 01-08",
+          "modification": "730 i, Li (M54 B30 (306S3)) 170кВт/231лс 03.2003-07.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18084"
+        }
+      ],
+      "applicability_make": "BMW",
+      "OEM_group_label_as_on_manufacturer_page": "BMW",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3023.2.jpg",
+      "photo_sha256": "ed8e37afc67d6f49c29b6572a6fb32d07d6dc70873ec11ccc58ed5d26f1f91d1",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "11287512563",
+      "fitment": "BMW 5 (E60) 01-10 520 i (M54 B22 (226S1)) 125кВт/170лс 07.2003-03.2010; BMW 5 (E60) 01-10 525 i (M54 B25 (256S5)) 141кВт/192лс 09.2003-02.2005; BMW 5 (E60) 01-10 530 i (M54 B30 (306S3)) 170кВт/231лс 12.2001-02.2005",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3028",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235798",
+      "source_checked_at_utc": "2026-11-18T09:14:35.321747+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3028.html",
+      "page_captured_at_utc": "2026-11-18T09:14:38.811007+00:00",
+      "manufacturer_page_sha256": "f379f4dd446f30b7f3430bbdbde4b9845e71351fb9a2ae4f2ded0884a5f3ca63",
+      "manufacturer_MPN": "FB-3028",
+      "product_title": "Ремень поликлиновой (4PK878) Арт. FB-3028",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "CHRYSLER",
+          "04668 380AA"
+        ],
+        [
+          "CHRYSLER",
+          "04668 380AB"
+        ],
+        [
+          "CHRYSLER",
+          "04668 380AC"
+        ],
+        [
+          "CHRYSLER",
+          "04668 380AD"
+        ],
+        [
+          "CHRYSLER",
+          "04668 380AE"
+        ],
+        [
+          "CHRYSLER",
+          "04668 380AF"
+        ],
+        [
+          "HONDA",
+          "38920-PM5-A13"
+        ],
+        [
+          "HONDA",
+          "56992-P03-004"
+        ],
+        [
+          "HONDA",
+          "56992-P2T-003"
+        ],
+        [
+          "HONDA",
+          "56992-P2T-004"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25212-23000"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25212-23020"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25213-2R510"
+        ],
+        [
+          "HYUNDAIKIA",
+          "97713-22000"
+        ],
+        [
+          "KIA",
+          "MB3C7-18-381B"
+        ],
+        [
+          "MAZDA",
+          "B360-15-907A"
+        ],
+        [
+          "MAZDA",
+          "B3C7-18-381"
+        ],
+        [
+          "MAZDA",
+          "B3C7-18-381A"
+        ],
+        [
+          "MAZDA",
+          "B3C7-18-381A-9C"
+        ],
+        [
+          "MAZDA",
+          "B3C7-18-381B"
+        ],
+        [
+          "MAZDA",
+          "B3C7-18-381B-9F"
+        ],
+        [
+          "MAZDA",
+          "B3C7-18-381X"
+        ],
+        [
+          "MAZDA",
+          "B5A1-18-381"
+        ],
+        [
+          "MAZDA",
+          "B630-15-907"
+        ],
+        [
+          "MAZDA",
+          "B630-15-907A"
+        ],
+        [
+          "MAZDA",
+          "B630-15-907B"
+        ],
+        [
+          "MAZDA",
+          "F808-15-381-9C"
+        ],
+        [
+          "MAZDA",
+          "F808-15-381X"
+        ],
+        [
+          "MITSUBISHI",
+          "1340A057"
+        ],
+        [
+          "MITSUBISHI",
+          "1340A058"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 117356"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 117358"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 118572"
+        ],
+        [
+          "NISSAN",
+          "11720-24U00"
+        ],
+        [
+          "NISSAN",
+          "11720-24U01"
+        ],
+        [
+          "NISSAN",
+          "11720-59S01"
+        ],
+        [
+          "NISSAN",
+          "11920-30R10"
+        ],
+        [
+          "NISSAN",
+          "11920-30R11"
+        ],
+        [
+          "NISSAN",
+          "11920-30R12"
+        ],
+        [
+          "NISSAN",
+          "A1920-30R12"
+        ],
+        [
+          "RENAULT",
+          "77 00 709 398"
+        ],
+        [
+          "RENAULT",
+          "77 00 729 330"
+        ],
+        [
+          "TATA",
+          "279023000000"
+        ],
+        [
+          "TOYOTA",
+          "90080-91088"
+        ],
+        [
+          "TOYOTA",
+          "90080-91093"
+        ],
+        [
+          "TOYOTA",
+          "90080-91212"
+        ],
+        [
+          "TOYOTA",
+          "90916-02268"
+        ],
+        [
+          "TOYOTA",
+          "90916-02269"
+        ],
+        [
+          "TOYOTA",
+          "90916-02365"
+        ],
+        [
+          "TOYOTA",
+          "90916-02386"
+        ],
+        [
+          "TOYOTA",
+          "90916-02579"
+        ],
+        [
+          "TOYOTA",
+          "90916-02580"
+        ],
+        [
+          "TOYOTA",
+          "90916-02693"
+        ],
+        [
+          "TOYOTA",
+          "90916-W2029"
+        ],
+        [
+          "TOYOTA",
+          "99364-20880"
+        ],
+        [
+          "TOYOTA",
+          "99364-30880"
+        ],
+        [
+          "TOYOTA",
+          "99364-50880"
+        ],
+        [
+          "TOYOTA",
+          "99364-80880"
+        ],
+        [
+          "TOYOTA",
+          "99364-90880"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHRYSLER": 3,
+        "FIAT": 4,
+        "HONDA": 21,
+        "HYUNDAI": 39,
+        "JEEP": 2,
+        "KIA": 8,
+        "LEXUS": 10,
+        "MAZDA": 37,
+        "MITSUBISHI": 24,
+        "NISSAN": 17,
+        "RENAULT": 5,
+        "SUBARU": 1,
+        "TOYOTA": 80
+      },
+      "OEM_make": "CHRYSLER",
+      "OEM_raw": "04668 380AA",
+      "OEM": "04668380AA",
+      "fitment_rows": [
+        {
+          "model": "CHRYSLER PT CRUISER (PT_) 00-10",
+          "modification": "2.4 (EDZ) 105кВт/143лс 08.2005-12.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19305"
+        },
+        {
+          "model": "CHRYSLER PT CRUISER (PT_) 00-10",
+          "modification": "2.4 (EDZ) 110кВт/150лс 06.2000-12.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14653"
+        },
+        {
+          "model": "CHRYSLER PT CRUISER (PT_) 00-10",
+          "modification": "GT 2.4 (EDV) 164кВт/223лс 08.2003-12.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17720"
+        }
+      ],
+      "applicability_make": "CHRYSLER",
+      "OEM_group_label_as_on_manufacturer_page": "CHRYSLER",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3028.2.jpg",
+      "photo_sha256": "d3881fe268d662b44e820b88486dcfa995260dfd1114c9da6a12f863a2410b4e",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "04668380AA",
+      "fitment": "CHRYSLER PT CRUISER (PT_) 00-10 2.4 (EDZ) 105кВт/143лс 08.2005-12.2010; CHRYSLER PT CRUISER (PT_) 00-10 2.4 (EDZ) 110кВт/150лс 06.2000-12.2010; CHRYSLER PT CRUISER (PT_) 00-10 GT 2.4 (EDV) 164кВт/223лс 08.2003-12.2010",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3029",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235799",
+      "source_checked_at_utc": "2026-11-18T09:14:35.492078+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3029.html",
+      "page_captured_at_utc": "2026-11-18T09:14:38.689016+00:00",
+      "manufacturer_page_sha256": "9276cfbf31a25b29856fd8c79b9e6ad22c9a846156746fb783824ae5057dadbc",
+      "manufacturer_MPN": "FB-3029",
+      "product_title": "Ремень поликлиновой (4PK885) Арт. FB-3029",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "BMW",
+          "11 28 7 786 705"
+        ],
+        [
+          "BMW",
+          "64 55 7 786 705"
+        ],
+        [
+          "FIAT",
+          "60543218"
+        ],
+        [
+          "GENERALMOTORS",
+          "90571757"
+        ],
+        [
+          "KIA",
+          "0K038-15-907"
+        ],
+        [
+          "KIA",
+          "0K21A-18-381"
+        ],
+        [
+          "MAZDA",
+          "B366-15-908"
+        ],
+        [
+          "MAZDA",
+          "B366-15-908A"
+        ],
+        [
+          "MAZDA",
+          "B366-15-908A-9C"
+        ],
+        [
+          "MAZDA",
+          "B587-18-381"
+        ],
+        [
+          "MAZDA",
+          "B596-18-381"
+        ],
+        [
+          "MAZDA",
+          "B6BF-18-381"
+        ],
+        [
+          "MAZDA",
+          "BP4W-18-381"
+        ],
+        [
+          "MITSUBISHI",
+          "7814A021"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 337406"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 368855"
+        ],
+        [
+          "OPEL",
+          "13 40 640"
+        ],
+        [
+          "RENAULT",
+          "77 00 717 899"
+        ],
+        [
+          "RENAULT",
+          "77 00 718 261"
+        ],
+        [
+          "SUBARU",
+          "73013-AA000"
+        ],
+        [
+          "SUBARU",
+          "73013-AA001"
+        ],
+        [
+          "SUBARU",
+          "73323-FA000"
+        ],
+        [
+          "SUBARU",
+          "G3012-AA608"
+        ],
+        [
+          "VOLVO",
+          "3287514"
+        ],
+        [
+          "VOLVO",
+          "3343106"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "BMW": 8,
+        "KIA": 25,
+        "MAZDA": 54,
+        "MITSUBISHI": 1,
+        "OPEL": 3,
+        "SUBARU": 74
+      },
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 7 786 705",
+      "OEM": "11287786705",
+      "fitment_rows": [
+        {
+          "model": "BMW 3 (E46) 97-05",
+          "modification": "330 d (M57 D30 (306D2)) 150кВт/204лс 03.2003-02.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17351"
+        },
+        {
+          "model": "BMW 3 (E46) 97-05",
+          "modification": "330 xd (M57 D30 (306D2)) 150кВт/204лс 09.2002-12.2004",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17352"
+        },
+        {
+          "model": "BMW 3 Coupe (E46) 98-06",
+          "modification": "330 Cd (M57 D30 (306D2)) 150кВт/204лс 03.2003-07.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17206"
+        },
+        {
+          "model": "BMW 3 Touring (E46) 99-05",
+          "modification": "330 d (M57 D30 (306D2)) 150кВт/204лс 03.2003-02.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17353"
+        },
+        {
+          "model": "BMW 3 Touring (E46) 99-05",
+          "modification": "330 xd (M57 D30 (306D2)) 150кВт/204лс 08.2002-05.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17354"
+        }
+      ],
+      "applicability_make": "BMW",
+      "OEM_group_label_as_on_manufacturer_page": "BMW",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3029.1.jpg",
+      "photo_sha256": "d84586ce4041c4eadb4c5d1e5330083c1696545523574d4ef04d4450c5cd38df",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "11287786705",
+      "fitment": "BMW 3 (E46) 97-05 330 d (M57 D30 (306D2)) 150кВт/204лс 03.2003-02.2005; BMW 3 (E46) 97-05 330 xd (M57 D30 (306D2)) 150кВт/204лс 09.2002-12.2004; BMW 3 Coupe (E46) 98-06 330 Cd (M57 D30 (306D2)) 150кВт/204лс 03.2003-07.2006",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3030",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235800",
+      "source_checked_at_utc": "2026-11-18T09:14:44.262136+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3030.html",
+      "page_captured_at_utc": "2026-11-18T09:14:49.379506+00:00",
+      "manufacturer_page_sha256": "a0214efefa046f1d32b064ac5018a7c030777de69183106b7f15f2894f58c933",
+      "manufacturer_MPN": "FB-3030",
+      "product_title": "Ремень поликлиновой (4PK890) Арт. FB-3030",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "BMW",
+          "11 28 1 437 875"
+        ],
+        [
+          "BMW",
+          "11 28 1 739 470"
+        ],
+        [
+          "BMW",
+          "11 28 1 743 193"
+        ],
+        [
+          "BMW",
+          "64 55 1 739 470"
+        ],
+        [
+          "CHRYSLER",
+          "04668 180"
+        ],
+        [
+          "CHRYSLER",
+          "04668 180AB"
+        ],
+        [
+          "CHRYSLER",
+          "05096 317AA"
+        ],
+        [
+          "FIAT",
+          "7617421"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25212-23700"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25212-23721"
+        ],
+        [
+          "HYUNDAIKIA",
+          "S2521 223700"
+        ],
+        [
+          "HYUNDAIKIA",
+          "S2521 223721"
+        ],
+        [
+          "KIA",
+          "MB366-15-907"
+        ],
+        [
+          "KIA",
+          "MB366-15-907A"
+        ],
+        [
+          "MAZDA",
+          "B366-15-907"
+        ],
+        [
+          "MAZDA",
+          "B501-15-908"
+        ],
+        [
+          "MAZDA",
+          "B596-15-907"
+        ],
+        [
+          "MAZDA",
+          "B660-15-908"
+        ],
+        [
+          "MAZDA",
+          "B6BF-15-907"
+        ],
+        [
+          "MAZDA",
+          "B6BF-18-381-9F"
+        ],
+        [
+          "MAZDA",
+          "B6BF-18-381A"
+        ],
+        [
+          "MAZDA",
+          "B6BF-18-381B"
+        ],
+        [
+          "MAZDA",
+          "BP25-15-908"
+        ],
+        [
+          "MAZDA",
+          "BP25-15-908A"
+        ],
+        [
+          "MAZDA",
+          "ZL01-15-907"
+        ],
+        [
+          "MITSUBISHI",
+          "MB 938467"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 075162"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 144816"
+        ],
+        [
+          "NISSAN",
+          "11720-AA000"
+        ],
+        [
+          "NISSAN",
+          "AY140-40890"
+        ],
+        [
+          "SUZUKI",
+          "49181-64J00"
+        ],
+        [
+          "TOYOTA",
+          "88359-0K010"
+        ],
+        [
+          "TOYOTA",
+          "99364-00890"
+        ],
+        [
+          "TOYOTA",
+          "99364-20890"
+        ],
+        [
+          "TOYOTA",
+          "99364-50890"
+        ],
+        [
+          "TOYOTA",
+          "99364-70890"
+        ],
+        [
+          "TOYOTA",
+          "99364-80890"
+        ],
+        [
+          "TOYOTA",
+          "99364-K0890"
+        ],
+        [
+          "VAG",
+          "034 903 137 B"
+        ],
+        [
+          "VAG",
+          "053 903 137 A"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "AUDI": 10,
+        "BMW": 21,
+        "HONDA": 2,
+        "HYUNDAI": 9,
+        "KIA": 20,
+        "MAZDA": 76,
+        "MITSUBISHI": 2,
+        "NISSAN": 18,
+        "PEUGEOT": 2,
+        "SUBARU": 17,
+        "SUZUKI": 4,
+        "TOYOTA": 6
+      },
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 1 437 875",
+      "OEM": "11281437875",
+      "fitment_rows": [
+        {
+          "model": "BMW 3 (E36) 90-98",
+          "modification": "316 i (M43 B16 (164E2)) 75кВт/102лс 09.1993-05.1998",
+          "url": "https://sufix.pro/selection_parts.html?na_id=50"
+        },
+        {
+          "model": "BMW 3 (E36) 90-98",
+          "modification": "318 i (M43 B18 (184E2)) 85кВт/115лс 09.1993-11.1998",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4650"
+        },
+        {
+          "model": "BMW 3 (E36) 90-98",
+          "modification": "318 is (M42 B18 (184S1)) 103кВт/140лс 09.1993-12.1995",
+          "url": "https://sufix.pro/selection_parts.html?na_id=52"
+        },
+        {
+          "model": "BMW 3 (E36) 90-98",
+          "modification": "318 is (M44 B19 (194S1)) 103кВт/140лс 01.1996-05.1998",
+          "url": "https://sufix.pro/selection_parts.html?na_id=5102"
+        },
+        {
+          "model": "BMW 3 Compact (E36) 94-00",
+          "modification": "316 g (M43 B16 (164E2)) 75кВт/102лс 02.1996-08.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9201"
+        }
+      ],
+      "applicability_make": "BMW",
+      "OEM_group_label_as_on_manufacturer_page": "BMW",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3030.1.jpg",
+      "photo_sha256": "a52e5aba74f851700a1f29b5d6e5a3d60bcb52fd336922871bdbbf16a1e14aa0",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "11281437875",
+      "fitment": "BMW 3 (E36) 90-98 316 i (M43 B16 (164E2)) 75кВт/102лс 09.1993-05.1998; BMW 3 (E36) 90-98 318 i (M43 B18 (184E2)) 85кВт/115лс 09.1993-11.1998; BMW 3 (E36) 90-98 318 is (M42 B18 (184S1)) 103кВт/140лс 09.1993-12.1995",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3031",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235801",
+      "source_checked_at_utc": "2026-11-18T09:14:44.280644+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3031.html",
+      "page_captured_at_utc": "2026-11-18T09:14:49.264584+00:00",
+      "manufacturer_page_sha256": "83cb45a2dd403ceed78e03bfb2a44f4a78869454ff4cf8235232cab3d6e3cbde",
+      "manufacturer_MPN": "FB-3031",
+      "product_title": "Ремень поликлиновой (4PK898) Арт. FB-3031",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "CHRYSLER",
+          "04663 182"
+        ],
+        [
+          "CHRYSLER",
+          "04663 182AB"
+        ],
+        [
+          "CHRYSLER",
+          "04751 659"
+        ],
+        [
+          "CHRYSLER",
+          "04792 532AA"
+        ],
+        [
+          "CHRYSLER",
+          "04892 444AA"
+        ],
+        [
+          "CHRYSLER",
+          "04892 749AA"
+        ],
+        [
+          "CHRYSLER",
+          "04892 749AB"
+        ],
+        [
+          "FIAT",
+          "71749443"
+        ],
+        [
+          "HONDA",
+          "56992-P3F-003"
+        ],
+        [
+          "HONDA",
+          "56992-P3F-004"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25212-22020"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25212-22030"
+        ],
+        [
+          "HYUNDAIKIA",
+          "S2521 222030"
+        ],
+        [
+          "KIA",
+          "0K20A-15-908"
+        ],
+        [
+          "KIA",
+          "KK37-11-5909"
+        ],
+        [
+          "MAZDA",
+          "AS01-15-907C"
+        ],
+        [
+          "MERCEDESBENZ",
+          "003 993 41 96"
+        ],
+        [
+          "MERCEDESBENZ",
+          "A 003 993 41 96"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 303031"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 322330"
+        ],
+        [
+          "NISSAN",
+          "11950-71E00"
+        ],
+        [
+          "NISSAN",
+          "11950-71E10"
+        ],
+        [
+          "NISSAN",
+          "11950-71E11"
+        ],
+        [
+          "NISSAN",
+          "11950-86L00"
+        ],
+        [
+          "SUBARU",
+          "73323-AA010"
+        ],
+        [
+          "SUBARU",
+          "73323-AC000"
+        ],
+        [
+          "SUBARU",
+          "73323-AC010"
+        ],
+        [
+          "SUBARU",
+          "73323-AC011"
+        ],
+        [
+          "SUBARU",
+          "73323-AP010"
+        ],
+        [
+          "SUZUKI",
+          "49180-60G10"
+        ],
+        [
+          "TOYOTA",
+          "90916-02695"
+        ],
+        [
+          "TOYOTA",
+          "90916-W2031"
+        ],
+        [
+          "TOYOTA",
+          "99364-20900"
+        ],
+        [
+          "TOYOTA",
+          "99364-30900"
+        ],
+        [
+          "TOYOTA",
+          "99364-50900"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHRYSLER": 12,
+        "DODGE": 4,
+        "GAZ": 3,
+        "HONDA": 7,
+        "HYUNDAI": 22,
+        "KIA": 5,
+        "LEXUS": 2,
+        "MERCEDES-BENZ": 10,
+        "MITSUBISHI": 6,
+        "NISSAN": 4,
+        "PEUGEOT": 3,
+        "SUBARU": 67,
+        "SUZUKI": 16,
+        "TOYOTA": 12
+      },
+      "OEM_make": "CHRYSLER",
+      "OEM_raw": "04663 182",
+      "OEM": "04663182",
+      "fitment_rows": [
+        {
+          "model": "CHRYSLER CIRRUS 94-00",
+          "modification": "2.0 LX (ECB) 96кВт/131лс 05.1994-09.1997",
+          "url": "https://sufix.pro/selection_parts.html?na_id=21861"
+        },
+        {
+          "model": "CHRYSLER CIRRUS 94-00",
+          "modification": "2.0 LX (ECB) 98кВт/133лс 10.1997-09.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=21862"
+        },
+        {
+          "model": "CHRYSLER CIRRUS 94-00",
+          "modification": "2.4 LX (EDZ) 103кВт/140лс 05.1994-09.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=21863"
+        },
+        {
+          "model": "CHRYSLER SEBRING (JR) 01-07",
+          "modification": "2.0 (ECC) 104кВт/141лс 04.2001-06.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=15857"
+        },
+        {
+          "model": "CHRYSLER SEBRING (JR) 01-07",
+          "modification": "2.4 (EDZ) 105кВт/143лс 04.2001-06.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10565"
+        }
+      ],
+      "applicability_make": "CHRYSLER",
+      "OEM_group_label_as_on_manufacturer_page": "CHRYSLER",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3031.1.jpg",
+      "photo_sha256": "ca1315c376759b12abe0cc703e8c3055fa92083ac1773e265e9f6646bd9c54aa",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "04663182",
+      "fitment": "CHRYSLER CIRRUS 94-00 2.0 LX (ECB) 96кВт/131лс 05.1994-09.1997; CHRYSLER CIRRUS 94-00 2.0 LX (ECB) 98кВт/133лс 10.1997-09.2000; CHRYSLER CIRRUS 94-00 2.4 LX (EDZ) 103кВт/140лс 05.1994-09.2000",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3048",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235818",
+      "source_checked_at_utc": "2026-11-18T09:15:19.209118+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3048.html",
+      "page_captured_at_utc": "2026-11-18T09:15:21.275519+00:00",
+      "manufacturer_page_sha256": "1d2e1aa7309acab4ef86c61e25a197c3de8650ab001b114ac0d67736ba8c5691",
+      "manufacturer_MPN": "FB-3048",
+      "product_title": "Ремень поликлиновой (4PK1083) Арт. FB-3048",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "57161-H1300"
+        ],
+        [
+          "JAGUAR",
+          "EAC9898"
+        ],
+        [
+          "KIA",
+          "0K2A3-15-909"
+        ],
+        [
+          "MAZDA",
+          "D530-15-909"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 311704"
+        ],
+        [
+          "MITSUBISHI",
+          "ME 222487"
+        ],
+        [
+          "SUZUKI",
+          "17521-85090"
+        ],
+        [
+          "SUZUKI",
+          "17521-85090-000"
+        ],
+        [
+          "TOYOTA",
+          "99364-01080"
+        ],
+        [
+          "TOYOTA",
+          "99364-21080"
+        ],
+        [
+          "TOYOTA",
+          "99364-81080"
+        ],
+        [
+          "TOYOTA",
+          "99364-91080"
+        ],
+        [
+          "VOLVO",
+          "V1090911"
+        ],
+        [
+          "VOLVO",
+          "V1091106"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HONDA": 2,
+        "HYUNDAI": 2,
+        "KIA": 8,
+        "MAZDA": 2,
+        "MITSUBISHI": 7,
+        "SUZUKI": 9,
+        "TOYOTA": 12
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "57161-H1300",
+      "OEM": "57161H1300",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI TERRACAN (HP) 01-06",
+          "modification": "3.5 i V6 4WD (G6CU) 143кВт/194лс 12.2001-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18825"
+        },
+        {
+          "model": "HYUNDAI TERRACAN (HP) 01-06",
+          "modification": "3.5 i V6 4WD (G6CU) 147кВт/200лс 12.2001-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17356"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3048.1.jpg",
+      "photo_sha256": "bdeaacbf3b839467cf605a8453c72ffbc7165873de42b8c81332bf45a6da4369",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "57161H1300",
+      "fitment": "HYUNDAI TERRACAN (HP) 01-06 3.5 i V6 4WD (G6CU) 143кВт/194лс 12.2001-12.2006; HYUNDAI TERRACAN (HP) 01-06 3.5 i V6 4WD (G6CU) 147кВт/200лс 12.2001-12.2006",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3049",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235819",
+      "source_checked_at_utc": "2026-11-18T09:15:19.293880+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3049.html",
+      "page_captured_at_utc": "2026-11-18T09:15:21.224000+00:00",
+      "manufacturer_page_sha256": "817df513a170ce3c6c13f13c0814eb78a6029faa09e6b61dee3f342228420b33",
+      "manufacturer_MPN": "FB-3049",
+      "product_title": "Ремень поликлиновой (4PK1100) Арт. FB-3049",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FIAT",
+          "7633936"
+        ],
+        [
+          "FIAT",
+          "7635566"
+        ],
+        [
+          "FIAT",
+          "7652245"
+        ],
+        [
+          "FIAT",
+          "60805193"
+        ],
+        [
+          "FIAT",
+          "71719642"
+        ],
+        [
+          "FIAT",
+          "71749419"
+        ],
+        [
+          "GREATWALL",
+          "3412011-K00"
+        ],
+        [
+          "TOYOTA",
+          "90080-91101"
+        ],
+        [
+          "TOYOTA",
+          "99364-01100"
+        ],
+        [
+          "TOYOTA",
+          "99364-21100"
+        ],
+        [
+          "TOYOTA",
+          "99364-21100-8T"
+        ],
+        [
+          "TOYOTA",
+          "99364-51100"
+        ],
+        [
+          "TOYOTA",
+          "99364-71100"
+        ],
+        [
+          "TOYOTA",
+          "99364-81100"
+        ],
+        [
+          "TOYOTA",
+          "99364-91100"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CITROEN": 2,
+        "FIAT": 4,
+        "GREAT WALL": 8,
+        "HONDA": 2,
+        "NISSAN": 6,
+        "PEUGEOT": 3,
+        "TOYOTA": 24
+      },
+      "OEM_make": "FIAT",
+      "OEM_raw": "7633936",
+      "OEM": "7633936",
+      "fitment_rows": [
+        {
+          "model": "FIAT DUCATO Bus (250_) 06-11",
+          "modification": "160 Multijet 3,0 D (F1CE0481D, F1CE3481M) 116кВт/158лс 07.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19976"
+        },
+        {
+          "model": "FIAT DUCATO Bus (250_) 06-11",
+          "modification": "160 Multijet 3,0 D (F1CE0481D) 115кВт/156лс 10.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=59928"
+        },
+        {
+          "model": "FIAT DUCATO Platform/Chassis (250_) 06-11",
+          "modification": "160 Multijet 3,0 D (F1CE0481D) 116кВт/158лс 07.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19982"
+        },
+        {
+          "model": "FIAT DUCATO Van (250_) 06-11",
+          "modification": "160 Multijet 3,0 D (F1CE0481D) 116кВт/158лс 07.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19979"
+        }
+      ],
+      "applicability_make": "FIAT",
+      "OEM_group_label_as_on_manufacturer_page": "FIAT",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3049.2.jpg",
+      "photo_sha256": "c8e3494f662ef7183e656c4475a9e23c62f5aa39fca6c6d0bdb38faf35531ad2",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "7633936",
+      "fitment": "FIAT DUCATO Bus (250_) 06-11 160 Multijet 3,0 D (F1CE0481D, F1CE3481M) 116кВт/158лс 07.2006-; FIAT DUCATO Bus (250_) 06-11 160 Multijet 3,0 D (F1CE0481D) 115кВт/156лс 10.2006-; FIAT DUCATO Platform/Chassis (250_) 06-11 160 Multijet 3,0 D (F1CE0481D) 116кВт/158лс 07.2006-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3052",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235822",
+      "source_checked_at_utc": "2026-11-18T09:15:27.034128+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3052.html",
+      "page_captured_at_utc": "2026-11-18T09:15:32.842729+00:00",
+      "manufacturer_page_sha256": "314ea72d6625513a1a5d83b0ead84ec0ed039fd19154960bba9aa0f63202d840",
+      "manufacturer_MPN": "FB-3052",
+      "product_title": "Ремень поликлиновой (4PK1183) Арт. FB-3052",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "ISUZU",
+          "1-86750-339-0"
+        ],
+        [
+          "MAZDA",
+          "E331-15-907"
+        ],
+        [
+          "NISSAN",
+          "11920-0B000"
+        ],
+        [
+          "NISSAN",
+          "11920-85E01"
+        ],
+        [
+          "NISSAN",
+          "11920-85E11"
+        ],
+        [
+          "NISSAN",
+          "11920-97E20"
+        ],
+        [
+          "NISSAN",
+          "11920-97E26"
+        ],
+        [
+          "NISSAN",
+          "21140-00Z04"
+        ],
+        [
+          "NISSAN",
+          "A1920-85E01"
+        ],
+        [
+          "RENAULT",
+          "77 00 271 603"
+        ],
+        [
+          "TOYOTA",
+          "90916-02194"
+        ],
+        [
+          "TOYOTA",
+          "90916-02302"
+        ],
+        [
+          "TOYOTA",
+          "90916-02378"
+        ],
+        [
+          "TOYOTA",
+          "90916-02384"
+        ],
+        [
+          "TOYOTA",
+          "90916-02500"
+        ],
+        [
+          "TOYOTA",
+          "90916-02501"
+        ],
+        [
+          "TOYOTA",
+          "90916-02718"
+        ],
+        [
+          "TOYOTA",
+          "99364-31180"
+        ],
+        [
+          "TOYOTA",
+          "99364-91180"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "MAZDA": 2,
+        "NISSAN": 1,
+        "SUBARU": 2,
+        "TOYOTA": 47
+      },
+      "OEM_make": "MAZDA",
+      "OEM_raw": "E331-15-907",
+      "OEM": "E33115907",
+      "fitment_rows": [
+        {
+          "model": "MAZDA 323 III Station Wagon (BW) 86-95",
+          "modification": "1.5 (BW105) (B5, B50, B53) 54кВт/73лс 01.1987-05.1989",
+          "url": "https://sufix.pro/selection_parts.html?na_id=3649"
+        },
+        {
+          "model": "MAZDA 323 III Station Wagon (BW) 86-95",
+          "modification": "1.5 (BW5W, BW105) (B50, B53, E5) 55кВт/75лс 05.1986-05.1989",
+          "url": "https://sufix.pro/selection_parts.html?na_id=3648"
+        }
+      ],
+      "applicability_make": "MAZDA",
+      "OEM_group_label_as_on_manufacturer_page": "MAZDA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3052.2.jpg",
+      "photo_sha256": "b8f85894dd318bd46e67b9ccf86cc54b3207598d4f924f8125254460c5f30c23",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "E33115907",
+      "fitment": "MAZDA 323 III Station Wagon (BW) 86-95 1.5 (BW105) (B5, B50, B53) 54кВт/73лс 01.1987-05.1989; MAZDA 323 III Station Wagon (BW) 86-95 1.5 (BW5W, BW105) (B50, B53, E5) 55кВт/75лс 05.1986-05.1989",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3053",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235823",
+      "source_checked_at_utc": "2026-11-18T09:15:32.223505+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3053.html",
+      "page_captured_at_utc": "2026-11-18T09:15:37.227407+00:00",
+      "manufacturer_page_sha256": "f1376b65bf8f950e0feaf8ab4d8a84ab622193769ee57086d2455f071fd4ce56",
+      "manufacturer_MPN": "FB-3053",
+      "product_title": "Ремень поликлиновой (4PK1210) Арт. FB-3053",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "GREATWALL",
+          "3701011-EG01"
+        ],
+        [
+          "ISUZU",
+          "1-86750-045-0"
+        ],
+        [
+          "TOYOTA",
+          "90916-02556"
+        ],
+        [
+          "TOYOTA",
+          "90916-02705"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "GREAT WALL": 5,
+        "TOYOTA": 33
+      },
+      "OEM_make": "GREATWALL",
+      "OEM_raw": "3701011-EG01",
+      "OEM": "3701011EG01",
+      "fitment_rows": [
+        {
+          "model": "GREAT WALL C30 12-",
+          "modification": "1.5 (GW4G15) 78кВт/106лс 12.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=108043"
+        },
+        {
+          "model": "GREAT WALL COOLBEAR 09-13",
+          "modification": "1.5 (GW4G15) 77кВт/105лс 03.2009-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=32600"
+        },
+        {
+          "model": "GREAT WALL HOVER H6 | HAVAL 6 11-",
+          "modification": "1.5 (GW4G15B) 105кВт/143лс 08.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=114071"
+        },
+        {
+          "model": "GREAT WALL HOVER H6 | HAVAL 6 11-",
+          "modification": "1.5 4WD (GW4G15B) 105кВт/143лс 08.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=114074"
+        },
+        {
+          "model": "GREAT WALL HOVER M4 | HAVAL M4 / M4 12-",
+          "modification": "1.5 (GW4G15) 78кВт/106лс 05.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57223"
+        }
+      ],
+      "applicability_make": "GREAT WALL",
+      "OEM_group_label_as_on_manufacturer_page": "GREATWALL",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3053.2.jpg",
+      "photo_sha256": "493ca56b8c475bdb7c2ec3d3f5f7b5389787fab9b28a2e9847f39ac2bb9ec853",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "3701011EG01",
+      "fitment": "GREAT WALL C30 12- 1.5 (GW4G15) 78кВт/106лс 12.2012-; GREAT WALL COOLBEAR 09-13 1.5 (GW4G15) 77кВт/105лс 03.2009-12.2013; GREAT WALL HOVER H6 | HAVAL 6 11- 1.5 (GW4G15B) 105кВт/143лс 08.2011-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3059",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235829",
+      "source_checked_at_utc": "2026-11-18T09:15:47.733030+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3059.html",
+      "page_captured_at_utc": "2026-11-18T09:15:52.842652+00:00",
+      "manufacturer_page_sha256": "881a65c443c08b9b4c32fa4b604e81eeb4e022d2291044feefa94228a8204383",
+      "manufacturer_MPN": "FB-3059",
+      "product_title": "Ремень поликлиновой (5PK870) Арт. FB-3059",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FIAT",
+          "5992144"
+        ],
+        [
+          "FORD",
+          "5 017 721"
+        ],
+        [
+          "FORD",
+          "6 727 881"
+        ],
+        [
+          "FORD",
+          "6 842 244"
+        ],
+        [
+          "GENERALMOTORS",
+          "95990232"
+        ],
+        [
+          "GENERALMOTORS",
+          "96144932"
+        ],
+        [
+          "GENERALMOTORS",
+          "96352456"
+        ],
+        [
+          "LANDROVER",
+          "PQS101310L"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 325600"
+        ],
+        [
+          "RENAULT",
+          "77 00 720 452"
+        ],
+        [
+          "SUBARU",
+          "80921-8320"
+        ],
+        [
+          "SUBARU",
+          "80921-8330"
+        ],
+        [
+          "SUBARU",
+          "80921-8340"
+        ],
+        [
+          "SUBARU",
+          "80921-8350"
+        ],
+        [
+          "SUBARU",
+          "80921-8370"
+        ],
+        [
+          "SUBARU",
+          "80921-8400"
+        ],
+        [
+          "SUBARU",
+          "80921-8410"
+        ],
+        [
+          "SUBARU",
+          "80921-8420"
+        ],
+        [
+          "TOYOTA",
+          "99365-00870"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHEVROLET": 4,
+        "DAEWOO": 18,
+        "FORD": 20,
+        "LAND ROVER": 3,
+        "MITSUBISHI": 7,
+        "ROVER": 4,
+        "SUBARU": 56,
+        "TOYOTA": 6,
+        "VOLVO": 2,
+        "ZAZ": 8
+      },
+      "OEM_make": "FORD",
+      "OEM_raw": "5 017 721",
+      "OEM": "5017721",
+      "fitment_rows": [
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.6 (HWDA, HWDB, SHDA, SHDB, SHDC) 74кВт/100лс 10.2003-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17745"
+        },
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.6 Ti (HXDA, SIDA) 85кВт/115лс 08.2004-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18500"
+        },
+        {
+          "model": "FORD FOCUS II (DA_, HCP, DP) 04-12",
+          "modification": "1.4 (ASDA, ASDB) 59кВт/80лс 07.2004-09.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18305"
+        },
+        {
+          "model": "FORD FOCUS II (DA_, HCP, DP) 04-12",
+          "modification": "1.6 (HWDA, HWDB, SHDA, SHDB, SHDC) 74кВт/100лс 07.2004-09.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18302"
+        },
+        {
+          "model": "FORD FOCUS II (DA_, HCP, DP) 04-12",
+          "modification": "1.6 Ti (HXDA, HXDB, SIDA) 85кВт/115лс 07.2004-09.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18303"
+        }
+      ],
+      "applicability_make": "FORD",
+      "OEM_group_label_as_on_manufacturer_page": "FORD",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3059.1.jpg",
+      "photo_sha256": "89e959a6ac6ac28eacee9c777adc17f0c709a977cf657b0ca86534b911807a7a",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "5017721",
+      "fitment": "FORD FOCUS C-MAX (DM2) 03-07 1.6 (HWDA, HWDB, SHDA, SHDB, SHDC) 74кВт/100лс 10.2003-03.2007; FORD FOCUS C-MAX (DM2) 03-07 1.6 Ti (HXDA, SIDA) 85кВт/115лс 08.2004-03.2007; FORD FOCUS II (DA_, HCP, DP) 04-12 1.4 (ASDA, ASDB) 59кВт/80лс 07.2004-09.2012",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3060",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235830",
+      "source_checked_at_utc": "2026-11-18T09:15:48.058053+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3060.html",
+      "page_captured_at_utc": "2026-11-18T09:15:52.979529+00:00",
+      "manufacturer_page_sha256": "a88d745372281ca4c269dd5d0f50b4d217a8e396cab702501f87006670849e06",
+      "manufacturer_MPN": "FB-3060",
+      "product_title": "Ремень поликлиновой (5PK880) Арт. FB-3060",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FIAT",
+          "60597250"
+        ],
+        [
+          "GENERALMOTORS",
+          "9195192"
+        ],
+        [
+          "GENERALMOTORS",
+          "9201688"
+        ],
+        [
+          "GENERALMOTORS",
+          "9201723"
+        ],
+        [
+          "GENERALMOTORS",
+          "12634322"
+        ],
+        [
+          "GENERALMOTORS",
+          "24435953"
+        ],
+        [
+          "GENERALMOTORS",
+          "24466976"
+        ],
+        [
+          "GENERALMOTORS",
+          "55351459"
+        ],
+        [
+          "GENERALMOTORS",
+          "91132011"
+        ],
+        [
+          "GENERALMOTORS",
+          "93182248"
+        ],
+        [
+          "HONDA",
+          "31110-PK1-003"
+        ],
+        [
+          "HONDA",
+          "31110-PK1-505"
+        ],
+        [
+          "HONDA",
+          "31110-PK2-003"
+        ],
+        [
+          "HONDA",
+          "31110-PK2-004"
+        ],
+        [
+          "OPEL",
+          "13 40 014"
+        ],
+        [
+          "OPEL",
+          "13 40 661"
+        ],
+        [
+          "OPEL",
+          "13 40 668"
+        ],
+        [
+          "OPEL",
+          "13 40 669"
+        ],
+        [
+          "OPEL",
+          "13 40 675"
+        ],
+        [
+          "OPEL",
+          "13 40 678"
+        ],
+        [
+          "OPEL",
+          "63 40 610"
+        ],
+        [
+          "OPEL",
+          "63 40 644"
+        ],
+        [
+          "RENAULT",
+          "77 00 868 273"
+        ],
+        [
+          "RENAULT",
+          "77 00 872 533"
+        ],
+        [
+          "RENAULT",
+          "77 01 064 349"
+        ],
+        [
+          "SUBARU",
+          "80921-8130"
+        ],
+        [
+          "SUBARU",
+          "80921-8140"
+        ],
+        [
+          "SUBARU",
+          "80921-8150"
+        ],
+        [
+          "SUBARU",
+          "80921-8160"
+        ],
+        [
+          "SUBARU",
+          "80921-8170"
+        ],
+        [
+          "SUBARU",
+          "80921-8210"
+        ],
+        [
+          "SUBARU",
+          "80921-8230"
+        ],
+        [
+          "SUBARU",
+          "80921-8250"
+        ],
+        [
+          "SUBARU",
+          "80921-8270"
+        ],
+        [
+          "SUBARU",
+          "80921-8290"
+        ],
+        [
+          "SUBARU",
+          "80921-8300"
+        ],
+        [
+          "SUBARU",
+          "80921-8310"
+        ],
+        [
+          "SUBARU",
+          "80921-8380"
+        ],
+        [
+          "SUBARU",
+          "80921-8390"
+        ],
+        [
+          "SUBARU",
+          "80921-8430"
+        ],
+        [
+          "SUBARU",
+          "80921-8450"
+        ],
+        [
+          "SUBARU",
+          "80921-8750"
+        ],
+        [
+          "SUZUKI",
+          "17521-M68P00"
+        ],
+        [
+          "TOYOTA",
+          "90916-02186"
+        ],
+        [
+          "TOYOTA",
+          "90916-02297"
+        ],
+        [
+          "TOYOTA",
+          "90916-02338"
+        ],
+        [
+          "TOYOTA",
+          "91850-08804"
+        ],
+        [
+          "TOYOTA",
+          "99365-00880"
+        ],
+        [
+          "TOYOTA",
+          "99365-20880"
+        ],
+        [
+          "TOYOTA",
+          "99365-50880"
+        ],
+        [
+          "TOYOTA",
+          "99365-70880"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CITROEN": 11,
+        "ISUZU": 1,
+        "OPEL": 14,
+        "PEUGEOT": 19,
+        "RENAULT": 6,
+        "SUBARU": 141,
+        "TOYOTA": 30
+      },
+      "OEM_make": "GENERALMOTORS",
+      "OEM_raw": "9195192",
+      "OEM": "9195192",
+      "fitment_rows": [
+        {
+          "model": "OPEL ASTRA G Coupe (T98) 00-05",
+          "modification": "2.2 16V (F07) (Z 22 SE) 108кВт/147лс 09.2000-05.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14685"
+        },
+        {
+          "model": "OPEL ASTRA G Estate (T98) 98-04",
+          "modification": "2.2 16V (F35) (Z 22 SE) 108кВт/147лс 03.2001-07.2004",
+          "url": "https://sufix.pro/selection_parts.html?na_id=15778"
+        },
+        {
+          "model": "OPEL ASTRA G Hatchback (T98) 98-09",
+          "modification": "2.2 16V (F08, F48) (Z 22 SE) 108кВт/147лс 06.2000-01.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=15776"
+        },
+        {
+          "model": "OPEL ASTRA G Saloon (T98) 98-09",
+          "modification": "2.2 16V (F69) (Z 22 SE) 108кВт/147лс 03.2001-01.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=15777"
+        },
+        {
+          "model": "OPEL VECTRA C (Z02) 02-09",
+          "modification": "2.0 16V Turbo (F69) (Z 20 NET) 129кВт/175лс 03.2003-08.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17500"
+        }
+      ],
+      "applicability_make": "OPEL",
+      "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3060.1.jpg",
+      "photo_sha256": "fefb612d34097e94d6bc7894db09026ced2a747a3fdb1fdddbf92fba9d26b282",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "9195192",
+      "fitment": "OPEL ASTRA G Coupe (T98) 00-05 2.2 16V (F07) (Z 22 SE) 108кВт/147лс 09.2000-05.2005; OPEL ASTRA G Estate (T98) 98-04 2.2 16V (F35) (Z 22 SE) 108кВт/147лс 03.2001-07.2004; OPEL ASTRA G Hatchback (T98) 98-09 2.2 16V (F08, F48) (Z 22 SE) 108кВт/147лс 06.2000-01.2005",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3072",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235842",
+      "source_checked_at_utc": "2026-11-18T09:16:13.514621+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3072.html",
+      "page_captured_at_utc": "2026-11-18T09:16:15.544963+00:00",
+      "manufacturer_page_sha256": "396392153ca603b4f13f7101a9a6c53353beda3dcdab3777d2388720dcaab537",
+      "manufacturer_MPN": "FB-3072",
+      "product_title": "Ремень поликлиновой (5PK1073) Арт. FB-3072",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FIAT",
+          "55188139"
+        ],
+        [
+          "HONDA",
+          "38920-P14-A01"
+        ],
+        [
+          "HONDA",
+          "38920-P14-A02"
+        ],
+        [
+          "KIA",
+          "0K968-15-909"
+        ],
+        [
+          "KIA",
+          "0K9A3-15-909"
+        ],
+        [
+          "MAZDA",
+          "FE4N-15-909A"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 339525"
+        ],
+        [
+          "NISSAN",
+          "AY140-5107M"
+        ],
+        [
+          "TOYOTA",
+          "90916-02430"
+        ],
+        [
+          "TOYOTA",
+          "99365-21070"
+        ],
+        [
+          "TOYOTA",
+          "99365-51070"
+        ],
+        [
+          "TOYOTA",
+          "99365-71070"
+        ],
+        [
+          "TOYOTA",
+          "99365-81070"
+        ],
+        [
+          "VOLVO",
+          "V1090157"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HONDA": 2,
+        "KIA": 2,
+        "MITSUBISHI": 26,
+        "TOYOTA": 14,
+        "VOLKSWAGEN": 4
+      },
+      "OEM_make": "HONDA",
+      "OEM_raw": "38920-P14-A01",
+      "OEM": "38920P14A01",
+      "fitment_rows": [
+        {
+          "model": "HONDA PRELUDE IV (BA_, BB_) 91-97",
+          "modification": "2.0 i 16V (BB3) (F20A4) 98кВт/133лс 02.1992-09.1996",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4241"
+        },
+        {
+          "model": "HONDA PRELUDE IV (BA_, BB_) 91-97",
+          "modification": "2.3 i 16V (BB2) (H23A2) 118кВт/160лс 02.1992-09.1996",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4242"
+        }
+      ],
+      "applicability_make": "HONDA",
+      "OEM_group_label_as_on_manufacturer_page": "HONDA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3072.2.jpg",
+      "photo_sha256": "50fed4e887a6e482aafc84fb18792878ff2edc7450555c27e7157b155b095992",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "38920P14A01",
+      "fitment": "HONDA PRELUDE IV (BA_, BB_) 91-97 2.0 i 16V (BB3) (F20A4) 98кВт/133лс 02.1992-09.1996; HONDA PRELUDE IV (BA_, BB_) 91-97 2.3 i 16V (BB2) (H23A2) 118кВт/160лс 02.1992-09.1996",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3075",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235845",
+      "source_checked_at_utc": "2026-11-18T09:16:13.605773+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3075.html",
+      "page_captured_at_utc": "2026-11-18T09:16:15.599538+00:00",
+      "manufacturer_page_sha256": "3277020f8abc2b23e98fddaaa1a18bcc3859b1326047860d37454d650441b657",
+      "manufacturer_MPN": "FB-3075",
+      "product_title": "Ремень поликлиновой (5PK1103) Арт. FB-3075",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "BMW",
+          "11 28 8 511 920"
+        ],
+        [
+          "BMW",
+          "11 28 8 573 418"
+        ],
+        [
+          "FIAT",
+          "7718418"
+        ],
+        [
+          "FIAT",
+          "60513478"
+        ],
+        [
+          "FIAT",
+          "60513579"
+        ],
+        [
+          "FIAT",
+          "71739622"
+        ],
+        [
+          "FIAT",
+          "71739927"
+        ],
+        [
+          "FIAT",
+          "71749437"
+        ],
+        [
+          "FIAT",
+          "71753866"
+        ],
+        [
+          "FIAT",
+          "99462544"
+        ],
+        [
+          "FIAT",
+          "500344281"
+        ],
+        [
+          "HONDA",
+          "31110-PR7-A01"
+        ],
+        [
+          "HONDA",
+          "31110-PR7-A03"
+        ],
+        [
+          "HONDA",
+          "31110-PR7-A12"
+        ],
+        [
+          "HONDA",
+          "38920-PT0-003"
+        ],
+        [
+          "HONDA",
+          "38920-PT0-004"
+        ],
+        [
+          "HONDA",
+          "38920-PT0-505"
+        ],
+        [
+          "RENAULT",
+          "77 00 107 494"
+        ],
+        [
+          "TOYOTA",
+          "90916-02116"
+        ],
+        [
+          "TOYOTA",
+          "90916-02197"
+        ],
+        [
+          "TOYOTA",
+          "90916-02256"
+        ],
+        [
+          "TOYOTA",
+          "90916-02257"
+        ],
+        [
+          "TOYOTA",
+          "90916-02382"
+        ],
+        [
+          "TOYOTA",
+          "90916-02383"
+        ],
+        [
+          "TOYOTA",
+          "90916-20116"
+        ],
+        [
+          "TOYOTA",
+          "99365-01100"
+        ],
+        [
+          "TOYOTA",
+          "99365-21100"
+        ],
+        [
+          "TOYOTA",
+          "99365-31100"
+        ],
+        [
+          "TOYOTA",
+          "99365-51100"
+        ],
+        [
+          "TOYOTA",
+          "99365-71100"
+        ],
+        [
+          "TOYOTA",
+          "99365-81100"
+        ],
+        [
+          "VAG",
+          "079 903 137 E"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "AUDI": 2,
+        "CITROEN": 10,
+        "FIAT": 43,
+        "HONDA": 34,
+        "ISUZU": 1,
+        "MINI": 17,
+        "PEUGEOT": 20,
+        "TOYOTA": 71
+      },
+      "OEM_make": "FIAT",
+      "OEM_raw": "7718418",
+      "OEM": "7718418",
+      "fitment_rows": [
+        {
+          "model": "FIAT DUCATO Bus (230_) 94-02",
+          "modification": "2.5 D Combinato (8140.67) 62кВт/84лс 08.1994-04.2002",
+          "url": "https://sufix.pro/selection_parts.html?na_id=3781"
+        },
+        {
+          "model": "FIAT DUCATO Bus (230_) 94-02",
+          "modification": "2.5 TDI 4WD (8140.47) 85кВт/116лс 04.1997-04.2002",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14368"
+        },
+        {
+          "model": "FIAT DUCATO Bus (230_) 94-02",
+          "modification": "2.5 TDI Panorama/Combinato (8140.47) 85кВт/116лс 03.1994-04.2002",
+          "url": "https://sufix.pro/selection_parts.html?na_id=3777"
+        },
+        {
+          "model": "FIAT DUCATO Bus (230_) 94-02",
+          "modification": "2.5 TDI Panorama/Combinato (8140.47R) 80кВт/109лс 07.1994-04.2002",
+          "url": "https://sufix.pro/selection_parts.html?na_id=3779"
+        },
+        {
+          "model": "FIAT DUCATO Bus (230_) 94-02",
+          "modification": "2.8 D (8140.63) 64кВт/87лс 02.1998-04.2002",
+          "url": "https://sufix.pro/selection_parts.html?na_id=11408"
+        }
+      ],
+      "applicability_make": "FIAT",
+      "OEM_group_label_as_on_manufacturer_page": "FIAT",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3075.2.jpg",
+      "photo_sha256": "0b23cf5790a969dacd4e13ad2e864c3abca3593f5e093b9f35651bf7108948f5",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "7718418",
+      "fitment": "FIAT DUCATO Bus (230_) 94-02 2.5 D Combinato (8140.67) 62кВт/84лс 08.1994-04.2002; FIAT DUCATO Bus (230_) 94-02 2.5 TDI 4WD (8140.47) 85кВт/116лс 04.1997-04.2002; FIAT DUCATO Bus (230_) 94-02 2.5 TDI Panorama/Combinato (8140.47) 85кВт/116лс 03.1994-04.2002",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB3134",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0026235904",
+      "source_checked_at_utc": "2026-11-18T09:17:28.169229+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/FB-3134.html",
+      "page_captured_at_utc": "2026-11-18T09:17:30.817963+00:00",
+      "manufacturer_page_sha256": "f0ab0c13f9989f613801488156e77b8229695147b5878e92ab96ec0766b4a827",
+      "manufacturer_MPN": "FB-3134",
+      "product_title": "Ремень поликлиновой (6PK1028) Арт. FB-3134",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FIAT",
+          "60653027"
+        ],
+        [
+          "FIAT",
+          "60676137"
+        ],
+        [
+          "FIAT",
+          "96294872"
+        ],
+        [
+          "GAZ",
+          "6471030319"
+        ],
+        [
+          "NISSAN",
+          "11920-0E000"
+        ],
+        [
+          "NISSAN",
+          "11920-0E001"
+        ],
+        [
+          "NISSAN",
+          "11920-2F200"
+        ],
+        [
+          "NISSAN",
+          "11920-2F205"
+        ],
+        [
+          "NISSAN",
+          "11920-5U011"
+        ],
+        [
+          "NISSAN",
+          "11920-9F500"
+        ],
+        [
+          "NISSAN",
+          "11920-9F505"
+        ],
+        [
+          "RENAULT",
+          "77 00 260 886"
+        ],
+        [
+          "VAG",
+          "04L 260 849 G"
+        ],
+        [
+          "VAG",
+          "04L 260 849 M"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "AUDI": 36,
+        "CITROEN": 1,
+        "FIAT": 1,
+        "FORD": 8,
+        "GAZ": 13,
+        "NISSAN": 17,
+        "PEUGEOT": 1,
+        "RENAULT": 3,
+        "SEAT": 19,
+        "SKODA": 23,
+        "VOLKSWAGEN": 32
+      },
+      "OEM_make": "FIAT",
+      "OEM_raw": "60653027",
+      "OEM": "60653027",
+      "fitment_rows": [
+        {
+          "model": "FIAT BARCHETTA (183_) 95-05",
+          "modification": "1.8 16V (183 A1.000, 188 A6.000) 96кВт/130лс 04.1995-05.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4760"
+        }
+      ],
+      "applicability_make": "FIAT",
+      "OEM_group_label_as_on_manufacturer_page": "FIAT",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/FB-3134.1.jpg",
+      "photo_sha256": "979f24ada83a974d908b4c5fece51d85b1a36d5c8e9549566b0a83ed4944099e",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "60653027",
+      "fitment": "FIAT BARCHETTA (183_) 95-05 1.8 16V (183 A1.000, 188 A6.000) 96кВт/130лс 04.1995-05.2005",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    }
+  ]
+}
