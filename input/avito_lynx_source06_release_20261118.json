@@ -1,0 +1,213 @@
+{
+  "as_of_utc": "2026-11-18T09:09:19.428300+00:00",
+  "before": 482,
+  "after": 494,
+  "approved_before": 496,
+  "approved_after": 508,
+  "scope_count": 12,
+  "added_count": 12,
+  "added": [
+    {
+      "id": "irk-ef62806c2b3bf26a14212b",
+      "brand": "LYNXauto",
+      "article": "111EL17",
+      "category": "Ремни ГРМ",
+      "retail": 1250,
+      "photo": {
+        "filename": "irk-ef62806c2b3bf26a14212b-c4b78bc38a58.jpg",
+        "sha256": "c4b78bc38a58469f4967e1b74c8be20e26463735e796d07d1010af9abde73852",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ef62806c2b3bf26a14212b-c4b78bc38a58.jpg",
+        "manufacturer_page_sha256": "dcf2e5f577856eacb29a51b20a66e1f3368a55902597a798c66c5468d5970eda",
+        "fitment_page_sha256": "6e3a90f7e673360b3dfe28149295b28e6392f14a2b0c450de3fba23cbedce0b6",
+        "verified_at_utc": "2026-11-18T09:08:45.693151+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:08:59.156623+00:00"
+    },
+    {
+      "id": "irk-1096485bce666e8cec6ba9",
+      "brand": "LYNXauto",
+      "article": "112FL24",
+      "category": "Ремни ГРМ",
+      "retail": 1650,
+      "photo": {
+        "filename": "irk-1096485bce666e8cec6ba9-f8900a34afd2.jpg",
+        "sha256": "f8900a34afd28f40d7fd5cc2458d12a5b814060ad45c7f25d2b5dc2565e16380",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1096485bce666e8cec6ba9-f8900a34afd2.jpg",
+        "manufacturer_page_sha256": "ac738b4e88396573584615d4d7042458fdb3380aba7f3247b004a402281b59f4",
+        "fitment_page_sha256": "e09ff009404e6f3e21ccf30c4062ddc7a53f808ddf9856522a39ad55cd64886b",
+        "verified_at_utc": "2026-11-18T09:08:45.691483+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:00.860050+00:00"
+    },
+    {
+      "id": "irk-a41c4e7d8c5f7ded3c820e",
+      "brand": "LYNXauto",
+      "article": "117FL22",
+      "category": "Ремни ГРМ",
+      "retail": 1650,
+      "photo": {
+        "filename": "irk-a41c4e7d8c5f7ded3c820e-a1ab3c701267.jpg",
+        "sha256": "a1ab3c701267e4e3b9c657a5f7fa092af54989e2b825f1fa2471bef0bc479435",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a41c4e7d8c5f7ded3c820e-a1ab3c701267.jpg",
+        "manufacturer_page_sha256": "61c450ce22565cbcf6c88ff4c93c5cc39a7c950cd8f53c4a77e7f1c9787b81ba",
+        "fitment_page_sha256": "22c185e365841c3e35debb0d0297f5a43952298f82c14e2c19467ccc283b0de7",
+        "verified_at_utc": "2026-11-18T09:08:47.509995+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:02.648328+00:00"
+    },
+    {
+      "id": "irk-40a688bbb7a85f1e61cbfc",
+      "brand": "LYNXauto",
+      "article": "124FL29",
+      "category": "Ремни ГРМ",
+      "retail": 2500,
+      "photo": {
+        "filename": "irk-40a688bbb7a85f1e61cbfc-00918fe798db.jpg",
+        "sha256": "00918fe798db1b99fcecd33e7a56b18de6cbda02aae75e2d39fdbba02974bbd0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-40a688bbb7a85f1e61cbfc-00918fe798db.jpg",
+        "manufacturer_page_sha256": "9b38651dbb7e541982201a840182f0d020a30d2073be8da67ba1e0ba51345a50",
+        "fitment_page_sha256": "e618ba2dbe2db98822755c674c1f9f21dfc57e1bb12034732a712863f0c6ffea",
+        "verified_at_utc": "2026-11-18T09:08:47.475888+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:04.209095+00:00"
+    },
+    {
+      "id": "irk-899ca27507f34399c1c43e",
+      "brand": "LYNXauto",
+      "article": "125FL26",
+      "category": "Ремни ГРМ",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-899ca27507f34399c1c43e-cf778c82bccc.jpg",
+        "sha256": "cf778c82bccc1693d575628d2fe1887f0cc76b0ca04e99ae0810f722e0904be3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-899ca27507f34399c1c43e-cf778c82bccc.jpg",
+        "manufacturer_page_sha256": "a45a5fee18087d0a071b5b97cc4de5a5658d00e9a70877540290283369cd7eb9",
+        "fitment_page_sha256": "d7b64acc2c47656a229b6c9cbe766bcd26fca37cdb99eebe14f991c09e7d184e",
+        "verified_at_utc": "2026-11-18T09:08:49.290925+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:05.941753+00:00"
+    },
+    {
+      "id": "irk-77f5354e09779bbafc6309",
+      "brand": "LYNXauto",
+      "article": "129AL27",
+      "category": "Ремни ГРМ",
+      "retail": 2100,
+      "photo": {
+        "filename": "irk-77f5354e09779bbafc6309-173e00764464.jpg",
+        "sha256": "173e0076446462f92b975371210aef51aa4a7aa63a35ff3a35d3d595ba2b6a71",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-77f5354e09779bbafc6309-173e00764464.jpg",
+        "manufacturer_page_sha256": "801717d94c46c2124d787319ba84847bd14a37680fa70c09874a9e0c9e1bc1c4",
+        "fitment_page_sha256": "edccb8ad3f7eab20ed50980fe5698fa5d40f65444ba045f5572d72bfa24008c8",
+        "verified_at_utc": "2026-11-18T09:08:49.294157+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:07.798700+00:00"
+    },
+    {
+      "id": "irk-361197542ff070f9846388",
+      "brand": "LYNXauto",
+      "article": "137FL22",
+      "category": "Ремни ГРМ",
+      "retail": 1900,
+      "photo": {
+        "filename": "irk-361197542ff070f9846388-1dc72c71b587.jpg",
+        "sha256": "1dc72c71b587c7299cd8e46d50233d098dd7e637d9b652e35cfa8b9d9b370ea5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-361197542ff070f9846388-1dc72c71b587.jpg",
+        "manufacturer_page_sha256": "13eaea0ada83bf13cf1e8960af77201d59b038ce197166bf5502cfe3ab313f3c",
+        "fitment_page_sha256": "1087442374ff0690d350407b46ffc769a7d82d821c6ecaeacdc5a772cb6be144",
+        "verified_at_utc": "2026-11-18T09:08:51.181642+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:10.541831+00:00"
+    },
+    {
+      "id": "irk-85c60c3542cdc013edf82f",
+      "brand": "LYNXauto",
+      "article": "141EL30",
+      "category": "Ремни ГРМ",
+      "retail": 3800,
+      "photo": {
+        "filename": "irk-85c60c3542cdc013edf82f-15b0fe54796f.jpg",
+        "sha256": "15b0fe54796f0546c032a5cf9b14f7ee38ef9ef7fe9ebd67bef7df52e9145da0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-85c60c3542cdc013edf82f-15b0fe54796f.jpg",
+        "manufacturer_page_sha256": "3cbabee71c31e0a5338411916de262fedd93e354fe8237540e1e1100a40063a0",
+        "fitment_page_sha256": "1fb43869b274e628656cf496520488497b1ba67adec7dcf8f1918ac1c1fdcde7",
+        "verified_at_utc": "2026-11-18T09:08:51.338163+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:12.008297+00:00"
+    },
+    {
+      "id": "irk-65348fc30814eacc93b066",
+      "brand": "LYNXauto",
+      "article": "150CL23",
+      "category": "Ремни ГРМ",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-65348fc30814eacc93b066-b599eac0aa3e.jpg",
+        "sha256": "b599eac0aa3e7657a2d97f012052ba77e0d8fd2bc4e2686d48b10f46bfbe496f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-65348fc30814eacc93b066-b599eac0aa3e.jpg",
+        "manufacturer_page_sha256": "a9affaf34158ef543799f9b786d83600053cad2094aea87292b80c69320cac7a",
+        "fitment_page_sha256": "bb9edf92c7c9ffc33ec1103ff12fd01723e48a72db4cc8155608a9babfbde0b6",
+        "verified_at_utc": "2026-11-18T09:08:53.098743+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:13.612445+00:00"
+    },
+    {
+      "id": "irk-d6878661b95f0d73f4ed14",
+      "brand": "LYNXauto",
+      "article": "153FL29",
+      "category": "Ремни ГРМ",
+      "retail": 3100,
+      "photo": {
+        "filename": "irk-d6878661b95f0d73f4ed14-5e70c2802e48.jpg",
+        "sha256": "5e70c2802e488100b9722b3ef36d030ca86bbfaa532d335d1e5eceb5cf959033",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d6878661b95f0d73f4ed14-5e70c2802e48.jpg",
+        "manufacturer_page_sha256": "e9f7339826496aea7431f012a9a684b3424420f69b6e2b263122f168116882ed",
+        "fitment_page_sha256": "52f720f931da700e718d3147af76d5f0d9fcf4db277668fe8c01fcdc683c1b41",
+        "verified_at_utc": "2026-11-18T09:08:52.995017+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:15.373484+00:00"
+    },
+    {
+      "id": "irk-a4a14b9e24819a2c08ad40",
+      "brand": "LYNXauto",
+      "article": "162CL20",
+      "category": "Ремни ГРМ",
+      "retail": 2200,
+      "photo": {
+        "filename": "irk-a4a14b9e24819a2c08ad40-f1bedc474853.jpg",
+        "sha256": "f1bedc474853941d1063ab950657ea7c311e2606f81dcda2ad066774bfe24eac",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a4a14b9e24819a2c08ad40-f1bedc474853.jpg",
+        "manufacturer_page_sha256": "90c963bea326ddf40ddcf2676a0e9452e38fd123aef6bb226829d3bbb93a3b12",
+        "fitment_page_sha256": "237e0a7f88f6da4e8fd769a18316cf4f8708bcc5d395a7f9d553f0326288b17c",
+        "verified_at_utc": "2026-11-18T09:08:54.367983+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:17.058455+00:00"
+    },
+    {
+      "id": "irk-de7cdb80219239d9c7400d",
+      "brand": "LYNXauto",
+      "article": "173CL25",
+      "category": "Ремни ГРМ",
+      "retail": 1950,
+      "photo": {
+        "filename": "irk-de7cdb80219239d9c7400d-1a9af0f89a79.jpg",
+        "sha256": "1a9af0f89a79975b6b6fbaba00df38082d08070ad212ef5658681a970452736f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-de7cdb80219239d9c7400d-1a9af0f89a79.jpg",
+        "manufacturer_page_sha256": "e08c14afdf6036c7b3fab4f3b81171d0585fad283e0dfbb4d000605f9e93437d",
+        "fitment_page_sha256": "394aadc4684b423978914012a6ae0a0f632b445f1ff8e896781bcc2cb8d34264",
+        "verified_at_utc": "2026-11-18T09:08:54.380733+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:09:18.600085+00:00"
+    }
+  ],
+  "skipped": [],
+  "all_original_ads_preserved": true,
+  "private_API_costs_published": false,
+  "checkout_mode": "account_pickup",
+  "publication_performed": true,
+  "release_workflow_run_id": 44273043397,
+  "CDN_exact_bytes_verified": true,
+  "CDN_sha256": "4dea08f935bd30d483fa55f2b273856f279a176b6afc72fd76d84f92d8280103",
+  "public_images_exact_bytes_verified": 12,
+  "Avito_import_verified": false
+}
