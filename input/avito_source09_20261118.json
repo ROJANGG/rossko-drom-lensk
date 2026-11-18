@@ -1,0 +1,431 @@
+{
+  "batch_id": "source09",
+  "scope": 53,
+  "publication_performed": false,
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "6PK1990",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333647",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:54.346393+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2013",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019724608",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:55.050696+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2053",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727708",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:56.155597+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2120",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333721",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:57.137825+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2160",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333680",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:58.789601+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2138",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725124",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:58.952307+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2238",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725126",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:00.049366+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2260",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727710",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:01.314810+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2285",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333653",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:02.001365+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2315",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134090",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:03.034969+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2373",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333784",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:04.000535+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2403",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019730998",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:05.100728+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2460",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134093",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:05.839351+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2478",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333670",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:06.982618+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2500",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134094",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:07.993597+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2550",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333706",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:09.004484+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2625",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0009984221",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:09.672936+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1051EL",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833895",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:10.779010+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1078",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023168801",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:12.146022+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1103",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308651",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:12.688523+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1140",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727713",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:14.449265+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1165",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0025737924",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:14.830759+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1243",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308654",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:15.652373+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1275",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725128",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:16.946605+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1325",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727714",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:17.760645+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1685",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008675",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:18.921159+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1701",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134102",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:19.846036+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1715",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333739",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:20.835971+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1750SP",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0028465244",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:21.842819+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1760",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727715",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:22.867561+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1785",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308657",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:23.736977+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1905SP",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0028465272",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:25.001100+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1910",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727717",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:25.996941+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1915",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008680",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:26.726766+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1920",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0018766086",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:27.943351+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1933",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0018766087",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:29.357715+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1940",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833897",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:29.753351+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1953",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308661",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:30.655241+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1960",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833898",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:33.078298+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2005",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308663",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:34.148015+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2045",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0010062710",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:35.015611+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2090",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333762",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:36.279727+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2120",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725130",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:37.218375+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2150",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833899",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:38.364603+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2280",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333811",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:39.140851+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2300",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134108",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:39.987139+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2682",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134110",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:41.195978+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK3170",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0028761942",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:42.055641+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK1786",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008689",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:43.036194+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2093",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008691",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:44.168650+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2155",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007151847",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:45.037041+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2166",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833901",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:46.126181+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "9PK2250",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333813",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:47.133954+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ]
+}
