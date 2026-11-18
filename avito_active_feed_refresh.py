@@ -54,6 +54,9 @@ def seller_sku(ad):
     if title.startswith("Подшипник ступицы "):
         from avito_reviewed_sufix_bearings import bearing_sku
         return bearing_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
+    if title.startswith('Ремень ГРМ ') and brand == 'SUFIX':
+        from avito_reviewed_sufix_drive_belts import sufix_belt_sku
+        return sufix_belt_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
     if title.startswith(('Ремень ГРМ ', 'Прокладка ГБЦ ', 'Радиатор охлаждения ')):
         from avito_reviewed_lynx_source06 import lynx_sku
         return lynx_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)

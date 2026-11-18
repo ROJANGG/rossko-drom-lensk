@@ -18,7 +18,7 @@ from xml.etree import ElementTree as ET
 import requests
 from bs4 import BeautifulSoup
 from PIL import Image
-from avito_reviewed_sufix_drive_belts import load_reviewed_sufix_belts
+from avito_reviewed_sufix_drive_belts import load_reviewed_sufix_belts, META
 from avito_reviewed_drive_belts import load_reviewed_belts
 from avito_belt_release import prepare_photo as lynx_photo, make_ad as lynx_ad
 from avito_active_feed_refresh import key, seller_sku, supplier_products, add_raw_source_costs, price_decimal, APPROVED_CATALOG_LIMIT
@@ -42,7 +42,10 @@ def validate_source(r, product, fitment=None):
     page=BeautifulSoup(product,'html.parser');label=page.select_one('[itemprop="mpn"][data-model]')
     if label is None or canon(label['data-model'])!=canon(r['article']):raise ValueError('Exact SUFIX MPN changed')
     heading=page.select_one('h1')
-    if heading is None or not re.search(r'ремень',text(heading),re.I):raise ValueError('SUFIX product category changed')
+    label_text=text(heading) if heading else ''
+    if not re.search(r'ремень',label_text,re.I):raise ValueError('SUFIX product category changed')
+    is_timing=bool(re.search('грм',label_text,re.I))
+    if is_timing != (r['category']=='Ремни ГРМ'):raise ValueError('SUFIX drive/timing category mismatch')
     refs=[]
     for tr in page.select('table.pcard-analog-bottom tr'):
         cells=tr.find_all('td',recursive=False)
@@ -87,13 +90,14 @@ def prepare_sufix_photo(r, place):
             'verified_at_utc': datetime.now(timezone.utc).isoformat()}
 
 def make_sufix_ad(r, retail, photo, address):
-    title = 'Ремень приводной '+r['brand']+' '+r['article']+' новый'
+    prefix,engine=META[r['category']]
+    title = prefix+' '+r['brand']+' '+r['article']+' новый'
     if len(title) > 50:
         raise ValueError('Title exceeds Avito limit')
     values = {'Id': stable_id(r), 'Category': 'Запчасти и аксессуары', 'GoodsType': 'Запчасти',
               'AdType': 'Товар приобретен на продажу', 'ProductType': 'Для автомобилей',
-              'SparePartType': 'Двигатель', 'EngineSparePartType': 'Приводные ремни, натяжители', 'OEM': r['oem'],
-              'Title': title, 'Description': 'Ремень приводной. Производитель: '+r['brand']+'. Артикул: '+r['article']+'.\nСостояние: новое. Цена за одну штуку.\nOEM: '+r['oem']+'.\nПрименяемость по каталогу производителя, выборка: '+r['fitment']+'.\nСамовывоз: '+address+'.\nПеред покупкой сверьте OEM и VIN. Наличие перед приездом уточняйте.',
+              'SparePartType': 'Двигатель', 'EngineSparePartType': engine, 'OEM': r['oem'],
+              'Title': title, 'Description': prefix+'. Производитель: '+r['brand']+'. Артикул: '+r['article']+'.\nСостояние: новое. Цена за одну штуку.\nOEM: '+r['oem']+'.\nПрименяемость по каталогу производителя, выборка: '+r['fitment']+'.\nСамовывоз: '+address+'.\nПеред покупкой сверьте OEM и VIN. Наличие перед приездом уточняйте.',
               'Address': address, 'Price': str(retail), 'Condition': 'Новое', 'Availability': 'В наличии', 'Brand': r['brand']}
     ad = ET.Element('Ad')
     for k, v in values.items():
@@ -124,8 +128,17 @@ def append_ads(original, ads):
         raise ValueError('Unsafe append-only transition')
     return raw
 
+def filter_selection(records,path):
+    selected=json.loads(path.read_text())['items']
+    keys={key(r['brand'],r['article']):r['category'] for r in selected}
+    known={key(r['brand'],r['article']):r['category'] for r in records}
+    if not 1<=len(selected)<=100 or len(keys)!=len(selected) or any(known.get(k)!=v for k,v in keys.items()):raise ValueError('Invalid exact release selection')
+    return [r for r in records if key(r['brand'],r['article']) in keys]
+
 def build(args):
-    records = load_reviewed_sufix_belts(args.manifest) + load_reviewed_belts(args.lynx_manifest); scope_count = len(records)
+    records = load_reviewed_sufix_belts(args.manifest) + load_reviewed_belts(args.lynx_manifest)
+    if args.selection is not None:records=filter_selection(records,args.selection)
+    scope_count = len(records)
     args.out.mkdir(parents=True, exist_ok=True)
     images = args.out/'avito-images'; images.mkdir(exist_ok=True)
     current, archive = args.live.read_bytes(), args.archive.read_bytes()
@@ -217,6 +230,7 @@ if __name__ == '__main__':
     p = argparse.ArgumentParser()
     for name in ('config', 'live', 'archive', 'retail', 'manifest', 'lynx-manifest', 'out'):
         p.add_argument('--'+name, type=Path, required=True)
+    p.add_argument('--selection',type=Path)
     build(p.parse_args())
 
 
