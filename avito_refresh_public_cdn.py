@@ -25,7 +25,7 @@ def fetch(url):
 def refresh(expected, *, getter=fetch, sleeper=time.sleep):
     root = ET.fromstring(expected)
     count = len(root.findall('Ad'))
-    if root.tag != 'Ads' or root.get('formatVersion') != '3' or not 150 <= count <= 588:
+    if root.tag != 'Ads' or root.get('formatVersion') != '3' or not 150 <= count <= 603:
         raise ValueError('Unexpected validated Avito XML')
     digest = hashlib.sha256(expected).hexdigest()
     result = json.loads(getter(PURGE))

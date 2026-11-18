@@ -98,7 +98,7 @@ if _extension_path.exists():
             raise ValueError("Duplicate approved extension SKU")
         EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record["category"]
 _reviewed_belts = []
-for _belt_name in ("avito_reviewed_drive_belts.json", "avito_reviewed_drive_belts_source05.json"):
+for _belt_name in ("avito_reviewed_drive_belts.json", "avito_reviewed_drive_belts_source05.json", "avito_reviewed_drive_belts_source09.json"):
     _belt_path = Path(__file__).parent / "input" / _belt_name
     if not _belt_path.exists():
         continue

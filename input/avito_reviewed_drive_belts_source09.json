@@ -1,0 +1,207 @@
+{
+  "scope_sha256": "143b7aec825e75f0000930902f7e26edf3b367c7d5b396f07b50286647fc2d40",
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1325",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727714",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1325.html",
+      "checked_at_utc": "2026-11-18T09:11:49.572055+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "b4e7635fa6dd84c678972ff0136e4a7357f6ec18cbb3039045d85b83da60dfa1",
+      "original_OE_rows": [
+        [
+          "FIAT",
+          "6000616601"
+        ],
+        [
+          "GENERAL MOTORS",
+          "93452889"
+        ],
+        [
+          "GENERAL MOTORS",
+          "95517887"
+        ],
+        [
+          "IVECO",
+          "5004000413"
+        ],
+        [
+          "IVECO",
+          "504000413"
+        ],
+        [
+          "IVECO",
+          "5802102050"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "622 993 01 00"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 622 993 01 00"
+        ],
+        [
+          "OPEL",
+          "44 23 076"
+        ],
+        [
+          "RENAULT",
+          "11 72 012 61R"
+        ],
+        [
+          "UAZ",
+          "316300100802001"
+        ],
+        [
+          "VAG",
+          "021 145 933 J"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=IVECO&product_id=15938",
+      "fitment_page_sha256": "6a7cbd7d2177565409dc5b09878da97a7f747d63c08fec3e8b36dccd6d3c8b49",
+      "fitment_rows": [
+        [
+          "DAILY III Bus 99-06",
+          "35 S 12, 35 C 12, 40 C 12 (F1AE0481B)",
+          "85 (116)",
+          "01/03-05/06",
+          "Alternator"
+        ],
+        [
+          "DAILY III Platform/Chassis 99-06",
+          "29 L 10 (ALJAV1A1, ALJA41AA, ALJA41A1, AHJA64A1,... (F1AE0481A)",
+          "70 (95)",
+          "09/02-04/06",
+          "Alternator"
+        ],
+        [
+          "DAILY III Platform/Chassis 99-06",
+          "29 L 12 (ALKA41A1, AHKA64A1, ALLA51A1) (F1AE0481B)",
+          "85 (116)",
+          "09/02-04/06",
+          "Alternator"
+        ],
+        [
+          "DAILY III Platform/Chassis 99-06",
+          "29 L 14 (AHRA11C1B1, AHRA14C1B1, AHRA64C1B1) (F1AE0481M)",
+          "100 (136)",
+          "11/05-04/06",
+          "Alternator"
+        ],
+        [
+          "DAILY III Platform/Chassis 99-06",
+          "35 C 10 V , 35 S 10 V (AMJA14A1, AMJA64A1, AMJA65A1,... (F1AE0481A)",
+          "70 (95)",
+          "09/02-04/06",
+          "Alternator"
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1325.jpg",
+      "photo_sha256": "bfa1dca7062226b4ceb8d602e29c8af072ec7fdc7a650f5c119abd5cf17176b4",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "5004000413",
+      "OEM_make": "IVECO",
+      "exact_sku_verified": true,
+      "fitment": "IVECO DAILY III Bus 99-06, 35 S 12, 35 C 12, 40 C 12 (F1AE0481B), 85 (116), 01/03-05/06, Alternator; IVECO DAILY III Platform/Chassis 99-06, 29 L 10 (ALJAV1A1, ALJA41AA, ALJA41A1, AHJA64A1,... (F1AE0481A), 70 (95), 09/02-04/06, Alternator; IVECO DAILY III Platform/Chassis 99-06, 29 L 12 (ALKA41A1, AHKA64A1, ALLA51A1) (F1AE0481B), 85 (116), 09/02-04/06, Alternator",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1785",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308657",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1785.html",
+      "checked_at_utc": "2026-11-18T09:12:19.979174+00:00",
+      "review_status": "OEM_VERIFIED",
+      "manufacturer_page_sha256": "b07545aed7730baa4438ea348eac42dfee5c89c3ad049e0109ca6e9217eed324",
+      "original_OE_rows": [
+        [
+          "HONDA",
+          "04301-RBD-305"
+        ],
+        [
+          "HONDA",
+          "38920-RBD-E03"
+        ],
+        [
+          "HONDA",
+          "38920-RBD-E04"
+        ],
+        [
+          "RENAULT",
+          "82 00 071 399"
+        ],
+        [
+          "RENAULT",
+          "82 00 127 693"
+        ],
+        [
+          "RENAULT",
+          "82 00 833 554"
+        ]
+      ],
+      "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15958",
+      "fitment_page_sha256": "92c7672b4d33b4a08283a6d1bbfaf0bac33a3b19afe234f21a08e5accfb0a7f6",
+      "fitment_rows": [
+        [
+          "ACCORD VII (CL, CN) 03-12",
+          "2.2 i-CTDi (CN1) (N22A1)",
+          "103 (140)",
+          "01/04-05/08",
+          "BALSHT"
+        ],
+        [
+          "ACCORD VII Tourer (CM, CN) 03-08",
+          "2.2 i-CTDi (CN2) (N22A1)",
+          "103 (140)",
+          "01/04-05/08",
+          "BALSHT"
+        ],
+        [
+          "CR-V II (RD_) 01-07",
+          "2.2 CTDi (RD9) (N22A2)",
+          "103 (140)",
+          "02/05-09/06",
+          "Alternator"
+        ],
+        [
+          "CR-V III (RE_) 06-12",
+          "2.2 i-CTDi 4WD (RE6) (N22A2)",
+          "103 (140)",
+          "01/07-",
+          ""
+        ],
+        [
+          "FR-V | EDIX (BE) 04-11",
+          "2.2 i CTDi (BE5) (N22A1)",
+          "103 (140)",
+          "07/05-",
+          ""
+        ]
+      ],
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1785.jpg",
+      "photo_sha256": "15ad6e49bfb5f6b534cf8fc726411a2aeadb467093ce3861b5c12e8d497bc025",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "oem": "04301RBD305",
+      "OEM_make": "HONDA",
+      "exact_sku_verified": true,
+      "fitment": "HONDA ACCORD VII (CL, CN) 03-12, 2.2 i-CTDi (CN1) (N22A1), 103 (140), 01/04-05/08, BALSHT; HONDA ACCORD VII Tourer (CM, CN) 03-08, 2.2 i-CTDi (CN2) (N22A1), 103 (140), 01/04-05/08, BALSHT; HONDA CR-V II (RD_) 01-07, 2.2 CTDi (RD9) (N22A2), 103 (140), 02/05-09/06, Alternator",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    }
+  ]
+}

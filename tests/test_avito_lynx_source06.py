@@ -17,7 +17,7 @@ class ExactLYNXReview(unittest.TestCase):
   for r,a in zip(self.rs,ads):self.assertEqual(seller_sku(a),(key(r['brand'],r['article']),r['category']))
   old=b'<Ads formatVersion="3"><Ad><Id>old</Id><OEM>unchanged</OEM><Price>1234</Price></Ad></Ads>'
   new=E.fromstring(append_ads(old,ads));self.assertEqual(E.tostring(new[0]),E.tostring(E.fromstring(old)[0]));self.assertEqual(len(new),1+len(ads))
-  self.assertEqual(APPROVED_CATALOG_LIMIT,576+len(self.rs))
+  self.assertEqual(APPROVED_CATALOG_LIMIT,591+len(self.rs))
  def test_wrong_engine_type_and_unapproved_article_are_rejected(self):
   r=self.rs[0];a=make_ad(r,1500,{'public_url':r['photo_url']},'Иркутск');a.find('EngineSparePartType').text='Двигатель в сборе'
   with self.assertRaises(ValueError):seller_sku(a)
