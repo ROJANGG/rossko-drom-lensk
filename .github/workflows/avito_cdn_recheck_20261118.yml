@@ -1,0 +1,41 @@
+name: Avito - final CDN exact-byte recheck Nov18
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_cdn_recheck_20261118.yml']
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          path: feed
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          path: source
+          persist-credentials: false
+      - name: Compare current public delivery with actual committed bytes
+        run: |
+          python - <<'PY'
+          import urllib.request,hashlib,json,xml.etree.ElementTree as E
+          from pathlib import Path
+          expected=Path('feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml').read_bytes()
+          print('EXPECTED',len(E.fromstring(expected)),hashlib.sha256(expected).hexdigest(),len(expected))
+          for name,url in [('cdn','https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml'),('raw','https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml')]:
+              try:
+                  with urllib.request.urlopen(url,timeout=15) as response:
+                      raw=response.read(8000001);headers={k:response.headers.get(k) for k in ['Age','ETag','Last-Modified','Cache-Control','X-Cache']}
+                  print('DELIVERY_DIAG',name,json.dumps({'ads':len(E.fromstring(raw)),'sha256':hashlib.sha256(raw).hexdigest(),'bytes':len(raw),'exact':raw==expected,'headers':headers}))
+              except Exception as e:print('DELIVERY_DIAG_ERROR',name,type(e).__name__)
+          PY
+      - name: Retry bounded exact public CDN verification without touching XML
+        run: python source/avito_refresh_public_cdn.py --xml feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
