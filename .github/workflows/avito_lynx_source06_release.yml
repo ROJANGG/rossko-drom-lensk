@@ -1,5 +1,5 @@
 name: Avito - release 12 exact reviewed LYNX timing belts
-# Closed 12-SKU reviewed timing belt scope.
+# Closed 12-SKU reviewed timing belt scope; combined limit guard updated.
 on:
   workflow_dispatch:
   push:
