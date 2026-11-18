@@ -1,0 +1,175 @@
+{
+  "batch_id": "source14",
+  "scope": 21,
+  "publication_performed": false,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "XC1005",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0027932437",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:03.141119+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1009",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814143",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:04.090315+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1010",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814156",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:05.097982+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1012",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814151",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:06.105787+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1018",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814149",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:07.230924+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1021",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814138",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:08.019901+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1022",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814140",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:09.039102+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1034",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814147",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:09.932189+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1038",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814145",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:10.947949+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1040",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814131",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:12.086787+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1042",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814129",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:15.138808+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1044",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814133",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:15.230955+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1045",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814130",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:16.184200+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1050",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814146",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:17.395055+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1052",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814144",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:18.342825+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1054",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814150",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:19.215672+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1058",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814148",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:20.392196+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1059",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814155",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:21.320248+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1060",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814152",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:22.137121+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1064",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814154",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:23.574364+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1066",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814159",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:24.407143+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ]
+}
