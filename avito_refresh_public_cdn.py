@@ -25,13 +25,16 @@ def fetch(url):
 def refresh(expected, *, getter=fetch, sleeper=time.sleep):
     root = ET.fromstring(expected)
     count = len(root.findall('Ad'))
-    if root.tag != 'Ads' or root.get('formatVersion') != '3' or not 150 <= count <= 636:
+    if root.tag != 'Ads' or root.get('formatVersion') != '3' or not 150 <= count <= 650:
         raise ValueError('Unexpected validated Avito XML')
     digest = hashlib.sha256(expected).hexdigest()
     result = json.loads(getter(PURGE))
     if result.get('status') not in ('finished', 'pending', 'processing'):
         raise ValueError('CDN refresh request not accepted')
     for attempt in range(12):
+        if attempt and attempt % 3 == 0:
+            result=json.loads(getter(PURGE))
+            if result.get('status') not in ('finished','pending','processing'):raise ValueError('Repeated CDN refresh request not accepted')
         if hashlib.sha256(getter(CDN)).hexdigest() == digest:
             return {'ads': count, 'sha256': digest, 'cdn_exact_bytes_verified': True}
         if attempt < 11:

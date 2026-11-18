@@ -4,6 +4,12 @@ from xml.etree import ElementTree as E
 from avito_refresh_public_cdn import refresh, CDN, PURGE
 
 class PublicCDNTest(unittest.TestCase):
+    def test_old_origin_snapshot_is_purged_again_within_bounded_retries(self):
+        raw=b'<Ads formatVersion="3">'+b'<Ad />'*330+b'</Ads>';purges=[]
+        def getter(url):
+            if url==PURGE:purges.append(url);return b'{"status":"finished"}'
+            return raw if len(purges)>1 else b'<Ads formatVersion="3" />'
+        self.assertTrue(refresh(raw,getter=getter,sleeper=lambda _:None)['cdn_exact_bytes_verified']);self.assertEqual(len(purges),2)
     def xml(self, count):
         root=E.Element('Ads',formatVersion='3',target='Avito.ru')
         for i in range(count):
@@ -22,4 +28,4 @@ class PublicCDNTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'different XML'):
             refresh(self.xml(330),getter=lambda u:b'{"status":"finished"}' if u==PURGE else self.xml(245),sleeper=lambda _:None)
         with self.assertRaisesRegex(ValueError,'Unexpected validated'):
-            refresh(self.xml(637),getter=lambda _:self.fail('No network for invalid XML'))
+            refresh(self.xml(651),getter=lambda _:self.fail('No network for invalid XML'))

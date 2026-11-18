@@ -1,8 +1,8 @@
 """Closed source-reviewed SUFIX scope; no API calls or publication."""
 import hashlib,json,re
 from urllib.parse import urlparse
-SCOPE_SHA256='bea3ad1566f544269a1e2713fde8cf2f6b0b7e6bd3e15326e9282bef434aaa92'
-SCOPE_COUNT=62
+SCOPE_SHA256='ae541ef73011a87bceb36a722b0857bbb0ce392f1a1ffeb6e33ad3193f38a5a9'
+SCOPE_COUNT=76
 CATEGORY='Ремни приводные'
 META={'Ремни приводные':('Ремень приводной','Приводные ремни, натяжители'),'Ремни ГРМ':('Ремень ГРМ','Ремни, цепи, элементы ГРМ')}
 def load_reviewed_sufix_belts(path):

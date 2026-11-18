@@ -10,7 +10,7 @@ from test_avito_active_feed_refresh import fixture
 P=Path(__file__).resolve().parents[1]/'input/avito_reviewed_sufix_bearings.json'
 class SufixRelease(unittest.TestCase):
  def test_closed_93_scope_and_package_holds(self):
-  rs=load_reviewed_bearings(P);self.assertEqual(len(rs),93);self.assertEqual(sum(r['package_unit_verified'] for r in rs),75);self.assertEqual(APPROVED_CATALOG_LIMIT,636)
+  rs=load_reviewed_bearings(P);self.assertEqual(len(rs),93);self.assertEqual(sum(r['package_unit_verified'] for r in rs),75);self.assertEqual(APPROVED_CATALOG_LIMIT,650)
   bad=json.loads(P.read_text());bad['items'][0]['article']='UNREVIEWED'
   with tempfile.TemporaryDirectory() as d:
    f=Path(d)/'bad.json';f.write_text(json.dumps(bad))
