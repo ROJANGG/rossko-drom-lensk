@@ -1,0 +1,2875 @@
+{
+  "date": "2026-11-18",
+  "scope": 53,
+  "status_counts": {
+    "SKIPPED_SOURCE": 48,
+    "SOURCE_BUNDLE_VERIFIED_PENDING_RELEASE": 2,
+    "BLOCKED_API": 3
+  },
+  "publication_performed": false,
+  "source_recovery_attempts": 0,
+  "items": [
+    {
+      "brand": "LYNXauto",
+      "article": "6PK1990",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333647",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:54.346393+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK1990",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:07.816398+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1550
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK1990",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333647",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK1990.html",
+        "checked_at_utc": "2026-11-18T09:10:05.377330+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2013",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019724608",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:55.050696+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2013",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:10.037686+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2100
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2013",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019724608",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2013.html",
+        "checked_at_utc": "2026-11-18T09:10:05.382618+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2053",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727708",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:56.155597+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2053",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:11.764612+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1200
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2053",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019727708",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2053.html",
+        "checked_at_utc": "2026-11-18T09:10:10.672324+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "8063dfbea52393017bbd95773a9fe33d6d637826c1a746aecfeb3597c191df02",
+        "original_OE_rows": [
+          [
+            "CHRYSLER",
+            "05015 593"
+          ],
+          [
+            "CHRYSLER",
+            "05281 275"
+          ],
+          [
+            "FORD",
+            "1 089 878"
+          ],
+          [
+            "FORD USA",
+            "XS6E-6C301-CB"
+          ],
+          [
+            "GENERAL MOTORS",
+            "92061744"
+          ],
+          [
+            "GENERAL MOTORS",
+            "92061745"
+          ],
+          [
+            "HYUNDAI/KIA",
+            "25212-3E000"
+          ],
+          [
+            "JAGUAR",
+            "5W9Q-6C301-AD"
+          ],
+          [
+            "MAZDA",
+            "ZY18-15-909"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "008 997 33 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "008 997 92 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "010 997 70 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "011 997 18 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "012 997 15 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "601 997 02 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 008 997 33 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 008 997 92 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 010 997 70 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 011 997 18 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 012 997 15 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 601 997 02 92"
+          ],
+          [
+            "OPEL",
+            "18 55 700"
+          ],
+          [
+            "OPEL",
+            "18 55 750"
+          ],
+          [
+            "SSANGYONG",
+            "0119971892"
+          ],
+          [
+            "TOYOTA",
+            "90916-02632"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHRYSLER&product_id=15862",
+        "fitment_page_sha256": "b5e5d4ea3f711ec08a8ca0cf25a2038bdf84cc7d6ff029116a4668730f13df09",
+        "fitment_rows": [
+          [
+            "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+            "2.5 TD (425 CLIRS/X, ENC)",
+            "85 (116)",
+            "01/95-03/01",
+            ""
+          ],
+          [
+            "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+            "2.5 TDiC AWD (ENC)",
+            "85 (116)",
+            "10/95-03/01",
+            ""
+          ],
+          [
+            "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+            "3.0 (EFA)",
+            "112 (152)",
+            "01/95-03/01",
+            ""
+          ]
+        ],
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2053.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2120",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333721",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:57.137825+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2120",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:13.995712+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1250
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2120",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333721",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2120.html",
+        "checked_at_utc": "2026-11-18T09:10:10.676097+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "fc850ae858dcd5e4913b85f1af1e062216914a7243bff28c264c321b7eb9ff98",
+        "original_OE_rows": [
+          [
+            "FIAT",
+            "55559175"
+          ],
+          [
+            "FORD",
+            "1 050 417"
+          ],
+          [
+            "FORD USA",
+            "98BB-6C301-CA"
+          ],
+          [
+            "GENERAL MOTORS",
+            "93185756"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "007 997 84 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "008 997 34 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "011 997 16 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "011 997 80 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "011 997 85 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 007 997 84 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 008 997 34 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 011 997 16 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 011 997 80 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 011 997 85 92"
+          ],
+          [
+            "OPEL",
+            "13 40 527"
+          ],
+          [
+            "SSANGYONG",
+            "0089973492"
+          ],
+          [
+            "SSANGYONG",
+            "0119978092"
+          ],
+          [
+            "SSANGYONG",
+            "6619974992"
+          ],
+          [
+            "SUZUKI",
+            "95141-84A00"
+          ],
+          [
+            "TOYOTA",
+            "90916-02592"
+          ],
+          [
+            "VAG",
+            "074 903 137 BC"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CADILLAC&product_id=15869",
+        "fitment_page_sha256": "04abe83f46dc0755c870d164e273df636661f98592b1e92fe41ab59022a342c0",
+        "fitment_rows": [
+          [
+            "BLS 06-",
+            "2.8 T (B284L)",
+            "188 (255)",
+            "04/06-",
+            ""
+          ],
+          [
+            "BLS 06-",
+            "2.8 T AWD (Z 28 NET)",
+            "206 (280)",
+            "10/08-",
+            ""
+          ],
+          [
+            "BLS Wagon 07-",
+            "2.8 T (B284R)",
+            "206 (280)",
+            "08/10-",
+            ""
+          ],
+          [
+            "BLS Wagon 07-",
+            "2.8 T (Z 28 NET)",
+            "188 (255)",
+            "12/07-",
+            ""
+          ],
+          [
+            "BLS Wagon 07-",
+            "2.8 T AWD (Z 28 NET)",
+            "206 (280)",
+            "10/08-",
+            ""
+          ]
+        ],
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2120.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2160",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333680",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:58.789601+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2160",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:16.034387+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 1500
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2160",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333680",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2160.html",
+        "checked_at_utc": "2026-11-18T09:10:26.751171+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2138",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725124",
+      "previous_API_checked_at_utc": "2026-11-13T16:04:58.952307+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2138",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:17.603009+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 3,
+        "avito_retail_rub": 1450
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2138",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019725124",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2138.html",
+        "checked_at_utc": "2026-11-18T09:10:26.752263+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2238",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725126",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:00.049366+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2238",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:21.366068+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1600
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2238",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019725126",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2238.html",
+        "checked_at_utc": "2026-11-18T09:10:31.967251+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2260",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727710",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:01.314810+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2260",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:22.831462+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1500
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2260",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019727710",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2260.html",
+        "checked_at_utc": "2026-11-18T09:10:31.969909+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2285",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333653",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:02.001365+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2285",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:24.885403+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1600
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2285",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333653",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2285.html",
+        "checked_at_utc": "2026-11-18T09:10:37.185978+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2315",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134090",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:03.034969+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2315",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:26.313466+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1600
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2315",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0023134090",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2315.html",
+        "checked_at_utc": "2026-11-18T09:10:37.186625+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2373",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333784",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:04.000535+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2373",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:27.459570+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1650
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2373",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333784",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2373.html",
+        "checked_at_utc": "2026-11-18T09:10:42.421443+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "ffa65ccfc0057606253d74a14707a787c45188ef6cc5e5aabebe7895e3fbb082",
+        "original_OE_rows": [
+          [
+            "CHRYSLER",
+            "04593 668AA"
+          ],
+          [
+            "GENERAL MOTORS",
+            "12590622"
+          ],
+          [
+            "GENERAL MOTORS",
+            "12626222"
+          ],
+          [
+            "JAGUAR",
+            "XR830447"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "000 993 37 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "013 997 87 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "113 997 87 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 000 993 37 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 013 997 87 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 113 997 87 92"
+          ],
+          [
+            "VAG",
+            "071 145 933 H"
+          ],
+          [
+            "VAG",
+            "071 145 933 M"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "HTTPError",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2373.jpg",
+        "photo_sha256": "07b78a731962a44e80f6489c9ebe04aa837a78210067267e797a530707851b7a",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2403",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019730998",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:05.100728+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2403",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:28.913292+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1750
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2403",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019730998",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2403.html",
+        "checked_at_utc": "2026-11-18T09:10:42.424200+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "2040a6302b9ee75731a37307627c7cf298e4cd937c3e9a76f15a3b30720ccc60",
+        "original_OE_rows": [
+          [
+            "CHRYSLER",
+            "04638 133"
+          ],
+          [
+            "GENERAL MOTORS",
+            "25192524"
+          ],
+          [
+            "GENERAL MOTORS",
+            "96628779"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "001 993 18 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "003 993 72 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "015 997 25 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 001 993 18 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 003 993 72 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 015 997 25 92"
+          ],
+          [
+            "OPEL",
+            "48 03 451"
+          ],
+          [
+            "VAG",
+            "059 903 137 H"
+          ],
+          [
+            "VAG",
+            "06E 903 137 AC"
+          ],
+          [
+            "VAG",
+            "06E 903 137 K"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "HTTPError",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2403.jpg",
+        "photo_sha256": "6c77110dd70b7293327314054df6e4124c33080a01f4bdca5da02a23e49501cc",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2460",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134093",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:05.839351+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2460",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:30.580169+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1900
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2460",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0023134093",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2460.html",
+        "checked_at_utc": "2026-11-18T09:10:57.685442+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "HTTPError"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2478",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333670",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:06.982618+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2478",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:32.391864+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1750
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2478",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333670",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2478.html",
+        "checked_at_utc": "2026-11-18T09:10:57.698888+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "HTTPError"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2500",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134094",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:07.993597+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2500",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:34.202192+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 1800
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2500",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0023134094",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2500.html",
+        "checked_at_utc": "2026-11-18T09:11:02.413451+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2550",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333706",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:09.004484+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2550",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:35.937900+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2100
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2550",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333706",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2550.html",
+        "checked_at_utc": "2026-11-18T09:11:02.453773+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2625",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0009984221",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:09.672936+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2625",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:37.288570+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1650
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "6PK2625",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0009984221",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2625.html",
+        "checked_at_utc": "2026-11-18T09:11:07.622014+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "10960e710bad330823fe758b01cd169e4e1dfb4ae14ad86e21a4a97355aaba6d",
+        "original_OE_rows": [
+          [
+            "FORD USA",
+            "7L3E-8620-GA"
+          ],
+          [
+            "GENERAL MOTORS",
+            "90490452"
+          ],
+          [
+            "GENERAL MOTORS",
+            "90573467"
+          ],
+          [
+            "GENERAL MOTORS",
+            "93185049"
+          ],
+          [
+            "MITSUBISHI",
+            "4451A062"
+          ],
+          [
+            "MITSUBISHI",
+            "4451A115"
+          ],
+          [
+            "MITSUBISHI",
+            "4451A123"
+          ],
+          [
+            "SAAB",
+            "43 59 063"
+          ],
+          [
+            "SAAB",
+            "49 04 728"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2625.jpg",
+        "photo_sha256": "cddb68abf5b190ff4dca137258fdc58553499ee3b3ba8140668b61ab3974d3db",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1051EL",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833895",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:10.779010+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1051EL",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:38.577882+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1500
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1051EL",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0023833895",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1051EL.html",
+        "checked_at_utc": "2026-11-18T09:11:07.673537+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "1c3ba90b85f7fd46d3e75a79f75bf769e4e941e6efcc9fadb54e5f546289d728",
+        "original_OE_rows": [
+          [
+            "RENAULT",
+            "11 72 031 68R"
+          ],
+          [
+            "RENAULT",
+            "11 72 038 66R"
+          ],
+          [
+            "RENAULT",
+            "11 72 041 48R"
+          ],
+          [
+            "RENAULT",
+            "11 72 055 00R"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1051EL.jpg",
+        "photo_sha256": "b466872da5915f7d71fb684630b2637665260daaae0a26e0bd56fbab5122069a",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1078",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023168801",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:12.146022+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1078",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:40.323461+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 950
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1078",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0023168801",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1078.html",
+        "checked_at_utc": "2026-11-18T09:11:17.440012+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "5bca4c6d54abecf20730e4a6e320a470b648bc763dda0e6217c0e4efe5947797",
+        "original_OE_rows": [
+          [
+            "FIAT",
+            "500388408"
+          ],
+          [
+            "FIAT",
+            "60607387"
+          ],
+          [
+            "FIAT",
+            "60617858"
+          ],
+          [
+            "FIAT",
+            "60812329"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1078.jpg",
+        "photo_sha256": "6860f8ca5108c461dee22b5350b796857b291c9bca77c65570a8519ac716a764",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1103",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308651",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:12.688523+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1103",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:41.904651+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 850
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1103",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0007308651",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1103.html",
+        "checked_at_utc": "2026-11-18T09:11:17.503579+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "a1fc35797c4341296b24ba3ffff1c2bd1e855edc22a6fef01d8b8de27a836945",
+        "original_OE_rows": [
+          [
+            "BMW",
+            "11 28 7 560 485"
+          ],
+          [
+            "BMW",
+            "11 28 7 631 812"
+          ],
+          [
+            "GENERAL MOTORS",
+            "93186955"
+          ],
+          [
+            "GENERAL MOTORS",
+            "93195484"
+          ],
+          [
+            "OPEL",
+            "44 16 361"
+          ],
+          [
+            "OPEL",
+            "44 18 674"
+          ],
+          [
+            "RENAULT",
+            "82 00 465 689"
+          ],
+          [
+            "RENAULT",
+            "82 00 833 574"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1103.jpg",
+        "photo_sha256": "5c9f8de5977d3d1bd6e280bb53b7696a6bb93ea236334e5a099c03dc66615c0b",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1140",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727713",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:14.449265+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1140",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:42.962560+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1750
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1140",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019727713",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1140.html",
+        "checked_at_utc": "2026-11-18T09:11:31.454347+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1165",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0025737924",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:14.830759+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1165",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:45.609222+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1200
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1165",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0025737924",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1165.html",
+        "checked_at_utc": "2026-11-18T09:11:31.492296+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1243",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308654",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:15.652373+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1243",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:47.135819+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 1750
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1243",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0007308654",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1243.html",
+        "checked_at_utc": "2026-11-18T09:11:36.673457+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "8baa450662af5e54bb32d0f57386c5509552b1c5e67d15e1857a63bfd6b9e59e",
+        "original_OE_rows": [
+          [
+            "FIAT",
+            "60568842"
+          ],
+          [
+            "FIAT",
+            "60808385"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/",
+        "photo_error_class": "UnidentifiedImageError"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1275",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725128",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:16.946605+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1275",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:48.419918+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 1400
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1275",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019725128",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1275.html",
+        "checked_at_utc": "2026-11-18T09:11:36.701645+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "3fbb96c1fbb1bbc9a898a932ac4f5c842420a5719c1b84592a562934ee808656",
+        "original_OE_rows": [
+          [
+            "NISSAN",
+            "11720-1VM0B"
+          ],
+          [
+            "NISSAN",
+            "11720-EB300"
+          ],
+          [
+            "NISSAN",
+            "11720-EB30A"
+          ],
+          [
+            "NISSAN",
+            "11720-EB310"
+          ],
+          [
+            "NISSAN",
+            "11720-EB70C"
+          ],
+          [
+            "RENAULT",
+            "74 85 122 916"
+          ],
+          [
+            "VAG",
+            "06E 903 137 AB"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1275.jpg",
+        "photo_sha256": "e78e58a7f6f312440557fa23c4231a4ecdf2626ab99071f814199a78c1094d5e",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1325",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727714",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:17.760645+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1325",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:49.856812+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1150
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1325",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019727714",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1325.html",
+        "checked_at_utc": "2026-11-18T09:11:49.572055+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "b4e7635fa6dd84c678972ff0136e4a7357f6ec18cbb3039045d85b83da60dfa1",
+        "original_OE_rows": [
+          [
+            "FIAT",
+            "6000616601"
+          ],
+          [
+            "GENERAL MOTORS",
+            "93452889"
+          ],
+          [
+            "GENERAL MOTORS",
+            "95517887"
+          ],
+          [
+            "IVECO",
+            "5004000413"
+          ],
+          [
+            "IVECO",
+            "504000413"
+          ],
+          [
+            "IVECO",
+            "5802102050"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "622 993 01 00"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 622 993 01 00"
+          ],
+          [
+            "OPEL",
+            "44 23 076"
+          ],
+          [
+            "RENAULT",
+            "11 72 012 61R"
+          ],
+          [
+            "UAZ",
+            "316300100802001"
+          ],
+          [
+            "VAG",
+            "021 145 933 J"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=IVECO&product_id=15938",
+        "fitment_page_sha256": "6a7cbd7d2177565409dc5b09878da97a7f747d63c08fec3e8b36dccd6d3c8b49",
+        "fitment_rows": [
+          [
+            "DAILY III Bus 99-06",
+            "35 S 12, 35 C 12, 40 C 12 (F1AE0481B)",
+            "85 (116)",
+            "01/03-05/06",
+            "Alternator"
+          ],
+          [
+            "DAILY III Platform/Chassis 99-06",
+            "29 L 10 (ALJAV1A1, ALJA41AA, ALJA41A1, AHJA64A1,... (F1AE0481A)",
+            "70 (95)",
+            "09/02-04/06",
+            "Alternator"
+          ],
+          [
+            "DAILY III Platform/Chassis 99-06",
+            "29 L 12 (ALKA41A1, AHKA64A1, ALLA51A1) (F1AE0481B)",
+            "85 (116)",
+            "09/02-04/06",
+            "Alternator"
+          ],
+          [
+            "DAILY III Platform/Chassis 99-06",
+            "29 L 14 (AHRA11C1B1, AHRA14C1B1, AHRA64C1B1) (F1AE0481M)",
+            "100 (136)",
+            "11/05-04/06",
+            "Alternator"
+          ],
+          [
+            "DAILY III Platform/Chassis 99-06",
+            "35 C 10 V , 35 S 10 V (AMJA14A1, AMJA64A1, AMJA65A1,... (F1AE0481A)",
+            "70 (95)",
+            "09/02-04/06",
+            "Alternator"
+          ]
+        ],
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1325.jpg",
+        "photo_sha256": "bfa1dca7062226b4ceb8d602e29c8af072ec7fdc7a650f5c119abd5cf17176b4",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SOURCE_BUNDLE_VERIFIED_PENDING_RELEASE",
+      "reason": "not in published exact scope; fresh checks required at release",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1685",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008675",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:18.921159+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1685",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:51.280063+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1850
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1685",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0013008675",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1685.html",
+        "checked_at_utc": "2026-11-18T09:11:50.748480+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "HTTPError"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1701",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134102",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:19.846036+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1701",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:52.792026+00:00",
+        "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1701",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0023134102",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1701.html",
+        "checked_at_utc": "2026-11-18T09:11:54.507845+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "c4bf591bb618845d1f23df1983657861adb5dbcae01347ab124a00b101644960",
+        "original_OE_rows": [
+          [
+            "NISSAN",
+            "11720-JA10B"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=NISSAN&product_id=15951",
+        "fitment_page_sha256": "aa8cfeb2b52b46c1b736bf9a103b1991c050e43f74dcb82ff4688cdbad753bab",
+        "fitment_rows": [
+          [
+            "ALTIMA (L32) 06-13",
+            "3.5 (VQ35DE)",
+            "201 (273)",
+            "10/06-07/13",
+            ""
+          ],
+          [
+            "ALTIMA (L32) 06-13",
+            "3.5 CVTC (VQ35DE)",
+            "210 (286)",
+            "01/10-07/12",
+            ""
+          ],
+          [
+            "MAXIMA VII (A35) 08-",
+            "3.5 (VQ35DE)",
+            "216 (294)",
+            "09/08-",
+            ""
+          ],
+          [
+            "MURANO II (Z51) 07-14",
+            "3.5 (VQ35DE)",
+            "195 (265)",
+            "11/07-09/14",
+            ""
+          ],
+          [
+            "MURANO II (Z51) 07-14",
+            "3.5 4WD (VQ35DE)",
+            "183 (249)",
+            "12/10-09/14",
+            ""
+          ]
+        ],
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1701.jpg",
+        "photo_sha256": "b1f7a8d05171af68f1e14682efe5a766ec2c6f9711f7d7e48ca5ce8b16023b38",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "BLOCKED_API",
+      "reason": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1715",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333739",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:20.835971+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1715",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:52.792053+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1600
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1715",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333739",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1715.html",
+        "checked_at_utc": "2026-11-18T09:12:04.833255+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "8e3108594fa85ad16886dec2a752938d4c2c64a0d413a54c28e7166fb8d3fee8",
+        "original_OE_rows": [
+          [
+            "FIAT",
+            "60595446"
+          ],
+          [
+            "FIAT",
+            "60597794"
+          ],
+          [
+            "FIAT",
+            "60604835"
+          ],
+          [
+            "FIAT",
+            "7653808"
+          ],
+          [
+            "HONDA",
+            "31110-6B2-A01"
+          ],
+          [
+            "HONDA",
+            "31110-RL5-A01"
+          ],
+          [
+            "HONDA",
+            "31110-RL5-A02"
+          ],
+          [
+            "HYUNDAI/KIA",
+            "25212-4A410"
+          ],
+          [
+            "HYUNDAI/KIA",
+            "25212-4A411"
+          ],
+          [
+            "LAND ROVER",
+            "PQS101490"
+          ],
+          [
+            "TATA",
+            "0306GAV00030N"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "HTTPError",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1715.jpg",
+        "photo_sha256": "bcde9288e0f45229cfa07a03e5e8644ac4c82ad2ac260fb0bf07305f758ab16a",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1750SP",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0028465244",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:21.842819+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1750SP",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:54.379186+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1550
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1750SP",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0028465244",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1750SP.html",
+        "checked_at_utc": "2026-11-18T09:12:09.856686+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "AssertionError"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "AssertionError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1760",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727715",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:22.867561+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1760",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:56.393741+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1400
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1760",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019727715",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1760.html",
+        "checked_at_utc": "2026-11-18T09:12:14.940439+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "1c0079d59405912abc0d942f7cc42ddbab25608c6fc33661aba4b2a2e4048e4e",
+        "original_OE_rows": [
+          [
+            "BMW",
+            "11 28 7 787 897"
+          ],
+          [
+            "BMW",
+            "11 28 7 796 396"
+          ],
+          [
+            "HONDA",
+            "38920-RBA-E01"
+          ],
+          [
+            "HONDA",
+            "38920-RBA-E02"
+          ],
+          [
+            "HONDA",
+            "38920-RBA-E03"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15956",
+        "fitment_page_sha256": "4d4fe83d603c11c35934ebedd4906005ae13da33639f024db4386e9d2f8c546b",
+        "fitment_rows": [
+          [
+            "7 (E65, E66, E67) 01-08",
+            "740 d (M67 D39 (398D1))",
+            "190 (258)",
+            "10/02-02/05",
+            ""
+          ],
+          [
+            "7 (E65, E66, E67) 01-08",
+            "745 d (M67 D44 (448D1))",
+            "220 (300)",
+            "03/05-08/05",
+            ""
+          ],
+          [
+            "7 (E65, E66, E67) 01-08",
+            "745 d (M67 D44 (448D1))",
+            "242 (329)",
+            "07/05-07/08",
+            ""
+          ]
+        ],
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1760.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1785",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308657",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:23.736977+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1785",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:58.185347+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1450
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1785",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0007308657",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1785.html",
+        "checked_at_utc": "2026-11-18T09:12:19.979174+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "b07545aed7730baa4438ea348eac42dfee5c89c3ad049e0109ca6e9217eed324",
+        "original_OE_rows": [
+          [
+            "HONDA",
+            "04301-RBD-305"
+          ],
+          [
+            "HONDA",
+            "38920-RBD-E03"
+          ],
+          [
+            "HONDA",
+            "38920-RBD-E04"
+          ],
+          [
+            "RENAULT",
+            "82 00 071 399"
+          ],
+          [
+            "RENAULT",
+            "82 00 127 693"
+          ],
+          [
+            "RENAULT",
+            "82 00 833 554"
+          ]
+        ],
+        "fitment_status": "MANUFACTURER_TABLE_VERIFIED",
+        "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15958",
+        "fitment_page_sha256": "92c7672b4d33b4a08283a6d1bbfaf0bac33a3b19afe234f21a08e5accfb0a7f6",
+        "fitment_rows": [
+          [
+            "ACCORD VII (CL, CN) 03-12",
+            "2.2 i-CTDi (CN1) (N22A1)",
+            "103 (140)",
+            "01/04-05/08",
+            "BALSHT"
+          ],
+          [
+            "ACCORD VII Tourer (CM, CN) 03-08",
+            "2.2 i-CTDi (CN2) (N22A1)",
+            "103 (140)",
+            "01/04-05/08",
+            "BALSHT"
+          ],
+          [
+            "CR-V II (RD_) 01-07",
+            "2.2 CTDi (RD9) (N22A2)",
+            "103 (140)",
+            "02/05-09/06",
+            "Alternator"
+          ],
+          [
+            "CR-V III (RE_) 06-12",
+            "2.2 i-CTDi 4WD (RE6) (N22A2)",
+            "103 (140)",
+            "01/07-",
+            ""
+          ],
+          [
+            "FR-V | EDIX (BE) 04-11",
+            "2.2 i CTDi (BE5) (N22A1)",
+            "103 (140)",
+            "07/05-",
+            ""
+          ]
+        ],
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1785.jpg",
+        "photo_sha256": "15ad6e49bfb5f6b534cf8fc726411a2aeadb467093ce3861b5c12e8d497bc025",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SOURCE_BUNDLE_VERIFIED_PENDING_RELEASE",
+      "reason": "not in published exact scope; fresh checks required at release",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1905SP",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0028465272",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:25.001100+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1905SP",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:11:59.641168+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1450
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1905SP",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0028465272",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1905SP.html",
+        "checked_at_utc": "2026-11-18T09:12:30.934901+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1910",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727717",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:25.996941+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1910",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:01.069600+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1450
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1910",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019727717",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1910.html",
+        "checked_at_utc": "2026-11-18T09:12:36.147260+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1915",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008680",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:26.726766+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1915",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:02.658753+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1000
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1915",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0013008680",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1915.html",
+        "checked_at_utc": "2026-11-18T09:12:37.011962+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1920",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0018766086",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:27.943351+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1920",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:03.707121+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2550
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1920",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0018766086",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1920.html",
+        "checked_at_utc": "2026-11-18T09:12:41.360560+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "d89fd3db1c8340775a3fc65429fa2aa8046b939c2ed0d53fc3d4aed88c07c4e9",
+        "original_OE_rows": [
+          [
+            "GENERAL MOTORS",
+            "93180563"
+          ],
+          [
+            "NISSAN",
+            "11720-00QAW"
+          ],
+          [
+            "NISSAN",
+            "11720-DB000"
+          ],
+          [
+            "OPEL",
+            "63 40 624"
+          ],
+          [
+            "RENAULT",
+            "77 01 057 890"
+          ],
+          [
+            "TOYOTA",
+            "90916-02493"
+          ],
+          [
+            "TOYOTA",
+            "90916-02515"
+          ],
+          [
+            "TOYOTA",
+            "90916-02600"
+          ],
+          [
+            "TOYOTA",
+            "90916-02601"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1920.jpg",
+        "photo_sha256": "86a6ef012db1094c54c1f79e96d264263e7b667fdada17469299d1ae3fbbba4a",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1933",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0018766087",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:29.357715+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1933",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:05.645784+00:00",
+        "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1933",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0018766087",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1933.html",
+        "checked_at_utc": "2026-11-18T09:12:42.223593+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "b3e18ace9c9075ac2a93e59ac58a6e7ea5a5666bf218488a43ce7534525f5867",
+        "original_OE_rows": [
+          [
+            "HYUNDAI/KIA",
+            "25212-3A000"
+          ],
+          [
+            "HYUNDAI/KIA",
+            "25212-3A100"
+          ],
+          [
+            "TOYOTA",
+            "90080-91205"
+          ],
+          [
+            "TOYOTA",
+            "90080-91214"
+          ],
+          [
+            "TOYOTA",
+            "90916-02502"
+          ],
+          [
+            "TOYOTA",
+            "90916-02503"
+          ],
+          [
+            "TOYOTA",
+            "90916-02513"
+          ],
+          [
+            "TOYOTA",
+            "90916-02598"
+          ],
+          [
+            "TOYOTA",
+            "90916-02599"
+          ],
+          [
+            "TOYOTA",
+            "90916-A2005"
+          ],
+          [
+            "TOYOTA",
+            "90916-A2008"
+          ],
+          [
+            "TOYOTA",
+            "90916-A2012"
+          ],
+          [
+            "TOYOTA",
+            "90916-T2014"
+          ],
+          [
+            "TOYOTA",
+            "90916-T2026"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1933.jpg",
+        "photo_sha256": "7fbc8062cf0d06920b8a1760f3c5cf8280d9c889be4b000bb9eb0fcdc6c9e566",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "BLOCKED_API",
+      "reason": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1940",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833897",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:29.753351+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1940",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:05.645809+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2350
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1940",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0023833897",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1940.html",
+        "checked_at_utc": "2026-11-18T09:12:52.734343+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "HTTPError"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1953",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308661",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:30.655241+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1953",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:06.667821+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2100
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1953",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0007308661",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1953.html",
+        "checked_at_utc": "2026-11-18T09:12:52.795128+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "HTTPError"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1960",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833898",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:33.078298+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1960",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:08.013900+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2300
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1960",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0023833898",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1960.html",
+        "checked_at_utc": "2026-11-18T09:12:57.577523+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "a9d8330f3de5148b3dce058324a53f78ec30ad88bb2ba4b2e4e1d92c86e2f05e",
+        "original_OE_rows": [
+          [
+            "HONDA",
+            "56992-RNA-A01"
+          ],
+          [
+            "HONDA",
+            "56992-RNA-A02"
+          ],
+          [
+            "TOYOTA",
+            "99367-J1960"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "HTTPError",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1960.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2005",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308663",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:34.148015+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2005",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:09.346089+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2300
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2005",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0007308663",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2005.html",
+        "checked_at_utc": "2026-11-18T09:12:57.652623+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "5d95dc865ef1a3735ab6721d4ba733876d7a26234a9c586b36c33560fc37dda1",
+        "original_OE_rows": [
+          [
+            "MERCEDES-BENZ",
+            "002 993 50 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 002 993 50 96"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "HTTPError",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2005.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "HTTPError"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2045",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0010062710",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:35.015611+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2045",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:10.382315+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1850
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2045",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0010062710",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2045.html",
+        "checked_at_utc": "2026-11-18T09:13:14.625755+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "90d07d9964e6cc42e8c0e552ccd2b743c6e98c2cb9ef3cd79e45955f0650fc0d",
+        "original_OE_rows": [
+          [
+            "FIAT",
+            "60590385"
+          ],
+          [
+            "FIAT",
+            "71712677"
+          ],
+          [
+            "FIAT",
+            "71736710"
+          ],
+          [
+            "FIAT",
+            "71749454"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "001 993 46 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "003 993 00 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 001 993 46 96"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 003 993 00 96"
+          ],
+          [
+            "TOYOTA",
+            "90916-T2033"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2045.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2090",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333762",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:36.279727+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2090",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:11.587253+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2550
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2090",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333762",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2090.html",
+        "checked_at_utc": "2026-11-18T09:13:14.629261+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "d0423ae6c71406c4520c50d7eaacf02f463d401212dd70d867244f8182d646d3",
+        "original_OE_rows": [
+          [
+            "TOYOTA",
+            "90916-A2010"
+          ],
+          [
+            "TOYOTA",
+            "99367-C2090"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2090.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2120",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725130",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:37.218375+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2120",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:13.542488+00:00",
+        "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2120",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0019725130",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2120.html",
+        "checked_at_utc": "2026-11-18T09:13:27.387084+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "7ed43e25e25f61877e6ce33edd7542e4da3113dbc460a1a356475f64cf8a98a5",
+        "original_OE_rows": [
+          [
+            "LAND ROVER",
+            "ERR4460"
+          ],
+          [
+            "NISSAN",
+            "AY14N-72119"
+          ],
+          [
+            "TOYOTA",
+            "90916-02554"
+          ],
+          [
+            "TOYOTA",
+            "90916-02571"
+          ],
+          [
+            "TOYOTA",
+            "90916-02768"
+          ],
+          [
+            "TOYOTA",
+            "90916-A2001"
+          ],
+          [
+            "TOYOTA",
+            "99367-D2120"
+          ],
+          [
+            "TOYOTA",
+            "99367-H2120"
+          ],
+          [
+            "TOYOTA",
+            "99367-K2120"
+          ],
+          [
+            "VAG",
+            "07P 145 933 E"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2120.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "BLOCKED_API",
+      "reason": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2150",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833899",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:38.364603+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2150",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:13.542513+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1600
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2150",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0023833899",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2150.html",
+        "checked_at_utc": "2026-11-18T09:13:27.392057+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "670afe148d717dfa1bcc534faed596eeff28ccf06f5ae9542f33f55297f3ff87",
+        "original_OE_rows": [
+          [
+            "TOYOTA",
+            "90916-A2015"
+          ],
+          [
+            "TOYOTA",
+            "99367-H2150"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2150.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2280",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333811",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:39.140851+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2280",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:14.816212+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 3100
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2280",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333811",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2280.html",
+        "checked_at_utc": "2026-11-18T09:13:42.824039+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "2e5ca5784a462a5595dc4a7d848dce73f1aaa5b2f463828a41138d0f9738bf98",
+        "original_OE_rows": [
+          [
+            "TOYOTA",
+            "90916-02640"
+          ],
+          [
+            "TOYOTA",
+            "90916-02708"
+          ],
+          [
+            "TOYOTA",
+            "99367-C2280"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2280.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2300",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134108",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:39.987139+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2300",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:16.771383+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2050
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2300",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0023134108",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2300.html",
+        "checked_at_utc": "2026-11-18T09:13:42.830209+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "ff51e4163656cbcc7f295ba77c8f32123ccb98ebf0fdd3bf00394b9000fdbc2f",
+        "original_OE_rows": [
+          [
+            "TOYOTA",
+            "90916-02636"
+          ],
+          [
+            "TOYOTA",
+            "90916-T2024"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOAD_NOT_CONFIRMED",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2300.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2682",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134110",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:41.195978+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2682",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:17.838800+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 3,
+        "avito_retail_rub": 2650
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK2682",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0023134110",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2682.html",
+        "checked_at_utc": "2026-11-18T09:13:56.507689+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK3170",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0028761942",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:42.055641+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "7PK3170",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:19.213397+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2550
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "7PK3170",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0028761942",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK3170.html",
+        "checked_at_utc": "2026-11-18T09:13:56.512251+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK1786",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008689",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:43.036194+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "8PK1786",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:20.349575+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1800
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "8PK1786",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0013008689",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/8PK1786.html",
+        "checked_at_utc": "2026-11-18T09:14:01.729947+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "5b4d92d762e27a2fa38a35f35dbea93c04ef3539b6905a21a3cf05beb4124e98",
+        "original_OE_rows": [
+          [
+            "BMW",
+            "11 28 7 590 148"
+          ],
+          [
+            "BMW",
+            "11 28 7 628 658"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/8PK1786.jpg",
+        "photo_sha256": "ab02b6548be784ccd7013801420c9dbe7f7d21a4b2cf3ab8589bd3dad25a010a",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2093",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008691",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:44.168650+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "8PK2093",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:21.550676+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1750
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "8PK2093",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0013008691",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/8PK2093.html",
+        "checked_at_utc": "2026-11-18T09:14:01.734213+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "4082c5b3b9c410f2541423effed3a0ed84f9b227599f79de71f7ff4aef00cc67",
+        "original_OE_rows": [
+          [
+            "LAND ROVER",
+            "PQS500370"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/8PK2093.jpg",
+        "photo_sha256": "fc3d69c340854a16209f4e85fa2b96a7e5885756ac12a982ee27fe7d68f5ff3a",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2155",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007151847",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:45.037041+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "8PK2155",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:22.861481+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2400
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "8PK2155",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0007151847",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/8PK2155.html",
+        "checked_at_utc": "2026-11-18T09:14:16.767078+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2166",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833901",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:46.126181+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "8PK2166",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:23.940892+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1900
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "8PK2166",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSII0023833901",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/8PK2166.html",
+        "checked_at_utc": "2026-11-18T09:14:16.782943+00:00",
+        "review_status": "SOURCE_NOT_CONFIRMED",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "9PK2250",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333813",
+      "previous_API_checked_at_utc": "2026-11-13T16:05:47.133954+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "LYNXauto",
+        "article": "9PK2250",
+        "category": "Ремни приводные",
+        "checked_at_utc": "2026-11-18T09:12:25.713900+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 4350
+      },
+      "source_review": {
+        "brand": "LYNXauto",
+        "article": "9PK2250",
+        "category": "Ремни приводные",
+        "supplier_nomenclature": "NSIN0022333813",
+        "manufacturer_page": "https://ecatalogue.lynxauto.jp/9PK2250.html",
+        "checked_at_utc": "2026-11-18T09:14:21.986563+00:00",
+        "review_status": "OEM_VERIFIED",
+        "manufacturer_page_sha256": "7d9eef6421ce51c3755d87c4b7b831aee06b884faeac28944dd1f4285add5403",
+        "original_OE_rows": [
+          [
+            "MERCEDES-BENZ",
+            "012 997 25 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "013 997 62 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 012 997 25 92"
+          ],
+          [
+            "MERCEDES-BENZ",
+            "A 013 997 62 92"
+          ],
+          [
+            "TOYOTA",
+            "99369-K2250"
+          ]
+        ],
+        "fitment_status": "NOT_CONFIRMED",
+        "fitment_error_class": "ReadTimeout",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://ecatalogue.lynxauto.jp/image/9PK2250.jpg",
+        "photo_sha256": "0992cd2da8337a2d6843e48d203ec251475515d8a672f54d1d9733a361a8b908",
+        "photo_dimensions": [
+          800,
+          600
+        ]
+      },
+      "publication_performed": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    }
+  ]
+}
