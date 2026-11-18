@@ -1,0 +1,687 @@
+{
+  "batch_id": "source13",
+  "scope": 85,
+  "publication_performed": false,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "XG1000",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828036",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:24.830639+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1003",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828061",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:25.671599+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1004",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828060",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:26.670844+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1006",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828045",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:27.652458+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1008",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828054",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:28.955796+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1011",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828043",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:30.776041+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1009",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828033",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:30.807370+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1015",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828048",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:32.845902+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1019",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828091",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:33.869140+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1020",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828085",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:35.158280+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1021",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828028",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:35.951134+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1023",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828030",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:36.996769+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1026",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828031",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:37.946718+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1030",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828074",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:38.955937+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1031",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828038",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:40.002413+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1033",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828037",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:40.946727+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1034",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828027",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:41.943916+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1036",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828070",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:42.901249+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1037",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828029",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:43.854052+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1043",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814223",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:45.032154+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1047",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814263",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:45.832117+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1050",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814233",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:47.063411+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1054",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814249",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:47.920248+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1055",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814277",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:48.946921+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1058",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814219",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:49.990432+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1063",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814214",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:51.010411+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1070",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814236",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:52.039618+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1071",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814268",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:52.867127+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1072",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814243",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:53.932092+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1076",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814267",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:54.905873+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1077",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814246",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:56.017968+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1080",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814265",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:56.868544+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1085",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814247",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:58.012890+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1086",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814270",
+      "previous_API_checked_at_utc": "2026-11-13T16:19:58.849237+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1087",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814266",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:00.344237+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1090",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814278",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:00.898735+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1092",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981399",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:02.106244+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1093",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814262",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:02.972643+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1094",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981407",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:03.914662+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1095",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814254",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:04.886944+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1098",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814238",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:06.035800+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1102",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814273",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:06.900428+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1103",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814231",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:07.898795+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1104",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814250",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:09.038728+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1105",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814229",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:09.973996+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1107",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814215",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:11.064723+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1109",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981276",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:12.000138+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1110",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981277",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:12.832413+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1114",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814216",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:13.936254+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1116",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981426",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:14.855977+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1119",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981365",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:15.964051+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1122",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814244",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:16.943965+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1123",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981419",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:17.813854+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1128",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814225",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:18.914623+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1132",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814218",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:19.981350+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1140",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814253",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:20.849066+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1151",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981372",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:21.765243+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1152",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814252",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:22.913884+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1153",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981335",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:23.919022+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1157",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981317",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:24.886886+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1168",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814220",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:25.950340+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1169",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814224",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:26.912173+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1170",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981423",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:27.783944+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1176",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981383",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:29.106886+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1178",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981374",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:30.913801+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1179",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814235",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:30.923190+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1180",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814248",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:31.957673+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1183",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814242",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:32.962400+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1185",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981404",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:33.958613+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1188",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814210",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:35.177653+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1190",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981400",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:35.971817+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1193",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814204",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:36.974942+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1198",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814211",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:38.078753+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1210",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814200",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:39.143689+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1214",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814207",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:39.940759+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1238",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814196",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:41.107077+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1255",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981367",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:42.084971+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1264",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814222",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:43.063580+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1269",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981444",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:43.889090+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1274",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981439",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:44.899947+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1275",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814256",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:45.855840+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1277",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981458",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:46.922742+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1287",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814269",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:47.861636+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1306",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981446",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:48.926556+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1313",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028981364",
+      "previous_API_checked_at_utc": "2026-11-13T16:20:49.969603+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ]
+}
