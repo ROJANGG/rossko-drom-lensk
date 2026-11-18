@@ -1,173 +1,542 @@
 {
-  "as_of_utc": "2026-11-18T09:35:07.368029+00:00",
-  "before": 510,
-  "after": 517,
-  "approved_before": 524,
-  "approved_after": 531,
-  "scope_count": 31,
-  "added_count": 7,
+  "as_of_utc": "2026-11-18T09:46:24.336664+00:00",
+  "before": 517,
+  "after": 550,
+  "approved_before": 531,
+  "approved_after": 564,
+  "scope_count": 33,
+  "added_count": 33,
   "added": [
     {
-      "id": "irk-7e74930bc2b46e8cc72720",
+      "id": "irk-6fd472d30609a5f04b3623",
       "brand": "SUFIX",
-      "article": "FB3140",
-      "category": "Ремни приводные",
-      "retail": 550,
-      "photo": {
-        "filename": "irk-7e74930bc2b46e8cc72720-2daaf68016eb.jpg",
-        "sha256": "2daaf68016eb37353399d37b7893a1ba321e896b463cbc2ff959c980335f56ca",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7e74930bc2b46e8cc72720-2daaf68016eb.jpg",
-        "manufacturer_page_sha256": "61b94530638d57bc580c785246d5878bb93ce3cf5a878fb89c4f600265e68b1b",
-        "fitment_page_sha256": "61b94530638d57bc580c785246d5878bb93ce3cf5a878fb89c4f600265e68b1b",
-        "verified_at_utc": "2026-11-18T09:34:32.066167+00:00"
-      },
-      "API_checked_at_utc": "2026-11-18T09:34:50.752772+00:00"
-    },
-    {
-      "id": "irk-1bf620b700880890e1de1e",
-      "brand": "SUFIX",
-      "article": "FB3141",
-      "category": "Ремни приводные",
-      "retail": 550,
-      "photo": {
-        "filename": "irk-1bf620b700880890e1de1e-f9ef3b410165.jpg",
-        "sha256": "f9ef3b41016505931e38097ea772452706d916c8622e999370813898b21687c9",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1bf620b700880890e1de1e-f9ef3b410165.jpg",
-        "manufacturer_page_sha256": "c5a7c0d0c052998c36eac248b647d34d0cdd8c184087512a658f6706658ab6d4",
-        "fitment_page_sha256": "c5a7c0d0c052998c36eac248b647d34d0cdd8c184087512a658f6706658ab6d4",
-        "verified_at_utc": "2026-11-18T09:34:32.718448+00:00"
-      },
-      "API_checked_at_utc": "2026-11-18T09:34:52.959939+00:00"
-    },
-    {
-      "id": "irk-537e36da97d338ec56cc15",
-      "brand": "SUFIX",
-      "article": "FB3183",
-      "category": "Ремни приводные",
-      "retail": 750,
-      "photo": {
-        "filename": "irk-537e36da97d338ec56cc15-33e2106db87b.jpg",
-        "sha256": "33e2106db87b8f6c3fef4ebdda2828c1fb5b8fd928ed55a321a5df6f5b69fa11",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-537e36da97d338ec56cc15-33e2106db87b.jpg",
-        "manufacturer_page_sha256": "5eeecff4e9f0f70bca6d9bb6ab512d5ea9a01c7dc4b90c41b228de9016c39b51",
-        "fitment_page_sha256": "5eeecff4e9f0f70bca6d9bb6ab512d5ea9a01c7dc4b90c41b228de9016c39b51",
-        "verified_at_utc": "2026-11-18T09:34:40.743405+00:00"
-      },
-      "API_checked_at_utc": "2026-11-18T09:34:59.319125+00:00"
-    },
-    {
-      "id": "irk-df7d6a8cd542ba4082b10c",
-      "brand": "SUFIX",
-      "article": "FB3196",
+      "article": "FB3230",
       "category": "Ремни приводные",
       "retail": 800,
       "photo": {
-        "filename": "irk-df7d6a8cd542ba4082b10c-9dc2b8f447e9.jpg",
-        "sha256": "9dc2b8f447e9a0f04e3f5833e872c1812816f2a7f1e99f62b519dea374b213a3",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-df7d6a8cd542ba4082b10c-9dc2b8f447e9.jpg",
-        "manufacturer_page_sha256": "69aab7966b04ae5668b94e7095ceb1d3835f5ecc12494def5fd670842cf1cc8c",
-        "fitment_page_sha256": "69aab7966b04ae5668b94e7095ceb1d3835f5ecc12494def5fd670842cf1cc8c",
-        "verified_at_utc": "2026-11-18T09:34:40.816294+00:00"
+        "filename": "irk-6fd472d30609a5f04b3623-640ad39ee6df.jpg",
+        "sha256": "640ad39ee6dfc21d6ed5a82b945c1dbe526e42583b60415f1ed57c8b0ca9ad78",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6fd472d30609a5f04b3623-640ad39ee6df.jpg",
+        "manufacturer_page_sha256": "58dd33326893c37f24d7e0f918db7a48235baf8a890ab26e943f488fe779dc0c",
+        "fitment_page_sha256": "58dd33326893c37f24d7e0f918db7a48235baf8a890ab26e943f488fe779dc0c",
+        "verified_at_utc": "2026-11-18T09:44:44.628376+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:35:00.909389+00:00"
+      "API_checked_at_utc": "2026-11-18T09:45:23.825768+00:00"
     },
     {
-      "id": "irk-2befe11fa0538a6ddf1087",
+      "id": "irk-383469af3ddbc98656c49f",
       "brand": "SUFIX",
-      "article": "FB3200",
+      "article": "FB3235",
       "category": "Ремни приводные",
-      "retail": 800,
+      "retail": 900,
       "photo": {
-        "filename": "irk-2befe11fa0538a6ddf1087-ff6131efaf4f.jpg",
-        "sha256": "ff6131efaf4f412c4e1ba7c1c490bda15a31be18cd683bdd633a85d979b7f2bb",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2befe11fa0538a6ddf1087-ff6131efaf4f.jpg",
-        "manufacturer_page_sha256": "9b399205e9ffc64ac2c31d43b5799e08fd3877cb0a0bd1a0b597e99dc782ff38",
-        "fitment_page_sha256": "9b399205e9ffc64ac2c31d43b5799e08fd3877cb0a0bd1a0b597e99dc782ff38",
-        "verified_at_utc": "2026-11-18T09:34:45.271143+00:00"
+        "filename": "irk-383469af3ddbc98656c49f-126f1c9d3ef9.jpg",
+        "sha256": "126f1c9d3ef96d4635aca1e63ecfa3956f0256028dbc61e6286c1fc0eb9e030d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-383469af3ddbc98656c49f-126f1c9d3ef9.jpg",
+        "manufacturer_page_sha256": "11d635b600f6f788f4b4f113fa4a12624139d4eecbfe6d2071fda92147baad80",
+        "fitment_page_sha256": "11d635b600f6f788f4b4f113fa4a12624139d4eecbfe6d2071fda92147baad80",
+        "verified_at_utc": "2026-11-18T09:44:44.660944+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:35:02.757695+00:00"
+      "API_checked_at_utc": "2026-11-18T09:45:25.649396+00:00"
     },
     {
-      "id": "irk-1439a89e4690f559df231f",
+      "id": "irk-15474d7e6b044a5858ab56",
       "brand": "SUFIX",
-      "article": "FB3204",
+      "article": "FB3246",
+      "category": "Ремни приводные",
+      "retail": 1100,
+      "photo": {
+        "filename": "irk-15474d7e6b044a5858ab56-d54905326768.jpg",
+        "sha256": "d549053267689a50d3f10895ed3eebd677fb7dff6941c4a1fa4e1c97dec1b04d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-15474d7e6b044a5858ab56-d54905326768.jpg",
+        "manufacturer_page_sha256": "1ab66ddc700854d1e84bd8f2ada1309f06d6261f99b795ff91f08ce72059c7d3",
+        "fitment_page_sha256": "1ab66ddc700854d1e84bd8f2ada1309f06d6261f99b795ff91f08ce72059c7d3",
+        "verified_at_utc": "2026-11-18T09:44:49.279387+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:28.315017+00:00"
+    },
+    {
+      "id": "irk-ca5938d3120797694b81be",
+      "brand": "SUFIX",
+      "article": "FB3245",
+      "category": "Ремни приводные",
+      "retail": 950,
+      "photo": {
+        "filename": "irk-ca5938d3120797694b81be-57b4a2350492.jpg",
+        "sha256": "57b4a2350492c7284ccbbb5e9cb59f6b7027a71d6ef60d9621cc4b8af0deb53d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ca5938d3120797694b81be-57b4a2350492.jpg",
+        "manufacturer_page_sha256": "5b1f8abaa6328238e31bc7ecde111fc688ef1b2d26f74d3916821fc90ffe6030",
+        "fitment_page_sha256": "5b1f8abaa6328238e31bc7ecde111fc688ef1b2d26f74d3916821fc90ffe6030",
+        "verified_at_utc": "2026-11-18T09:44:49.277744+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:30.771679+00:00"
+    },
+    {
+      "id": "irk-8d1c12d4c8ae3d5bc38228",
+      "brand": "SUFIX",
+      "article": "FB3278",
+      "category": "Ремни приводные",
+      "retail": 600,
+      "photo": {
+        "filename": "irk-8d1c12d4c8ae3d5bc38228-1de6d1d7c301.jpg",
+        "sha256": "1de6d1d7c301cfeae73e18d7f0af91aaefbf6681d710c9e022c7fb58e8cef35a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8d1c12d4c8ae3d5bc38228-1de6d1d7c301.jpg",
+        "manufacturer_page_sha256": "ec440add4e0e544d0b1ce2d270fef5512c6e2a34ca524dbd3dd6634bce314724",
+        "fitment_page_sha256": "ec440add4e0e544d0b1ce2d270fef5512c6e2a34ca524dbd3dd6634bce314724",
+        "verified_at_utc": "2026-11-18T09:44:51.798543+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:32.512863+00:00"
+    },
+    {
+      "id": "irk-c6c7f2951a101558f6419c",
+      "brand": "SUFIX",
+      "article": "FB3310",
+      "category": "Ремни приводные",
+      "retail": 1300,
+      "photo": {
+        "filename": "irk-c6c7f2951a101558f6419c-333e6c7285b9.jpg",
+        "sha256": "333e6c7285b9cb4f26bec07acc1b6f1d0a1dfdacead704f227aaba4518552d62",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c6c7f2951a101558f6419c-333e6c7285b9.jpg",
+        "manufacturer_page_sha256": "17520ea9aafc5ae3a477f86f7cab3fcc0a0888243cc382e40932a9f01db77cb9",
+        "fitment_page_sha256": "17520ea9aafc5ae3a477f86f7cab3fcc0a0888243cc382e40932a9f01db77cb9",
+        "verified_at_utc": "2026-11-18T09:44:51.757063+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:34.376147+00:00"
+    },
+    {
+      "id": "irk-25c72a6b15dcdd089e8267",
+      "brand": "SUFIX",
+      "article": "FB3312",
+      "category": "Ремни приводные",
+      "retail": 1100,
+      "photo": {
+        "filename": "irk-25c72a6b15dcdd089e8267-b5c695ab118e.jpg",
+        "sha256": "b5c695ab118eaa958fd74b8e050044f3ed3ed1989611890ecc5b0e5b96fb37b2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-25c72a6b15dcdd089e8267-b5c695ab118e.jpg",
+        "manufacturer_page_sha256": "89da62903fcabce48eae36185bd7531c11d8e459a8d69041d44a99bcfd8b21b6",
+        "fitment_page_sha256": "89da62903fcabce48eae36185bd7531c11d8e459a8d69041d44a99bcfd8b21b6",
+        "verified_at_utc": "2026-11-18T09:44:53.665117+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:36.423595+00:00"
+    },
+    {
+      "id": "irk-1e13d091af9b5bc286524c",
+      "brand": "SUFIX",
+      "article": "FB3320",
+      "category": "Ремни приводные",
+      "retail": 1650,
+      "photo": {
+        "filename": "irk-1e13d091af9b5bc286524c-2ef7532f7af1.jpg",
+        "sha256": "2ef7532f7af131ef8015988568e99515f65ab41724a4eb8fddb01168e6123148",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1e13d091af9b5bc286524c-2ef7532f7af1.jpg",
+        "manufacturer_page_sha256": "2899bf47776efc38fdaaf42de010d4dc9a6bfc42711e0a1c26311773eb8f605e",
+        "fitment_page_sha256": "2899bf47776efc38fdaaf42de010d4dc9a6bfc42711e0a1c26311773eb8f605e",
+        "verified_at_utc": "2026-11-18T09:44:54.025915+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:38.227402+00:00"
+    },
+    {
+      "id": "irk-ab2df659155b211bf47d93",
+      "brand": "SUFIX",
+      "article": "FB3331",
+      "category": "Ремни приводные",
+      "retail": 950,
+      "photo": {
+        "filename": "irk-ab2df659155b211bf47d93-58a29c710645.jpg",
+        "sha256": "58a29c710645f60afc68652963a19631128d6a42ad23f02c4746cde18ac077f3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ab2df659155b211bf47d93-58a29c710645.jpg",
+        "manufacturer_page_sha256": "4e9e9f82cdc7db54ff203f74c86e1b115c83ed8e5921638979fa95804190c2b7",
+        "fitment_page_sha256": "4e9e9f82cdc7db54ff203f74c86e1b115c83ed8e5921638979fa95804190c2b7",
+        "verified_at_utc": "2026-11-18T09:44:55.494865+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:40.229430+00:00"
+    },
+    {
+      "id": "irk-c047e4f008f97f953720d0",
+      "brand": "SUFIX",
+      "article": "FB3350",
+      "category": "Ремни приводные",
+      "retail": 450,
+      "photo": {
+        "filename": "irk-c047e4f008f97f953720d0-66eb916fbebf.jpg",
+        "sha256": "66eb916fbebf01385a843764955c5ddfc7053fba5ca81fc2a5bd714e29e43c35",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c047e4f008f97f953720d0-66eb916fbebf.jpg",
+        "manufacturer_page_sha256": "9ae09c6a3fe831782dd5a77f98037d9e1f2d05dccc7b740212cfd90357ca6c9e",
+        "fitment_page_sha256": "9ae09c6a3fe831782dd5a77f98037d9e1f2d05dccc7b740212cfd90357ca6c9e",
+        "verified_at_utc": "2026-11-18T09:44:56.133517+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:42.033716+00:00"
+    },
+    {
+      "id": "irk-fb93dc11db0d459adced27",
+      "brand": "SUFIX",
+      "article": "FB3356",
+      "category": "Ремни приводные",
+      "retail": 550,
+      "photo": {
+        "filename": "irk-fb93dc11db0d459adced27-453dd5bc2f4a.jpg",
+        "sha256": "453dd5bc2f4a42ace16e0ea970ab050e9cb9e8b949cfc079b50289e876f4ff26",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fb93dc11db0d459adced27-453dd5bc2f4a.jpg",
+        "manufacturer_page_sha256": "a08652c0a654f8a7030d836057cddbbe31859ef47112c2606330b5683845428f",
+        "fitment_page_sha256": "a08652c0a654f8a7030d836057cddbbe31859ef47112c2606330b5683845428f",
+        "verified_at_utc": "2026-11-18T09:44:57.743541+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:43.684625+00:00"
+    },
+    {
+      "id": "irk-9699cf315ed2d505eea781",
+      "brand": "SUFIX",
+      "article": "FB3360",
       "category": "Ремни приводные",
       "retail": 850,
       "photo": {
-        "filename": "irk-1439a89e4690f559df231f-5f7e1f5b95c4.jpg",
-        "sha256": "5f7e1f5b95c43269c01fbba3c86d1a4125f7974369fd0a715b324d57d382a8b7",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1439a89e4690f559df231f-5f7e1f5b95c4.jpg",
-        "manufacturer_page_sha256": "98c8ab926bf44c58a239c3c950ddda20d43f5fc2f95d2a51f07acf543bbb17e5",
-        "fitment_page_sha256": "98c8ab926bf44c58a239c3c950ddda20d43f5fc2f95d2a51f07acf543bbb17e5",
-        "verified_at_utc": "2026-11-18T09:34:45.312752+00:00"
+        "filename": "irk-9699cf315ed2d505eea781-c2a513457701.jpg",
+        "sha256": "c2a5134577016a9695a2b1ef70c0f288a3bf4dc6683c9b9ee84cca7285619255",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9699cf315ed2d505eea781-c2a513457701.jpg",
+        "manufacturer_page_sha256": "050feef16fce716c31bd8ddd093b962e617210a7ad1b73fd3aea7d6687be2033",
+        "fitment_page_sha256": "050feef16fce716c31bd8ddd093b962e617210a7ad1b73fd3aea7d6687be2033",
+        "verified_at_utc": "2026-11-18T09:44:58.305998+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:35:04.704463+00:00"
+      "API_checked_at_utc": "2026-11-18T09:45:45.274241+00:00"
     },
     {
-      "id": "irk-e09b9bd4db2ff084ec77c2",
+      "id": "irk-1b0cb4c89fd364b4bae306",
       "brand": "SUFIX",
-      "article": "FB3207",
+      "article": "FB3368",
       "category": "Ремни приводные",
-      "retail": 750,
+      "retail": 1000,
       "photo": {
-        "filename": "irk-e09b9bd4db2ff084ec77c2-c853a685d049.jpg",
-        "sha256": "c853a685d049d6756c81fe02be13512ca6ad8daf89364e2586f3bdaed48217fa",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e09b9bd4db2ff084ec77c2-c853a685d049.jpg",
-        "manufacturer_page_sha256": "7d6ac088b499c5eece0ed666dedb24a247b4b094344201de0a7aeb3ca38ea2e8",
-        "fitment_page_sha256": "7d6ac088b499c5eece0ed666dedb24a247b4b094344201de0a7aeb3ca38ea2e8",
-        "verified_at_utc": "2026-11-18T09:34:47.138232+00:00"
+        "filename": "irk-1b0cb4c89fd364b4bae306-8a92db054102.jpg",
+        "sha256": "8a92db05410222bdcc5fdc2007a20d772cda8372fe80283b08c2ebda0b1b2ceb",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1b0cb4c89fd364b4bae306-8a92db054102.jpg",
+        "manufacturer_page_sha256": "fe7b58ec575f1c2a7500279b61cf675c51cc03f7312ac91c4295312701d20fd0",
+        "fitment_page_sha256": "fe7b58ec575f1c2a7500279b61cf675c51cc03f7312ac91c4295312701d20fd0",
+        "verified_at_utc": "2026-11-18T09:45:00.260530+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:35:06.531001+00:00"
+      "API_checked_at_utc": "2026-11-18T09:45:47.153716+00:00"
+    },
+    {
+      "id": "irk-3c35d4a2e817d7ed72cac5",
+      "brand": "SUFIX",
+      "article": "FB3370",
+      "category": "Ремни приводные",
+      "retail": 1050,
+      "photo": {
+        "filename": "irk-3c35d4a2e817d7ed72cac5-5b4046d4c1b7.jpg",
+        "sha256": "5b4046d4c1b770ed9d26c465271b1905018cc3c7c78894754e2c0e5a227888c5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3c35d4a2e817d7ed72cac5-5b4046d4c1b7.jpg",
+        "manufacturer_page_sha256": "6797051bd239d3c24ae7bb8be560a2dd63a6b397b39c8ff158321bd8b6c02293",
+        "fitment_page_sha256": "6797051bd239d3c24ae7bb8be560a2dd63a6b397b39c8ff158321bd8b6c02293",
+        "verified_at_utc": "2026-11-18T09:45:00.195759+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:48.555523+00:00"
+    },
+    {
+      "id": "irk-e9107f154038dfacd1a4c7",
+      "brand": "SUFIX",
+      "article": "FB3377",
+      "category": "Ремни приводные",
+      "retail": 1650,
+      "photo": {
+        "filename": "irk-e9107f154038dfacd1a4c7-de579f1fcd1e.jpg",
+        "sha256": "de579f1fcd1e8400461a2a30086d1f59b75ca9818a3db785265a02b0b0e56ef0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e9107f154038dfacd1a4c7-de579f1fcd1e.jpg",
+        "manufacturer_page_sha256": "9273d140440ae37efc5ecc1e8478ca15f3d2a2d1690c69fc5fa65e0a528090a0",
+        "fitment_page_sha256": "9273d140440ae37efc5ecc1e8478ca15f3d2a2d1690c69fc5fa65e0a528090a0",
+        "verified_at_utc": "2026-11-18T09:45:02.241808+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:49.912115+00:00"
+    },
+    {
+      "id": "irk-771c3bfb4dcfa8a01f4673",
+      "brand": "SUFIX",
+      "article": "FB4001",
+      "category": "Ремни приводные",
+      "retail": 200,
+      "photo": {
+        "filename": "irk-771c3bfb4dcfa8a01f4673-83641c0615bf.jpg",
+        "sha256": "83641c0615bf5cab97ccdc9dc2b8209309ace10e633e0de30bb0ccbab073d092",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-771c3bfb4dcfa8a01f4673-83641c0615bf.jpg",
+        "manufacturer_page_sha256": "bd1bf0998c352bc407b6653a46e4707b30e1b637603355dd2ea28133e78c827b",
+        "fitment_page_sha256": "bd1bf0998c352bc407b6653a46e4707b30e1b637603355dd2ea28133e78c827b",
+        "verified_at_utc": "2026-11-18T09:45:02.297748+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:51.613506+00:00"
+    },
+    {
+      "id": "irk-e0a6c82647a709d7afd2dd",
+      "brand": "SUFIX",
+      "article": "FB4012",
+      "category": "Ремни приводные",
+      "retail": 200,
+      "photo": {
+        "filename": "irk-e0a6c82647a709d7afd2dd-26307b16f747.jpg",
+        "sha256": "26307b16f747dc51f255fbdc571c0d5d52eb1599b201e811ee4b5f776a957641",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e0a6c82647a709d7afd2dd-26307b16f747.jpg",
+        "manufacturer_page_sha256": "7ed9bd0ad5d64c455eb9a37ef6eafc3d7d64e4f5f97749d1afe9ccdff83ac763",
+        "fitment_page_sha256": "7ed9bd0ad5d64c455eb9a37ef6eafc3d7d64e4f5f97749d1afe9ccdff83ac763",
+        "verified_at_utc": "2026-11-18T09:45:04.221170+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:54.145452+00:00"
+    },
+    {
+      "id": "irk-5a2f2a3ecbae4998d7a4b3",
+      "brand": "SUFIX",
+      "article": "FB4013",
+      "category": "Ремни приводные",
+      "retail": 200,
+      "photo": {
+        "filename": "irk-5a2f2a3ecbae4998d7a4b3-6b1b4268ba04.jpg",
+        "sha256": "6b1b4268ba04d1968850d099c0bd1ab278678ec53eb90d7875e9a65fb7c5a4d5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5a2f2a3ecbae4998d7a4b3-6b1b4268ba04.jpg",
+        "manufacturer_page_sha256": "ab1814269646b242c55f197f7cef610cc34d7980eab610f648f275994b068529",
+        "fitment_page_sha256": "ab1814269646b242c55f197f7cef610cc34d7980eab610f648f275994b068529",
+        "verified_at_utc": "2026-11-18T09:45:04.224107+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:55.814593+00:00"
+    },
+    {
+      "id": "irk-8756dcc5e3c33f276e722c",
+      "brand": "SUFIX",
+      "article": "FB4018",
+      "category": "Ремни приводные",
+      "retail": 250,
+      "photo": {
+        "filename": "irk-8756dcc5e3c33f276e722c-d9be0075f8c3.jpg",
+        "sha256": "d9be0075f8c3271b7a902314eaabc034e961a95308e6fafdd487b803e3f61946",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8756dcc5e3c33f276e722c-d9be0075f8c3.jpg",
+        "manufacturer_page_sha256": "0f3af678c54783b4b90f875d9d9d8573de8973a0d6f958ffb27dd26bf979381a",
+        "fitment_page_sha256": "0f3af678c54783b4b90f875d9d9d8573de8973a0d6f958ffb27dd26bf979381a",
+        "verified_at_utc": "2026-11-18T09:45:06.213776+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:57.714847+00:00"
+    },
+    {
+      "id": "irk-1a6ac9549fdfa2e4ff5678",
+      "brand": "SUFIX",
+      "article": "FB4021",
+      "category": "Ремни приводные",
+      "retail": 300,
+      "photo": {
+        "filename": "irk-1a6ac9549fdfa2e4ff5678-90b02b52e2af.jpg",
+        "sha256": "90b02b52e2af91e3aaf946d07b0f7e3f1fe79c5ec7de09e8b1f8510c99984ff4",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1a6ac9549fdfa2e4ff5678-90b02b52e2af.jpg",
+        "manufacturer_page_sha256": "03603fef70b15f308db37ef4e9695bf4c600783e9ac9925908b5bb386f283817",
+        "fitment_page_sha256": "03603fef70b15f308db37ef4e9695bf4c600783e9ac9925908b5bb386f283817",
+        "verified_at_utc": "2026-11-18T09:45:06.733335+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:45:59.542330+00:00"
+    },
+    {
+      "id": "irk-6dc1ac4b00aa5882bb410a",
+      "brand": "SUFIX",
+      "article": "FB4036",
+      "category": "Ремни приводные",
+      "retail": 250,
+      "photo": {
+        "filename": "irk-6dc1ac4b00aa5882bb410a-ed1e9a66c570.jpg",
+        "sha256": "ed1e9a66c5704c65c2037f3e66a8b5ae4f934feb0b81449e1ee1fa563088f139",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6dc1ac4b00aa5882bb410a-ed1e9a66c570.jpg",
+        "manufacturer_page_sha256": "a432f2ad131bccdf7477d105088afc9511d035c30f6e4c73b57420cfaf1c7b59",
+        "fitment_page_sha256": "a432f2ad131bccdf7477d105088afc9511d035c30f6e4c73b57420cfaf1c7b59",
+        "verified_at_utc": "2026-11-18T09:45:07.968936+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:02.030438+00:00"
+    },
+    {
+      "id": "irk-05ffd3fd1830fbf8b615c9",
+      "brand": "SUFIX",
+      "article": "FB4037",
+      "category": "Ремни приводные",
+      "retail": 250,
+      "photo": {
+        "filename": "irk-05ffd3fd1830fbf8b615c9-a348b80805af.jpg",
+        "sha256": "a348b80805afc555958c393abb6d1b3655157441aac7e1142e82b6233b6e55d7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-05ffd3fd1830fbf8b615c9-a348b80805af.jpg",
+        "manufacturer_page_sha256": "28e7c402388b40d7400ec6337702ccc3be30ae9123f313d4b0382c9fd9c87d66",
+        "fitment_page_sha256": "28e7c402388b40d7400ec6337702ccc3be30ae9123f313d4b0382c9fd9c87d66",
+        "verified_at_utc": "2026-11-18T09:45:08.737616+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:03.551682+00:00"
+    },
+    {
+      "id": "irk-a5d25aad68ea584ce1bde6",
+      "brand": "SUFIX",
+      "article": "FB1036",
+      "category": "Ремни ГРМ",
+      "retail": 1350,
+      "photo": {
+        "filename": "irk-a5d25aad68ea584ce1bde6-9d9552c675ce.jpg",
+        "sha256": "9d9552c675ce7b56b386404d96d4bef591e02da7d693200b8d5aea41bb702c02",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a5d25aad68ea584ce1bde6-9d9552c675ce.jpg",
+        "manufacturer_page_sha256": "67cc992e9657c7e4d8e7c72a1b671b86c95677a150434f7f388be496b6c5c60d",
+        "fitment_page_sha256": "67cc992e9657c7e4d8e7c72a1b671b86c95677a150434f7f388be496b6c5c60d",
+        "verified_at_utc": "2026-11-18T09:45:10.171104+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:05.636664+00:00"
+    },
+    {
+      "id": "irk-d6b82c3151abc50c450edc",
+      "brand": "SUFIX",
+      "article": "FB1038",
+      "category": "Ремни ГРМ",
+      "retail": 1350,
+      "photo": {
+        "filename": "irk-d6b82c3151abc50c450edc-eed185b889c4.jpg",
+        "sha256": "eed185b889c446cabfb8dfa9ff433e15b9908fc741db6cc6aec4a937b481f1a8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d6b82c3151abc50c450edc-eed185b889c4.jpg",
+        "manufacturer_page_sha256": "8be645fb0c0da27d602b7054418cb95160b4244f315127ad066fea5ceb0bf2c2",
+        "fitment_page_sha256": "8be645fb0c0da27d602b7054418cb95160b4244f315127ad066fea5ceb0bf2c2",
+        "verified_at_utc": "2026-11-18T09:45:10.634379+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:07.726255+00:00"
+    },
+    {
+      "id": "irk-fae45885668ab7c0434e03",
+      "brand": "SUFIX",
+      "article": "FB1039",
+      "category": "Ремни ГРМ",
+      "retail": 1300,
+      "photo": {
+        "filename": "irk-fae45885668ab7c0434e03-8d711f2a3adc.jpg",
+        "sha256": "8d711f2a3adc39d6710492be96739b1876de4d3aaf790aa924bdc182c10e4940",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fae45885668ab7c0434e03-8d711f2a3adc.jpg",
+        "manufacturer_page_sha256": "3a4154d8c2a152ab38c02f4735df7515f32266090e5eb1d738bda4ace8820763",
+        "fitment_page_sha256": "3a4154d8c2a152ab38c02f4735df7515f32266090e5eb1d738bda4ace8820763",
+        "verified_at_utc": "2026-11-18T09:45:12.374002+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:09.556492+00:00"
+    },
+    {
+      "id": "irk-46c61a3f9aa9f4bf155114",
+      "brand": "SUFIX",
+      "article": "FB1040",
+      "category": "Ремни ГРМ",
+      "retail": 1100,
+      "photo": {
+        "filename": "irk-46c61a3f9aa9f4bf155114-8be650fe5261.jpg",
+        "sha256": "8be650fe5261702641406c4c6c7b8ee3f77344a593d803c180010a5b83f92074",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-46c61a3f9aa9f4bf155114-8be650fe5261.jpg",
+        "manufacturer_page_sha256": "437a7a1bb1f73581c7a728631ec4e0c229b0a459df63f04db4f830e4905520e1",
+        "fitment_page_sha256": "437a7a1bb1f73581c7a728631ec4e0c229b0a459df63f04db4f830e4905520e1",
+        "verified_at_utc": "2026-11-18T09:45:12.453767+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:11.209794+00:00"
+    },
+    {
+      "id": "irk-b0e0cf162793e001046164",
+      "brand": "SUFIX",
+      "article": "FB1041",
+      "category": "Ремни ГРМ",
+      "retail": 1450,
+      "photo": {
+        "filename": "irk-b0e0cf162793e001046164-d609a8dc1e62.jpg",
+        "sha256": "d609a8dc1e6230613a377b4c9cbd29070ba8b53d2be362e9251ecc65ec4c45f3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b0e0cf162793e001046164-d609a8dc1e62.jpg",
+        "manufacturer_page_sha256": "50fe3c55090e0bb48b224129bda056555c2cb9be3c117ae7915bcee9eb358f8b",
+        "fitment_page_sha256": "50fe3c55090e0bb48b224129bda056555c2cb9be3c117ae7915bcee9eb358f8b",
+        "verified_at_utc": "2026-11-18T09:45:14.458690+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:13.246766+00:00"
+    },
+    {
+      "id": "irk-304d890ec59e0cbfbe5eb6",
+      "brand": "SUFIX",
+      "article": "FB1042",
+      "category": "Ремни ГРМ",
+      "retail": 1300,
+      "photo": {
+        "filename": "irk-304d890ec59e0cbfbe5eb6-26f617b48b23.jpg",
+        "sha256": "26f617b48b237960150ac4a86018ea2f29e2aa6b74ffe2cad186a01fcb3c40a3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-304d890ec59e0cbfbe5eb6-26f617b48b23.jpg",
+        "manufacturer_page_sha256": "416712f8f43a99e50f83d85cf52f4f0129454563f70c4b06daccf1538f69a960",
+        "fitment_page_sha256": "416712f8f43a99e50f83d85cf52f4f0129454563f70c4b06daccf1538f69a960",
+        "verified_at_utc": "2026-11-18T09:45:14.371509+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:14.886930+00:00"
+    },
+    {
+      "id": "irk-ed73de9b19b6873764a2e0",
+      "brand": "SUFIX",
+      "article": "FB1046",
+      "category": "Ремни ГРМ",
+      "retail": 2100,
+      "photo": {
+        "filename": "irk-ed73de9b19b6873764a2e0-652eb7ba8f7c.jpg",
+        "sha256": "652eb7ba8f7cbe3d2abfbc2a3fcfd5d966d3c667537831cf6219ba298580f3de",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ed73de9b19b6873764a2e0-652eb7ba8f7c.jpg",
+        "manufacturer_page_sha256": "058b95ed25943384650d4cc0b7ec6e4134bf93d62999af48c0e5e01c82d1374a",
+        "fitment_page_sha256": "058b95ed25943384650d4cc0b7ec6e4134bf93d62999af48c0e5e01c82d1374a",
+        "verified_at_utc": "2026-11-18T09:45:16.379521+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:16.635988+00:00"
+    },
+    {
+      "id": "irk-546366ed326b0a46acd863",
+      "brand": "SUFIX",
+      "article": "FB1047",
+      "category": "Ремни ГРМ",
+      "retail": 1850,
+      "photo": {
+        "filename": "irk-546366ed326b0a46acd863-e75a5ea77a5b.jpg",
+        "sha256": "e75a5ea77a5b00c505447980e4348a9be91607c2c6f7ad782aa5b1ab6d519092",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-546366ed326b0a46acd863-e75a5ea77a5b.jpg",
+        "manufacturer_page_sha256": "11f6c34c19068801bc1320e117278fa156716f6d6bd7db08f1fb0fff07a72a04",
+        "fitment_page_sha256": "11f6c34c19068801bc1320e117278fa156716f6d6bd7db08f1fb0fff07a72a04",
+        "verified_at_utc": "2026-11-18T09:45:17.000309+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:18.397981+00:00"
+    },
+    {
+      "id": "irk-3de204fe28cec7869a91b8",
+      "brand": "SUFIX",
+      "article": "FB1057",
+      "category": "Ремни ГРМ",
+      "retail": 1100,
+      "photo": {
+        "filename": "irk-3de204fe28cec7869a91b8-7978f99995e4.jpg",
+        "sha256": "7978f99995e40dac62c5f212aefcda72fd7a479c2598af8b41c091fcb413e18c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3de204fe28cec7869a91b8-7978f99995e4.jpg",
+        "manufacturer_page_sha256": "34c5aad0b24c036b9e4f4c8f71855cacaa61db5c5e7906bc2790586892ba7dee",
+        "fitment_page_sha256": "34c5aad0b24c036b9e4f4c8f71855cacaa61db5c5e7906bc2790586892ba7dee",
+        "verified_at_utc": "2026-11-18T09:45:18.462722+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:20.075433+00:00"
+    },
+    {
+      "id": "irk-12a1ed1e8dd59d0d832ffe",
+      "brand": "SUFIX",
+      "article": "FB1055",
+      "category": "Ремни ГРМ",
+      "retail": 950,
+      "photo": {
+        "filename": "irk-12a1ed1e8dd59d0d832ffe-4fab1756201f.jpg",
+        "sha256": "4fab1756201f8d309c1169b8f61a4127c82a66ebd1043bceb505f0f9aed4e513",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-12a1ed1e8dd59d0d832ffe-4fab1756201f.jpg",
+        "manufacturer_page_sha256": "1d89aaa0da415171b40c7d213b054fe5707c81c2df79697b9ed20f4bde35cc73",
+        "fitment_page_sha256": "1d89aaa0da415171b40c7d213b054fe5707c81c2df79697b9ed20f4bde35cc73",
+        "verified_at_utc": "2026-11-18T09:45:18.934932+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:21.940135+00:00"
+    },
+    {
+      "id": "irk-edb5d627c8b5ff51ae16f1",
+      "brand": "SUFIX",
+      "article": "FB1068",
+      "category": "Ремни ГРМ",
+      "retail": 3800,
+      "photo": {
+        "filename": "irk-edb5d627c8b5ff51ae16f1-dc6eedf5e7bd.jpg",
+        "sha256": "dc6eedf5e7bd7f8dad8cb6055a5ebb0fbffbb745150f73be331a0097dba489e0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-edb5d627c8b5ff51ae16f1-dc6eedf5e7bd.jpg",
+        "manufacturer_page_sha256": "5aca4bc3669ca15475879f895387d70a3cac3a890090f1c9e22e6b37bd85940f",
+        "fitment_page_sha256": "5aca4bc3669ca15475879f895387d70a3cac3a890090f1c9e22e6b37bd85940f",
+        "verified_at_utc": "2026-11-18T09:45:20.399701+00:00"
+      },
+      "API_checked_at_utc": "2026-11-18T09:46:23.456291+00:00"
     }
   ],
-  "skipped": [
-    {
-      "brand": "LYNXauto",
-      "article": "7PK1325",
-      "reason": "manufacturer_evidence_ValueError"
-    },
-    {
-      "brand": "LYNXauto",
-      "article": "7PK1785",
-      "reason": "manufacturer_evidence_ValueError"
-    },
-    {
-      "brand": "SUFIX",
-      "article": "FB3145",
-      "reason": "fresh_personal_API_not_confirmed",
-      "api_status": "exact_sku_not_found"
-    },
-    {
-      "brand": "SUFIX",
-      "article": "FB3146",
-      "reason": "fresh_personal_API_not_confirmed",
-      "api_status": "exact_sku_not_found"
-    },
-    {
-      "brand": "SUFIX",
-      "article": "FB3155",
-      "reason": "fresh_personal_API_not_confirmed",
-      "api_status": "exact_sku_not_found"
-    },
-    {
-      "brand": "SUFIX",
-      "article": "FB3164",
-      "reason": "fresh_personal_API_not_confirmed",
-      "api_status": "exact_sku_not_found"
-    },
-    {
-      "brand": "SUFIX",
-      "article": "FB3171",
-      "reason": "fresh_personal_API_not_confirmed",
-      "api_status": "exact_sku_not_found"
-    },
-    {
-      "brand": "SUFIX",
-      "article": "FB3178",
-      "reason": "fresh_personal_API_not_confirmed",
-      "api_status": "exact_sku_not_found"
-    }
-  ],
+  "skipped": [],
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
