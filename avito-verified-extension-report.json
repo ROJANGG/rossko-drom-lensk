@@ -1292,5 +1292,12 @@
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": false
+  "publication_performed": true,
+  "release_workflow_run_id": 44268744161,
+  "CDN_exact_bytes_verified": true,
+  "CDN_sha256": "54ae3132d30e7ab3f102e2623e5b5319289e580cc78043912ddfa5b59b12c5fb",
+  "Avito_import_verified": false,
+  "public_images_exact_bytes_verified": 74,
+  "existing_live_unchanged": 408,
+  "existing_archive_unchanged": 422
 }
