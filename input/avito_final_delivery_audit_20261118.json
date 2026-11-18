@@ -1,0 +1,16 @@
+{
+  "as_of_utc": "2026-11-18T09:58:07Z",
+  "expected_ads": 564,
+  "expected_sha256": "10384f6bc8956022e1a6b67658cf084752afcae42672aa58554c2b7b6258f21a",
+  "expected_bytes": 867216,
+  "raw_exact_bytes_verified": true,
+  "CDN_exact_bytes_verified": false,
+  "CDN_observed_ads": 494,
+  "CDN_observed_sha256": "4dea08f935bd30d483fa55f2b273856f279a176b6afc72fd76d84f92d8280103",
+  "CDN_recheck_run_id": 44280537152,
+  "CDN_recheck_conclusion": "failure",
+  "Avito_import_verified": false,
+  "block_added_count": 54,
+  "all_original_510_live_and_524_archive_ads_preserved": true,
+  "all_new_54_public_images_exact_bytes_verified": true
+}

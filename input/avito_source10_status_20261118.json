@@ -6,14 +6,14 @@
   "source_bundles_verified": 29,
   "status_counts": {
     "SKIPPED_SOURCE": 71,
-    "PUBLISHED_IN_XML": 16,
-    "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE": 13
+    "PUBLISHED_IN_XML": 23,
+    "BLOCKED_AT_RELEASE": 6
   },
-  "published_count": 16,
+  "published_count": 23,
   "release_run_id": 44275008169,
   "before": 494,
-  "after": 510,
-  "archive_after": 524,
+  "after": 517,
+  "archive_after": 531,
   "no_individual_recovery_attempts": true,
   "Avito_import_verified": false,
   "items": [
@@ -10384,7 +10384,7 @@
         "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
         "package_unit_verified": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "verified_source_bundle": {
         "brand": "SUFIX",
         "article": "FB3140",
@@ -10508,8 +10508,11 @@
         "oem": "46414859",
         "fitment": "FIAT ULYSSE (220_) 94-02 1.8 (220.BB5) (LFW) 73кВт/99лс 05.1997-08.2002; FIAT ULYSSE (220_) 94-02 2.0 (220.AC5) (RFU (XU10J2C)) 89кВт/121лс 06.1994-08.2002; FIAT ULYSSE (220_) 94-02 2.0 Turbo (220.AD5) (RGX (XU10J2CTE)) 108кВт/147лс 06.1994-08.2002"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "PUBLISHED_IN_XML",
+      "reason": "",
+      "id": "irk-7e74930bc2b46e8cc72720",
+      "retail": 550,
+      "release_API_checked_at_utc": "2026-11-18T09:34:50.752772+00:00"
     },
     {
       "brand": "SUFIX",
@@ -10696,7 +10699,7 @@
         "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
         "package_unit_verified": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "verified_source_bundle": {
         "brand": "SUFIX",
         "article": "FB3141",
@@ -10866,8 +10869,11 @@
         "oem": "11281715770",
         "fitment": "BMW 7 (E32) 85-94 750 i,iL V12 (M70 B50 (5012A)) 220кВт/300лс 09.1987-09.1994"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "PUBLISHED_IN_XML",
+      "reason": "",
+      "id": "irk-1bf620b700880890e1de1e",
+      "retail": 550,
+      "release_API_checked_at_utc": "2026-11-18T09:34:52.959939+00:00"
     },
     {
       "brand": "SUFIX",
@@ -11469,8 +11475,14 @@
         "oem": "71749453",
         "fitment": "FIAT SCUDO Bus (220_) 96-06 1.9 D (D9B) 51кВт/69лс 02.1996-04.1998; FIAT SCUDO Bus (220_) 96-06 1.9 TD (D8B) 68кВт/92лс 02.1996-12.2006; FIAT SCUDO Bus (220_) 96-06 1.9 TD Eco (DHX (XUD9TF/L)) 66кВт/90лс 02.1996-12.2006"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "BLOCKED_AT_RELEASE",
+      "reason": "fresh_personal_API_not_confirmed",
+      "release_review": {
+        "brand": "SUFIX",
+        "article": "FB3145",
+        "reason": "fresh_personal_API_not_confirmed",
+        "api_status": "exact_sku_not_found"
+      }
     },
     {
       "brand": "SUFIX",
@@ -11795,8 +11807,14 @@
         "oem": "46533490",
         "fitment": "FIAT PALIO (178_, 171_, 371_) 96-03 1.0 (178 A1.000, 178 A3.011) 45кВт/61лс 04.1996-10.2003"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "BLOCKED_AT_RELEASE",
+      "reason": "fresh_personal_API_not_confirmed",
+      "release_review": {
+        "brand": "SUFIX",
+        "article": "FB3146",
+        "reason": "fresh_personal_API_not_confirmed",
+        "api_status": "exact_sku_not_found"
+      }
     },
     {
       "brand": "SUFIX",
@@ -13004,8 +13022,14 @@
         "oem": "9004831047",
         "fitment": "DAIHATSU CHARADE IV (G200, G202) 93-00 1.6 GTi (HD-E) 77кВт/105лс 03.1993-11.1999; DAIHATSU SIRION (M3_) 05-13 1.0 (M300) (1KR-FE) 51кВт/70лс 01.2005-06.2013"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "BLOCKED_AT_RELEASE",
+      "reason": "fresh_personal_API_not_confirmed",
+      "release_review": {
+        "brand": "SUFIX",
+        "article": "FB3155",
+        "reason": "fresh_personal_API_not_confirmed",
+        "api_status": "exact_sku_not_found"
+      }
     },
     {
       "brand": "SUFIX",
@@ -13603,8 +13627,14 @@
         "oem": "71749456",
         "fitment": "FIAT STILO (192_) 01-07 1.8 16V (192AXC1A, 192BXC1A) (192 A4.000) 98кВт/133лс 10.2001-04.2007; FIAT STILO Multi Wagon (192_) 03-08 1.8 16V (192 A4.000) 98кВт/133лс 01.2003-08.2008"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "BLOCKED_AT_RELEASE",
+      "reason": "fresh_personal_API_not_confirmed",
+      "release_review": {
+        "brand": "SUFIX",
+        "article": "FB3164",
+        "reason": "fresh_personal_API_not_confirmed",
+        "api_status": "exact_sku_not_found"
+      }
     },
     {
       "brand": "SUFIX",
@@ -14135,8 +14165,14 @@
         "oem": "04663199",
         "fitment": "CHRYSLER CIRRUS 94-00 2.4 LX (EDZ) 103кВт/140лс 05.1994-09.2000; CHRYSLER STRATUS (JA) 95-01 2.4 16 V (EDZ) 103кВт/140лс 12.1995-04.2001; CHRYSLER STRATUS (JA) 95-01 2.4 16V (EDZ) 112кВт/152лс 12.1995-04.2001"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "BLOCKED_AT_RELEASE",
+      "reason": "fresh_personal_API_not_confirmed",
+      "release_review": {
+        "brand": "SUFIX",
+        "article": "FB3171",
+        "reason": "fresh_personal_API_not_confirmed",
+        "api_status": "exact_sku_not_found"
+      }
     },
     {
       "brand": "SUFIX",
@@ -14369,8 +14405,14 @@
         "oem": "96334781",
         "fitment": "FIAT DUCATO Bus (230_) 94-02 2.0 JTD (RHV) 62кВт/84лс 10.2001-04.2002; FIAT DUCATO Bus (244_) 02-06 2.0 JTD (RHV) 62кВт/84лс 04.2002-; FIAT DUCATO Platform/Chassis (230_) 94-02 2.0 JTD (RHV) 62кВт/84лс 07.2001-04.2002"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "BLOCKED_AT_RELEASE",
+      "reason": "fresh_personal_API_not_confirmed",
+      "release_review": {
+        "brand": "SUFIX",
+        "article": "FB3178",
+        "reason": "fresh_personal_API_not_confirmed",
+        "api_status": "exact_sku_not_found"
+      }
     },
     {
       "brand": "SUFIX",
@@ -14769,7 +14811,7 @@
         "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
         "package_unit_verified": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "verified_source_bundle": {
         "brand": "SUFIX",
         "article": "FB3183",
@@ -14910,8 +14952,11 @@
         "oem": "11281437475",
         "fitment": "BMW 3 (E36) 90-98 323 i (M52 B25 (256S3)) 125кВт/170лс 05.1995-11.1998; BMW 3 (E36) 90-98 325 i (M50 B25 (256S1), M50 B25 (256S2)) 141кВт/192лс 09.1990-12.1995; BMW 3 (E46) 97-05 320 i (M52 B20 (206S4)) 110кВт/150лс 03.1998-09.2000"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "PUBLISHED_IN_XML",
+      "reason": "",
+      "id": "irk-537e36da97d338ec56cc15",
+      "retail": 750,
+      "release_API_checked_at_utc": "2026-11-18T09:34:59.319125+00:00"
     },
     {
       "brand": "SUFIX",
@@ -15816,7 +15861,7 @@
         "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
         "package_unit_verified": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "verified_source_bundle": {
         "brand": "SUFIX",
         "article": "FB3196",
@@ -16012,8 +16057,11 @@
         "oem": "11287515316",
         "fitment": "BMW 1 (E81) 06-12 116 i (N45 B16 A) 85кВт/115лс 09.2007-12.2011; BMW 1 (E81) 06-12 118 i (N46 B20 B) 100кВт/136лс 09.2006-12.2011; BMW 1 (E81) 06-12 120 i (N43 B20 A) 125кВт/170лс 03.2007-09.2012"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "PUBLISHED_IN_XML",
+      "reason": "",
+      "id": "irk-df7d6a8cd542ba4082b10c",
+      "retail": 800,
+      "release_API_checked_at_utc": "2026-11-18T09:35:00.909389+00:00"
     },
     {
       "brand": "SUFIX",
@@ -16181,7 +16229,7 @@
         "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
         "package_unit_verified": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "verified_source_bundle": {
         "brand": "SUFIX",
         "article": "FB3200",
@@ -16332,8 +16380,11 @@
         "oem": "2521237162",
         "fitment": "HYUNDAI COUPE II (GK) | TIBURON 01-09 2.7 V6 (G6BA) 121кВт/165лс 01.2001-08.2009; HYUNDAI COUPE II (GK) | TIBURON 01-09 2.7 V6 (G6BA) 123кВт/167лс 03.2002-08.2009; HYUNDAI SANTA FE I (SM) 00-06 2.7 V6 4WD (G6BA) 127кВт/173лс 02.2001-03.2006"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "PUBLISHED_IN_XML",
+      "reason": "",
+      "id": "irk-2befe11fa0538a6ddf1087",
+      "retail": 800,
+      "release_API_checked_at_utc": "2026-11-18T09:35:02.757695+00:00"
     },
     {
       "brand": "SUFIX",
@@ -16524,7 +16575,7 @@
         "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
         "package_unit_verified": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "verified_source_bundle": {
         "brand": "SUFIX",
         "article": "FB3204",
@@ -16698,8 +16749,11 @@
         "oem": "55201363",
         "fitment": "FIAT FREEMONT (345_) 11- 2.0 JTD (939 B5.000, 940 A5.000) 103кВт/140лс 08.2011-; FIAT FREEMONT (345_) 11- 2.0 JTD (939 B5.000, 940 A5.000) 125кВт/170лс 08.2011-; FIAT FREEMONT (345_) 11- 2.0 JTD (939 B5.000) 100кВт/136лс 08.2011-"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "PUBLISHED_IN_XML",
+      "reason": "",
+      "id": "irk-1439a89e4690f559df231f",
+      "retail": 850,
+      "release_API_checked_at_utc": "2026-11-18T09:35:04.704463+00:00"
     },
     {
       "brand": "SUFIX",
@@ -16899,7 +16953,7 @@
         "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
         "package_unit_verified": true
       },
-      "publication_performed": false,
+      "publication_performed": true,
       "verified_source_bundle": {
         "brand": "SUFIX",
         "article": "FB3207",
@@ -17082,8 +17136,11 @@
         "oem": "04593823AA",
         "fitment": "CHRYSLER GRAND VOYAGER V (RT) 07- 2.8 CRD (ENS) 120кВт/163лс 10.2007-"
       },
-      "status": "SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE",
-      "reason": "outside frozen first 16-SKU release scope; fresh recheck required"
+      "status": "PUBLISHED_IN_XML",
+      "reason": "",
+      "id": "irk-e09b9bd4db2ff084ec77c2",
+      "retail": 750,
+      "release_API_checked_at_utc": "2026-11-18T09:35:06.531001+00:00"
     },
     {
       "brand": "SUFIX",
@@ -17205,5 +17262,7 @@
       "status": "SKIPPED_SOURCE",
       "reason": "ReadTimeout"
     }
-  ]
+  ],
+  "latest_review_run_id": 44277061615,
+  "XML_observed_after_prepared_release": 517
 }

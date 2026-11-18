@@ -60,32 +60,32 @@ SUFIX;FB3131;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3134;Ремни приводные;PUBLISHED_IN_XML;irk-7be38301cab0c2347c4562;400;
 SUFIX;FB3137;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3138;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
-SUFIX;FB3140;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
-SUFIX;FB3141;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
+SUFIX;FB3140;Ремни приводные;PUBLISHED_IN_XML;irk-7e74930bc2b46e8cc72720;550;
+SUFIX;FB3141;Ремни приводные;PUBLISHED_IN_XML;irk-1bf620b700880890e1de1e;550;
 SUFIX;FB3142;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3144;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
-SUFIX;FB3145;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
-SUFIX;FB3146;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
+SUFIX;FB3145;Ремни приводные;BLOCKED_AT_RELEASE;;;fresh_personal_API_not_confirmed
+SUFIX;FB3146;Ремни приводные;BLOCKED_AT_RELEASE;;;fresh_personal_API_not_confirmed
 SUFIX;FB3147;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3148;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3149;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3150;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3152;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3153;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
-SUFIX;FB3155;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
+SUFIX;FB3155;Ремни приводные;BLOCKED_AT_RELEASE;;;fresh_personal_API_not_confirmed
 SUFIX;FB3156;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3157;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3158;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3162;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3163;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
-SUFIX;FB3164;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
+SUFIX;FB3164;Ремни приводные;BLOCKED_AT_RELEASE;;;fresh_personal_API_not_confirmed
 SUFIX;FB3165;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3166;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
-SUFIX;FB3171;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
-SUFIX;FB3178;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
+SUFIX;FB3171;Ремни приводные;BLOCKED_AT_RELEASE;;;fresh_personal_API_not_confirmed
+SUFIX;FB3178;Ремни приводные;BLOCKED_AT_RELEASE;;;fresh_personal_API_not_confirmed
 SUFIX;FB3179;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3182;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
-SUFIX;FB3183;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
+SUFIX;FB3183;Ремни приводные;PUBLISHED_IN_XML;irk-537e36da97d338ec56cc15;750;
 SUFIX;FB3184;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3185;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3187;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
@@ -94,8 +94,8 @@ SUFIX;FB3189;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3190;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3192;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
 SUFIX;FB3195;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout
-SUFIX;FB3196;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
-SUFIX;FB3200;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
-SUFIX;FB3204;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
-SUFIX;FB3207;Ремни приводные;SOURCE_BUNDLE_VERIFIED_NEXT_RELEASE;;;"outside frozen first 16-SKU release scope; fresh recheck required"
+SUFIX;FB3196;Ремни приводные;PUBLISHED_IN_XML;irk-df7d6a8cd542ba4082b10c;800;
+SUFIX;FB3200;Ремни приводные;PUBLISHED_IN_XML;irk-2befe11fa0538a6ddf1087;800;
+SUFIX;FB3204;Ремни приводные;PUBLISHED_IN_XML;irk-1439a89e4690f559df231f;850;
+SUFIX;FB3207;Ремни приводные;PUBLISHED_IN_XML;irk-e09b9bd4db2ff084ec77c2;750;
 SUFIX;FB3209;Ремни приводные;SKIPPED_SOURCE;;;ReadTimeout

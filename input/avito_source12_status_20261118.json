@@ -1,0 +1,2469 @@
+{
+  "date": "2026-11-18",
+  "batch": "source12",
+  "scope": 33,
+  "API_requests_attempted": 32,
+  "API_status_counts": {
+    "опт_Иркутск_подтвержден": 32,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1
+  },
+  "source_research_complete": true,
+  "source_bundles_verified": 13,
+  "status_counts": {
+    "SKIPPED_SOURCE": 19,
+    "BLOCKED_API": 1,
+    "PUBLISHED_IN_XML": 13
+  },
+  "published_count": 13,
+  "release_run_id": 44279785182,
+  "XML_after": 564,
+  "archive_after": 578,
+  "manual_per_listing_recovery_performed": false,
+  "single_bulk_network_photo_retry": true,
+  "Avito_import_verified": false,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "FB1001",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235671",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:56.436743+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1001",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:17.383586+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 800
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1001",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235671",
+        "source_checked_at_utc": "2026-11-18T09:38:37.298555+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1001.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1002",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235672",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:57.705985+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1002",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:19.737929+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 750
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1002",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235672",
+        "source_checked_at_utc": "2026-11-18T09:38:37.299827+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1002.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1006",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235676",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:59.057949+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1006",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:21.400649+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 600
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1006",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235676",
+        "source_checked_at_utc": "2026-11-18T09:38:42.464625+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1006.html",
+        "page_captured_at_utc": "2026-11-18T09:38:48.165324+00:00",
+        "manufacturer_page_sha256": "b8b24cc8018f8d52657c7ff91e2e103c729e97e5b158d7900643fd43e1ca0467",
+        "manufacturer_MPN": "FB-1006",
+        "product_title": "Ремень ГРМ (111X19MM) Арт. FB-1006",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "LADA",
+            "21080-1006040-10"
+          ],
+          [
+            "LADA",
+            "21080-1006040-11"
+          ],
+          [
+            "LADA",
+            "2108-1006040-10"
+          ],
+          [
+            "LADA",
+            "2108-1006040-11"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "LADA": 47
+        },
+        "OEM_make": "LADA",
+        "OEM_raw": "21080-1006040-10",
+        "OEM": "21080100604010",
+        "fitment_rows": [
+          {
+            "model": "LADA 110 (2110) 95-12",
+            "modification": "1.5 (2110) 54кВт/73лс 01.1995-12.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=11632"
+          },
+          {
+            "model": "LADA 110 (2110) 95-12",
+            "modification": "1.5 (2111) 52кВт/71лс 06.1996-09.2004",
+            "url": "https://sufix.pro/selection_parts.html?na_id=21896"
+          },
+          {
+            "model": "LADA 110 (2110) 95-12",
+            "modification": "1.5 (2111) 56кВт/76лс 10.2000-12.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16479"
+          },
+          {
+            "model": "LADA 110 (2110) 95-12",
+            "modification": "1.5 (2111) 57кВт/78лс 01.1995-12.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=11633"
+          },
+          {
+            "model": "LADA 110 (2110) 95-12",
+            "modification": "1.6 (21114) 60кВт/82лс 01.2000-12.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=24668"
+          }
+        ],
+        "applicability_make": "LADA",
+        "OEM_group_label_as_on_manufacturer_page": "LADA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/FB-1006.1.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T09:47:30.826596+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1007",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235677",
+      "previous_API_checked_at_utc": "2026-11-13T16:12:59.430900+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1007",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:23.456758+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 600
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1007",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235677",
+        "source_checked_at_utc": "2026-11-18T09:38:42.469453+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1007.html",
+        "page_captured_at_utc": "2026-11-18T09:38:48.397524+00:00",
+        "manufacturer_page_sha256": "03302954c25d625cae9a22a26957e9e8197722e51ae413af3ad83998b32018d7",
+        "manufacturer_MPN": "FB-1007",
+        "product_title": "Ремень ГРМ (111X17MM) Арт. FB-1007",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "GENERALMOTORS",
+            "9128723"
+          ],
+          [
+            "GENERALMOTORS",
+            "90353179"
+          ],
+          [
+            "GENERALMOTORS",
+            "90354782"
+          ],
+          [
+            "GENERALMOTORS",
+            "90410223"
+          ],
+          [
+            "GENERALMOTORS",
+            "90531677"
+          ],
+          [
+            "GENERALMOTORS",
+            "90531678"
+          ],
+          [
+            "GENERALMOTORS",
+            "96183353"
+          ],
+          [
+            "GENERALMOTORS",
+            "96352407"
+          ],
+          [
+            "OPEL",
+            "06 36 372"
+          ],
+          [
+            "OPEL",
+            "06 36 561"
+          ],
+          [
+            "OPEL",
+            "06 36 566"
+          ],
+          [
+            "OPEL",
+            "56 36 356"
+          ],
+          [
+            "OPEL",
+            "56 36 364"
+          ],
+          [
+            "OPEL",
+            "56 36 560"
+          ],
+          [
+            "OPEL",
+            "6 36 372"
+          ],
+          [
+            "OPEL",
+            "6 36 561"
+          ],
+          [
+            "OPEL",
+            "6 36 566"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "CHEVROLET": 8,
+          "DAEWOO": 18,
+          "OPEL": 65,
+          "ZAZ": 6
+        },
+        "OEM_make": "GENERALMOTORS",
+        "OEM_raw": "9128723",
+        "OEM": "9128723",
+        "fitment_rows": [
+          {
+            "model": "CHEVROLET AVEO / KALOS Hatchback (T200) 03-08",
+            "modification": "1.4 (LX5(85CUL4)) 61кВт/83лс 03.2005-05.2008",
+            "url": "https://sufix.pro/selection_parts.html?na_id=18531"
+          },
+          {
+            "model": "CHEVROLET AVEO / KALOS Hatchback (T200) 03-08",
+            "modification": "1.5 (LV8(91CUL4)) 62кВт/84лс 01.2005-05.2008",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55817"
+          },
+          {
+            "model": "CHEVROLET AVEO / KALOS Saloon (T200) 03-08",
+            "modification": "1.5 (LV8(91CUL4)) 63кВт/86лс 10.2004-05.2006",
+            "url": "https://sufix.pro/selection_parts.html?na_id=128219"
+          },
+          {
+            "model": "CHEVROLET AVEO / KALOS Saloon (T250, T255) 05-12",
+            "modification": "1.4 (LX5(85CUL4)) 61кВт/83лс 03.2005-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=32290"
+          },
+          {
+            "model": "CHEVROLET AVEO / KALOS Saloon (T250, T255) 05-12",
+            "modification": "1.5 (F15S3, LX6) 62кВт/84лс 05.2005-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=22627"
+          }
+        ],
+        "applicability_make": "CHEVROLET",
+        "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/FB-1007.2.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T09:47:31.639100+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1008",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235678",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:00.423534+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1008",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:25.548322+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 1300
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1008",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235678",
+        "source_checked_at_utc": "2026-11-18T09:38:53.840836+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1008.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1009",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235679",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:01.422061+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1009",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:26.857344+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 550
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1009",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235679",
+        "source_checked_at_utc": "2026-11-18T09:38:53.841466+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1009.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1011",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235681",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:02.826956+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1011",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:28.964276+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 750
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1011",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235681",
+        "source_checked_at_utc": "2026-11-18T09:38:59.006704+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1011.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1016",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235686",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:03.225130+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1016",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:30.422976+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1100
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1016",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235686",
+        "source_checked_at_utc": "2026-11-18T09:38:59.007158+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1016.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1017",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235687",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:04.272244+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1017",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:31.594950+00:00",
+        "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1017",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235687",
+        "source_checked_at_utc": "2026-11-18T09:39:04.180844+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1017.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "BLOCKED_API",
+      "reason": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1020",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235690",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:05.315966+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1020",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:31.594978+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1000
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1020",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235690",
+        "source_checked_at_utc": "2026-11-18T09:39:04.183019+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1020.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1021",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235691",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:06.088013+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1021",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:33.244954+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1000
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1021",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235691",
+        "source_checked_at_utc": "2026-11-18T09:39:09.342298+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1021.html",
+        "page_captured_at_utc": "2026-11-18T09:39:12.649642+00:00",
+        "manufacturer_page_sha256": "fdfc66472c748a8c96c0adbaca5280c99932d731b4ea5693b72b90c48482ed48",
+        "manufacturer_MPN": "FB-1021",
+        "product_title": "Ремень ГРМ (128X26MM) Арт. FB-1021",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "13568-11100"
+          ],
+          [
+            "TOYOTA",
+            "13568-11101"
+          ],
+          [
+            "TOYOTA",
+            "13568-19115"
+          ],
+          [
+            "TOYOTA",
+            "13568-19116"
+          ],
+          [
+            "TOYOTA",
+            "13568-YZZ15"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "TOYOTA": 20
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "13568-11100",
+        "OEM": "1356811100",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA CALDINA Estate (_T19_) 92-02",
+            "modification": "1.5 (ET196V_) (5E-FE) 70кВт/95лс 11.1992-05.2002",
+            "url": "https://sufix.pro/selection_parts.html?na_id=125578"
+          },
+          {
+            "model": "TOYOTA CORSA Hatchback (_L4_) 90-94",
+            "modification": "1.5 (EL43_) (5E-FE) 75кВт/102лс 09.1990-09.1994",
+            "url": "https://sufix.pro/selection_parts.html?na_id=125215"
+          },
+          {
+            "model": "TOYOTA CORSA Hatchback (_L4_) 90-94",
+            "modification": "1.5 4WD (EL45_) (5E-FE) 74кВт/101лс 10.1990-09.1994",
+            "url": "https://sufix.pro/selection_parts.html?na_id=124678"
+          },
+          {
+            "model": "TOYOTA CORSA Hatchback (_L5_) 94-99",
+            "modification": "1.5 (EL53_) (5E-FE) 70кВт/95лс 11.1994-09.1999",
+            "url": "https://sufix.pro/selection_parts.html?na_id=26059"
+          },
+          {
+            "model": "TOYOTA CORSA Saloon (_L4_) 90-94",
+            "modification": "1.5 (EL43_) (5E-FE) 75кВт/102лс 09.1990-08.1994",
+            "url": "https://sufix.pro/selection_parts.html?na_id=125198"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1021.1.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T09:47:34.845568+00:00",
+        "photo_sha256": "4595aeb3ecbb9aff2e018beccecbc08fc664efc415501e4c4c9ffb2bd76a81da",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_recovery_succeeded": true,
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-76c8fb6259652bdfa2da79",
+      "retail": 1000,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:52:41.399893+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1022",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235692",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:07.181013+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1022",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:34.455072+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1250
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1022",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235692",
+        "source_checked_at_utc": "2026-11-18T09:39:09.345127+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1022.html",
+        "page_captured_at_utc": "2026-11-18T09:39:12.752398+00:00",
+        "manufacturer_page_sha256": "d96fe16e8f4e3dfaf2748a2c5da6a851d9fda0055a1edef74fa6e8f79b485f41",
+        "manufacturer_MPN": "FB-1022",
+        "product_title": "Ремень ГРМ (129X27MM) Арт. FB-1022",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "13568-70080"
+          ],
+          [
+            "TOYOTA",
+            "13568-70100"
+          ],
+          [
+            "TOYOTA",
+            "13568-79065"
+          ],
+          [
+            "TOYOTA",
+            "13568-79085"
+          ],
+          [
+            "TOYOTA",
+            "13568-79235"
+          ],
+          [
+            "TOYOTA",
+            "13568-YZZ20"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "LEXUS": 2,
+          "TOYOTA": 20
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "13568-70080",
+        "OEM": "1356870080",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA ALTEZZA (_E1_) 99-05",
+            "modification": "2.0 VVTi (GXE10) (1G-FE) 118кВт/160лс 01.1999-07.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=25592"
+          },
+          {
+            "model": "TOYOTA ALTEZZA GITA Estate (_XE1_) 01-05",
+            "modification": "2.0 (GXE10) (1G-FE) 118кВт/160лс 07.2001-07.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=133346"
+          },
+          {
+            "model": "TOYOTA ALTEZZA GITA Estate (_XE1_) 01-05",
+            "modification": "2.0 (GXE10) (1G-FE) 118кВт/160лс 07.2001-07.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=133345"
+          },
+          {
+            "model": "TOYOTA ALTEZZA GITA Estate (_XE1_) 01-05",
+            "modification": "2.0 4WD (GXE10) (1G-FE) 114кВт/155лс 01.2001-12.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=100895"
+          },
+          {
+            "model": "TOYOTA CROWN | CROWN MAJESTA (_S14_, _S13_, _S15_) 91-01",
+            "modification": "2.0 (GS130_, GS131_, GS141_, GS151_) (1G-FE) 99кВт/135лс 01.1995-02.2001",
+            "url": "https://sufix.pro/selection_parts.html?na_id=124344"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1022.2.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T09:47:35.650398+00:00",
+        "photo_sha256": "f79f3a8d2db0ca3f16767c105e21b8ea02bf22a95aded66d17d7b90f500ccc8b",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_recovery_succeeded": true,
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-a9a331c3ffebafe2cf028f",
+      "retail": 1250,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:52:42.881189+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1023",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235693",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:08.260696+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1023",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:35.884390+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 1400
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1023",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235693",
+        "source_checked_at_utc": "2026-11-18T09:39:18.595164+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1023.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1028",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235698",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:09.393857+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1028",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:37.145025+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 700
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1028",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235698",
+        "source_checked_at_utc": "2026-11-18T09:39:18.672935+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1028.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1029",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235699",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:10.109625+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1029",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:38.776375+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1400
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1029",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235699",
+        "source_checked_at_utc": "2026-11-18T09:39:23.766253+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1029.html",
+        "page_captured_at_utc": "2026-11-18T09:39:25.840405+00:00",
+        "manufacturer_page_sha256": "65694847020f8fc29c39e9079db87ceff6d5ccd4a6c009f2ffdb739a69d7f7b7",
+        "manufacturer_MPN": "FB-1029",
+        "product_title": "Ремень ГРМ (137X25.4MM) Арт. FB-1029",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "13568-46010"
+          ],
+          [
+            "TOYOTA",
+            "13568-49025"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "TOYOTA": 17
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "13568-46010",
+        "OEM": "1356846010",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA CROWN | CROWN MAJESTA (_S15_) 95-01",
+            "modification": "2.5 (JZS151) (1JZ-GE) 132кВт/180лс 12.1995-08.2001",
+            "url": "https://sufix.pro/selection_parts.html?na_id=124345"
+          },
+          {
+            "model": "TOYOTA CROWN Estate (_S17_) 99-03",
+            "modification": "2.5 (1JZ-GE) 147кВт/200лс 09.1999-08.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=25309"
+          },
+          {
+            "model": "TOYOTA CROWN Estate (_S17_) 99-03",
+            "modification": "2.5 4WD (1JZ-GE) 147кВт/200лс 09.1999-08.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=28502"
+          },
+          {
+            "model": "TOYOTA MARK II Estate (_X11_) | MARK II BLIT 02-07",
+            "modification": "2.5 4WD (1JZ-GE) 144кВт/196лс 01.2002-06.2007",
+            "url": "https://sufix.pro/selection_parts.html?na_id=124698"
+          },
+          {
+            "model": "TOYOTA MARK II Saloon (_X11_) 00-04",
+            "modification": "2.5 4WD (JZX115) (1JZ-GE) 144кВт/196лс 10.2000-10.2002",
+            "url": "https://sufix.pro/selection_parts.html?na_id=133322"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/FB-1029.2.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T09:47:36.670615+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1031",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235701",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:11.306025+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1031",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:40.298503+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 900
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1031",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235701",
+        "source_checked_at_utc": "2026-11-18T09:39:23.884693+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1031.html",
+        "page_captured_at_utc": "2026-11-18T09:39:25.912162+00:00",
+        "manufacturer_page_sha256": "6c2644ed30f0e90c3b9f3c6f1db69e6e2480f006b4d6324bd18e8a02e1716df8",
+        "manufacturer_MPN": "FB-1031",
+        "product_title": "Ремень ГРМ (137X22MM) Арт. FB-1031",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "LADA",
+            "8450036630"
+          ],
+          [
+            "LADA",
+            "8450056633"
+          ],
+          [
+            "LADA",
+            "21126-1006040"
+          ],
+          [
+            "LADA",
+            "21126-1006040-00"
+          ],
+          [
+            "LADA",
+            "21126-1006040-01"
+          ],
+          [
+            "LADA",
+            "21126-1006040-02"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "LADA": 47
+        },
+        "OEM_make": "LADA",
+        "OEM_raw": "8450036630",
+        "OEM": "8450036630",
+        "fitment_rows": [
+          {
+            "model": "LADA GRANTA (2190_) 11-19",
+            "modification": "1.6 (21902) (21126) 72кВт/98лс 10.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55618"
+          },
+          {
+            "model": "LADA GRANTA (2190_) 11-19",
+            "modification": "1.6 (21907) (21127) 78кВт/106лс 07.2013-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=114384"
+          },
+          {
+            "model": "LADA GRANTA (2190_) 11-19",
+            "modification": "1.6 Sport (21905) (21126) 87кВт/118лс 07.2013-09.2018",
+            "url": "https://sufix.pro/selection_parts.html?na_id=117728"
+          },
+          {
+            "model": "LADA GRANTA (2190_) 11-19",
+            "modification": "1.6 Sport (219059) (21126) 84кВт/114лс 04.2016-01.2019",
+            "url": "https://sufix.pro/selection_parts.html?na_id=129317"
+          },
+          {
+            "model": "LADA GRANTA Estate (2194_) 18-",
+            "modification": "1.6 (21942) (21126) 72кВт/98лс 08.2018-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=132859"
+          }
+        ],
+        "applicability_make": "LADA",
+        "OEM_group_label_as_on_manufacturer_page": "LADA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/FB-1031.1.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T09:47:36.734775+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1033",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235703",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:12.877910+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1033",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:41.849205+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1100
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1033",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235703",
+        "source_checked_at_utc": "2026-11-18T09:39:32.878033+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1033.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1034",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235704",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:13.132176+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1034",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:43.146889+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1050
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1034",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235704",
+        "source_checked_at_utc": "2026-11-18T09:39:32.878580+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1034.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1036",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235706",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:14.196834+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1036",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:44.669135+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1350
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1036",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235706",
+        "source_checked_at_utc": "2026-11-18T09:39:38.216998+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1036.html",
+        "page_captured_at_utc": "2026-11-18T09:39:41.147221+00:00",
+        "manufacturer_page_sha256": "e31cc648ed58b1e8616302a8237aa962ff11ab56bbe242b9ad2bb940133a8f91",
+        "manufacturer_MPN": "FB-1036",
+        "product_title": "Ремень ГРМ (153X29MM) Арт. FB-1036",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "HYUNDAIKIA",
+            "24312-33110"
+          ],
+          [
+            "HYUNDAIKIA",
+            "24312-33120"
+          ],
+          [
+            "HYUNDAIKIA",
+            "24312-33130"
+          ],
+          [
+            "HYUNDAIKIA",
+            "24312-33140"
+          ],
+          [
+            "HYUNDAIKIA",
+            "24312-33150"
+          ],
+          [
+            "HYUNDAIKIA",
+            "24312-33160"
+          ],
+          [
+            "MITSUBISHI",
+            "1145A038"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 110029"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 133115"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 145713"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 171748"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 182291"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 197142"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 326025"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 326059"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 327394"
+          ],
+          [
+            "MITSUBISHI",
+            "MN 187466"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "HYUNDAI": 7,
+          "KIA": 2,
+          "MITSUBISHI": 22
+        },
+        "OEM_make": "HYUNDAIKIA",
+        "OEM_raw": "24312-33110",
+        "OEM": "2431233110",
+        "fitment_rows": [
+          {
+            "model": "HYUNDAI ELANTRA/LANTRA I (J-1) 90-95",
+            "modification": "1.8 i.e. 16V (G4CN) 93кВт/127лс 10.1990-11.1995",
+            "url": "https://sufix.pro/selection_parts.html?na_id=4548"
+          },
+          {
+            "model": "HYUNDAI SANTAMO 99-02",
+            "modification": "2.0 16V (G4JP) 102кВт/139лс 05.1999-12.2002",
+            "url": "https://sufix.pro/selection_parts.html?na_id=15595"
+          },
+          {
+            "model": "HYUNDAI SANTAMO 99-02",
+            "modification": "2.0 16V 4WD (G4CP-D) 102кВт/139лс 05.1999-12.2002",
+            "url": "https://sufix.pro/selection_parts.html?na_id=15596"
+          },
+          {
+            "model": "HYUNDAI SONATA II (Y-2) 88-93",
+            "modification": "2.0 i 16V (G4CP-D) 96кВт/130лс 01.1991-10.1993",
+            "url": "https://sufix.pro/selection_parts.html?na_id=4559"
+          },
+          {
+            "model": "HYUNDAI SONATA III (Y-3) 93-98",
+            "modification": "2.0 i (G4EP) 70кВт/95лс 08.1996-06.1998",
+            "url": "https://sufix.pro/selection_parts.html?na_id=14193"
+          }
+        ],
+        "applicability_make": "HYUNDAI",
+        "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1036.1.jpg",
+        "photo_sha256": "9d9552c675ce7b56b386404d96d4bef591e02da7d693200b8d5aea41bb702c02",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-a5d25aad68ea584ce1bde6",
+      "retail": 1350,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:05.636664+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1038",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235708",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:15.594782+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1038",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:46.088144+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 1350
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1038",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235708",
+        "source_checked_at_utc": "2026-11-18T09:39:38.260916+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1038.html",
+        "page_captured_at_utc": "2026-11-18T09:39:41.252413+00:00",
+        "manufacturer_page_sha256": "68e0a6d8c906dc04ddde1b48ca1e3329a376923b324c3a0a943885f070d14f80",
+        "manufacturer_MPN": "FB-1038",
+        "product_title": "Ремень ГРМ (163X26.7MM) Арт. FB-1038",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "13568-03010"
+          ],
+          [
+            "TOYOTA",
+            "13568-03020"
+          ],
+          [
+            "TOYOTA",
+            "13568-03021"
+          ],
+          [
+            "TOYOTA",
+            "13568-09040"
+          ],
+          [
+            "TOYOTA",
+            "13568-09041"
+          ],
+          [
+            "TOYOTA",
+            "13568-74010"
+          ],
+          [
+            "TOYOTA",
+            "13568-74011"
+          ],
+          [
+            "TOYOTA",
+            "13568-74012"
+          ],
+          [
+            "TOYOTA",
+            "13568-74020"
+          ],
+          [
+            "TOYOTA",
+            "13568-79025"
+          ],
+          [
+            "TOYOTA",
+            "13568-79095"
+          ],
+          [
+            "TOYOTA",
+            "13568-79225"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "DAIHATSU": 3,
+          "TOYOTA": 86
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "13568-03010",
+        "OEM": "1356803010",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA AVENSIS (_T22_) 97-03",
+            "modification": "2.0 (ST220_) (3S-FE) 94кВт/128лс 09.1997-10.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=8926"
+          },
+          {
+            "model": "TOYOTA AVENSIS Estate (_T22_) 97-03",
+            "modification": "2.0 (ST220_) (3S-FE) 94кВт/128лс 09.1997-10.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=8936"
+          },
+          {
+            "model": "TOYOTA AVENSIS Liftback (_T22_) 97-03",
+            "modification": "2.0 (ST220_) (3S-FE) 94кВт/128лс 09.1997-10.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=8931"
+          },
+          {
+            "model": "TOYOTA CALDINA Estate (_T19_) 92-02",
+            "modification": "1.8 (ST190_) (4S-FE) 92кВт/125лс 11.1992-01.1996",
+            "url": "https://sufix.pro/selection_parts.html?na_id=124359"
+          },
+          {
+            "model": "TOYOTA CALDINA Estate (_T19_) 92-02",
+            "modification": "2.0 (ST191) (3S-FE) 93кВт/126лс 02.1992-09.1997",
+            "url": "https://sufix.pro/selection_parts.html?na_id=26286"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1038.1.jpg",
+        "photo_sha256": "eed185b889c446cabfb8dfa9ff433e15b9908fc741db6cc6aec4a937b481f1a8",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-d6b82c3151abc50c450edc",
+      "retail": 1350,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:07.726255+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1039",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235709",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:16.163481+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1039",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:47.632006+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1300
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1039",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235709",
+        "source_checked_at_utc": "2026-11-18T09:39:47.039075+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1039.html",
+        "page_captured_at_utc": "2026-11-18T09:39:52.247397+00:00",
+        "manufacturer_page_sha256": "1532885450e7af87120b2fa8f4fc2d8592f8a3b4e7050809d773e65c86f95b9c",
+        "manufacturer_MPN": "FB-1039",
+        "product_title": "Ремень ГРМ (163X25.4MM) Арт. FB-1039",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "HYUNDAIKIA",
+            "24315-42200"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 300470"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 306981"
+          ],
+          [
+            "MITSUBISHI",
+            "XD 300470"
+          ],
+          [
+            "RENAULT",
+            "77 00 100 119"
+          ],
+          [
+            "RENAULT",
+            "77 00 863 011"
+          ],
+          [
+            "RENAULT",
+            "77 00 875 412"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "HYUNDAI": 31,
+          "KIA": 6,
+          "MITSUBISHI": 37,
+          "RENAULT": 7
+        },
+        "OEM_make": "HYUNDAIKIA",
+        "OEM_raw": "24315-42200",
+        "OEM": "2431542200",
+        "fitment_rows": [
+          {
+            "model": "HYUNDAI GALLOPER I 91-98",
+            "modification": "2.5 TD (4D56-T) 62кВт/85лс 08.1991-07.1998",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16933"
+          },
+          {
+            "model": "HYUNDAI GALLOPER I 91-98",
+            "modification": "2.5 TD intercooler (4D56-T) 70кВт/95лс 08.1991-07.1998",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16934"
+          },
+          {
+            "model": "HYUNDAI GALLOPER II (JK-01) 98-03",
+            "modification": "2.5 TCi D (D4BH) 77кВт/105лс 08.1998-12.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16932"
+          },
+          {
+            "model": "HYUNDAI GALLOPER II (JK-01) 98-03",
+            "modification": "2.5 TD (D4BA, D4BF) 65кВт/88лс 08.1998-12.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16943"
+          },
+          {
+            "model": "HYUNDAI GALLOPER II (JK-01) 98-03",
+            "modification": "2.5 TD intercooler (D4BH) 73кВт/99лс 08.1998-12.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=15145"
+          }
+        ],
+        "applicability_make": "HYUNDAI",
+        "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1039.2.jpg",
+        "photo_sha256": "8d711f2a3adc39d6710492be96739b1876de4d3aaf790aa924bdc182c10e4940",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-fae45885668ab7c0434e03",
+      "retail": 1300,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:09.556492+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1040",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235710",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:17.389342+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1040",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:48.767523+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1100
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1040",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235710",
+        "source_checked_at_utc": "2026-11-18T09:39:47.131906+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1040.html",
+        "page_captured_at_utc": "2026-11-18T09:39:52.247397+00:00",
+        "manufacturer_page_sha256": "c25f2fb59f21d99d2aad8863a6020ef874369daff7c25c491cb852f444bae264",
+        "manufacturer_MPN": "FB-1040",
+        "product_title": "Ремень ГРМ (163X25.4MM) Арт. FB-1040",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "HYUNDAIKIA",
+            "24312-42101"
+          ],
+          [
+            "HYUNDAIKIA",
+            "24315-42101"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 050130"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 060461"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 099707"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 134377"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 197153"
+          ],
+          [
+            "MITSUBISHI",
+            "XD 134377"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "HYUNDAI": 9,
+          "MITSUBISHI": 22
+        },
+        "OEM_make": "HYUNDAIKIA",
+        "OEM_raw": "24312-42101",
+        "OEM": "2431242101",
+        "fitment_rows": [
+          {
+            "model": "HYUNDAI H100 | H150 | GRACE Van 93-03",
+            "modification": "2.5 D (D4BA) 57кВт/78лс 12.1994-03.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=10559"
+          },
+          {
+            "model": "HYUNDAI H100 | H150 | GRACE Van 93-03",
+            "modification": "2.5 D (D4BX) 55кВт/75лс 07.1993-12.1994",
+            "url": "https://sufix.pro/selection_parts.html?na_id=10560"
+          },
+          {
+            "model": "HYUNDAI H100 | H150 | GRACE Van 93-03",
+            "modification": "2.5 TDiC (D4BF) 59кВт/80лс 06.1998-10.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=56036"
+          },
+          {
+            "model": "HYUNDAI H100 Bus (P) 93-00",
+            "modification": "2.5 D (D4BA) 57кВт/78лс 12.1994-03.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=8169"
+          },
+          {
+            "model": "HYUNDAI H100 Bus (P) 93-00",
+            "modification": "2.5 D (D4BX) 55кВт/75лс 07.1993-12.1994",
+            "url": "https://sufix.pro/selection_parts.html?na_id=14190"
+          }
+        ],
+        "applicability_make": "HYUNDAI",
+        "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1040.2.jpg",
+        "photo_sha256": "8be650fe5261702641406c4c6c7b8ee3f77344a593d803c180010a5b83f92074",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-46c61a3f9aa9f4bf155114",
+      "retail": 1100,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:11.209794+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1041",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235711",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:18.182025+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1041",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:50.494784+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1450
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1041",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235711",
+        "source_checked_at_utc": "2026-11-18T09:39:58.090879+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1041.html",
+        "page_captured_at_utc": "2026-11-18T09:40:03.989568+00:00",
+        "manufacturer_page_sha256": "1a5e4686b852ddbfef0301eae6f9908095a374ac910a0c083d6bbefdfce1cb52",
+        "manufacturer_MPN": "FB-1041",
+        "product_title": "Ремень ГРМ (173X25MM) Арт. FB-1041",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "CHERY",
+            "481H-1007073-BA"
+          ],
+          [
+            "CHERY",
+            "481H-1007073-CA"
+          ],
+          [
+            "CHERY",
+            "481H-1007073-EA"
+          ],
+          [
+            "CHERY",
+            "481H-1007077"
+          ],
+          [
+            "FIAT",
+            "7613823"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "CHERY": 17,
+          "FIAT": 9
+        },
+        "OEM_make": "CHERY",
+        "OEM_raw": "481H-1007073-BA",
+        "OEM": "481H1007073BA",
+        "fitment_rows": [
+          {
+            "model": "CHERY A5 | ELARA | FORA 06-",
+            "modification": "1.6 (SQR481F) 88кВт/120лс 01.2011-12.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=113213"
+          },
+          {
+            "model": "CHERY A5 | ELARA | FORA 06-",
+            "modification": "2.0 (SQR484F) 95кВт/129лс 01.2006-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=110122"
+          },
+          {
+            "model": "CHERY CROSSEASTAR 07-",
+            "modification": "2.0 (SQR484F) 100кВт/136лс 06.2007-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=7023"
+          },
+          {
+            "model": "CHERY M11 | A3 Hatchback 09-14",
+            "modification": "1.6 (SQR481F) 88кВт/120лс 01.2009-12.2014",
+            "url": "https://sufix.pro/selection_parts.html?na_id=31213"
+          },
+          {
+            "model": "CHERY M11 | A3 Saloon 08-14",
+            "modification": "1.6 (SQR481F, SQR481FD) 88кВт/120лс 09.2008-12.2010",
+            "url": "https://sufix.pro/selection_parts.html?na_id=29836"
+          }
+        ],
+        "applicability_make": "CHERY",
+        "OEM_group_label_as_on_manufacturer_page": "CHERY",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1041.1.jpg",
+        "photo_sha256": "d609a8dc1e6230613a377b4c9cbd29070ba8b53d2be362e9251ecc65ec4c45f3",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-b0e0cf162793e001046164",
+      "retail": 1450,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:13.246766+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1042",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235712",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:19.035154+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1042",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:51.729935+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1300
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1042",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235712",
+        "source_checked_at_utc": "2026-11-18T09:39:58.091561+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1042.html",
+        "page_captured_at_utc": "2026-11-18T09:40:03.909467+00:00",
+        "manufacturer_page_sha256": "2136688ee41a6c969668b642dad79c2a783080939cd127c8dd1512833e4514bf",
+        "manufacturer_MPN": "FB-1042",
+        "product_title": "Ремень ГРМ (177X25MM) Арт. FB-1042",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "13568-79105"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "TOYOTA": 17
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "13568-79105",
+        "OEM": "1356879105",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA CALDINA Estate (_T19_) 92-02",
+            "modification": "2.0 (ST195) (3S-GE) 129кВт/175лс 07.1994-09.1997",
+            "url": "https://sufix.pro/selection_parts.html?na_id=26289"
+          },
+          {
+            "model": "TOYOTA CALDINA Estate (_T19_) 92-02",
+            "modification": "2.0 4WD (ST195G_) (3S-FE) 94кВт/129лс 11.1992-07.1997",
+            "url": "https://sufix.pro/selection_parts.html?na_id=124992"
+          },
+          {
+            "model": "TOYOTA CALDINA Estate (_T21_) 97-02",
+            "modification": "2.0 4WD (ST215W_) (3S-GTE) 192кВт/261лс 02.2000-09.2001",
+            "url": "https://sufix.pro/selection_parts.html?na_id=26099"
+          },
+          {
+            "model": "TOYOTA CARINA E Saloon (_T19_) | CARINA FF 92-97",
+            "modification": "2.0 GTi (ST191_) (3S-GE) 116кВт/158лс 04.1992-12.1995",
+            "url": "https://sufix.pro/selection_parts.html?na_id=15727"
+          },
+          {
+            "model": "TOYOTA CARINA E Saloon (_T19_) | CARINA FF 92-97",
+            "modification": "2.0 GTi 16V (ST191_) (3S-GE) 129кВт/175лс 03.1994-09.1997",
+            "url": "https://sufix.pro/selection_parts.html?na_id=3850"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1042.2.jpg",
+        "photo_sha256": "26f617b48b237960150ac4a86018ea2f29e2aa6b74ffe2cad186a01fcb3c40a3",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-304d890ec59e0cbfbe5eb6",
+      "retail": 1300,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:14.886930+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1043",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235713",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:20.195965+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1043",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:52.864970+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1400
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1043",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235713",
+        "source_checked_at_utc": "2026-11-18T09:40:09.009271+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1043.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1045",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235715",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:21.209494+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1045",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:54.057305+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 2050
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1045",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235715",
+        "source_checked_at_utc": "2026-11-18T09:40:09.048511+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1045.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1046",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235716",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:22.335435+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1046",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:55.375919+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2100
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1046",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235716",
+        "source_checked_at_utc": "2026-11-18T09:40:14.168226+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1046.html",
+        "page_captured_at_utc": "2026-11-18T09:40:17.158524+00:00",
+        "manufacturer_page_sha256": "c0c7273da12634c86abd71bfc3d49de36701e31247354d814878be33809d0712",
+        "manufacturer_MPN": "FB-1046",
+        "product_title": "Ремень ГРМ (211X34MM) Арт. FB-1046",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "13568-09070"
+          ],
+          [
+            "TOYOTA",
+            "13568-50020"
+          ],
+          [
+            "TOYOTA",
+            "13568-59095"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "LEXUS": 17,
+          "TOYOTA": 31
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "13568-09070",
+        "OEM": "1356809070",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA 4 RUNNER IV (_N21_) 02-09",
+            "modification": "4.7 (UZN210_) (2UZ-FE) 175кВт/238лс 08.2002-09.2006",
+            "url": "https://sufix.pro/selection_parts.html?na_id=49174"
+          },
+          {
+            "model": "TOYOTA 4 RUNNER IV (_N21_) 02-09",
+            "modification": "4.7 (UZN210) (2UZ-FE) 194кВт/264лс 01.2005-12.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=54202"
+          },
+          {
+            "model": "TOYOTA 4 RUNNER IV (_N21_) 02-09",
+            "modification": "4.7 4WD (UZN215_) (2UZ-FE) 175кВт/238лс 08.2002-09.2006",
+            "url": "https://sufix.pro/selection_parts.html?na_id=49175"
+          },
+          {
+            "model": "TOYOTA 4 RUNNER IV (_N21_) 02-09",
+            "modification": "4.7 4WD (UZN215) (2UZ-FE) 194кВт/264лс 01.2005-12.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=54201"
+          },
+          {
+            "model": "TOYOTA ARISTO (_S14_) 90-97",
+            "modification": "4.0 4WD (UZS143) (1UZ-FE) 173кВт/235лс 10.1992-07.1997",
+            "url": "https://sufix.pro/selection_parts.html?na_id=27404"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1046.1.jpg",
+        "photo_sha256": "652eb7ba8f7cbe3d2abfbc2a3fcfd5d966d3c667537831cf6219ba298580f3de",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-ed73de9b19b6873764a2e0",
+      "retail": 2100,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:16.635988+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1047",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235717",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:23.152396+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1047",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:56.834969+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1850
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1047",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235717",
+        "source_checked_at_utc": "2026-11-18T09:40:14.207796+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1047.html",
+        "page_captured_at_utc": "2026-11-18T09:40:17.222424+00:00",
+        "manufacturer_page_sha256": "ffc4c8b8953cb7de7665fae4348b70806f385e2101d0ada8fb86caac62664972",
+        "manufacturer_MPN": "FB-1047",
+        "product_title": "Ремень ГРМ (223X27MM) Арт. FB-1047",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "SUBARU",
+            "13028-AA181"
+          ],
+          [
+            "SUBARU",
+            "13028-AA21A"
+          ],
+          [
+            "SUBARU",
+            "13028-AA21B"
+          ],
+          [
+            "SUBARU",
+            "13028-AA21C"
+          ],
+          [
+            "SUBARU",
+            "13028-AA230"
+          ],
+          [
+            "SUBARU",
+            "13028-AA231"
+          ],
+          [
+            "SUBARU",
+            "13160-AA080"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "SUBARU": 48
+        },
+        "OEM_make": "SUBARU",
+        "OEM_raw": "13028-AA181",
+        "OEM": "13028AA181",
+        "fitment_rows": [
+          {
+            "model": "SUBARU FORESTER (SF_, S10) 97-02",
+            "modification": "2.0 AWD (SF5) (EJ202) 92кВт/125лс 06.1998-09.2002",
+            "url": "https://sufix.pro/selection_parts.html?na_id=10160"
+          },
+          {
+            "model": "SUBARU FORESTER (SF_, S10) 97-02",
+            "modification": "2.5 AWD (SF6, SF9) (EJ25) 123кВт/167лс 07.1997-05.2002",
+            "url": "https://sufix.pro/selection_parts.html?na_id=30069"
+          },
+          {
+            "model": "SUBARU FORESTER (SG_, S11) 02-12",
+            "modification": "2.0 AWD (SG5) (EJ201) 92кВт/125лс 06.2002-05.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16998"
+          },
+          {
+            "model": "SUBARU FORESTER (SG_, S11) 02-12",
+            "modification": "2.0 X AWD (SG5) (EJ201, EJ204) 116кВт/158лс 06.2005-05.2008",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19156"
+          },
+          {
+            "model": "SUBARU FORESTER (SG_, S11) 02-12",
+            "modification": "2.5 AWD (SG9) (EJ251) 112кВт/152лс 06.2002-05.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=57190"
+          }
+        ],
+        "applicability_make": "SUBARU",
+        "OEM_group_label_as_on_manufacturer_page": "SUBARU",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1047.1.jpg",
+        "photo_sha256": "e75a5ea77a5b00c505447980e4348a9be91607c2c6f7ad782aa5b1ab6d519092",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-546366ed326b0a46acd863",
+      "retail": 1850,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:18.397981+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1051",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235721",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:24.230520+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1051",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:58.111459+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 450
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1051",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235721",
+        "source_checked_at_utc": "2026-11-18T09:40:22.176604+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1051.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1052",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235722",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:25.156606+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1052",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:39:59.290788+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 500
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1052",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235722",
+        "source_checked_at_utc": "2026-11-18T09:40:22.275328+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/FB-1052.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SKIPPED_SOURCE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1057",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026829746",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:27.217917+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1057",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:40:01.483562+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 1100
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1057",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026829746",
+        "source_checked_at_utc": "2026-11-18T09:40:27.337562+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1057.html",
+        "page_captured_at_utc": "2026-11-18T09:40:29.466127+00:00",
+        "manufacturer_page_sha256": "5e791a349dca7afc1f9708deda66e289400df16f8f1022b674190e2919a2de03",
+        "manufacturer_MPN": "FB-1057",
+        "product_title": "Ремень ГРМ (132X27MM, HNBR) Арт. FB-1057",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "NISSAN",
+            "16806-00Q0H"
+          ],
+          [
+            "NISSAN",
+            "16806-00Q0M"
+          ],
+          [
+            "NISSAN",
+            "16806-00Q1M"
+          ],
+          [
+            "RENAULT",
+            "82 01 069 699"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "LADA": 3,
+          "NISSAN": 3,
+          "RENAULT": 51
+        },
+        "OEM_make": "NISSAN",
+        "OEM_raw": "16806-00Q0H",
+        "OEM": "1680600Q0H",
+        "fitment_rows": [
+          {
+            "model": "NISSAN ALMERA III (G15) 12-",
+            "modification": "1.6 (G15) (K4M) 75кВт/102лс 12.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=115340"
+          },
+          {
+            "model": "NISSAN TERRANO (D10) 14-",
+            "modification": "1.6 (K4M) 75кВт/102лс 03.2014-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=126706"
+          },
+          {
+            "model": "NISSAN TERRANO (D10) 14-",
+            "modification": "1.6 4WD (K4M) 75кВт/102лс 03.2014-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=133847"
+          }
+        ],
+        "applicability_make": "NISSAN",
+        "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1057.2.jpg",
+        "photo_sha256": "7978f99995e40dac62c5f212aefcda72fd7a479c2598af8b41c091fcb413e18c",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-3de204fe28cec7869a91b8",
+      "retail": 1100,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:20.075433+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1055",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0026235725",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:27.403135+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1055",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:40:03.128883+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 950
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1055",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0026235725",
+        "source_checked_at_utc": "2026-11-18T09:40:27.432628+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1055.html",
+        "page_captured_at_utc": "2026-11-18T09:40:29.524447+00:00",
+        "manufacturer_page_sha256": "8aae786edaea79cf53562925718a0f3961cb7fbffceb11529f0d673998d5161c",
+        "manufacturer_MPN": "FB-1055",
+        "product_title": "Ремень ГРМ (99X19.1MM, HNBR) Арт. FB-1055",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "DAIHATSU",
+            "13514-87205"
+          ],
+          [
+            "HYUNDAIKIA",
+            "23356-42500"
+          ],
+          [
+            "MITSUBISHI",
+            "1145A081"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 300473"
+          ],
+          [
+            "MITSUBISHI",
+            "MD 310484"
+          ],
+          [
+            "MITSUBISHI",
+            "XD 310484"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "HYUNDAI": 31,
+          "KIA": 6,
+          "MITSUBISHI": 47
+        },
+        "OEM_make": "HYUNDAIKIA",
+        "OEM_raw": "23356-42500",
+        "OEM": "2335642500",
+        "fitment_rows": [
+          {
+            "model": "HYUNDAI GALLOPER I 91-98",
+            "modification": "2.5 TD (4D56-T) 62кВт/85лс 08.1991-07.1998",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16933"
+          },
+          {
+            "model": "HYUNDAI GALLOPER I 91-98",
+            "modification": "2.5 TD intercooler (4D56-T) 70кВт/95лс 08.1991-07.1998",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16934"
+          },
+          {
+            "model": "HYUNDAI GALLOPER II (JK-01) 98-03",
+            "modification": "2.5 TCi D (D4BH) 77кВт/105лс 08.1998-12.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16932"
+          },
+          {
+            "model": "HYUNDAI GALLOPER II (JK-01) 98-03",
+            "modification": "2.5 TD (D4BA, D4BF) 65кВт/88лс 08.1998-12.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16943"
+          },
+          {
+            "model": "HYUNDAI GALLOPER II (JK-01) 98-03",
+            "modification": "2.5 TD intercooler (D4BH) 73кВт/99лс 08.1998-12.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=15145"
+          }
+        ],
+        "applicability_make": "HYUNDAI",
+        "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1055.2.jpg",
+        "photo_sha256": "4fab1756201f8d309c1169b8f61a4127c82a66ebd1043bceb505f0f9aed4e513",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-12a1ed1e8dd59d0d832ffe",
+      "retail": 950,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:21.940135+00:00"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "FB1068",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0027135326",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:28.092257+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_review": {
+        "brand": "SUFIX",
+        "article": "FB1068",
+        "category": "Ремни ГРМ",
+        "checked_at_utc": "2026-11-18T09:40:04.504555+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 3800
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "FB1068",
+        "category": "Ремни ГРМ",
+        "supplier_nomenclature": "NSII0027135326",
+        "source_checked_at_utc": "2026-11-18T09:40:34.568437+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/FB-1068.html",
+        "page_captured_at_utc": "2026-11-18T09:40:41.497579+00:00",
+        "manufacturer_page_sha256": "e5a01b2964fe0505afbe3db5aa1e7c10f6d78e7a19965950c5eadb2628812630",
+        "manufacturer_MPN": "FB-1068",
+        "product_title": "Ремень ГРМ Арт. FB-1068",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "VAG",
+            "078 109 119 C"
+          ],
+          [
+            "VAG",
+            "078 109 119 G"
+          ],
+          [
+            "VAG",
+            "078 109 119 H"
+          ],
+          [
+            "VAG",
+            "078 109 119 J"
+          ],
+          [
+            "VAG",
+            "078 903 137 H"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "AUDI": 67,
+          "SKODA": 1,
+          "VOLKSWAGEN": 16
+        },
+        "OEM_make": "VAG",
+        "OEM_raw": "078 109 119 C",
+        "OEM": "078109119C",
+        "fitment_rows": [
+          {
+            "model": "AUDI A4 B5 (8D2) 94-01",
+            "modification": "2.4 (AGA, ALF, AML, APS, ARJ) 121кВт/165лс 03.1997-11.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=8352"
+          },
+          {
+            "model": "AUDI A4 B5 (8D2) 94-01",
+            "modification": "2.4 (AJG, AMM, APZ) 120кВт/163лс 08.1997-11.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16705"
+          },
+          {
+            "model": "AUDI A4 B5 (8D2) 94-01",
+            "modification": "2.4 quattro (AGA, ALF, AML, APS, ARJ) 121кВт/165лс 03.1997-11.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=8353"
+          },
+          {
+            "model": "AUDI A4 B5 (8D2) 94-01",
+            "modification": "2.4 quattro (AJG, APZ) 120кВт/163лс 08.1997-11.2000",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16706"
+          },
+          {
+            "model": "AUDI A4 B5 (8D2) 94-01",
+            "modification": "2.8 (AAH, AFC) 128кВт/174лс 09.1995-07.1997",
+            "url": "https://sufix.pro/selection_parts.html?na_id=4617"
+          }
+        ],
+        "applicability_make": "AUDI",
+        "OEM_group_label_as_on_manufacturer_page": "VAG",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/FB-1068.1.jpg",
+        "photo_sha256": "dc6eedf5e7bd7f8dad8cb6055a5ebb0fbffbb745150f73be331a0097dba489e0",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-edb5d627c8b5ff51ae16f1",
+      "retail": 3800,
+      "reason": "",
+      "final_API_checked_at_utc": "2026-11-18T09:46:23.456291+00:00"
+    }
+  ]
+}

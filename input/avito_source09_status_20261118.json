@@ -3,7 +3,7 @@
   "scope": 53,
   "status_counts": {
     "SKIPPED_SOURCE": 48,
-    "SOURCE_BUNDLE_VERIFIED_PENDING_RELEASE": 2,
+    "BLOCKED_AT_RELEASE": 2,
     "BLOCKED_API": 3
   },
   "publication_performed": false,
@@ -1433,9 +1433,14 @@
         ]
       },
       "publication_performed": false,
-      "status": "SOURCE_BUNDLE_VERIFIED_PENDING_RELEASE",
-      "reason": "not in published exact scope; fresh checks required at release",
-      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+      "status": "BLOCKED_AT_RELEASE",
+      "reason": "manufacturer_evidence_ValueError",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "release_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1325",
+        "reason": "manufacturer_evidence_ValueError"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -1844,9 +1849,14 @@
         ]
       },
       "publication_performed": false,
-      "status": "SOURCE_BUNDLE_VERIFIED_PENDING_RELEASE",
-      "reason": "not in published exact scope; fresh checks required at release",
-      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+      "status": "BLOCKED_AT_RELEASE",
+      "reason": "manufacturer_evidence_ValueError",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "release_review": {
+        "brand": "LYNXauto",
+        "article": "7PK1785",
+        "reason": "manufacturer_evidence_ValueError"
+      }
     },
     {
       "brand": "LYNXauto",
@@ -2871,5 +2881,8 @@
       "status": "SKIPPED_SOURCE",
       "reason": "ReadTimeout"
     }
-  ]
+  ],
+  "published_count": 0,
+  "latest_review_run_id": 44277061615,
+  "XML_observed_after_prepared_release": 517
 }
