@@ -22,23 +22,25 @@ def fetch(url):
     return data
 
 
+class CDNPurgeThrottled(ValueError):
+    def __init__(self, seconds):
+        self.retry_after_seconds=max(0,int(seconds or 0))
+        super().__init__('CDN purge throttled; retry after '+str(self.retry_after_seconds)+' seconds')
+
 def refresh(expected, *, getter=fetch, sleeper=time.sleep):
-    root = ET.fromstring(expected)
-    count = len(root.findall('Ad'))
-    if root.tag != 'Ads' or root.get('formatVersion') != '3' or not 150 <= count <= 650:
-        raise ValueError('Unexpected validated Avito XML')
-    digest = hashlib.sha256(expected).hexdigest()
-    result = json.loads(getter(PURGE))
-    if result.get('status') not in ('finished', 'pending', 'processing'):
-        raise ValueError('CDN refresh request not accepted')
+    root=ET.fromstring(expected);count=len(root.findall('Ad'))
+    if root.tag!='Ads' or root.get('formatVersion')!='3' or not 150<=count<=650:raise ValueError('Unexpected validated Avito XML')
+    digest=hashlib.sha256(expected).hexdigest()
+    def result():return {'ads':count,'sha256':digest,'cdn_exact_bytes_verified':True}
+    if hashlib.sha256(getter(CDN)).hexdigest()==digest:return result()
+    response=json.loads(getter(PURGE))
+    if response.get('status') not in ('finished','pending','processing'):raise ValueError('CDN refresh request not accepted')
+    statuses=response.get('paths',{})
+    if any(isinstance(v,dict) and v.get('throttled') for v in statuses.values()):
+        raise CDNPurgeThrottled(max(v.get('throttlingReset',0) for v in statuses.values() if isinstance(v,dict) and v.get('throttled')))
     for attempt in range(12):
-        if attempt and attempt % 3 == 0:
-            result=json.loads(getter(PURGE))
-            if result.get('status') not in ('finished','pending','processing'):raise ValueError('Repeated CDN refresh request not accepted')
-        if hashlib.sha256(getter(CDN)).hexdigest() == digest:
-            return {'ads': count, 'sha256': digest, 'cdn_exact_bytes_verified': True}
-        if attempt < 11:
-            sleeper(10)
+        if hashlib.sha256(getter(CDN)).hexdigest()==digest:return result()
+        if attempt<11:sleeper(10)
     raise ValueError('CDN still serves different XML bytes after refresh')
 
 
