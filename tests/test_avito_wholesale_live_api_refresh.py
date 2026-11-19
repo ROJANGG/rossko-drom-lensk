@@ -41,7 +41,7 @@ class WholesaleAvitoOnlyTests(unittest.TestCase):
         def search(brand,article,group,cost,quantity):
             calls.append((brand,article,group))
             return {"status":"опт_Иркутск_подтвержден",
-                    "api_irkutsk_same_delivery_price_rub":"1700",
+                    "api_irkutsk_same_delivery_price_rub":"1837",
                     "api_irkutsk_stock_ids":"IRK1",
                     "supplier_list_price_rub":"2000"}
         updated,fresh,report=compare_and_build(
@@ -69,7 +69,7 @@ class WholesaleAvitoOnlyTests(unittest.TestCase):
         def search(brand,article,group,cost,quantity):
             counter[0]+=1
             return {"status":"опт_Иркутск_подтвержден" if counter[0]<=40 else "сбой_API_Timeout",
-                    "api_irkutsk_same_delivery_price_rub":"1700",
+                    "api_irkutsk_same_delivery_price_rub":"1837",
                     "api_irkutsk_stock_ids":"IRK1",
                     "supplier_list_price_rub":"2000"}
         with self.assertRaisesRegex(RuntimeError,"success rate insufficient"):
@@ -80,7 +80,7 @@ class WholesaleAvitoOnlyTests(unittest.TestCase):
         approved=list_approved(xml)
         def search(brand,article,group,cost,quantity):
             return {"status":"опт_Иркутск_подтвержден",
-                    "api_irkutsk_same_delivery_price_rub":"1700",
+                    "api_irkutsk_same_delivery_price_rub":"1837",
                     "api_irkutsk_stock_ids":"IRK1",
                     "supplier_list_price_rub":"1000"}
         with self.assertRaisesRegex(RuntimeError,"success rate insufficient"):
@@ -96,7 +96,7 @@ class WholesaleAvitoOnlyTests(unittest.TestCase):
         def search(brand,article,group,cost,quantity):
             calls.append(article)
             return {"status":"опт_Иркутск_подтвержден",
-                    "api_irkutsk_same_delivery_price_rub":"1700",
+                    "api_irkutsk_same_delivery_price_rub":"1837",
                     "api_irkutsk_stock_ids":"IRK1",
                     "supplier_list_price_rub":"2000"}
         compare_and_build(approved,stock,old,search,sleeper=lambda _:None)
