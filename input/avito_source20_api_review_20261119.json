@@ -1,0 +1,814 @@
+{
+  "batch_size": 100,
+  "API_requests_attempted": 99,
+  "results": [
+    {
+      "brand": "555",
+      "article": "SL1610L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:17.871320+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL1610R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:20.124904+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL1615M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:21.788334+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL1650",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:23.724122+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SL1760M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:26.445646+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL1825",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:28.451243+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL1825M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:29.701487+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL1860",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:30.640090+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "555",
+      "article": "SL2805M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:32.544147+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 8
+    },
+    {
+      "brand": "555",
+      "article": "SL2935",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:33.845073+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 6
+    },
+    {
+      "brand": "555",
+      "article": "SL2990L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:35.214028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL2990LM",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:36.927787+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL2990R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:38.223633+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL2990RM",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:39.881424+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "555",
+      "article": "SL3340",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:41.148691+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SL3340M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:43.189013+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL3560",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:44.667142+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 6
+    },
+    {
+      "brand": "555",
+      "article": "SL3565",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:46.259178+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL3640",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:47.995805+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 6
+    },
+    {
+      "brand": "555",
+      "article": "SL3640M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:50.687897+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL3655M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:52.703778+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SL3690R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:53.874457+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "555",
+      "article": "SL3750",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:55.227999+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SL3755",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:57.138903+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 6
+    },
+    {
+      "brand": "555",
+      "article": "SL3755M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:32:59.174376+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL3770L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:00.661817+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL3770LM",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:01.966765+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL3770R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:02.996338+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL3770RM",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:04.336333+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL3775",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:05.473234+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SL3775M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:06.619294+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL3830",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:07.712051+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SL3845",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:08.988160+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 6
+    },
+    {
+      "brand": "555",
+      "article": "SL3860",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:10.771853+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL3890L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:11.850398+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "555",
+      "article": "SL3890RM",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:11.850421+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL4840",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:13.281953+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL3920",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:14.747324+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL4855B",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:17.194036+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL4910L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:18.235201+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL4910R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:19.929753+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL4915",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:21.544650+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL6270R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:23.233384+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL6280L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:24.861607+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL6285L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:26.111637+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL6285R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:27.600269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL6650",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:29.023620+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SL6685",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:30.777364+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL7390",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:32.050365+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL7660",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:34.214546+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SL7720L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:36.251946+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL7720R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:37.413596+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SL7840L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:38.785880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL7845L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:40.206920+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL7845LM",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:41.461203+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL7845R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:42.774114+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SL7950L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:44.226015+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLB015L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:45.790605+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLB010",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:47.633683+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SLB100M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:50.963759+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLC045R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:52.267006+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLH025L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:53.089455+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLH025R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:54.639420+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLH110",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:56.454554+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLH130",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:57.834980+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SLH210",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:33:58.976654+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLH270L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:00.623751+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLH270R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:01.743563+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLH280L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:02.983812+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 6
+    },
+    {
+      "brand": "555",
+      "article": "SLH325L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:04.206555+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLH325LM",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:05.448285+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLH325R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:06.333163+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLH325RM",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:07.341405+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLK8040",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:08.268457+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SLK8140",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:10.673137+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SLK8470",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:13.980649+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLK8545",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:15.898752+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "555",
+      "article": "SLN130L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:17.673344+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLN130R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:19.126373+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLN150L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:20.632896+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLN270",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:23.015231+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLN325L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:25.167224+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLN540L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:26.314966+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLN540R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:27.503845+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLN690L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:28.800823+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "555",
+      "article": "SLN690R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:29.739632+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLS075",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:30.657064+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLT010",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:31.774489+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLT020",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:33.033790+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 10
+    },
+    {
+      "brand": "555",
+      "article": "SLT220",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:34.761533+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SLT220M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:37.778338+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLT226B",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:39.474863+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLT275",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:41.194956+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLT340",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:42.511070+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SLT455",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:44.665711+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "555",
+      "article": "SLT340M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:46.428791+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLT455M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:48.478413+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLT490",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:50.066283+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "555",
+      "article": "SLT490M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:52.348688+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "555",
+      "article": "SLT780M",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:34:54.171763+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    }
+  ],
+  "status_counts": {
+    "Иркутск_есть_иной_срок": 99,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1
+  },
+  "ready_for_full_source_review": [],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}

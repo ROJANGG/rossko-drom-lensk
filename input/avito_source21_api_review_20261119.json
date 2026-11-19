@@ -1,0 +1,809 @@
+{
+  "batch_size": 100,
+  "API_requests_attempted": 94,
+  "results": [
+    {
+      "brand": "CTR",
+      "article": "CL0010L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:35.678131+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0010R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:37.286631+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0033L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:39.144234+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0033R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:40.471426+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0045L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:41.772841+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0045R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:43.072614+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0034",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:44.368555+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 6
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0052L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:48.029521+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0052R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:49.235732+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0060",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:50.519065+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0066",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:52.839113+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0086",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:54.440783+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0107",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:56.890512+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0120",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:35:59.412818+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 100
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0136",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:02.282555+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0139",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:04.003957+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0140",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:05.397052+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0143",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:07.162133+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0144",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:08.915303+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0145",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:10.639075+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0146",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:12.167286+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0149",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:13.712071+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0150",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:15.074042+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0151",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:16.382031+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0152",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:17.715627+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0154",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:19.409315+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0155",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:20.760246+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0158",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:22.017296+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0159",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:23.516290+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0160",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:24.856480+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0161",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:26.191383+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0164",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:27.687033+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0169",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:28.947122+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0170",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:30.418638+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0176",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:31.836011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0177",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:33.208166+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0180",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:34.395872+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0181",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:35.869298+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0182",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:37.600295+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0183",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:39.000141+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0186",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:40.440853+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0189",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:42.232331+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0190",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:43.656626+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0191",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:44.927497+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0192",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:46.109409+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0193",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:47.579929+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0194",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:49.082468+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0195",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:50.676282+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0201",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:50.676308+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 10
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0203",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:52.111458+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0204",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:53.879531+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0205",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:55.430479+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0206",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:56.937446+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 10
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0211L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:58.259880+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0211R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:36:59.455632+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0220L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:00.935830+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0220R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:01.998960+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0221L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:03.161160+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0221R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:04.604646+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0222L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:04.604676+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0222R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:05.827671+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0224",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:06.980024+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0228L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:07.990543+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0228R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:09.180056+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0240",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:10.387105+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0241",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:12.638915+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0247",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:14.906925+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0242",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:16.499894+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0249",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:18.947808+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 8
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0254",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:21.586053+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 6
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0258L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:23.983109+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0258R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:25.428385+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0261L",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:27.095309+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0261R",
+      "category": "Стойки стабилизатора",
+      "checked_at_utc": "2026-11-19T13:37:30.087349+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5027",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:32.636352+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5057XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:33.825481+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5202XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:35.003923+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 10
+    },
+    {
+      "brand": "Gates",
+      "article": "5210",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:36.331113+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5214XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:37.395443+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5222",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:38.519246+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5228XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:40.040114+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5235XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:41.097764+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5257XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:42.204082+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Gates",
+      "article": "5274XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:43.789282+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5282XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:45.003670+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5283XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:46.208019+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5299",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:47.280349+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5300XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:48.584267+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5306",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:49.663991+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Gates",
+      "article": "5318XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:49.664017+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5341XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:50.792734+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Gates",
+      "article": "5355XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:50.792761+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5358XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:51.882800+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5373XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:52.968541+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5374XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:54.190819+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5384XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:55.425894+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Gates",
+      "article": "5386XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:55.425918+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5389XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:56.591429+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Gates",
+      "article": "5403XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:57.694087+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Gates",
+      "article": "5404XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:37:57.694113+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    }
+  ],
+  "status_counts": {
+    "Иркутск_есть_иной_срок": 94,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 6
+  },
+  "ready_for_full_source_review": [],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}

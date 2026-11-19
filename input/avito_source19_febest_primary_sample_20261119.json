@@ -1,0 +1,36 @@
+{
+  "manufacturer_page": "https://febest.de/en/details/outer_cv_joint_29x56x26-0110_008",
+  "manufacturer_page_sha256": "ede28c05e1dfae5392f1803cc741c76e85e974bb5d333e166bc6ffec460c6b72",
+  "manufacturer_MPN": "Code: 0110-008",
+  "product_title": "OUTER CV JOINT 29X56X26",
+  "manufacturer_explicit_OEM_values": [
+    "43460-09040"
+  ],
+  "manufacturer_models": [
+    "PONTIAC VIBE 2003-2010 [EU]",
+    "PONTIAC VIBE 2003-2010 [GMIO]",
+    "PONTIAC VIBE 2003-2010 [GMNA]",
+    "PONTIAC VIBE 2003-2010 [NA]",
+    "TOYOTA CAMRY (NAP) SV2#,VZV21 1988.07-1991.09 [US]",
+    "TOYOTA COROLLA AE10#,CE10#,EE10# 1991.06-2002.06 [JP]",
+    "TOYOTA COROLLA AE11#,CE11#,EE111 1995.05-2000.08 [JP]",
+    "TOYOTA COROLLA HB/LB AE10#,EE100 1992.05-1997.10 [GR]",
+    "TOYOTA COROLLA JPP AE10# 1992.06-1997.04 [EU]",
+    "TOYOTA COROLLA JPP AE10# 1992.06-1997.04 [US]",
+    "TOYOTA COROLLA NAP/SED AE10# 1992.09-1997.08 [US]",
+    "TOYOTA COROLLA NAP/SED AE92 1987.08-1992.09 [US]",
+    "TOYOTA COROLLA SED (JPP) ZZE130 2002.04-2007.06 [US]",
+    "TOYOTA COROLLA SED/CP/WG AE10#,CE100,EE10# 1991.08-2001.11 [GR]",
+    "TOYOTA COROLLA/ALTIS SED/WG CE120,NZE12#,ZZE12# 2000.08-2008.08 [GR]",
+    "TOYOTA COROLLA/MATRIX (NAP) ZZE13# 2002.01-2008.01 [US]",
+    "TOYOTA LEVIN/TRUENO AE11# 1995.05-2000.08 [JP]",
+    "TOYOTA LVN/CRE/TRN/MRN AE10# 1991.06-1998.08 [JP]",
+    "TOYOTA SPRINTER AE10#,CE10#,EE10# 1991.06-2002.06 [JP]",
+    "TOYOTA SPRINTER AE11#,CE11#,EE111 1995.05-2000.08 [JP]",
+    "TOYOTA VOLTZ ZZE13# 2002.05-2004.02 [JP]"
+  ],
+  "photo_url": "https://static.febest.de/images/big/k/k1fbv82_p0.jpg",
+  "photo_visual_review_performed": false,
+  "publication_performed": false,
+  "eligibility": "BLOCKED_BY_CURRENT_API_ZERO_DAY_GATE"
+}

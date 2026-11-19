@@ -1,0 +1,808 @@
+{
+  "batch_size": 100,
+  "API_requests_attempted": 93,
+  "results": [
+    {
+      "brand": "Master KiT",
+      "article": "77BGH015",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:13.540082+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH054",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:14.820674+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH066",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:15.877898+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH069",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:17.307713+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH070",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:18.412096+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH072",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:19.555394+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH089",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:20.875738+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH094",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:21.964809+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH095",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:23.090305+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH1041",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:24.577110+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH1177",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:25.683503+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH1166",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:26.743631+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH227",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:27.845335+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH290",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:29.054819+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH295",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:30.192990+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH345",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:31.388330+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH471",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:32.386351+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH488",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:33.580033+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH489",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:34.643087+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH520",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:35.631292+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH545",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:36.822159+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH554",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:38.092990+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH556",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:39.221621+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH906",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:39.221646+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH971",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:39.221652+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH984",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:40.385285+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH985",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:41.389238+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "612941500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:42.554079+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613128000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:43.585055+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613165500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:45.034938+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613167500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:46.089027+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613195510",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:47.263612+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613307000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:48.478805+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613313000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:49.798692+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613407500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:49.798718+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613483000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:50.893318+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613650500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:50.893345+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613724000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:51.840997+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613747500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:54.270702+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615262010",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:55.470965+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615284500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:56.507137+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615286500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:57.535088+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615287000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:58.611049+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615294530",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:41:59.855741+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615294540",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:00.873985+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615316000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:00.874011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615330000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:01.819201+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615342500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:03.172806+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615351500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:04.527530+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615388000",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:05.598144+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "169750",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:07.703308+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "124474",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:08.750054+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Elring",
+      "article": "176960",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:09.908596+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Elring",
+      "article": "177010",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:11.177671+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Elring",
+      "article": "193500",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:12.133304+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Elring",
+      "article": "197710",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:13.132078+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Elring",
+      "article": "197720",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:14.081311+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Elring",
+      "article": "265481",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:14.996640+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Elring",
+      "article": "270450",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:14.996666+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "354240",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:16.072961+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "540470",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:17.354304+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Elring",
+      "article": "707860",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:18.504439+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "708040",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:19.664913+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "828254",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:21.125912+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "864250",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:22.195142+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "920232",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:23.287494+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Elring",
+      "article": "920460",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:24.390547+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10101",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:25.800609+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10109",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:25.800635+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10110",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:26.990532+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10113",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:27.946001+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10304",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:28.759305+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10506",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:29.991484+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10507",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:31.173812+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10801",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:32.331144+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10802",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:33.374977+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10835",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:34.595657+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10901",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:35.655718+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11004",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:36.832623+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11013",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:37.914303+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11015",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:39.105893+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11018",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:40.186049+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11019",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:41.166492+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11101",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:42.258688+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11102",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:43.539810+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11103",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:44.891190+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11106",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:45.904045+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11403",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:46.850998+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11404",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:47.863749+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11405",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:48.938139+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11413",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:49.921893+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11414",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:51.193428+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11701",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:52.355334+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11801",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:54.090841+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11901",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:55.180708+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11903",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:56.316248+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11911",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:57.400318+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11914",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:58.587386+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11915",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:42:59.537485+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11916",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-19T13:43:00.665588+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    }
+  ],
+  "status_counts": {
+    "Иркутск_есть_иной_срок": 93,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 7
+  },
+  "ready_for_full_source_review": [],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}

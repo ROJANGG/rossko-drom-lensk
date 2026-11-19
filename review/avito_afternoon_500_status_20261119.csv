@@ -1,0 +1,501 @@
+batch;brand;article;category;status;api_status;API_checked_at_utc;source_review_status;publication_performed;reason
+source19;Febest;0110008;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:24.311954+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110009A48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:25.325969+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110010A48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:26.945968+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110054A48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:28.234324+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110055A48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:29.562689+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;01101NZFE;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:30.792601+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110ASV50LA48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:32.211242+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110AXVA70;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:33.600171+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110GRN245;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:34.543680+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110KSP90Z19;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:35.628214+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110ZGX10;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:37.481105+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0110ZZE132A48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:38.395483+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;01111SZFE;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:39.406391+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111ACV30RH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:40.554160+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111AZT250LH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:41.765371+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111GSV40LH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:42.821051+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111KSP130;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:43.958129+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111MCX20RH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:44.956788+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111MHU38R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:46.097958+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111NZE140;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:47.111405+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111ST215RH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:48.448351+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0111ZRE142;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:49.744734+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115090;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:50.639400+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;01152UZFE;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:52.214893+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115ACA20RT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:53.491067+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115ACA33RT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:54.565104+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115ACU35RT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:55.713198+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115ACV30LHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:56.833381+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115AXAH54RT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:58.088568+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115AZT251TRH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:27:59.057797+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115GRJ120T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:00.395824+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115GRJ150T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:01.833276+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115GSU35LHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:04.101794+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115GSX30RHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:07.099329+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115KLH18;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:08.550049+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115KUN26T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:09.717861+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115MCV30;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:10.993398+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115MHU38R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:13.189930+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115PASV70T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:14.336513+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115ZNRRHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:15.415534+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115ZRT270T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:16.447745+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0115ZZE150T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:17.827876+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117074;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:19.278341+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117NCP90;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:20.296334+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117NGJ10;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:21.897096+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117090;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:22.952575+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117P1NZFE;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:24.721193+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117P067;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:26.174655+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117P200;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:27.682623+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117PACA33R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:28.821901+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117PACV40;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:30.081717+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117PAXAH54R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:31.976521+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117PGRJ150;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:32.964397+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117PKUN26;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:34.081613+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0117PZZE150;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:35.286712+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0210T32R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:36.729919+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0210V10A44;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:38.066085+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0211J32QR25FLH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:39.274231+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215071T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:40.527538+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215C11XT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:41.781529+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215F15T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:42.944915+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215J1016;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:44.143300+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215J32T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:45.486073+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215L32T;ШРУС;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:28:46.566364+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source19;Febest;0215R51T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:46.566394+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215S14T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:47.677597+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215Y62;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:48.783701+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0215Z51T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:49.754906+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0217PB30;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:51.098817+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0217PE11;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:52.639395+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0217PJ1016;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:53.965020+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0217PJ1020;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:55.413463+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0217PN16;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:57.427269+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0217PV42;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:28:59.085728+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0217PY62;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:00.334714+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0217PZ50;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:01.393909+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0310024A50;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:02.806882+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0310BE;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:04.016079+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0310CITYAT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:05.009045+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0311CIV5DLH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:06.070168+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0311GP1;ШРУС;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:29:06.988660+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source19;Febest;0317121;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:06.988681+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0317PRE5;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:08.239428+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0410013;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:09.375313+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0410CW5;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:10.594027+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0415CU20;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:11.822175+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0415CW6LHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:13.403053+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0415CY4ALHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:14.369649+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0415K94;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:15.555462+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0415N94T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:16.980281+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0415PV97WR;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:18.156918+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0417PDJ24;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:19.120878+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0417PKB4;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:20.268641+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0417PV75;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:21.792500+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0417PV97WF;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:23.159510+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0417PV97WR;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:24.716562+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0510KEAT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:25.580109+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0515BKT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:26.823821+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0515CX7T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:28.027565+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source19;Febest;0515M2T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:29:29.159187+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL1610L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:17.871320+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL1610R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:20.124904+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL1615M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:21.788334+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL1650;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:23.724122+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL1760M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:26.445646+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL1825;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:28.451243+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL1825M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:29.701487+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL1860;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:30.640090+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL2805M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:32.544147+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL2935;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:33.845073+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL2990L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:35.214028+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL2990LM;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:36.927787+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL2990R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:38.223633+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL2990RM;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:39.881424+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3340;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:41.148691+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3340M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:43.189013+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3560;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:44.667142+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3565;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:46.259178+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3640;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:47.995805+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3640M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:50.687897+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3655M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:52.703778+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3690R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:53.874457+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3750;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:55.227999+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3755;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:57.138903+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3755M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:32:59.174376+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3770L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:00.661817+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3770LM;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:01.966765+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3770R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:02.996338+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3770RM;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:04.336333+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3775;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:05.473234+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3775M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:06.619294+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3830;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:07.712051+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3845;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:08.988160+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3860;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:10.771853+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3890L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:33:11.850398+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source20;555;SL3890RM;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:11.850421+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL4840;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:13.281953+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL3920;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:14.747324+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL4855B;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:17.194036+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL4910L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:18.235201+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL4910R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:19.929753+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL4915;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:21.544650+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL6270R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:23.233384+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL6280L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:24.861607+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL6285L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:26.111637+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL6285R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:27.600269+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL6650;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:29.023620+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL6685;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:30.777364+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7390;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:32.050365+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7660;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:34.214546+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7720L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:36.251946+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7720R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:37.413596+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7840L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:38.785880+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7845L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:40.206920+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7845LM;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:41.461203+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7845R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:42.774114+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SL7950L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:44.226015+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLB015L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:45.790605+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLB010;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:47.633683+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLB100M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:50.963759+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLC045R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:52.267006+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH025L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:53.089455+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH025R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:54.639420+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH110;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:56.454554+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH130;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:57.834980+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH210;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:33:58.976654+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH270L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:00.623751+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH270R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:01.743563+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH280L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:02.983812+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH325L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:04.206555+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH325LM;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:05.448285+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH325R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:06.333163+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLH325RM;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:07.341405+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLK8040;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:08.268457+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLK8140;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:10.673137+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLK8470;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:13.980649+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLK8545;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:15.898752+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN130L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:17.673344+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN130R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:19.126373+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN150L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:20.632896+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN270;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:23.015231+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN325L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:25.167224+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN540L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:26.314966+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN540R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:27.503845+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN690L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:28.800823+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLN690R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:29.739632+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLS075;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:30.657064+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT010;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:31.774489+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT020;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:33.033790+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT220;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:34.761533+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT220M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:37.778338+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT226B;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:39.474863+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT275;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:41.194956+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT340;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:42.511070+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT455;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:44.665711+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT340M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:46.428791+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT455M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:48.478413+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT490;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:50.066283+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT490M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:52.348688+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source20;555;SLT780M;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:34:54.171763+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0010L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:35.678131+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0010R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:37.286631+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0033L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:39.144234+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0033R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:40.471426+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0045L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:41.772841+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0045R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:43.072614+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0034;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:44.368555+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0052L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:48.029521+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0052R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:49.235732+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0060;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:50.519065+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0066;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:52.839113+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0086;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:54.440783+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0107;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:56.890512+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0120;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:35:59.412818+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0136;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:02.282555+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0139;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:04.003957+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0140;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:05.397052+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0143;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:07.162133+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0144;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:08.915303+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0145;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:10.639075+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0146;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:12.167286+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0149;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:13.712071+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0150;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:15.074042+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0151;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:16.382031+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0152;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:17.715627+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0154;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:19.409315+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0155;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:20.760246+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0158;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:22.017296+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0159;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:23.516290+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0160;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:24.856480+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0161;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:26.191383+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0164;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:27.687033+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0169;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:28.947122+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0170;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:30.418638+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0176;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:31.836011+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0177;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:33.208166+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0180;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:34.395872+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0181;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:35.869298+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0182;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:37.600295+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0183;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:39.000141+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0186;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:40.440853+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0189;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:42.232331+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0190;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:43.656626+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0191;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:44.927497+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0192;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:46.109409+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0193;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:47.579929+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0194;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:49.082468+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0195;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:36:50.676282+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source21;CTR;CL0201;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:50.676308+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0203;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:52.111458+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0204;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:53.879531+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0205;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:55.430479+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0206;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:56.937446+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0211L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:58.259880+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0211R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:36:59.455632+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0220L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:00.935830+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0220R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:01.998960+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0221L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:03.161160+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0221R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:37:04.604646+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source21;CTR;CL0222L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:04.604676+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0222R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:05.827671+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0224;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:06.980024+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0228L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:07.990543+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0228R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:09.180056+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0240;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:10.387105+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0241;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:12.638915+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0247;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:14.906925+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0242;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:16.499894+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0249;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:18.947808+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0254;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:21.586053+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0258L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:23.983109+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0258R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:25.428385+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0261L;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:27.095309+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;CTR;CL0261R;Стойки стабилизатора;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:30.087349+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5027;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:32.636352+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5057XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:33.825481+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5202XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:35.003923+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5210;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:36.331113+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5214XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:37.395443+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5222;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:38.519246+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5228XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:40.040114+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5235XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:41.097764+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5257XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:42.204082+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5274XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:43.789282+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5282XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:45.003670+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5283XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:46.208019+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5299;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:47.280349+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5300XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:48.584267+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5306;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:37:49.663991+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source21;Gates;5318XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:49.664017+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5341XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:37:50.792734+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source21;Gates;5355XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:50.792761+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5358XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:51.882800+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5373XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:52.968541+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5374XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:54.190819+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5384XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:37:55.425894+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source21;Gates;5386XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:55.425918+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5389XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:56.591429+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source21;Gates;5403XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:37:57.694087+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source21;Gates;5404XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:37:57.694113+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;0517PBT50;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:40.954892+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;0711JTRH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:42.136418+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;0715PLYT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:43.115735+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;0815FORMTT;ШРУС;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:38:44.004518+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source22;Febest;0815G12;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:44.004547+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;0817PB13;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:45.080322+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1017PV250;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:46.243543+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1210CMATA52;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:47.255767+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1211AD;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:48.421162+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1211LX2LH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:49.193451+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1215CMATLH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:50.113841+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1215DMT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:51.178420+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1217011;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:52.102182+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1217PCM10R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:53.720336+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1217CM;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:54.816581+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1217PSOL2WD;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:56.154447+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1415ACT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:57.281371+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1417PNACTR;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:58.374922+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1417REXR;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:38:59.416189+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1510T18A48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:00.421220+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1510T19A48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:01.314681+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1510T1DA48;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:02.264962+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1515PT18T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:03.256986+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1515PT19CT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:04.328400+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1515PT19FLT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:05.180719+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1615P221;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:06.043097+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1617P164;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:07.118358+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1617P164S;ШРУС;BLOCKED_INITIAL_API_GATE;exact_sku_not_found;2026-11-19T13:39:08.714069+00:00;NOT_RUN_API_GATE_BLOCKED;False;exact_sku_not_found
+source22;Febest;1711FYSHA;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:10.286340+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1715FYSA;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:11.431253+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1715PQ5LHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:12.309153+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1715PQ5T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:13.316427+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1715Q5LHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:14.258189+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1717PA6;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:16.649129+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1717PB8;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:18.308556+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1815VIVARLHKIT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:19.270335+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1915PG20R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:20.132468+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1917PF25F;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:20.924831+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1917PE70;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:22.437163+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1917PG20R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:24.207748+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;1917PG30R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:25.130055+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2015MAGT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:26.347360+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2017MAG;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:27.453688+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2115CA220LHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:28.785798+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2115CA220RHT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:30.089536+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2115CB4;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:31.125625+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2115FOCIIMTT;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:32.684264+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2117CBK;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:33.799491+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2117PCA223;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:34.823471+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2210FB;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:36.227929+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2211FBATLH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:37.207754+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2211FBRH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:38.350739+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2215SORR;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:39.214326+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2217PMQ4R;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:40.526264+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2315PCCR;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:41.647484+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2317PB6;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:42.713267+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2411LOGLH;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:44.057625+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2417PDUSTAWD;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:45.386495+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2515C4T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:46.601023+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2715S60T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:47.643764+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2715S80T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:48.827784+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2717PXC90F1;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:49.914640+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;2917PDIIIATF;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:50.970999+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;BT999;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:52.480383+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Febest;0115ZVW30T;ШРУС;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:53.443938+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5405XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:54.556332+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5409XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:55.612939+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5410XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:56.757463+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5419XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:57.791166+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5435XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:39:59.263455+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5436XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:00.693734+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5446XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:02.461753+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5448XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:03.672896+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5457XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:04.757352+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5473XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:06.566167+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5474XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:08.480514+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5478XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:09.433759+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5479XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:10.434502+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5480XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:12.049641+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5505XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:13.099318+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5512XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:14.235780+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5514XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:15.291011+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5521;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:16.370127+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5527XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:18.030169+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5529XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:19.120863+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5530XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:20.144028+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5537XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:21.123750+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5539;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:22.528156+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5550XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:24.124856+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5593XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:25.481980+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5603XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:26.561694+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5643XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:28.109000+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5651XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:29.466707+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5660XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:30.574059+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5662XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:31.613357+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;5670XS;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:32.952269+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;T226;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:34.215257+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;T271;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:35.389112+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;T298;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:36.364275+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source22;Gates;T923;Ремни ГРМ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:40:37.621854+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH015;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:13.540082+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH054;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:14.820674+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH066;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:15.877898+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH069;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:17.307713+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH070;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:18.412096+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH072;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:19.555394+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH089;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:20.875738+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH094;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:21.964809+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH095;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:23.090305+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH1041;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:24.577110+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH1177;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:25.683503+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH1166;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:26.743631+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH227;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:27.845335+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH290;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:29.054819+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH295;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:30.192990+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH345;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:31.388330+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH471;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:32.386351+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH488;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:33.580033+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH489;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:34.643087+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH520;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:35.631292+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH545;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:36.822159+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH554;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:38.092990+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH556;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:41:39.221621+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source23;Master KiT;77BGH906;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:41:39.221646+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source23;Master KiT;77BGH971;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:39.221652+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH984;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:40.385285+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Master KiT;77BGH985;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:41.389238+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;612941500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:42.554079+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613128000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:43.585055+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613165500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:45.034938+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613167500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:46.089027+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613195510;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:47.263612+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613307000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:48.478805+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613313000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:41:49.798692+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source23;Victor Reinz;613407500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:49.798718+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613483000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:41:50.893318+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source23;Victor Reinz;613650500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:50.893345+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613724000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:51.840997+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;613747500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:54.270702+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615262010;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:55.470965+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615284500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:56.507137+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615286500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:57.535088+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615287000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:58.611049+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615294530;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:41:59.855741+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615294540;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:42:00.873985+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source23;Victor Reinz;615316000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:00.874011+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615330000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:01.819201+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615342500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:03.172806+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615351500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:04.527530+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Victor Reinz;615388000;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:05.598144+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;169750;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:07.703308+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;124474;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:08.750054+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;176960;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:09.908596+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;177010;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:11.177671+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;193500;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:12.133304+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;197710;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:13.132078+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;197720;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:14.081311+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;265481;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:42:14.996640+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source23;Elring;270450;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:14.996666+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;354240;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:16.072961+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;540470;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:17.354304+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;707860;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:18.504439+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;708040;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:19.664913+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;828254;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:21.125912+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;864250;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:22.195142+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;920232;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:23.287494+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Elring;920460;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:24.390547+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10101;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK;2026-11-19T13:42:25.800609+00:00;NOT_RUN_API_GATE_BLOCKED;False;NO_FRESH_SUPPLIER_ZERO_DAY_STOCK
+source23;Luzar;LES10109;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:25.800635+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10110;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:26.990532+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10113;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:27.946001+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10304;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:28.759305+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10506;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:29.991484+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10507;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:31.173812+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10801;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:32.331144+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10802;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:33.374977+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10835;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:34.595657+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES10901;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:35.655718+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11004;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:36.832623+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11013;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:37.914303+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11015;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:39.105893+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11018;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:40.186049+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11019;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:41.166492+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11101;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:42.258688+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11102;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:43.539810+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11103;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:44.891190+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11106;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:45.904045+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11403;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:46.850998+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11404;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:47.863749+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11405;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:48.938139+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11413;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:49.921893+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11414;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:51.193428+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11701;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:52.355334+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11801;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:54.090841+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11901;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:55.180708+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11903;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:56.316248+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11911;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:57.400318+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11914;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:58.587386+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11915;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:42:59.537485+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок
+source23;Luzar;LES11916;Прокладки ГБЦ;BLOCKED_INITIAL_API_GATE;Иркутск_есть_иной_срок;2026-11-19T13:43:00.665588+00:00;NOT_RUN_API_GATE_BLOCKED;False;Иркутск_есть_иной_срок

@@ -1,0 +1,815 @@
+{
+  "batch_size": 100,
+  "API_requests_attempted": 99,
+  "results": [
+    {
+      "brand": "Febest",
+      "article": "0517PBT50",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:40.954892+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "0711JTRH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:42.136418+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "0715PLYT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:43.115735+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "0815FORMTT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:44.004518+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Febest",
+      "article": "0815G12",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:44.004547+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "0817PB13",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:45.080322+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1017PV250",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:46.243543+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1210CMATA52",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:47.255767+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1211AD",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:48.421162+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "1211LX2LH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:49.193451+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "1215CMATLH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:50.113841+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1215DMT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:51.178420+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Febest",
+      "article": "1217011",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:52.102182+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Febest",
+      "article": "1217PCM10R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:53.720336+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1217CM",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:54.816581+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "1217PSOL2WD",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:56.154447+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1415ACT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:57.281371+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1417PNACTR",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:58.374922+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1417REXR",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:38:59.416189+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "1510T18A48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:00.421220+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1510T19A48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:01.314681+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1510T1DA48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:02.264962+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1515PT18T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:03.256986+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1515PT19CT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:04.328400+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1515PT19FLT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:05.180719+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1615P221",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:06.043097+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "1617P164",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:07.118358+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "1617P164S",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:08.714069+00:00",
+      "api_status": "exact_sku_not_found",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1711FYSHA",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:10.286340+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1715FYSA",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:11.431253+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1715PQ5LHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:12.309153+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 4
+    },
+    {
+      "brand": "Febest",
+      "article": "1715PQ5T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:13.316427+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1715Q5LHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:14.258189+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Febest",
+      "article": "1717PA6",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:16.649129+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Febest",
+      "article": "1717PB8",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:18.308556+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1815VIVARLHKIT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:19.270335+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1915PG20R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:20.132468+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1917PF25F",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:20.924831+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Febest",
+      "article": "1917PE70",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:22.437163+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "1917PG20R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:24.207748+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "1917PG30R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:25.130055+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2015MAGT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:26.347360+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2017MAG",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:27.453688+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2115CA220LHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:28.785798+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2115CA220RHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:30.089536+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2115CB4",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:31.125625+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2115FOCIIMTT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:32.684264+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2117CBK",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:33.799491+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2117PCA223",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:34.823471+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Febest",
+      "article": "2210FB",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:36.227929+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2211FBATLH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:37.207754+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "2211FBRH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:38.350739+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2215SORR",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:39.214326+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "2217PMQ4R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:40.526264+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2315PCCR",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:41.647484+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "2317PB6",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:42.713267+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2411LOGLH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:44.057625+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Febest",
+      "article": "2417PDUSTAWD",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:45.386495+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2515C4T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:46.601023+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2715S60T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:47.643764+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "2715S80T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:48.827784+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "2717PXC90F1",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:49.914640+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Febest",
+      "article": "2917PDIIIATF",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:50.970999+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "BT999",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:52.480383+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZVW30T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T13:39:53.443938+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5405XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:39:54.556332+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5409XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:39:55.612939+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5410XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:39:56.757463+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5419XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:39:57.791166+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5435XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:39:59.263455+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5436XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:00.693734+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5446XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:02.461753+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5448XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:03.672896+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5457XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:04.757352+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5473XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:06.566167+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5474XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:08.480514+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5478XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:09.433759+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5479XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:10.434502+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5480XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:12.049641+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5505XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:13.099318+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5512XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:14.235780+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5514XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:15.291011+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5521",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:16.370127+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 3
+    },
+    {
+      "brand": "Gates",
+      "article": "5527XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:18.030169+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5529XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:19.120863+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5530XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:20.144028+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5537XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:21.123750+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5539",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:22.528156+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5550XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:24.124856+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5593XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:25.481980+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5603XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:26.561694+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5643XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:28.109000+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5651XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:29.466707+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5660XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:30.574059+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "5662XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:31.613357+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "5670XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:32.952269+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "T226",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:34.215257+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    },
+    {
+      "brand": "Gates",
+      "article": "T271",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:35.389112+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "T298",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:36.364275+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 1
+    },
+    {
+      "brand": "Gates",
+      "article": "T923",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-19T13:40:37.621854+00:00",
+      "api_status": "Иркутск_есть_иной_срок",
+      "supplier_zero_day_stock": 2
+    }
+  ],
+  "status_counts": {
+    "Иркутск_есть_иной_срок": 98,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1,
+    "exact_sku_not_found": 1
+  },
+  "ready_for_full_source_review": [],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}

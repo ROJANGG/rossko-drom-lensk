@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-19",
+  "checked": 500,
+  "batches": 5,
+  "API_status_counts": {
+    "Иркутск_есть_иной_срок": 482,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 17,
+    "exact_sku_not_found": 1
+  },
+  "brand_category_status_counts": {
+    "Febest | ШРУС": {
+      "Иркутск_есть_иной_срок": 161,
+      "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 3,
+      "exact_sku_not_found": 1
+    },
+    "555 | Стойки стабилизатора": {
+      "Иркутск_есть_иной_срок": 99,
+      "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1
+    },
+    "CTR | Стойки стабилизатора": {
+      "Иркутск_есть_иной_срок": 72,
+      "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 2
+    },
+    "Gates | Ремни ГРМ": {
+      "Иркутск_есть_иной_срок": 57,
+      "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 4
+    },
+    "Master KiT | Прокладки ГБЦ": {
+      "Иркутск_есть_иной_срок": 25,
+      "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 2
+    },
+    "Victor Reinz | Прокладки ГБЦ": {
+      "Иркутск_есть_иной_срок": 20,
+      "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 3
+    },
+    "Elring | Прокладки ГБЦ": {
+      "Иркутск_есть_иной_срок": 16,
+      "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1
+    },
+    "Luzar | Прокладки ГБЦ": {
+      "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1,
+      "Иркутск_есть_иной_срок": 32
+    }
+  },
+  "new_ads": 0,
+  "publication_performed": false,
+  "private_buying_prices_written": false,
+  "source_review_performed_for_API_blocked_rows": false,
+  "gate": "positive fresh personal ROSSKO quote, Irkutsk stock and zero delivery days required",
+  "block_is_time_specific": true
+}
