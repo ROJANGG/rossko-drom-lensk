@@ -1,826 +1,1136 @@
 {
-  "as_of_utc": "2026-11-19T07:14:46.112659+00:00",
-  "before": 559,
-  "after": 608,
-  "approved_before": 578,
-  "approved_after": 627,
-  "scope_count": 49,
-  "added_count": 49,
+  "as_of_utc": "2026-11-19T07:58:26.815392+00:00",
+  "before": 608,
+  "after": 678,
+  "approved_before": 627,
+  "approved_after": 697,
+  "scope_count": 70,
+  "added_count": 70,
   "added": [
     {
-      "id": "irk-5a0e4496818eb0633215ed",
+      "id": "irk-eacfd6e8c8a6b7a83ce9ab",
       "brand": "SUFIX",
-      "article": "XG1004",
-      "category": "Радиаторы охлаждения",
-      "retail": 6700,
+      "article": "ST1005",
+      "category": "ШРУС",
+      "retail": 2000,
       "photo": {
-        "filename": "irk-5a0e4496818eb0633215ed-17bc3de0aa89.jpg",
-        "sha256": "17bc3de0aa897583650519e121d402f771ea593b21d364b7a433c662321929f7",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5a0e4496818eb0633215ed-17bc3de0aa89.jpg",
-        "manufacturer_page_sha256": "160524b1c8852a4088841dbc580d9f814bf2e79872a63c7d58a6b4d32f745708",
-        "fitment_page_sha256": "160524b1c8852a4088841dbc580d9f814bf2e79872a63c7d58a6b4d32f745708",
-        "verified_at_utc": "2026-11-19T07:12:33.747392+00:00"
+        "filename": "irk-eacfd6e8c8a6b7a83ce9ab-f3c0a93af1f9.jpg",
+        "sha256": "f3c0a93af1f92155bbf51e8b90784b30d472ac8105c9c8f8cf8b3c1687a345fb",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-eacfd6e8c8a6b7a83ce9ab-f3c0a93af1f9.jpg",
+        "manufacturer_page_sha256": "48e346a699491c654b1a3e3ec06c596a12a429782258dd419a9d2203ba014df2",
+        "fitment_page_sha256": "48e346a699491c654b1a3e3ec06c596a12a429782258dd419a9d2203ba014df2",
+        "verified_at_utc": "2026-11-19T07:55:08.042451+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:30.074101+00:00"
+      "API_checked_at_utc": "2026-11-19T07:56:27.111136+00:00"
     },
     {
-      "id": "irk-5a4520a5b6c512ff753626",
+      "id": "irk-d2c3af537077810a092f04",
       "brand": "SUFIX",
-      "article": "XG1006",
-      "category": "Радиаторы охлаждения",
-      "retail": 18800,
+      "article": "ST1013",
+      "category": "ШРУС",
+      "retail": 2050,
       "photo": {
-        "filename": "irk-5a4520a5b6c512ff753626-0f002a4ea4cf.jpg",
-        "sha256": "0f002a4ea4cf393168376c97260092f8e7a1420b517eadba6ed6979968eae6aa",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5a4520a5b6c512ff753626-0f002a4ea4cf.jpg",
-        "manufacturer_page_sha256": "1d39f81bb06bea93d009b2dc20aa757a1ae57e555db46e7c7867a75ed9c3a5c0",
-        "fitment_page_sha256": "1d39f81bb06bea93d009b2dc20aa757a1ae57e555db46e7c7867a75ed9c3a5c0",
-        "verified_at_utc": "2026-11-19T07:12:33.661755+00:00"
+        "filename": "irk-d2c3af537077810a092f04-f55048fa4151.jpg",
+        "sha256": "f55048fa415158c45ba92da16a3d40858fda97b21f78c09694843bb39e6cff73",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d2c3af537077810a092f04-f55048fa4151.jpg",
+        "manufacturer_page_sha256": "186ff151e3216c127004ffe3ed741e45c481ba49f0ac5a8cc309b48641ddc849",
+        "fitment_page_sha256": "186ff151e3216c127004ffe3ed741e45c481ba49f0ac5a8cc309b48641ddc849",
+        "verified_at_utc": "2026-11-19T07:55:07.990293+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:31.542930+00:00"
+      "API_checked_at_utc": "2026-11-19T07:56:28.784606+00:00"
     },
     {
-      "id": "irk-0cb685c7af6875fedfb413",
+      "id": "irk-d0ec73e1df5d1d3fe7f7c1",
       "brand": "SUFIX",
-      "article": "XG1021",
-      "category": "Радиаторы охлаждения",
+      "article": "ST1015",
+      "category": "ШРУС",
       "retail": 3050,
       "photo": {
-        "filename": "irk-0cb685c7af6875fedfb413-9fdb720a35b5.jpg",
-        "sha256": "9fdb720a35b5558451bd2f1884c4fc3e89e16a0c6834125dc38b3dcc7de0d22f",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0cb685c7af6875fedfb413-9fdb720a35b5.jpg",
-        "manufacturer_page_sha256": "613a5bb8a6fbe068f819c5d0e99acd254d12468f0da042fa9f4865c5652f1d1e",
-        "fitment_page_sha256": "613a5bb8a6fbe068f819c5d0e99acd254d12468f0da042fa9f4865c5652f1d1e",
-        "verified_at_utc": "2026-11-19T07:12:35.958447+00:00"
+        "filename": "irk-d0ec73e1df5d1d3fe7f7c1-f7992c430eb7.jpg",
+        "sha256": "f7992c430eb7e82f11c59059c509587c919366ba3db514fbbef0b05a7ee95e43",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d0ec73e1df5d1d3fe7f7c1-f7992c430eb7.jpg",
+        "manufacturer_page_sha256": "c361ce1a6217a37d34e734994d6a8b5003f81775f6393b5b2557e8a7863cac80",
+        "fitment_page_sha256": "c361ce1a6217a37d34e734994d6a8b5003f81775f6393b5b2557e8a7863cac80",
+        "verified_at_utc": "2026-11-19T07:55:10.397750+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:32.796232+00:00"
+      "API_checked_at_utc": "2026-11-19T07:56:30.351118+00:00"
     },
     {
-      "id": "irk-9db310e851fc47b38e7c89",
+      "id": "irk-0d77deabebe43ca999b82c",
       "brand": "SUFIX",
-      "article": "XG1023",
-      "category": "Радиаторы охлаждения",
+      "article": "ST1022",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-0d77deabebe43ca999b82c-cf1ac7ab9974.jpg",
+        "sha256": "cf1ac7ab997424de356908256ce6a5df0d8888c5cd2e5e314b6f889b3d77358b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0d77deabebe43ca999b82c-cf1ac7ab9974.jpg",
+        "manufacturer_page_sha256": "fe7935562bcbe1e1ba1540ab4018df7e26bd7806d540c5a46a504a8c129ec020",
+        "fitment_page_sha256": "fe7935562bcbe1e1ba1540ab4018df7e26bd7806d540c5a46a504a8c129ec020",
+        "verified_at_utc": "2026-11-19T07:55:10.148748+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:32.196802+00:00"
+    },
+    {
+      "id": "irk-8d6f3345fb1e36380a9d9c",
+      "brand": "SUFIX",
+      "article": "ST1032",
+      "category": "ШРУС",
+      "retail": 2250,
+      "photo": {
+        "filename": "irk-8d6f3345fb1e36380a9d9c-dd0335b5869e.jpg",
+        "sha256": "dd0335b5869eaed6ada9fb32fae1ea33e63f8387af3858fb0a8985014fbbfeb8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8d6f3345fb1e36380a9d9c-dd0335b5869e.jpg",
+        "manufacturer_page_sha256": "cf2d73962133bbdcc07d606a3bc35decea86794b86a655a616c2cf322f7569f4",
+        "fitment_page_sha256": "cf2d73962133bbdcc07d606a3bc35decea86794b86a655a616c2cf322f7569f4",
+        "verified_at_utc": "2026-11-19T07:55:12.330283+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:34.352004+00:00"
+    },
+    {
+      "id": "irk-3708596397bf193511cc7b",
+      "brand": "SUFIX",
+      "article": "ST1041",
+      "category": "ШРУС",
+      "retail": 2250,
+      "photo": {
+        "filename": "irk-3708596397bf193511cc7b-f7220c51e6c8.jpg",
+        "sha256": "f7220c51e6c8707c31e0423f4d1866b22e1b836581417c2ac0cdc73610f96c88",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3708596397bf193511cc7b-f7220c51e6c8.jpg",
+        "manufacturer_page_sha256": "48356cda70ba7fcd4d35d12fc8c20c4283e04385b5a00b292829f9ff0678718b",
+        "fitment_page_sha256": "48356cda70ba7fcd4d35d12fc8c20c4283e04385b5a00b292829f9ff0678718b",
+        "verified_at_utc": "2026-11-19T07:55:12.556753+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:35.782161+00:00"
+    },
+    {
+      "id": "irk-e38c507d42907409881be8",
+      "brand": "SUFIX",
+      "article": "ST1042",
+      "category": "ШРУС",
+      "retail": 2250,
+      "photo": {
+        "filename": "irk-e38c507d42907409881be8-d5e08b04595b.jpg",
+        "sha256": "d5e08b04595b3ed884f59646214c211946c1b9a9199e41a1cc28d61cfa745901",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e38c507d42907409881be8-d5e08b04595b.jpg",
+        "manufacturer_page_sha256": "3a26cfc4f1f90a3d2fe6121c2170de5e0accbebd7cd8ad3fbc429012dbf92c64",
+        "fitment_page_sha256": "3a26cfc4f1f90a3d2fe6121c2170de5e0accbebd7cd8ad3fbc429012dbf92c64",
+        "verified_at_utc": "2026-11-19T07:55:14.358155+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:37.492465+00:00"
+    },
+    {
+      "id": "irk-7b920ec20482fe625a2026",
+      "brand": "SUFIX",
+      "article": "ST1044",
+      "category": "ШРУС",
       "retail": 2900,
       "photo": {
-        "filename": "irk-9db310e851fc47b38e7c89-271086349623.jpg",
-        "sha256": "27108634962384f3d683017bd06c116205ba30731029ffcf9ed0725b20e4300f",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9db310e851fc47b38e7c89-271086349623.jpg",
-        "manufacturer_page_sha256": "a7ce3fb77aee76fa07cc417abc51776eeb69675218dd022fed8afb228ed170f9",
-        "fitment_page_sha256": "a7ce3fb77aee76fa07cc417abc51776eeb69675218dd022fed8afb228ed170f9",
-        "verified_at_utc": "2026-11-19T07:12:35.888493+00:00"
+        "filename": "irk-7b920ec20482fe625a2026-3236f0e91830.jpg",
+        "sha256": "3236f0e9183086e65c42b23e2a74eff6d0311e595e12990390b9c164c0303ad0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7b920ec20482fe625a2026-3236f0e91830.jpg",
+        "manufacturer_page_sha256": "d50dba438ed760b5aaebe0088bf61c653fc5f41af2f6430e9db31665bac2a104",
+        "fitment_page_sha256": "d50dba438ed760b5aaebe0088bf61c653fc5f41af2f6430e9db31665bac2a104",
+        "verified_at_utc": "2026-11-19T07:55:14.618149+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:34.375831+00:00"
+      "API_checked_at_utc": "2026-11-19T07:56:39.424783+00:00"
     },
     {
-      "id": "irk-86715c3c2c801c307200be",
+      "id": "irk-35cba11ce9da2b2bf12c33",
       "brand": "SUFIX",
-      "article": "XG1026",
-      "category": "Радиаторы охлаждения",
+      "article": "ST1051",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-35cba11ce9da2b2bf12c33-b1aa31081631.jpg",
+        "sha256": "b1aa31081631a0ff3b465f3e02f45ca9fc9744b9aeaa3ec6ee7e6f7d4e665bbd",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-35cba11ce9da2b2bf12c33-b1aa31081631.jpg",
+        "manufacturer_page_sha256": "05c8b3e40a7bf397d465faf276ee074ba6b24a910f4ffa492266fad2db2693ec",
+        "fitment_page_sha256": "05c8b3e40a7bf397d465faf276ee074ba6b24a910f4ffa492266fad2db2693ec",
+        "verified_at_utc": "2026-11-19T07:55:16.438514+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:41.012592+00:00"
+    },
+    {
+      "id": "irk-76c53916ff8b745bcb13c2",
+      "brand": "SUFIX",
+      "article": "ST1053",
+      "category": "ШРУС",
+      "retail": 2850,
+      "photo": {
+        "filename": "irk-76c53916ff8b745bcb13c2-164fd80427c8.jpg",
+        "sha256": "164fd80427c8d3124704c8954afde0176d585ea4b75b023d652daed0cf1306d9",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-76c53916ff8b745bcb13c2-164fd80427c8.jpg",
+        "manufacturer_page_sha256": "bd3ece706d15b16f4d9661791854fb4983f3dfc04279f9a622a68688b8de509f",
+        "fitment_page_sha256": "bd3ece706d15b16f4d9661791854fb4983f3dfc04279f9a622a68688b8de509f",
+        "verified_at_utc": "2026-11-19T07:55:17.941204+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:42.771884+00:00"
+    },
+    {
+      "id": "irk-19765156a47446a09d3500",
+      "brand": "SUFIX",
+      "article": "ST1057",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-19765156a47446a09d3500-b470e9e733de.jpg",
+        "sha256": "b470e9e733deedcbad43549409702c4bb2f63b13d28ea41819ca25c52a93b0e0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-19765156a47446a09d3500-b470e9e733de.jpg",
+        "manufacturer_page_sha256": "9765aaad143375a2ec3d368dd2d4b0ff0fc58a0cb439cea7923f050a475fca83",
+        "fitment_page_sha256": "9765aaad143375a2ec3d368dd2d4b0ff0fc58a0cb439cea7923f050a475fca83",
+        "verified_at_utc": "2026-11-19T07:55:18.358032+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:44.573737+00:00"
+    },
+    {
+      "id": "irk-52b8304fd0af0a132d05e6",
+      "brand": "SUFIX",
+      "article": "ST1063",
+      "category": "ШРУС",
+      "retail": 2400,
+      "photo": {
+        "filename": "irk-52b8304fd0af0a132d05e6-de899fddd708.jpg",
+        "sha256": "de899fddd7086a90b9f123ba67c6bad5994a0963c77824f02ca73a4d50aeb8b6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-52b8304fd0af0a132d05e6-de899fddd708.jpg",
+        "manufacturer_page_sha256": "e009cf343aacb558de562599570f8aff8e6aa286a91bdcf0ad4ba04a6850c7c7",
+        "fitment_page_sha256": "e009cf343aacb558de562599570f8aff8e6aa286a91bdcf0ad4ba04a6850c7c7",
+        "verified_at_utc": "2026-11-19T07:55:21.947543+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:46.546224+00:00"
+    },
+    {
+      "id": "irk-dadb1e27d97e3c1214f847",
+      "brand": "SUFIX",
+      "article": "ST1072",
+      "category": "ШРУС",
+      "retail": 2750,
+      "photo": {
+        "filename": "irk-dadb1e27d97e3c1214f847-fba37a08864b.jpg",
+        "sha256": "fba37a08864b361d3f64a8aaf68573f287a19557c84d8f98d331c559ceecfcea",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-dadb1e27d97e3c1214f847-fba37a08864b.jpg",
+        "manufacturer_page_sha256": "d8ad03f410b23273354f4f50290a383bd78d4812312c66f1c1132aee94588e42",
+        "fitment_page_sha256": "d8ad03f410b23273354f4f50290a383bd78d4812312c66f1c1132aee94588e42",
+        "verified_at_utc": "2026-11-19T07:55:21.911989+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:48.184851+00:00"
+    },
+    {
+      "id": "irk-621966e4ca644b66c087c3",
+      "brand": "SUFIX",
+      "article": "ST1079",
+      "category": "ШРУС",
+      "retail": 3050,
+      "photo": {
+        "filename": "irk-621966e4ca644b66c087c3-99f1ed225292.jpg",
+        "sha256": "99f1ed2252926dadfa56aeb47b21e9b234264c561865cd90de9c72a0c4576914",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-621966e4ca644b66c087c3-99f1ed225292.jpg",
+        "manufacturer_page_sha256": "80cff088d38a609e66caafc6dc79878df26ca410b5dd08ea6addd8b2999b4d07",
+        "fitment_page_sha256": "80cff088d38a609e66caafc6dc79878df26ca410b5dd08ea6addd8b2999b4d07",
+        "verified_at_utc": "2026-11-19T07:55:24.056638+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:49.992443+00:00"
+    },
+    {
+      "id": "irk-5488e83d557e7c47a48213",
+      "brand": "SUFIX",
+      "article": "ST1084",
+      "category": "ШРУС",
+      "retail": 1350,
+      "photo": {
+        "filename": "irk-5488e83d557e7c47a48213-e8a6a9b8fd36.jpg",
+        "sha256": "e8a6a9b8fd36664804b9e778b7130edd5c532131310d22955539bba314f69a46",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5488e83d557e7c47a48213-e8a6a9b8fd36.jpg",
+        "manufacturer_page_sha256": "3d4cd6fe53bc3939b9adc775607ee903a60a936c8c517bcf1bb4220bcfe1b377",
+        "fitment_page_sha256": "3d4cd6fe53bc3939b9adc775607ee903a60a936c8c517bcf1bb4220bcfe1b377",
+        "verified_at_utc": "2026-11-19T07:55:23.880797+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:52.126906+00:00"
+    },
+    {
+      "id": "irk-be5026a05ee51582ee0ef7",
+      "brand": "SUFIX",
+      "article": "ST1085",
+      "category": "ШРУС",
+      "retail": 2400,
+      "photo": {
+        "filename": "irk-be5026a05ee51582ee0ef7-19e2a2945535.jpg",
+        "sha256": "19e2a2945535307f40ee61ef987abb814948aed9964bc8c243246c46bed85527",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-be5026a05ee51582ee0ef7-19e2a2945535.jpg",
+        "manufacturer_page_sha256": "e5609156b9f046aed61c40b2a3712fc9c982801a903501a759649ac417aca2ff",
+        "fitment_page_sha256": "e5609156b9f046aed61c40b2a3712fc9c982801a903501a759649ac417aca2ff",
+        "verified_at_utc": "2026-11-19T07:55:27.260658+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:54.274898+00:00"
+    },
+    {
+      "id": "irk-f761df5cc9922f168aa580",
+      "brand": "SUFIX",
+      "article": "ST1086",
+      "category": "ШРУС",
+      "retail": 1750,
+      "photo": {
+        "filename": "irk-f761df5cc9922f168aa580-cb15eb7676b5.jpg",
+        "sha256": "cb15eb7676b55f7355593c4a924b3bb5ed89f6479601b802f73aa3829721c415",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f761df5cc9922f168aa580-cb15eb7676b5.jpg",
+        "manufacturer_page_sha256": "e6db10ef6b6d5834cc73afc5c8e9b00a9b589a7235ded1773ad75983e2e15bd4",
+        "fitment_page_sha256": "e6db10ef6b6d5834cc73afc5c8e9b00a9b589a7235ded1773ad75983e2e15bd4",
+        "verified_at_utc": "2026-11-19T07:55:26.010849+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:56.100697+00:00"
+    },
+    {
+      "id": "irk-43409118ac840504898417",
+      "brand": "SUFIX",
+      "article": "ST1087",
+      "category": "ШРУС",
+      "retail": 2300,
+      "photo": {
+        "filename": "irk-43409118ac840504898417-80a4677c500a.jpg",
+        "sha256": "80a4677c500ab7fa5fb447af46823413f9e7cbb59b7650a197ddf4552f9f547b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-43409118ac840504898417-80a4677c500a.jpg",
+        "manufacturer_page_sha256": "e683c7dbb1c5694bd4a2fbe99fa812f8e7f2b20ed13f7551237438ee9b8f706c",
+        "fitment_page_sha256": "e683c7dbb1c5694bd4a2fbe99fa812f8e7f2b20ed13f7551237438ee9b8f706c",
+        "verified_at_utc": "2026-11-19T07:55:28.072091+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:57.657061+00:00"
+    },
+    {
+      "id": "irk-cafee614c271fe47040e3c",
+      "brand": "SUFIX",
+      "article": "ST1089",
+      "category": "ШРУС",
+      "retail": 2500,
+      "photo": {
+        "filename": "irk-cafee614c271fe47040e3c-acaedd2677be.jpg",
+        "sha256": "acaedd2677be2844a557efa08c4b32ac0a64a87977a61383d92c9d26bfc71a11",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cafee614c271fe47040e3c-acaedd2677be.jpg",
+        "manufacturer_page_sha256": "20f43449381a2aef755b8b434b17b3925731cc7157c6fb3ff2966d1186f8c05a",
+        "fitment_page_sha256": "20f43449381a2aef755b8b434b17b3925731cc7157c6fb3ff2966d1186f8c05a",
+        "verified_at_utc": "2026-11-19T07:55:29.109533+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:56:59.261086+00:00"
+    },
+    {
+      "id": "irk-141db09b9527219216a30c",
+      "brand": "SUFIX",
+      "article": "ST1091",
+      "category": "ШРУС",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-141db09b9527219216a30c-37a54276cbac.jpg",
+        "sha256": "37a54276cbac584f8d07db899d9a07aebd5199743751659d4e16cc2043ef0edf",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-141db09b9527219216a30c-37a54276cbac.jpg",
+        "manufacturer_page_sha256": "c5f98911c07e1c792242606b9f1800dd75d6071bb10b9ca50ad95d11257f9d17",
+        "fitment_page_sha256": "c5f98911c07e1c792242606b9f1800dd75d6071bb10b9ca50ad95d11257f9d17",
+        "verified_at_utc": "2026-11-19T07:55:29.969535+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:01.196448+00:00"
+    },
+    {
+      "id": "irk-e8bc66e85601a5b6807fad",
+      "brand": "SUFIX",
+      "article": "ST1092",
+      "category": "ШРУС",
+      "retail": 3050,
+      "photo": {
+        "filename": "irk-e8bc66e85601a5b6807fad-6ea85c895687.jpg",
+        "sha256": "6ea85c895687abf16ccbefddfb94a267a70190558aefdb2959dc6ac385d42be1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e8bc66e85601a5b6807fad-6ea85c895687.jpg",
+        "manufacturer_page_sha256": "05a0bb23ee46c4c850562776643b9160effeda47c5873a2a4e7d6c60db305a92",
+        "fitment_page_sha256": "05a0bb23ee46c4c850562776643b9160effeda47c5873a2a4e7d6c60db305a92",
+        "verified_at_utc": "2026-11-19T07:55:30.929907+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:02.681033+00:00"
+    },
+    {
+      "id": "irk-ee14b8bbfe32910549cd37",
+      "brand": "SUFIX",
+      "article": "ST1098",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-ee14b8bbfe32910549cd37-650d98a288a4.jpg",
+        "sha256": "650d98a288a47eba4acc9edb506b1f1cfba5f6f0275181c3c235c6eba9d3d03a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ee14b8bbfe32910549cd37-650d98a288a4.jpg",
+        "manufacturer_page_sha256": "5bf04561ca3778461ea824dcf71a35cb83c40d91e7d1398d1d5a7f8d01e7ac56",
+        "fitment_page_sha256": "5bf04561ca3778461ea824dcf71a35cb83c40d91e7d1398d1d5a7f8d01e7ac56",
+        "verified_at_utc": "2026-11-19T07:55:31.831486+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:04.624363+00:00"
+    },
+    {
+      "id": "irk-e0afa5f453c802724eb400",
+      "brand": "SUFIX",
+      "article": "ST1099",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-e0afa5f453c802724eb400-005bb06a12a7.jpg",
+        "sha256": "005bb06a12a719223f3f31fee9c8a33b99ecedda0be4b81bc4152340723f4be9",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e0afa5f453c802724eb400-005bb06a12a7.jpg",
+        "manufacturer_page_sha256": "84979eafcb606d447eeb4980fc1601ea1f5829ac4fd44e87c23445f84d681cd1",
+        "fitment_page_sha256": "84979eafcb606d447eeb4980fc1601ea1f5829ac4fd44e87c23445f84d681cd1",
+        "verified_at_utc": "2026-11-19T07:55:32.806189+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:06.382267+00:00"
+    },
+    {
+      "id": "irk-0ec3182d8478f794486f4b",
+      "brand": "SUFIX",
+      "article": "ST1100",
+      "category": "ШРУС",
+      "retail": 2000,
+      "photo": {
+        "filename": "irk-0ec3182d8478f794486f4b-13e1b4fce197.jpg",
+        "sha256": "13e1b4fce1979fc074bc3f44e67fb3624e7b644d812ab2306cdde7fd7b9d7213",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0ec3182d8478f794486f4b-13e1b4fce197.jpg",
+        "manufacturer_page_sha256": "9d9a22fd914dd07b8886f2cc8c2e57e6ed24ea1f9161696fbb54ea909119f52c",
+        "fitment_page_sha256": "9d9a22fd914dd07b8886f2cc8c2e57e6ed24ea1f9161696fbb54ea909119f52c",
+        "verified_at_utc": "2026-11-19T07:55:33.755703+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:08.715100+00:00"
+    },
+    {
+      "id": "irk-ddc5067d048c99cddc1a06",
+      "brand": "SUFIX",
+      "article": "ST1101",
+      "category": "ШРУС",
+      "retail": 2050,
+      "photo": {
+        "filename": "irk-ddc5067d048c99cddc1a06-7acdc41bcb2e.jpg",
+        "sha256": "7acdc41bcb2e467020b5b0721d1117b43edc79a865b40d2bf8963e05404d56ae",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ddc5067d048c99cddc1a06-7acdc41bcb2e.jpg",
+        "manufacturer_page_sha256": "16211f9b8fbfaa77e338f3b5b8a8f67ab3b48f0a9b39a50bb7463b6ea37e8871",
+        "fitment_page_sha256": "16211f9b8fbfaa77e338f3b5b8a8f67ab3b48f0a9b39a50bb7463b6ea37e8871",
+        "verified_at_utc": "2026-11-19T07:55:34.820290+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:10.470943+00:00"
+    },
+    {
+      "id": "irk-c5457b51385ff0c7d80714",
+      "brand": "SUFIX",
+      "article": "ST1106",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-c5457b51385ff0c7d80714-74328423340b.jpg",
+        "sha256": "74328423340bf97fab4c9f04d38ca0bedca3c096c8a310ab113c6c2cd0d3edca",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c5457b51385ff0c7d80714-74328423340b.jpg",
+        "manufacturer_page_sha256": "3ba7077d1495ddb1333f91941fa61262ce9eb31e6a0bef2ea251461664d88a4c",
+        "fitment_page_sha256": "3ba7077d1495ddb1333f91941fa61262ce9eb31e6a0bef2ea251461664d88a4c",
+        "verified_at_utc": "2026-11-19T07:55:36.994831+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:12.550964+00:00"
+    },
+    {
+      "id": "irk-47e6e6986e7648545ef8f7",
+      "brand": "SUFIX",
+      "article": "ST1107",
+      "category": "ШРУС",
+      "retail": 2300,
+      "photo": {
+        "filename": "irk-47e6e6986e7648545ef8f7-b1548f46180a.jpg",
+        "sha256": "b1548f46180ac29c27c56f35c56d26fc3f00f17614b2e55a4be5c66031a9f8a8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-47e6e6986e7648545ef8f7-b1548f46180a.jpg",
+        "manufacturer_page_sha256": "0377f8143989d42803b88a8e53ea3e3f4487677383d00f258d2b076e76b39695",
+        "fitment_page_sha256": "0377f8143989d42803b88a8e53ea3e3f4487677383d00f258d2b076e76b39695",
+        "verified_at_utc": "2026-11-19T07:55:36.884288+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:14.793399+00:00"
+    },
+    {
+      "id": "irk-2dc0035c5bd9fab5c9928f",
+      "brand": "SUFIX",
+      "article": "ST1108",
+      "category": "ШРУС",
+      "retail": 2900,
+      "photo": {
+        "filename": "irk-2dc0035c5bd9fab5c9928f-556262caf350.jpg",
+        "sha256": "556262caf3500e6b5098018e30be6ae72a72127879fc3504371136bed3ab00ec",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2dc0035c5bd9fab5c9928f-556262caf350.jpg",
+        "manufacturer_page_sha256": "0c2cc33692b8cd7baf99f3d25c39d0f11422e3b05ea32759308d4c9c2a19386f",
+        "fitment_page_sha256": "0c2cc33692b8cd7baf99f3d25c39d0f11422e3b05ea32759308d4c9c2a19386f",
+        "verified_at_utc": "2026-11-19T07:55:38.933152+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:16.650062+00:00"
+    },
+    {
+      "id": "irk-70da6cad0ce2ad007d3868",
+      "brand": "SUFIX",
+      "article": "ST1110",
+      "category": "ШРУС",
+      "retail": 2950,
+      "photo": {
+        "filename": "irk-70da6cad0ce2ad007d3868-b1dc3474ab3d.jpg",
+        "sha256": "b1dc3474ab3dd5e1b421830999b7e0288605c8b39b182adcc2739ad6eb73d213",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-70da6cad0ce2ad007d3868-b1dc3474ab3d.jpg",
+        "manufacturer_page_sha256": "61e792b6f9ac07aaffa2e6b3ef6e85640569b76446a2bf816b7259a45f41215e",
+        "fitment_page_sha256": "61e792b6f9ac07aaffa2e6b3ef6e85640569b76446a2bf816b7259a45f41215e",
+        "verified_at_utc": "2026-11-19T07:55:38.904161+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:18.144073+00:00"
+    },
+    {
+      "id": "irk-ee5238d0840535b1b0f679",
+      "brand": "SUFIX",
+      "article": "ST1111",
+      "category": "ШРУС",
+      "retail": 3150,
+      "photo": {
+        "filename": "irk-ee5238d0840535b1b0f679-a0043ef445f4.jpg",
+        "sha256": "a0043ef445f412bb8be3d58f2c0826559d82776b390812d08d5996f876ba5041",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ee5238d0840535b1b0f679-a0043ef445f4.jpg",
+        "manufacturer_page_sha256": "5c53b9621727757c66f463bc06ebceb3e0f51325c480aa66e8a7971e93482803",
+        "fitment_page_sha256": "5c53b9621727757c66f463bc06ebceb3e0f51325c480aa66e8a7971e93482803",
+        "verified_at_utc": "2026-11-19T07:55:41.212511+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:19.676121+00:00"
+    },
+    {
+      "id": "irk-28e38c7d9f994acc2bbdf2",
+      "brand": "SUFIX",
+      "article": "ST1112",
+      "category": "ШРУС",
+      "retail": 2400,
+      "photo": {
+        "filename": "irk-28e38c7d9f994acc2bbdf2-820f6136c233.jpg",
+        "sha256": "820f6136c23302f2cb746f45a13a5ec4619fd57422511aca04c8614fa8f15c03",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-28e38c7d9f994acc2bbdf2-820f6136c233.jpg",
+        "manufacturer_page_sha256": "79b6157da7cc332901ee9e63320fdc48b0e8596d99ae751b0e7b4aab7cc13b01",
+        "fitment_page_sha256": "79b6157da7cc332901ee9e63320fdc48b0e8596d99ae751b0e7b4aab7cc13b01",
+        "verified_at_utc": "2026-11-19T07:55:40.836535+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:21.525385+00:00"
+    },
+    {
+      "id": "irk-4329eb93fc84fdcbcba5e9",
+      "brand": "SUFIX",
+      "article": "ST1113",
+      "category": "ШРУС",
+      "retail": 2250,
+      "photo": {
+        "filename": "irk-4329eb93fc84fdcbcba5e9-cb94521423db.jpg",
+        "sha256": "cb94521423dbd2434c82a8f5f110a187a52571c505c58785b9972fd32d56403c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4329eb93fc84fdcbcba5e9-cb94521423db.jpg",
+        "manufacturer_page_sha256": "5b01c73055c34976cf68db63a65c62d13e2439d4ef61c3c0bfa2bc223cae19a7",
+        "fitment_page_sha256": "5b01c73055c34976cf68db63a65c62d13e2439d4ef61c3c0bfa2bc223cae19a7",
+        "verified_at_utc": "2026-11-19T07:55:43.205341+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:23.932381+00:00"
+    },
+    {
+      "id": "irk-626d127efe2a4a877b17cd",
+      "brand": "SUFIX",
+      "article": "ST1117",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-626d127efe2a4a877b17cd-31b2d3fad8f0.jpg",
+        "sha256": "31b2d3fad8f0fce5472e2d517894ac622943569c0fc60191412d2459ff65f9d8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-626d127efe2a4a877b17cd-31b2d3fad8f0.jpg",
+        "manufacturer_page_sha256": "46249ac414b777fd78f3abaec2b19721f13346dc5aab484c8836895a00ca601c",
+        "fitment_page_sha256": "46249ac414b777fd78f3abaec2b19721f13346dc5aab484c8836895a00ca601c",
+        "verified_at_utc": "2026-11-19T07:55:43.215248+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:26.559068+00:00"
+    },
+    {
+      "id": "irk-c1a5a0d29ecafa262f0095",
+      "brand": "SUFIX",
+      "article": "ST1118",
+      "category": "ШРУС",
+      "retail": 2950,
+      "photo": {
+        "filename": "irk-c1a5a0d29ecafa262f0095-e966f314cc81.jpg",
+        "sha256": "e966f314cc81cc35526c28b9f59204b570528e36e1f2636ef4fde085e538de17",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c1a5a0d29ecafa262f0095-e966f314cc81.jpg",
+        "manufacturer_page_sha256": "85f21822bbea7a1ced47e1c2b99cecc77ee09125d087616a5d075d74a4d62ff7",
+        "fitment_page_sha256": "85f21822bbea7a1ced47e1c2b99cecc77ee09125d087616a5d075d74a4d62ff7",
+        "verified_at_utc": "2026-11-19T07:55:45.184010+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:28.211069+00:00"
+    },
+    {
+      "id": "irk-8b2e91264466d4091295e0",
+      "brand": "SUFIX",
+      "article": "ST1119",
+      "category": "ШРУС",
+      "retail": 2650,
+      "photo": {
+        "filename": "irk-8b2e91264466d4091295e0-71f826337461.jpg",
+        "sha256": "71f8263374611de52f06a75321fee864f7f8b0cd43728227c6ad6509982984ce",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8b2e91264466d4091295e0-71f826337461.jpg",
+        "manufacturer_page_sha256": "3e9b78a54df909d65447174faad6e68ce1ec6a76c917849ee46ca8ba0583527f",
+        "fitment_page_sha256": "3e9b78a54df909d65447174faad6e68ce1ec6a76c917849ee46ca8ba0583527f",
+        "verified_at_utc": "2026-11-19T07:55:45.489646+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:29.931445+00:00"
+    },
+    {
+      "id": "irk-cc186e80b2217635bdb4ed",
+      "brand": "SUFIX",
+      "article": "ST1122",
+      "category": "ШРУС",
+      "retail": 2900,
+      "photo": {
+        "filename": "irk-cc186e80b2217635bdb4ed-d70ff84647a8.jpg",
+        "sha256": "d70ff84647a81b3f75b2fd2db0c347e4c5014df8305c6e00d746346df5c2c2af",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cc186e80b2217635bdb4ed-d70ff84647a8.jpg",
+        "manufacturer_page_sha256": "43d1e5f9e836ab57df6cf1b26971561873fcbcc4c1c8fa886044fe7d4db0f2c2",
+        "fitment_page_sha256": "43d1e5f9e836ab57df6cf1b26971561873fcbcc4c1c8fa886044fe7d4db0f2c2",
+        "verified_at_utc": "2026-11-19T07:55:47.085229+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:31.621508+00:00"
+    },
+    {
+      "id": "irk-5d4fcdde909edabeb4517e",
+      "brand": "SUFIX",
+      "article": "ST1123",
+      "category": "ШРУС",
+      "retail": 2850,
+      "photo": {
+        "filename": "irk-5d4fcdde909edabeb4517e-3d18f50425f4.jpg",
+        "sha256": "3d18f50425f411e436b77ffb748c4a2d3a965c17df51963130ff63cacbc6ec1a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5d4fcdde909edabeb4517e-3d18f50425f4.jpg",
+        "manufacturer_page_sha256": "297d700d5315e34ac806c58fb13fea761976523b70a95be4e44a67c21c5d5e76",
+        "fitment_page_sha256": "297d700d5315e34ac806c58fb13fea761976523b70a95be4e44a67c21c5d5e76",
+        "verified_at_utc": "2026-11-19T07:55:47.560806+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:33.200028+00:00"
+    },
+    {
+      "id": "irk-ff8d316a09ce009c0a1682",
+      "brand": "SUFIX",
+      "article": "ST1137",
+      "category": "ШРУС",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-ff8d316a09ce009c0a1682-5bd142a1d997.jpg",
+        "sha256": "5bd142a1d99749d1aa0b2fadf129d03b13705336e6216ef9608357185f99e9eb",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ff8d316a09ce009c0a1682-5bd142a1d997.jpg",
+        "manufacturer_page_sha256": "40e70fccf471ba0b4e40d89b7da07a6286883d5ba1a0ed2344941c976534fc02",
+        "fitment_page_sha256": "40e70fccf471ba0b4e40d89b7da07a6286883d5ba1a0ed2344941c976534fc02",
+        "verified_at_utc": "2026-11-19T07:55:49.278227+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:34.800005+00:00"
+    },
+    {
+      "id": "irk-ddc6478bc610a022b57887",
+      "brand": "SUFIX",
+      "article": "ST1144",
+      "category": "ШРУС",
+      "retail": 2100,
+      "photo": {
+        "filename": "irk-ddc6478bc610a022b57887-69ca974dc90a.jpg",
+        "sha256": "69ca974dc90af09298d1c7b59f9b88002465182fc09c4ac181ab1f301b79e677",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ddc6478bc610a022b57887-69ca974dc90a.jpg",
+        "manufacturer_page_sha256": "2af8e7eed398efad134d883c52d7540ec9195a022903f5f8b7809560c5607339",
+        "fitment_page_sha256": "2af8e7eed398efad134d883c52d7540ec9195a022903f5f8b7809560c5607339",
+        "verified_at_utc": "2026-11-19T07:55:49.482867+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:36.108982+00:00"
+    },
+    {
+      "id": "irk-9d6282cbfb5a305e8e78af",
+      "brand": "SUFIX",
+      "article": "ST1145",
+      "category": "ШРУС",
+      "retail": 2000,
+      "photo": {
+        "filename": "irk-9d6282cbfb5a305e8e78af-f4e181684e95.jpg",
+        "sha256": "f4e181684e9535c84efcdf5cb19e78743f2df427344e9f9c0232af0726f7cbd1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9d6282cbfb5a305e8e78af-f4e181684e95.jpg",
+        "manufacturer_page_sha256": "a25d66c197914c2530015af370c01d3559acc4035ecffd6a0da2b2cc43303e81",
+        "fitment_page_sha256": "a25d66c197914c2530015af370c01d3559acc4035ecffd6a0da2b2cc43303e81",
+        "verified_at_utc": "2026-11-19T07:55:51.210502+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:37.821911+00:00"
+    },
+    {
+      "id": "irk-fbeb457ed92872f1c6b840",
+      "brand": "SUFIX",
+      "article": "ST1146",
+      "category": "ШРУС",
+      "retail": 2250,
+      "photo": {
+        "filename": "irk-fbeb457ed92872f1c6b840-4b107c2093bf.jpg",
+        "sha256": "4b107c2093bf195f6f0569c42dc4faed3512ed5b54be36c4455b33ab9cf1661d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fbeb457ed92872f1c6b840-4b107c2093bf.jpg",
+        "manufacturer_page_sha256": "03fe867652daf286bb9d8728b38c0dcb17656c53555dcf21fc4e69791f0947b1",
+        "fitment_page_sha256": "03fe867652daf286bb9d8728b38c0dcb17656c53555dcf21fc4e69791f0947b1",
+        "verified_at_utc": "2026-11-19T07:55:51.569501+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:39.122083+00:00"
+    },
+    {
+      "id": "irk-4f7f2fb6dccac2a9681c20",
+      "brand": "SUFIX",
+      "article": "ST1149",
+      "category": "ШРУС",
+      "retail": 4000,
+      "photo": {
+        "filename": "irk-4f7f2fb6dccac2a9681c20-20a0a5525289.jpg",
+        "sha256": "20a0a552528986bad5a3a0506adf700019ba349cb37312a522081f8c638bae86",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4f7f2fb6dccac2a9681c20-20a0a5525289.jpg",
+        "manufacturer_page_sha256": "c5afa345c50a880e694f709e1681f29bba0eb5d6b54a19d2991f70e1ac1d1c2f",
+        "fitment_page_sha256": "c5afa345c50a880e694f709e1681f29bba0eb5d6b54a19d2991f70e1ac1d1c2f",
+        "verified_at_utc": "2026-11-19T07:55:53.106914+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:40.849126+00:00"
+    },
+    {
+      "id": "irk-eb1655185f9db6b17335e5",
+      "brand": "SUFIX",
+      "article": "ST1151",
+      "category": "ШРУС",
+      "retail": 2900,
+      "photo": {
+        "filename": "irk-eb1655185f9db6b17335e5-ef0da3e47934.jpg",
+        "sha256": "ef0da3e4793450122328c7609758c5721cab2b02a0bef0931b5277fa61ff4c9f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-eb1655185f9db6b17335e5-ef0da3e47934.jpg",
+        "manufacturer_page_sha256": "8a35c3a78c24bb4653cdc26aad42056b360bac29266b927b13c75f0f2b4743c3",
+        "fitment_page_sha256": "8a35c3a78c24bb4653cdc26aad42056b360bac29266b927b13c75f0f2b4743c3",
+        "verified_at_utc": "2026-11-19T07:55:54.364680+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:42.700112+00:00"
+    },
+    {
+      "id": "irk-f880a7a7017980eeb0b8c4",
+      "brand": "SUFIX",
+      "article": "ST1153",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-f880a7a7017980eeb0b8c4-e0040377d1f3.jpg",
+        "sha256": "e0040377d1f3d8bec0329e9c13fdc9ac244374a8bc6d3557ab4b23a2fd8f5c4a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f880a7a7017980eeb0b8c4-e0040377d1f3.jpg",
+        "manufacturer_page_sha256": "bac51f23c2204b10d5ef0656a1c56f3f23dd040cc1012082821046da477510c1",
+        "fitment_page_sha256": "bac51f23c2204b10d5ef0656a1c56f3f23dd040cc1012082821046da477510c1",
+        "verified_at_utc": "2026-11-19T07:55:55.086732+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:44.393786+00:00"
+    },
+    {
+      "id": "irk-b00f9b59f583cd6f95e20e",
+      "brand": "SUFIX",
+      "article": "ST1154",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-b00f9b59f583cd6f95e20e-ba1a25efad9a.jpg",
+        "sha256": "ba1a25efad9a9ad3ffc6dbdc3bc66a6d36c62499fc1af2e596710f32d9a3142b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b00f9b59f583cd6f95e20e-ba1a25efad9a.jpg",
+        "manufacturer_page_sha256": "f4ec95127af3f785cdfc6d6dc25a63012e98ad2d076c5c9071cb734c307cc56d",
+        "fitment_page_sha256": "f4ec95127af3f785cdfc6d6dc25a63012e98ad2d076c5c9071cb734c307cc56d",
+        "verified_at_utc": "2026-11-19T07:55:56.344462+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:46.518908+00:00"
+    },
+    {
+      "id": "irk-07bce56505d3d72a7c7ce9",
+      "brand": "SUFIX",
+      "article": "ST1158",
+      "category": "ШРУС",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-07bce56505d3d72a7c7ce9-72fcba04e474.jpg",
+        "sha256": "72fcba04e474cdba70b70d95303124d3ce16ddada51f38e890bf10d6475562c2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-07bce56505d3d72a7c7ce9-72fcba04e474.jpg",
+        "manufacturer_page_sha256": "8b4dbe11e00c350438458cdcd1632087f80452107ff9885dfe23020498ee500f",
+        "fitment_page_sha256": "8b4dbe11e00c350438458cdcd1632087f80452107ff9885dfe23020498ee500f",
+        "verified_at_utc": "2026-11-19T07:55:57.972856+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:48.397286+00:00"
+    },
+    {
+      "id": "irk-ef9bf294b74218dbe04923",
+      "brand": "SUFIX",
+      "article": "ST1163",
+      "category": "ШРУС",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-ef9bf294b74218dbe04923-17c01e0da95a.jpg",
+        "sha256": "17c01e0da95affad58f17265e39bcab4bdbb92ae908405bdcaaed4d28b88a1cf",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ef9bf294b74218dbe04923-17c01e0da95a.jpg",
+        "manufacturer_page_sha256": "c10adfcb518c5bdd29c17fb4d48351b0ccd7f090bf041429b38b8a7607e6b8bb",
+        "fitment_page_sha256": "c10adfcb518c5bdd29c17fb4d48351b0ccd7f090bf041429b38b8a7607e6b8bb",
+        "verified_at_utc": "2026-11-19T07:55:58.240494+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:49.862546+00:00"
+    },
+    {
+      "id": "irk-e222ad23ec61472241549e",
+      "brand": "SUFIX",
+      "article": "ST1168",
+      "category": "ШРУС",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-e222ad23ec61472241549e-b32e99abdfa2.jpg",
+        "sha256": "b32e99abdfa221809e2ba4f8fb83cc7d52fbc8e392f020f3ff5df872e53319a3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e222ad23ec61472241549e-b32e99abdfa2.jpg",
+        "manufacturer_page_sha256": "98f9f597d2751a3566bc81a95fa6bd11b3ecfa45c287e4228bca711355fcba8d",
+        "fitment_page_sha256": "98f9f597d2751a3566bc81a95fa6bd11b3ecfa45c287e4228bca711355fcba8d",
+        "verified_at_utc": "2026-11-19T07:55:59.917913+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:51.241158+00:00"
+    },
+    {
+      "id": "irk-0d8dde3b69a0bac536873a",
+      "brand": "SUFIX",
+      "article": "ST1173",
+      "category": "ШРУС",
+      "retail": 2500,
+      "photo": {
+        "filename": "irk-0d8dde3b69a0bac536873a-75d66038cc5f.jpg",
+        "sha256": "75d66038cc5f871c2bc4f31a234b162db6c7e965143f0c603a1872cec24e95db",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0d8dde3b69a0bac536873a-75d66038cc5f.jpg",
+        "manufacturer_page_sha256": "54b34f9f48f51896788d3afc0a6ea07b7686a4d24af1465ad7bc2c7cea2e6de9",
+        "fitment_page_sha256": "54b34f9f48f51896788d3afc0a6ea07b7686a4d24af1465ad7bc2c7cea2e6de9",
+        "verified_at_utc": "2026-11-19T07:56:00.137483+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:52.756365+00:00"
+    },
+    {
+      "id": "irk-6f2763a2c9e178221e5541",
+      "brand": "SUFIX",
+      "article": "ST1174",
+      "category": "ШРУС",
+      "retail": 2450,
+      "photo": {
+        "filename": "irk-6f2763a2c9e178221e5541-4a3fc4beedef.jpg",
+        "sha256": "4a3fc4beedef84c57fa2f445b95ba7bb36df407433db36152fe205dd54c18670",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6f2763a2c9e178221e5541-4a3fc4beedef.jpg",
+        "manufacturer_page_sha256": "33ab3fdf07bc7905984ae1b2a8c176d231fd74faa12ae698a68bc3ee83efbec6",
+        "fitment_page_sha256": "33ab3fdf07bc7905984ae1b2a8c176d231fd74faa12ae698a68bc3ee83efbec6",
+        "verified_at_utc": "2026-11-19T07:56:03.494326+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:54.101553+00:00"
+    },
+    {
+      "id": "irk-14f08659786973ffd91a9a",
+      "brand": "SUFIX",
+      "article": "ST1175",
+      "category": "ШРУС",
+      "retail": 2100,
+      "photo": {
+        "filename": "irk-14f08659786973ffd91a9a-be1db90e3833.jpg",
+        "sha256": "be1db90e3833bd81e053391d0a50a018d9405cf95b92f6b75a24c52f9b485020",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-14f08659786973ffd91a9a-be1db90e3833.jpg",
+        "manufacturer_page_sha256": "7c42febf02dd91dec3eaca5452b28b232eab54610709725e37b112761c8d1857",
+        "fitment_page_sha256": "7c42febf02dd91dec3eaca5452b28b232eab54610709725e37b112761c8d1857",
+        "verified_at_utc": "2026-11-19T07:56:02.626074+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:55.593137+00:00"
+    },
+    {
+      "id": "irk-d1df3222934bed095a88e2",
+      "brand": "SUFIX",
+      "article": "ST1177",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-d1df3222934bed095a88e2-d65c1c008267.jpg",
+        "sha256": "d65c1c00826712db4a6d0724c7cbbf9c7b024712cb8ddf7aa9d55612e96e6509",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d1df3222934bed095a88e2-d65c1c008267.jpg",
+        "manufacturer_page_sha256": "2d59c2436eb43da31d11a0fec617c426eab9af2cec4a630c2277220bbedddb96",
+        "fitment_page_sha256": "2d59c2436eb43da31d11a0fec617c426eab9af2cec4a630c2277220bbedddb96",
+        "verified_at_utc": "2026-11-19T07:56:04.527825+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:57.099571+00:00"
+    },
+    {
+      "id": "irk-3ed2c2c10afdf53b30cf09",
+      "brand": "SUFIX",
+      "article": "ST1178",
+      "category": "ШРУС",
+      "retail": 2500,
+      "photo": {
+        "filename": "irk-3ed2c2c10afdf53b30cf09-a41c88555b63.jpg",
+        "sha256": "a41c88555b632c3ad9463773b435bc56c3002ed07e42fec3e89f606b1f42b02c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3ed2c2c10afdf53b30cf09-a41c88555b63.jpg",
+        "manufacturer_page_sha256": "a7cb8217ed224a5565f7b9dad53f76b72f77457a4f3b58ac2bb222d388a7f229",
+        "fitment_page_sha256": "a7cb8217ed224a5565f7b9dad53f76b72f77457a4f3b58ac2bb222d388a7f229",
+        "verified_at_utc": "2026-11-19T07:56:05.313089+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:57:58.502832+00:00"
+    },
+    {
+      "id": "irk-2522e1b3316f5c17d8b68c",
+      "brand": "SUFIX",
+      "article": "ST1183",
+      "category": "ШРУС",
+      "retail": 2950,
+      "photo": {
+        "filename": "irk-2522e1b3316f5c17d8b68c-8d485c605d6e.jpg",
+        "sha256": "8d485c605d6e0508fcbc2a310c01c83a11032c5b33bb824e899469afffcd4d6e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2522e1b3316f5c17d8b68c-8d485c605d6e.jpg",
+        "manufacturer_page_sha256": "d6559c2a1e2441b8277717f0ae69474b3a432933a743a293010a484fdd4bc978",
+        "fitment_page_sha256": "d6559c2a1e2441b8277717f0ae69474b3a432933a743a293010a484fdd4bc978",
+        "verified_at_utc": "2026-11-19T07:56:07.115843+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:00.135238+00:00"
+    },
+    {
+      "id": "irk-113c11209360f19d3825a8",
+      "brand": "SUFIX",
+      "article": "ST1188",
+      "category": "ШРУС",
+      "retail": 3050,
+      "photo": {
+        "filename": "irk-113c11209360f19d3825a8-6a4d97c3dba1.jpg",
+        "sha256": "6a4d97c3dba1943a00b4cc379d5d0fd5b957bb89ff8d13f89ecad084f11bd455",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-113c11209360f19d3825a8-6a4d97c3dba1.jpg",
+        "manufacturer_page_sha256": "c9add4ca3a77c63378ed9a05f52c43ea7084562d64b71f620f87b6a84abb736a",
+        "fitment_page_sha256": "c9add4ca3a77c63378ed9a05f52c43ea7084562d64b71f620f87b6a84abb736a",
+        "verified_at_utc": "2026-11-19T07:56:07.162875+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:01.455041+00:00"
+    },
+    {
+      "id": "irk-59a177640c8542323b6eff",
+      "brand": "SUFIX",
+      "article": "ST1196",
+      "category": "ШРУС",
+      "retail": 2900,
+      "photo": {
+        "filename": "irk-59a177640c8542323b6eff-7617f66f97c0.jpg",
+        "sha256": "7617f66f97c09bfeef0fa4c01fd84f6312ea1ddaba660144948434fa34319e20",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-59a177640c8542323b6eff-7617f66f97c0.jpg",
+        "manufacturer_page_sha256": "a516d34eeee3e7ab0c499acce7ba06e775343efb12a131cfa286fe603dc06702",
+        "fitment_page_sha256": "a516d34eeee3e7ab0c499acce7ba06e775343efb12a131cfa286fe603dc06702",
+        "verified_at_utc": "2026-11-19T07:56:09.043834+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:02.900116+00:00"
+    },
+    {
+      "id": "irk-8e9d38dd5d75fded1d55f7",
+      "brand": "SUFIX",
+      "article": "ST1198",
+      "category": "ШРУС",
+      "retail": 2200,
+      "photo": {
+        "filename": "irk-8e9d38dd5d75fded1d55f7-11af201e2127.jpg",
+        "sha256": "11af201e212753ca8512f7178a42d88941e729d2aec71f49c29449cc06f00c94",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8e9d38dd5d75fded1d55f7-11af201e2127.jpg",
+        "manufacturer_page_sha256": "3103c289ec9d50ef384f12aa2e84d89c42190b9f0bef1406dd6d1fc9f95e48d0",
+        "fitment_page_sha256": "3103c289ec9d50ef384f12aa2e84d89c42190b9f0bef1406dd6d1fc9f95e48d0",
+        "verified_at_utc": "2026-11-19T07:56:09.082503+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:04.252787+00:00"
+    },
+    {
+      "id": "irk-d98bf3fea4d6f27c90216e",
+      "brand": "SUFIX",
+      "article": "ST1205",
+      "category": "ШРУС",
+      "retail": 3000,
+      "photo": {
+        "filename": "irk-d98bf3fea4d6f27c90216e-1161c2d720bc.jpg",
+        "sha256": "1161c2d720bc21807b59edaded02b861ed0d7aff2595d2fd4a9986c02d1be4ca",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d98bf3fea4d6f27c90216e-1161c2d720bc.jpg",
+        "manufacturer_page_sha256": "655d7059963916a0f05b081c57034745d8b0fd225d7ad8fcbf982adc3b72f266",
+        "fitment_page_sha256": "655d7059963916a0f05b081c57034745d8b0fd225d7ad8fcbf982adc3b72f266",
+        "verified_at_utc": "2026-11-19T07:56:11.910550+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:05.674598+00:00"
+    },
+    {
+      "id": "irk-2b3de0ac71d005e8b49233",
+      "brand": "SUFIX",
+      "article": "ST1206",
+      "category": "ШРУС",
+      "retail": 3500,
+      "photo": {
+        "filename": "irk-2b3de0ac71d005e8b49233-10138bd4eeb2.jpg",
+        "sha256": "10138bd4eeb2d69c4ace5e83052320323e007fe0684fe76ae45ac22fd9f991c8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2b3de0ac71d005e8b49233-10138bd4eeb2.jpg",
+        "manufacturer_page_sha256": "bf3e42c22ce0f912f4a2e51db8d30eeda68c86cff9271896a1fdc161eaee63ec",
+        "fitment_page_sha256": "bf3e42c22ce0f912f4a2e51db8d30eeda68c86cff9271896a1fdc161eaee63ec",
+        "verified_at_utc": "2026-11-19T07:56:10.971298+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:07.406107+00:00"
+    },
+    {
+      "id": "irk-219f0209b6b72ca7cfb6d7",
+      "brand": "SUFIX",
+      "article": "ST1208",
+      "category": "ШРУС",
+      "retail": 2650,
+      "photo": {
+        "filename": "irk-219f0209b6b72ca7cfb6d7-f6cd016175b1.jpg",
+        "sha256": "f6cd016175b1ba97b842ec894f58cc9ca8b8bff508c20eabc3891e31d1075934",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-219f0209b6b72ca7cfb6d7-f6cd016175b1.jpg",
+        "manufacturer_page_sha256": "133451745841196e8effa5a988a9ad274c190bb5e64adc1c109e261725fae36d",
+        "fitment_page_sha256": "133451745841196e8effa5a988a9ad274c190bb5e64adc1c109e261725fae36d",
+        "verified_at_utc": "2026-11-19T07:56:13.022026+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:09.328439+00:00"
+    },
+    {
+      "id": "irk-e00055e63d3668f069d2b3",
+      "brand": "SUFIX",
+      "article": "ST1214",
+      "category": "ШРУС",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-e00055e63d3668f069d2b3-a223425e46c0.jpg",
+        "sha256": "a223425e46c003ab29daa13ae1a56a4f8ebcd214cde9419225539fa04e595239",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e00055e63d3668f069d2b3-a223425e46c0.jpg",
+        "manufacturer_page_sha256": "96d148a2a4e3de45cc41f8127eb040c310f25679986e7cac6f9653138d37e6c0",
+        "fitment_page_sha256": "96d148a2a4e3de45cc41f8127eb040c310f25679986e7cac6f9653138d37e6c0",
+        "verified_at_utc": "2026-11-19T07:56:14.024945+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:10.906991+00:00"
+    },
+    {
+      "id": "irk-f5eef4727b31c0d3d1d21d",
+      "brand": "SUFIX",
+      "article": "ST1237",
+      "category": "ШРУС",
+      "retail": 2200,
+      "photo": {
+        "filename": "irk-f5eef4727b31c0d3d1d21d-1a8a20ad98f2.jpg",
+        "sha256": "1a8a20ad98f248f496f473b2729283ff83b4ca6693df662176152ec9c89146f8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f5eef4727b31c0d3d1d21d-1a8a20ad98f2.jpg",
+        "manufacturer_page_sha256": "b4c77a0ce388fa411b2f9039af45f2b766653b560498ab98337a1f39a8b6d17c",
+        "fitment_page_sha256": "b4c77a0ce388fa411b2f9039af45f2b766653b560498ab98337a1f39a8b6d17c",
+        "verified_at_utc": "2026-11-19T07:56:14.913232+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:12.615229+00:00"
+    },
+    {
+      "id": "irk-41e1a7738a71205046efc9",
+      "brand": "SUFIX",
+      "article": "ST1242",
+      "category": "ШРУС",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-41e1a7738a71205046efc9-3266c4c97e6f.jpg",
+        "sha256": "3266c4c97e6fb38429d2bd629c822d0a2f59eb3b7de4a8435470b3225b94b146",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-41e1a7738a71205046efc9-3266c4c97e6f.jpg",
+        "manufacturer_page_sha256": "cabbd581b2996202025c6af65e6a341e332f9739b75234ee089d0b46f9135892",
+        "fitment_page_sha256": "cabbd581b2996202025c6af65e6a341e332f9739b75234ee089d0b46f9135892",
+        "verified_at_utc": "2026-11-19T07:56:15.881360+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:14.044942+00:00"
+    },
+    {
+      "id": "irk-e6a85e7bdc1a49d5f6630f",
+      "brand": "SUFIX",
+      "article": "ST1245",
+      "category": "ШРУС",
+      "retail": 3050,
+      "photo": {
+        "filename": "irk-e6a85e7bdc1a49d5f6630f-4edf0ce50199.jpg",
+        "sha256": "4edf0ce501994a5c3c0d2e64c50d2e1f530d593b1c8c64c16aaeba00ad4c4de5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e6a85e7bdc1a49d5f6630f-4edf0ce50199.jpg",
+        "manufacturer_page_sha256": "2f3759a9b925a7b958c4863a5ad4bfd4a17007e0793b6b515d4eb5341389e658",
+        "fitment_page_sha256": "2f3759a9b925a7b958c4863a5ad4bfd4a17007e0793b6b515d4eb5341389e658",
+        "verified_at_utc": "2026-11-19T07:56:16.740731+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:15.561089+00:00"
+    },
+    {
+      "id": "irk-418a10632745993ef1d418",
+      "brand": "SUFIX",
+      "article": "ST1247",
+      "category": "ШРУС",
+      "retail": 1950,
+      "photo": {
+        "filename": "irk-418a10632745993ef1d418-dfc2ae1b6398.jpg",
+        "sha256": "dfc2ae1b63989a8458706463bd21f511abd2a52f1a4e363a6a34c4d40296568c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-418a10632745993ef1d418-dfc2ae1b6398.jpg",
+        "manufacturer_page_sha256": "9278ae9a63d872909ed26c96429e41d9e2a10b912a0bd1363c24e8ff3532e326",
+        "fitment_page_sha256": "9278ae9a63d872909ed26c96429e41d9e2a10b912a0bd1363c24e8ff3532e326",
+        "verified_at_utc": "2026-11-19T07:56:17.792099+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:58:16.920363+00:00"
+    },
+    {
+      "id": "irk-321215f2662442f21d4d85",
+      "brand": "SUFIX",
+      "article": "ST1252",
+      "category": "ШРУС",
       "retail": 3400,
       "photo": {
-        "filename": "irk-86715c3c2c801c307200be-fff783cd5d26.jpg",
-        "sha256": "fff783cd5d2605cdff4ecda2d10043908656d561f83b3dfe3dcbcd6e16a3b795",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-86715c3c2c801c307200be-fff783cd5d26.jpg",
-        "manufacturer_page_sha256": "01219a3792528853e7219c87a88bf394573637b823a668daeb15961d52937278",
-        "fitment_page_sha256": "01219a3792528853e7219c87a88bf394573637b823a668daeb15961d52937278",
-        "verified_at_utc": "2026-11-19T07:12:37.920217+00:00"
+        "filename": "irk-321215f2662442f21d4d85-9fc4216833ac.jpg",
+        "sha256": "9fc4216833ac00c0ef483c8d79fa20a4a54e199b38b779bf6182b9ffd0071d76",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-321215f2662442f21d4d85-9fc4216833ac.jpg",
+        "manufacturer_page_sha256": "b7a18583c040f58c278857dcf343df5bd9c06d101520ae843bb74daa38e3962f",
+        "fitment_page_sha256": "b7a18583c040f58c278857dcf343df5bd9c06d101520ae843bb74daa38e3962f",
+        "verified_at_utc": "2026-11-19T07:56:18.524075+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:35.787391+00:00"
+      "API_checked_at_utc": "2026-11-19T07:58:19.173587+00:00"
     },
     {
-      "id": "irk-6d83373c7408eefb5330c3",
+      "id": "irk-78053e4e74fb9c221e1e51",
       "brand": "SUFIX",
-      "article": "XG1030",
-      "category": "Радиаторы охлаждения",
-      "retail": 4400,
+      "article": "ST1255",
+      "category": "ШРУС",
+      "retail": 3450,
       "photo": {
-        "filename": "irk-6d83373c7408eefb5330c3-f944a9d8b87e.jpg",
-        "sha256": "f944a9d8b87ed0642df0af56909c89c802607333f8bd2d55e8ee79f54253de53",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6d83373c7408eefb5330c3-f944a9d8b87e.jpg",
-        "manufacturer_page_sha256": "308b6730aa52e6d9cd9a433bf604112fb16af016bab4f52af57e2fcd48874320",
-        "fitment_page_sha256": "308b6730aa52e6d9cd9a433bf604112fb16af016bab4f52af57e2fcd48874320",
-        "verified_at_utc": "2026-11-19T07:12:37.927993+00:00"
+        "filename": "irk-78053e4e74fb9c221e1e51-048818e072d8.jpg",
+        "sha256": "048818e072d8efd6f9c1ddaee1f36b954298bcfc362f593cb1da7704cbba9689",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-78053e4e74fb9c221e1e51-048818e072d8.jpg",
+        "manufacturer_page_sha256": "fc5f279953db0d92ffd23fde870b8e4336794289cbf18dea6611f7e3a7b957b7",
+        "fitment_page_sha256": "fc5f279953db0d92ffd23fde870b8e4336794289cbf18dea6611f7e3a7b957b7",
+        "verified_at_utc": "2026-11-19T07:56:20.911309+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:37.560186+00:00"
+      "API_checked_at_utc": "2026-11-19T07:58:20.830770+00:00"
     },
     {
-      "id": "irk-73763081500ac4f5a5906a",
+      "id": "irk-2d7939713b1938ea8937d6",
       "brand": "SUFIX",
-      "article": "XG1031",
-      "category": "Радиаторы охлаждения",
-      "retail": 3900,
+      "article": "ST1256",
+      "category": "ШРУС",
+      "retail": 3500,
       "photo": {
-        "filename": "irk-73763081500ac4f5a5906a-7127356de249.jpg",
-        "sha256": "7127356de2490ed88a919dd63b109348915409cf25b680678a8cc17981b066f7",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-73763081500ac4f5a5906a-7127356de249.jpg",
-        "manufacturer_page_sha256": "8c93125196904a725dfa08a4f8dc9f3697be2b693eb5ab04f26461549dc16922",
-        "fitment_page_sha256": "8c93125196904a725dfa08a4f8dc9f3697be2b693eb5ab04f26461549dc16922",
-        "verified_at_utc": "2026-11-19T07:12:39.920081+00:00"
+        "filename": "irk-2d7939713b1938ea8937d6-ac1c53df3f96.jpg",
+        "sha256": "ac1c53df3f96e1d02160ec5a1163d3fd42ec316898ef3580042b9093901b1f87",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2d7939713b1938ea8937d6-ac1c53df3f96.jpg",
+        "manufacturer_page_sha256": "87e5422ecafc0380f3c910ae363995f1336a7a0afd2c97a9855b4ebec1242d86",
+        "fitment_page_sha256": "87e5422ecafc0380f3c910ae363995f1336a7a0afd2c97a9855b4ebec1242d86",
+        "verified_at_utc": "2026-11-19T07:56:20.705572+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:39.076784+00:00"
+      "API_checked_at_utc": "2026-11-19T07:58:22.478406+00:00"
     },
     {
-      "id": "irk-7cea63132c57a5f9041024",
+      "id": "irk-c5c4f9a03d10cf24fd9e44",
       "brand": "SUFIX",
-      "article": "XG1034",
-      "category": "Радиаторы охлаждения",
-      "retail": 3100,
+      "article": "ST1262",
+      "category": "ШРУС",
+      "retail": 2850,
       "photo": {
-        "filename": "irk-7cea63132c57a5f9041024-f7596c36c139.jpg",
-        "sha256": "f7596c36c139bfd18d2498f50f28bbe60c04804b45bdf3d1f6458770d69dbb4b",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7cea63132c57a5f9041024-f7596c36c139.jpg",
-        "manufacturer_page_sha256": "a8e6069406bd62863ffda54f90f50e8313cfda6816cca381536e9bb3ad90a836",
-        "fitment_page_sha256": "a8e6069406bd62863ffda54f90f50e8313cfda6816cca381536e9bb3ad90a836",
-        "verified_at_utc": "2026-11-19T07:12:39.908346+00:00"
+        "filename": "irk-c5c4f9a03d10cf24fd9e44-c9dd123ca9ca.jpg",
+        "sha256": "c9dd123ca9ca3990d2410a8b5d8589574b88a9da41c68a704cfd7e392b2f6beb",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c5c4f9a03d10cf24fd9e44-c9dd123ca9ca.jpg",
+        "manufacturer_page_sha256": "798b8f0da4adc0b97de8b152b6fa91e47b0ca2e59e1c6e2dbfb9e8d33e85c9a6",
+        "fitment_page_sha256": "798b8f0da4adc0b97de8b152b6fa91e47b0ca2e59e1c6e2dbfb9e8d33e85c9a6",
+        "verified_at_utc": "2026-11-19T07:56:22.757266+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:41.019338+00:00"
+      "API_checked_at_utc": "2026-11-19T07:58:24.461359+00:00"
     },
     {
-      "id": "irk-203c3e0fb248416fa67887",
+      "id": "irk-ef75198411ef432b92b26f",
       "brand": "SUFIX",
-      "article": "XG1047",
-      "category": "Радиаторы охлаждения",
-      "retail": 9450,
+      "article": "ST1263",
+      "category": "ШРУС",
+      "retail": 3050,
       "photo": {
-        "filename": "irk-203c3e0fb248416fa67887-6c7dd580bb3b.jpg",
-        "sha256": "6c7dd580bb3bc7fedd12d111d3089e8757980c478cd0fb7232980b269f90eae1",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-203c3e0fb248416fa67887-6c7dd580bb3b.jpg",
-        "manufacturer_page_sha256": "f13fac9486a41a962bb043e4853f852e4611e4700a6f16b76b840cab09b35232",
-        "fitment_page_sha256": "f13fac9486a41a962bb043e4853f852e4611e4700a6f16b76b840cab09b35232",
-        "verified_at_utc": "2026-11-19T07:12:42.040581+00:00"
+        "filename": "irk-ef75198411ef432b92b26f-9f3752d55187.jpg",
+        "sha256": "9f3752d5518707e0b68b04fc9af3e86d01d5a5dbdb1eb2a00b9886cabe9361b5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ef75198411ef432b92b26f-9f3752d55187.jpg",
+        "manufacturer_page_sha256": "0f69e387c10a043ece2a8a05012cc541d75ef06ad21270c9f1027b7d4f491f41",
+        "fitment_page_sha256": "0f69e387c10a043ece2a8a05012cc541d75ef06ad21270c9f1027b7d4f491f41",
+        "verified_at_utc": "2026-11-19T07:56:22.935352+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T07:13:42.456636+00:00"
-    },
-    {
-      "id": "irk-70c589bd5b6e1a051f33fc",
-      "brand": "SUFIX",
-      "article": "XG1050",
-      "category": "Радиаторы охлаждения",
-      "retail": 10550,
-      "photo": {
-        "filename": "irk-70c589bd5b6e1a051f33fc-efd7b9f65368.jpg",
-        "sha256": "efd7b9f65368f7befb3e861e3149092c3f79d5a0d2ed2b4a48ef886f53ee1451",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-70c589bd5b6e1a051f33fc-efd7b9f65368.jpg",
-        "manufacturer_page_sha256": "e158cca984d7a98112c912c8911bb6df730f2e4acb81d7cb70cab8d223115e06",
-        "fitment_page_sha256": "e158cca984d7a98112c912c8911bb6df730f2e4acb81d7cb70cab8d223115e06",
-        "verified_at_utc": "2026-11-19T07:12:42.020229+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:43.839971+00:00"
-    },
-    {
-      "id": "irk-e0e45cfeff29e10c0db900",
-      "brand": "SUFIX",
-      "article": "XG1054",
-      "category": "Радиаторы охлаждения",
-      "retail": 8650,
-      "photo": {
-        "filename": "irk-e0e45cfeff29e10c0db900-152e678dba2b.jpg",
-        "sha256": "152e678dba2b02265727ca5d750303a765cc367c0309462aa84dd585726900ec",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e0e45cfeff29e10c0db900-152e678dba2b.jpg",
-        "manufacturer_page_sha256": "711a270829ebe03c0557bce518171d4dcb894378dc02444ad49a08ced30baef9",
-        "fitment_page_sha256": "711a270829ebe03c0557bce518171d4dcb894378dc02444ad49a08ced30baef9",
-        "verified_at_utc": "2026-11-19T07:12:44.377572+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:45.254380+00:00"
-    },
-    {
-      "id": "irk-51552a5e3a33436f0f49f7",
-      "brand": "SUFIX",
-      "article": "XG1055",
-      "category": "Радиаторы охлаждения",
-      "retail": 7200,
-      "photo": {
-        "filename": "irk-51552a5e3a33436f0f49f7-ac2d428b6521.jpg",
-        "sha256": "ac2d428b6521314f27ef4d6eab6e885cfbdfbf97c723bbccf8b543dec50d920c",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-51552a5e3a33436f0f49f7-ac2d428b6521.jpg",
-        "manufacturer_page_sha256": "9903127cb273a0e3bc6c5b779b70ea93053da9ba5cad19087544025e11ee6bf2",
-        "fitment_page_sha256": "9903127cb273a0e3bc6c5b779b70ea93053da9ba5cad19087544025e11ee6bf2",
-        "verified_at_utc": "2026-11-19T07:12:44.348365+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:46.822644+00:00"
-    },
-    {
-      "id": "irk-b5d94fedb4273e39d19607",
-      "brand": "SUFIX",
-      "article": "XG1058",
-      "category": "Радиаторы охлаждения",
-      "retail": 7700,
-      "photo": {
-        "filename": "irk-b5d94fedb4273e39d19607-7deaa51fda54.jpg",
-        "sha256": "7deaa51fda54d44574271ced7db2f91100c78a909d062ea4e74bbcce42395447",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b5d94fedb4273e39d19607-7deaa51fda54.jpg",
-        "manufacturer_page_sha256": "7d7689b63697da4d0224ebc517fc8fdd38df10caeea433372173a2ebed89d045",
-        "fitment_page_sha256": "7d7689b63697da4d0224ebc517fc8fdd38df10caeea433372173a2ebed89d045",
-        "verified_at_utc": "2026-11-19T07:12:47.016892+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:48.837743+00:00"
-    },
-    {
-      "id": "irk-f5b023328903383d8a26f0",
-      "brand": "SUFIX",
-      "article": "XG1063",
-      "category": "Радиаторы охлаждения",
-      "retail": 8200,
-      "photo": {
-        "filename": "irk-f5b023328903383d8a26f0-02fa4963f83d.jpg",
-        "sha256": "02fa4963f83db3472313cd6207c502d3fae91f4d1b996e190f322c7cc52c8ff6",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f5b023328903383d8a26f0-02fa4963f83d.jpg",
-        "manufacturer_page_sha256": "5663ddf2f2b20e3339f45b74f75882d3416ffe064730e7fbff9a644d69fe0a22",
-        "fitment_page_sha256": "5663ddf2f2b20e3339f45b74f75882d3416ffe064730e7fbff9a644d69fe0a22",
-        "verified_at_utc": "2026-11-19T07:12:46.527959+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:50.511559+00:00"
-    },
-    {
-      "id": "irk-d17e0d64af7435d33546d4",
-      "brand": "SUFIX",
-      "article": "XG1080",
-      "category": "Радиаторы охлаждения",
-      "retail": 7650,
-      "photo": {
-        "filename": "irk-d17e0d64af7435d33546d4-6587c85ad137.jpg",
-        "sha256": "6587c85ad13761bb8367a5d0b9bbfe3975548b07530ce6a2280cbaca1a518294",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d17e0d64af7435d33546d4-6587c85ad137.jpg",
-        "manufacturer_page_sha256": "07546e9f41495f6587a721e68ef3dbb80c17c990b68b11bded9e3a665ff7bde4",
-        "fitment_page_sha256": "07546e9f41495f6587a721e68ef3dbb80c17c990b68b11bded9e3a665ff7bde4",
-        "verified_at_utc": "2026-11-19T07:12:51.403377+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:51.888314+00:00"
-    },
-    {
-      "id": "irk-c4c7558fd72252dec4ef94",
-      "brand": "SUFIX",
-      "article": "XG1085",
-      "category": "Радиаторы охлаждения",
-      "retail": 9000,
-      "photo": {
-        "filename": "irk-c4c7558fd72252dec4ef94-e37c8bf75c77.jpg",
-        "sha256": "e37c8bf75c776c47c9c1ce599a3bbcc5b97b8a76e66e6498d767f50c66d01267",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c4c7558fd72252dec4ef94-e37c8bf75c77.jpg",
-        "manufacturer_page_sha256": "c5c52c6ab9e3e261aeb95e52a7a9db0d21081a7b7d2c04805db02454b94aeba4",
-        "fitment_page_sha256": "c5c52c6ab9e3e261aeb95e52a7a9db0d21081a7b7d2c04805db02454b94aeba4",
-        "verified_at_utc": "2026-11-19T07:12:50.683785+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:53.271798+00:00"
-    },
-    {
-      "id": "irk-a792417c113de097b12ea8",
-      "brand": "SUFIX",
-      "article": "XG1086",
-      "category": "Радиаторы охлаждения",
-      "retail": 8250,
-      "photo": {
-        "filename": "irk-a792417c113de097b12ea8-a10b0419db1a.jpg",
-        "sha256": "a10b0419db1ab443ea2e2feb9fa4de032458d9dd2905bde58d19811fe182b76d",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a792417c113de097b12ea8-a10b0419db1a.jpg",
-        "manufacturer_page_sha256": "8c32634a088f9e17e6e6bf8d75cef4c43ff594cf00d96bec5a3f368e63e64434",
-        "fitment_page_sha256": "8c32634a088f9e17e6e6bf8d75cef4c43ff594cf00d96bec5a3f368e63e64434",
-        "verified_at_utc": "2026-11-19T07:12:52.609445+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:54.955531+00:00"
-    },
-    {
-      "id": "irk-f97b73927b312c088988fa",
-      "brand": "SUFIX",
-      "article": "XG1087",
-      "category": "Радиаторы охлаждения",
-      "retail": 7000,
-      "photo": {
-        "filename": "irk-f97b73927b312c088988fa-dc57f9544412.jpg",
-        "sha256": "dc57f9544412d1611c7ec0400fadc165392f52e31d4f69e943f27b02daf65347",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f97b73927b312c088988fa-dc57f9544412.jpg",
-        "manufacturer_page_sha256": "fe51268c4456ac922c65ce26259235e13fb73a69d326d4a25039fdd120e468c5",
-        "fitment_page_sha256": "fe51268c4456ac922c65ce26259235e13fb73a69d326d4a25039fdd120e468c5",
-        "verified_at_utc": "2026-11-19T07:12:53.563065+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:56.266528+00:00"
-    },
-    {
-      "id": "irk-bb854386b27e544aba6800",
-      "brand": "SUFIX",
-      "article": "XG1093",
-      "category": "Радиаторы охлаждения",
-      "retail": 7500,
-      "photo": {
-        "filename": "irk-bb854386b27e544aba6800-fb4d59455edf.jpg",
-        "sha256": "fb4d59455edf1f8db3e344a72d3f4951373e52084e6a365e7f20827c8b1d0f55",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bb854386b27e544aba6800-fb4d59455edf.jpg",
-        "manufacturer_page_sha256": "16536e9607bb19cbbaa3223a9bc641c4d5160fe23a2936d9066273ebc5721552",
-        "fitment_page_sha256": "16536e9607bb19cbbaa3223a9bc641c4d5160fe23a2936d9066273ebc5721552",
-        "verified_at_utc": "2026-11-19T07:12:54.756123+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:57.729970+00:00"
-    },
-    {
-      "id": "irk-e605eb6217911347779e3c",
-      "brand": "SUFIX",
-      "article": "XG1095",
-      "category": "Радиаторы охлаждения",
-      "retail": 11600,
-      "photo": {
-        "filename": "irk-e605eb6217911347779e3c-6ce3360fd27d.jpg",
-        "sha256": "6ce3360fd27dc5e9d4708eb44b1b2a918b9a37116f31d4ab9b99b810a515b533",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e605eb6217911347779e3c-6ce3360fd27d.jpg",
-        "manufacturer_page_sha256": "dd2752ca36b057db4ebbd38a82b52d8a4f605f7989b14e9403aed8d30c47c5d8",
-        "fitment_page_sha256": "dd2752ca36b057db4ebbd38a82b52d8a4f605f7989b14e9403aed8d30c47c5d8",
-        "verified_at_utc": "2026-11-19T07:12:55.499133+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:13:59.010540+00:00"
-    },
-    {
-      "id": "irk-a97e7cbfd3f97ab6c8c276",
-      "brand": "SUFIX",
-      "article": "XG1098",
-      "category": "Радиаторы охлаждения",
-      "retail": 9300,
-      "photo": {
-        "filename": "irk-a97e7cbfd3f97ab6c8c276-01011a7773c2.jpg",
-        "sha256": "01011a7773c2dcd30a3b60e46eceb7fb538de1d069a6abbbb709de0b51394480",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a97e7cbfd3f97ab6c8c276-01011a7773c2.jpg",
-        "manufacturer_page_sha256": "385d7288f626eaa38727e4cbef43df086701a76022afbc08e4ed5b255a5fe1e3",
-        "fitment_page_sha256": "385d7288f626eaa38727e4cbef43df086701a76022afbc08e4ed5b255a5fe1e3",
-        "verified_at_utc": "2026-11-19T07:12:56.722195+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:00.541825+00:00"
-    },
-    {
-      "id": "irk-44ef362b185baffe348812",
-      "brand": "SUFIX",
-      "article": "XG1102",
-      "category": "Радиаторы охлаждения",
-      "retail": 6850,
-      "photo": {
-        "filename": "irk-44ef362b185baffe348812-dd785abca28e.jpg",
-        "sha256": "dd785abca28ea644b624aeafd2240d6bc9d8e64e3ac39f2e4c1567dc8f67c4c3",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-44ef362b185baffe348812-dd785abca28e.jpg",
-        "manufacturer_page_sha256": "c0d885ddb9a972c056c8d6972cad5838320b04e461eb14ee3fae539cee152681",
-        "fitment_page_sha256": "c0d885ddb9a972c056c8d6972cad5838320b04e461eb14ee3fae539cee152681",
-        "verified_at_utc": "2026-11-19T07:12:57.403566+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:02.105591+00:00"
-    },
-    {
-      "id": "irk-8a3c08ea0c759fd08c59f9",
-      "brand": "SUFIX",
-      "article": "XG1103",
-      "category": "Радиаторы охлаждения",
-      "retail": 9050,
-      "photo": {
-        "filename": "irk-8a3c08ea0c759fd08c59f9-6a14b6535a10.jpg",
-        "sha256": "6a14b6535a1098e295aef0b7ad1327ee587faa735478446e9b595e3e140f7936",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8a3c08ea0c759fd08c59f9-6a14b6535a10.jpg",
-        "manufacturer_page_sha256": "d44ce491dc321d8e353922a742b17f82feabd0528471fca0fee95ea2d4535a18",
-        "fitment_page_sha256": "d44ce491dc321d8e353922a742b17f82feabd0528471fca0fee95ea2d4535a18",
-        "verified_at_utc": "2026-11-19T07:12:58.618366+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:04.043576+00:00"
-    },
-    {
-      "id": "irk-7c66580a2dccf598c36aa0",
-      "brand": "SUFIX",
-      "article": "XG1114",
-      "category": "Радиаторы охлаждения",
-      "retail": 9350,
-      "photo": {
-        "filename": "irk-7c66580a2dccf598c36aa0-4de4e5654056.jpg",
-        "sha256": "4de4e56540562ef4888c7843f829c995581d419c30ba9082e7921cc65f96f14e",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7c66580a2dccf598c36aa0-4de4e5654056.jpg",
-        "manufacturer_page_sha256": "cbd47e7cd92cbd6126b8cb1d3ee16549c1ab79152d188a1b6d7cc88dbb0b38c9",
-        "fitment_page_sha256": "cbd47e7cd92cbd6126b8cb1d3ee16549c1ab79152d188a1b6d7cc88dbb0b38c9",
-        "verified_at_utc": "2026-11-19T07:12:59.387993+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:05.725769+00:00"
-    },
-    {
-      "id": "irk-eebc532234e142c9224786",
-      "brand": "SUFIX",
-      "article": "XG1122",
-      "category": "Радиаторы охлаждения",
-      "retail": 9150,
-      "photo": {
-        "filename": "irk-eebc532234e142c9224786-85924e85afdc.jpg",
-        "sha256": "85924e85afdca19de3aa24a9f9ec6fb3538ee796aeae0d08f80b0d82d1706ccb",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-eebc532234e142c9224786-85924e85afdc.jpg",
-        "manufacturer_page_sha256": "2a2797203c38ba17c2e5c195e7dc573045c2fdbb8a15baaa64cfed49fce1beca",
-        "fitment_page_sha256": "2a2797203c38ba17c2e5c195e7dc573045c2fdbb8a15baaa64cfed49fce1beca",
-        "verified_at_utc": "2026-11-19T07:13:00.852464+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:07.315459+00:00"
-    },
-    {
-      "id": "irk-35dfcfceccc326228381ef",
-      "brand": "SUFIX",
-      "article": "XG1152",
-      "category": "Радиаторы охлаждения",
-      "retail": 8750,
-      "photo": {
-        "filename": "irk-35dfcfceccc326228381ef-521c27a85728.jpg",
-        "sha256": "521c27a85728de2c21678b027d407a8b62d6fd95c04e048b735efb94488703e0",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-35dfcfceccc326228381ef-521c27a85728.jpg",
-        "manufacturer_page_sha256": "50bbdd643c7e0e6fbd641158a70bfc4e55100402cbd60f7680758acbfb53159b",
-        "fitment_page_sha256": "50bbdd643c7e0e6fbd641158a70bfc4e55100402cbd60f7680758acbfb53159b",
-        "verified_at_utc": "2026-11-19T07:13:01.273866+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:08.893386+00:00"
-    },
-    {
-      "id": "irk-153ad28d23f2b59028375b",
-      "brand": "SUFIX",
-      "article": "XG1168",
-      "category": "Радиаторы охлаждения",
-      "retail": 9750,
-      "photo": {
-        "filename": "irk-153ad28d23f2b59028375b-fddb55dfd6eb.jpg",
-        "sha256": "fddb55dfd6eb4c6863870736cdbbefeec9636c1161a29f3246df75916a414c4a",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-153ad28d23f2b59028375b-fddb55dfd6eb.jpg",
-        "manufacturer_page_sha256": "c7f94338456d99eb9b1a2595cfda1552f9b879d4b4eff7efcad9f09765c222fb",
-        "fitment_page_sha256": "c7f94338456d99eb9b1a2595cfda1552f9b879d4b4eff7efcad9f09765c222fb",
-        "verified_at_utc": "2026-11-19T07:13:02.764714+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:10.797108+00:00"
-    },
-    {
-      "id": "irk-3583562bd92efd2b357520",
-      "brand": "SUFIX",
-      "article": "XG1169",
-      "category": "Радиаторы охлаждения",
-      "retail": 8950,
-      "photo": {
-        "filename": "irk-3583562bd92efd2b357520-bddfe40470c1.jpg",
-        "sha256": "bddfe40470c176640d25bbf327174987a5137d417b8f9b509abfe9a7ca375b59",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3583562bd92efd2b357520-bddfe40470c1.jpg",
-        "manufacturer_page_sha256": "6215ef58fa78984f08e81115a3a514f04a4096f008b9963a326854af12d3c393",
-        "fitment_page_sha256": "6215ef58fa78984f08e81115a3a514f04a4096f008b9963a326854af12d3c393",
-        "verified_at_utc": "2026-11-19T07:13:03.421606+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:12.395900+00:00"
-    },
-    {
-      "id": "irk-18a5e5f6f9a6057f60088d",
-      "brand": "SUFIX",
-      "article": "XG1183",
-      "category": "Радиаторы охлаждения",
-      "retail": 8350,
-      "photo": {
-        "filename": "irk-18a5e5f6f9a6057f60088d-cc03b9c415f2.jpg",
-        "sha256": "cc03b9c415f2c386edbcf01dff29f7ed109bef7f6759c5f3aac29e8df14bb87c",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-18a5e5f6f9a6057f60088d-cc03b9c415f2.jpg",
-        "manufacturer_page_sha256": "2d18a74b859f0d52e525d175f5a2c4db7853f51dfa929845d20244f731bad432",
-        "fitment_page_sha256": "2d18a74b859f0d52e525d175f5a2c4db7853f51dfa929845d20244f731bad432",
-        "verified_at_utc": "2026-11-19T07:13:04.692405+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:13.704908+00:00"
-    },
-    {
-      "id": "irk-aca08372d05e33e5cdca0a",
-      "brand": "SUFIX",
-      "article": "XG1193",
-      "category": "Радиаторы охлаждения",
-      "retail": 6550,
-      "photo": {
-        "filename": "irk-aca08372d05e33e5cdca0a-4b8dd0b65b6e.jpg",
-        "sha256": "4b8dd0b65b6eb7cfd42068d3d8a114484b481ece99bbcc96d47c25c7a094ed4f",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-aca08372d05e33e5cdca0a-4b8dd0b65b6e.jpg",
-        "manufacturer_page_sha256": "cc51199ea26bd84dacc68276334a1992aef6d9b21a4f4b9d4dc53760af44bd26",
-        "fitment_page_sha256": "cc51199ea26bd84dacc68276334a1992aef6d9b21a4f4b9d4dc53760af44bd26",
-        "verified_at_utc": "2026-11-19T07:13:05.341015+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:15.493136+00:00"
-    },
-    {
-      "id": "irk-0fe04b89daf9e3919fec8c",
-      "brand": "SUFIX",
-      "article": "XG1198",
-      "category": "Радиаторы охлаждения",
-      "retail": 6250,
-      "photo": {
-        "filename": "irk-0fe04b89daf9e3919fec8c-0cb111f8f66f.jpg",
-        "sha256": "0cb111f8f66ff75884cc8774eaa06c725be129a67b1f3736587a16aa355e8c1b",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0fe04b89daf9e3919fec8c-0cb111f8f66f.jpg",
-        "manufacturer_page_sha256": "9d2af40afd3985ae44f966c72d91c2d4f057b08539e415b19bb07ca5afcb6139",
-        "fitment_page_sha256": "9d2af40afd3985ae44f966c72d91c2d4f057b08539e415b19bb07ca5afcb6139",
-        "verified_at_utc": "2026-11-19T07:13:06.645255+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:16.955756+00:00"
-    },
-    {
-      "id": "irk-c15560c5930898c0c24b5f",
-      "brand": "SUFIX",
-      "article": "XG1238",
-      "category": "Радиаторы охлаждения",
-      "retail": 14250,
-      "photo": {
-        "filename": "irk-c15560c5930898c0c24b5f-1722a64a3865.jpg",
-        "sha256": "1722a64a3865cf8fe33b6aff7dfbf8cae13dd17126150fa142d81aeb98146774",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c15560c5930898c0c24b5f-1722a64a3865.jpg",
-        "manufacturer_page_sha256": "6322ee68479207cd904de899dd2db0cec3c79604639dac7e7baf8c39a42a6237",
-        "fitment_page_sha256": "6322ee68479207cd904de899dd2db0cec3c79604639dac7e7baf8c39a42a6237",
-        "verified_at_utc": "2026-11-19T07:13:07.155485+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:18.633562+00:00"
-    },
-    {
-      "id": "irk-a6fd73897687da3fa12736",
-      "brand": "SUFIX",
-      "article": "XG1287",
-      "category": "Радиаторы охлаждения",
-      "retail": 7300,
-      "photo": {
-        "filename": "irk-a6fd73897687da3fa12736-72e5ffb91552.jpg",
-        "sha256": "72e5ffb915521254c320017cf33e283e70aadc219475371539b336dee65a0342",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a6fd73897687da3fa12736-72e5ffb91552.jpg",
-        "manufacturer_page_sha256": "964272713dd6a88cf17a808ec93b8d9bf1b8565c800db9cd329a339e8a2c5241",
-        "fitment_page_sha256": "964272713dd6a88cf17a808ec93b8d9bf1b8565c800db9cd329a339e8a2c5241",
-        "verified_at_utc": "2026-11-19T07:13:08.369072+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:20.244784+00:00"
-    },
-    {
-      "id": "irk-e01992c12d51176a341319",
-      "brand": "SUFIX",
-      "article": "XC1010",
-      "category": "Радиаторы кондиционера",
-      "retail": 7100,
-      "photo": {
-        "filename": "irk-e01992c12d51176a341319-243052dfc63a.jpg",
-        "sha256": "243052dfc63add7fa5a879235f45785f50313a879b719370226d55ca3b0a8afe",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e01992c12d51176a341319-243052dfc63a.jpg",
-        "manufacturer_page_sha256": "0e7577e8ecd324fe8faa4625f3bfe9dd875cd4c1f3a162c2beb7325a2a11f15a",
-        "fitment_page_sha256": "0e7577e8ecd324fe8faa4625f3bfe9dd875cd4c1f3a162c2beb7325a2a11f15a",
-        "verified_at_utc": "2026-11-19T07:13:09.040916+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:21.809015+00:00"
-    },
-    {
-      "id": "irk-24e62aa30bdfdbd7a1c2c8",
-      "brand": "SUFIX",
-      "article": "XC1012",
-      "category": "Радиаторы кондиционера",
-      "retail": 8400,
-      "photo": {
-        "filename": "irk-24e62aa30bdfdbd7a1c2c8-7baa94a5bc0e.jpg",
-        "sha256": "7baa94a5bc0eea0473dd5dcc6a0b77652616e4f416daa5f049bf3aeab1b0a8bd",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-24e62aa30bdfdbd7a1c2c8-7baa94a5bc0e.jpg",
-        "manufacturer_page_sha256": "79b37ee33f456f0898ebaa448644e2f91cfe8ec267b80af37f247d8edd45cab1",
-        "fitment_page_sha256": "79b37ee33f456f0898ebaa448644e2f91cfe8ec267b80af37f247d8edd45cab1",
-        "verified_at_utc": "2026-11-19T07:13:13.088855+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:23.765421+00:00"
-    },
-    {
-      "id": "irk-fb0fce049490f9b414e70a",
-      "brand": "SUFIX",
-      "article": "XC1021",
-      "category": "Радиаторы кондиционера",
-      "retail": 7300,
-      "photo": {
-        "filename": "irk-fb0fce049490f9b414e70a-75c701f40e37.jpg",
-        "sha256": "75c701f40e37e4948ea3c062e3581d0fd182580cfcd5f2ea1891a37e6364fac6",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fb0fce049490f9b414e70a-75c701f40e37.jpg",
-        "manufacturer_page_sha256": "938c48bb844554f91d72a56b71abbcdb7ac994cb6feeed209fd2e6347e0d875e",
-        "fitment_page_sha256": "938c48bb844554f91d72a56b71abbcdb7ac994cb6feeed209fd2e6347e0d875e",
-        "verified_at_utc": "2026-11-19T07:13:13.527817+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:25.545396+00:00"
-    },
-    {
-      "id": "irk-3b69ce27b8e090ed16cf35",
-      "brand": "SUFIX",
-      "article": "XC1022",
-      "category": "Радиаторы кондиционера",
-      "retail": 7850,
-      "photo": {
-        "filename": "irk-3b69ce27b8e090ed16cf35-75eec469d76f.jpg",
-        "sha256": "75eec469d76fb594dc744f5f7047a969c8b423d0266e210c9cb0567e16fece14",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3b69ce27b8e090ed16cf35-75eec469d76f.jpg",
-        "manufacturer_page_sha256": "a3fa08b227bd58dee5bb79a9ec6a48e90bca0e5c2cd76abb6aa31204d7560a45",
-        "fitment_page_sha256": "a3fa08b227bd58dee5bb79a9ec6a48e90bca0e5c2cd76abb6aa31204d7560a45",
-        "verified_at_utc": "2026-11-19T07:13:15.488306+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:27.021439+00:00"
-    },
-    {
-      "id": "irk-49ab0b9139c8914a33efb3",
-      "brand": "SUFIX",
-      "article": "XC1034",
-      "category": "Радиаторы кондиционера",
-      "retail": 7550,
-      "photo": {
-        "filename": "irk-49ab0b9139c8914a33efb3-54b0ac3ae098.jpg",
-        "sha256": "54b0ac3ae098998019b3057d986a19463373a0c5a7067b097b6bd7eac56193ea",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-49ab0b9139c8914a33efb3-54b0ac3ae098.jpg",
-        "manufacturer_page_sha256": "4ba1d4aec8f14d924d6b5e4b25ce024cefeba79d5c8c9681066b45cf346462dc",
-        "fitment_page_sha256": "4ba1d4aec8f14d924d6b5e4b25ce024cefeba79d5c8c9681066b45cf346462dc",
-        "verified_at_utc": "2026-11-19T07:13:15.457347+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:28.434600+00:00"
-    },
-    {
-      "id": "irk-973574a7d6d7f74a281524",
-      "brand": "SUFIX",
-      "article": "XC1045",
-      "category": "Радиаторы кондиционера",
-      "retail": 6950,
-      "photo": {
-        "filename": "irk-973574a7d6d7f74a281524-90435449327f.jpg",
-        "sha256": "90435449327f0e7646c5e7bdbb82cf9f891db04f07c2b64f279ff984069ab1c5",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-973574a7d6d7f74a281524-90435449327f.jpg",
-        "manufacturer_page_sha256": "dccb1c235ba467c49049adb9d787ead6867fc5c77b9c4f4adde0c27cc9c32c3a",
-        "fitment_page_sha256": "dccb1c235ba467c49049adb9d787ead6867fc5c77b9c4f4adde0c27cc9c32c3a",
-        "verified_at_utc": "2026-11-19T07:13:17.334398+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:29.831218+00:00"
-    },
-    {
-      "id": "irk-e9a6a0010d218f92e288d5",
-      "brand": "SUFIX",
-      "article": "XC1052",
-      "category": "Радиаторы кондиционера",
-      "retail": 7350,
-      "photo": {
-        "filename": "irk-e9a6a0010d218f92e288d5-d343f14538e4.jpg",
-        "sha256": "d343f14538e49c09436a40cea605b6511050e827d5fc8905dcc93333985135f8",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e9a6a0010d218f92e288d5-d343f14538e4.jpg",
-        "manufacturer_page_sha256": "6975f15567c3bd9f3c673ebd7a4a5b20838e98c4b5edc4f7ddc5a90686cb605f",
-        "fitment_page_sha256": "6975f15567c3bd9f3c673ebd7a4a5b20838e98c4b5edc4f7ddc5a90686cb605f",
-        "verified_at_utc": "2026-11-19T07:13:17.654387+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:31.493001+00:00"
-    },
-    {
-      "id": "irk-c8fa2d079af71dd3946907",
-      "brand": "SUFIX",
-      "article": "XC1054",
-      "category": "Радиаторы кондиционера",
-      "retail": 7650,
-      "photo": {
-        "filename": "irk-c8fa2d079af71dd3946907-7783c0a3a489.jpg",
-        "sha256": "7783c0a3a4893a3105a823e816f67a24135a116cd5647c9957c0e2295fce0e4c",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c8fa2d079af71dd3946907-7783c0a3a489.jpg",
-        "manufacturer_page_sha256": "a77aa2de7f849a5a16c59850095e069dbdb5361dc3174ba28b7074420a206274",
-        "fitment_page_sha256": "a77aa2de7f849a5a16c59850095e069dbdb5361dc3174ba28b7074420a206274",
-        "verified_at_utc": "2026-11-19T07:13:19.130338+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:32.796331+00:00"
-    },
-    {
-      "id": "irk-bad4c5a311286bf886e331",
-      "brand": "SUFIX",
-      "article": "XC1058",
-      "category": "Радиаторы кондиционера",
-      "retail": 6500,
-      "photo": {
-        "filename": "irk-bad4c5a311286bf886e331-1b4c43126d10.jpg",
-        "sha256": "1b4c43126d1009e2a979165dab0f19b331a00ae4fba51dcf9b2bc9f89270558c",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bad4c5a311286bf886e331-1b4c43126d10.jpg",
-        "manufacturer_page_sha256": "4ff7b353080636bcaf3d80c051c1b1b0868e2dcc5530ce1db0d1abca9da3d970",
-        "fitment_page_sha256": "4ff7b353080636bcaf3d80c051c1b1b0868e2dcc5530ce1db0d1abca9da3d970",
-        "verified_at_utc": "2026-11-19T07:13:19.474985+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:34.192642+00:00"
-    },
-    {
-      "id": "irk-0c2db69166156864587ad7",
-      "brand": "SUFIX",
-      "article": "XC1059",
-      "category": "Радиаторы кондиционера",
-      "retail": 7450,
-      "photo": {
-        "filename": "irk-0c2db69166156864587ad7-f22d589519f4.jpg",
-        "sha256": "f22d589519f4e38d89aa678cd3ab72426b19db1e09f6e6cc6b32aeb89f35a4e3",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0c2db69166156864587ad7-f22d589519f4.jpg",
-        "manufacturer_page_sha256": "bfcce87fa918e5086ffb5835ae8278a52ca56388936e491305b936fff6adb909",
-        "fitment_page_sha256": "bfcce87fa918e5086ffb5835ae8278a52ca56388936e491305b936fff6adb909",
-        "verified_at_utc": "2026-11-19T07:13:21.143168+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:36.034080+00:00"
-    },
-    {
-      "id": "irk-2956443f69e646630de508",
-      "brand": "SUFIX",
-      "article": "XC1060",
-      "category": "Радиаторы кондиционера",
-      "retail": 7500,
-      "photo": {
-        "filename": "irk-2956443f69e646630de508-b9d9517c0d17.jpg",
-        "sha256": "b9d9517c0d178811991b434e5ad7f44b388150271de244ad9aa892aee70e3512",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2956443f69e646630de508-b9d9517c0d17.jpg",
-        "manufacturer_page_sha256": "162011387a9bbc07e6f7b6bbb65a15a7fa282a3b23dd96a13e15dea2d7305167",
-        "fitment_page_sha256": "162011387a9bbc07e6f7b6bbb65a15a7fa282a3b23dd96a13e15dea2d7305167",
-        "verified_at_utc": "2026-11-19T07:13:21.249427+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:37.679385+00:00"
-    },
-    {
-      "id": "irk-cf44b797ef729a00cb3c30",
-      "brand": "SUFIX",
-      "article": "XG1070",
-      "category": "Радиаторы охлаждения",
-      "retail": 9250,
-      "photo": {
-        "filename": "irk-cf44b797ef729a00cb3c30-34a58e943fa5.jpg",
-        "sha256": "34a58e943fa5c546339a34bac494b449cb6e10a640e27e301903e841ae4b18ce",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cf44b797ef729a00cb3c30-34a58e943fa5.jpg",
-        "manufacturer_page_sha256": "f1babce3e078ad294622ecdbe523318dbf0d0c2755e238c102da1bae99d67e47",
-        "fitment_page_sha256": "f1babce3e078ad294622ecdbe523318dbf0d0c2755e238c102da1bae99d67e47",
-        "verified_at_utc": "2026-11-19T07:13:23.033359+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:39.134866+00:00"
-    },
-    {
-      "id": "irk-e3c269ad209da0ac0736e4",
-      "brand": "SUFIX",
-      "article": "XG1071",
-      "category": "Радиаторы охлаждения",
-      "retail": 5450,
-      "photo": {
-        "filename": "irk-e3c269ad209da0ac0736e4-ddb06ce83cc6.jpg",
-        "sha256": "ddb06ce83cc67b22bd2bffa32d7e62e2ce7e5b432c56dc67ec692b1aba1d88bd",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e3c269ad209da0ac0736e4-ddb06ce83cc6.jpg",
-        "manufacturer_page_sha256": "5416a93d12a91ce0411d757afd9ac84067bdea7278ca7c06114c406ccce80d60",
-        "fitment_page_sha256": "5416a93d12a91ce0411d757afd9ac84067bdea7278ca7c06114c406ccce80d60",
-        "verified_at_utc": "2026-11-19T07:13:23.172570+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:40.478976+00:00"
-    },
-    {
-      "id": "irk-fa78e6555140d6a6d4d7be",
-      "brand": "SUFIX",
-      "article": "XG1104",
-      "category": "Радиаторы охлаждения",
-      "retail": 9700,
-      "photo": {
-        "filename": "irk-fa78e6555140d6a6d4d7be-fe932722b797.jpg",
-        "sha256": "fe932722b79765bf67a7ca45549ac06a322e4bedf1ea77e93f778e58682a1829",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fa78e6555140d6a6d4d7be-fe932722b797.jpg",
-        "manufacturer_page_sha256": "dc5fb8955c0b067f0f692cdc48649a7ba343f32603d6f6bc95c7240827422ad7",
-        "fitment_page_sha256": "dc5fb8955c0b067f0f692cdc48649a7ba343f32603d6f6bc95c7240827422ad7",
-        "verified_at_utc": "2026-11-19T07:13:24.916138+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:42.106456+00:00"
-    },
-    {
-      "id": "irk-0536e87f8d27337e7b6110",
-      "brand": "SUFIX",
-      "article": "XC1005",
-      "category": "Радиаторы кондиционера",
-      "retail": 6850,
-      "photo": {
-        "filename": "irk-0536e87f8d27337e7b6110-5cac2717f0ab.jpg",
-        "sha256": "5cac2717f0abb7ea70f2652dcad0f3111b9ad0b82dd3d158b7eca102adeaee96",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0536e87f8d27337e7b6110-5cac2717f0ab.jpg",
-        "manufacturer_page_sha256": "62c112b86c7d660fc7220a28e806fdbdb71cbac81ceae5d89dcf4220e779c074",
-        "fitment_page_sha256": "62c112b86c7d660fc7220a28e806fdbdb71cbac81ceae5d89dcf4220e779c074",
-        "verified_at_utc": "2026-11-19T07:13:25.046878+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:43.674801+00:00"
-    },
-    {
-      "id": "irk-bb879d9556190abf101c43",
-      "brand": "SUFIX",
-      "article": "XC1009",
-      "category": "Радиаторы кондиционера",
-      "retail": 6200,
-      "photo": {
-        "filename": "irk-bb879d9556190abf101c43-5e5a954266be.jpg",
-        "sha256": "5e5a954266be09a6fdbebac914b1719860b0655a4448bf408c3e435d17156f63",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bb879d9556190abf101c43-5e5a954266be.jpg",
-        "manufacturer_page_sha256": "c0cbc335d48aa5b9eae02914250ba624f9c90d0da204c6498a5496445df4d24c",
-        "fitment_page_sha256": "c0cbc335d48aa5b9eae02914250ba624f9c90d0da204c6498a5496445df4d24c",
-        "verified_at_utc": "2026-11-19T07:13:26.757837+00:00"
-      },
-      "API_checked_at_utc": "2026-11-19T07:14:45.269945+00:00"
+      "API_checked_at_utc": "2026-11-19T07:58:25.841214+00:00"
     }
   ],
   "skipped": [],
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": true,
-  "release_workflow_run_id": 44477722974,
-  "CDN_exact_bytes_verified": true,
-  "CDN_sha256": "43832b5f07138ed8651a10843751adc803ee0a4a6a2484126587bc4c89520c20",
-  "raw_exact_bytes_verified": true,
-  "public_images_exact_bytes_verified": 49,
-  "Avito_import_verified": false,
-  "delivery": {
-    "date": "2026-11-19",
-    "checked_at_utc": "2026-11-19T07:14:59Z",
-    "expected_ads": 608,
-    "expected_sha256": "43832b5f07138ed8651a10843751adc803ee0a4a6a2484126587bc4c89520c20",
-    "raw": {
-      "ads": 608,
-      "sha256": "43832b5f07138ed8651a10843751adc803ee0a4a6a2484126587bc4c89520c20",
-      "exact": true
-    },
-    "cdn": {
-      "ads": 608,
-      "sha256": "43832b5f07138ed8651a10843751adc803ee0a4a6a2484126587bc4c89520c20",
-      "exact": true
-    },
-    "raw_exact_bytes_verified": true,
-    "CDN_exact_bytes_verified": true,
-    "release_run_id": 44477722974,
-    "Avito_import_verified": false
-  }
+  "publication_performed": false
 }
