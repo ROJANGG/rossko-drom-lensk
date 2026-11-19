@@ -1,0 +1,17 @@
+{
+  "source_scope": 100,
+  "manufacturer_facts_status_counts": {
+    "NOT_CONFIRMED": 22,
+    "MANUFACTURER_FACTS_VERIFIED": 76,
+    "OEM_OR_SAME_MAKE_APPLICABILITY_NOT_CONFIRMED": 2
+  },
+  "photo_downloaded": 70,
+  "actual_photos_reviewed_and_initial_API_eligible": 67,
+  "primary_product_count_verified": 1,
+  "review_basis": "Exact manufacturer page and visually reviewed product photo; one primary joint with accessories; accessory composition not asserted in ad",
+  "photo_retry_attempted": 18,
+  "photo_retry_downloaded": 10,
+  "API_eligible_extra_photos": 9,
+  "published": false,
+  "drawings_rejected_in_reviewed_set": 0
+}

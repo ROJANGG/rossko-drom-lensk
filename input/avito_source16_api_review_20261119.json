@@ -1,0 +1,1310 @@
+{
+  "batch_size": 100,
+  "API_requests_attempted": 99,
+  "results": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1269",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:38.774860+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1271",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:40.013850+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1272",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:41.699815+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1273",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:43.191507+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1274",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:44.605953+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1278",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:45.966821+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1282",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:47.330284+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1283",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:48.878884+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1290",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:50.479153+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3050
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1293",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:51.761043+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1295",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:53.282605+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1296",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:54.742092+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2350
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1298",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:55.974278+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1299",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:57.286609+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 5,
+      "avito_retail_rub": 2800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1302",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:58.474647+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1303",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:16:59.714775+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1304",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:00.837583+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1306",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:02.132508+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1308",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:03.313363+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1314",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:04.689713+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1319",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:06.863664+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1320",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:08.243490+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1321",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:09.371726+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1322",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:10.502662+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1326",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:11.884192+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1328",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:13.236817+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1329",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:14.474505+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1332",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:15.869545+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1335",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:17.252186+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1337",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:18.648381+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1350",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:20.097770+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1352",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:21.612112+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2350
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1359",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:22.853088+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1361",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:23.943660+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1850
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1364",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:25.119929+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1366",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:26.444707+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1368",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:27.593183+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3100
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1371",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:29.097191+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1372",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:30.440387+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1373",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:31.839737+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1374",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:33.009520+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1375",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:34.500722+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1379",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:36.026498+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 6850
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1382",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:37.353352+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1383",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:38.568548+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 4050
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1387",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:39.985293+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1389",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:41.409443+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 5950
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1390",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:42.648614+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 4000
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1392",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:44.082127+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 5550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1395",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:45.372180+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 4000
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1396",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:46.662465+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1397",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:47.913474+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1406",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:49.043831+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2150
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1412",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:51.140458+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1414",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:52.571132+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4050
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1416",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:53.677911+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1417",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:54.873449+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1420",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:56.145171+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1422",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:57.727782+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 2350
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1425",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:17:59.246258+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3000
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1428",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:00.579250+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1433",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:02.003348+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1434",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:03.501249+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1435",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:05.093947+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1436",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:06.183234+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1438",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:07.565964+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3350
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1440",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:08.872162+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1444",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:10.945199+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 6100
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1446",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:12.444322+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 5750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1452",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:14.005339+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3150
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1454",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:15.458373+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1455",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:16.656328+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1456",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:18.141901+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3150
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1457",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:19.392340+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3850
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1462",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:20.611615+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1464",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:21.827192+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1465",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:23.595978+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 5100
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1467",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:24.804269+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1468",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:25.971373+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1469",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:27.491706+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1470",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:28.969932+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1471",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:30.543175+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1472",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:32.137231+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2800
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1474",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:34.176137+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 3700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1475",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:35.327236+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2450
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1476",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:36.582620+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2900
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1478",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:38.066401+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 4850
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1480",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:39.260928+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4000
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1485",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:40.572701+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1486",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:40.572727+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1489",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:42.447516+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3050
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1491",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:43.951017+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 3000
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1492",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:45.398505+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3400
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1493",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:47.287656+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1497",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:48.659589+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2600
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1498",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:50.192079+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2700
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1500",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:51.356055+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 3100
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1501",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:52.567379+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3500
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1502",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:53.724016+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1504",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T08:18:54.847807+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2700
+    }
+  ],
+  "status_counts": {
+    "опт_Иркутск_подтвержден": 99,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1
+  },
+  "ready_for_full_source_review": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1269"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1271"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1272"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1273"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1274"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1278"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1282"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1283"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1290"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1293"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1295"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1296"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1298"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1299"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1302"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1303"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1304"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1306"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1308"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1314"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1319"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1320"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1321"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1322"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1326"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1328"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1329"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1332"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1335"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1337"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1350"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1352"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1359"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1361"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1364"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1366"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1368"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1371"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1372"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1373"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1374"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1375"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1379"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1382"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1383"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1387"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1389"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1390"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1392"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1395"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1396"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1397"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1406"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1412"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1414"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1416"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1417"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1420"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1422"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1425"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1428"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1433"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1434"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1435"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1436"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1438"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1440"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1444"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1446"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1452"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1454"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1455"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1456"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1457"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1462"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1464"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1465"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1467"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1468"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1469"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1470"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1471"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1472"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1474"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1475"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1476"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1478"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1480"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1486"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1489"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1491"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1492"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1493"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1497"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1498"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1500"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1501"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1502"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1504"
+    }
+  ],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}
