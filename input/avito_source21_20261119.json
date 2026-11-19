@@ -1,0 +1,807 @@
+{
+  "batch_id": "source21_20261119",
+  "scope": 100,
+  "publication_performed": false,
+  "items": [
+    {
+      "brand": "CTR",
+      "article": "CL0010L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942368",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:41.641671+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0010R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942369",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:42.857620+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0033L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942394",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:43.741186+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0033R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942395",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:44.532004+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0045L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942407",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:46.301215+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0045R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942408",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:47.490370+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0034",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942396",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:47.718112+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0052L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942418",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:48.414576+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0052R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942419",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:49.413162+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0060",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942426",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:51.492666+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0066",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942432",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:52.274869+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0086",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942442",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:53.944316+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0107",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942461",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:54.259601+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0120",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942473",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:56.086190+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0136",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942481",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:56.330770+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0139",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942482",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:57.062314+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0140",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942483",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:58.166152+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0143",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942486",
+      "previous_API_checked_at_utc": "2026-11-16T10:48:59.319527+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0144",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942487",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:00.621159+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0145",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942488",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:01.026372+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0146",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942489",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:02.195322+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0149",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942492",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:03.129935+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0150",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942493",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:04.439346+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0151",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942494",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:05.198653+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0152",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942495",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:06.402034+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0154",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942497",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:06.995640+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0155",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942498",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:08.025203+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0158",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942501",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:09.256080+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0159",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942502",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:10.308651+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0160",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942503",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:11.163477+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0161",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942504",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:12.287675+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0164",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942507",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:12.930788+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0169",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942512",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:14.531781+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0170",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942513",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:15.650037+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0176",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942519",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:15.953456+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0177",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942520",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:17.396935+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0180",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942523",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:18.449807+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0181",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942524",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:19.335656+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0182",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942525",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:20.388506+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0183",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942526",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:21.152929+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0186",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942529",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:22.746002+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0189",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942531",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:23.096849+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0190",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942532",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:24.143119+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0191",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942533",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:25.261405+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0192",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942534",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:26.022087+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0193",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942535",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:27.449119+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0194",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942536",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:28.563230+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0195",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942537",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:29.914310+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0201",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942543",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:30.084473+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0203",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942545",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:31.080291+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0204",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942546",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:32.313459+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0205",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942547",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:33.132407+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0206",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942548",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:34.107704+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0211L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942555",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:34.831624+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0211R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942556",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:35.901590+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0220L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942573",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:36.854938+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0220R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942574",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:37.902883+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0221L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942575",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:38.856934+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0221R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942576",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:39.840888+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0222L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942577",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:41.201622+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0222R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942578",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:42.237226+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0224",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942580",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:42.861355+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0228L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942586",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:43.977825+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0228R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942587",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:44.931718+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0240",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942599",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:47.128871+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0241",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942600",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:48.569073+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0247",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942608",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:49.703908+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0242",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942601",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:50.193394+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0249",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942610",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:52.169561+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0254",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942615",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:52.921060+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0258L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942619",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:53.392408+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0258R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942620",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:56.169566+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0261L",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942625",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:58.709540+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "CTR",
+      "article": "CL0261R",
+      "category": "Стойки стабилизатора",
+      "supplier_nomenclature": "NSII0023942626",
+      "previous_API_checked_at_utc": "2026-11-16T10:49:59.299679+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5027",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673688",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:10.068627+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5057XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673718",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:11.114211+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5202XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673824",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:12.174711+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5210",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673832",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:12.965972+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5214XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673837",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:14.018138+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5222",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673841",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:15.224770+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5228XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673846",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:16.038924+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5235XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673850",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:17.135749+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5257XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673870",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:18.337176+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5274XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673886",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:19.119695+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5282XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673890",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:20.190250+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5283XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673891",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:21.228896+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5299",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673897",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:22.274975+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5300XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673898",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:23.161117+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5306",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673904",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:23.999070+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5318XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673917",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:25.027128+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5341XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673928",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:26.388302+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5355XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673942",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:26.954487+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5358XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673945",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:28.059075+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5373XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673957",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:29.411667+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5374XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673958",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:30.196259+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5384XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673967",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:31.195591+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5386XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673969",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:32.143295+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5389XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673972",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:33.116654+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5403XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673983",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:34.372164+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Gates",
+      "article": "5404XS",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0000673984",
+      "previous_API_checked_at_utc": "2026-11-13T16:11:35.092232+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ]
+}
