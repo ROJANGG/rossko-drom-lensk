@@ -18,7 +18,7 @@ jobs:
     permissions:
       contents: write
     env:
-      PUBLISH_APPROVED_EXTENSION: 'true'
+      PUBLISH_APPROVED_EXTENSION: 'false'
       ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
     steps:
       - name: Checkout previously verified Avito-only baseline dependencies
@@ -174,7 +174,7 @@ jobs:
                   audit[name]={'ads':len(E.fromstring(raw)),'sha256':hashlib.sha256(raw).hexdigest(),'exact':raw==expected}
               except Exception as e:audit[name]={'error_class':type(e).__name__,'exact':False}
           Path('candidate').mkdir(exist_ok=True)
-          Path('candidate/delivery-audit.json').write_text(json.dumps(audit,indent=2)+'\\n')
+          Path('candidate/delivery-audit.json').write_text(json.dumps(audit,indent=2)+'\n')
           print('AVITO_DELIVERY_AUDIT',json.dumps(audit))
           PY
       - name: Preserve retail-only candidate and source-review audit without personal API costs
