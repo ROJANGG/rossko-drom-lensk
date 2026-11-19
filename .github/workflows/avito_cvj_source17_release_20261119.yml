@@ -18,7 +18,7 @@ jobs:
     permissions:
       contents: write
     env:
-      PUBLISH_APPROVED_EXTENSION: 'true'
+      PUBLISH_APPROVED_EXTENSION: 'false'
       ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
     steps:
       - name: Checkout previously verified Avito-only baseline dependencies
