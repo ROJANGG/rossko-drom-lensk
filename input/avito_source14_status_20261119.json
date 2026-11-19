@@ -1,0 +1,1925 @@
+{
+  "date": "2026-11-19",
+  "initial_source_and_API_selection_date": "2026-11-18",
+  "batch": "source14",
+  "scope": 21,
+  "selected_for_fresh_release_20261119": 13,
+  "source_bundles_verified": 13,
+  "status_counts": {
+    "PUBLISHED_IN_XML": 13,
+    "SOURCE_INCOMPLETE_20261118": 8
+  },
+  "published_count": 13,
+  "release_run_id": 44477722974,
+  "XML_after": 608,
+  "archive_after": 627,
+  "Avito_import_verified": false,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "XC1005",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0027932437",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:03.141119+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1005",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:47.178278+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6850
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1005",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0027932437",
+        "source_checked_at_utc": "2026-11-18T10:10:09.261551+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1005.html",
+        "page_captured_at_utc": "2026-11-18T10:10:16.816193+00:00",
+        "manufacturer_page_sha256": "614b24c360fa610f90ca9a589c6cfb3fbaac972d62f668581904c4cc3e6b70ea",
+        "manufacturer_MPN": "XC-1005",
+        "product_title": "Радиатор кондиционера Арт. XC-1005",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "LADA",
+            "8450047496"
+          ],
+          [
+            "NISSAN",
+            "27650-00Q2K"
+          ],
+          [
+            "RENAULT",
+            "92 10 017 27R"
+          ],
+          [
+            "RENAULT",
+            "92 10 019 08R"
+          ],
+          [
+            "RENAULT",
+            "92 10 064 54R"
+          ],
+          [
+            "RENAULT",
+            "92 10 068 42R"
+          ],
+          [
+            "RENAULT",
+            "92 10 068 43R"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "RENAULT": 17
+        },
+        "OEM_make": "RENAULT",
+        "OEM_raw": "92 10 017 27R",
+        "OEM": "921001727R",
+        "fitment_rows": [
+          {
+            "model": "RENAULT CLIO IV (BH_) 12-",
+            "modification": "0.9 TCe 90 (H4B 400, H4B 408) 66кВт/90лс 11.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=57401"
+          },
+          {
+            "model": "RENAULT CLIO IV (BH_) 12-",
+            "modification": "1.2 16V (D4F 728, D4F 740) 54кВт/73лс 11.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=57284"
+          },
+          {
+            "model": "RENAULT CLIO IV (BH_) 12-",
+            "modification": "1.2 TCe 120 (BHAU) (H5F 408, H5F 412) 87кВт/118лс 01.2016-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=119495"
+          },
+          {
+            "model": "RENAULT CLIO IV (BH_) 12-",
+            "modification": "1.2 TCe 120 (BHM0) (H5F 403) 88кВт/120лс 03.2013-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=58898"
+          },
+          {
+            "model": "RENAULT CLIO IV (BH_) 12-",
+            "modification": "1.5 dCi 110 (K9K 646) 81кВт/110лс 06.2016-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=122130"
+          }
+        ],
+        "applicability_make": "RENAULT",
+        "OEM_group_label_as_on_manufacturer_page": "RENAULT",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1005.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T10:13:20.011705+00:00",
+        "photo_sha256": "5cac2717f0abb7ea70f2652dcad0f3111b9ad0b82dd3d158b7eca102adeaee96",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_recovery_succeeded": true,
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-0536e87f8d27337e7b6110",
+      "retail": 6850,
+      "final_API_checked_at_utc": "2026-11-19T07:14:43.674801+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1009",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814143",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:04.090315+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1009",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:48.547237+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6200
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1009",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814143",
+        "source_checked_at_utc": "2026-11-18T10:10:09.280969+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1009.html",
+        "page_captured_at_utc": "2026-11-18T10:10:16.897816+00:00",
+        "manufacturer_page_sha256": "4668915c1bf7d1885bab4dc0d9cb162568be3d267bb5afd260b358df27db5503",
+        "manufacturer_MPN": "XC-1009",
+        "product_title": "Радиатор кондиционера Арт. XC-1009",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "NISSAN",
+            "92100-AX800"
+          ],
+          [
+            "NISSAN",
+            "92100-AX801"
+          ],
+          [
+            "NISSAN",
+            "92100-AX80B"
+          ],
+          [
+            "NISSAN",
+            "92100-BA60A"
+          ],
+          [
+            "NISSAN",
+            "92100-BH40A"
+          ],
+          [
+            "NISSAN",
+            "92100-EL000"
+          ],
+          [
+            "NISSAN",
+            "92100-EL00A"
+          ],
+          [
+            "NISSAN",
+            "92100-EW80A"
+          ],
+          [
+            "NISSAN",
+            "92100-ZW40A"
+          ],
+          [
+            "NISSAN",
+            "92100-ZW40D"
+          ],
+          [
+            "NISSAN",
+            "92110-1U600"
+          ],
+          [
+            "NISSAN",
+            "92110-BA60A"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "NISSAN": 10
+        },
+        "OEM_make": "NISSAN",
+        "OEM_raw": "92100-AX800",
+        "OEM": "92100AX800",
+        "fitment_rows": [
+          {
+            "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+            "modification": "1.6 (HR16DE) 81кВт/110лс 09.2007-12.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=23467"
+          },
+          {
+            "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+            "modification": "1.8 (MR18DE) 78кВт/106лс 01.2007-06.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55840"
+          },
+          {
+            "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+            "modification": "1.8 (MR18DE) 90кВт/122лс 07.2007-04.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=47364"
+          },
+          {
+            "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+            "modification": "1.8 (MR18DE) 91кВт/124лс 02.2006-12.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=50647"
+          },
+          {
+            "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+            "modification": "1.8 (MR18DE) 93кВт/126лс 09.2007-12.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=23468"
+          }
+        ],
+        "applicability_make": "NISSAN",
+        "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1009.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T10:13:20.116437+00:00",
+        "photo_sha256": "5e5a954266be09a6fdbebac914b1719860b0655a4448bf408c3e435d17156f63",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_recovery_succeeded": true,
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-bb879d9556190abf101c43",
+      "retail": 6200,
+      "final_API_checked_at_utc": "2026-11-19T07:14:45.269945+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1010",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814156",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:05.097982+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1010",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:50.079903+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 2,
+        "avito_retail_rub": 7100
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1010",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814156",
+        "source_checked_at_utc": "2026-11-18T10:10:22.391122+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1010.html",
+        "page_captured_at_utc": "2026-11-18T10:10:27.829054+00:00",
+        "manufacturer_page_sha256": "375fd7964922369e731c92dab9b14bba26708c9675aebc6a6d2fcb0799cb4c32",
+        "manufacturer_MPN": "XC-1010",
+        "product_title": "Радиатор кондиционера Арт. XC-1010",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "NISSAN",
+            "92100-4BE0A"
+          ],
+          [
+            "NISSAN",
+            "92100-4EA0A"
+          ],
+          [
+            "NISSAN",
+            "92110-00Q0A"
+          ],
+          [
+            "RENAULT",
+            "92 10 069 51R"
+          ],
+          [
+            "RENAULT",
+            "92 10 092 51R"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "NISSAN": 10,
+          "RENAULT": 8
+        },
+        "OEM_make": "NISSAN",
+        "OEM_raw": "92100-4BE0A",
+        "OEM": "921004BE0A",
+        "fitment_rows": [
+          {
+            "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+            "modification": "1.2 DIG-T (HRA2DDT) 85кВт/115лс 11.2013-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=100506"
+          },
+          {
+            "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+            "modification": "1.5 dCi (K9K 636, K9K 646) 81кВт/110лс 11.2013-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=100507"
+          },
+          {
+            "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+            "modification": "1.6 dCi (R9M) 96кВт/130лс 11.2013-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=100508"
+          },
+          {
+            "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+            "modification": "1.6 dCi ALL MODE 4WD-i (R9M) 96кВт/130лс 11.2013-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=100509"
+          },
+          {
+            "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+            "modification": "2.0 (J11E) (MR20DD) 106кВт/144лс 06.2014-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=108311"
+          }
+        ],
+        "applicability_make": "NISSAN",
+        "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1010.jpg",
+        "photo_sha256": "243052dfc63add7fa5a879235f45785f50313a879b719370226d55ca3b0a8afe",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-e01992c12d51176a341319",
+      "retail": 7100,
+      "final_API_checked_at_utc": "2026-11-19T07:14:21.809015+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1012",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814151",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:06.105787+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1012",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:51.117815+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 8400
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1012",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814151",
+        "source_checked_at_utc": "2026-11-18T10:10:22.392491+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1012.html",
+        "page_captured_at_utc": "2026-11-18T10:10:28.274213+00:00",
+        "manufacturer_page_sha256": "19281e632d345119cc5f2fad29195fed4516ed425748fb5074dbb0da539c11ec",
+        "manufacturer_MPN": "XC-1012",
+        "product_title": "Радиатор кондиционера Арт. XC-1012",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "FORD",
+            "1 405 365"
+          ],
+          [
+            "FORD",
+            "1 437 112"
+          ],
+          [
+            "FORD",
+            "1 453 365"
+          ],
+          [
+            "FORD",
+            "1 677 879"
+          ],
+          [
+            "FORD",
+            "1 710 241"
+          ],
+          [
+            "FORD",
+            "1 710 860"
+          ],
+          [
+            "FORD",
+            "2 015 504"
+          ],
+          [
+            "LANDROVER",
+            "LR000566"
+          ],
+          [
+            "LANDROVER",
+            "LR023921"
+          ],
+          [
+            "VOLVO",
+            "30680275"
+          ],
+          [
+            "VOLVO",
+            "30741670"
+          ],
+          [
+            "VOLVO",
+            "30794544"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "FORD": 62,
+          "LAND ROVER": 14,
+          "VOLVO": 57
+        },
+        "OEM_make": "FORD",
+        "OEM_raw": "1 405 365",
+        "OEM": "1405365",
+        "fitment_rows": [
+          {
+            "model": "FORD GALAXY II (WA6) 06-15",
+            "modification": "1.6 EcoBoost (JTWA, JTWB) 118кВт/160лс 11.2010-06.2015",
+            "url": "https://sufix.pro/selection_parts.html?na_id=6932"
+          },
+          {
+            "model": "FORD GALAXY II (WA6) 06-15",
+            "modification": "1.6 TDCi (T1WA, T1WB) 85кВт/115лс 02.2011-06.2015",
+            "url": "https://sufix.pro/selection_parts.html?na_id=6802"
+          },
+          {
+            "model": "FORD GALAXY II (WA6) 06-15",
+            "modification": "1.8 TDCi (FFWA) 74кВт/100лс 05.2006-06.2015",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19438"
+          },
+          {
+            "model": "FORD GALAXY II (WA6) 06-15",
+            "modification": "1.8 TDCi (QYWA) 92кВт/125лс 05.2006-06.2015",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19714"
+          },
+          {
+            "model": "FORD GALAXY II (WA6) 06-15",
+            "modification": "2.0 (AOWA, AOWB, TBWA, TBWB) 107кВт/145лс 05.2006-06.2015",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19437"
+          }
+        ],
+        "applicability_make": "FORD",
+        "OEM_group_label_as_on_manufacturer_page": "FORD",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1012.jpg",
+        "photo_sha256": "7baa94a5bc0eea0473dd5dcc6a0b77652616e4f416daa5f049bf3aeab1b0a8bd",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-24e62aa30bdfdbd7a1c2c8",
+      "retail": 8400,
+      "final_API_checked_at_utc": "2026-11-19T07:14:23.765421+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1018",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814149",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:07.230924+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1018",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:52.456507+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6950
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1018",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814149",
+        "source_checked_at_utc": "2026-11-18T10:10:33.667217+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1018.html",
+        "page_captured_at_utc": "2026-11-18T10:10:39.692522+00:00",
+        "manufacturer_page_sha256": "c9a3ad89d0a422ead9e8b85c4275ca409b7f03539c07b1befb81026131b8a5d8",
+        "manufacturer_MPN": "XC-1018",
+        "product_title": "Радиатор кондиционера Арт. XC-1018",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "MITSUBISHI",
+            "7812A218"
+          ],
+          [
+            "MITSUBISHI",
+            "7812A220"
+          ],
+          [
+            "MITSUBISHI",
+            "7812A394"
+          ],
+          [
+            "MITSUBISHI",
+            "7812A510"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "MITSUBISHI": 7
+        },
+        "OEM_make": "MITSUBISHI",
+        "OEM_raw": "7812A218",
+        "OEM": "7812A218",
+        "fitment_rows": [
+          {
+            "model": "MITSUBISHI OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-",
+            "modification": "2.0 (GF2W) (4B11) 107кВт/146лс 10.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=56332"
+          },
+          {
+            "model": "MITSUBISHI OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-",
+            "modification": "2.0 (GF7W) (4J11) 110кВт/150лс 08.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=56336"
+          },
+          {
+            "model": "MITSUBISHI OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-",
+            "modification": "2.0 4WD (GF7W, GF2W) (4B11) 107кВт/146лс 10.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=56333"
+          },
+          {
+            "model": "MITSUBISHI OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-",
+            "modification": "2.0 4WD (GF7W) (4J11) 110кВт/150лс 08.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=56337"
+          },
+          {
+            "model": "MITSUBISHI OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-",
+            "modification": "2.2 Di-D (GF6W) (4N14) 110кВт/150лс 08.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=56338"
+          }
+        ],
+        "applicability_make": "MITSUBISHI",
+        "OEM_group_label_as_on_manufacturer_page": "MITSUBISHI",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/XC-1018.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-18T10:13:22.272115+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      },
+      "selected_for_fresh_release_20261119": false,
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SOURCE_INCOMPLETE_20261118",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1021",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814138",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:08.019901+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1021",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:53.605644+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 7300
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1021",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814138",
+        "source_checked_at_utc": "2026-11-18T10:10:33.837334+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1021.html",
+        "page_captured_at_utc": "2026-11-18T10:10:40.620096+00:00",
+        "manufacturer_page_sha256": "c2606da3dc4e98d64b5907f44ff6a0819e3a0bbe0875fa83d318db5194303c63",
+        "manufacturer_MPN": "XC-1021",
+        "product_title": "Радиатор кондиционера Арт. XC-1021",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "VAG",
+            "6C0 816 411"
+          ],
+          [
+            "VAG",
+            "6C0 816 411 A"
+          ],
+          [
+            "VAG",
+            "6C0 816 411 B"
+          ],
+          [
+            "VAG",
+            "6C0 816 411 C"
+          ],
+          [
+            "VAG",
+            "6C0 816 411 D"
+          ],
+          [
+            "VAG",
+            "6R0 820 411"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 A"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 AA"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 AB"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 AC"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 D"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 E"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 G"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 H"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 J"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 M"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 N"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 P"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 Q"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 R"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 S"
+          ],
+          [
+            "VAG",
+            "6R0 820 411 T"
+          ],
+          [
+            "VAG",
+            "L 34D 820 411"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "AUDI": 29,
+          "SEAT": 85,
+          "SKODA": 60,
+          "VOLKSWAGEN": 32
+        },
+        "OEM_make": "VAG",
+        "OEM_raw": "6C0 816 411",
+        "OEM": "6C0816411",
+        "fitment_rows": [
+          {
+            "model": "AUDI A1 (8X1, 8XK) 10-18",
+            "modification": "1.0 TFSI (CHZB, DKLD) 70кВт/95лс 03.2015-10.2018",
+            "url": "https://sufix.pro/selection_parts.html?na_id=112018"
+          },
+          {
+            "model": "AUDI A1 (8X1, 8XK) 10-18",
+            "modification": "1.0 TFSI (CHZE) 60кВт/82лс 01.2016-10.2018",
+            "url": "https://sufix.pro/selection_parts.html?na_id=118024"
+          },
+          {
+            "model": "AUDI A1 (8X1, 8XK) 10-18",
+            "modification": "1.2 TFSI (CBZA) 63кВт/86лс 05.2010-04.2015",
+            "url": "https://sufix.pro/selection_parts.html?na_id=33303"
+          },
+          {
+            "model": "AUDI A1 (8X1, 8XK) 10-18",
+            "modification": "1.4 TDI (CUSB) 66кВт/90лс 11.2014-10.2018",
+            "url": "https://sufix.pro/selection_parts.html?na_id=108165"
+          },
+          {
+            "model": "AUDI A1 (8X1, 8XK) 10-18",
+            "modification": "1.4 TFSI (CAVG, CTHG) 136кВт/185лс 01.2011-04.2015",
+            "url": "https://sufix.pro/selection_parts.html?na_id=9304"
+          }
+        ],
+        "applicability_make": "AUDI",
+        "OEM_group_label_as_on_manufacturer_page": "VAG",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1021.jpg",
+        "photo_sha256": "75c701f40e37e4948ea3c062e3581d0fd182580cfcd5f2ea1891a37e6364fac6",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-fb0fce049490f9b414e70a",
+      "retail": 7300,
+      "final_API_checked_at_utc": "2026-11-19T07:14:25.545396+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1022",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814140",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:09.039102+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1022",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:54.816724+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 7850
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1022",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814140",
+        "source_checked_at_utc": "2026-11-18T10:10:44.939103+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1022.html",
+        "page_captured_at_utc": "2026-11-18T10:10:51.369823+00:00",
+        "manufacturer_page_sha256": "2a90ddbd85801701476c07f92f6d6038fc40ad8b2881f36f3bf15722fb1e7236",
+        "manufacturer_MPN": "XC-1022",
+        "product_title": "Радиатор кондиционера Арт. XC-1022",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "VAG",
+            "1K0 820 411 AC"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 AH"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 AJ"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 AK"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 B"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 D"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 E"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 F"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 G"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 H"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 N"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 P"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 Q"
+          ],
+          [
+            "VAG",
+            "1K0 820 411 S"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "AUDI": 52,
+          "SEAT": 67,
+          "SKODA": 92,
+          "VOLKSWAGEN": 255
+        },
+        "OEM_make": "VAG",
+        "OEM_raw": "1K0 820 411 AC",
+        "OEM": "1K0820411AC",
+        "fitment_rows": [
+          {
+            "model": "AUDI A3 (8P1) 03-12",
+            "modification": "1.2 TSI (CBZB) 77кВт/105лс 04.2010-08.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=33251"
+          },
+          {
+            "model": "AUDI A3 (8P1) 03-12",
+            "modification": "1.4 TFSI (CAXC, CMSA) 92кВт/125лс 09.2007-08.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=26581"
+          },
+          {
+            "model": "AUDI A3 (8P1) 03-12",
+            "modification": "1.6 (BGU, BSE, BSF, CCSA) 75кВт/102лс 05.2003-08.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17172"
+          },
+          {
+            "model": "AUDI A3 (8P1) 03-12",
+            "modification": "1.6 FSI (BAG, BLF, BLP) 85кВт/115лс 08.2003-09.2007",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17578"
+          },
+          {
+            "model": "AUDI A3 (8P1) 03-12",
+            "modification": "1.6 TDI (CAYB) 66кВт/90лс 05.2009-08.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=31316"
+          }
+        ],
+        "applicability_make": "AUDI",
+        "OEM_group_label_as_on_manufacturer_page": "VAG",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1022.jpg",
+        "photo_sha256": "75eec469d76fb594dc744f5f7047a969c8b423d0266e210c9cb0567e16fece14",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-3b69ce27b8e090ed16cf35",
+      "retail": 7850,
+      "final_API_checked_at_utc": "2026-11-19T07:14:27.021439+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1034",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814147",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:09.932189+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1034",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:56.429080+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 7550
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1034",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814147",
+        "source_checked_at_utc": "2026-11-18T10:10:46.131038+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1034.html",
+        "page_captured_at_utc": "2026-11-18T10:10:50.644263+00:00",
+        "manufacturer_page_sha256": "47806add3ce3e6f4fd9f0c62f8f2530ac91ddcbbd53cc30bdaa554da7ec5e120",
+        "manufacturer_MPN": "XC-1034",
+        "product_title": "Радиатор кондиционера Арт. XC-1034",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "MAZDA",
+            "BP4K-61-480A"
+          ],
+          [
+            "MAZDA",
+            "BP4K-61-480B"
+          ],
+          [
+            "MAZDA",
+            "BP4K-61-480C"
+          ],
+          [
+            "MAZDA",
+            "BP4K-61-480D"
+          ],
+          [
+            "MAZDA",
+            "BPYK-61-480ZA"
+          ],
+          [
+            "MAZDA",
+            "BPYK-61-48Z"
+          ],
+          [
+            "MAZDA",
+            "BPYK-61-48ZA"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "MAZDA": 11
+        },
+        "OEM_make": "MAZDA",
+        "OEM_raw": "BP4K-61-480A",
+        "OEM": "BP4K61480A",
+        "fitment_rows": [
+          {
+            "model": "MAZDA 3 | AXELA (BK) 03-09",
+            "modification": "1.3 (BK14) (ZJ07, ZJ30, ZJ32) 62кВт/84лс 10.2003-06.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=18099"
+          },
+          {
+            "model": "MAZDA 3 | AXELA (BK) 03-09",
+            "modification": "1.6 (BK14) (Z601, Z627) 77кВт/105лс 10.2003-06.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17669"
+          },
+          {
+            "model": "MAZDA 3 | AXELA (BK) 03-09",
+            "modification": "2.0 (BKEP) (LF50, LF72, LFDE, LFN7, LFN8, LFVE) 110кВт/150лс 10.2003-12.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17670"
+          },
+          {
+            "model": "MAZDA 3 | AXELA (BK) 03-09",
+            "modification": "2.3 MPS Turbo (BK14) (L3M6) 191кВт/260лс 12.2006-06.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=23264"
+          },
+          {
+            "model": "MAZDA 3 | AXELA Saloon (BK) 03-09",
+            "modification": "1.6 (BK12) (Z601, Z627) 77кВт/105лс 02.2004-06.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17671"
+          }
+        ],
+        "applicability_make": "MAZDA",
+        "OEM_group_label_as_on_manufacturer_page": "MAZDA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1034.jpg",
+        "photo_sha256": "54b0ac3ae098998019b3057d986a19463373a0c5a7067b097b6bd7eac56193ea",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-49ab0b9139c8914a33efb3",
+      "retail": 7550,
+      "final_API_checked_at_utc": "2026-11-19T07:14:28.434600+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1038",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814145",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:10.947949+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1038",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:57.576849+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 8850
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1038",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814145",
+        "source_checked_at_utc": "2026-11-18T10:10:56.185967+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/XC-1038.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "selected_for_fresh_release_20261119": false,
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SOURCE_INCOMPLETE_20261118",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1040",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814131",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:12.086787+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1040",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:58.676964+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6600
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1040",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814131",
+        "source_checked_at_utc": "2026-11-18T10:10:56.318201+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/XC-1040.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "selected_for_fresh_release_20261119": false,
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SOURCE_INCOMPLETE_20261118",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1042",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814129",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:15.138808+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1042",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:09:59.930377+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 7150
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1042",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814129",
+        "source_checked_at_utc": "2026-11-18T10:11:01.359225+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/XC-1042.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "selected_for_fresh_release_20261119": false,
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SOURCE_INCOMPLETE_20261118",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1044",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814133",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:15.230955+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1044",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:01.134145+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6400
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1044",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814133",
+        "source_checked_at_utc": "2026-11-18T10:11:01.475667+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/XC-1044.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "selected_for_fresh_release_20261119": false,
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SOURCE_INCOMPLETE_20261118",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1045",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814130",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:16.184200+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1045",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:02.564258+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6950
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1045",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814130",
+        "source_checked_at_utc": "2026-11-18T10:11:06.527720+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1045.html",
+        "page_captured_at_utc": "2026-11-18T10:11:07.847175+00:00",
+        "manufacturer_page_sha256": "b2a711d1d409046f7cbc441ed7083c1c1a17cbb425c13ce76b245566a91be808",
+        "manufacturer_MPN": "XC-1045",
+        "product_title": "Радиатор кондиционера Арт. XC-1045",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "HYUNDAIKIA",
+            "97606-H5000"
+          ],
+          [
+            "HYUNDAIKIA",
+            "97606-H8000"
+          ],
+          [
+            "HYUNDAIKIA",
+            "97606-H8050"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "KIA": 1
+        },
+        "OEM_make": "HYUNDAIKIA",
+        "OEM_raw": "97606-H5000",
+        "OEM": "97606H5000",
+        "fitment_rows": [
+          {
+            "model": "KIA RIO IV (YB, SC, FB) 17-",
+            "modification": "1.4 (G4LC) 74кВт/100лс 01.2017-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=134141"
+          }
+        ],
+        "applicability_make": "KIA",
+        "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1045.jpg",
+        "photo_sha256": "90435449327f0e7646c5e7bdbb82cf9f891db04f07c2b64f279ff984069ab1c5",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-973574a7d6d7f74a281524",
+      "retail": 6950,
+      "final_API_checked_at_utc": "2026-11-19T07:14:29.831218+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1050",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814146",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:17.395055+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1050",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:03.538766+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6100
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1050",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814146",
+        "source_checked_at_utc": "2026-11-18T10:11:06.636069+00:00",
+        "source_status": "OEM_OR_SAME_MAKE_APPLICABILITY_NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/XC-1050.html",
+        "page_captured_at_utc": "2026-11-18T10:11:12.391919+00:00",
+        "manufacturer_page_sha256": "b0a5ee29bd6dc0ddda32864cbf0062f6f2878bfeb02fb11f027425698e55f6f1",
+        "manufacturer_MPN": "XC-1050",
+        "product_title": "Радиатор кондиционера Арт. XC-1050",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "CITROEN": 81,
+          "PEUGEOT": 83
+        },
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1050.jpg",
+        "photo_sha256": "06ae7a676d60ee46628c817ae4e08e7d4b32fc9991d54bcca8c39a6dd0450fa4",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG"
+      },
+      "selected_for_fresh_release_20261119": false,
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SOURCE_INCOMPLETE_20261118",
+      "reason": "OEM_OR_SAME_MAKE_APPLICABILITY_NOT_CONFIRMED"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1052",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814144",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:18.342825+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1052",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:04.856231+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 7350
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1052",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814144",
+        "source_checked_at_utc": "2026-11-18T10:11:12.336823+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1052.html",
+        "page_captured_at_utc": "2026-11-18T10:11:18.184039+00:00",
+        "manufacturer_page_sha256": "0cb22c6bcce228a55b9fb62b9e83c5ddf64a5583a7d0fc636a4a59fe8e981eca",
+        "manufacturer_MPN": "XC-1052",
+        "product_title": "Радиатор кондиционера Арт. XC-1052",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "GENERALMOTORS",
+            "96484931"
+          ],
+          [
+            "GENERALMOTORS",
+            "96804274"
+          ],
+          [
+            "GENERALMOTORS",
+            "96837834"
+          ],
+          [
+            "GENERALMOTORS",
+            "96844907"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "CHEVROLET": 14,
+          "DAEWOO": 7
+        },
+        "OEM_make": "GENERALMOTORS",
+        "OEM_raw": "96484931",
+        "OEM": "96484931",
+        "fitment_rows": [
+          {
+            "model": "CHEVROLET LACETTI (J200) 05-12",
+            "modification": "1.4 16V (L14(85CUL4)) 70кВт/95лс 03.2005-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=18536"
+          },
+          {
+            "model": "CHEVROLET LACETTI (J200) 05-12",
+            "modification": "1.6 (L44(96CUL4), LXT) 80кВт/109лс 03.2005-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=18537"
+          },
+          {
+            "model": "CHEVROLET LACETTI (J200) 05-12",
+            "modification": "1.8 (LDA) 67кВт/91лс 03.2005-12.2009",
+            "url": "https://sufix.pro/selection_parts.html?na_id=106531"
+          },
+          {
+            "model": "CHEVROLET LACETTI (J200) 05-12",
+            "modification": "1.8 (LDA) 89кВт/121лс 08.2005-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19770"
+          },
+          {
+            "model": "CHEVROLET LACETTI (J200) 05-12",
+            "modification": "1.8 (LDA) 90кВт/122лс 03.2005-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=18538"
+          }
+        ],
+        "applicability_make": "CHEVROLET",
+        "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1052.jpg",
+        "photo_sha256": "d343f14538e49c09436a40cea605b6511050e827d5fc8905dcc93333985135f8",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-e9a6a0010d218f92e288d5",
+      "retail": 7350,
+      "final_API_checked_at_utc": "2026-11-19T07:14:31.493001+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1054",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814150",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:19.215672+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1054",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:06.845255+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 7650
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1054",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814150",
+        "source_checked_at_utc": "2026-11-18T10:11:18.126554+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1054.html",
+        "page_captured_at_utc": "2026-11-18T10:11:23.701840+00:00",
+        "manufacturer_page_sha256": "1d0cadf36fed3a035ce59513acd1a001434990d6ead579eda35ea005ba7de68c",
+        "manufacturer_MPN": "XC-1054",
+        "product_title": "Радиатор кондиционера Арт. XC-1054",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "HYUNDAIKIA",
+            "97606-2Y500"
+          ],
+          [
+            "HYUNDAIKIA",
+            "97606-2Y501"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "HYUNDAI": 7,
+          "KIA": 5
+        },
+        "OEM_make": "HYUNDAIKIA",
+        "OEM_raw": "97606-2Y500",
+        "OEM": "976062Y500",
+        "fitment_rows": [
+          {
+            "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+            "modification": "1.6 (G4FD) 99кВт/135лс 11.2010-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=9930"
+          },
+          {
+            "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+            "modification": "2.0 (G4KD) 120кВт/163лс 01.2010-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=33131"
+          },
+          {
+            "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+            "modification": "2.0 4WD (G4KD) 120кВт/163лс 01.2010-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=33132"
+          },
+          {
+            "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+            "modification": "2.0 CVVT (G4KD) 110кВт/150лс 08.2009-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=114089"
+          },
+          {
+            "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+            "modification": "2.0 CVVT AWD (G4KD) 110кВт/150лс 08.2009-07.2013",
+            "url": "https://sufix.pro/selection_parts.html?na_id=118799"
+          }
+        ],
+        "applicability_make": "HYUNDAI",
+        "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1054.jpg",
+        "photo_sha256": "7783c0a3a4893a3105a823e816f67a24135a116cd5647c9957c0e2295fce0e4c",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-c8fa2d079af71dd3946907",
+      "retail": 7650,
+      "final_API_checked_at_utc": "2026-11-19T07:14:32.796331+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1058",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814148",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:20.392196+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1058",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:08.273446+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6500
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1058",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814148",
+        "source_checked_at_utc": "2026-11-18T10:11:23.642416+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1058.html",
+        "page_captured_at_utc": "2026-11-18T10:11:29.533406+00:00",
+        "manufacturer_page_sha256": "be95bdd245bd6cf5ad280833989fbbdf14b15770c6f51ad17e9b1b6339379203",
+        "manufacturer_MPN": "XC-1058",
+        "product_title": "Радиатор кондиционера Арт. XC-1058",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "88450-02280"
+          ],
+          [
+            "TOYOTA",
+            "88450-02300"
+          ],
+          [
+            "TOYOTA",
+            "88450-02330"
+          ],
+          [
+            "TOYOTA",
+            "88450-02350"
+          ],
+          [
+            "TOYOTA",
+            "88450-02360"
+          ],
+          [
+            "TOYOTA",
+            "88450-12280"
+          ],
+          [
+            "TOYOTA",
+            "88450-12300"
+          ],
+          [
+            "TOYOTA",
+            "88460-02390"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "TOYOTA": 44
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "88450-02280",
+        "OEM": "8845002280",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA AURIS (_E18_) 12-18",
+            "modification": "1.3 (NRE180_) (1NR-FE) 73кВт/99лс 10.2012-12.2018",
+            "url": "https://sufix.pro/selection_parts.html?na_id=57481"
+          },
+          {
+            "model": "TOYOTA AURIS (_E18_) 12-18",
+            "modification": "1.4 D-4D (NDE180_) (1ND-TV) 66кВт/90лс 10.2012-12.2018",
+            "url": "https://sufix.pro/selection_parts.html?na_id=57455"
+          },
+          {
+            "model": "TOYOTA AURIS (_E18_) 12-18",
+            "modification": "1.6 (ZRE181_, ZRE185_) (1ZR-FAE) 97кВт/132лс 10.2012-12.2018",
+            "url": "https://sufix.pro/selection_parts.html?na_id=57457"
+          },
+          {
+            "model": "TOYOTA AURIS | BLADE (_E15_) 06-12",
+            "modification": "1.33 Dual-VVTi (NRE150_) (1NR-FE) 73кВт/99лс 01.2010-09.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=34982"
+          },
+          {
+            "model": "TOYOTA AURIS | BLADE (_E15_) 06-12",
+            "modification": "1.33 Dual-VVTi (NRE150_) (1NR-FE) 74кВт/101лс 05.2009-09.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=31115"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1058.jpg",
+        "photo_sha256": "1b4c43126d1009e2a979165dab0f19b331a00ae4fba51dcf9b2bc9f89270558c",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-bad4c5a311286bf886e331",
+      "retail": 6500,
+      "final_API_checked_at_utc": "2026-11-19T07:14:34.192642+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1059",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814155",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:21.320248+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1059",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:09.277749+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 7450
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1059",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814155",
+        "source_checked_at_utc": "2026-11-18T10:11:29.708387+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1059.html",
+        "page_captured_at_utc": "2026-11-18T10:11:35.333845+00:00",
+        "manufacturer_page_sha256": "00bf524d2f5438c423d7d1470584694da070803556877d9aa2c83323d8cc6771",
+        "manufacturer_MPN": "XC-1059",
+        "product_title": "Радиатор кондиционера Арт. XC-1059",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "88460-0R030"
+          ],
+          [
+            "TOYOTA",
+            "88460-42110"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "TOYOTA": 9
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "88460-0R030",
+        "OEM": "884600R030",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+            "modification": "2.0 (ZSA42) (3ZR-FE) 107кВт/146лс 12.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=58746"
+          },
+          {
+            "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+            "modification": "2.0 4WD (ZSA44_) (3ZR-FAE) 111кВт/151лс 12.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=58618"
+          },
+          {
+            "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+            "modification": "2.0 4WD (ZSA44_) (3ZR-FAE) 112кВт/151лс 04.2015-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=113171"
+          },
+          {
+            "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+            "modification": "2.0 4WD (ZSA44) (3ZR-FE) 107кВт/146лс 12.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=42472"
+          },
+          {
+            "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+            "modification": "2.0 D (ALA40_) (1AD-FTV) 91кВт/124лс 12.2012-11.2018",
+            "url": "https://sufix.pro/selection_parts.html?na_id=58616"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1059.jpg",
+        "photo_sha256": "f22d589519f4e38d89aa678cd3ab72426b19db1e09f6e6cc6b32aeb89f35a4e3",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-0c2db69166156864587ad7",
+      "retail": 7450,
+      "final_API_checked_at_utc": "2026-11-19T07:14:36.034080+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1060",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814152",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:22.137121+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1060",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:10.894947+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 7500
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1060",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814152",
+        "source_checked_at_utc": "2026-11-18T10:11:35.360865+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/XC-1060.html",
+        "page_captured_at_utc": "2026-11-18T10:11:41.321034+00:00",
+        "manufacturer_page_sha256": "9185f2f4fbec1c6b156979f63067a03c8481acca6dc108aae9bb98a0bed16b41",
+        "manufacturer_MPN": "XC-1060",
+        "product_title": "Радиатор кондиционера Арт. XC-1060",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "TOYOTA",
+            "88460-06210"
+          ],
+          [
+            "TOYOTA",
+            "88460-07060"
+          ],
+          [
+            "TOYOTA",
+            "88460-33100"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "LEXUS": 2,
+          "TOYOTA": 9
+        },
+        "OEM_make": "TOYOTA",
+        "OEM_raw": "88460-06210",
+        "OEM": "8846006210",
+        "fitment_rows": [
+          {
+            "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+            "modification": "2.4 (ACV40_) (2AZ-FE) 123кВт/167лс 01.2006-09.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=34837"
+          },
+          {
+            "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+            "modification": "2.4 (ACV40_) (2AZ-FE) 127кВт/173лс 01.2006-09.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=57752"
+          },
+          {
+            "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+            "modification": "2.4 (ACV40) (2AZ-FE) 116кВт/158лс 01.2006-09.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=20332"
+          },
+          {
+            "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+            "modification": "3.5 (GSV40_) (2GR-FE) 200кВт/272лс 01.2006-12.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=49204"
+          },
+          {
+            "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+            "modification": "3.5 (GSV40_) (2GR-FE) 204кВт/277лс 09.2006-12.2014",
+            "url": "https://sufix.pro/selection_parts.html?na_id=11803"
+          }
+        ],
+        "applicability_make": "TOYOTA",
+        "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/XC-1060.jpg",
+        "photo_sha256": "b9d9517c0d178811991b434e5ad7f44b388150271de244ad9aa892aee70e3512",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "package_unit_verified": true
+      },
+      "selected_for_fresh_release_20261119": true,
+      "publication_performed": true,
+      "source_bundle_verified": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-2956443f69e646630de508",
+      "retail": 7500,
+      "final_API_checked_at_utc": "2026-11-19T07:14:37.679385+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1064",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814154",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:23.574364+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1064",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:12.203802+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6900
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1064",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814154",
+        "source_checked_at_utc": "2026-11-18T10:11:41.111731+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/XC-1064.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "selected_for_fresh_release_20261119": false,
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SOURCE_INCOMPLETE_20261118",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1066",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814159",
+      "previous_API_checked_at_utc": "2026-11-13T16:21:24.407143+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "initial_API_review_20261118": {
+        "brand": "SUFIX",
+        "article": "XC1066",
+        "category": "Радиаторы кондиционера",
+        "checked_at_utc": "2026-11-18T10:10:13.370011+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 6650
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "XC1066",
+        "category": "Радиаторы кондиционера",
+        "supplier_nomenclature": "NSII0028814159",
+        "source_checked_at_utc": "2026-11-18T10:11:46.288844+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/XC-1066.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "selected_for_fresh_release_20261119": false,
+      "publication_performed": false,
+      "source_bundle_verified": false,
+      "status": "SOURCE_INCOMPLETE_20261118",
+      "reason": "ReadTimeout"
+    }
+  ]
+}
