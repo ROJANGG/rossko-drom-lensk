@@ -70,6 +70,13 @@ jobs:
           python -m unittest discover -s tests -p test_avito_sufix_timing_scope.py -v
           python -m unittest discover -s tests -p test_avito_wholesale_live_api_refresh.py -v
           python -m unittest discover -s tests -p test_avito_refresh_public_cdn.py -v
+      - name: Bound the single retry of the fresh supplier download
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('generator/config.json');c=json.loads(p.read_text());c['rossko']['download_timeout_seconds']=20;p.write_text(json.dumps(c,ensure_ascii=False))
+          PY
       - name: Recheck manufacturer OEM, applicability, exact image bytes and current ROSSKO account stock
         id: candidate
         env:
