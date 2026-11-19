@@ -1,0 +1,19 @@
+{
+  "expected_ads": 762,
+  "expected_sha256": "07ae51664d94ea1ca455a0285c4634aafbb17ee4cb1d67e45ea0d4c367314244",
+  "XML_publication_performed": false,
+  "raw": {
+    "ads": 762,
+    "sha256": "07ae51664d94ea1ca455a0285c4634aafbb17ee4cb1d67e45ea0d4c367314244",
+    "exact": true
+  },
+  "cdn": {
+    "ads": 762,
+    "sha256": "07ae51664d94ea1ca455a0285c4634aafbb17ee4cb1d67e45ea0d4c367314244",
+    "exact": true
+  },
+  "workflow_run_id": 44534334482,
+  "workflow_job_id": 135595656449,
+  "cache_refresh_requests_at_most": 1,
+  "private_API_calls_in_recovery_job": 0
+}
