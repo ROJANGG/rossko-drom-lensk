@@ -1,0 +1,807 @@
+{
+  "batch_id": "source23_20261119",
+  "scope": 100,
+  "publication_performed": false,
+  "items": [
+    {
+      "brand": "Master KiT",
+      "article": "77BGH015",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978096",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:59.024091+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH054",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978116",
+      "previous_API_checked_at_utc": "2026-11-13T16:15:59.976458+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH066",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978123",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:01.217032+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH069",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978126",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:01.933893+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH070",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978127",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:03.054355+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH072",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978527",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:04.101196+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH089",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978529",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:05.191244+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH094",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978146",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:06.067367+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH095",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0019978147",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:07.326914+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH1041",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026625140",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:10.641573+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH1177",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026625275",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:11.824822+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH1166",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026625264",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:12.649172+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH227",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026625282",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:13.014412+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH290",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674283",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:14.080888+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH295",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674288",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:15.019169+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH345",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674338",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:15.950861+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH471",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674463",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:16.907744+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH488",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674480",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:18.195360+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH489",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674481",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:18.837675+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH520",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674512",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:20.010842+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH545",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674537",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:20.925740+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH554",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674546",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:21.850332+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH556",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0023674548",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:23.223228+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH906",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026625620",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:23.948237+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH971",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026625685",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:24.900277+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH984",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026625698",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:26.029337+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Master KiT",
+      "article": "77BGH985",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0026625699",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:26.736714+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "612941500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000498593",
+      "previous_API_checked_at_utc": "2026-11-13T16:16:59.933696+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613128000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000498647",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:01.198529+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613165500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000498675",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:01.988191+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613167500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000498679",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:03.031063+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613195510",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000498733",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:04.304121+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613307000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000498751",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:04.925003+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613313000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000498761",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:05.859509+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613407500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000498869",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:07.035214+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613483000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011016814",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:08.092576+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613650500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011016893",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:08.865410+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613724000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0020257393",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:10.327681+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "613747500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0000569113",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:10.952332+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615262010",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000499194",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:11.933254+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615284500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000499249",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:12.877115+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615286500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000499253",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:13.869901+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615287000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000499254",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:14.883065+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615294530",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000008648",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:15.919995+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615294540",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000008649",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:16.845820+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615316000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000499322",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:17.812714+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615330000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000499350",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:19.010008+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615342500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011016932",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:19.813637+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615351500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011016950",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:21.132266+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Victor Reinz",
+      "article": "615388000",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0000569258",
+      "previous_API_checked_at_utc": "2026-11-13T16:17:22.156373+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "169750",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000502030",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:58.226445+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "124474",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0006850424",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:58.237976+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "176960",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011019407",
+      "previous_API_checked_at_utc": "2026-11-13T16:13:59.206656+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "177010",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011019408",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:00.063835+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "193500",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000010836",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:01.857274+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "197710",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011019431",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:02.033152+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "197720",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011019432",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:02.994929+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "265481",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0006925473",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:04.157750+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "270450",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000011094",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:05.091141+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "354240",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011019510",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:06.368667+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "540470",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0019719560",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:07.068962+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "707860",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000503132",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:08.249333+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "708040",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000503137",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:09.124611+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "828254",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000503613",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:10.039725+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "864250",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000503770",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:11.094236+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "920232",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0011019654",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:12.009284+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Elring",
+      "article": "920460",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSIN0000504042",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:13.329584+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10101",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028758302",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:19.193093+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10109",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372691",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:20.218062+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10110",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372694",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:21.090091+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10113",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372696",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:21.941007+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10304",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372686",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:22.945667+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10506",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372676",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:24.083661+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10507",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372662",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:25.289057+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10801",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028651123",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:26.026608+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10802",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372669",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:28.197412+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10835",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028787986",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:28.866397+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES10901",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372697",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:30.082164+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11004",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028651127",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:30.882433+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11013",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028651128",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:31.938096+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11015",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372664",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:33.016786+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11018",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372685",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:33.921165+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11019",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028651129",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:34.898742+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11101",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028773810",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:35.985806+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11102",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028773811",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:37.056220+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11103",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028773812",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:38.052171+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11106",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028787970",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:38.834756+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11403",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372675",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:40.068497+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11404",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028651685",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:40.881072+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11405",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028651131",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:41.895574+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11413",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028787979",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:42.981765+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11414",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028788060",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:43.980414+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11701",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028758387",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:44.932526+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11801",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372683",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:45.963960+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11901",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028788131",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:47.069655+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11903",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372681",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:47.999419+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11911",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028773818",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:49.020366+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11914",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028788144",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:49.987980+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11915",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028773819",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:50.903879+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Luzar",
+      "article": "LES11916",
+      "category": "Прокладки ГБЦ",
+      "supplier_nomenclature": "NSII0028372665",
+      "previous_API_checked_at_utc": "2026-11-13T16:14:52.109739+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ]
+}
