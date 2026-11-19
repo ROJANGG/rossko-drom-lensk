@@ -1,0 +1,807 @@
+{
+  "batch_id": "source19_20261119",
+  "scope": 100,
+  "publication_performed": false,
+  "items": [
+    {
+      "brand": "Febest",
+      "article": "0110008",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007189900",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:36.828395+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110009A48",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0020863326",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:38.281796+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110010A48",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0020863327",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:40.041432+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110054A48",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019673904",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:41.890458+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110055A48",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0020863329",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:42.236606+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "01101NZFE",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006735596",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:42.723880+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ASV50LA48",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0016332407",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:44.076447+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110AXVA70",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0027765450",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:44.570596+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110GRN245",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0015422125",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:45.686949+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110KSP90Z19",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009684545",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:46.709518+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ZGX10",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0027765433",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:47.794920+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ZZE132A48",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0015421502",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:48.559243+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "01111SZFE",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019673714",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:49.748821+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ACV30RH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0020889369",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:53.690868+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111AZT250LH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0020889334",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:54.434824+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111GSV40LH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019718999",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:55.094836+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111KSP130",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018368451",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:55.552057+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111MCX20RH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009534356",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:56.854214+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111MHU38R",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009538151",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:57.797942+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111NZE140",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007389493",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:59.138701+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ST215RH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018368554",
+      "previous_API_checked_at_utc": "2026-11-16T10:27:59.759849+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ZRE142",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0027255906",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:00.839348+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115090",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006905783",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:02.299098+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "01152UZFE",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734803",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:03.037937+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACA20RT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536150",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:04.154952+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACA33RT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734804",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:04.729065+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACU35RT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536151",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:06.026674+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACV30LHT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734847",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:06.896927+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115AXAH54RT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0029192744",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:07.671642+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115AZT251TRH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007189833",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:08.850254+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GRJ120T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019766147",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:10.085378+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GRJ150T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734849",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:10.865009+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GSU35LHT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007389617",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:11.648306+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GSX30RHT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536248",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:12.975594+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115KLH18",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734851",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:15.375300+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115KUN26T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734852",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:16.463471+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115MCV30",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006905784",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:17.102693+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115MHU38R",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734806",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:18.068188+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115PASV70T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0027765408",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:18.695672+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZNRRHT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734807",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:19.552671+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZRT270T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734853",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:25.855595+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZZE150T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023152960",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:27.405478+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117074",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006905769",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:28.798774+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117NCP90",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006910714",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:31.153204+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117NGJ10",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007389619",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:32.313516+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117090",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007332254",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:39.002592+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P1NZFE",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006910715",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:40.534648+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P067",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023090009",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:43.596071+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P200",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007332255",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:43.823705+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PACA33R",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536187",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:44.455198+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PACV40",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734809",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:46.123107+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PAXAH54R",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0029192746",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:46.194047+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PGRJ150",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536189",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:47.429723+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PKUN26",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0010264576",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:48.660102+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PZZE150",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023168357",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:49.627235+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0210T32R",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0018368536",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:50.787721+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0210V10A44",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019673843",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:51.478482+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0211J32QR25FLH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028782577",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:52.283923+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215071T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006905770",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:53.807656+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215C11XT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019672055",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:54.403228+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215F15T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536142",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:55.537001+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215J1016",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734811",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:56.530804+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215J32T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0010433944",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:58.135497+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215L32T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007189832",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:58.748907+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215R51T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734814",
+      "previous_API_checked_at_utc": "2026-11-16T10:28:59.466581+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215S14T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0017836106",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:00.376684+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215Y62",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536249",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:01.301760+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215Z51T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734815",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:02.454690+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PB30",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0023170122",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:04.446237+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PE11",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007184941",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:04.613122+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PJ1016",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734818",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:05.622756+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PJ1020",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007332259",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:06.782994+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PN16",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007184942",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:08.067548+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PV42",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536185",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:08.454666+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PY62",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536168",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:09.476451+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PZ50",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734842",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:10.612905+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0310024A50",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019673750",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:11.381849+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0310BE",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007389759",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:12.166471+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0310CITYAT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007389755",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:13.238709+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0311CIV5DLH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0027661640",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:14.052611+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0311GP1",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0027661642",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:15.335543+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0317121",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006734821",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:16.639103+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0317PRE5",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0027661796",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:17.217101+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0410013",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019726801",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:18.818455+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0410CW5",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019673811",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:20.154800+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CU20",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019672048",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:21.466958+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CW6LHT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007150061",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:22.580161+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CY4ALHT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007389631",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:23.415060+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415K94",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019672049",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:24.280629+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415N94T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536156",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:24.581980+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415PV97WR",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536139",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:25.261769+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PDJ24",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007332266",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:26.793464+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PKB4",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0007150052",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:27.786377+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV75",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSIN0019718725",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:28.718246+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV97WF",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009684452",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:29.677360+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV97WR",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009536167",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:30.052246+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0510KEAT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028782605",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:31.489293+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0515BKT",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0009585413",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:32.666304+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0515CX7T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006905764",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:33.449694+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "Febest",
+      "article": "0515M2T",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0006905744",
+      "previous_API_checked_at_utc": "2026-11-16T10:29:34.735290+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ]
+}
