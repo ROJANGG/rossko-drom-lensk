@@ -47,10 +47,12 @@
   "publication_performed": true,
   "release_workflow_run_id": 44493321947,
   "delivery_observation_run_id": 44493961624,
-  "CDN_exact_bytes_verified": false,
+  "CDN_exact_bytes_verified": true,
   "raw_exact_bytes_verified": true,
   "raw_ads": 762,
-  "CDN_ads": 760,
+  "CDN_ads": 762,
   "CDN_observations_without_extra_purge": 12,
-  "Avito_import_verified": false
+  "Avito_import_verified": false,
+  "CDN_recovery_run_id": 44534334482,
+  "CDN_recovered_sha256": "07ae51664d94ea1ca455a0285c4634aafbb17ee4cb1d67e45ea0d4c367314244"
 }
