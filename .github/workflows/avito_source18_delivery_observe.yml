@@ -1,0 +1,44 @@
+name: Avito - observe source18 CDN delivery Nov19
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_source18_delivery_observe.yml'
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  delivery-only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: avito-irkutsk-feed
+          persist-credentials: false
+          sparse-checkout: AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml
+          sparse-checkout-cone-mode: false
+      - name: Observe exact public bytes without publishing or purging
+        run: |
+          python - <<'PY'
+          import urllib.request,hashlib,json,time,xml.etree.ElementTree as E
+          from pathlib import Path
+          expected=Path('AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml').read_bytes()
+          audit={'expected_ads':len(E.fromstring(expected)),'expected_sha256':hashlib.sha256(expected).hexdigest(),'extra_purge_requests':0,'publication_performed':False}
+          urls={'raw':'https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml','cdn':'https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml'}
+          def observe(name):
+              try:
+                  with urllib.request.urlopen(urls[name],timeout=10) as response:raw=response.read(8000001)
+                  return {'ads':len(E.fromstring(raw)),'sha256':hashlib.sha256(raw).hexdigest(),'exact':raw==expected}
+              except Exception as e:return {'error_class':type(e).__name__,'exact':False}
+          audit['raw']=observe('raw')
+          for attempt in range(12):
+              audit['cdn']=observe('cdn');audit['observations']=attempt+1
+              print('DELIVERY_ONLY_PROGRESS',json.dumps({'attempt':attempt+1,**audit['cdn']}),flush=True)
+              if audit['cdn']['exact']:break
+              if attempt<11:time.sleep(15)
+          print('AVITO_DELIVERY_AUDIT',json.dumps(audit),flush=True)
+          PY
