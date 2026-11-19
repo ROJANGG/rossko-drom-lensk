@@ -1,0 +1,25 @@
+{
+  "reviewed_articles": [
+    "ST1515",
+    "ST1519",
+    "ST1526",
+    "ST1530",
+    "ST1531",
+    "ST1536",
+    "ST1544",
+    "ST1551",
+    "ST1559",
+    "ST1563",
+    "ST1570",
+    "ST1602",
+    "ST1640",
+    "ST1650",
+    "ST1668"
+  ],
+  "actual_exact_product_photos_verified": 15,
+  "primary_product_count_verified": 1,
+  "unit_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES; EXACT ACCESSORY CONTENTS_NOT_ASSERTED",
+  "technical_drawings_accepted": 0,
+  "duplicate_photo_articles_skipped": [],
+  "publication_performed": false
+}

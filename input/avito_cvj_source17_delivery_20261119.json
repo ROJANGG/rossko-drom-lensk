@@ -1,0 +1,14 @@
+{
+  "expected_ads": 760,
+  "expected_sha256": "56aac75bf467f14c1c54008fe819a282e3dda825d2f3add2315702bfa7ce8a5d",
+  "raw": {
+    "ads": 760,
+    "sha256": "56aac75bf467f14c1c54008fe819a282e3dda825d2f3add2315702bfa7ce8a5d",
+    "exact": true
+  },
+  "cdn": {
+    "ads": 760,
+    "sha256": "56aac75bf467f14c1c54008fe819a282e3dda825d2f3add2315702bfa7ce8a5d",
+    "exact": true
+  }
+}

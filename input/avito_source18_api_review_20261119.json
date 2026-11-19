@@ -1,0 +1,101 @@
+{
+  "batch_size": 7,
+  "API_requests_attempted": 6,
+  "results": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1038",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T09:03:02.739659+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1045",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T09:03:04.087652+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2750
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1046",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T09:03:05.313031+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1048",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T09:03:06.659652+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3200
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1050",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T09:03:08.093621+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1065",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T09:03:08.093649+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2650
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1074",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-19T09:03:09.382417+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3250
+    }
+  ],
+  "status_counts": {
+    "опт_Иркутск_подтвержден": 6,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1
+  },
+  "ready_for_full_source_review": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1038"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1045"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1046"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1048"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1065"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1074"
+    }
+  ],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}

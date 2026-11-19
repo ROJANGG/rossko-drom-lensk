@@ -1,0 +1,17 @@
+{
+  "expected_ads": 762,
+  "expected_sha256": "07ae51664d94ea1ca455a0285c4634aafbb17ee4cb1d67e45ea0d4c367314244",
+  "extra_purge_requests": 0,
+  "publication_performed": false,
+  "raw": {
+    "ads": 762,
+    "sha256": "07ae51664d94ea1ca455a0285c4634aafbb17ee4cb1d67e45ea0d4c367314244",
+    "exact": true
+  },
+  "cdn": {
+    "ads": 760,
+    "sha256": "56aac75bf467f14c1c54008fe819a282e3dda825d2f3add2315702bfa7ce8a5d",
+    "exact": false
+  },
+  "observations": 12
+}

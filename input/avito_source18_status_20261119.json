@@ -1,0 +1,591 @@
+{
+  "date": "2026-11-19",
+  "scope": 7,
+  "API_initial_status_counts": {
+    "опт_Иркутск_подтвержден": 6,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 1
+  },
+  "selected_for_fresh_release": 2,
+  "status_counts": {
+    "SOURCE_INCOMPLETE": 4,
+    "PUBLISHED_IN_XML": 2,
+    "INITIAL_API_BLOCKED": 1
+  },
+  "published_count": 2,
+  "before": 760,
+  "after": 762,
+  "archive_after": 781,
+  "release_run_id": 44493321947,
+  "CDN_exact_bytes_verified": false,
+  "raw_exact_bytes_verified": true,
+  "Avito_import_verified": false,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1038",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685590",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:12.584628+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_initial_review": {
+        "brand": "SUFIX",
+        "article": "ST1038",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-19T09:03:02.739659+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2550
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1038",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685590",
+        "source_checked_at_utc": "2026-11-19T09:02:23.944241+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/ST-1038.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "source_bundle_verified": false,
+      "selected_for_release": false,
+      "publication_performed": false,
+      "status": "SOURCE_INCOMPLETE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1045",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685596",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:13.236564+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_initial_review": {
+        "brand": "SUFIX",
+        "article": "ST1045",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-19T09:03:04.087652+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2750
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1045",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685596",
+        "source_checked_at_utc": "2026-11-19T09:02:23.944940+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/ST-1045.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "source_bundle_verified": false,
+      "selected_for_release": false,
+      "publication_performed": false,
+      "status": "SOURCE_INCOMPLETE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1046",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685603",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:14.557047+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_initial_review": {
+        "brand": "SUFIX",
+        "article": "ST1046",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-19T09:03:05.313031+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2200
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1046",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685603",
+        "source_checked_at_utc": "2026-11-19T09:02:29.103931+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1046.html",
+        "page_captured_at_utc": "2026-11-19T09:01:51.820629+00:00",
+        "manufacturer_page_sha256": "b1e1fafb7e21ef7148424225284fd8a6b484274268a379f17a32457ae8e1dc3c",
+        "manufacturer_MPN": "ST-1046",
+        "product_title": "ШРУС наружный (Z 25x22, ABS 48) Арт. ST-1046",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "HYUNDAIKIA",
+            "49500-1C250"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1C260"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1C262"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1C351"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1C352"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1C361"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1C362"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1E000"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1E050"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1G011"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1G051"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1G105"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49500-1G151"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49591-1G013"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49591-1G015"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49591-1G092"
+          ],
+          [
+            "HYUNDAIKIA",
+            "49591-1G199"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "HYUNDAI": 5,
+          "KIA": 6
+        },
+        "OEM_make": "HYUNDAIKIA",
+        "OEM_raw": "49500-1C250",
+        "OEM": "495001C250",
+        "fitment_rows": [
+          {
+            "model": "HYUNDAI GETZ (TB) 02-10",
+            "modification": "1.3 (G4EA) 63кВт/85лс 09.2003-09.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=18027"
+          },
+          {
+            "model": "HYUNDAI GETZ (TB) 02-10",
+            "modification": "1.3 i (G4EA) 60кВт/82лс 09.2002-03.2004",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16814"
+          },
+          {
+            "model": "HYUNDAI GETZ (TB) 02-10",
+            "modification": "1.4 i (G4EE) 71кВт/97лс 08.2005-12.2010",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19917"
+          },
+          {
+            "model": "HYUNDAI GETZ (TB) 02-10",
+            "modification": "1.6 (G4ED) 77кВт/106лс 09.2002-09.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=16813"
+          },
+          {
+            "model": "HYUNDAI GETZ (TB) 02-10",
+            "modification": "1.6 (G4ED) 78кВт/106лс 06.2005-12.2006",
+            "url": "https://sufix.pro/selection_parts.html?na_id=27989"
+          }
+        ],
+        "applicability_make": "HYUNDAI",
+        "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/ST-1046.jpg",
+        "photo_sha256": "9092223bbb58471f17673d3f137d34684d7e46d12e8c9da1f1e7d64c536e419a",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "primary_product_count_verified": 1,
+        "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES"
+      },
+      "source_bundle_verified": true,
+      "selected_for_release": true,
+      "publication_performed": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-56517dded502412ea5600b",
+      "retail": 2200,
+      "final_API_checked_at_utc": "2026-11-19T09:07:12.193201+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1048",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685563",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:15.737627+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_initial_review": {
+        "brand": "SUFIX",
+        "article": "ST1048",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-19T09:03:06.659652+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 3200
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1048",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685563",
+        "source_checked_at_utc": "2026-11-19T09:02:29.104439+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1048.html",
+        "page_captured_at_utc": "2026-11-19T09:01:51.615779+00:00",
+        "manufacturer_page_sha256": "963406722e82318b9037581f1f3ad435583ef5ffdbeff15b9419ab9475a0cbcb",
+        "manufacturer_MPN": "ST-1048",
+        "product_title": "ШРУС наружный (Z 35x29) Арт. ST-1048",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "FIAT",
+            "46308371"
+          ],
+          [
+            "FIAT",
+            "46308484"
+          ],
+          [
+            "FIAT",
+            "71771175"
+          ],
+          [
+            "FIAT",
+            "1349785080"
+          ],
+          [
+            "FIAT",
+            "1349788080"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "CITROEN": 6,
+          "FIAT": 8,
+          "PEUGEOT": 9
+        },
+        "OEM_make": "FIAT",
+        "OEM_raw": "46308371",
+        "OEM": "46308371",
+        "fitment_rows": [
+          {
+            "model": "FIAT DUCATO Bus (250_) 06-11",
+            "modification": "100 Multijet 2,2 D (4HV) 74кВт/100лс 07.2006-05.2011",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19974"
+          },
+          {
+            "model": "FIAT DUCATO Bus (250_) 06-11",
+            "modification": "120 Multijet 2,3 D (F1AE0481D) 88кВт/120лс 07.2006-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19975"
+          },
+          {
+            "model": "FIAT DUCATO Platform/Chassis (250_) 06-11",
+            "modification": "100 Multijet 2,2 D (4HV) 74кВт/100лс 07.2006-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19980"
+          },
+          {
+            "model": "FIAT DUCATO Platform/Chassis (250_) 06-11",
+            "modification": "120 Multijet 2,3 D (F1AE0481D, F1AGL4114) 88кВт/120лс 07.2006-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19981"
+          },
+          {
+            "model": "FIAT DUCATO Platform/Chassis (250_) 06-11",
+            "modification": "120 Multijet 2,3 D 4WD (F1AE0481D) 88кВт/120лс 03.2010-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=12026"
+          }
+        ],
+        "applicability_make": "FIAT",
+        "OEM_group_label_as_on_manufacturer_page": "FIAT",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/ST-1048.jpg",
+        "photo_sha256": "efa317f8e22423a6c1c0bce8322cf6704b645c83337692dae03b0ca53e78a0b3",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+        "primary_product_count_verified": 1,
+        "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES"
+      },
+      "source_bundle_verified": true,
+      "selected_for_release": true,
+      "publication_performed": true,
+      "status": "PUBLISHED_IN_XML",
+      "id": "irk-127771186725a52078a243",
+      "retail": 3200,
+      "final_API_checked_at_utc": "2026-11-19T09:07:13.835084+00:00",
+      "reason": ""
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1050",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685638",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:16.208566+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_initial_review": {
+        "brand": "SUFIX",
+        "article": "ST1050",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-19T09:03:08.093621+00:00",
+        "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1050",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685638",
+        "source_checked_at_utc": "2026-11-19T09:02:30.915125+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1050.html",
+        "page_captured_at_utc": "2026-11-19T09:01:58.953652+00:00",
+        "manufacturer_page_sha256": "83cf1a575f5ee27950711e1bd00905d8ea6320c663c55b0fa8dc880d7143a9a3",
+        "manufacturer_MPN": "ST-1050",
+        "product_title": "ШРУС наружный (Z 25x22) Арт. ST-1050",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "NISSAN",
+            "39100-ED100"
+          ],
+          [
+            "NISSAN",
+            "39100-ED105"
+          ],
+          [
+            "NISSAN",
+            "39100-ED305"
+          ],
+          [
+            "NISSAN",
+            "39100-ED805"
+          ],
+          [
+            "NISSAN",
+            "39101-ED105"
+          ],
+          [
+            "NISSAN",
+            "39101-ED305"
+          ],
+          [
+            "NISSAN",
+            "39101-ED805"
+          ],
+          [
+            "NISSAN",
+            "39211-ED100"
+          ],
+          [
+            "NISSAN",
+            "C9211-EL10A"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "NISSAN": 16
+        },
+        "OEM_make": "NISSAN",
+        "OEM_raw": "39100-ED100",
+        "OEM": "39100ED100",
+        "fitment_rows": [
+          {
+            "model": "NISSAN MICRA | MARCH III (K12) 03-10",
+            "modification": "1.2 16V (CG12DE, CR12DE) 48кВт/65лс 01.2003-06.2010",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17180"
+          },
+          {
+            "model": "NISSAN MICRA | MARCH III (K12) 03-10",
+            "modification": "1.2 16V (CG12DE, CR12DE) 59кВт/80лс 01.2003-06.2010",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17158"
+          },
+          {
+            "model": "NISSAN MICRA | MARCH III (K12) 03-10",
+            "modification": "1.4 16V (CR14DE) 65кВт/88лс 01.2003-06.2010",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17159"
+          },
+          {
+            "model": "NISSAN MICRA | MARCH IV (K13) 10-",
+            "modification": "1.2 DIG-S (HR12DDR, HR12DR) 72кВт/98лс 03.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=7050"
+          },
+          {
+            "model": "NISSAN NOTE (E11, NE11) 06-12",
+            "modification": "1.6 (HR16DE) 81кВт/110лс 03.2006-06.2012",
+            "url": "https://sufix.pro/selection_parts.html?na_id=19175"
+          }
+        ],
+        "applicability_make": "NISSAN",
+        "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/ST-1050.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "source_bundle_verified": false,
+      "selected_for_release": false,
+      "publication_performed": false,
+      "status": "INITIAL_API_BLOCKED",
+      "reason": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1065",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685586",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:17.470896+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_initial_review": {
+        "brand": "SUFIX",
+        "article": "ST1065",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-19T09:03:08.093649+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 2650
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1065",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685586",
+        "source_checked_at_utc": "2026-11-19T09:02:31.132657+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1065.html",
+        "page_captured_at_utc": "2026-11-19T09:01:58.777068+00:00",
+        "manufacturer_page_sha256": "b2161a9a90953abf2faa21bc6e339f72e302d7c5b7e5ebcba773d7c72d5dad9a",
+        "manufacturer_MPN": "ST-1065",
+        "product_title": "ШРУС наружный (Z 33x31) Арт. ST-1065",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "GENERALMOTORS",
+            "13318006"
+          ],
+          [
+            "GENERALMOTORS",
+            "93745994"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "CHEVROLET": 6
+        },
+        "OEM_make": "GENERALMOTORS",
+        "OEM_raw": "13318006",
+        "OEM": "13318006",
+        "fitment_rows": [
+          {
+            "model": "CHEVROLET CRUZE (J300) 09-",
+            "modification": "1.6 (LDE) 91кВт/124лс 05.2009-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=8711"
+          },
+          {
+            "model": "CHEVROLET CRUZE (J300) 09-",
+            "modification": "1.8 (2H0) 104кВт/141лс 05.2009-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=31470"
+          },
+          {
+            "model": "CHEVROLET CRUZE Hatchback (J305) 11-",
+            "modification": "1.6 (LDE) 91кВт/124лс 06.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=10352"
+          },
+          {
+            "model": "CHEVROLET CRUZE Hatchback (J305) 11-",
+            "modification": "1.8 (2H0) 104кВт/141лс 06.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=10351"
+          },
+          {
+            "model": "CHEVROLET CRUZE Station Wagon (J308) 12-",
+            "modification": "1.6 (LDE) 91кВт/124лс 08.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55799"
+          }
+        ],
+        "applicability_make": "CHEVROLET",
+        "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/ST-1065.jpg",
+        "photo_error_class": "ReadTimeout"
+      },
+      "source_bundle_verified": false,
+      "selected_for_release": false,
+      "publication_performed": false,
+      "status": "SOURCE_INCOMPLETE",
+      "reason": "ReadTimeout"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1074",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685652",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:18.931425+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW",
+      "API_initial_review": {
+        "brand": "SUFIX",
+        "article": "ST1074",
+        "category": "ШРУС",
+        "checked_at_utc": "2026-11-19T09:03:09.382417+00:00",
+        "api_status": "опт_Иркутск_подтвержден",
+        "supplier_zero_day_stock": 1,
+        "avito_retail_rub": 3250
+      },
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1074",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685652",
+        "source_checked_at_utc": "2026-11-19T09:02:36.144153+00:00",
+        "source_status": "NOT_CONFIRMED",
+        "manufacturer_page": "https://sufix.pro/ST-1074.html",
+        "source_error_class": "ReadTimeout"
+      },
+      "source_bundle_verified": false,
+      "selected_for_release": false,
+      "publication_performed": false,
+      "status": "SOURCE_INCOMPLETE",
+      "reason": "ReadTimeout"
+    }
+  ]
+}

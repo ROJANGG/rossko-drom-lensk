@@ -1,0 +1,59 @@
+{
+  "as_of_utc": "2026-11-19T09:07:14.822995+00:00",
+  "before": 760,
+  "after": 762,
+  "approved_before": 779,
+  "approved_after": 781,
+  "scope_count": 2,
+  "added_count": 2,
+  "added": [
+    {
+      "id": "irk-56517dded502412ea5600b",
+      "brand": "SUFIX",
+      "article": "ST1046",
+      "category": "ШРУС",
+      "retail": 2200,
+      "photo": {
+        "filename": "irk-56517dded502412ea5600b-9092223bbb58.jpg",
+        "sha256": "9092223bbb58471f17673d3f137d34684d7e46d12e8c9da1f1e7d64c536e419a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-56517dded502412ea5600b-9092223bbb58.jpg",
+        "manufacturer_page_sha256": "21ea685b68219030ddfb8d359fca20ec407c09e0c0463297743d4f870919c30e",
+        "fitment_page_sha256": "21ea685b68219030ddfb8d359fca20ec407c09e0c0463297743d4f870919c30e",
+        "verified_at_utc": "2026-11-19T09:07:08.806559+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T09:07:12.193201+00:00"
+    },
+    {
+      "id": "irk-127771186725a52078a243",
+      "brand": "SUFIX",
+      "article": "ST1048",
+      "category": "ШРУС",
+      "retail": 3200,
+      "photo": {
+        "filename": "irk-127771186725a52078a243-efa317f8e224.jpg",
+        "sha256": "efa317f8e22423a6c1c0bce8322cf6704b645c83337692dae03b0ca53e78a0b3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-127771186725a52078a243-efa317f8e224.jpg",
+        "manufacturer_page_sha256": "356930f3a1a43b5d209f31dd508cdb5edbf57d0ef696f6816462392b7ba98cbb",
+        "fitment_page_sha256": "356930f3a1a43b5d209f31dd508cdb5edbf57d0ef696f6816462392b7ba98cbb",
+        "verified_at_utc": "2026-11-19T09:07:08.805950+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T09:07:13.835084+00:00"
+    }
+  ],
+  "skipped": [],
+  "all_original_ads_preserved": true,
+  "private_API_costs_published": false,
+  "checkout_mode": "account_pickup",
+  "publication_performed": true,
+  "release_workflow_run_id": 44493321947,
+  "CDN_exact_bytes_verified": false,
+  "raw_exact_bytes_verified": true,
+  "CDN_sha256": "56aac75bf467f14c1c54008fe819a282e3dda825d2f3add2315702bfa7ce8a5d",
+  "public_images_exact_bytes_verified": 2,
+  "Avito_import_verified": false,
+  "independent_old_live_and_archive_identity_check": true,
+  "delivery_observation_run_id": 44493961624,
+  "initial_delivery_CDN_ads": 760,
+  "release_workflow_conclusion": "failure_at_CDN_delivery_after_XML_publication",
+  "followup_extra_purge_requests": 0
+}
