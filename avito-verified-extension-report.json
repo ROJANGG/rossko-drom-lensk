@@ -44,5 +44,13 @@
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": false
+  "publication_performed": true,
+  "release_workflow_run_id": 44493321947,
+  "delivery_observation_run_id": 44493961624,
+  "CDN_exact_bytes_verified": false,
+  "raw_exact_bytes_verified": true,
+  "raw_ads": 762,
+  "CDN_ads": 760,
+  "CDN_observations_without_extra_purge": 12,
+  "Avito_import_verified": false
 }
