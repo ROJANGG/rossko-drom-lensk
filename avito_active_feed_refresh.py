@@ -54,7 +54,7 @@ def seller_sku(ad):
     if title.startswith("Подшипник ступицы "):
         from avito_reviewed_sufix_bearings import bearing_sku
         return bearing_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
-    if title.startswith(('Ремень ГРМ ', 'Радиатор охлаждения ', 'Радиатор кондиционера ')) and brand == 'SUFIX':
+    if title.startswith(('Ремень ГРМ ', 'Радиатор охлаждения ', 'Радиатор кондиционера ', 'ШРУС ')) and brand == 'SUFIX':
         from avito_reviewed_sufix_drive_belts import sufix_belt_sku
         return sufix_belt_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
     if title.startswith(('Ремень ГРМ ', 'Прокладка ГБЦ ', 'Радиатор охлаждения ')):
@@ -189,7 +189,7 @@ def supplier_products(book, config):
         if k in found:
             raise ValueError("Duplicate supplier brand/article")
         if (item["Группа"] not in ("Тормозные диски", "Рулевые рейки", "Радиаторы кондиционера", "Колодки барабанные", "Свечи накала")
-                and not (item["Группа"] in ("Ремни приводные", "Ступичные подшипники", "Ремни ГРМ", "Прокладки ГБЦ", "Радиаторы охлаждения")
+                and not (item["Группа"] in ("Ремни приводные", "Ступичные подшипники", "Ремни ГРМ", "Прокладки ГБЦ", "Радиаторы охлаждения", "ШРУС")
                          and EXTRA_APPROVED_STOCK_CATEGORIES.get(k) == item["Группа"])):
             raise ValueError("Unexpected supplier category")
         found[k] = item

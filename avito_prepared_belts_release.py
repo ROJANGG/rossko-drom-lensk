@@ -47,6 +47,8 @@ def validate_source(r, product, fitment=None):
         if not re.search(r'радиатор.*охлажд',label_text,re.I) or re.search('кондицион',label_text,re.I):raise ValueError('SUFIX cooling radiator category mismatch')
     elif r['category']=='Радиаторы кондиционера':
         if not re.search(r'радиатор.*кондицион',label_text,re.I):raise ValueError('SUFIX AC radiator category mismatch')
+    elif r['category']=='ШРУС':
+        if not re.search(r'^ШРУС\b|^Шарнир.*равных.*скорост',label_text,re.I):raise ValueError('SUFIX CV joint category mismatch')
     else:
         if not re.search(r'ремень',label_text,re.I):raise ValueError('SUFIX product category changed')
         is_timing=bool(re.search('грм',label_text,re.I))
@@ -95,16 +97,22 @@ def prepare_sufix_photo(r, place):
             'verified_at_utc': datetime.now(timezone.utc).isoformat()}
 
 def make_sufix_ad(r, retail, photo, address):
-    prefix,engine=META[r['category']]
+    prefix,part,detail_tag,detail_value=META[r['category']]
     title = prefix+' '+r['brand']+' '+r['article']+' новый'
     if len(title) > 50:
         raise ValueError('Title exceeds Avito limit')
     values = {'Id': stable_id(r), 'Category': 'Запчасти и аксессуары', 'GoodsType': 'Запчасти',
               'AdType': 'Товар приобретен на продажу', 'ProductType': 'Для автомобилей',
-              'SparePartType': 'Система охлаждения' if engine is None else 'Двигатель', 'EngineSparePartType': engine, 'OEM': r['oem'],
+              'SparePartType': part, 'OEM': r['oem'],
               'Title': title, 'Description': prefix+'. Производитель: '+r['brand']+'. Артикул: '+r['article']+'.\nСостояние: новое. Цена за одну штуку.\nOEM: '+r['oem']+'.\nПрименяемость по каталогу производителя, выборка: '+r['fitment']+'.\nСамовывоз: '+address+'.\nПеред покупкой сверьте OEM и VIN. Наличие перед приездом уточняйте.',
               'Address': address, 'Price': str(retail), 'Condition': 'Новое', 'Availability': 'В наличии', 'Brand': r['brand']}
-    if engine is None:values.pop('EngineSparePartType',None)
+    if detail_tag:
+        ordered={}
+        for name,value in values.items():
+            ordered[name]=value
+            if name=='SparePartType':ordered[detail_tag]=detail_value
+        values=ordered
+    if r['category']=='ШРУС':values['Description']=values['Description'].replace('Цена за одну штуку.','Цена за один ШРУС. Комплектацию сверяйте по артикулу перед заказом.')
     ad = ET.Element('Ad')
     for k, v in values.items():
         ET.SubElement(ad, k).text = v
