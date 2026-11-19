@@ -1,5 +1,5 @@
 name: Avito - release 67 reviewed SUFIX CV joints Nov19
-# Exact 67-SKU CV joint selection from reviewed source16; drawings excluded.
+# Complete preservation tests synchronized; exact 67-SKU CV joint selection from reviewed source16; drawings excluded.
 on:
   workflow_dispatch:
   push:
