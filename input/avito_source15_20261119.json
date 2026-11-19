@@ -1,0 +1,807 @@
+{
+  "batch_id": "source15",
+  "scope": 100,
+  "publication_performed": false,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1002",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685624",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:31.857042+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1003",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685553",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:33.714565+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1005",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685662",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:33.800067+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1006",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685554",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:34.816878+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1009",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685625",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:36.016037+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1013",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685595",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:36.819579+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1015",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685633",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:37.617223+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1017",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685634",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:38.723045+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1018",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685639",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:39.926630+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1020",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685602",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:40.965807+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1022",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685627",
+      "previous_API_checked_at_utc": "2026-11-16T10:37:42.368152+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1032",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685637",
+      "previous_API_checked_at_utc": "2026-11-16T10:38:08.809781+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1041",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685560",
+      "previous_API_checked_at_utc": "2026-11-16T10:38:10.157361+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1042",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685561",
+      "previous_API_checked_at_utc": "2026-11-16T10:38:11.622359+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1043",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685587",
+      "previous_API_checked_at_utc": "2026-11-16T10:38:13.168484+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1044",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685562",
+      "previous_API_checked_at_utc": "2026-11-16T10:38:14.901741+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1051",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685659",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:03.944381+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1053",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685647",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:05.692946+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1057",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685631",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:07.724960+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1061",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685672",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:09.899137+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1062",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685665",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:11.751285+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1063",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685609",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:13.736398+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1067",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685668",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:17.008545+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1072",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685593",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:19.075641+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1075",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685651",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:42.606404+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1076",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685656",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:47.589660+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1079",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685657",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:50.495793+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1084",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685579",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:51.000117+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1085",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685597",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:52.006764+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1086",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685578",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:53.442126+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1087",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685565",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:54.278511+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1089",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685575",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:54.880324+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1091",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685610",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:55.948031+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1092",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685641",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:56.623613+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1098",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685629",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:57.865369+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1099",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685675",
+      "previous_API_checked_at_utc": "2026-11-16T10:39:59.094082+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1100",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685592",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:00.166546+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1101",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685628",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:01.250608+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1102",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685567",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:02.096417+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1103",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685569",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:02.755064+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1106",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685623",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:04.200042+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1107",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685630",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:05.084351+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1108",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685661",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:05.979105+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1110",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685642",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:07.020361+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1111",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685612",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:07.740688+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1112",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685616",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:08.826745+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1113",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685632",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:10.368980+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1114",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685581",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:10.811492+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1117",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685598",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:12.189237+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1118",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685617",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:12.816127+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1119",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685667",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:14.413042+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1122",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685568",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:15.162069+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1123",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685576",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:15.948105+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1124",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685582",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:17.165373+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1131",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060908",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:17.747348+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1137",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060914",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:18.772742+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1139",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060916",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:20.016308+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1141",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060918",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:20.760724+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1142",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060919",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:21.706292+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1144",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060921",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:22.789307+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1145",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060922",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:23.751120+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1146",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060923",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:24.656936+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1149",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060926",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:25.917983+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1151",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060928",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:26.865735+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1153",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060930",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:27.589997+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1154",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060931",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:29.103973+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1158",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060935",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:29.730742+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1163",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060940",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:30.735476+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1168",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060945",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:31.774142+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1173",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060950",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:32.718342+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1174",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060951",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:33.942173+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1175",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060952",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:35.076230+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1177",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060954",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:36.108371+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1178",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060955",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:36.648408+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1181",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060958",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:38.042311+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1183",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060960",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:38.755044+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1188",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060965",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:40.051066+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1190",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060967",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:40.732547+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1194",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060971",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:41.730115+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1196",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060973",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:42.555001+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1198",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060975",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:43.704431+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1200",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060977",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:45.010419+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1201",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060978",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:45.589794+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1205",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060982",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:46.710544+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1206",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060983",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:48.450906+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1208",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060985",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:48.571942+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1210",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060987",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:49.817421+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1212",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060989",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:50.808689+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1214",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060991",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:51.750289+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1237",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061014",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:52.901071+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1242",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061019",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:53.969469+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1245",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061022",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:54.696165+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1247",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061024",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:55.574878+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1252",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061029",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:56.835326+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1255",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061032",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:57.605670+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1256",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061033",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:58.732300+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1262",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061039",
+      "previous_API_checked_at_utc": "2026-11-16T10:40:59.502482+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1263",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061040",
+      "previous_API_checked_at_utc": "2026-11-16T10:41:00.868312+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1264",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061041",
+      "previous_API_checked_at_utc": "2026-11-16T10:41:01.586959+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1266",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061043",
+      "previous_API_checked_at_utc": "2026-11-16T10:41:03.033652+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ]
+}
