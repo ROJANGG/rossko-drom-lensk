@@ -1,5 +1,5 @@
 {
-  "scope_sha256": "edcf5f7e03c31c6bad9c88df8883c0a5329b478ade149c3e60fb1fdfdf0a0860",
+  "scope_sha256": "60782b44984fd1ac4626b025c62b6452f1b93ec8e577002f7cbaecbb3acb8038",
   "items": [
     {
       "brand": "SUFIX",
@@ -30699,6 +30699,233 @@
       "photo_format": "JPEG",
       "oem": "FG3225500",
       "fitment": "MAZDA 3 | AXELA (BL) 08-14 1.6 MZR (BL14) (Z668, Z682, Z683) 77кВт/105лс 12.2008-09.2014; MAZDA 3 | AXELA Saloon (BK) 03-09 1.6 DI Turbo (BK12Y) (Y601, Y603, Y605, Y642) 80кВт/109лс 06.2004-06.2009",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1046",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685603",
+      "source_checked_at_utc": "2026-11-19T09:02:29.103931+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1046.html",
+      "page_captured_at_utc": "2026-11-19T09:01:51.820629+00:00",
+      "manufacturer_page_sha256": "b1e1fafb7e21ef7148424225284fd8a6b484274268a379f17a32457ae8e1dc3c",
+      "manufacturer_MPN": "ST-1046",
+      "product_title": "ШРУС наружный (Z 25x22, ABS 48) Арт. ST-1046",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "49500-1C250"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1C260"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1C262"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1C351"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1C352"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1C361"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1C362"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1E000"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1E050"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1G011"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1G051"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1G105"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1G151"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49591-1G013"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49591-1G015"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49591-1G092"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49591-1G199"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HYUNDAI": 5,
+        "KIA": 6
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "49500-1C250",
+      "OEM": "495001C250",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.3 (G4EA) 63кВт/85лс 09.2003-09.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18027"
+        },
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.3 i (G4EA) 60кВт/82лс 09.2002-03.2004",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16814"
+        },
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.4 i (G4EE) 71кВт/97лс 08.2005-12.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19917"
+        },
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.6 (G4ED) 77кВт/106лс 09.2002-09.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16813"
+        },
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.6 (G4ED) 78кВт/106лс 06.2005-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=27989"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1046.jpg",
+      "photo_sha256": "9092223bbb58471f17673d3f137d34684d7e46d12e8c9da1f1e7d64c536e419a",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "495001C250",
+      "fitment": "HYUNDAI GETZ (TB) 02-10 1.3 (G4EA) 63кВт/85лс 09.2003-09.2005; HYUNDAI GETZ (TB) 02-10 1.3 i (G4EA) 60кВт/82лс 09.2002-03.2004; HYUNDAI GETZ (TB) 02-10 1.4 i (G4EE) 71кВт/97лс 08.2005-12.2010",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1048",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685563",
+      "source_checked_at_utc": "2026-11-19T09:02:29.104439+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1048.html",
+      "page_captured_at_utc": "2026-11-19T09:01:51.615779+00:00",
+      "manufacturer_page_sha256": "963406722e82318b9037581f1f3ad435583ef5ffdbeff15b9419ab9475a0cbcb",
+      "manufacturer_MPN": "ST-1048",
+      "product_title": "ШРУС наружный (Z 35x29) Арт. ST-1048",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FIAT",
+          "46308371"
+        ],
+        [
+          "FIAT",
+          "46308484"
+        ],
+        [
+          "FIAT",
+          "71771175"
+        ],
+        [
+          "FIAT",
+          "1349785080"
+        ],
+        [
+          "FIAT",
+          "1349788080"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CITROEN": 6,
+        "FIAT": 8,
+        "PEUGEOT": 9
+      },
+      "OEM_make": "FIAT",
+      "OEM_raw": "46308371",
+      "OEM": "46308371",
+      "fitment_rows": [
+        {
+          "model": "FIAT DUCATO Bus (250_) 06-11",
+          "modification": "100 Multijet 2,2 D (4HV) 74кВт/100лс 07.2006-05.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19974"
+        },
+        {
+          "model": "FIAT DUCATO Bus (250_) 06-11",
+          "modification": "120 Multijet 2,3 D (F1AE0481D) 88кВт/120лс 07.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19975"
+        },
+        {
+          "model": "FIAT DUCATO Platform/Chassis (250_) 06-11",
+          "modification": "100 Multijet 2,2 D (4HV) 74кВт/100лс 07.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19980"
+        },
+        {
+          "model": "FIAT DUCATO Platform/Chassis (250_) 06-11",
+          "modification": "120 Multijet 2,3 D (F1AE0481D, F1AGL4114) 88кВт/120лс 07.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19981"
+        },
+        {
+          "model": "FIAT DUCATO Platform/Chassis (250_) 06-11",
+          "modification": "120 Multijet 2,3 D 4WD (F1AE0481D) 88кВт/120лс 03.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=12026"
+        }
+      ],
+      "applicability_make": "FIAT",
+      "OEM_group_label_as_on_manufacturer_page": "FIAT",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1048.jpg",
+      "photo_sha256": "efa317f8e22423a6c1c0bce8322cf6704b645c83337692dae03b0ca53e78a0b3",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "46308371",
+      "fitment": "FIAT DUCATO Bus (250_) 06-11 100 Multijet 2,2 D (4HV) 74кВт/100лс 07.2006-05.2011; FIAT DUCATO Bus (250_) 06-11 120 Multijet 2,3 D (F1AE0481D) 88кВт/120лс 07.2006-; FIAT DUCATO Platform/Chassis (250_) 06-11 100 Multijet 2,2 D (4HV) 74кВт/100лс 07.2006-",
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
       "package_unit_verified": true,
       "primary_product_count_verified": 1,

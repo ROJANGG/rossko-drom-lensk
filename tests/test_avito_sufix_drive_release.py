@@ -10,7 +10,7 @@ from test_avito_active_feed_refresh import fixture
 P=Path(__file__).resolve().parents[1]/'input/avito_reviewed_sufix_drive_belts.json'
 class SufixDriveRelease(unittest.TestCase):
  def test_closed_93_scope_and_package_holds(self):
-  rs=load_reviewed_sufix_belts(P);self.assertEqual(len(rs),277);self.assertEqual(sum(r['package_unit_verified'] for r in rs),277);self.assertEqual(APPROVED_CATALOG_LIMIT,851)
+  rs=load_reviewed_sufix_belts(P);self.assertEqual(len(rs),279);self.assertEqual(sum(r['package_unit_verified'] for r in rs),279);self.assertEqual(APPROVED_CATALOG_LIMIT,853)
   bad=json.loads(P.read_text());bad['items'][0]['article']='UNREVIEWED'
   with tempfile.TemporaryDirectory() as d:
    f=Path(d)/'bad.json';f.write_text(json.dumps(bad))
@@ -19,7 +19,7 @@ class SufixDriveRelease(unittest.TestCase):
   old,_,_=fixture(count=408,absent=0);rs=[r for r in load_reviewed_sufix_belts(P) if r['package_unit_verified']]
   ads=[make_ad(r,1500,{'public_url':'https://example.test/'+r['article']+'.jpg'},'Иркутск') for r in rs]
   for r,a in zip(rs,ads):self.assertEqual(seller_sku(a),(key(r['brand'],r['article']),r['category']))
-  new=append_ads(old,ads);self.assertEqual(len(list_approved(new)),685);self.assertEqual([E.tostring(a) for a in E.fromstring(old)],[E.tostring(a) for a in E.fromstring(new)][:408])
+  new=append_ads(old,ads);self.assertEqual(len(list_approved(new)),687);self.assertEqual([E.tostring(a) for a in E.fromstring(old)],[E.tostring(a) for a in E.fromstring(new)][:408])
  def test_mixed_reference_table_never_substitutes_aftermarket_maker(self):
   r=copy.deepcopy(load_reviewed_sufix_belts(P)[0]);r['fitment_rows']=[{'model':'MODEL','modification':'ENGINE','url':'https://sufix.pro/car'}]
   page='<h1>Ремень приводной</h1><span itemprop="mpn" data-model="'+r['article']+'"></span><table class="pcard-analog-bottom"><tr><td>'+r['OEM_raw']+'</td><td>'+r['OEM_make']+'</td></tr></table><div class="applicabilit-group"><div class="applicabilit-group-title">'+r['applicability_make']+'</div><div class="applicabilit-item"><a href="https://sufix.pro/car"><span class="model">MODEL</span><span class="mofif">ENGINE</span></a></div></div><a class="lightboxgroup" href="'+r['photo_url']+'"></a>'
