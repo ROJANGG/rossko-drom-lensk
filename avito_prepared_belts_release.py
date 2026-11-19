@@ -43,9 +43,14 @@ def validate_source(r, product, fitment=None):
     if label is None or canon(label['data-model'])!=canon(r['article']):raise ValueError('Exact SUFIX MPN changed')
     heading=page.select_one('h1')
     label_text=text(heading) if heading else ''
-    if not re.search(r'ремень',label_text,re.I):raise ValueError('SUFIX product category changed')
-    is_timing=bool(re.search('грм',label_text,re.I))
-    if is_timing != (r['category']=='Ремни ГРМ'):raise ValueError('SUFIX drive/timing category mismatch')
+    if r['category']=='Радиаторы охлаждения':
+        if not re.search(r'радиатор.*охлажд',label_text,re.I) or re.search('кондицион',label_text,re.I):raise ValueError('SUFIX cooling radiator category mismatch')
+    elif r['category']=='Радиаторы кондиционера':
+        if not re.search(r'радиатор.*кондицион',label_text,re.I):raise ValueError('SUFIX AC radiator category mismatch')
+    else:
+        if not re.search(r'ремень',label_text,re.I):raise ValueError('SUFIX product category changed')
+        is_timing=bool(re.search('грм',label_text,re.I))
+        if is_timing != (r['category']=='Ремни ГРМ'):raise ValueError('SUFIX drive/timing category mismatch')
     refs=[]
     for tr in page.select('table.pcard-analog-bottom tr'):
         cells=tr.find_all('td',recursive=False)
@@ -96,9 +101,10 @@ def make_sufix_ad(r, retail, photo, address):
         raise ValueError('Title exceeds Avito limit')
     values = {'Id': stable_id(r), 'Category': 'Запчасти и аксессуары', 'GoodsType': 'Запчасти',
               'AdType': 'Товар приобретен на продажу', 'ProductType': 'Для автомобилей',
-              'SparePartType': 'Двигатель', 'EngineSparePartType': engine, 'OEM': r['oem'],
+              'SparePartType': 'Система охлаждения' if engine is None else 'Двигатель', 'EngineSparePartType': engine, 'OEM': r['oem'],
               'Title': title, 'Description': prefix+'. Производитель: '+r['brand']+'. Артикул: '+r['article']+'.\nСостояние: новое. Цена за одну штуку.\nOEM: '+r['oem']+'.\nПрименяемость по каталогу производителя, выборка: '+r['fitment']+'.\nСамовывоз: '+address+'.\nПеред покупкой сверьте OEM и VIN. Наличие перед приездом уточняйте.',
               'Address': address, 'Price': str(retail), 'Condition': 'Новое', 'Availability': 'В наличии', 'Brand': r['brand']}
+    if engine is None:values.pop('EngineSparePartType',None)
     ad = ET.Element('Ad')
     for k, v in values.items():
         ET.SubElement(ad, k).text = v
@@ -127,6 +133,11 @@ def append_ads(original, ads):
     if len(parsed) > APPROVED_CATALOG_LIMIT or old != [ET.tostring(a) for a in parsed[:len(old)]]:
         raise ValueError('Unsafe append-only transition')
     return raw
+
+def account_retail(quote, cost):
+    buying=price_decimal(quote.get('api_irkutsk_same_delivery_price_rub'))
+    if buying is None or not cost/Decimal(10)<=buying<=cost*Decimal(2) or price_decimal(quote.get('supplier_list_price_rub'))!=cost:return None
+    return progressive_price(buying)
 
 def filter_selection(records,path):
     selected=json.loads(path.read_text())['items']
@@ -206,10 +217,12 @@ def build(args):
         if quote.get('status') != 'опт_Иркутск_подтвержден' or not quote.get('api_irkutsk_stock_ids'):
             skipped.append({'brand': r['brand'], 'article': r['article'], 'reason': 'fresh_personal_API_not_confirmed', 'api_status': str(quote.get('status', 'unknown'))})
         else:
-            buying = price_decimal(quote.get('api_irkutsk_same_delivery_price_rub'))
-            if buying is None or not cost/Decimal(10) <= buying <= cost*Decimal(2) or price_decimal(quote.get('supplier_list_price_rub')) != cost:
-                raise ValueError('Invalid/mismatched account quote')
-            retail = progressive_price(buying); ad = make_ad(r, retail, photo, address); ads.append(ad)
+            retail=account_retail(quote,cost)
+            if retail is None:
+                skipped.append({'brand':r['brand'],'article':r['article'],'reason':'fresh_personal_API_price_mismatch'})
+                time.sleep(0.6)
+                continue
+            ad = make_ad(r, retail, photo, address); ads.append(ad)
             added.append({'id': ad.findtext('Id'), 'brand': r['brand'], 'article': r['article'], 'category': r['category'], 'retail': retail, 'photo': photo, 'API_checked_at_utc': datetime.now(timezone.utc).isoformat()})
             row = {c: '' for c in columns}; row.update(brand=r['brand'], article=r['article'], supplier_price=str(cost), supplier_delivery_days='0', drom_retail='0', avito_retail=str(retail))
             if k in indices:

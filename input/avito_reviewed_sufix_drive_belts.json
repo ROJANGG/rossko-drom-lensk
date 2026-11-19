@@ -1,5 +1,5 @@
 {
-  "scope_sha256": "ae541ef73011a87bceb36a722b0857bbb0ce392f1a1ffeb6e33ad3193f38a5a9",
+  "scope_sha256": "e1264f9083172b381c0cf2416b670a892f5bb9d6b865601ff547431aaf0f300d",
   "items": [
     {
       "brand": "SUFIX",
@@ -11629,6 +11629,4175 @@
       "package_unit_verified": true,
       "oem": "1356870080",
       "fitment": "TOYOTA ALTEZZA (_E1_) 99-05 2.0 VVTi (GXE10) (1G-FE) 118кВт/160лс 01.1999-07.2005; TOYOTA ALTEZZA GITA Estate (_XE1_) 01-05 2.0 (GXE10) (1G-FE) 118кВт/160лс 07.2001-07.2005; TOYOTA ALTEZZA GITA Estate (_XE1_) 01-05 2.0 (GXE10) (1G-FE) 118кВт/160лс 07.2001-07.2005"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1004",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828060",
+      "source_checked_at_utc": "2026-11-18T10:03:21.651864+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1004.html",
+      "page_captured_at_utc": "2026-11-18T10:03:26.708792+00:00",
+      "manufacturer_page_sha256": "ec6a693c009a2cb51e894d0f5d69d6cb9a4fa6225462f70087f1b60bb76732af",
+      "manufacturer_MPN": "XG-1004",
+      "product_title": "Радиатор охлаждения (527x377x42, сборный, алюминий) Арт. XG-1004",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "GAZ",
+          "115-1301010-50"
+        ],
+        [
+          "GAZ",
+          "3302-1301010-32"
+        ],
+        [
+          "GAZ",
+          "33027-1301010-10"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "GAZ": 8
+      },
+      "OEM_make": "GAZ",
+      "OEM_raw": "115-1301010-50",
+      "OEM": "115130101050",
+      "fitment_rows": [
+        {
+          "model": "GAZ GAZELLE Bus 93-13",
+          "modification": "2.9 (UMZ-4215.10) 75кВт/102лс 01.2003-01.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100521"
+        },
+        {
+          "model": "GAZ GAZELLE Bus 93-13",
+          "modification": "2.9 (UMZ-4216) 78кВт/106лс 01.2005-03.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100008"
+        },
+        {
+          "model": "GAZ GAZELLE Bus 93-13",
+          "modification": "2.9 (UMZ-4216) 79кВт/107лс 01.2007-03.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=127373"
+        },
+        {
+          "model": "GAZ GAZELLE Platform/Chassis 93-13",
+          "modification": "2.9 (UMZ-4216) 78кВт/107лс 01.2005-03.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100012"
+        },
+        {
+          "model": "GAZ GAZELLE Platform/Chassis 93-13",
+          "modification": "2.9 (UMZ-4216) 79кВт/107лс 01.2007-03.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=127375"
+        }
+      ],
+      "applicability_make": "GAZ",
+      "OEM_group_label_as_on_manufacturer_page": "GAZ",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1004.jpg",
+      "photo_sha256": "17bc3de0aa897583650519e121d402f771ea593b21d364b7a433c662321929f7",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "115130101050",
+      "fitment": "GAZ GAZELLE Bus 93-13 2.9 (UMZ-4215.10) 75кВт/102лс 01.2003-01.2010; GAZ GAZELLE Bus 93-13 2.9 (UMZ-4216) 78кВт/106лс 01.2005-03.2013; GAZ GAZELLE Bus 93-13 2.9 (UMZ-4216) 79кВт/107лс 01.2007-03.2013",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1006",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828045",
+      "source_checked_at_utc": "2026-11-18T10:03:21.712395+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1006.html",
+      "page_captured_at_utc": "2026-11-18T10:03:26.464919+00:00",
+      "manufacturer_page_sha256": "a3da5b48517de717bbc8ea039b964dfdbd3a32984c310ebe9bdae70cad3815c9",
+      "manufacturer_MPN": "XG-1006",
+      "product_title": "Радиатор охлаждения (508x396x62, паяный, алюминий, с крышкой) Арт. XG-1006",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "UAZ",
+          "31608-1301010"
+        ],
+        [
+          "UAZ",
+          "31608-1301010-02"
+        ],
+        [
+          "UAZ",
+          "31608-1301010-03"
+        ],
+        [
+          "UAZ",
+          "31608A-1301010"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "UAZ": 3
+      },
+      "OEM_make": "UAZ",
+      "OEM_raw": "31608-1301010",
+      "OEM": "316081301010",
+      "fitment_rows": [
+        {
+          "model": "UAZ 452 Van (3741_, 3962_) 96-",
+          "modification": "2.7 4x4 (ZMZ- 409210) 82кВт/112лс 01.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=127512"
+        },
+        {
+          "model": "UAZ 452 Van (3741_, 3962_) 96-",
+          "modification": "2.7 4x4 (ZMZ- 409210) 97кВт/132лс 10.1996-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=127310"
+        },
+        {
+          "model": "UAZ 452 Van (3741_, 3962_) 96-",
+          "modification": "2.7 4x4 (ZMZ-409.10) 83кВт/113лс 05.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=113934"
+        }
+      ],
+      "applicability_make": "UAZ",
+      "OEM_group_label_as_on_manufacturer_page": "UAZ",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1006.jpg",
+      "photo_sha256": "0f002a4ea4cf393168376c97260092f8e7a1420b517eadba6ed6979968eae6aa",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "316081301010",
+      "fitment": "UAZ 452 Van (3741_, 3962_) 96- 2.7 4x4 (ZMZ- 409210) 82кВт/112лс 01.2011-; UAZ 452 Van (3741_, 3962_) 96- 2.7 4x4 (ZMZ- 409210) 97кВт/132лс 10.1996-; UAZ 452 Van (3741_, 3962_) 96- 2.7 4x4 (ZMZ-409.10) 83кВт/113лс 05.2009-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1021",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828028",
+      "source_checked_at_utc": "2026-11-18T10:03:50.873585+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1021.html",
+      "page_captured_at_utc": "2026-11-18T10:03:52.017932+00:00",
+      "manufacturer_page_sha256": "52c6a05c2834dbe42fe3215848d764475a0cea28439872983b118c5072d8ea95",
+      "manufacturer_MPN": "XG-1021",
+      "product_title": "Радиатор охлаждения (443x340x30, сборный, алюминий) Арт. XG-1021",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "LADA",
+          "2101-1301010"
+        ],
+        [
+          "LADA",
+          "2101-1301012"
+        ],
+        [
+          "LADA",
+          "21060-1301012-11"
+        ],
+        [
+          "LADA",
+          "2106-1301012"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "LADA": 1
+      },
+      "OEM_make": "LADA",
+      "OEM_raw": "2101-1301010",
+      "OEM": "21011301010",
+      "fitment_rows": [
+        {
+          "model": "LADA 2104 85-12",
+          "modification": "1.6 (2106) 55кВт/75лс 05.2000-04.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=127407"
+        }
+      ],
+      "applicability_make": "LADA",
+      "OEM_group_label_as_on_manufacturer_page": "LADA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1021.jpg",
+      "photo_sha256": "9fdb720a35b5558451bd2f1884c4fc3e89e16a0c6834125dc38b3dcc7de0d22f",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "21011301010",
+      "fitment": "LADA 2104 85-12 1.6 (2106) 55кВт/75лс 05.2000-04.2012",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1023",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828030",
+      "source_checked_at_utc": "2026-11-18T10:03:50.963307+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1023.html",
+      "page_captured_at_utc": "2026-11-18T10:03:55.875778+00:00",
+      "manufacturer_page_sha256": "f746e108d491f906ee84e4a6eff07a5ec1222745cb8da44e57a3a22eb8762f29",
+      "manufacturer_MPN": "XG-1023",
+      "product_title": "Радиатор охлаждения (475x340x34, сборный, алюминий) Арт. XG-1023",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "LADA",
+          "21082-1301012"
+        ],
+        [
+          "LADA",
+          "21082-1301012-10"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "LADA": 5
+      },
+      "OEM_make": "LADA",
+      "OEM_raw": "21082-1301012",
+      "OEM": "210821301012",
+      "fitment_rows": [
+        {
+          "model": "LADA 2108 / 2109 / 2113 / 2114 / 2115 86-13",
+          "modification": "1.5 (2111) 56кВт/76лс 04.1996-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20166"
+        },
+        {
+          "model": "LADA 2108 / 2109 / 2113 / 2114 / 2115 86-13",
+          "modification": "1500 (21083) 50кВт/68лс 09.1991-12.1996",
+          "url": "https://sufix.pro/selection_parts.html?na_id=3061"
+        },
+        {
+          "model": "LADA 2108 / 2109 / 2113 / 2114 / 2115 86-13",
+          "modification": "1500 (2111) 52кВт/71лс 02.1995-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4831"
+        },
+        {
+          "model": "LADA 21099 / 2115 89-12",
+          "modification": "1.5 (2111) 57кВт/78лс 01.2000-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20498"
+        },
+        {
+          "model": "LADA 21099 / 2115 89-12",
+          "modification": "1500 (2111) 52кВт/71лс 11.1994-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4744"
+        }
+      ],
+      "applicability_make": "LADA",
+      "OEM_group_label_as_on_manufacturer_page": "LADA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1023.jpg",
+      "photo_sha256": "27108634962384f3d683017bd06c116205ba30731029ffcf9ed0725b20e4300f",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "210821301012",
+      "fitment": "LADA 2108 / 2109 / 2113 / 2114 / 2115 86-13 1.5 (2111) 56кВт/76лс 04.1996-12.2013; LADA 2108 / 2109 / 2113 / 2114 / 2115 86-13 1500 (21083) 50кВт/68лс 09.1991-12.1996; LADA 2108 / 2109 / 2113 / 2114 / 2115 86-13 1500 (2111) 52кВт/71лс 02.1995-12.2006",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1026",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828031",
+      "source_checked_at_utc": "2026-11-18T10:03:55.817013+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1026.html",
+      "page_captured_at_utc": "2026-11-18T10:04:01.606735+00:00",
+      "manufacturer_page_sha256": "0165a892c5395bc703d1424260425b42b6e5d145ed82cc5ce1e0c7d4aaf3f359",
+      "manufacturer_MPN": "XG-1026",
+      "product_title": "Радиатор охлаждения (558x340x30, сборный, алюминий) Арт. XG-1026",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "LADA",
+          "1118-1301010"
+        ],
+        [
+          "LADA",
+          "1118-1301012"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "LADA": 13
+      },
+      "OEM_make": "LADA",
+      "OEM_raw": "1118-1301010",
+      "OEM": "11181301010",
+      "fitment_rows": [
+        {
+          "model": "LADA 111 (2111) 95-09",
+          "modification": "1.6 (21114) 60кВт/82лс 09.2004-02.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31242"
+        },
+        {
+          "model": "LADA KALINA I Estate (1117) 04-13",
+          "modification": "1.4 16V (11194) 66кВт/90лс 11.2008-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31253"
+        },
+        {
+          "model": "LADA KALINA I Estate (1117) 04-13",
+          "modification": "1.4 16V LPG (11194) 65кВт/88лс 11.2008-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=32057"
+        },
+        {
+          "model": "LADA KALINA I Estate (1117) 04-13",
+          "modification": "1.6 (2110) 62кВт/84лс 01.2010-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=11574"
+        },
+        {
+          "model": "LADA KALINA I Estate (1117) 04-13",
+          "modification": "1.6 (21114) 60кВт/82лс 10.2007-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=26658"
+        }
+      ],
+      "applicability_make": "LADA",
+      "OEM_group_label_as_on_manufacturer_page": "LADA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1026.jpg",
+      "photo_sha256": "fff783cd5d2605cdff4ecda2d10043908656d561f83b3dfe3dcbcd6e16a3b795",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "11181301010",
+      "fitment": "LADA 111 (2111) 95-09 1.6 (21114) 60кВт/82лс 09.2004-02.2009; LADA KALINA I Estate (1117) 04-13 1.4 16V (11194) 66кВт/90лс 11.2008-12.2013; LADA KALINA I Estate (1117) 04-13 1.4 16V LPG (11194) 65кВт/88лс 11.2008-12.2013",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1030",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828074",
+      "source_checked_at_utc": "2026-11-18T10:04:01.626114+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1030.html",
+      "page_captured_at_utc": "2026-11-18T10:04:06.723023+00:00",
+      "manufacturer_page_sha256": "c1b6b74a2a9948ac5145cac1e075aaf2eefe2a343082478108732bd8ffcce847",
+      "manufacturer_MPN": "XG-1030",
+      "product_title": "Радиатор охлаждения (560x322x39, сборный, алюминий, тип KDAC) Арт. XG-1030",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "LADA",
+          "623693"
+        ],
+        [
+          "LADA",
+          "640952"
+        ],
+        [
+          "LADA",
+          "8450003960"
+        ],
+        [
+          "LADA",
+          "8450003962"
+        ],
+        [
+          "LADA",
+          "8450110793"
+        ],
+        [
+          "LADA",
+          "21900-1300010-04"
+        ],
+        [
+          "LADA",
+          "21900-1301010-14"
+        ],
+        [
+          "LADA",
+          "21903-1300008-14"
+        ],
+        [
+          "LADA",
+          "21903-1301010-14"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "LADA": 4
+      },
+      "OEM_make": "LADA",
+      "OEM_raw": "623693",
+      "OEM": "623693",
+      "fitment_rows": [
+        {
+          "model": "LADA GRANTA (2190_) 11-19",
+          "modification": "1.6 (21902) (21126) 72кВт/98лс 10.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=55618"
+        },
+        {
+          "model": "LADA GRANTA (2190_) 11-19",
+          "modification": "1.6 (21906) (11183) 60кВт/82лс 10.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=55617"
+        },
+        {
+          "model": "LADA GRANTA Hatchback (2192_) 18-",
+          "modification": "1.6 (21921) (11186, 21116) 64кВт/87лс 08.2018-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=132861"
+        },
+        {
+          "model": "LADA GRANTA Liftback (2191_) 14-",
+          "modification": "1.6 (21911) (11186, 21116) 64кВт/87лс 08.2014-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=127402"
+        }
+      ],
+      "applicability_make": "LADA",
+      "OEM_group_label_as_on_manufacturer_page": "LADA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1030.jpg",
+      "photo_sha256": "f944a9d8b87ed0642df0af56909c89c802607333f8bd2d55e8ee79f54253de53",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "623693",
+      "fitment": "LADA GRANTA (2190_) 11-19 1.6 (21902) (21126) 72кВт/98лс 10.2011-; LADA GRANTA (2190_) 11-19 1.6 (21906) (11183) 60кВт/82лс 10.2011-; LADA GRANTA Hatchback (2192_) 18- 1.6 (21921) (11186, 21116) 64кВт/87лс 08.2018-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1031",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828038",
+      "source_checked_at_utc": "2026-11-18T10:04:07.261884+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1031.html",
+      "page_captured_at_utc": "2026-11-18T10:04:13.341255+00:00",
+      "manufacturer_page_sha256": "b8274098ee2968bccd6b9c27aa8eae0616c904ab4b50e512513109f32c650ac3",
+      "manufacturer_MPN": "XG-1031",
+      "product_title": "Радиатор охлаждения (630x340x30, сборный, алюминий) Арт. XG-1031",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "LADA",
+          "8450076116"
+        ],
+        [
+          "LADA",
+          "21213-1301012"
+        ],
+        [
+          "LADA",
+          "21213-1301012-01"
+        ],
+        [
+          "LADA",
+          "21214-1300018-00"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "LADA": 2
+      },
+      "OEM_make": "LADA",
+      "OEM_raw": "8450076116",
+      "OEM": "8450076116",
+      "fitment_rows": [
+        {
+          "model": "LADA NIVA (2121, 2131) 76-15",
+          "modification": "1700 4WD (21213, 21214) (21213, 21214) 59кВт/80лс 06.1996-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=5701"
+        },
+        {
+          "model": "LADA NIVA (2121, 2131) 76-15",
+          "modification": "1700 4WD (21213, 21214) (21213, 21214) 60кВт/82лс 10.2000-12.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16485"
+        }
+      ],
+      "applicability_make": "LADA",
+      "OEM_group_label_as_on_manufacturer_page": "LADA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1031.jpg",
+      "photo_sha256": "7127356de2490ed88a919dd63b109348915409cf25b680678a8cc17981b066f7",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "8450076116",
+      "fitment": "LADA NIVA (2121, 2131) 76-15 1700 4WD (21213, 21214) (21213, 21214) 59кВт/80лс 06.1996-12.2006; LADA NIVA (2121, 2131) 76-15 1700 4WD (21213, 21214) (21213, 21214) 60кВт/82лс 10.2000-12.2015",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1034",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0026828027",
+      "source_checked_at_utc": "2026-11-18T10:04:20.317064+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1034.html",
+      "page_captured_at_utc": "2026-11-18T10:04:26.005873+00:00",
+      "manufacturer_page_sha256": "ee84dceaa1f614ccf59e06f7b649e2402afd544c7f74ecbb70fd31d834074509",
+      "manufacturer_MPN": "XG-1034",
+      "product_title": "Радиатор охлаждения (555x340x30, сборный, алюминий) Арт. XG-1034",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "LADA",
+          "21700-1301012"
+        ],
+        [
+          "LADA",
+          "21700-1301012-00"
+        ],
+        [
+          "LADA",
+          "2170-1301012"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "LADA": 7
+      },
+      "OEM_make": "LADA",
+      "OEM_raw": "21700-1301012",
+      "OEM": "217001301012",
+      "fitment_rows": [
+        {
+          "model": "LADA PRIORA Estate (2171) 09-15",
+          "modification": "1.6 (21126) 72кВт/98лс 10.2009-12.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=5207"
+        },
+        {
+          "model": "LADA PRIORA Hatchback (2172) 08-15",
+          "modification": "1.6 (21114) 60кВт/82лс 12.2008-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10562"
+        },
+        {
+          "model": "LADA PRIORA Hatchback (2172) 08-15",
+          "modification": "1.6 (21126) 72кВт/98лс 12.2008-12.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=26657"
+        },
+        {
+          "model": "LADA PRIORA Hatchback (2172) 08-15",
+          "modification": "1.6 LPG (21126) 71кВт/96лс 12.2008-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=32056"
+        },
+        {
+          "model": "LADA PRIORA Saloon (2170) 07-18",
+          "modification": "1.6 (21114) 60кВт/82лс 12.2008-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10563"
+        }
+      ],
+      "applicability_make": "LADA",
+      "OEM_group_label_as_on_manufacturer_page": "LADA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1034.jpg",
+      "photo_sha256": "f7596c36c139bfd18d2498f50f28bbe60c04804b45bdf3d1f6458770d69dbb4b",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "217001301012",
+      "fitment": "LADA PRIORA Estate (2171) 09-15 1.6 (21126) 72кВт/98лс 10.2009-12.2015; LADA PRIORA Hatchback (2172) 08-15 1.6 (21114) 60кВт/82лс 12.2008-12.2013; LADA PRIORA Hatchback (2172) 08-15 1.6 (21126) 72кВт/98лс 12.2008-12.2015",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1047",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814263",
+      "source_checked_at_utc": "2026-11-18T10:04:37.777108+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1047.html",
+      "page_captured_at_utc": "2026-11-18T10:04:43.802613+00:00",
+      "manufacturer_page_sha256": "08af9fcb5d7d7aea1b671a6a75217b2fdf628fc0f20428e596d93ad9d24f0fd9",
+      "manufacturer_MPN": "XG-1047",
+      "product_title": "Радиатор охлаждения Арт. XG-1047",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "GENERALMOTORS",
+          "95026325"
+        ],
+        [
+          "GENERALMOTORS",
+          "95298557"
+        ],
+        [
+          "GENERALMOTORS",
+          "95316030"
+        ],
+        [
+          "GENERALMOTORS",
+          "95460095"
+        ],
+        [
+          "OPEL",
+          "13 00 342"
+        ],
+        [
+          "OPEL",
+          "13 00 355"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHEVROLET": 2,
+        "OPEL": 2
+      },
+      "OEM_make": "GENERALMOTORS",
+      "OEM_raw": "95026325",
+      "OEM": "95026325",
+      "fitment_rows": [
+        {
+          "model": "CHEVROLET AVEO Hatchback (T300) 11-15",
+          "modification": "1.6 (LDE) 85кВт/116лс 03.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10035"
+        },
+        {
+          "model": "CHEVROLET AVEO Saloon (T300) 11-15",
+          "modification": "1.6 (LDE) 85кВт/116лс 03.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10443"
+        }
+      ],
+      "applicability_make": "CHEVROLET",
+      "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1047.jpg",
+      "photo_sha256": "6c7dd580bb3bc7fedd12d111d3089e8757980c478cd0fb7232980b269f90eae1",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "95026325",
+      "fitment": "CHEVROLET AVEO Hatchback (T300) 11-15 1.6 (LDE) 85кВт/116лс 03.2011-; CHEVROLET AVEO Saloon (T300) 11-15 1.6 (LDE) 85кВт/116лс 03.2011-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1050",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814233",
+      "source_checked_at_utc": "2026-11-18T10:04:42.876093+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1050.html",
+      "page_captured_at_utc": "2026-11-18T10:04:47.893984+00:00",
+      "manufacturer_page_sha256": "a9b74c2c4dbc8d581b4b969145d3413e6f3830e54d65a25ee197eafa21b2ca9d",
+      "manufacturer_MPN": "XG-1050",
+      "product_title": "Радиатор охлаждения Арт. XG-1050",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "GENERALMOTORS",
+          "13311079"
+        ],
+        [
+          "GENERALMOTORS",
+          "13336889"
+        ],
+        [
+          "OPEL",
+          "13 00 306"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHEVROLET": 4,
+        "OPEL": 17
+      },
+      "OEM_make": "GENERALMOTORS",
+      "OEM_raw": "13311079",
+      "OEM": "13311079",
+      "fitment_rows": [
+        {
+          "model": "CHEVROLET CRUZE (J300) 09-",
+          "modification": "1.8 (2H0) 104кВт/141лс 05.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31470"
+        },
+        {
+          "model": "CHEVROLET CRUZE Hatchback (J305) 11-",
+          "modification": "1.8 (2H0) 104кВт/141лс 06.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10351"
+        },
+        {
+          "model": "CHEVROLET CRUZE Station Wagon (J308) 12-",
+          "modification": "1.8 (2H0) 104кВт/141лс 08.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=55800"
+        },
+        {
+          "model": "CHEVROLET ORLANDO (J309) 11-",
+          "modification": "1.8 (2H0) 104кВт/141лс 02.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=5714"
+        }
+      ],
+      "applicability_make": "CHEVROLET",
+      "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1050.jpg",
+      "photo_sha256": "efd7b9f65368f7befb3e861e3149092c3f79d5a0d2ed2b4a48ef886f53ee1451",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "13311079",
+      "fitment": "CHEVROLET CRUZE (J300) 09- 1.8 (2H0) 104кВт/141лс 05.2009-; CHEVROLET CRUZE Hatchback (J305) 11- 1.8 (2H0) 104кВт/141лс 06.2011-; CHEVROLET CRUZE Station Wagon (J308) 12- 1.8 (2H0) 104кВт/141лс 08.2012-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1054",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814249",
+      "source_checked_at_utc": "2026-11-18T10:04:47.799998+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1054.html",
+      "page_captured_at_utc": "2026-11-18T10:04:53.053671+00:00",
+      "manufacturer_page_sha256": "64f0919884bf2c173e2d12c33c18567e290c3f9d4b8d2f23439b84088261d822",
+      "manufacturer_MPN": "XG-1054",
+      "product_title": "Радиатор охлаждения Арт. XG-1054",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "GENERALMOTORS",
+          "42495942"
+        ],
+        [
+          "GENERALMOTORS",
+          "96553243"
+        ],
+        [
+          "GENERALMOTORS",
+          "96553244"
+        ],
+        [
+          "GENERALMOTORS",
+          "96553343"
+        ],
+        [
+          "GENERALMOTORS",
+          "96553423"
+        ],
+        [
+          "GENERALMOTORS",
+          "96553424"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHEVROLET": 13,
+        "DAEWOO": 6
+      },
+      "OEM_make": "GENERALMOTORS",
+      "OEM_raw": "42495942",
+      "OEM": "42495942",
+      "fitment_rows": [
+        {
+          "model": "CHEVROLET LACETTI (J200) 05-12",
+          "modification": "1.6 (L44(96CUL4), LXT) 80кВт/109лс 03.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18537"
+        },
+        {
+          "model": "CHEVROLET LACETTI (J200) 05-12",
+          "modification": "1.8 (LDA) 89кВт/121лс 08.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19770"
+        },
+        {
+          "model": "CHEVROLET LACETTI (J200) 05-12",
+          "modification": "1.8 (LDA) 90кВт/122лс 03.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18538"
+        },
+        {
+          "model": "CHEVROLET LACETTI Estate (J200) 03-13",
+          "modification": "1.6 (L44(96CUL4), LXT) 80кВт/109лс 03.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=7273"
+        },
+        {
+          "model": "CHEVROLET LACETTI Estate (J200) 03-13",
+          "modification": "1.8 (LDA) 89кВт/121лс 08.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=117892"
+        }
+      ],
+      "applicability_make": "CHEVROLET",
+      "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1054.jpg",
+      "photo_sha256": "152e678dba2b02265727ca5d750303a765cc367c0309462aa84dd585726900ec",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "42495942",
+      "fitment": "CHEVROLET LACETTI (J200) 05-12 1.6 (L44(96CUL4), LXT) 80кВт/109лс 03.2005-; CHEVROLET LACETTI (J200) 05-12 1.8 (LDA) 89кВт/121лс 08.2005-; CHEVROLET LACETTI (J200) 05-12 1.8 (LDA) 90кВт/122лс 03.2005-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1055",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814277",
+      "source_checked_at_utc": "2026-11-18T10:04:52.988784+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1055.html",
+      "page_captured_at_utc": "2026-11-18T10:04:58.568863+00:00",
+      "manufacturer_page_sha256": "01b2435529b41213e1be8d6639c0ad663a15d8703d3eb362708b459d314bd219",
+      "manufacturer_MPN": "XG-1055",
+      "product_title": "Радиатор охлаждения Арт. XG-1055",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "MITSUBISHI",
+          "1350A297"
+        ],
+        [
+          "MITSUBISHI",
+          "MN 156092"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "MITSUBISHI": 31
+      },
+      "OEM_make": "MITSUBISHI",
+      "OEM_raw": "1350A297",
+      "OEM": "1350A297",
+      "fitment_rows": [
+        {
+          "model": "MITSUBISHI ASX | RVR | OUTLANDER SPORT (GA_W_) 10-12",
+          "modification": "1.6 MIVEC (GA1W) (4A92) 85кВт/116лс 05.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=12007"
+        },
+        {
+          "model": "MITSUBISHI ASX | RVR | OUTLANDER SPORT (GA_W_) 10-12",
+          "modification": "1.6 MIVEC (GA1W) (4A92) 86кВт/117лс 06.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33436"
+        },
+        {
+          "model": "MITSUBISHI ASX | RVR | OUTLANDER SPORT (GA_W_) 10-12",
+          "modification": "2.0 MIVEC (GA2W) (4B11, 4J11) 110кВт/150лс 06.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=5514"
+        },
+        {
+          "model": "MITSUBISHI ASX | RVR | OUTLANDER SPORT (GA_W_) 10-12",
+          "modification": "2.0 MIVEC 4WD (GA2W) (4B11, 4J11) 110кВт/150лс 06.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=5517"
+        },
+        {
+          "model": "MITSUBISHI LANCER IX | LANCER CEDIA (CS_A, CT_A) 00-13",
+          "modification": "2.0 i (4B11) 113кВт/154лс 10.2007-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33495"
+        }
+      ],
+      "applicability_make": "MITSUBISHI",
+      "OEM_group_label_as_on_manufacturer_page": "MITSUBISHI",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1055.jpg",
+      "photo_sha256": "ac2d428b6521314f27ef4d6eab6e885cfbdfbf97c723bbccf8b543dec50d920c",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1350A297",
+      "fitment": "MITSUBISHI ASX | RVR | OUTLANDER SPORT (GA_W_) 10-12 1.6 MIVEC (GA1W) (4A92) 85кВт/116лс 05.2010-; MITSUBISHI ASX | RVR | OUTLANDER SPORT (GA_W_) 10-12 1.6 MIVEC (GA1W) (4A92) 86кВт/117лс 06.2010-; MITSUBISHI ASX | RVR | OUTLANDER SPORT (GA_W_) 10-12 2.0 MIVEC (GA2W) (4B11, 4J11) 110кВт/150лс 06.2010-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1058",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814219",
+      "source_checked_at_utc": "2026-11-18T10:04:58.772286+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1058.html",
+      "page_captured_at_utc": "2026-11-18T10:05:04.267221+00:00",
+      "manufacturer_page_sha256": "5c9b17260a9cef9a9999ada245b646c7691a8356edd36429d37a642350d8e4df",
+      "manufacturer_MPN": "XG-1058",
+      "product_title": "Радиатор охлаждения Арт. XG-1058",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FORD",
+          "1 697 482"
+        ],
+        [
+          "FORD",
+          "1 705 805"
+        ],
+        [
+          "FORD",
+          "1 727 475"
+        ],
+        [
+          "FORD",
+          "1 890 758"
+        ],
+        [
+          "FORD",
+          "1 897 407"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "FORD": 27
+      },
+      "OEM_make": "FORD",
+      "OEM_raw": "1 697 482",
+      "OEM": "1697482",
+      "fitment_rows": [
+        {
+          "model": "FORD C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "modification": "1.6 Flexifuel (MUDA, MUDD) 88кВт/120лс 02.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=11922"
+        },
+        {
+          "model": "FORD C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "modification": "1.6 LPG (MUDA, MUDD) 86кВт/117лс 02.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=106025"
+        },
+        {
+          "model": "FORD C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "modification": "1.6 LPG (MUDA, MUDD) 88кВт/120лс 02.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=55512"
+        },
+        {
+          "model": "FORD C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "modification": "1.6 Ti (IQDA, IQDB) 77кВт/105лс 12.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=66"
+        },
+        {
+          "model": "FORD C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "modification": "1.6 Ti (MUDA, MUDD) 88кВт/120лс 02.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=113147"
+        }
+      ],
+      "applicability_make": "FORD",
+      "OEM_group_label_as_on_manufacturer_page": "FORD",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1058.jpg",
+      "photo_sha256": "7deaa51fda54d44574271ced7db2f91100c78a909d062ea4e74bbcce42395447",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1697482",
+      "fitment": "FORD C-MAX II (DXA/CB7, DXA/CEU) 10- 1.6 Flexifuel (MUDA, MUDD) 88кВт/120лс 02.2011-; FORD C-MAX II (DXA/CB7, DXA/CEU) 10- 1.6 LPG (MUDA, MUDD) 86кВт/117лс 02.2012-; FORD C-MAX II (DXA/CB7, DXA/CEU) 10- 1.6 LPG (MUDA, MUDD) 88кВт/120лс 02.2012-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1063",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814214",
+      "source_checked_at_utc": "2026-11-18T10:05:04.236319+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1063.html",
+      "page_captured_at_utc": "2026-11-18T10:05:10.523151+00:00",
+      "manufacturer_page_sha256": "af54e8330abe01bd36777293d3bb9218e308e82cc2da746d71022d53e0103920",
+      "manufacturer_MPN": "XG-1063",
+      "product_title": "Радиатор охлаждения Арт. XG-1063",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HONDA",
+          "19010-RNA-A01"
+        ],
+        [
+          "HONDA",
+          "19010-RNA-A51"
+        ],
+        [
+          "HONDA",
+          "19010-RNA-J51"
+        ],
+        [
+          "HONDA",
+          "19010-RNB-C51"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HONDA": 6
+      },
+      "OEM_make": "HONDA",
+      "OEM_raw": "19010-RNA-A01",
+      "OEM": "19010RNAA01",
+      "fitment_rows": [
+        {
+          "model": "HONDA CIVIC VIII Hatchback (FN, FK) 05-",
+          "modification": "1.6 (R16A1) 84кВт/114лс 09.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20666"
+        },
+        {
+          "model": "HONDA CIVIC VIII Saloon (FD, FA) 05-12",
+          "modification": "1.3 Hybrid (FA3, FD3) (LDA2) 70кВт/95лс 01.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19302"
+        },
+        {
+          "model": "HONDA CIVIC VIII Saloon (FD, FA) 05-12",
+          "modification": "1.3 Hybrid (FA3, FD3) (LDA2) 82кВт/112лс 09.2005-12.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=55237"
+        },
+        {
+          "model": "HONDA CIVIC VIII Saloon (FD, FA) 05-12",
+          "modification": "1.6 (FD6) (R16A1) 84кВт/114лс 09.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20347"
+        },
+        {
+          "model": "HONDA CIVIC VIII Saloon (FD, FA) 05-12",
+          "modification": "1.8 (FA1, FD1, FD7) (R18A1, R18A2) 103кВт/140лс 09.2005-02.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20348"
+        }
+      ],
+      "applicability_make": "HONDA",
+      "OEM_group_label_as_on_manufacturer_page": "HONDA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1063.jpg",
+      "photo_sha256": "02fa4963f83db3472313cd6207c502d3fae91f4d1b996e190f322c7cc52c8ff6",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "19010RNAA01",
+      "fitment": "HONDA CIVIC VIII Hatchback (FN, FK) 05- 1.6 (R16A1) 84кВт/114лс 09.2005-; HONDA CIVIC VIII Saloon (FD, FA) 05-12 1.3 Hybrid (FA3, FD3) (LDA2) 70кВт/95лс 01.2006-; HONDA CIVIC VIII Saloon (FD, FA) 05-12 1.3 Hybrid (FA3, FD3) (LDA2) 82кВт/112лс 09.2005-12.2011",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1080",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814265",
+      "source_checked_at_utc": "2026-11-18T10:05:35.513637+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1080.html",
+      "page_captured_at_utc": "2026-11-18T10:05:38.224772+00:00",
+      "manufacturer_page_sha256": "485ccf5d7f8db5b4a9145c238e6f75ff1df8b1e6152ea0be5ef11745c4be3d09",
+      "manufacturer_MPN": "XG-1080",
+      "product_title": "Радиатор охлаждения Арт. XG-1080",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "KIA",
+          "0K2A1-15-200"
+        ],
+        [
+          "KIA",
+          "0K2A1-15-200B"
+        ],
+        [
+          "KIA",
+          "0K2A1-15-200C"
+        ],
+        [
+          "KIA",
+          "0K2A1-15-200D"
+        ],
+        [
+          "KIA",
+          "0K2A1-15-200E"
+        ],
+        [
+          "KIA",
+          "0K2A1-15-20X"
+        ],
+        [
+          "KIA",
+          "0K2A1-15-20XA"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "KIA": 8
+      },
+      "OEM_make": "KIA",
+      "OEM_raw": "0K2A1-15-200",
+      "OEM": "0K2A115200",
+      "fitment_rows": [
+        {
+          "model": "KIA SHUMA I | SEPHIA (FB) 97-01",
+          "modification": "1.5 i 16V (BFD) 65кВт/88лс 10.1997-03.2001",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9552"
+        },
+        {
+          "model": "KIA SHUMA I | SEPHIA (FB) 97-01",
+          "modification": "1.6 (GA6D) 75кВт/101лс 01.2001-12.2001",
+          "url": "https://sufix.pro/selection_parts.html?na_id=30722"
+        },
+        {
+          "model": "KIA SHUMA I | SEPHIA (FB) 97-01",
+          "modification": "1.8 i 16V (T8, TED) 81кВт/110лс 10.1997-03.2001",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9553"
+        },
+        {
+          "model": "KIA SHUMA I | SEPHIA Saloon (FB) 96-01",
+          "modification": "1.5 i 16V (BFD) 65кВт/88лс 10.1997-10.2001",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9550"
+        },
+        {
+          "model": "KIA SHUMA I | SEPHIA Saloon (FB) 96-01",
+          "modification": "1.8 GX 85кВт/116лс 05.1999-10.2001",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20644"
+        }
+      ],
+      "applicability_make": "KIA",
+      "OEM_group_label_as_on_manufacturer_page": "KIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1080.jpg",
+      "photo_sha256": "6587c85ad13761bb8367a5d0b9bbfe3975548b07530ce6a2280cbaca1a518294",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "0K2A115200",
+      "fitment": "KIA SHUMA I | SEPHIA (FB) 97-01 1.5 i 16V (BFD) 65кВт/88лс 10.1997-03.2001; KIA SHUMA I | SEPHIA (FB) 97-01 1.6 (GA6D) 75кВт/101лс 01.2001-12.2001; KIA SHUMA I | SEPHIA (FB) 97-01 1.8 i 16V (T8, TED) 81кВт/110лс 10.1997-03.2001",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1085",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814247",
+      "source_checked_at_utc": "2026-11-18T10:05:35.586784+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1085.html",
+      "page_captured_at_utc": "2026-11-18T10:05:38.061915+00:00",
+      "manufacturer_page_sha256": "a98ec74244bf9e0371f1783e3481044419f964da7c69865b409cec150b6d8546",
+      "manufacturer_MPN": "XG-1085",
+      "product_title": "Радиатор охлаждения Арт. XG-1085",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "21400-95F0E"
+        ],
+        [
+          "NISSAN",
+          "21400-95F0G"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 1
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "21400-95F0E",
+      "OEM": "2140095F0E",
+      "fitment_rows": [
+        {
+          "model": "NISSAN ALMERA Classic (B10) 06-",
+          "modification": "1.6 16V (QG16, QG16DE) 79кВт/107лс 03.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=414"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1085.jpg",
+      "photo_sha256": "e37c8bf75c776c47c9c1ce599a3bbcc5b97b8a76e66e6498d767f50c66d01267",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "2140095F0E",
+      "fitment": "NISSAN ALMERA Classic (B10) 06- 1.6 16V (QG16, QG16DE) 79кВт/107лс 03.2006-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1086",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814270",
+      "source_checked_at_utc": "2026-11-18T10:05:43.109001+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1086.html",
+      "page_captured_at_utc": "2026-11-18T10:05:48.239416+00:00",
+      "manufacturer_page_sha256": "b7a8b5c36acc8b30f40907e6d6be74e24c1b24d3bb1efd95654a2303aacc39be",
+      "manufacturer_MPN": "XG-1086",
+      "product_title": "Радиатор охлаждения Арт. XG-1086",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "21400-95F0C"
+        ],
+        [
+          "NISSAN",
+          "21400-95F0F"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 1
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "21400-95F0C",
+      "OEM": "2140095F0C",
+      "fitment_rows": [
+        {
+          "model": "NISSAN ALMERA Classic (B10) 06-",
+          "modification": "1.6 16V (QG16, QG16DE) 79кВт/107лс 03.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=414"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1086.jpg",
+      "photo_sha256": "a10b0419db1ab443ea2e2feb9fa4de032458d9dd2905bde58d19811fe182b76d",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "2140095F0C",
+      "fitment": "NISSAN ALMERA Classic (B10) 06- 1.6 16V (QG16, QG16DE) 79кВт/107лс 03.2006-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1087",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814266",
+      "source_checked_at_utc": "2026-11-18T10:05:43.198757+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1087.html",
+      "page_captured_at_utc": "2026-11-18T10:05:48.065792+00:00",
+      "manufacturer_page_sha256": "1e9e091e92e9bb7e1c9fcb3e551ee27f40e075b8df69ee1b3f555fe53f44a6ee",
+      "manufacturer_MPN": "XG-1087",
+      "product_title": "Радиатор охлаждения Арт. XG-1087",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "21410-BM400"
+        ],
+        [
+          "NISSAN",
+          "21410-BM402"
+        ],
+        [
+          "NISSAN",
+          "21410-BM40A"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 16
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "21410-BM400",
+      "OEM": "21410BM400",
+      "fitment_rows": [
+        {
+          "model": "NISSAN ALMERA II (N16) 00-06",
+          "modification": "1.5 (QG15DE) 66кВт/90лс 07.2000-11.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14915"
+        },
+        {
+          "model": "NISSAN ALMERA II (N16) 00-06",
+          "modification": "1.5 (QG15DE) 72кВт/98лс 10.2002-09.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17242"
+        },
+        {
+          "model": "NISSAN ALMERA II (N16) 00-06",
+          "modification": "1.8 (QG18DE) 84кВт/114лс 07.2000-11.2002",
+          "url": "https://sufix.pro/selection_parts.html?na_id=15110"
+        },
+        {
+          "model": "NISSAN ALMERA II (N16) 00-06",
+          "modification": "1.8 (QG18DE) 85кВт/116лс 10.2002-09.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17243"
+        },
+        {
+          "model": "NISSAN ALMERA II Hatchback (N16) 00-06",
+          "modification": "1.5 (QG15DE) 66кВт/90лс 03.2000-11.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14657"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1087.jpg",
+      "photo_sha256": "dc57f9544412d1611c7ec0400fadc165392f52e31d4f69e943f27b02daf65347",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "21410BM400",
+      "fitment": "NISSAN ALMERA II (N16) 00-06 1.5 (QG15DE) 66кВт/90лс 07.2000-11.2006; NISSAN ALMERA II (N16) 00-06 1.5 (QG15DE) 72кВт/98лс 10.2002-09.2006; NISSAN ALMERA II (N16) 00-06 1.8 (QG18DE) 84кВт/114лс 07.2000-11.2002",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1093",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814262",
+      "source_checked_at_utc": "2026-11-18T10:06:03.912894+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1093.html",
+      "page_captured_at_utc": "2026-11-18T10:06:05.087920+00:00",
+      "manufacturer_page_sha256": "e53b1986d31fef403aa3283e327ab1810f634d507ed5d3eb63b25f21da6b041d",
+      "manufacturer_MPN": "XG-1093",
+      "product_title": "Радиатор охлаждения Арт. XG-1093",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "RENAULT",
+          "21 41 000 14R"
+        ],
+        [
+          "RENAULT",
+          "21 41 000 67R"
+        ],
+        [
+          "RENAULT",
+          "21 41 000 69R"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "RENAULT": 17
+      },
+      "OEM_make": "RENAULT",
+      "OEM_raw": "21 41 000 14R",
+      "OEM": "214100014R",
+      "fitment_rows": [
+        {
+          "model": "RENAULT FLUENCE (L3_) 10-",
+          "modification": "1.5 dCi (L30S) (K9K 834) 66кВт/90лс 02.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31724"
+        },
+        {
+          "model": "RENAULT FLUENCE (L3_) 10-",
+          "modification": "1.6 16V (L301, L30F, L30P, L30R) (K4M 838, K4M 839) 81кВт/110лс 02.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31722"
+        },
+        {
+          "model": "RENAULT FLUENCE (L3_) 10-",
+          "modification": "1.6 16V (L304, L305, L30H) (K4M 838) 82кВт/111лс 02.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=5089"
+        },
+        {
+          "model": "RENAULT GRAND SCENIC III (JZ0/1_) 09-",
+          "modification": "1.6 16V (JZ0U) (K4M 858) 81кВт/109лс 02.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31551"
+        },
+        {
+          "model": "RENAULT GRAND SCENIC III (JZ0/1_) 09-",
+          "modification": "1.6 16V Bifuel (K4M 866) 79кВт/107лс 04.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=122944"
+        }
+      ],
+      "applicability_make": "RENAULT",
+      "OEM_group_label_as_on_manufacturer_page": "RENAULT",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1093.jpg",
+      "photo_sha256": "fb4d59455edf1f8db3e344a72d3f4951373e52084e6a365e7f20827c8b1d0f55",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "214100014R",
+      "fitment": "RENAULT FLUENCE (L3_) 10- 1.5 dCi (L30S) (K9K 834) 66кВт/90лс 02.2010-; RENAULT FLUENCE (L3_) 10- 1.6 16V (L301, L30F, L30P, L30R) (K4M 838, K4M 839) 81кВт/110лс 02.2010-; RENAULT FLUENCE (L3_) 10- 1.6 16V (L304, L305, L30H) (K4M 838) 82кВт/111лс 02.2010-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1095",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814254",
+      "source_checked_at_utc": "2026-11-18T10:06:09.600378+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1095.html",
+      "page_captured_at_utc": "2026-11-18T10:06:15.183404+00:00",
+      "manufacturer_page_sha256": "0fd8abb24485f7a4b10bf2c2b22a642a8df325133b7b4d653e5aeedb18b9a8af",
+      "manufacturer_MPN": "XG-1095",
+      "product_title": "Радиатор охлаждения Арт. XG-1095",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "SSANGYONG",
+          "2131034221"
+        ],
+        [
+          "SSANGYONG",
+          "2131034222"
+        ],
+        [
+          "SSANGYONG",
+          "2131034224"
+        ],
+        [
+          "SSANGYONG",
+          "2131034241"
+        ],
+        [
+          "SSANGYONG",
+          "2131034620"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "SSANGYONG": 8
+      },
+      "OEM_make": "SSANGYONG",
+      "OEM_raw": "2131034221",
+      "OEM": "2131034221",
+      "fitment_rows": [
+        {
+          "model": "SSANGYONG ACTYON II 12-",
+          "modification": "2.0 (G20) 110кВт/150лс 08.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100658"
+        },
+        {
+          "model": "SSANGYONG ACTYON II 12-",
+          "modification": "2.0 4WD (G20) 110кВт/150лс 08.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100659"
+        },
+        {
+          "model": "SSANGYONG ACTYON II 12-",
+          "modification": "2.0 XDi (D20DTF) 110кВт/150лс 08.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100657"
+        },
+        {
+          "model": "SSANGYONG ACTYON II 12-",
+          "modification": "2.0 XDi 4WD (D20DTF) 110кВт/150лс 08.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100660"
+        },
+        {
+          "model": "SSANGYONG KORANDO (CK) | KORANDO C 10-",
+          "modification": "2.0 (G20) 110кВт/150лс 02.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57465"
+        }
+      ],
+      "applicability_make": "SSANGYONG",
+      "OEM_group_label_as_on_manufacturer_page": "SSANGYONG",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1095.jpg",
+      "photo_sha256": "6ce3360fd27dc5e9d4708eb44b1b2a918b9a37116f31d4ab9b99b810a515b533",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "2131034221",
+      "fitment": "SSANGYONG ACTYON II 12- 2.0 (G20) 110кВт/150лс 08.2012-; SSANGYONG ACTYON II 12- 2.0 4WD (G20) 110кВт/150лс 08.2012-; SSANGYONG ACTYON II 12- 2.0 XDi (D20DTF) 110кВт/150лс 08.2012-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1098",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814238",
+      "source_checked_at_utc": "2026-11-18T10:06:14.901240+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1098.html",
+      "page_captured_at_utc": "2026-11-18T10:06:20.194095+00:00",
+      "manufacturer_page_sha256": "20d4e25190ccf1151bb2dfb4dc21ac615075665eb2b1fd63f53d8540512d1d66",
+      "manufacturer_MPN": "XG-1098",
+      "product_title": "Радиатор охлаждения Арт. XG-1098",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "SUZUKI",
+          "17700-65J10"
+        ],
+        [
+          "SUZUKI",
+          "17700-65J30"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "SUZUKI": 4
+      },
+      "OEM_make": "SUZUKI",
+      "OEM_raw": "17700-65J10",
+      "OEM": "1770065J10",
+      "fitment_rows": [
+        {
+          "model": "SUZUKI GRAND VITARA II | ESCUDO II (JT, TE, TD) 05-15",
+          "modification": "2.0 (JB420) (J20A) 103кВт/140лс 10.2005-02.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=22327"
+        },
+        {
+          "model": "SUZUKI GRAND VITARA II | ESCUDO II (JT, TE, TD) 05-15",
+          "modification": "2.0 AWD (TD54, JB420) (J20A) 103кВт/140лс 10.2005-02.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19194"
+        },
+        {
+          "model": "SUZUKI GRAND VITARA II | ESCUDO II (JT, TE, TD) 05-15",
+          "modification": "2.4 AWD (JB424) (J24B) 124кВт/169лс 01.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=30862"
+        },
+        {
+          "model": "SUZUKI GRAND VITARA II | ESCUDO II (JT, TE, TD) 05-15",
+          "modification": "2.4 AWD (JT424, JB424) (J24B) 122кВт/166лс 01.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31383"
+        }
+      ],
+      "applicability_make": "SUZUKI",
+      "OEM_group_label_as_on_manufacturer_page": "SUZUKI",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1098.jpg",
+      "photo_sha256": "01011a7773c2dcd30a3b60e46eceb7fb538de1d069a6abbbb709de0b51394480",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1770065J10",
+      "fitment": "SUZUKI GRAND VITARA II | ESCUDO II (JT, TE, TD) 05-15 2.0 (JB420) (J20A) 103кВт/140лс 10.2005-02.2015; SUZUKI GRAND VITARA II | ESCUDO II (JT, TE, TD) 05-15 2.0 AWD (TD54, JB420) (J20A) 103кВт/140лс 10.2005-02.2015; SUZUKI GRAND VITARA II | ESCUDO II (JT, TE, TD) 05-15 2.4 AWD (JB424) (J24B) 124кВт/169лс 01.2009-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1102",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814273",
+      "source_checked_at_utc": "2026-11-18T10:06:20.270628+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1102.html",
+      "page_captured_at_utc": "2026-11-18T10:06:25.903055+00:00",
+      "manufacturer_page_sha256": "d218f917ccddb0e9d9ac287e4b65e08085fe2f61c315ec27db9852e8ca23ffad",
+      "manufacturer_MPN": "XG-1102",
+      "product_title": "Радиатор охлаждения Арт. XG-1102",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "16400-0D120"
+        ],
+        [
+          "TOYOTA",
+          "16400-0D200"
+        ],
+        [
+          "TOYOTA",
+          "16400-0D210"
+        ],
+        [
+          "TOYOTA",
+          "16410-YZZ08"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 22
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "16400-0D120",
+      "OEM": "164000D120",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA AVENSIS (_T25_) 03-08",
+          "modification": "1.6 VVT-i (ZZT250_) (3ZZ-FE) 81кВт/110лс 04.2003-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18878"
+        },
+        {
+          "model": "TOYOTA AVENSIS (_T25_) 03-08",
+          "modification": "1.8 (ZZT251_) (1ZZ-FE) 95кВт/129лс 03.2003-10.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17344"
+        },
+        {
+          "model": "TOYOTA AVENSIS Estate (_T25_) 03-08",
+          "modification": "1.6 VVT-i (ZZT250_) (3ZZ-FE) 81кВт/110лс 04.2003-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18880"
+        },
+        {
+          "model": "TOYOTA AVENSIS Estate (_T25_) 03-08",
+          "modification": "1.8 (ZZT251_) (1ZZ-FE) 95кВт/129лс 04.2003-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17219"
+        },
+        {
+          "model": "TOYOTA AVENSIS Saloon (_T25_) 03-08",
+          "modification": "1.6 VVT-i (ZZT250_) (3ZZ-FE) 81кВт/110лс 04.2003-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18879"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1102.jpg",
+      "photo_sha256": "dd785abca28ea644b624aeafd2240d6bc9d8e64e3ac39f2e4c1567dc8f67c4c3",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "164000D120",
+      "fitment": "TOYOTA AVENSIS (_T25_) 03-08 1.6 VVT-i (ZZT250_) (3ZZ-FE) 81кВт/110лс 04.2003-11.2008; TOYOTA AVENSIS (_T25_) 03-08 1.8 (ZZT251_) (1ZZ-FE) 95кВт/129лс 03.2003-10.2008; TOYOTA AVENSIS Estate (_T25_) 03-08 1.6 VVT-i (ZZT250_) (3ZZ-FE) 81кВт/110лс 04.2003-11.2008",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1103",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814231",
+      "source_checked_at_utc": "2026-11-18T10:06:25.704333+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1103.html",
+      "page_captured_at_utc": "2026-11-18T10:06:30.837617+00:00",
+      "manufacturer_page_sha256": "e89bad5a0153c367f42fdf64777aa03e129be91e643107a0db350662d3619492",
+      "manufacturer_MPN": "XG-1103",
+      "product_title": "Радиатор охлаждения Арт. XG-1103",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "16400-28280"
+        ],
+        [
+          "TOYOTA",
+          "16400-28281"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 2
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "16400-28280",
+      "OEM": "1640028280",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA CAMRY Saloon (_V3_) 01-06",
+          "modification": "2.0 (ACV31_) (1AZ-FE) 110кВт/150лс 08.2001-11.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=23011"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V3_) 01-06",
+          "modification": "2.4 (ACV30, ACV36) (2AZ-FE) 112кВт/152лс 11.2001-11.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16362"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1103.jpg",
+      "photo_sha256": "6a14b6535a1098e295aef0b7ad1327ee587faa735478446e9b595e3e140f7936",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1640028280",
+      "fitment": "TOYOTA CAMRY Saloon (_V3_) 01-06 2.0 (ACV31_) (1AZ-FE) 110кВт/150лс 08.2001-11.2006; TOYOTA CAMRY Saloon (_V3_) 01-06 2.4 (ACV30, ACV36) (2AZ-FE) 112кВт/152лс 11.2001-11.2006",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1114",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814216",
+      "source_checked_at_utc": "2026-11-18T10:06:48.322840+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1114.html",
+      "page_captured_at_utc": "2026-11-18T10:06:49.670213+00:00",
+      "manufacturer_page_sha256": "1aa4e567fd9c6c800a68690adca5aa1dbc0f3ac4fd4f948043dbd06767d22aaa",
+      "manufacturer_MPN": "XG-1114",
+      "product_title": "Радиатор охлаждения Арт. XG-1114",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "VAG",
+          "5N0 121 253 F"
+        ],
+        [
+          "VAG",
+          "5N0 121 253 L"
+        ],
+        [
+          "VAG",
+          "5N0 121 253 M"
+        ],
+        [
+          "VAG",
+          "5N0 121 253 N"
+        ],
+        [
+          "VAG",
+          "5N0 121 253 P"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "SEAT": 8,
+        "VOLKSWAGEN": 22
+      },
+      "OEM_make": "VAG",
+      "OEM_raw": "5N0 121 253 F",
+      "OEM": "5N0121253F",
+      "fitment_rows": [
+        {
+          "model": "SEAT ALHAMBRA (710, 711) 10-11",
+          "modification": "1.4 TSI (CAVA, CNWB, CTHA) 110кВт/150лс 06.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=519"
+        },
+        {
+          "model": "SEAT ALHAMBRA (710, 711) 10-11",
+          "modification": "2.0 TDI (CFFA) 100кВт/136лс 06.2010-05.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10625"
+        },
+        {
+          "model": "SEAT ALHAMBRA (710, 711) 10-11",
+          "modification": "2.0 TDI (CFFB) 103кВт/140лс 06.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=520"
+        },
+        {
+          "model": "SEAT ALHAMBRA (710, 711) 10-11",
+          "modification": "2.0 TDI (CFFE, CUVA, DFLD, DLTC) 85кВт/115лс 05.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10615"
+        },
+        {
+          "model": "SEAT ALHAMBRA (710, 711) 10-11",
+          "modification": "2.0 TDI (CFGB) 125кВт/170лс 06.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=521"
+        }
+      ],
+      "applicability_make": "SEAT",
+      "OEM_group_label_as_on_manufacturer_page": "VAG",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1114.jpg",
+      "photo_sha256": "4de4e56540562ef4888c7843f829c995581d419c30ba9082e7921cc65f96f14e",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "5N0121253F",
+      "fitment": "SEAT ALHAMBRA (710, 711) 10-11 1.4 TSI (CAVA, CNWB, CTHA) 110кВт/150лс 06.2010-; SEAT ALHAMBRA (710, 711) 10-11 2.0 TDI (CFFA) 100кВт/136лс 06.2010-05.2011; SEAT ALHAMBRA (710, 711) 10-11 2.0 TDI (CFFB) 103кВт/140лс 06.2010-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1122",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814244",
+      "source_checked_at_utc": "2026-11-18T10:07:05.630671+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1122.html",
+      "page_captured_at_utc": "2026-11-18T10:07:08.660074+00:00",
+      "manufacturer_page_sha256": "860b0c33b7a600b273b2f4288a1ed587ef589f264c6cfde6308704e4c1df1fa3",
+      "manufacturer_MPN": "XG-1122",
+      "product_title": "Радиатор охлаждения Арт. XG-1122",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "SUBARU",
+          "45111-AG000"
+        ],
+        [
+          "SUBARU",
+          "45111-AG001"
+        ],
+        [
+          "SUBARU",
+          "45111-AG00A"
+        ],
+        [
+          "SUBARU",
+          "45111-AG06A"
+        ],
+        [
+          "SUBARU",
+          "45111-AG07A"
+        ],
+        [
+          "SUBARU",
+          "45111-AG08A"
+        ],
+        [
+          "SUBARU",
+          "45111-AJ07A"
+        ],
+        [
+          "SUBARU",
+          "45111-AJ09A"
+        ],
+        [
+          "SUBARU",
+          "45111-AJ10A"
+        ],
+        [
+          "SUBARU",
+          "45119-AG000"
+        ],
+        [
+          "SUBARU",
+          "45119-AG00A"
+        ],
+        [
+          "SUBARU",
+          "45119-AG020"
+        ],
+        [
+          "SUBARU",
+          "45119-AI030"
+        ],
+        [
+          "SUBARU",
+          "45119-FG040"
+        ],
+        [
+          "SUBARU",
+          "45119-SC000"
+        ],
+        [
+          "SUBARU",
+          "45119-SC040"
+        ],
+        [
+          "SUBARU",
+          "45119-SC050"
+        ],
+        [
+          "SUBARU",
+          "45119-VA010"
+        ],
+        [
+          "SUBARU",
+          "X4511-AG001"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "SUBARU": 21
+      },
+      "OEM_make": "SUBARU",
+      "OEM_raw": "45111-AG000",
+      "OEM": "45111AG000",
+      "fitment_rows": [
+        {
+          "model": "SUBARU FORESTER (SH_, S12) 08-13",
+          "modification": "2.0 AWD (SH5) (EJ204) 110кВт/150лс 01.2008-09.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=30814"
+        },
+        {
+          "model": "SUBARU FORESTER (SH_, S12) 08-13",
+          "modification": "2.0 AWD (SHJ) (FB20) 110кВт/150лс 01.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9777"
+        },
+        {
+          "model": "SUBARU FORESTER (SH_, S12) 08-13",
+          "modification": "2.5 AWD (SH9) (EJ25) 126кВт/171лс 01.2009-09.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9778"
+        },
+        {
+          "model": "SUBARU FORESTER (SJ, S13) 12-",
+          "modification": "2.0 i AWD (SJ5) (FB20) 110кВт/150лс 03.2013-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=58700"
+        },
+        {
+          "model": "SUBARU IMPREZA Hatchback (GH, GR, G12, G22) 07-13",
+          "modification": "1.5 AWD (GH3) (EL15) 79кВт/107лс 02.2008-03.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=30355"
+        }
+      ],
+      "applicability_make": "SUBARU",
+      "OEM_group_label_as_on_manufacturer_page": "SUBARU",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1122.jpg",
+      "photo_sha256": "85924e85afdca19de3aa24a9f9ec6fb3538ee796aeae0d08f80b0d82d1706ccb",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "45111AG000",
+      "fitment": "SUBARU FORESTER (SH_, S12) 08-13 2.0 AWD (SH5) (EJ204) 110кВт/150лс 01.2008-09.2013; SUBARU FORESTER (SH_, S12) 08-13 2.0 AWD (SHJ) (FB20) 110кВт/150лс 01.2010-; SUBARU FORESTER (SH_, S12) 08-13 2.5 AWD (SH9) (EJ25) 126кВт/171лс 01.2009-09.2013",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1152",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814252",
+      "source_checked_at_utc": "2026-11-18T10:07:23.700453+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1152.html",
+      "page_captured_at_utc": "2026-11-18T10:07:25.052496+00:00",
+      "manufacturer_page_sha256": "76999dc9d2c0eba4d6060f66799acd749af5b5845f1f0f3f8fb1e6dc71921511",
+      "manufacturer_MPN": "XG-1152",
+      "product_title": "Радиатор охлаждения Арт. XG-1152",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "21460-JN90A"
+        ],
+        [
+          "NISSAN",
+          "21460-ZN50A"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 5
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "21460-JN90A",
+      "OEM": "21460JN90A",
+      "fitment_rows": [
+        {
+          "model": "NISSAN TEANA II (J32) 08-13",
+          "modification": "2.5 (VQ25DE) 134кВт/182лс 07.2008-09.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33424"
+        },
+        {
+          "model": "NISSAN TEANA II (J32) 08-13",
+          "modification": "3.5 (VQ35DE) 183кВт/249лс 07.2008-09.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33423"
+        },
+        {
+          "model": "NISSAN TEANA III (L33) 13-",
+          "modification": "2.5 (L33L, L33R, L33T) (QR25DE) 127кВт/173лс 09.2013-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=107403"
+        },
+        {
+          "model": "NISSAN TEANA III (L33) 13-",
+          "modification": "2.5 Flexfuel (L33T) (QR25DE) 127кВт/173лс 01.2014-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=125857"
+        },
+        {
+          "model": "NISSAN TEANA III (L33) 13-",
+          "modification": "3.5 CVTC (VQ35DE) 183кВт/249лс 01.2014-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=133635"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1152.jpg",
+      "photo_sha256": "521c27a85728de2c21678b027d407a8b62d6fd95c04e048b735efb94488703e0",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "21460JN90A",
+      "fitment": "NISSAN TEANA II (J32) 08-13 2.5 (VQ25DE) 134кВт/182лс 07.2008-09.2013; NISSAN TEANA II (J32) 08-13 3.5 (VQ35DE) 183кВт/249лс 07.2008-09.2013; NISSAN TEANA III (L33) 13- 2.5 (L33L, L33R, L33T) (QR25DE) 127кВт/173лс 09.2013-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1168",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814220",
+      "source_checked_at_utc": "2026-11-18T10:07:30.589537+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1168.html",
+      "page_captured_at_utc": "2026-11-18T10:07:36.278802+00:00",
+      "manufacturer_page_sha256": "6455a60ad7b24aec275d1ab1e675eb6de1808da6ed2a603a8faac980371bfc1f",
+      "manufacturer_MPN": "XG-1168",
+      "product_title": "Радиатор охлаждения Арт. XG-1168",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "16400-0H210"
+        ],
+        [
+          "TOYOTA",
+          "16400-0H220"
+        ],
+        [
+          "TOYOTA",
+          "16400-0H240"
+        ],
+        [
+          "TOYOTA",
+          "16400-0H310"
+        ],
+        [
+          "TOYOTA",
+          "16400-0V010"
+        ],
+        [
+          "TOYOTA",
+          "16400-0V070"
+        ],
+        [
+          "TOYOTA",
+          "16400-0V090"
+        ],
+        [
+          "TOYOTA",
+          "16400-18640"
+        ],
+        [
+          "TOYOTA",
+          "16400-28520"
+        ],
+        [
+          "TOYOTA",
+          "16400-28630"
+        ],
+        [
+          "TOYOTA",
+          "16400-28631"
+        ],
+        [
+          "TOYOTA",
+          "16400-36070"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 5
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "16400-0H210",
+      "OEM": "164000H210",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "2.4 (ACV40_) (2AZ-FE) 123кВт/167лс 01.2006-09.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=34837"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "2.4 (ACV40_) (2AZ-FE) 127кВт/173лс 01.2006-09.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57752"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "2.4 (ACV40) (2AZ-FE) 116кВт/158лс 01.2006-09.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20332"
+        },
+        {
+          "model": "TOYOTA VENZA (_V1_) 08-16",
+          "modification": "2.7 (AGV10_) (1AR-FE) 136кВт/185лс 11.2008-11.2016",
+          "url": "https://sufix.pro/selection_parts.html?na_id=29747"
+        },
+        {
+          "model": "TOYOTA VENZA (_V1_) 08-16",
+          "modification": "2.7 4WD (AGV15_) (1AR-FE) 136кВт/185лс 11.2008-11.2016",
+          "url": "https://sufix.pro/selection_parts.html?na_id=29535"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1168.jpg",
+      "photo_sha256": "fddb55dfd6eb4c6863870736cdbbefeec9636c1161a29f3246df75916a414c4a",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "164000H210",
+      "fitment": "TOYOTA CAMRY Saloon (_V4_) 06-14 2.4 (ACV40_) (2AZ-FE) 123кВт/167лс 01.2006-09.2011; TOYOTA CAMRY Saloon (_V4_) 06-14 2.4 (ACV40_) (2AZ-FE) 127кВт/173лс 01.2006-09.2011; TOYOTA CAMRY Saloon (_V4_) 06-14 2.4 (ACV40) (2AZ-FE) 116кВт/158лс 01.2006-09.2011",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1169",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814224",
+      "source_checked_at_utc": "2026-11-18T10:07:41.248506+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1169.html",
+      "page_captured_at_utc": "2026-11-18T10:07:46.316469+00:00",
+      "manufacturer_page_sha256": "816815412cdc108814aa890189a870522a1f515ad10c5760b20fcaffca467740",
+      "manufacturer_MPN": "XG-1169",
+      "product_title": "Радиатор охлаждения Арт. XG-1169",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "21400-JD20A"
+        ],
+        [
+          "NISSAN",
+          "21400-JD20B"
+        ],
+        [
+          "NISSAN",
+          "21400-JD20E"
+        ],
+        [
+          "NISSAN",
+          "21410-JD00B"
+        ],
+        [
+          "NISSAN",
+          "21410-JD20B"
+        ],
+        [
+          "NISSAN",
+          "21410-JD20E"
+        ],
+        [
+          "NISSAN",
+          "21410-JD21B"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 4
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "21400-JD20A",
+      "OEM": "21400JD20A",
+      "fitment_rows": [
+        {
+          "model": "NISSAN QASHQAI / QASHQAI +2 I | DUALIS (J10, JJ10) 07-13",
+          "modification": "1.6 (HR16DE) 84кВт/114лс 02.2007-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19883"
+        },
+        {
+          "model": "NISSAN QASHQAI / QASHQAI +2 I | DUALIS (J10, JJ10) 07-13",
+          "modification": "1.6 (HR16DE) 86кВт/117лс 11.2010-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=11137"
+        },
+        {
+          "model": "NISSAN QASHQAI / QASHQAI +2 I | DUALIS (J10, JJ10) 07-13",
+          "modification": "2.0 (MR20DE) 104кВт/141лс 02.2007-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=11138"
+        },
+        {
+          "model": "NISSAN QASHQAI / QASHQAI +2 I | DUALIS (J10, JJ10) 07-13",
+          "modification": "2.0 AWD (MR20DE) 104кВт/141лс 02.2007-12.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=11140"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1169.jpg",
+      "photo_sha256": "bddfe40470c176640d25bbf327174987a5137d417b8f9b509abfe9a7ca375b59",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "21400JD20A",
+      "fitment": "NISSAN QASHQAI / QASHQAI +2 I | DUALIS (J10, JJ10) 07-13 1.6 (HR16DE) 84кВт/114лс 02.2007-12.2013; NISSAN QASHQAI / QASHQAI +2 I | DUALIS (J10, JJ10) 07-13 1.6 (HR16DE) 86кВт/117лс 11.2010-12.2013; NISSAN QASHQAI / QASHQAI +2 I | DUALIS (J10, JJ10) 07-13 2.0 (MR20DE) 104кВт/141лс 02.2007-12.2013",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1183",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814242",
+      "source_checked_at_utc": "2026-11-18T10:08:07.096287+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1183.html",
+      "page_captured_at_utc": "2026-11-18T10:08:09.040128+00:00",
+      "manufacturer_page_sha256": "82555ffb4360f091b913fc9bb65cc1a5034b63d300a40d3bdc06eae2ff1f129c",
+      "manufacturer_MPN": "XG-1183",
+      "product_title": "Радиатор охлаждения Арт. XG-1183",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "25310-H5050"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HYUNDAI": 2,
+        "KIA": 4
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "25310-H5050",
+      "OEM": "25310H5050",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI SOLARIS II Saloon | ACCENT V (HCR) 17-",
+          "modification": "1.4 (G4LC) 74кВт/101лс 01.2017-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=128105"
+        },
+        {
+          "model": "HYUNDAI SOLARIS II Saloon | ACCENT V (HCR) 17-",
+          "modification": "1.6 (G4FG) 90кВт/122лс 01.2017-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=128106"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1183.jpg",
+      "photo_sha256": "cc03b9c415f2c386edbcf01dff29f7ed109bef7f6759c5f3aac29e8df14bb87c",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "25310H5050",
+      "fitment": "HYUNDAI SOLARIS II Saloon | ACCENT V (HCR) 17- 1.4 (G4LC) 74кВт/101лс 01.2017-; HYUNDAI SOLARIS II Saloon | ACCENT V (HCR) 17- 1.6 (G4FG) 90кВт/122лс 01.2017-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1193",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814204",
+      "source_checked_at_utc": "2026-11-18T10:08:20.116199+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1193.html",
+      "page_captured_at_utc": "2026-11-18T10:08:24.113772+00:00",
+      "manufacturer_page_sha256": "0597dfad836247f3aae575fbbc2c8eff08d5c2c521184891ca7cb73506d24bda",
+      "manufacturer_MPN": "XG-1193",
+      "product_title": "Радиатор охлаждения Арт. XG-1193",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "RENAULT",
+          "82 00 115 542"
+        ],
+        [
+          "RENAULT",
+          "82 00 117 609"
+        ],
+        [
+          "RENAULT",
+          "82 00 357 536"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "RENAULT": 42
+      },
+      "OEM_make": "RENAULT",
+      "OEM_raw": "82 00 115 542",
+      "OEM": "8200115542",
+      "fitment_rows": [
+        {
+          "model": "RENAULT GRAND SCENIC II (JM0/1_) 04-09",
+          "modification": "1.6 (K4M 761, K4M 782) 83кВт/113лс 04.2004-08.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18047"
+        },
+        {
+          "model": "RENAULT GRAND SCENIC II (JM0/1_) 04-09",
+          "modification": "1.9 dCi (JM0G, JM12, JM1G, JM2C) (F9Q 812) 88кВт/120лс 04.2004-05.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18050"
+        },
+        {
+          "model": "RENAULT GRAND SCENIC II (JM0/1_) 04-09",
+          "modification": "1.9 dCi (JM14) (F9Q 803, F9Q 804, F9Q 816, F9Q 818) 96кВт/131лс 04.2004-02.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19039"
+        },
+        {
+          "model": "RENAULT GRAND SCENIC II (JM0/1_) 04-09",
+          "modification": "1.9 dCi (JM15) (F9Q E 804) 81кВт/110лс 05.2005-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19038"
+        },
+        {
+          "model": "RENAULT GRAND SCENIC II (JM0/1_) 04-09",
+          "modification": "2.0 (F4R 770, F4R 771) 99кВт/135лс 04.2004-06.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18048"
+        }
+      ],
+      "applicability_make": "RENAULT",
+      "OEM_group_label_as_on_manufacturer_page": "RENAULT",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1193.jpg",
+      "photo_sha256": "4b8dd0b65b6eb7cfd42068d3d8a114484b481ece99bbcc96d47c25c7a094ed4f",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "8200115542",
+      "fitment": "RENAULT GRAND SCENIC II (JM0/1_) 04-09 1.6 (K4M 761, K4M 782) 83кВт/113лс 04.2004-08.2006; RENAULT GRAND SCENIC II (JM0/1_) 04-09 1.9 dCi (JM0G, JM12, JM1G, JM2C) (F9Q 812) 88кВт/120лс 04.2004-05.2006; RENAULT GRAND SCENIC II (JM0/1_) 04-09 1.9 dCi (JM14) (F9Q 803, F9Q 804, F9Q 816, F9Q 818) 96кВт/131лс 04.2004-02.2008",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1198",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814211",
+      "source_checked_at_utc": "2026-11-18T10:08:20.236804+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1198.html",
+      "page_captured_at_utc": "2026-11-18T10:08:24.197772+00:00",
+      "manufacturer_page_sha256": "7e36059a1ed3701e6b28abd9557bb659fdf7842fa15c000b8ffe83cfa56a765d",
+      "manufacturer_MPN": "XG-1198",
+      "product_title": "Радиатор охлаждения Арт. XG-1198",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "VAG",
+          "4B0 121 251 G"
+        ],
+        [
+          "VAG",
+          "8D0 121 251 AC"
+        ],
+        [
+          "VAG",
+          "8D0 121 251 AJ"
+        ],
+        [
+          "VAG",
+          "8D0 121 251 AL"
+        ],
+        [
+          "VAG",
+          "8D0 121 251 BH"
+        ],
+        [
+          "VAG",
+          "8D0 121 251 P"
+        ],
+        [
+          "VAG",
+          "8D0 121 251 Q"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "AUDI": 49,
+        "SKODA": 7,
+        "VOLKSWAGEN": 51
+      },
+      "OEM_make": "VAG",
+      "OEM_raw": "4B0 121 251 G",
+      "OEM": "4B0121251G",
+      "fitment_rows": [
+        {
+          "model": "AUDI A4 B5 (8D2) 94-01",
+          "modification": "1.6 (ADP, AHL, ANA, ARM) 74кВт/100лс 11.1994-10.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4613"
+        },
+        {
+          "model": "AUDI A4 B5 (8D2) 94-01",
+          "modification": "1.8 (ADR, APT, ARG, AVV) 92кВт/125лс 11.1994-11.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4614"
+        },
+        {
+          "model": "AUDI A4 B5 (8D2) 94-01",
+          "modification": "1.8 (AFY) 85кВт/115лс 04.1995-11.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14853"
+        },
+        {
+          "model": "AUDI A4 B5 (8D2) 94-01",
+          "modification": "1.8 quattro (ADR, APT, ARG) 92кВт/125лс 01.1995-11.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=4619"
+        },
+        {
+          "model": "AUDI A4 B5 (8D2) 94-01",
+          "modification": "1.8 quattro (AFY) 85кВт/115лс 07.1995-11.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14856"
+        }
+      ],
+      "applicability_make": "AUDI",
+      "OEM_group_label_as_on_manufacturer_page": "VAG",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1198.jpg",
+      "photo_sha256": "0cb111f8f66ff75884cc8774eaa06c725be129a67b1f3736587a16aa355e8c1b",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "4B0121251G",
+      "fitment": "AUDI A4 B5 (8D2) 94-01 1.6 (ADP, AHL, ANA, ARM) 74кВт/100лс 11.1994-10.2000; AUDI A4 B5 (8D2) 94-01 1.8 (ADR, APT, ARG, AVV) 92кВт/125лс 11.1994-11.2000; AUDI A4 B5 (8D2) 94-01 1.8 (AFY) 85кВт/115лс 04.1995-11.2000",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1238",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814196",
+      "source_checked_at_utc": "2026-11-18T10:08:35.154797+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1238.html",
+      "page_captured_at_utc": "2026-11-18T10:08:40.194528+00:00",
+      "manufacturer_page_sha256": "a06fa5a10a7c5ad2061a08d223587a8db14f5d4760d1e618fd8a6904bf17f6c3",
+      "manufacturer_MPN": "XG-1238",
+      "product_title": "Радиатор охлаждения Арт. XG-1238",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "VOLVO",
+          "8602675"
+        ],
+        [
+          "VOLVO",
+          "8602804"
+        ],
+        [
+          "VOLVO",
+          "8602865"
+        ],
+        [
+          "VOLVO",
+          "8602866"
+        ],
+        [
+          "VOLVO",
+          "8603619"
+        ],
+        [
+          "VOLVO",
+          "31293550"
+        ],
+        [
+          "VOLVO",
+          "31305171"
+        ],
+        [
+          "VOLVO",
+          "36000087"
+        ],
+        [
+          "VOLVO",
+          "36000464"
+        ],
+        [
+          "VOLVO",
+          "36002408"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "VOLVO": 9
+      },
+      "OEM_make": "VOLVO",
+      "OEM_raw": "8602675",
+      "OEM": "8602675",
+      "fitment_rows": [
+        {
+          "model": "VOLVO XC90 I (275) 02-14",
+          "modification": "2.5 T AWD (B 5254 T2) 154кВт/209лс 10.2002-09.2014",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16570"
+        },
+        {
+          "model": "VOLVO XC90 I (275) 02-14",
+          "modification": "3.2 AWD (B 6324 S) 175кВт/238лс 03.2006-12.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=23056"
+        },
+        {
+          "model": "VOLVO XC90 I (275) 02-14",
+          "modification": "3.2 AWD (B 6324 S5) 179кВт/243лс 04.2010-12.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=12490"
+        },
+        {
+          "model": "VOLVO XC90 I (275) 02-14",
+          "modification": "D3 / D5 (D 5244 T5) 120кВт/163лс 04.2009-12.2014",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31478"
+        },
+        {
+          "model": "VOLVO XC90 I (275) 02-14",
+          "modification": "D5 AWD (D 5244 T) 120кВт/163лс 10.2002-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16572"
+        }
+      ],
+      "applicability_make": "VOLVO",
+      "OEM_group_label_as_on_manufacturer_page": "VOLVO",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1238.jpg",
+      "photo_sha256": "1722a64a3865cf8fe33b6aff7dfbf8cae13dd17126150fa142d81aeb98146774",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "8602675",
+      "fitment": "VOLVO XC90 I (275) 02-14 2.5 T AWD (B 5254 T2) 154кВт/209лс 10.2002-09.2014; VOLVO XC90 I (275) 02-14 3.2 AWD (B 6324 S) 175кВт/238лс 03.2006-12.2010; VOLVO XC90 I (275) 02-14 3.2 AWD (B 6324 S5) 179кВт/243лс 04.2010-12.2012",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1287",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814269",
+      "source_checked_at_utc": "2026-11-18T10:09:01.898560+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1287.html",
+      "page_captured_at_utc": "2026-11-18T10:09:04.197970+00:00",
+      "manufacturer_page_sha256": "3fb50bb92799532e099e8809879ff7fe2378068bfea49e46beddd8d1b84d7687",
+      "manufacturer_MPN": "XG-1287",
+      "product_title": "Радиатор охлаждения Арт. XG-1287",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "GENERALMOTORS",
+          "13267651"
+        ],
+        [
+          "GENERALMOTORS",
+          "52422263"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHEVROLET": 6
+      },
+      "OEM_make": "GENERALMOTORS",
+      "OEM_raw": "13267651",
+      "OEM": "13267651",
+      "fitment_rows": [
+        {
+          "model": "CHEVROLET CRUZE (J300) 09-",
+          "modification": "1.6 (LDE) 83кВт/113лс 05.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31469"
+        },
+        {
+          "model": "CHEVROLET CRUZE (J300) 09-",
+          "modification": "1.6 (LDE) 91кВт/124лс 05.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=8711"
+        },
+        {
+          "model": "CHEVROLET CRUZE (J300) 09-",
+          "modification": "1.6 (LXT) 80кВт/109лс 05.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=8771"
+        },
+        {
+          "model": "CHEVROLET CRUZE Hatchback (J305) 11-",
+          "modification": "1.6 (LDE) 91кВт/124лс 06.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10352"
+        },
+        {
+          "model": "CHEVROLET CRUZE Hatchback (J305) 11-",
+          "modification": "1.6 (LXT) 80кВт/109лс 01.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=13913"
+        }
+      ],
+      "applicability_make": "CHEVROLET",
+      "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1287.jpg",
+      "photo_sha256": "72e5ffb915521254c320017cf33e283e70aadc219475371539b336dee65a0342",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "13267651",
+      "fitment": "CHEVROLET CRUZE (J300) 09- 1.6 (LDE) 83кВт/113лс 05.2009-; CHEVROLET CRUZE (J300) 09- 1.6 (LDE) 91кВт/124лс 05.2009-; CHEVROLET CRUZE (J300) 09- 1.6 (LXT) 80кВт/109лс 05.2009-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1010",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814156",
+      "source_checked_at_utc": "2026-11-18T10:10:22.391122+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1010.html",
+      "page_captured_at_utc": "2026-11-18T10:10:27.829054+00:00",
+      "manufacturer_page_sha256": "375fd7964922369e731c92dab9b14bba26708c9675aebc6a6d2fcb0799cb4c32",
+      "manufacturer_MPN": "XC-1010",
+      "product_title": "Радиатор кондиционера Арт. XC-1010",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "92100-4BE0A"
+        ],
+        [
+          "NISSAN",
+          "92100-4EA0A"
+        ],
+        [
+          "NISSAN",
+          "92110-00Q0A"
+        ],
+        [
+          "RENAULT",
+          "92 10 069 51R"
+        ],
+        [
+          "RENAULT",
+          "92 10 092 51R"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 10,
+        "RENAULT": 8
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "92100-4BE0A",
+      "OEM": "921004BE0A",
+      "fitment_rows": [
+        {
+          "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+          "modification": "1.2 DIG-T (HRA2DDT) 85кВт/115лс 11.2013-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100506"
+        },
+        {
+          "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+          "modification": "1.5 dCi (K9K 636, K9K 646) 81кВт/110лс 11.2013-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100507"
+        },
+        {
+          "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+          "modification": "1.6 dCi (R9M) 96кВт/130лс 11.2013-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100508"
+        },
+        {
+          "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+          "modification": "1.6 dCi ALL MODE 4WD-i (R9M) 96кВт/130лс 11.2013-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100509"
+        },
+        {
+          "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+          "modification": "2.0 (J11E) (MR20DD) 106кВт/144лс 06.2014-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=108311"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1010.jpg",
+      "photo_sha256": "243052dfc63add7fa5a879235f45785f50313a879b719370226d55ca3b0a8afe",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "921004BE0A",
+      "fitment": "NISSAN QASHQAI II (J11, J11_) 13- 1.2 DIG-T (HRA2DDT) 85кВт/115лс 11.2013-; NISSAN QASHQAI II (J11, J11_) 13- 1.5 dCi (K9K 636, K9K 646) 81кВт/110лс 11.2013-; NISSAN QASHQAI II (J11, J11_) 13- 1.6 dCi (R9M) 96кВт/130лс 11.2013-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1012",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814151",
+      "source_checked_at_utc": "2026-11-18T10:10:22.392491+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1012.html",
+      "page_captured_at_utc": "2026-11-18T10:10:28.274213+00:00",
+      "manufacturer_page_sha256": "19281e632d345119cc5f2fad29195fed4516ed425748fb5074dbb0da539c11ec",
+      "manufacturer_MPN": "XC-1012",
+      "product_title": "Радиатор кондиционера Арт. XC-1012",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FORD",
+          "1 405 365"
+        ],
+        [
+          "FORD",
+          "1 437 112"
+        ],
+        [
+          "FORD",
+          "1 453 365"
+        ],
+        [
+          "FORD",
+          "1 677 879"
+        ],
+        [
+          "FORD",
+          "1 710 241"
+        ],
+        [
+          "FORD",
+          "1 710 860"
+        ],
+        [
+          "FORD",
+          "2 015 504"
+        ],
+        [
+          "LANDROVER",
+          "LR000566"
+        ],
+        [
+          "LANDROVER",
+          "LR023921"
+        ],
+        [
+          "VOLVO",
+          "30680275"
+        ],
+        [
+          "VOLVO",
+          "30741670"
+        ],
+        [
+          "VOLVO",
+          "30794544"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "FORD": 62,
+        "LAND ROVER": 14,
+        "VOLVO": 57
+      },
+      "OEM_make": "FORD",
+      "OEM_raw": "1 405 365",
+      "OEM": "1405365",
+      "fitment_rows": [
+        {
+          "model": "FORD GALAXY II (WA6) 06-15",
+          "modification": "1.6 EcoBoost (JTWA, JTWB) 118кВт/160лс 11.2010-06.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=6932"
+        },
+        {
+          "model": "FORD GALAXY II (WA6) 06-15",
+          "modification": "1.6 TDCi (T1WA, T1WB) 85кВт/115лс 02.2011-06.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=6802"
+        },
+        {
+          "model": "FORD GALAXY II (WA6) 06-15",
+          "modification": "1.8 TDCi (FFWA) 74кВт/100лс 05.2006-06.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19438"
+        },
+        {
+          "model": "FORD GALAXY II (WA6) 06-15",
+          "modification": "1.8 TDCi (QYWA) 92кВт/125лс 05.2006-06.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19714"
+        },
+        {
+          "model": "FORD GALAXY II (WA6) 06-15",
+          "modification": "2.0 (AOWA, AOWB, TBWA, TBWB) 107кВт/145лс 05.2006-06.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19437"
+        }
+      ],
+      "applicability_make": "FORD",
+      "OEM_group_label_as_on_manufacturer_page": "FORD",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1012.jpg",
+      "photo_sha256": "7baa94a5bc0eea0473dd5dcc6a0b77652616e4f416daa5f049bf3aeab1b0a8bd",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1405365",
+      "fitment": "FORD GALAXY II (WA6) 06-15 1.6 EcoBoost (JTWA, JTWB) 118кВт/160лс 11.2010-06.2015; FORD GALAXY II (WA6) 06-15 1.6 TDCi (T1WA, T1WB) 85кВт/115лс 02.2011-06.2015; FORD GALAXY II (WA6) 06-15 1.8 TDCi (FFWA) 74кВт/100лс 05.2006-06.2015",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1021",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814138",
+      "source_checked_at_utc": "2026-11-18T10:10:33.837334+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1021.html",
+      "page_captured_at_utc": "2026-11-18T10:10:40.620096+00:00",
+      "manufacturer_page_sha256": "c2606da3dc4e98d64b5907f44ff6a0819e3a0bbe0875fa83d318db5194303c63",
+      "manufacturer_MPN": "XC-1021",
+      "product_title": "Радиатор кондиционера Арт. XC-1021",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "VAG",
+          "6C0 816 411"
+        ],
+        [
+          "VAG",
+          "6C0 816 411 A"
+        ],
+        [
+          "VAG",
+          "6C0 816 411 B"
+        ],
+        [
+          "VAG",
+          "6C0 816 411 C"
+        ],
+        [
+          "VAG",
+          "6C0 816 411 D"
+        ],
+        [
+          "VAG",
+          "6R0 820 411"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 A"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 AA"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 AB"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 AC"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 D"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 E"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 G"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 H"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 J"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 M"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 N"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 P"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 Q"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 R"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 S"
+        ],
+        [
+          "VAG",
+          "6R0 820 411 T"
+        ],
+        [
+          "VAG",
+          "L 34D 820 411"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "AUDI": 29,
+        "SEAT": 85,
+        "SKODA": 60,
+        "VOLKSWAGEN": 32
+      },
+      "OEM_make": "VAG",
+      "OEM_raw": "6C0 816 411",
+      "OEM": "6C0816411",
+      "fitment_rows": [
+        {
+          "model": "AUDI A1 (8X1, 8XK) 10-18",
+          "modification": "1.0 TFSI (CHZB, DKLD) 70кВт/95лс 03.2015-10.2018",
+          "url": "https://sufix.pro/selection_parts.html?na_id=112018"
+        },
+        {
+          "model": "AUDI A1 (8X1, 8XK) 10-18",
+          "modification": "1.0 TFSI (CHZE) 60кВт/82лс 01.2016-10.2018",
+          "url": "https://sufix.pro/selection_parts.html?na_id=118024"
+        },
+        {
+          "model": "AUDI A1 (8X1, 8XK) 10-18",
+          "modification": "1.2 TFSI (CBZA) 63кВт/86лс 05.2010-04.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33303"
+        },
+        {
+          "model": "AUDI A1 (8X1, 8XK) 10-18",
+          "modification": "1.4 TDI (CUSB) 66кВт/90лс 11.2014-10.2018",
+          "url": "https://sufix.pro/selection_parts.html?na_id=108165"
+        },
+        {
+          "model": "AUDI A1 (8X1, 8XK) 10-18",
+          "modification": "1.4 TFSI (CAVG, CTHG) 136кВт/185лс 01.2011-04.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9304"
+        }
+      ],
+      "applicability_make": "AUDI",
+      "OEM_group_label_as_on_manufacturer_page": "VAG",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1021.jpg",
+      "photo_sha256": "75c701f40e37e4948ea3c062e3581d0fd182580cfcd5f2ea1891a37e6364fac6",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "6C0816411",
+      "fitment": "AUDI A1 (8X1, 8XK) 10-18 1.0 TFSI (CHZB, DKLD) 70кВт/95лс 03.2015-10.2018; AUDI A1 (8X1, 8XK) 10-18 1.0 TFSI (CHZE) 60кВт/82лс 01.2016-10.2018; AUDI A1 (8X1, 8XK) 10-18 1.2 TFSI (CBZA) 63кВт/86лс 05.2010-04.2015",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1022",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814140",
+      "source_checked_at_utc": "2026-11-18T10:10:44.939103+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1022.html",
+      "page_captured_at_utc": "2026-11-18T10:10:51.369823+00:00",
+      "manufacturer_page_sha256": "2a90ddbd85801701476c07f92f6d6038fc40ad8b2881f36f3bf15722fb1e7236",
+      "manufacturer_MPN": "XC-1022",
+      "product_title": "Радиатор кондиционера Арт. XC-1022",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "VAG",
+          "1K0 820 411 AC"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 AH"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 AJ"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 AK"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 B"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 D"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 E"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 F"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 G"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 H"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 N"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 P"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 Q"
+        ],
+        [
+          "VAG",
+          "1K0 820 411 S"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "AUDI": 52,
+        "SEAT": 67,
+        "SKODA": 92,
+        "VOLKSWAGEN": 255
+      },
+      "OEM_make": "VAG",
+      "OEM_raw": "1K0 820 411 AC",
+      "OEM": "1K0820411AC",
+      "fitment_rows": [
+        {
+          "model": "AUDI A3 (8P1) 03-12",
+          "modification": "1.2 TSI (CBZB) 77кВт/105лс 04.2010-08.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33251"
+        },
+        {
+          "model": "AUDI A3 (8P1) 03-12",
+          "modification": "1.4 TFSI (CAXC, CMSA) 92кВт/125лс 09.2007-08.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=26581"
+        },
+        {
+          "model": "AUDI A3 (8P1) 03-12",
+          "modification": "1.6 (BGU, BSE, BSF, CCSA) 75кВт/102лс 05.2003-08.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17172"
+        },
+        {
+          "model": "AUDI A3 (8P1) 03-12",
+          "modification": "1.6 FSI (BAG, BLF, BLP) 85кВт/115лс 08.2003-09.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17578"
+        },
+        {
+          "model": "AUDI A3 (8P1) 03-12",
+          "modification": "1.6 TDI (CAYB) 66кВт/90лс 05.2009-08.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31316"
+        }
+      ],
+      "applicability_make": "AUDI",
+      "OEM_group_label_as_on_manufacturer_page": "VAG",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1022.jpg",
+      "photo_sha256": "75eec469d76fb594dc744f5f7047a969c8b423d0266e210c9cb0567e16fece14",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1K0820411AC",
+      "fitment": "AUDI A3 (8P1) 03-12 1.2 TSI (CBZB) 77кВт/105лс 04.2010-08.2012; AUDI A3 (8P1) 03-12 1.4 TFSI (CAXC, CMSA) 92кВт/125лс 09.2007-08.2012; AUDI A3 (8P1) 03-12 1.6 (BGU, BSE, BSF, CCSA) 75кВт/102лс 05.2003-08.2012",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1034",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814147",
+      "source_checked_at_utc": "2026-11-18T10:10:46.131038+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1034.html",
+      "page_captured_at_utc": "2026-11-18T10:10:50.644263+00:00",
+      "manufacturer_page_sha256": "47806add3ce3e6f4fd9f0c62f8f2530ac91ddcbbd53cc30bdaa554da7ec5e120",
+      "manufacturer_MPN": "XC-1034",
+      "product_title": "Радиатор кондиционера Арт. XC-1034",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "MAZDA",
+          "BP4K-61-480A"
+        ],
+        [
+          "MAZDA",
+          "BP4K-61-480B"
+        ],
+        [
+          "MAZDA",
+          "BP4K-61-480C"
+        ],
+        [
+          "MAZDA",
+          "BP4K-61-480D"
+        ],
+        [
+          "MAZDA",
+          "BPYK-61-480ZA"
+        ],
+        [
+          "MAZDA",
+          "BPYK-61-48Z"
+        ],
+        [
+          "MAZDA",
+          "BPYK-61-48ZA"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "MAZDA": 11
+      },
+      "OEM_make": "MAZDA",
+      "OEM_raw": "BP4K-61-480A",
+      "OEM": "BP4K61480A",
+      "fitment_rows": [
+        {
+          "model": "MAZDA 3 | AXELA (BK) 03-09",
+          "modification": "1.3 (BK14) (ZJ07, ZJ30, ZJ32) 62кВт/84лс 10.2003-06.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18099"
+        },
+        {
+          "model": "MAZDA 3 | AXELA (BK) 03-09",
+          "modification": "1.6 (BK14) (Z601, Z627) 77кВт/105лс 10.2003-06.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17669"
+        },
+        {
+          "model": "MAZDA 3 | AXELA (BK) 03-09",
+          "modification": "2.0 (BKEP) (LF50, LF72, LFDE, LFN7, LFN8, LFVE) 110кВт/150лс 10.2003-12.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17670"
+        },
+        {
+          "model": "MAZDA 3 | AXELA (BK) 03-09",
+          "modification": "2.3 MPS Turbo (BK14) (L3M6) 191кВт/260лс 12.2006-06.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=23264"
+        },
+        {
+          "model": "MAZDA 3 | AXELA Saloon (BK) 03-09",
+          "modification": "1.6 (BK12) (Z601, Z627) 77кВт/105лс 02.2004-06.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17671"
+        }
+      ],
+      "applicability_make": "MAZDA",
+      "OEM_group_label_as_on_manufacturer_page": "MAZDA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1034.jpg",
+      "photo_sha256": "54b0ac3ae098998019b3057d986a19463373a0c5a7067b097b6bd7eac56193ea",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "BP4K61480A",
+      "fitment": "MAZDA 3 | AXELA (BK) 03-09 1.3 (BK14) (ZJ07, ZJ30, ZJ32) 62кВт/84лс 10.2003-06.2009; MAZDA 3 | AXELA (BK) 03-09 1.6 (BK14) (Z601, Z627) 77кВт/105лс 10.2003-06.2009; MAZDA 3 | AXELA (BK) 03-09 2.0 (BKEP) (LF50, LF72, LFDE, LFN7, LFN8, LFVE) 110кВт/150лс 10.2003-12.2009",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1045",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814130",
+      "source_checked_at_utc": "2026-11-18T10:11:06.527720+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1045.html",
+      "page_captured_at_utc": "2026-11-18T10:11:07.847175+00:00",
+      "manufacturer_page_sha256": "b2a711d1d409046f7cbc441ed7083c1c1a17cbb425c13ce76b245566a91be808",
+      "manufacturer_MPN": "XC-1045",
+      "product_title": "Радиатор кондиционера Арт. XC-1045",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "97606-H5000"
+        ],
+        [
+          "HYUNDAIKIA",
+          "97606-H8000"
+        ],
+        [
+          "HYUNDAIKIA",
+          "97606-H8050"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "KIA": 1
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "97606-H5000",
+      "OEM": "97606H5000",
+      "fitment_rows": [
+        {
+          "model": "KIA RIO IV (YB, SC, FB) 17-",
+          "modification": "1.4 (G4LC) 74кВт/100лс 01.2017-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=134141"
+        }
+      ],
+      "applicability_make": "KIA",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1045.jpg",
+      "photo_sha256": "90435449327f0e7646c5e7bdbb82cf9f891db04f07c2b64f279ff984069ab1c5",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "97606H5000",
+      "fitment": "KIA RIO IV (YB, SC, FB) 17- 1.4 (G4LC) 74кВт/100лс 01.2017-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1052",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814144",
+      "source_checked_at_utc": "2026-11-18T10:11:12.336823+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1052.html",
+      "page_captured_at_utc": "2026-11-18T10:11:18.184039+00:00",
+      "manufacturer_page_sha256": "0cb22c6bcce228a55b9fb62b9e83c5ddf64a5583a7d0fc636a4a59fe8e981eca",
+      "manufacturer_MPN": "XC-1052",
+      "product_title": "Радиатор кондиционера Арт. XC-1052",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "GENERALMOTORS",
+          "96484931"
+        ],
+        [
+          "GENERALMOTORS",
+          "96804274"
+        ],
+        [
+          "GENERALMOTORS",
+          "96837834"
+        ],
+        [
+          "GENERALMOTORS",
+          "96844907"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHEVROLET": 14,
+        "DAEWOO": 7
+      },
+      "OEM_make": "GENERALMOTORS",
+      "OEM_raw": "96484931",
+      "OEM": "96484931",
+      "fitment_rows": [
+        {
+          "model": "CHEVROLET LACETTI (J200) 05-12",
+          "modification": "1.4 16V (L14(85CUL4)) 70кВт/95лс 03.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18536"
+        },
+        {
+          "model": "CHEVROLET LACETTI (J200) 05-12",
+          "modification": "1.6 (L44(96CUL4), LXT) 80кВт/109лс 03.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18537"
+        },
+        {
+          "model": "CHEVROLET LACETTI (J200) 05-12",
+          "modification": "1.8 (LDA) 67кВт/91лс 03.2005-12.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=106531"
+        },
+        {
+          "model": "CHEVROLET LACETTI (J200) 05-12",
+          "modification": "1.8 (LDA) 89кВт/121лс 08.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19770"
+        },
+        {
+          "model": "CHEVROLET LACETTI (J200) 05-12",
+          "modification": "1.8 (LDA) 90кВт/122лс 03.2005-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18538"
+        }
+      ],
+      "applicability_make": "CHEVROLET",
+      "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1052.jpg",
+      "photo_sha256": "d343f14538e49c09436a40cea605b6511050e827d5fc8905dcc93333985135f8",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "96484931",
+      "fitment": "CHEVROLET LACETTI (J200) 05-12 1.4 16V (L14(85CUL4)) 70кВт/95лс 03.2005-; CHEVROLET LACETTI (J200) 05-12 1.6 (L44(96CUL4), LXT) 80кВт/109лс 03.2005-; CHEVROLET LACETTI (J200) 05-12 1.8 (LDA) 67кВт/91лс 03.2005-12.2009",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1054",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814150",
+      "source_checked_at_utc": "2026-11-18T10:11:18.126554+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1054.html",
+      "page_captured_at_utc": "2026-11-18T10:11:23.701840+00:00",
+      "manufacturer_page_sha256": "1d0cadf36fed3a035ce59513acd1a001434990d6ead579eda35ea005ba7de68c",
+      "manufacturer_MPN": "XC-1054",
+      "product_title": "Радиатор кондиционера Арт. XC-1054",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "97606-2Y500"
+        ],
+        [
+          "HYUNDAIKIA",
+          "97606-2Y501"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HYUNDAI": 7,
+        "KIA": 5
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "97606-2Y500",
+      "OEM": "976062Y500",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "1.6 (G4FD) 99кВт/135лс 11.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9930"
+        },
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 (G4KD) 120кВт/163лс 01.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33131"
+        },
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 4WD (G4KD) 120кВт/163лс 01.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33132"
+        },
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 CVVT (G4KD) 110кВт/150лс 08.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=114089"
+        },
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 CVVT AWD (G4KD) 110кВт/150лс 08.2009-07.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=118799"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1054.jpg",
+      "photo_sha256": "7783c0a3a4893a3105a823e816f67a24135a116cd5647c9957c0e2295fce0e4c",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "976062Y500",
+      "fitment": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15 1.6 (G4FD) 99кВт/135лс 11.2010-; HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15 2.0 (G4KD) 120кВт/163лс 01.2010-; HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15 2.0 4WD (G4KD) 120кВт/163лс 01.2010-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1058",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814148",
+      "source_checked_at_utc": "2026-11-18T10:11:23.642416+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1058.html",
+      "page_captured_at_utc": "2026-11-18T10:11:29.533406+00:00",
+      "manufacturer_page_sha256": "be95bdd245bd6cf5ad280833989fbbdf14b15770c6f51ad17e9b1b6339379203",
+      "manufacturer_MPN": "XC-1058",
+      "product_title": "Радиатор кондиционера Арт. XC-1058",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "88450-02280"
+        ],
+        [
+          "TOYOTA",
+          "88450-02300"
+        ],
+        [
+          "TOYOTA",
+          "88450-02330"
+        ],
+        [
+          "TOYOTA",
+          "88450-02350"
+        ],
+        [
+          "TOYOTA",
+          "88450-02360"
+        ],
+        [
+          "TOYOTA",
+          "88450-12280"
+        ],
+        [
+          "TOYOTA",
+          "88450-12300"
+        ],
+        [
+          "TOYOTA",
+          "88460-02390"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 44
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "88450-02280",
+      "OEM": "8845002280",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA AURIS (_E18_) 12-18",
+          "modification": "1.3 (NRE180_) (1NR-FE) 73кВт/99лс 10.2012-12.2018",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57481"
+        },
+        {
+          "model": "TOYOTA AURIS (_E18_) 12-18",
+          "modification": "1.4 D-4D (NDE180_) (1ND-TV) 66кВт/90лс 10.2012-12.2018",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57455"
+        },
+        {
+          "model": "TOYOTA AURIS (_E18_) 12-18",
+          "modification": "1.6 (ZRE181_, ZRE185_) (1ZR-FAE) 97кВт/132лс 10.2012-12.2018",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57457"
+        },
+        {
+          "model": "TOYOTA AURIS | BLADE (_E15_) 06-12",
+          "modification": "1.33 Dual-VVTi (NRE150_) (1NR-FE) 73кВт/99лс 01.2010-09.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=34982"
+        },
+        {
+          "model": "TOYOTA AURIS | BLADE (_E15_) 06-12",
+          "modification": "1.33 Dual-VVTi (NRE150_) (1NR-FE) 74кВт/101лс 05.2009-09.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31115"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1058.jpg",
+      "photo_sha256": "1b4c43126d1009e2a979165dab0f19b331a00ae4fba51dcf9b2bc9f89270558c",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "8845002280",
+      "fitment": "TOYOTA AURIS (_E18_) 12-18 1.3 (NRE180_) (1NR-FE) 73кВт/99лс 10.2012-12.2018; TOYOTA AURIS (_E18_) 12-18 1.4 D-4D (NDE180_) (1ND-TV) 66кВт/90лс 10.2012-12.2018; TOYOTA AURIS (_E18_) 12-18 1.6 (ZRE181_, ZRE185_) (1ZR-FAE) 97кВт/132лс 10.2012-12.2018",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1059",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814155",
+      "source_checked_at_utc": "2026-11-18T10:11:29.708387+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1059.html",
+      "page_captured_at_utc": "2026-11-18T10:11:35.333845+00:00",
+      "manufacturer_page_sha256": "00bf524d2f5438c423d7d1470584694da070803556877d9aa2c83323d8cc6771",
+      "manufacturer_MPN": "XC-1059",
+      "product_title": "Радиатор кондиционера Арт. XC-1059",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "88460-0R030"
+        ],
+        [
+          "TOYOTA",
+          "88460-42110"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 9
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "88460-0R030",
+      "OEM": "884600R030",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+          "modification": "2.0 (ZSA42) (3ZR-FE) 107кВт/146лс 12.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=58746"
+        },
+        {
+          "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+          "modification": "2.0 4WD (ZSA44_) (3ZR-FAE) 111кВт/151лс 12.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=58618"
+        },
+        {
+          "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+          "modification": "2.0 4WD (ZSA44_) (3ZR-FAE) 112кВт/151лс 04.2015-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=113171"
+        },
+        {
+          "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+          "modification": "2.0 4WD (ZSA44) (3ZR-FE) 107кВт/146лс 12.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=42472"
+        },
+        {
+          "model": "TOYOTA RAV 4 IV (_A4_) 12-18",
+          "modification": "2.0 D (ALA40_) (1AD-FTV) 91кВт/124лс 12.2012-11.2018",
+          "url": "https://sufix.pro/selection_parts.html?na_id=58616"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1059.jpg",
+      "photo_sha256": "f22d589519f4e38d89aa678cd3ab72426b19db1e09f6e6cc6b32aeb89f35a4e3",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "884600R030",
+      "fitment": "TOYOTA RAV 4 IV (_A4_) 12-18 2.0 (ZSA42) (3ZR-FE) 107кВт/146лс 12.2012-; TOYOTA RAV 4 IV (_A4_) 12-18 2.0 4WD (ZSA44_) (3ZR-FAE) 111кВт/151лс 12.2012-; TOYOTA RAV 4 IV (_A4_) 12-18 2.0 4WD (ZSA44_) (3ZR-FAE) 112кВт/151лс 04.2015-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1060",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814152",
+      "source_checked_at_utc": "2026-11-18T10:11:35.360865+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1060.html",
+      "page_captured_at_utc": "2026-11-18T10:11:41.321034+00:00",
+      "manufacturer_page_sha256": "9185f2f4fbec1c6b156979f63067a03c8481acca6dc108aae9bb98a0bed16b41",
+      "manufacturer_MPN": "XC-1060",
+      "product_title": "Радиатор кондиционера Арт. XC-1060",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "88460-06210"
+        ],
+        [
+          "TOYOTA",
+          "88460-07060"
+        ],
+        [
+          "TOYOTA",
+          "88460-33100"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "LEXUS": 2,
+        "TOYOTA": 9
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "88460-06210",
+      "OEM": "8846006210",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "2.4 (ACV40_) (2AZ-FE) 123кВт/167лс 01.2006-09.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=34837"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "2.4 (ACV40_) (2AZ-FE) 127кВт/173лс 01.2006-09.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57752"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "2.4 (ACV40) (2AZ-FE) 116кВт/158лс 01.2006-09.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20332"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "3.5 (GSV40_) (2GR-FE) 200кВт/272лс 01.2006-12.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=49204"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "3.5 (GSV40_) (2GR-FE) 204кВт/277лс 09.2006-12.2014",
+          "url": "https://sufix.pro/selection_parts.html?na_id=11803"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1060.jpg",
+      "photo_sha256": "b9d9517c0d178811991b434e5ad7f44b388150271de244ad9aa892aee70e3512",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "8846006210",
+      "fitment": "TOYOTA CAMRY Saloon (_V4_) 06-14 2.4 (ACV40_) (2AZ-FE) 123кВт/167лс 01.2006-09.2011; TOYOTA CAMRY Saloon (_V4_) 06-14 2.4 (ACV40_) (2AZ-FE) 127кВт/173лс 01.2006-09.2011; TOYOTA CAMRY Saloon (_V4_) 06-14 2.4 (ACV40) (2AZ-FE) 116кВт/158лс 01.2006-09.2011",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1070",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814236",
+      "source_checked_at_utc": "2026-11-18T10:05:11.295916+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1070.html",
+      "page_captured_at_utc": "2026-11-18T10:05:17.029541+00:00",
+      "manufacturer_page_sha256": "9bfccfec7760064a59a3aad62db703da8ad35b2997a7a250409d256e3f08d194",
+      "manufacturer_MPN": "XG-1070",
+      "product_title": "Радиатор охлаждения Арт. XG-1070",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "25310-1H015"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25310-1H016"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25310-1H050"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25310-1H060"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25310-2H050"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25310-2H060"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HYUNDAI": 9,
+        "KIA": 15
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "25310-1H015",
+      "OEM": "253101H015",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI ELANTRA IV Saloon (HD) 05-11",
+          "modification": "1.6 CVVT (G4FC) 90кВт/122лс 06.2006-06.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=7305"
+        },
+        {
+          "model": "HYUNDAI ELANTRA IV Saloon (HD) 05-11",
+          "modification": "2.0 CVVT (G4GC) 103кВт/140лс 06.2006-05.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18892"
+        },
+        {
+          "model": "HYUNDAI i30 (FD) I 07-11",
+          "modification": "1.6 (G4FC) 85кВт/116лс 10.2007-11.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=28580"
+        },
+        {
+          "model": "HYUNDAI i30 (FD) I 07-11",
+          "modification": "1.6 (G4FC) 90кВт/122лс 10.2007-11.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=23434"
+        },
+        {
+          "model": "HYUNDAI i30 (FD) I 07-11",
+          "modification": "1.6 (G4FC) 93кВт/126лс 02.2008-11.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=30900"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1070.jpg",
+      "photo_error_class": "ReadTimeout",
+      "photo_recovery_attempted_once": true,
+      "photo_recovery_time_utc": "2026-11-18T10:12:57.030383+00:00",
+      "photo_sha256": "34a58e943fa5c546339a34bac494b449cb6e10a640e27e301903e841ae4b18ce",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "photo_recovery_succeeded": true,
+      "oem": "253101H015",
+      "fitment": "HYUNDAI ELANTRA IV Saloon (HD) 05-11 1.6 CVVT (G4FC) 90кВт/122лс 06.2006-06.2011; HYUNDAI ELANTRA IV Saloon (HD) 05-11 2.0 CVVT (G4GC) 103кВт/140лс 06.2006-05.2010; HYUNDAI i30 (FD) I 07-11 1.6 (G4FC) 85кВт/116лс 10.2007-11.2011",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1071",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814268",
+      "source_checked_at_utc": "2026-11-18T10:05:17.364453+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1071.html",
+      "page_captured_at_utc": "2026-11-18T10:05:23.078835+00:00",
+      "manufacturer_page_sha256": "2aa9aa1ee28bfc98f2d41c4b3d5359dd889849ebcac208d281f0afea40aaa386",
+      "manufacturer_MPN": "XG-1071",
+      "product_title": "Радиатор охлаждения Арт. XG-1071",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "25310-1C200"
+        ],
+        [
+          "HYUNDAIKIA",
+          "25310-1C206"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HYUNDAI": 5
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "25310-1C200",
+      "OEM": "253101C200",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.1 (G4HD) 46кВт/63лс 09.2002-09.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16978"
+        },
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.1 (G4HD) 49кВт/67лс 09.2005-06.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19715"
+        },
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.3 (G4EA) 63кВт/85лс 09.2003-09.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18027"
+        },
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.3 i (G4EA) 60кВт/82лс 09.2002-03.2004",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16814"
+        },
+        {
+          "model": "HYUNDAI GETZ (TB) 02-10",
+          "modification": "1.4 i (G4EE) 71кВт/97лс 08.2005-12.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19917"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1071.jpg",
+      "photo_error_class": "ReadTimeout",
+      "photo_recovery_attempted_once": true,
+      "photo_recovery_time_utc": "2026-11-18T10:12:57.035683+00:00",
+      "photo_sha256": "ddb06ce83cc67b22bd2bffa32d7e62e2ce7e5b432c56dc67ec692b1aba1d88bd",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "photo_recovery_succeeded": true,
+      "oem": "253101C200",
+      "fitment": "HYUNDAI GETZ (TB) 02-10 1.1 (G4HD) 46кВт/63лс 09.2002-09.2005; HYUNDAI GETZ (TB) 02-10 1.1 (G4HD) 49кВт/67лс 09.2005-06.2009; HYUNDAI GETZ (TB) 02-10 1.3 (G4EA) 63кВт/85лс 09.2003-09.2005",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XG1104",
+      "category": "Радиаторы охлаждения",
+      "supplier_nomenclature": "NSII0028814250",
+      "source_checked_at_utc": "2026-11-18T10:06:30.687470+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XG-1104.html",
+      "page_captured_at_utc": "2026-11-18T10:06:36.719120+00:00",
+      "manufacturer_page_sha256": "756997be5cf88a8b15d60ccca4ae32d1d5686d4b926595b716e19ae59a8f5803",
+      "manufacturer_MPN": "XG-1104",
+      "product_title": "Радиатор охлаждения Арт. XG-1104",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "16400-0P360"
+        ],
+        [
+          "TOYOTA",
+          "16400-0P380"
+        ],
+        [
+          "TOYOTA",
+          "16400-0V130"
+        ],
+        [
+          "TOYOTA",
+          "16400-36240"
+        ],
+        [
+          "TOYOTA",
+          "16400-36250"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 2
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "16400-0P360",
+      "OEM": "164000P360",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA CAMRY Saloon (_V5_) 11-17",
+          "modification": "2.5 (ASV50_) (2AR-FE) 133кВт/181лс 09.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=9445"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V5_) 11-17",
+          "modification": "3.5 (GSV50_) (2GR-FE) 204кВт/277лс 09.2011-12.2017",
+          "url": "https://sufix.pro/selection_parts.html?na_id=50523"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XG-1104.jpg",
+      "photo_error_class": "ReadTimeout",
+      "photo_recovery_attempted_once": true,
+      "photo_recovery_time_utc": "2026-11-18T10:13:09.425086+00:00",
+      "photo_sha256": "fe932722b79765bf67a7ca45549ac06a322e4bedf1ea77e93f778e58682a1829",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "photo_recovery_succeeded": true,
+      "oem": "164000P360",
+      "fitment": "TOYOTA CAMRY Saloon (_V5_) 11-17 2.5 (ASV50_) (2AR-FE) 133кВт/181лс 09.2011-; TOYOTA CAMRY Saloon (_V5_) 11-17 3.5 (GSV50_) (2GR-FE) 204кВт/277лс 09.2011-12.2017",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1005",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0027932437",
+      "source_checked_at_utc": "2026-11-18T10:10:09.261551+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1005.html",
+      "page_captured_at_utc": "2026-11-18T10:10:16.816193+00:00",
+      "manufacturer_page_sha256": "614b24c360fa610f90ca9a589c6cfb3fbaac972d62f668581904c4cc3e6b70ea",
+      "manufacturer_MPN": "XC-1005",
+      "product_title": "Радиатор кондиционера Арт. XC-1005",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "LADA",
+          "8450047496"
+        ],
+        [
+          "NISSAN",
+          "27650-00Q2K"
+        ],
+        [
+          "RENAULT",
+          "92 10 017 27R"
+        ],
+        [
+          "RENAULT",
+          "92 10 019 08R"
+        ],
+        [
+          "RENAULT",
+          "92 10 064 54R"
+        ],
+        [
+          "RENAULT",
+          "92 10 068 42R"
+        ],
+        [
+          "RENAULT",
+          "92 10 068 43R"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "RENAULT": 17
+      },
+      "OEM_make": "RENAULT",
+      "OEM_raw": "92 10 017 27R",
+      "OEM": "921001727R",
+      "fitment_rows": [
+        {
+          "model": "RENAULT CLIO IV (BH_) 12-",
+          "modification": "0.9 TCe 90 (H4B 400, H4B 408) 66кВт/90лс 11.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57401"
+        },
+        {
+          "model": "RENAULT CLIO IV (BH_) 12-",
+          "modification": "1.2 16V (D4F 728, D4F 740) 54кВт/73лс 11.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=57284"
+        },
+        {
+          "model": "RENAULT CLIO IV (BH_) 12-",
+          "modification": "1.2 TCe 120 (BHAU) (H5F 408, H5F 412) 87кВт/118лс 01.2016-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=119495"
+        },
+        {
+          "model": "RENAULT CLIO IV (BH_) 12-",
+          "modification": "1.2 TCe 120 (BHM0) (H5F 403) 88кВт/120лс 03.2013-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=58898"
+        },
+        {
+          "model": "RENAULT CLIO IV (BH_) 12-",
+          "modification": "1.5 dCi 110 (K9K 646) 81кВт/110лс 06.2016-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=122130"
+        }
+      ],
+      "applicability_make": "RENAULT",
+      "OEM_group_label_as_on_manufacturer_page": "RENAULT",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1005.jpg",
+      "photo_error_class": "ReadTimeout",
+      "photo_recovery_attempted_once": true,
+      "photo_recovery_time_utc": "2026-11-18T10:13:20.011705+00:00",
+      "photo_sha256": "5cac2717f0abb7ea70f2652dcad0f3111b9ad0b82dd3d158b7eca102adeaee96",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "photo_recovery_succeeded": true,
+      "oem": "921001727R",
+      "fitment": "RENAULT CLIO IV (BH_) 12- 0.9 TCe 90 (H4B 400, H4B 408) 66кВт/90лс 11.2012-; RENAULT CLIO IV (BH_) 12- 1.2 16V (D4F 728, D4F 740) 54кВт/73лс 11.2012-; RENAULT CLIO IV (BH_) 12- 1.2 TCe 120 (BHAU) (H5F 408, H5F 412) 87кВт/118лс 01.2016-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
+    },
+    {
+      "brand": "SUFIX",
+      "article": "XC1009",
+      "category": "Радиаторы кондиционера",
+      "supplier_nomenclature": "NSII0028814143",
+      "source_checked_at_utc": "2026-11-18T10:10:09.280969+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/XC-1009.html",
+      "page_captured_at_utc": "2026-11-18T10:10:16.897816+00:00",
+      "manufacturer_page_sha256": "4668915c1bf7d1885bab4dc0d9cb162568be3d267bb5afd260b358df27db5503",
+      "manufacturer_MPN": "XC-1009",
+      "product_title": "Радиатор кондиционера Арт. XC-1009",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "92100-AX800"
+        ],
+        [
+          "NISSAN",
+          "92100-AX801"
+        ],
+        [
+          "NISSAN",
+          "92100-AX80B"
+        ],
+        [
+          "NISSAN",
+          "92100-BA60A"
+        ],
+        [
+          "NISSAN",
+          "92100-BH40A"
+        ],
+        [
+          "NISSAN",
+          "92100-EL000"
+        ],
+        [
+          "NISSAN",
+          "92100-EL00A"
+        ],
+        [
+          "NISSAN",
+          "92100-EW80A"
+        ],
+        [
+          "NISSAN",
+          "92100-ZW40A"
+        ],
+        [
+          "NISSAN",
+          "92100-ZW40D"
+        ],
+        [
+          "NISSAN",
+          "92110-1U600"
+        ],
+        [
+          "NISSAN",
+          "92110-BA60A"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 10
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "92100-AX800",
+      "OEM": "92100AX800",
+      "fitment_rows": [
+        {
+          "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+          "modification": "1.6 (HR16DE) 81кВт/110лс 09.2007-12.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=23467"
+        },
+        {
+          "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+          "modification": "1.8 (MR18DE) 78кВт/106лс 01.2007-06.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=55840"
+        },
+        {
+          "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+          "modification": "1.8 (MR18DE) 90кВт/122лс 07.2007-04.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=47364"
+        },
+        {
+          "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+          "modification": "1.8 (MR18DE) 91кВт/124лс 02.2006-12.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=50647"
+        },
+        {
+          "model": "NISSAN TIIDA Hatchback (C11) 04-12",
+          "modification": "1.8 (MR18DE) 93кВт/126лс 09.2007-12.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=23468"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/XC-1009.jpg",
+      "photo_error_class": "ReadTimeout",
+      "photo_recovery_attempted_once": true,
+      "photo_recovery_time_utc": "2026-11-18T10:13:20.116437+00:00",
+      "photo_sha256": "5e5a954266be09a6fdbebac914b1719860b0655a4448bf408c3e435d17156f63",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "photo_recovery_succeeded": true,
+      "oem": "92100AX800",
+      "fitment": "NISSAN TIIDA Hatchback (C11) 04-12 1.6 (HR16DE) 81кВт/110лс 09.2007-12.2011; NISSAN TIIDA Hatchback (C11) 04-12 1.8 (MR18DE) 78кВт/106лс 01.2007-06.2011; NISSAN TIIDA Hatchback (C11) 04-12 1.8 (MR18DE) 90кВт/122лс 07.2007-04.2009",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true
     }
   ]
 }
