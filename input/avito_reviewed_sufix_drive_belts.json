@@ -1,5 +1,5 @@
 {
-  "scope_sha256": "49baccf95658ee592a31d701aad57484ce31777e79ace91dbfe45fae081a964f",
+  "scope_sha256": "edcf5f7e03c31c6bad9c88df8883c0a5329b478ade149c3e60fb1fdfdf0a0860",
   "items": [
     {
       "brand": "SUFIX",
@@ -29587,6 +29587,1118 @@
       "photo_format": "JPEG",
       "oem": "44310S04300",
       "fitment": "HONDA CIVIC V Hatchback (EG) 91-95 1.3 16V (EG3) (D13B2) 55кВт/75лс 10.1991-11.1995; HONDA CIVIC V Saloon | CIVIC FERIO (EG, EH) 91-95 1.3 (EG7) (D13B2) 55кВт/75лс 01.1992-12.1992; HONDA CIVIC VI Hatchback (EJ, EK) 95-01 1.4 i S (EJ9) (D14A4, D14Z2, D14Z4) 66кВт/90лс 11.1995-02.2001",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1515",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061291",
+      "source_checked_at_utc": "2026-11-19T08:47:22.575917+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1515.html",
+      "page_captured_at_utc": "2026-11-19T08:47:26.809757+00:00",
+      "manufacturer_page_sha256": "bd054d8761e803e4d73b0101d99ce29f5fce58b13e9e27ad5f6794cb1655ee4f",
+      "manufacturer_MPN": "ST-1515",
+      "product_title": "ШРУС внутренний (Z 25x22) Арт. ST-1515",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "49500-1E001"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1E010"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1E011"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-1E051"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2H010"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2H011"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2H012"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2H010"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49505-2HA21"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49605-2HA00"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HYUNDAI": 35
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "49500-1E001",
+      "OEM": "495001E001",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI ACCENT II Saloon (LC, TAGAZ) 99-06",
+          "modification": "1.5 (G4EK) 69кВт/94лс 01.2000-12.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10958"
+        },
+        {
+          "model": "HYUNDAI ACCENT III (MC) | VERNA 05-10",
+          "modification": "1.4 GL (G4EE) 71кВт/97лс 11.2005-11.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19900"
+        },
+        {
+          "model": "HYUNDAI ACCENT III (MC) | VERNA 05-10",
+          "modification": "1.5 CRDi GLS (D4FA) 81кВт/110лс 11.2005-11.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19903"
+        },
+        {
+          "model": "HYUNDAI ACCENT III (MC) | VERNA 05-10",
+          "modification": "1.6 GLS (G4ED) 82кВт/112лс 11.2005-11.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19902"
+        },
+        {
+          "model": "HYUNDAI ACCENT III Saloon (MC) | VERNA 05-12",
+          "modification": "1.4 GL (G4EE) 71кВт/97лс 11.2005-11.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19904"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1515.2.jpg",
+      "photo_sha256": "2d1513bd2fba0b7c5b5e7c04aaf152a5eeff4f149eb2308e71ee5f46e0339066",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "495001E001",
+      "fitment": "HYUNDAI ACCENT II Saloon (LC, TAGAZ) 99-06 1.5 (G4EK) 69кВт/94лс 01.2000-12.2006; HYUNDAI ACCENT III (MC) | VERNA 05-10 1.4 GL (G4EE) 71кВт/97лс 11.2005-11.2010; HYUNDAI ACCENT III (MC) | VERNA 05-10 1.5 CRDi GLS (D4FA) 81кВт/110лс 11.2005-11.2010",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1519",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061295",
+      "source_checked_at_utc": "2026-11-19T08:47:32.548497+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1519.html",
+      "page_captured_at_utc": "2026-11-19T08:47:37.773625+00:00",
+      "manufacturer_page_sha256": "37dc7c232bb09ccc134957db3787fd923a3d0ae53245fb5844c99ba3dbd6f9f0",
+      "manufacturer_MPN": "ST-1519",
+      "product_title": "ШРУС внутренний справа (Z 28x24) Арт. ST-1519",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FORD",
+          "1 479 046"
+        ],
+        [
+          "FORD",
+          "1 510 735"
+        ],
+        [
+          "FORD",
+          "1 782 578"
+        ],
+        [
+          "FORD",
+          "2 282 998"
+        ],
+        [
+          "MAZDA",
+          "GG28-25-500"
+        ],
+        [
+          "MAZDA",
+          "GG28-25-500D"
+        ],
+        [
+          "MAZDA",
+          "GG28-25-500F"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "MAZDA": 2
+      },
+      "OEM_make": "MAZDA",
+      "OEM_raw": "GG28-25-500",
+      "OEM": "GG2825500",
+      "fitment_rows": [
+        {
+          "model": "MAZDA 3 | AXELA (BK) 03-09",
+          "modification": "2.0 (BKEP) (LF50, LF72, LFDE, LFN7, LFN8, LFVE) 110кВт/150лс 10.2003-12.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17670"
+        },
+        {
+          "model": "MAZDA 3 | AXELA Saloon (BK) 03-09",
+          "modification": "2.0 (BKEP) (LF50, LF72, LFDE, LFN7, LFN8, LFVE) 110кВт/150лс 10.2003-12.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17672"
+        }
+      ],
+      "applicability_make": "MAZDA",
+      "OEM_group_label_as_on_manufacturer_page": "MAZDA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1519.2.jpg",
+      "photo_sha256": "89addb08c6919164a8e28311e45bc5fdaad86328071b944a73d8c881a1cf93df",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "GG2825500",
+      "fitment": "MAZDA 3 | AXELA (BK) 03-09 2.0 (BKEP) (LF50, LF72, LFDE, LFN7, LFN8, LFVE) 110кВт/150лс 10.2003-12.2009; MAZDA 3 | AXELA Saloon (BK) 03-09 2.0 (BKEP) (LF50, LF72, LFDE, LFN7, LFN8, LFVE) 110кВт/150лс 10.2003-12.2009",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1526",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061302",
+      "source_checked_at_utc": "2026-11-19T08:47:41.795323+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1526.html",
+      "page_captured_at_utc": "2026-11-19T08:47:44.773486+00:00",
+      "manufacturer_page_sha256": "76d9da65a913ce2bbc656e6cfa95c361af5f5dd8e8f5ca426a131af1509f73fe",
+      "manufacturer_MPN": "ST-1526",
+      "product_title": "ШРУС внутренний слева (Z 24x32) Арт. ST-1526",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "43040-05070"
+        ],
+        [
+          "TOYOTA",
+          "43420-05140"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 3
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "43040-05070",
+      "OEM": "4304005070",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA AVENSIS (_T22_) 97-03",
+          "modification": "2.0 D-4D (CDT220_) (1CD-FTV) 81кВт/110лс 10.1999-02.2003",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14106"
+        },
+        {
+          "model": "TOYOTA AVENSIS Estate (_T22_) 97-03",
+          "modification": "2.0 D-4D (CDT220_) (1CD-FTV) 81кВт/110лс 10.1999-02.2003",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14107"
+        },
+        {
+          "model": "TOYOTA AVENSIS Liftback (_T22_) 97-03",
+          "modification": "2.0 D-4D (CDT220_) (1CD-FTV) 81кВт/110лс 10.1999-02.2003",
+          "url": "https://sufix.pro/selection_parts.html?na_id=14105"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1526.2.jpg",
+      "photo_sha256": "cc8a3e8043f6ce4f8ae032e7c1939dd88dfcd8b00b70886fa427fdc616209359",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "4304005070",
+      "fitment": "TOYOTA AVENSIS (_T22_) 97-03 2.0 D-4D (CDT220_) (1CD-FTV) 81кВт/110лс 10.1999-02.2003; TOYOTA AVENSIS Estate (_T22_) 97-03 2.0 D-4D (CDT220_) (1CD-FTV) 81кВт/110лс 10.1999-02.2003; TOYOTA AVENSIS Liftback (_T22_) 97-03 2.0 D-4D (CDT220_) (1CD-FTV) 81кВт/110лс 10.1999-02.2003",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1530",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061306",
+      "source_checked_at_utc": "2026-11-19T08:53:48.077191+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1530.html",
+      "page_captured_at_utc": "2026-11-19T08:53:49.833802+00:00",
+      "manufacturer_page_sha256": "22c92855a57ddf57897493700666d20bcc2918c5af9cf38c70c121d2409e8e23",
+      "manufacturer_MPN": "ST-1530",
+      "product_title": "ШРУС внутренний справа (Z 27x26) Арт. ST-1530",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "C9B04-4ED0A"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 1
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "C9B04-4ED0A",
+      "OEM": "C9B044ED0A",
+      "fitment_rows": [
+        {
+          "model": "NISSAN QASHQAI II (J11, J11_) 13-",
+          "modification": "2.0 ALL MODE 4WD-i (J11R) (MR20DD) 106кВт/144лс 10.2015-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=120309"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1530.2.jpg",
+      "photo_sha256": "46561ebd989b186a9af7fcb4d5cfacf35b9802c9cd2d884fc8c34b0c18910674",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "C9B044ED0A",
+      "fitment": "NISSAN QASHQAI II (J11, J11_) 13- 2.0 ALL MODE 4WD-i (J11R) (MR20DD) 106кВт/144лс 10.2015-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1531",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061307",
+      "source_checked_at_utc": "2026-11-19T08:47:49.613449+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1531.html",
+      "page_captured_at_utc": "2026-11-19T08:47:55.507769+00:00",
+      "manufacturer_page_sha256": "5f230e7cf8797e66d390d53026d261d1db39d987d082387293a3d30187442062",
+      "manufacturer_MPN": "ST-1531",
+      "product_title": "ШРУС внутренний справа (Z 24x27) Арт. ST-1531",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "43030-28010"
+        ],
+        [
+          "TOYOTA",
+          "43030-28011"
+        ],
+        [
+          "TOYOTA",
+          "43030-44020"
+        ],
+        [
+          "TOYOTA",
+          "43030-44021"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 25
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "43030-28010",
+      "OEM": "4303028010",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA ALPHARD / VELLFIRE (_H2_) 08-14",
+          "modification": "2.4 (ANH20W) (2AZ-FE) 125кВт/170лс 05.2008-12.2014",
+          "url": "https://sufix.pro/selection_parts.html?na_id=5848"
+        },
+        {
+          "model": "TOYOTA ALPHARD I (_H1_) 03-08",
+          "modification": "2.4 (ANH10W) (2AZ-FE) 117кВт/159лс 09.2003-04.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=25589"
+        },
+        {
+          "model": "TOYOTA AVENSIS VERSO | PICNIC | IPSUM (_M2_) 01-11",
+          "modification": "2.0 (ACM20_) (1AZ-FE) 110кВт/150лс 08.2001-11.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16026"
+        },
+        {
+          "model": "TOYOTA AVENSIS VERSO | PICNIC | IPSUM (_M2_) 01-11",
+          "modification": "2.0 D (CLM20_) (1CD-FTV) 85кВт/116лс 08.2001-08.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16027"
+        },
+        {
+          "model": "TOYOTA AVENSIS VERSO | PICNIC | IPSUM (_M2_) 01-11",
+          "modification": "2.4 (ACM21_) (2AZ-FE) 118кВт/160лс 05.2001-12.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=124816"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1531.2.jpg",
+      "photo_sha256": "a19bcf2242097e536df6b64fb1f74c236e6090741632cf6d1c6c77dbecd125a3",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "4303028010",
+      "fitment": "TOYOTA ALPHARD / VELLFIRE (_H2_) 08-14 2.4 (ANH20W) (2AZ-FE) 125кВт/170лс 05.2008-12.2014; TOYOTA ALPHARD I (_H1_) 03-08 2.4 (ANH10W) (2AZ-FE) 117кВт/159лс 09.2003-04.2008; TOYOTA AVENSIS VERSO | PICNIC | IPSUM (_M2_) 01-11 2.0 (ACM20_) (1AZ-FE) 110кВт/150лс 08.2001-11.2009",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1536",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061312",
+      "source_checked_at_utc": "2026-11-19T08:47:59.720480+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1536.html",
+      "page_captured_at_utc": "2026-11-19T08:48:05.277529+00:00",
+      "manufacturer_page_sha256": "313e14460c8574e6bb689f3fdf8df32aa6760a07a438e57ef5a1741ec3b06ea2",
+      "manufacturer_MPN": "ST-1536",
+      "product_title": "ШРУС внутренний (Z 27x33) Арт. ST-1536",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "49582-C1100"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49582-C1150"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49582-D4100"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49582-D4150"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HYUNDAI": 2,
+        "KIA": 3
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "49582-C1100",
+      "OEM": "49582C1100",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI SONATA VII (LF) 14-",
+          "modification": "2.0 CVVT (G4NA) 110кВт/150лс 11.2018-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=134379"
+        },
+        {
+          "model": "HYUNDAI SONATA VII (LF) 14-",
+          "modification": "2.4 (G4KJ) 138кВт/188лс 09.2014-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=107266"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1536.2.jpg",
+      "photo_sha256": "62d2cdf4d67286f127be2ad7766faf5724a3183704d5ae1aa1163785c3c6b9b9",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "49582C1100",
+      "fitment": "HYUNDAI SONATA VII (LF) 14- 2.0 CVVT (G4NA) 110кВт/150лс 11.2018-; HYUNDAI SONATA VII (LF) 14- 2.4 (G4KJ) 138кВт/188лс 09.2014-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1544",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061320",
+      "source_checked_at_utc": "2026-11-19T08:48:10.088456+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1544.html",
+      "page_captured_at_utc": "2026-11-19T08:48:15.365604+00:00",
+      "manufacturer_page_sha256": "42c1f6c3fad32a73012809e0d7cde19f0fcfdd717c57aed4f535fa86f9fd18b8",
+      "manufacturer_MPN": "ST-1544",
+      "product_title": "ШРУС внутренний справа (Z 25x23) Арт. ST-1544",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "39711-4M405"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 4
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "39711-4M405",
+      "OEM": "397114M405",
+      "fitment_rows": [
+        {
+          "model": "NISSAN BLUEBIRD SYLPHY I (G10, N16) 00-13",
+          "modification": "1.5 (FG10) (QG15DE) 77кВт/105лс 08.2000-08.2005",
+          "url": "https://sufix.pro/selection_parts.html?na_id=25247"
+        },
+        {
+          "model": "NISSAN SUNNY IV Saloon (B15) 97-03",
+          "modification": "1.3 (QG13DE) 64кВт/87лс 09.1997-03.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=25300"
+        },
+        {
+          "model": "NISSAN SUNNY IV Saloon (B15) 97-03",
+          "modification": "1.5 (QG15DE) 77кВт/105лс 09.1997-03.2000",
+          "url": "https://sufix.pro/selection_parts.html?na_id=25301"
+        },
+        {
+          "model": "NISSAN WINGROAD / AD Wagon (_Y11) 99-05",
+          "modification": "1.5 (QG15DE) 66кВт/90лс 05.1999-08.2004",
+          "url": "https://sufix.pro/selection_parts.html?na_id=22704"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1544.2.jpg",
+      "photo_sha256": "7417d7a3f4fec3399f24f24bd580f30d0e559e0ebc0fb756a582dc00083e8104",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "397114M405",
+      "fitment": "NISSAN BLUEBIRD SYLPHY I (G10, N16) 00-13 1.5 (FG10) (QG15DE) 77кВт/105лс 08.2000-08.2005; NISSAN SUNNY IV Saloon (B15) 97-03 1.3 (QG13DE) 64кВт/87лс 09.1997-03.2000; NISSAN SUNNY IV Saloon (B15) 97-03 1.5 (QG15DE) 77кВт/105лс 09.1997-03.2000",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1551",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061327",
+      "source_checked_at_utc": "2026-11-19T08:54:09.012978+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1551.html",
+      "page_captured_at_utc": "2026-11-19T08:54:11.685059+00:00",
+      "manufacturer_page_sha256": "1ad12d6e362f3eb16f1f69fb277a3de7ed6f41bcf151344ca549088ec3c213c6",
+      "manufacturer_MPN": "ST-1551",
+      "product_title": "ШРУС внутренний справа (Z 26x23) Арт. ST-1551",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FORD",
+          "1 552 930"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "FORD": 20,
+        "VOLVO": 1
+      },
+      "OEM_make": "FORD",
+      "OEM_raw": "1 552 930",
+      "OEM": "1552930",
+      "fitment_rows": [
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.6 (HWDA, HWDB, SHDA, SHDB, SHDC) 74кВт/100лс 10.2003-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17745"
+        },
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.6 Ti (HXDA, SIDA) 85кВт/115лс 08.2004-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18500"
+        },
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.8 (CSDA, CSDB) 88кВт/120лс 10.2003-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17630"
+        },
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.8 (Q7DA, QQDA, QQDB) 92кВт/125лс 04.2004-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18096"
+        },
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.8 Flexifuel (Q7DA) 92кВт/125лс 01.2006-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19262"
+        }
+      ],
+      "applicability_make": "FORD",
+      "OEM_group_label_as_on_manufacturer_page": "FORD",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1551.2.jpg",
+      "photo_sha256": "2f800bc6316104becfc011e5d63c0360a9ed1fcb61bd73e871718d34d157f1b8",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1552930",
+      "fitment": "FORD FOCUS C-MAX (DM2) 03-07 1.6 (HWDA, HWDB, SHDA, SHDB, SHDC) 74кВт/100лс 10.2003-03.2007; FORD FOCUS C-MAX (DM2) 03-07 1.6 Ti (HXDA, SIDA) 85кВт/115лс 08.2004-03.2007; FORD FOCUS C-MAX (DM2) 03-07 1.8 (CSDA, CSDB) 88кВт/120лс 10.2003-03.2007",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1559",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061335",
+      "source_checked_at_utc": "2026-11-19T08:48:26.122631+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1559.html",
+      "page_captured_at_utc": "2026-11-19T08:48:32.238344+00:00",
+      "manufacturer_page_sha256": "9f6343eceeedfff0e038eeb16eb740fb1445f19a38a11d6c4fc37f3337a5b7ff",
+      "manufacturer_MPN": "ST-1559",
+      "product_title": "ШРУС внутренний справа (Z 25x22) Арт. ST-1559",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "NISSAN",
+          "39100-95F0A"
+        ],
+        [
+          "NISSAN",
+          "39100-95F0B"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "NISSAN": 1
+      },
+      "OEM_make": "NISSAN",
+      "OEM_raw": "39100-95F0A",
+      "OEM": "3910095F0A",
+      "fitment_rows": [
+        {
+          "model": "NISSAN ALMERA Classic (B10) 06-",
+          "modification": "1.6 16V (QG16, QG16DE) 79кВт/107лс 03.2006-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=414"
+        }
+      ],
+      "applicability_make": "NISSAN",
+      "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1559.2.jpg",
+      "photo_sha256": "d4170aaf3c2f3b8c7d09bd90c8671736afd7129c1f67741ee7f127e31094dbab",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "3910095F0A",
+      "fitment": "NISSAN ALMERA Classic (B10) 06- 1.6 16V (QG16, QG16DE) 79кВт/107лс 03.2006-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1563",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061339",
+      "source_checked_at_utc": "2026-11-19T08:54:21.846464+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1563.html",
+      "page_captured_at_utc": "2026-11-19T08:48:41.945101+00:00",
+      "manufacturer_page_sha256": "6c036bab583643dfaac69364e216ad8a6451a2c0e841e8a79ed3d95f8087ac8f",
+      "manufacturer_MPN": "ST-1563",
+      "product_title": "ШРУС внутренний (Z 28) Арт. ST-1563",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "PORSCHE",
+          "955.349.90201"
+        ],
+        [
+          "VAG",
+          "2H0 407 271 DX"
+        ],
+        [
+          "VAG",
+          "7L0 407 331 A"
+        ],
+        [
+          "VAG",
+          "7L0 498 103"
+        ],
+        [
+          "VAG",
+          "7L0 498 103 A"
+        ],
+        [
+          "VAG",
+          "7L0 498 103 AX"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "VOLKSWAGEN": 1
+      },
+      "OEM_make": "VAG",
+      "OEM_raw": "2H0 407 271 DX",
+      "OEM": "2H0407271DX",
+      "fitment_rows": [
+        {
+          "model": "VOLKSWAGEN TOUAREG (7LA, 7L6, 7L7) 02-10",
+          "modification": "2.5 R5 TDI (BAC, BPE) 128кВт/174лс 01.2003-05.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17182"
+        }
+      ],
+      "applicability_make": "VOLKSWAGEN",
+      "OEM_group_label_as_on_manufacturer_page": "VAG",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1563.2.jpg",
+      "photo_sha256": "d4cab9e7a272c1415af056c028b44ea28ae62b1fb4911ef813dcfc89a229cfff",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "2H0407271DX",
+      "fitment": "VOLKSWAGEN TOUAREG (7LA, 7L6, 7L7) 02-10 2.5 R5 TDI (BAC, BPE) 128кВт/174лс 01.2003-05.2010",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1570",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025648367",
+      "source_checked_at_utc": "2026-11-19T08:54:23.278065+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1570.html",
+      "page_captured_at_utc": "2026-11-19T08:54:28.539848+00:00",
+      "manufacturer_page_sha256": "589b9af888d5f8f16f5d7e1bf17f70f2a563bf919a20c1c2fce077d9edb188a4",
+      "manufacturer_MPN": "ST-1570",
+      "product_title": "ШРУС внутренний (Z 26x22) Арт. ST-1570",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "VAG",
+          "6QD 498 103"
+        ],
+        [
+          "VAG",
+          "6QD 498 103 X"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "SEAT": 2,
+        "SKODA": 8,
+        "VOLKSWAGEN": 7
+      },
+      "OEM_make": "VAG",
+      "OEM_raw": "6QD 498 103",
+      "OEM": "6QD498103",
+      "fitment_rows": [
+        {
+          "model": "SEAT CORDOBA (6L2) 02-09",
+          "modification": "1.6 16V (BTS) 77кВт/105лс 11.2006-11.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=20056"
+        },
+        {
+          "model": "SEAT TOLEDO IV (KG3) 12-19",
+          "modification": "1.6 (CFNA) 77кВт/105лс 07.2013-06.2015",
+          "url": "https://sufix.pro/selection_parts.html?na_id=59063"
+        }
+      ],
+      "applicability_make": "SEAT",
+      "OEM_group_label_as_on_manufacturer_page": "VAG",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1570.2.jpg",
+      "photo_sha256": "afc76cd3a6dbf4cfb92ba87b05ff03f64462406354e66181251af375734eba1e",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "6QD498103",
+      "fitment": "SEAT CORDOBA (6L2) 02-09 1.6 16V (BTS) 77кВт/105лс 11.2006-11.2009; SEAT TOLEDO IV (KG3) 12-19 1.6 (CFNA) 77кВт/105лс 07.2013-06.2015",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1602",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680845",
+      "source_checked_at_utc": "2026-11-19T08:54:43.829554+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1602.html",
+      "page_captured_at_utc": "2026-11-19T08:54:49.305218+00:00",
+      "manufacturer_page_sha256": "9e095b88d2ce38f1f69ec00f35207b23521897a8651b527a061e26f76e99eb7f",
+      "manufacturer_MPN": "ST-1602",
+      "product_title": "ШРУС внутренний, слева Арт. ST-1602",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FORD",
+          "1 306 054"
+        ],
+        [
+          "FORD",
+          "1 386 149"
+        ],
+        [
+          "FORD",
+          "1 459 302"
+        ],
+        [
+          "FORD",
+          "1 477 836"
+        ],
+        [
+          "FORD",
+          "1 481 246"
+        ],
+        [
+          "FORD",
+          "1 493 018"
+        ],
+        [
+          "FORD",
+          "1 676 318"
+        ],
+        [
+          "FORD",
+          "1 692 089"
+        ],
+        [
+          "FORD",
+          "1 774 035"
+        ],
+        [
+          "FORD",
+          "1 923 245"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "FORD": 11
+      },
+      "OEM_make": "FORD",
+      "OEM_raw": "1 306 054",
+      "OEM": "1306054",
+      "fitment_rows": [
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.6 (HWDA, HWDB, SHDA, SHDB, SHDC) 74кВт/100лс 10.2003-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17745"
+        },
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.6 Ti (HXDA, SIDA) 85кВт/115лс 08.2004-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18500"
+        },
+        {
+          "model": "FORD FOCUS II (DA_, HCP, DP) 04-12",
+          "modification": "1.4 (ASDA, ASDB) 59кВт/80лс 07.2004-09.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18305"
+        },
+        {
+          "model": "FORD FOCUS II (DA_, HCP, DP) 04-12",
+          "modification": "1.6 (HWDA, HWDB, SHDA, SHDB, SHDC) 74кВт/100лс 07.2004-09.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18302"
+        },
+        {
+          "model": "FORD FOCUS II (DA_, HCP, DP) 04-12",
+          "modification": "1.6 Ti (HXDA, HXDB, SIDA) 85кВт/115лс 07.2004-09.2012",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18303"
+        }
+      ],
+      "applicability_make": "FORD",
+      "OEM_group_label_as_on_manufacturer_page": "FORD",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1602.jpg",
+      "photo_sha256": "69eab96d280892860af9efd57415f776f6f1d5c78bf8204fc07a5921739b66e5",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1306054",
+      "fitment": "FORD FOCUS C-MAX (DM2) 03-07 1.6 (HWDA, HWDB, SHDA, SHDB, SHDC) 74кВт/100лс 10.2003-03.2007; FORD FOCUS C-MAX (DM2) 03-07 1.6 Ti (HXDA, SIDA) 85кВт/115лс 08.2004-03.2007; FORD FOCUS II (DA_, HCP, DP) 04-12 1.4 (ASDA, ASDB) 59кВт/80лс 07.2004-09.2012",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1640",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680826",
+      "source_checked_at_utc": "2026-11-19T08:54:54.072973+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1640.html",
+      "page_captured_at_utc": "2026-11-19T08:54:59.589337+00:00",
+      "manufacturer_page_sha256": "d9725b1bf5eaca0ffd25cddbb9a86d3918b8b93631fba4e6dee66620b520a766",
+      "manufacturer_MPN": "ST-1640",
+      "product_title": "ШРУС внутренний (Z 23x23) Арт. ST-1640",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "FORD",
+          "1 345 647"
+        ],
+        [
+          "FORD",
+          "1 461 228"
+        ],
+        [
+          "FORD",
+          "1 552 944"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "FORD": 14
+      },
+      "OEM_make": "FORD",
+      "OEM_raw": "1 345 647",
+      "OEM": "1345647",
+      "fitment_rows": [
+        {
+          "model": "FORD C-MAX (DM2) 07-10",
+          "modification": "1.8 (QQDA, QQDB) 92кВт/125лс 02.2007-09.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=22525"
+        },
+        {
+          "model": "FORD C-MAX (DM2) 07-10",
+          "modification": "1.8 (QQDC) 90кВт/122лс 02.2007-09.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10288"
+        },
+        {
+          "model": "FORD C-MAX (DM2) 07-10",
+          "modification": "1.8 Flexifuel (Q7DA) 92кВт/125лс 02.2007-09.2010",
+          "url": "https://sufix.pro/selection_parts.html?na_id=22526"
+        },
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.8 (CSDA, CSDB) 88кВт/120лс 10.2003-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17630"
+        },
+        {
+          "model": "FORD FOCUS C-MAX (DM2) 03-07",
+          "modification": "1.8 (Q7DA, QQDA, QQDB) 92кВт/125лс 04.2004-03.2007",
+          "url": "https://sufix.pro/selection_parts.html?na_id=18096"
+        }
+      ],
+      "applicability_make": "FORD",
+      "OEM_group_label_as_on_manufacturer_page": "FORD",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1640.2.jpg",
+      "photo_sha256": "2f5461a7ecda9cd9196a89a54e08f93369e01fb24965085e6bffb14896b11b3b",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "1345647",
+      "fitment": "FORD C-MAX (DM2) 07-10 1.8 (QQDA, QQDB) 92кВт/125лс 02.2007-09.2010; FORD C-MAX (DM2) 07-10 1.8 (QQDC) 90кВт/122лс 02.2007-09.2010; FORD C-MAX (DM2) 07-10 1.8 Flexifuel (Q7DA) 92кВт/125лс 02.2007-09.2010",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1650",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680832",
+      "source_checked_at_utc": "2026-11-19T08:55:04.450559+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1650.html",
+      "page_captured_at_utc": "2026-11-19T08:55:09.729288+00:00",
+      "manufacturer_page_sha256": "853e86df42109220216c4ace4d1a3a0f485ea218943d5a5138b857f096578c4e",
+      "manufacturer_MPN": "ST-1650",
+      "product_title": "ШРУС внутренний (Z 24x27) Арт. ST-1650",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "43030-33050"
+        ],
+        [
+          "TOYOTA",
+          "43030-33051"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 4
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "43030-33050",
+      "OEM": "4303033050",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA CAMRY Saloon (_V3_) 01-06",
+          "modification": "2.0 (ACV31_) (1AZ-FE) 110кВт/150лс 08.2001-11.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=23011"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V3_) 01-06",
+          "modification": "2.4 (ACV30, ACV36) (2AZ-FE) 112кВт/152лс 11.2001-11.2006",
+          "url": "https://sufix.pro/selection_parts.html?na_id=16362"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "2.0 (ACV41_) (1AZ-FE) 108кВт/147лс 01.2006-09.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10455"
+        },
+        {
+          "model": "TOYOTA CAMRY Saloon (_V4_) 06-14",
+          "modification": "2.4 (ACV40_) (2AZ-FE) 123кВт/167лс 01.2006-09.2011",
+          "url": "https://sufix.pro/selection_parts.html?na_id=34837"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1650.2.jpg",
+      "photo_sha256": "0b712f4b9f9259b694bd99301a01dfa015e95ee635798307ee4aae6bf2c608d3",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "4303033050",
+      "fitment": "TOYOTA CAMRY Saloon (_V3_) 01-06 2.0 (ACV31_) (1AZ-FE) 110кВт/150лс 08.2001-11.2006; TOYOTA CAMRY Saloon (_V3_) 01-06 2.4 (ACV30, ACV36) (2AZ-FE) 112кВт/152лс 11.2001-11.2006; TOYOTA CAMRY Saloon (_V4_) 06-14 2.0 (ACV41_) (1AZ-FE) 108кВт/147лс 01.2006-09.2011",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1668",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680843",
+      "source_checked_at_utc": "2026-11-19T08:55:14.655187+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1668.html",
+      "page_captured_at_utc": "2026-11-19T08:55:20.114604+00:00",
+      "manufacturer_page_sha256": "776fa114d99380ad36830394e830c1449f6a4b7fdee6ceeb96ee1421092b414e",
+      "manufacturer_MPN": "ST-1668",
+      "product_title": "ШРУС наружный (Z 28x23) Арт. ST-1668",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "MAZDA",
+          "FG32-25-500"
+        ],
+        [
+          "MAZDA",
+          "FG32-25-600"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "MAZDA": 2
+      },
+      "OEM_make": "MAZDA",
+      "OEM_raw": "FG32-25-500",
+      "OEM": "FG3225500",
+      "fitment_rows": [
+        {
+          "model": "MAZDA 3 | AXELA (BL) 08-14",
+          "modification": "1.6 MZR (BL14) (Z668, Z682, Z683) 77кВт/105лс 12.2008-09.2014",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31074"
+        },
+        {
+          "model": "MAZDA 3 | AXELA Saloon (BK) 03-09",
+          "modification": "1.6 DI Turbo (BK12Y) (Y601, Y603, Y605, Y642) 80кВт/109лс 06.2004-06.2009",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17875"
+        }
+      ],
+      "applicability_make": "MAZDA",
+      "OEM_group_label_as_on_manufacturer_page": "MAZDA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1668.2.jpg",
+      "photo_sha256": "613595628f57cdcc6e9e0f79a62e0cef1d9df4ec478787035e6acc898dd2ee15",
+      "photo_dimensions": [
+        2475,
+        2476
+      ],
+      "photo_format": "JPEG",
+      "oem": "FG3225500",
+      "fitment": "MAZDA 3 | AXELA (BL) 08-14 1.6 MZR (BL14) (Z668, Z682, Z683) 77кВт/105лс 12.2008-09.2014; MAZDA 3 | AXELA Saloon (BK) 03-09 1.6 DI Turbo (BK12Y) (Y601, Y603, Y605, Y642) 80кВт/109лс 06.2004-06.2009",
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
       "package_unit_verified": true,
       "primary_product_count_verified": 1,
