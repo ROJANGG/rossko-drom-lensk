@@ -1,0 +1,64 @@
+{
+  "scope": 7,
+  "publication_performed": false,
+  "not_approved_for_publication": true,
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1038",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685590",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:12.584628+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1045",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685596",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:13.236564+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1046",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685603",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:14.557047+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1048",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685563",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:15.737627+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1050",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685638",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:16.208566+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1065",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685586",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:17.470896+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1074",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685652",
+      "previous_API_checked_at_utc": "2026-11-17T07:48:18.931425+00:00",
+      "review_status": "PENDING_FRESH_API_AND_SOURCE_REVIEW"
+    }
+  ],
+  "batch_id": "source18_20261119"
+}
