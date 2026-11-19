@@ -1,0 +1,692 @@
+{
+  "scope": 8,
+  "max_workers": 2,
+  "attempts_per_photo": 1,
+  "items": [
+    {
+      "batch": "source15",
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1006",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685554",
+        "source_checked_at_utc": "2026-11-19T07:32:36.432555+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1006.html",
+        "page_captured_at_utc": "2026-11-19T07:32:40.218015+00:00",
+        "manufacturer_page_sha256": "d10b0d162f3c8e377fe303dfb3bdd7ef7e57d000feaef81525809b923f9ce941",
+        "manufacturer_MPN": "ST-1006",
+        "product_title": "ШРУС наружный (Z 33x29) Арт. ST-1006",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "GENERALMOTORS",
+            "510433"
+          ],
+          [
+            "GENERALMOTORS",
+            "510736"
+          ],
+          [
+            "GENERALMOTORS",
+            "513316"
+          ],
+          [
+            "GENERALMOTORS",
+            "26010774"
+          ],
+          [
+            "GENERALMOTORS",
+            "96241974"
+          ],
+          [
+            "GENERALMOTORS",
+            "96243573"
+          ],
+          [
+            "GENERALMOTORS",
+            "96251183"
+          ],
+          [
+            "GENERALMOTORS",
+            "96257802"
+          ],
+          [
+            "GENERALMOTORS",
+            "96481063"
+          ],
+          [
+            "GENERALMOTORS",
+            "96481064"
+          ],
+          [
+            "GENERALMOTORS",
+            "510736A"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "DAEWOO": 20
+        },
+        "OEM_make": "GENERALMOTORS",
+        "OEM_raw": "510433",
+        "OEM": "510433",
+        "fitment_rows": [
+          {
+            "model": "DAEWOO ESPERO (KLEJ) 91-99",
+            "modification": "1.5 16V (A15MF) 65кВт/88лс 10.1993-09.1994",
+            "url": "https://sufix.pro/selection_parts.html?na_id=15653"
+          },
+          {
+            "model": "DAEWOO ESPERO (KLEJ) 91-99",
+            "modification": "1.5 16V (A15MF) 66кВт/90лс 02.1995-06.1999",
+            "url": "https://sufix.pro/selection_parts.html?na_id=4564"
+          },
+          {
+            "model": "DAEWOO ESPERO (KLEJ) 91-99",
+            "modification": "1.8 (C18LE) 66кВт/90лс 02.1995-09.1999",
+            "url": "https://sufix.pro/selection_parts.html?na_id=4565"
+          },
+          {
+            "model": "DAEWOO ESPERO (KLEJ) 91-99",
+            "modification": "1.8 (C18LE) 70кВт/95лс 02.1995-06.1999",
+            "url": "https://sufix.pro/selection_parts.html?na_id=4567"
+          },
+          {
+            "model": "DAEWOO ESPERO (KLEJ) 91-99",
+            "modification": "2.0 (C20LE) 77кВт/105лс 02.1995-06.1999",
+            "url": "https://sufix.pro/selection_parts.html?na_id=4568"
+          }
+        ],
+        "applicability_make": "DAEWOO",
+        "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/ST-1006.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-19T07:41:07.766173+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      }
+    },
+    {
+      "batch": "source15",
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1017",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685634",
+        "source_checked_at_utc": "2026-11-19T07:32:56.000564+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1017.html",
+        "page_captured_at_utc": "2026-11-19T07:33:01.528621+00:00",
+        "manufacturer_page_sha256": "1e29c34a71f72cc9a78fff045fbc8963a4fc737fbc568883c8e79a3cb181db42",
+        "manufacturer_MPN": "ST-1017",
+        "product_title": "ШРУС наружный (Z 25x23) Арт. ST-1017",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "FORD",
+            "1 063 498"
+          ],
+          [
+            "FORD",
+            "1 129 668"
+          ],
+          [
+            "FORD",
+            "1 221 202"
+          ],
+          [
+            "FORD",
+            "1 361 301"
+          ],
+          [
+            "FORD",
+            "1 603 155"
+          ],
+          [
+            "FORD",
+            "1 753 927"
+          ],
+          [
+            "FORD",
+            "1 753 934"
+          ],
+          [
+            "FORD",
+            "1 753 951"
+          ],
+          [
+            "FORD",
+            "3 652 045"
+          ],
+          [
+            "FORD",
+            "3 652 047"
+          ],
+          [
+            "FORD",
+            "3 667 428"
+          ],
+          [
+            "FORD",
+            "3 667 429"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "FORD": 25
+        },
+        "OEM_make": "FORD",
+        "OEM_raw": "1 063 498",
+        "OEM": "1063498",
+        "fitment_rows": [
+          {
+            "model": "FORD FIESTA V (JH_, JD_) 01-08",
+            "modification": "1.6 TDCi (HHJA, HHJB) 66кВт/90лс 11.2004-06.2008",
+            "url": "https://sufix.pro/selection_parts.html?na_id=18329"
+          },
+          {
+            "model": "FORD FIESTA V (JH_, JD_) 01-08",
+            "modification": "ST150 (N4JB) 110кВт/150лс 03.2005-06.2008",
+            "url": "https://sufix.pro/selection_parts.html?na_id=18499"
+          },
+          {
+            "model": "FORD FOCUS I (DAW, DBW) 98-04",
+            "modification": "1.4 16V (FXDA, FXDB, FXDC, FXDD) 55кВт/75лс 10.1998-11.2004",
+            "url": "https://sufix.pro/selection_parts.html?na_id=9639"
+          },
+          {
+            "model": "FORD FOCUS I (DAW, DBW) 98-04",
+            "modification": "1.4 16V (FXDA) 55кВт/75лс 10.1998-09.1999",
+            "url": "https://sufix.pro/selection_parts.html?na_id=126648"
+          },
+          {
+            "model": "FORD FOCUS I (DAW, DBW) 98-04",
+            "modification": "1.6 16V (FYDA, FYDB, FYDC, FYDD, FYDH) 74кВт/100лс 10.1998-11.2004",
+            "url": "https://sufix.pro/selection_parts.html?na_id=9640"
+          }
+        ],
+        "applicability_make": "FORD",
+        "OEM_group_label_as_on_manufacturer_page": "FORD",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/ST-1017.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-19T07:41:07.767090+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      }
+    },
+    {
+      "batch": "source15",
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1075",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685651",
+        "source_checked_at_utc": "2026-11-19T07:34:11.226407+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1075.html",
+        "page_captured_at_utc": "2026-11-19T07:34:17.316325+00:00",
+        "manufacturer_page_sha256": "05f746f177aef7528e53b4a8a3f56acce24d1d748cc12e6f1260a4d9a5a66373",
+        "manufacturer_MPN": "ST-1075",
+        "product_title": "ШРУС наружный (Z 29x22) Арт. ST-1075",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "NISSAN",
+            "39100-1KA0B"
+          ],
+          [
+            "NISSAN",
+            "39101-1KA0B"
+          ],
+          [
+            "NISSAN",
+            "39211-1KA5B"
+          ],
+          [
+            "NISSAN",
+            "39211-3RA1A"
+          ],
+          [
+            "NISSAN",
+            "C9211-1KA0B"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "NISSAN": 1
+        },
+        "OEM_make": "NISSAN",
+        "OEM_raw": "39100-1KA0B",
+        "OEM": "391001KA0B",
+        "fitment_rows": [
+          {
+            "model": "NISSAN JUKE (F15) 10-14",
+            "modification": "1.6 (HR16DE) 86кВт/117лс 06.2010-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=34721"
+          }
+        ],
+        "applicability_make": "NISSAN",
+        "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/ST-1075.1.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-19T07:41:11.775157+00:00",
+        "photo_sha256": "2ce55a96d716178cc3c72d84b3c32962e1ab905e4a3313c1d45b02cdbe17ba86",
+        "photo_dimensions": [
+          1299,
+          1299
+        ],
+        "photo_format": "JPEG",
+        "photo_recovery_succeeded": true
+      }
+    },
+    {
+      "batch": "source15",
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1086",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0024685578",
+        "source_checked_at_utc": "2026-11-19T07:34:44.277190+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1086.html",
+        "page_captured_at_utc": "2026-11-19T07:34:49.785455+00:00",
+        "manufacturer_page_sha256": "f62b1bb9381fb98bf63faf68f35687d8e5b71de70d7af84c186e74b69ba80eb7",
+        "manufacturer_MPN": "ST-1086",
+        "product_title": "ШРУС наружный (Z 22x22, ABS 43) Арт. ST-1086",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "DATSUN",
+            "39211-5PA0A"
+          ],
+          [
+            "LADA",
+            "11186-2215012"
+          ],
+          [
+            "LADA",
+            "11186-2215012-00"
+          ],
+          [
+            "LADA",
+            "21700-2215012-87"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "LADA": 12
+        },
+        "OEM_make": "LADA",
+        "OEM_raw": "11186-2215012",
+        "OEM": "111862215012",
+        "fitment_rows": [
+          {
+            "model": "LADA GRANTA (2190_) 11-19",
+            "modification": "1.6 (21902) (21126) 72кВт/98лс 10.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55618"
+          },
+          {
+            "model": "LADA GRANTA (2190_) 11-19",
+            "modification": "1.6 (21906) (11183) 60кВт/82лс 10.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55617"
+          },
+          {
+            "model": "LADA GRANTA Hatchback (2192_) 18-",
+            "modification": "1.6 (21921) (11186, 21116) 64кВт/87лс 08.2018-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=132861"
+          },
+          {
+            "model": "LADA GRANTA Liftback (2191_) 14-",
+            "modification": "1.6 (21911) (11186, 21116) 64кВт/87лс 08.2014-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=127402"
+          },
+          {
+            "model": "LADA KALINA I Saloon (1118) 04-13",
+            "modification": "1.4 16V LPG (11194) 65кВт/88лс 11.2008-12.2013",
+            "url": "https://sufix.pro/selection_parts.html?na_id=32058"
+          }
+        ],
+        "applicability_make": "LADA",
+        "OEM_group_label_as_on_manufacturer_page": "LADA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/ST-1086.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-19T07:41:11.776702+00:00",
+        "photo_sha256": "cb15eb7676b55f7355593c4a924b3bb5ed89f6479601b802f73aa3829721c415",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_recovery_succeeded": true
+      }
+    },
+    {
+      "batch": "source15",
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1190",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0025060967",
+        "source_checked_at_utc": "2026-11-19T07:38:47.848925+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1190.html",
+        "page_captured_at_utc": "2026-11-19T07:38:53.377006+00:00",
+        "manufacturer_page_sha256": "6c4776f08502b979adfefc3cf10ec073506984fe3726cc8cfedc1812a6a694e4",
+        "manufacturer_MPN": "ST-1190",
+        "product_title": "ШРУС наружный (Z 27x23, ABS 44) Арт. ST-1190",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "NISSAN",
+            "39100-2J210"
+          ],
+          [
+            "NISSAN",
+            "39100-2J215"
+          ],
+          [
+            "NISSAN",
+            "39100-6J915"
+          ],
+          [
+            "NISSAN",
+            "39101-2J215"
+          ],
+          [
+            "NISSAN",
+            "39101-4U010"
+          ],
+          [
+            "NISSAN",
+            "39101-6J915"
+          ],
+          [
+            "NISSAN",
+            "39211-2J200"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "NISSAN": 19
+        },
+        "OEM_make": "NISSAN",
+        "OEM_raw": "39100-2J210",
+        "OEM": "391002J210",
+        "fitment_rows": [
+          {
+            "model": "NISSAN ALMERA TINO (V10) 98-06",
+            "modification": "1.8 (QG18DE) 84кВт/114лс 08.2000-02.2006",
+            "url": "https://sufix.pro/selection_parts.html?na_id=11262"
+          },
+          {
+            "model": "NISSAN ALMERA TINO (V10) 98-06",
+            "modification": "1.8 (QG18DE) 85кВт/116лс 12.2002-02.2006",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17690"
+          },
+          {
+            "model": "NISSAN AVENIR (W11) 97-05",
+            "modification": "1.8 (QG18DE) 92кВт/125лс 11.1997-12.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=25242"
+          },
+          {
+            "model": "NISSAN EXPERT II (W11) 98-04",
+            "modification": "2.2 D (YD22D) 84кВт/114лс 10.1998-04.2004",
+            "url": "https://sufix.pro/selection_parts.html?na_id=25625"
+          },
+          {
+            "model": "NISSAN PRIMERA (P11) 96-01",
+            "modification": "1.8 16V (QG18DE) 84кВт/114лс 08.1999-12.2001",
+            "url": "https://sufix.pro/selection_parts.html?na_id=13670"
+          }
+        ],
+        "applicability_make": "NISSAN",
+        "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/ST-1190.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-19T07:41:13.381364+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      }
+    },
+    {
+      "batch": "source15",
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1194",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0025060971",
+        "source_checked_at_utc": "2026-11-19T07:38:47.851529+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1194.html",
+        "page_captured_at_utc": "2026-11-19T07:38:53.441120+00:00",
+        "manufacturer_page_sha256": "3dfab9b2075cf48c684c40855da66147140184a42041960be735d731e303ba43",
+        "manufacturer_MPN": "ST-1194",
+        "product_title": "ШРУС наружный (Z 27x27, ABS 44) Арт. ST-1194",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "NISSAN",
+            "39100-4N015"
+          ],
+          [
+            "NISSAN",
+            "39101-4N015"
+          ],
+          [
+            "NISSAN",
+            "39211-5V010"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "NISSAN": 30
+        },
+        "OEM_make": "NISSAN",
+        "OEM_raw": "39100-4N015",
+        "OEM": "391004N015",
+        "fitment_rows": [
+          {
+            "model": "NISSAN ALMERA TINO (V10) 98-06",
+            "modification": "1.8 (QG18DE) 85кВт/116лс 12.2002-02.2006",
+            "url": "https://sufix.pro/selection_parts.html?na_id=17690"
+          },
+          {
+            "model": "NISSAN ALMERA TINO (V10) 98-06",
+            "modification": "2.0 (SR20DE) 100кВт/136лс 08.2000-01.2003",
+            "url": "https://sufix.pro/selection_parts.html?na_id=11263"
+          },
+          {
+            "model": "NISSAN AVENIR (W11) 97-05",
+            "modification": "2.0 TD (CD20T) 66кВт/90лс 11.1997-09.1999",
+            "url": "https://sufix.pro/selection_parts.html?na_id=25245"
+          },
+          {
+            "model": "NISSAN AVENIR (W11) 97-05",
+            "modification": "2.0 Turbo 4WD (SR20DET) 147кВт/200лс 08.1998-12.2005",
+            "url": "https://sufix.pro/selection_parts.html?na_id=116921"
+          },
+          {
+            "model": "NISSAN BASSARA (JU30) 99-03",
+            "modification": "2.4 (KA24DE) 110кВт/150лс 11.1999-08.2002",
+            "url": "https://sufix.pro/selection_parts.html?na_id=25977"
+          }
+        ],
+        "applicability_make": "NISSAN",
+        "OEM_group_label_as_on_manufacturer_page": "NISSAN",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "NOT_CONFIRMED",
+        "photo_url": "https://sufix.pro/image/ST-1194.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-19T07:41:13.452124+00:00",
+        "photo_recovery_succeeded": false,
+        "photo_recovery_error_class": "ReadTimeout"
+      }
+    },
+    {
+      "batch": "source15",
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1247",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0025061024",
+        "source_checked_at_utc": "2026-11-19T07:39:53.561810+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1247.html",
+        "page_captured_at_utc": "2026-11-19T07:39:58.931452+00:00",
+        "manufacturer_page_sha256": "10536ebc6cdfe262bc0a650764991af67710d1a3488f5d24f9f527beedbbe259",
+        "manufacturer_MPN": "ST-1247",
+        "product_title": "ШРУС наружный (Z 22x21, ABS 43) Арт. ST-1247",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "LADA",
+            "21902-2215010-10"
+          ],
+          [
+            "LADA",
+            "21902-2215011-10"
+          ],
+          [
+            "LADA",
+            "21902-2215012-00"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "LADA": 4
+        },
+        "OEM_make": "LADA",
+        "OEM_raw": "21902-2215010-10",
+        "OEM": "21902221501010",
+        "fitment_rows": [
+          {
+            "model": "LADA GRANTA (2190_) 11-19",
+            "modification": "1.6 (21902) (21126) 72кВт/98лс 10.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55618"
+          },
+          {
+            "model": "LADA GRANTA (2190_) 11-19",
+            "modification": "1.6 (21906) (11183) 60кВт/82лс 10.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55617"
+          },
+          {
+            "model": "LADA GRANTA Hatchback (2192_) 18-",
+            "modification": "1.6 (21921) (11186, 21116) 64кВт/87лс 08.2018-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=132861"
+          },
+          {
+            "model": "LADA GRANTA Liftback (2191_) 14-",
+            "modification": "1.6 (21911) (11186, 21116) 64кВт/87лс 08.2014-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=127402"
+          }
+        ],
+        "applicability_make": "LADA",
+        "OEM_group_label_as_on_manufacturer_page": "LADA",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/ST-1247.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-19T07:41:17.391481+00:00",
+        "photo_sha256": "dfc2ae1b63989a8458706463bd21f511abd2a52f1a4e363a6a34c4d40296568c",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_recovery_succeeded": true
+      }
+    },
+    {
+      "batch": "source15",
+      "source_review": {
+        "brand": "SUFIX",
+        "article": "ST1252",
+        "category": "ШРУС",
+        "supplier_nomenclature": "NSII0025061029",
+        "source_checked_at_utc": "2026-11-19T07:39:53.582498+00:00",
+        "source_status": "MANUFACTURER_FACTS_VERIFIED",
+        "manufacturer_page": "https://sufix.pro/ST-1252.html",
+        "page_captured_at_utc": "2026-11-19T07:39:59.045097+00:00",
+        "manufacturer_page_sha256": "8b520a2b9478c100f30c4fe3e65e764fa2f869ea4ca757ad2d3fe0022a72f0ff",
+        "manufacturer_MPN": "ST-1252",
+        "product_title": "ШРУС наружный (Z 25x35) Арт. ST-1252",
+        "exact_sku_verified": true,
+        "automaker_reference_rows": [
+          [
+            "RENAULT",
+            "39 10 098 82R"
+          ],
+          [
+            "RENAULT",
+            "39 10 172 75R"
+          ]
+        ],
+        "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+        "applicability_make_counts": {
+          "RENAULT": 3
+        },
+        "OEM_make": "RENAULT",
+        "OEM_raw": "39 10 098 82R",
+        "OEM": "391009882R",
+        "fitment_rows": [
+          {
+            "model": "RENAULT DUSTER (HS_) 11-15",
+            "modification": "1.5 dCi 4WD (K9K 884) 66кВт/90лс 06.2011-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=123263"
+          },
+          {
+            "model": "RENAULT DUSTER (HS_) 11-15",
+            "modification": "1.6 16V (HSAT) (K4M 616) 75кВт/102лс 02.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=57445"
+          },
+          {
+            "model": "RENAULT DUSTER (HS_) 11-15",
+            "modification": "2.0 (F4R 403, F4R 405) 98кВт/133лс 02.2012-",
+            "url": "https://sufix.pro/selection_parts.html?na_id=55286"
+          }
+        ],
+        "applicability_make": "RENAULT",
+        "OEM_group_label_as_on_manufacturer_page": "RENAULT",
+        "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+        "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+        "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+        "photo_url": "https://sufix.pro/image/ST-1252.jpg",
+        "photo_error_class": "ReadTimeout",
+        "photo_recovery_attempted_once": true,
+        "photo_recovery_time_utc": "2026-11-19T07:41:17.458001+00:00",
+        "photo_sha256": "9fc4216833ac00c0ef483c8d79fa20a4a54e199b38b779bf6182b9ffd0071d76",
+        "photo_dimensions": [
+          800,
+          800
+        ],
+        "photo_format": "JPEG",
+        "photo_recovery_succeeded": true
+      }
+    }
+  ]
+}

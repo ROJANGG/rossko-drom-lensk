@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-19",
+  "checked_at_utc": "2026-11-19T07:59:55Z",
+  "expected_ads": 678,
+  "expected_sha256": "e59ab91ca7139235b19715615090dce37afb0189e42427e7cdcdfa10ac7885be",
+  "raw": {
+    "ads": 678,
+    "sha256": "e59ab91ca7139235b19715615090dce37afb0189e42427e7cdcdfa10ac7885be",
+    "exact": true
+  },
+  "cdn": {
+    "ads": 678,
+    "sha256": "e59ab91ca7139235b19715615090dce37afb0189e42427e7cdcdfa10ac7885be",
+    "exact": true
+  },
+  "raw_exact_bytes_verified": true,
+  "CDN_exact_bytes_verified": true,
+  "release_run_id": 44483198177,
+  "Avito_import_verified": false
+}
