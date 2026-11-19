@@ -1,255 +1,800 @@
 {
-  "as_of_utc": "2026-11-18T09:58:07Z",
-  "before": 550,
-  "after": 564,
-  "approved_before": 564,
-  "approved_after": 578,
-  "scope_count": 14,
-  "added_count": 14,
+  "as_of_utc": "2026-11-19T07:14:46.112659+00:00",
+  "before": 559,
+  "after": 608,
+  "approved_before": 578,
+  "approved_after": 627,
+  "scope_count": 49,
+  "added_count": 49,
   "added": [
     {
-      "id": "irk-c00f277f65c877545257ff",
+      "id": "irk-5a0e4496818eb0633215ed",
       "brand": "SUFIX",
-      "article": "FB3223",
-      "category": "Ремни приводные",
-      "retail": 850,
+      "article": "XG1004",
+      "category": "Радиаторы охлаждения",
+      "retail": 6700,
       "photo": {
-        "filename": "irk-c00f277f65c877545257ff-1ecfb0c496ff.jpg",
-        "sha256": "1ecfb0c496ffe6261fa5523a5677e255dd2ac4a4eb0f03ed824392a3ff14df7f",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c00f277f65c877545257ff-1ecfb0c496ff.jpg",
-        "manufacturer_page_sha256": "22e751a949d51ae50da4ff62e9d71124b2665b6b1ac4eacc212461e7cab136b5",
-        "fitment_page_sha256": "22e751a949d51ae50da4ff62e9d71124b2665b6b1ac4eacc212461e7cab136b5",
-        "verified_at_utc": "2026-11-18T09:52:03.165771+00:00"
+        "filename": "irk-5a0e4496818eb0633215ed-17bc3de0aa89.jpg",
+        "sha256": "17bc3de0aa897583650519e121d402f771ea593b21d364b7a433c662321929f7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5a0e4496818eb0633215ed-17bc3de0aa89.jpg",
+        "manufacturer_page_sha256": "160524b1c8852a4088841dbc580d9f814bf2e79872a63c7d58a6b4d32f745708",
+        "fitment_page_sha256": "160524b1c8852a4088841dbc580d9f814bf2e79872a63c7d58a6b4d32f745708",
+        "verified_at_utc": "2026-11-19T07:12:33.747392+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:21.528406+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:30.074101+00:00"
     },
     {
-      "id": "irk-540330bcda6c9c378e1a5f",
+      "id": "irk-5a4520a5b6c512ff753626",
       "brand": "SUFIX",
-      "article": "FB3238",
-      "category": "Ремни приводные",
-      "retail": 900,
+      "article": "XG1006",
+      "category": "Радиаторы охлаждения",
+      "retail": 18800,
       "photo": {
-        "filename": "irk-540330bcda6c9c378e1a5f-e7edf94c0526.jpg",
-        "sha256": "e7edf94c0526e6c8d680104e2321863616b1598020eef823d7df1110f5ad516f",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-540330bcda6c9c378e1a5f-e7edf94c0526.jpg",
-        "manufacturer_page_sha256": "5b81f1fade12500ffdb7ae67f341de85d63f4c21a0f2b247c3842c846181aa23",
-        "fitment_page_sha256": "5b81f1fade12500ffdb7ae67f341de85d63f4c21a0f2b247c3842c846181aa23",
-        "verified_at_utc": "2026-11-18T09:52:03.167692+00:00"
+        "filename": "irk-5a4520a5b6c512ff753626-0f002a4ea4cf.jpg",
+        "sha256": "0f002a4ea4cf393168376c97260092f8e7a1420b517eadba6ed6979968eae6aa",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5a4520a5b6c512ff753626-0f002a4ea4cf.jpg",
+        "manufacturer_page_sha256": "1d39f81bb06bea93d009b2dc20aa757a1ae57e555db46e7c7867a75ed9c3a5c0",
+        "fitment_page_sha256": "1d39f81bb06bea93d009b2dc20aa757a1ae57e555db46e7c7867a75ed9c3a5c0",
+        "verified_at_utc": "2026-11-19T07:12:33.661755+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:23.714785+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:31.542930+00:00"
     },
     {
-      "id": "irk-ebf8cac37c6185f5469e9e",
+      "id": "irk-0cb685c7af6875fedfb413",
       "brand": "SUFIX",
-      "article": "FB3261",
-      "category": "Ремни приводные",
-      "retail": 1050,
+      "article": "XG1021",
+      "category": "Радиаторы охлаждения",
+      "retail": 3050,
       "photo": {
-        "filename": "irk-ebf8cac37c6185f5469e9e-43fc119910c1.jpg",
-        "sha256": "43fc119910c1f01841995caaaad8d6eb2914214ad413b827c0ad53e777f20314",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ebf8cac37c6185f5469e9e-43fc119910c1.jpg",
-        "manufacturer_page_sha256": "9f44c7cece70944291a332be2d8f363ceecc9f108ec59f703aa480b5965367f1",
-        "fitment_page_sha256": "9f44c7cece70944291a332be2d8f363ceecc9f108ec59f703aa480b5965367f1",
-        "verified_at_utc": "2026-11-18T09:52:05.686415+00:00"
+        "filename": "irk-0cb685c7af6875fedfb413-9fdb720a35b5.jpg",
+        "sha256": "9fdb720a35b5558451bd2f1884c4fc3e89e16a0c6834125dc38b3dcc7de0d22f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0cb685c7af6875fedfb413-9fdb720a35b5.jpg",
+        "manufacturer_page_sha256": "613a5bb8a6fbe068f819c5d0e99acd254d12468f0da042fa9f4865c5652f1d1e",
+        "fitment_page_sha256": "613a5bb8a6fbe068f819c5d0e99acd254d12468f0da042fa9f4865c5652f1d1e",
+        "verified_at_utc": "2026-11-19T07:12:35.958447+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:25.391934+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:32.796232+00:00"
     },
     {
-      "id": "irk-3b55d72a9c1f988018deee",
+      "id": "irk-9db310e851fc47b38e7c89",
       "brand": "SUFIX",
-      "article": "FB3269",
-      "category": "Ремни приводные",
-      "retail": 1200,
+      "article": "XG1023",
+      "category": "Радиаторы охлаждения",
+      "retail": 2900,
       "photo": {
-        "filename": "irk-3b55d72a9c1f988018deee-7f5bc4edc9f8.jpg",
-        "sha256": "7f5bc4edc9f8789f95591ce09e4ab9805008ae5efda808117d248f1175e57699",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3b55d72a9c1f988018deee-7f5bc4edc9f8.jpg",
-        "manufacturer_page_sha256": "2af5ea7779f15cede4e38a9c6d2f3e88772f31ab997da1900d21525a291e5923",
-        "fitment_page_sha256": "2af5ea7779f15cede4e38a9c6d2f3e88772f31ab997da1900d21525a291e5923",
-        "verified_at_utc": "2026-11-18T09:52:05.623636+00:00"
+        "filename": "irk-9db310e851fc47b38e7c89-271086349623.jpg",
+        "sha256": "27108634962384f3d683017bd06c116205ba30731029ffcf9ed0725b20e4300f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9db310e851fc47b38e7c89-271086349623.jpg",
+        "manufacturer_page_sha256": "a7ce3fb77aee76fa07cc417abc51776eeb69675218dd022fed8afb228ed170f9",
+        "fitment_page_sha256": "a7ce3fb77aee76fa07cc417abc51776eeb69675218dd022fed8afb228ed170f9",
+        "verified_at_utc": "2026-11-19T07:12:35.888493+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:26.865261+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:34.375831+00:00"
     },
     {
-      "id": "irk-b83a0b8f7b1f991b6fff8d",
+      "id": "irk-86715c3c2c801c307200be",
       "brand": "SUFIX",
-      "article": "FB3298",
-      "category": "Ремни приводные",
-      "retail": 1000,
+      "article": "XG1026",
+      "category": "Радиаторы охлаждения",
+      "retail": 3400,
       "photo": {
-        "filename": "irk-b83a0b8f7b1f991b6fff8d-8b6ae3acefc0.jpg",
-        "sha256": "8b6ae3acefc0d8190278f3f31c32a388633a35e8bbf63ef5b8ee3c9bd758f4b3",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b83a0b8f7b1f991b6fff8d-8b6ae3acefc0.jpg",
-        "manufacturer_page_sha256": "9c0fff5a8a1a533c4ac259a740323d27b6dcbf08282b0b5dfc16fba607d0038e",
-        "fitment_page_sha256": "9c0fff5a8a1a533c4ac259a740323d27b6dcbf08282b0b5dfc16fba607d0038e",
-        "verified_at_utc": "2026-11-18T09:52:08.032631+00:00"
+        "filename": "irk-86715c3c2c801c307200be-fff783cd5d26.jpg",
+        "sha256": "fff783cd5d2605cdff4ecda2d10043908656d561f83b3dfe3dcbcd6e16a3b795",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-86715c3c2c801c307200be-fff783cd5d26.jpg",
+        "manufacturer_page_sha256": "01219a3792528853e7219c87a88bf394573637b823a668daeb15961d52937278",
+        "fitment_page_sha256": "01219a3792528853e7219c87a88bf394573637b823a668daeb15961d52937278",
+        "verified_at_utc": "2026-11-19T07:12:37.920217+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:28.423118+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:35.787391+00:00"
     },
     {
-      "id": "irk-8f6ca82144e0a754567e3b",
+      "id": "irk-6d83373c7408eefb5330c3",
       "brand": "SUFIX",
-      "article": "FB3300",
-      "category": "Ремни приводные",
-      "retail": 1000,
+      "article": "XG1030",
+      "category": "Радиаторы охлаждения",
+      "retail": 4400,
       "photo": {
-        "filename": "irk-8f6ca82144e0a754567e3b-7549c28f322c.jpg",
-        "sha256": "7549c28f322c55459b6c117ab234b7f7db72309ab498186847f016e783082aaa",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8f6ca82144e0a754567e3b-7549c28f322c.jpg",
-        "manufacturer_page_sha256": "97cfe69d2981dfe4e0e07b1362ebc78d3a764d7d5eb99bf9bcf1b49ed0704856",
-        "fitment_page_sha256": "97cfe69d2981dfe4e0e07b1362ebc78d3a764d7d5eb99bf9bcf1b49ed0704856",
-        "verified_at_utc": "2026-11-18T09:52:08.002912+00:00"
+        "filename": "irk-6d83373c7408eefb5330c3-f944a9d8b87e.jpg",
+        "sha256": "f944a9d8b87ed0642df0af56909c89c802607333f8bd2d55e8ee79f54253de53",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6d83373c7408eefb5330c3-f944a9d8b87e.jpg",
+        "manufacturer_page_sha256": "308b6730aa52e6d9cd9a433bf604112fb16af016bab4f52af57e2fcd48874320",
+        "fitment_page_sha256": "308b6730aa52e6d9cd9a433bf604112fb16af016bab4f52af57e2fcd48874320",
+        "verified_at_utc": "2026-11-19T07:12:37.927993+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:30.082409+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:37.560186+00:00"
     },
     {
-      "id": "irk-66fd84ac59e8448ec46d68",
+      "id": "irk-73763081500ac4f5a5906a",
       "brand": "SUFIX",
-      "article": "FB3306",
-      "category": "Ремни приводные",
-      "retail": 1000,
+      "article": "XG1031",
+      "category": "Радиаторы охлаждения",
+      "retail": 3900,
       "photo": {
-        "filename": "irk-66fd84ac59e8448ec46d68-c33224220fe7.jpg",
-        "sha256": "c33224220fe7f5fc47f874cfd861b166e1b570bdcb890732bcbd3228d830cdae",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-66fd84ac59e8448ec46d68-c33224220fe7.jpg",
-        "manufacturer_page_sha256": "c93a7cfa69206d7763fdb331225156dfa2b9a703fbdfe1b780ea338d9f158182",
-        "fitment_page_sha256": "c93a7cfa69206d7763fdb331225156dfa2b9a703fbdfe1b780ea338d9f158182",
-        "verified_at_utc": "2026-11-18T09:52:10.174959+00:00"
+        "filename": "irk-73763081500ac4f5a5906a-7127356de249.jpg",
+        "sha256": "7127356de2490ed88a919dd63b109348915409cf25b680678a8cc17981b066f7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-73763081500ac4f5a5906a-7127356de249.jpg",
+        "manufacturer_page_sha256": "8c93125196904a725dfa08a4f8dc9f3697be2b693eb5ab04f26461549dc16922",
+        "fitment_page_sha256": "8c93125196904a725dfa08a4f8dc9f3697be2b693eb5ab04f26461549dc16922",
+        "verified_at_utc": "2026-11-19T07:12:39.920081+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:31.569127+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:39.076784+00:00"
     },
     {
-      "id": "irk-b6d11be2f14b5369ae573a",
+      "id": "irk-7cea63132c57a5f9041024",
       "brand": "SUFIX",
-      "article": "FB3321",
-      "category": "Ремни приводные",
-      "retail": 450,
+      "article": "XG1034",
+      "category": "Радиаторы охлаждения",
+      "retail": 3100,
       "photo": {
-        "filename": "irk-b6d11be2f14b5369ae573a-e6e32644fc29.jpg",
-        "sha256": "e6e32644fc293db914d6b5dbe2c24949ce70b96c264934884885c59e5b9ca5ef",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b6d11be2f14b5369ae573a-e6e32644fc29.jpg",
-        "manufacturer_page_sha256": "61134d48fc240d03baf9735650799b143d60df409abea034a05cd714b28d8cfa",
-        "fitment_page_sha256": "61134d48fc240d03baf9735650799b143d60df409abea034a05cd714b28d8cfa",
-        "verified_at_utc": "2026-11-18T09:52:10.065298+00:00"
+        "filename": "irk-7cea63132c57a5f9041024-f7596c36c139.jpg",
+        "sha256": "f7596c36c139bfd18d2498f50f28bbe60c04804b45bdf3d1f6458770d69dbb4b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7cea63132c57a5f9041024-f7596c36c139.jpg",
+        "manufacturer_page_sha256": "a8e6069406bd62863ffda54f90f50e8313cfda6816cca381536e9bb3ad90a836",
+        "fitment_page_sha256": "a8e6069406bd62863ffda54f90f50e8313cfda6816cca381536e9bb3ad90a836",
+        "verified_at_utc": "2026-11-19T07:12:39.908346+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:33.185480+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:41.019338+00:00"
     },
     {
-      "id": "irk-14b4259974627a3199c943",
+      "id": "irk-203c3e0fb248416fa67887",
       "brand": "SUFIX",
-      "article": "FB4027",
-      "category": "Ремни приводные",
-      "retail": 400,
+      "article": "XG1047",
+      "category": "Радиаторы охлаждения",
+      "retail": 9450,
       "photo": {
-        "filename": "irk-14b4259974627a3199c943-2854d631e077.jpg",
-        "sha256": "2854d631e077a85a0f0be1896cbbd8f655783cd22a205e2eab95ea24bb054610",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-14b4259974627a3199c943-2854d631e077.jpg",
-        "manufacturer_page_sha256": "1e03d520c9b628950dd931b0f3c2c079772b7c6429d49b48addb36e96a4cad5f",
-        "fitment_page_sha256": "1e03d520c9b628950dd931b0f3c2c079772b7c6429d49b48addb36e96a4cad5f",
-        "verified_at_utc": "2026-11-18T09:52:12.991573+00:00"
+        "filename": "irk-203c3e0fb248416fa67887-6c7dd580bb3b.jpg",
+        "sha256": "6c7dd580bb3bc7fedd12d111d3089e8757980c478cd0fb7232980b269f90eae1",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-203c3e0fb248416fa67887-6c7dd580bb3b.jpg",
+        "manufacturer_page_sha256": "f13fac9486a41a962bb043e4853f852e4611e4700a6f16b76b840cab09b35232",
+        "fitment_page_sha256": "f13fac9486a41a962bb043e4853f852e4611e4700a6f16b76b840cab09b35232",
+        "verified_at_utc": "2026-11-19T07:12:42.040581+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:34.902039+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:42.456636+00:00"
     },
     {
-      "id": "irk-d638d033d4b5aa14ae5764",
+      "id": "irk-70c589bd5b6e1a051f33fc",
       "brand": "SUFIX",
-      "article": "FB4030",
-      "category": "Ремни приводные",
-      "retail": 350,
+      "article": "XG1050",
+      "category": "Радиаторы охлаждения",
+      "retail": 10550,
       "photo": {
-        "filename": "irk-d638d033d4b5aa14ae5764-594ac2565ff7.jpg",
-        "sha256": "594ac2565ff75e89faeb17cb991ae7e1ada891754dc43d7d0c40e1eaa6367d8d",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d638d033d4b5aa14ae5764-594ac2565ff7.jpg",
-        "manufacturer_page_sha256": "f0dd10cb3ae04ec5b8fd3076096d340bf8c2175d12fbeb12da2a3078f6afec91",
-        "fitment_page_sha256": "f0dd10cb3ae04ec5b8fd3076096d340bf8c2175d12fbeb12da2a3078f6afec91",
-        "verified_at_utc": "2026-11-18T09:52:12.679129+00:00"
+        "filename": "irk-70c589bd5b6e1a051f33fc-efd7b9f65368.jpg",
+        "sha256": "efd7b9f65368f7befb3e861e3149092c3f79d5a0d2ed2b4a48ef886f53ee1451",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-70c589bd5b6e1a051f33fc-efd7b9f65368.jpg",
+        "manufacturer_page_sha256": "e158cca984d7a98112c912c8911bb6df730f2e4acb81d7cb70cab8d223115e06",
+        "fitment_page_sha256": "e158cca984d7a98112c912c8911bb6df730f2e4acb81d7cb70cab8d223115e06",
+        "verified_at_utc": "2026-11-19T07:12:42.020229+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:36.455516+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:43.839971+00:00"
     },
     {
-      "id": "irk-4d05bab72c1b8418b5fdf0",
+      "id": "irk-e0e45cfeff29e10c0db900",
       "brand": "SUFIX",
-      "article": "FB4033",
-      "category": "Ремни приводные",
-      "retail": 400,
+      "article": "XG1054",
+      "category": "Радиаторы охлаждения",
+      "retail": 8650,
       "photo": {
-        "filename": "irk-4d05bab72c1b8418b5fdf0-66a9ae2bd223.jpg",
-        "sha256": "66a9ae2bd22305370982cfafc28facc6e0042c6d34f3c28cd8354f9b042c54a7",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4d05bab72c1b8418b5fdf0-66a9ae2bd223.jpg",
-        "manufacturer_page_sha256": "3bd5f14b699620e57280c0df36134d374fdbd95a48d7e42bf1f537ff49c7026b",
-        "fitment_page_sha256": "3bd5f14b699620e57280c0df36134d374fdbd95a48d7e42bf1f537ff49c7026b",
-        "verified_at_utc": "2026-11-18T09:52:14.636765+00:00"
+        "filename": "irk-e0e45cfeff29e10c0db900-152e678dba2b.jpg",
+        "sha256": "152e678dba2b02265727ca5d750303a765cc367c0309462aa84dd585726900ec",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e0e45cfeff29e10c0db900-152e678dba2b.jpg",
+        "manufacturer_page_sha256": "711a270829ebe03c0557bce518171d4dcb894378dc02444ad49a08ced30baef9",
+        "fitment_page_sha256": "711a270829ebe03c0557bce518171d4dcb894378dc02444ad49a08ced30baef9",
+        "verified_at_utc": "2026-11-19T07:12:44.377572+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:37.971514+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:45.254380+00:00"
     },
     {
-      "id": "irk-a97063e80e767ecc7b8394",
+      "id": "irk-51552a5e3a33436f0f49f7",
       "brand": "SUFIX",
-      "article": "FB4044",
-      "category": "Ремни приводные",
-      "retail": 300,
+      "article": "XG1055",
+      "category": "Радиаторы охлаждения",
+      "retail": 7200,
       "photo": {
-        "filename": "irk-a97063e80e767ecc7b8394-d6ee1eb6af08.jpg",
-        "sha256": "d6ee1eb6af08c42756f89f15058341ce0193cb6372511f5c413a834f689cfa4d",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a97063e80e767ecc7b8394-d6ee1eb6af08.jpg",
-        "manufacturer_page_sha256": "dbe1f91a0272fcc0a0ca4bdb12d6cd07c55909ba6bde612164fe0a7285a03902",
-        "fitment_page_sha256": "dbe1f91a0272fcc0a0ca4bdb12d6cd07c55909ba6bde612164fe0a7285a03902",
-        "verified_at_utc": "2026-11-18T09:52:15.624092+00:00"
+        "filename": "irk-51552a5e3a33436f0f49f7-ac2d428b6521.jpg",
+        "sha256": "ac2d428b6521314f27ef4d6eab6e885cfbdfbf97c723bbccf8b543dec50d920c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-51552a5e3a33436f0f49f7-ac2d428b6521.jpg",
+        "manufacturer_page_sha256": "9903127cb273a0e3bc6c5b779b70ea93053da9ba5cad19087544025e11ee6bf2",
+        "fitment_page_sha256": "9903127cb273a0e3bc6c5b779b70ea93053da9ba5cad19087544025e11ee6bf2",
+        "verified_at_utc": "2026-11-19T07:12:44.348365+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:39.868742+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:46.822644+00:00"
     },
     {
-      "id": "irk-76c8fb6259652bdfa2da79",
+      "id": "irk-b5d94fedb4273e39d19607",
       "brand": "SUFIX",
-      "article": "FB1021",
-      "category": "Ремни ГРМ",
-      "retail": 1000,
+      "article": "XG1058",
+      "category": "Радиаторы охлаждения",
+      "retail": 7700,
       "photo": {
-        "filename": "irk-76c8fb6259652bdfa2da79-4595aeb3ecbb.jpg",
-        "sha256": "4595aeb3ecbb9aff2e018beccecbc08fc664efc415501e4c4c9ffb2bd76a81da",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-76c8fb6259652bdfa2da79-4595aeb3ecbb.jpg",
-        "manufacturer_page_sha256": "dad527849fa181cb8b2b9d63ffbc01d1ace3efa7383c467b5f43fbd8aebcd421",
-        "fitment_page_sha256": "dad527849fa181cb8b2b9d63ffbc01d1ace3efa7383c467b5f43fbd8aebcd421",
-        "verified_at_utc": "2026-11-18T09:52:16.597739+00:00"
+        "filename": "irk-b5d94fedb4273e39d19607-7deaa51fda54.jpg",
+        "sha256": "7deaa51fda54d44574271ced7db2f91100c78a909d062ea4e74bbcce42395447",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b5d94fedb4273e39d19607-7deaa51fda54.jpg",
+        "manufacturer_page_sha256": "7d7689b63697da4d0224ebc517fc8fdd38df10caeea433372173a2ebed89d045",
+        "fitment_page_sha256": "7d7689b63697da4d0224ebc517fc8fdd38df10caeea433372173a2ebed89d045",
+        "verified_at_utc": "2026-11-19T07:12:47.016892+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:41.399893+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:48.837743+00:00"
     },
     {
-      "id": "irk-a9a331c3ffebafe2cf028f",
+      "id": "irk-f5b023328903383d8a26f0",
       "brand": "SUFIX",
-      "article": "FB1022",
-      "category": "Ремни ГРМ",
-      "retail": 1250,
+      "article": "XG1063",
+      "category": "Радиаторы охлаждения",
+      "retail": 8200,
       "photo": {
-        "filename": "irk-a9a331c3ffebafe2cf028f-f79f3a8d2db0.jpg",
-        "sha256": "f79f3a8d2db0ca3f16767c105e21b8ea02bf22a95aded66d17d7b90f500ccc8b",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a9a331c3ffebafe2cf028f-f79f3a8d2db0.jpg",
-        "manufacturer_page_sha256": "5f7c85036491ff8ade72b8d3cd4e7afa03f34a8604ad196df4976803df6d481f",
-        "fitment_page_sha256": "5f7c85036491ff8ade72b8d3cd4e7afa03f34a8604ad196df4976803df6d481f",
-        "verified_at_utc": "2026-11-18T09:52:17.488737+00:00"
+        "filename": "irk-f5b023328903383d8a26f0-02fa4963f83d.jpg",
+        "sha256": "02fa4963f83db3472313cd6207c502d3fae91f4d1b996e190f322c7cc52c8ff6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f5b023328903383d8a26f0-02fa4963f83d.jpg",
+        "manufacturer_page_sha256": "5663ddf2f2b20e3339f45b74f75882d3416ffe064730e7fbff9a644d69fe0a22",
+        "fitment_page_sha256": "5663ddf2f2b20e3339f45b74f75882d3416ffe064730e7fbff9a644d69fe0a22",
+        "verified_at_utc": "2026-11-19T07:12:46.527959+00:00"
       },
-      "API_checked_at_utc": "2026-11-18T09:52:42.881189+00:00"
+      "API_checked_at_utc": "2026-11-19T07:13:50.511559+00:00"
+    },
+    {
+      "id": "irk-d17e0d64af7435d33546d4",
+      "brand": "SUFIX",
+      "article": "XG1080",
+      "category": "Радиаторы охлаждения",
+      "retail": 7650,
+      "photo": {
+        "filename": "irk-d17e0d64af7435d33546d4-6587c85ad137.jpg",
+        "sha256": "6587c85ad13761bb8367a5d0b9bbfe3975548b07530ce6a2280cbaca1a518294",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d17e0d64af7435d33546d4-6587c85ad137.jpg",
+        "manufacturer_page_sha256": "07546e9f41495f6587a721e68ef3dbb80c17c990b68b11bded9e3a665ff7bde4",
+        "fitment_page_sha256": "07546e9f41495f6587a721e68ef3dbb80c17c990b68b11bded9e3a665ff7bde4",
+        "verified_at_utc": "2026-11-19T07:12:51.403377+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:13:51.888314+00:00"
+    },
+    {
+      "id": "irk-c4c7558fd72252dec4ef94",
+      "brand": "SUFIX",
+      "article": "XG1085",
+      "category": "Радиаторы охлаждения",
+      "retail": 9000,
+      "photo": {
+        "filename": "irk-c4c7558fd72252dec4ef94-e37c8bf75c77.jpg",
+        "sha256": "e37c8bf75c776c47c9c1ce599a3bbcc5b97b8a76e66e6498d767f50c66d01267",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c4c7558fd72252dec4ef94-e37c8bf75c77.jpg",
+        "manufacturer_page_sha256": "c5c52c6ab9e3e261aeb95e52a7a9db0d21081a7b7d2c04805db02454b94aeba4",
+        "fitment_page_sha256": "c5c52c6ab9e3e261aeb95e52a7a9db0d21081a7b7d2c04805db02454b94aeba4",
+        "verified_at_utc": "2026-11-19T07:12:50.683785+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:13:53.271798+00:00"
+    },
+    {
+      "id": "irk-a792417c113de097b12ea8",
+      "brand": "SUFIX",
+      "article": "XG1086",
+      "category": "Радиаторы охлаждения",
+      "retail": 8250,
+      "photo": {
+        "filename": "irk-a792417c113de097b12ea8-a10b0419db1a.jpg",
+        "sha256": "a10b0419db1ab443ea2e2feb9fa4de032458d9dd2905bde58d19811fe182b76d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a792417c113de097b12ea8-a10b0419db1a.jpg",
+        "manufacturer_page_sha256": "8c32634a088f9e17e6e6bf8d75cef4c43ff594cf00d96bec5a3f368e63e64434",
+        "fitment_page_sha256": "8c32634a088f9e17e6e6bf8d75cef4c43ff594cf00d96bec5a3f368e63e64434",
+        "verified_at_utc": "2026-11-19T07:12:52.609445+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:13:54.955531+00:00"
+    },
+    {
+      "id": "irk-f97b73927b312c088988fa",
+      "brand": "SUFIX",
+      "article": "XG1087",
+      "category": "Радиаторы охлаждения",
+      "retail": 7000,
+      "photo": {
+        "filename": "irk-f97b73927b312c088988fa-dc57f9544412.jpg",
+        "sha256": "dc57f9544412d1611c7ec0400fadc165392f52e31d4f69e943f27b02daf65347",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f97b73927b312c088988fa-dc57f9544412.jpg",
+        "manufacturer_page_sha256": "fe51268c4456ac922c65ce26259235e13fb73a69d326d4a25039fdd120e468c5",
+        "fitment_page_sha256": "fe51268c4456ac922c65ce26259235e13fb73a69d326d4a25039fdd120e468c5",
+        "verified_at_utc": "2026-11-19T07:12:53.563065+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:13:56.266528+00:00"
+    },
+    {
+      "id": "irk-bb854386b27e544aba6800",
+      "brand": "SUFIX",
+      "article": "XG1093",
+      "category": "Радиаторы охлаждения",
+      "retail": 7500,
+      "photo": {
+        "filename": "irk-bb854386b27e544aba6800-fb4d59455edf.jpg",
+        "sha256": "fb4d59455edf1f8db3e344a72d3f4951373e52084e6a365e7f20827c8b1d0f55",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bb854386b27e544aba6800-fb4d59455edf.jpg",
+        "manufacturer_page_sha256": "16536e9607bb19cbbaa3223a9bc641c4d5160fe23a2936d9066273ebc5721552",
+        "fitment_page_sha256": "16536e9607bb19cbbaa3223a9bc641c4d5160fe23a2936d9066273ebc5721552",
+        "verified_at_utc": "2026-11-19T07:12:54.756123+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:13:57.729970+00:00"
+    },
+    {
+      "id": "irk-e605eb6217911347779e3c",
+      "brand": "SUFIX",
+      "article": "XG1095",
+      "category": "Радиаторы охлаждения",
+      "retail": 11600,
+      "photo": {
+        "filename": "irk-e605eb6217911347779e3c-6ce3360fd27d.jpg",
+        "sha256": "6ce3360fd27dc5e9d4708eb44b1b2a918b9a37116f31d4ab9b99b810a515b533",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e605eb6217911347779e3c-6ce3360fd27d.jpg",
+        "manufacturer_page_sha256": "dd2752ca36b057db4ebbd38a82b52d8a4f605f7989b14e9403aed8d30c47c5d8",
+        "fitment_page_sha256": "dd2752ca36b057db4ebbd38a82b52d8a4f605f7989b14e9403aed8d30c47c5d8",
+        "verified_at_utc": "2026-11-19T07:12:55.499133+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:13:59.010540+00:00"
+    },
+    {
+      "id": "irk-a97e7cbfd3f97ab6c8c276",
+      "brand": "SUFIX",
+      "article": "XG1098",
+      "category": "Радиаторы охлаждения",
+      "retail": 9300,
+      "photo": {
+        "filename": "irk-a97e7cbfd3f97ab6c8c276-01011a7773c2.jpg",
+        "sha256": "01011a7773c2dcd30a3b60e46eceb7fb538de1d069a6abbbb709de0b51394480",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a97e7cbfd3f97ab6c8c276-01011a7773c2.jpg",
+        "manufacturer_page_sha256": "385d7288f626eaa38727e4cbef43df086701a76022afbc08e4ed5b255a5fe1e3",
+        "fitment_page_sha256": "385d7288f626eaa38727e4cbef43df086701a76022afbc08e4ed5b255a5fe1e3",
+        "verified_at_utc": "2026-11-19T07:12:56.722195+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:00.541825+00:00"
+    },
+    {
+      "id": "irk-44ef362b185baffe348812",
+      "brand": "SUFIX",
+      "article": "XG1102",
+      "category": "Радиаторы охлаждения",
+      "retail": 6850,
+      "photo": {
+        "filename": "irk-44ef362b185baffe348812-dd785abca28e.jpg",
+        "sha256": "dd785abca28ea644b624aeafd2240d6bc9d8e64e3ac39f2e4c1567dc8f67c4c3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-44ef362b185baffe348812-dd785abca28e.jpg",
+        "manufacturer_page_sha256": "c0d885ddb9a972c056c8d6972cad5838320b04e461eb14ee3fae539cee152681",
+        "fitment_page_sha256": "c0d885ddb9a972c056c8d6972cad5838320b04e461eb14ee3fae539cee152681",
+        "verified_at_utc": "2026-11-19T07:12:57.403566+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:02.105591+00:00"
+    },
+    {
+      "id": "irk-8a3c08ea0c759fd08c59f9",
+      "brand": "SUFIX",
+      "article": "XG1103",
+      "category": "Радиаторы охлаждения",
+      "retail": 9050,
+      "photo": {
+        "filename": "irk-8a3c08ea0c759fd08c59f9-6a14b6535a10.jpg",
+        "sha256": "6a14b6535a1098e295aef0b7ad1327ee587faa735478446e9b595e3e140f7936",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8a3c08ea0c759fd08c59f9-6a14b6535a10.jpg",
+        "manufacturer_page_sha256": "d44ce491dc321d8e353922a742b17f82feabd0528471fca0fee95ea2d4535a18",
+        "fitment_page_sha256": "d44ce491dc321d8e353922a742b17f82feabd0528471fca0fee95ea2d4535a18",
+        "verified_at_utc": "2026-11-19T07:12:58.618366+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:04.043576+00:00"
+    },
+    {
+      "id": "irk-7c66580a2dccf598c36aa0",
+      "brand": "SUFIX",
+      "article": "XG1114",
+      "category": "Радиаторы охлаждения",
+      "retail": 9350,
+      "photo": {
+        "filename": "irk-7c66580a2dccf598c36aa0-4de4e5654056.jpg",
+        "sha256": "4de4e56540562ef4888c7843f829c995581d419c30ba9082e7921cc65f96f14e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7c66580a2dccf598c36aa0-4de4e5654056.jpg",
+        "manufacturer_page_sha256": "cbd47e7cd92cbd6126b8cb1d3ee16549c1ab79152d188a1b6d7cc88dbb0b38c9",
+        "fitment_page_sha256": "cbd47e7cd92cbd6126b8cb1d3ee16549c1ab79152d188a1b6d7cc88dbb0b38c9",
+        "verified_at_utc": "2026-11-19T07:12:59.387993+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:05.725769+00:00"
+    },
+    {
+      "id": "irk-eebc532234e142c9224786",
+      "brand": "SUFIX",
+      "article": "XG1122",
+      "category": "Радиаторы охлаждения",
+      "retail": 9150,
+      "photo": {
+        "filename": "irk-eebc532234e142c9224786-85924e85afdc.jpg",
+        "sha256": "85924e85afdca19de3aa24a9f9ec6fb3538ee796aeae0d08f80b0d82d1706ccb",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-eebc532234e142c9224786-85924e85afdc.jpg",
+        "manufacturer_page_sha256": "2a2797203c38ba17c2e5c195e7dc573045c2fdbb8a15baaa64cfed49fce1beca",
+        "fitment_page_sha256": "2a2797203c38ba17c2e5c195e7dc573045c2fdbb8a15baaa64cfed49fce1beca",
+        "verified_at_utc": "2026-11-19T07:13:00.852464+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:07.315459+00:00"
+    },
+    {
+      "id": "irk-35dfcfceccc326228381ef",
+      "brand": "SUFIX",
+      "article": "XG1152",
+      "category": "Радиаторы охлаждения",
+      "retail": 8750,
+      "photo": {
+        "filename": "irk-35dfcfceccc326228381ef-521c27a85728.jpg",
+        "sha256": "521c27a85728de2c21678b027d407a8b62d6fd95c04e048b735efb94488703e0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-35dfcfceccc326228381ef-521c27a85728.jpg",
+        "manufacturer_page_sha256": "50bbdd643c7e0e6fbd641158a70bfc4e55100402cbd60f7680758acbfb53159b",
+        "fitment_page_sha256": "50bbdd643c7e0e6fbd641158a70bfc4e55100402cbd60f7680758acbfb53159b",
+        "verified_at_utc": "2026-11-19T07:13:01.273866+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:08.893386+00:00"
+    },
+    {
+      "id": "irk-153ad28d23f2b59028375b",
+      "brand": "SUFIX",
+      "article": "XG1168",
+      "category": "Радиаторы охлаждения",
+      "retail": 9750,
+      "photo": {
+        "filename": "irk-153ad28d23f2b59028375b-fddb55dfd6eb.jpg",
+        "sha256": "fddb55dfd6eb4c6863870736cdbbefeec9636c1161a29f3246df75916a414c4a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-153ad28d23f2b59028375b-fddb55dfd6eb.jpg",
+        "manufacturer_page_sha256": "c7f94338456d99eb9b1a2595cfda1552f9b879d4b4eff7efcad9f09765c222fb",
+        "fitment_page_sha256": "c7f94338456d99eb9b1a2595cfda1552f9b879d4b4eff7efcad9f09765c222fb",
+        "verified_at_utc": "2026-11-19T07:13:02.764714+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:10.797108+00:00"
+    },
+    {
+      "id": "irk-3583562bd92efd2b357520",
+      "brand": "SUFIX",
+      "article": "XG1169",
+      "category": "Радиаторы охлаждения",
+      "retail": 8950,
+      "photo": {
+        "filename": "irk-3583562bd92efd2b357520-bddfe40470c1.jpg",
+        "sha256": "bddfe40470c176640d25bbf327174987a5137d417b8f9b509abfe9a7ca375b59",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3583562bd92efd2b357520-bddfe40470c1.jpg",
+        "manufacturer_page_sha256": "6215ef58fa78984f08e81115a3a514f04a4096f008b9963a326854af12d3c393",
+        "fitment_page_sha256": "6215ef58fa78984f08e81115a3a514f04a4096f008b9963a326854af12d3c393",
+        "verified_at_utc": "2026-11-19T07:13:03.421606+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:12.395900+00:00"
+    },
+    {
+      "id": "irk-18a5e5f6f9a6057f60088d",
+      "brand": "SUFIX",
+      "article": "XG1183",
+      "category": "Радиаторы охлаждения",
+      "retail": 8350,
+      "photo": {
+        "filename": "irk-18a5e5f6f9a6057f60088d-cc03b9c415f2.jpg",
+        "sha256": "cc03b9c415f2c386edbcf01dff29f7ed109bef7f6759c5f3aac29e8df14bb87c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-18a5e5f6f9a6057f60088d-cc03b9c415f2.jpg",
+        "manufacturer_page_sha256": "2d18a74b859f0d52e525d175f5a2c4db7853f51dfa929845d20244f731bad432",
+        "fitment_page_sha256": "2d18a74b859f0d52e525d175f5a2c4db7853f51dfa929845d20244f731bad432",
+        "verified_at_utc": "2026-11-19T07:13:04.692405+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:13.704908+00:00"
+    },
+    {
+      "id": "irk-aca08372d05e33e5cdca0a",
+      "brand": "SUFIX",
+      "article": "XG1193",
+      "category": "Радиаторы охлаждения",
+      "retail": 6550,
+      "photo": {
+        "filename": "irk-aca08372d05e33e5cdca0a-4b8dd0b65b6e.jpg",
+        "sha256": "4b8dd0b65b6eb7cfd42068d3d8a114484b481ece99bbcc96d47c25c7a094ed4f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-aca08372d05e33e5cdca0a-4b8dd0b65b6e.jpg",
+        "manufacturer_page_sha256": "cc51199ea26bd84dacc68276334a1992aef6d9b21a4f4b9d4dc53760af44bd26",
+        "fitment_page_sha256": "cc51199ea26bd84dacc68276334a1992aef6d9b21a4f4b9d4dc53760af44bd26",
+        "verified_at_utc": "2026-11-19T07:13:05.341015+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:15.493136+00:00"
+    },
+    {
+      "id": "irk-0fe04b89daf9e3919fec8c",
+      "brand": "SUFIX",
+      "article": "XG1198",
+      "category": "Радиаторы охлаждения",
+      "retail": 6250,
+      "photo": {
+        "filename": "irk-0fe04b89daf9e3919fec8c-0cb111f8f66f.jpg",
+        "sha256": "0cb111f8f66ff75884cc8774eaa06c725be129a67b1f3736587a16aa355e8c1b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0fe04b89daf9e3919fec8c-0cb111f8f66f.jpg",
+        "manufacturer_page_sha256": "9d2af40afd3985ae44f966c72d91c2d4f057b08539e415b19bb07ca5afcb6139",
+        "fitment_page_sha256": "9d2af40afd3985ae44f966c72d91c2d4f057b08539e415b19bb07ca5afcb6139",
+        "verified_at_utc": "2026-11-19T07:13:06.645255+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:16.955756+00:00"
+    },
+    {
+      "id": "irk-c15560c5930898c0c24b5f",
+      "brand": "SUFIX",
+      "article": "XG1238",
+      "category": "Радиаторы охлаждения",
+      "retail": 14250,
+      "photo": {
+        "filename": "irk-c15560c5930898c0c24b5f-1722a64a3865.jpg",
+        "sha256": "1722a64a3865cf8fe33b6aff7dfbf8cae13dd17126150fa142d81aeb98146774",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c15560c5930898c0c24b5f-1722a64a3865.jpg",
+        "manufacturer_page_sha256": "6322ee68479207cd904de899dd2db0cec3c79604639dac7e7baf8c39a42a6237",
+        "fitment_page_sha256": "6322ee68479207cd904de899dd2db0cec3c79604639dac7e7baf8c39a42a6237",
+        "verified_at_utc": "2026-11-19T07:13:07.155485+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:18.633562+00:00"
+    },
+    {
+      "id": "irk-a6fd73897687da3fa12736",
+      "brand": "SUFIX",
+      "article": "XG1287",
+      "category": "Радиаторы охлаждения",
+      "retail": 7300,
+      "photo": {
+        "filename": "irk-a6fd73897687da3fa12736-72e5ffb91552.jpg",
+        "sha256": "72e5ffb915521254c320017cf33e283e70aadc219475371539b336dee65a0342",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a6fd73897687da3fa12736-72e5ffb91552.jpg",
+        "manufacturer_page_sha256": "964272713dd6a88cf17a808ec93b8d9bf1b8565c800db9cd329a339e8a2c5241",
+        "fitment_page_sha256": "964272713dd6a88cf17a808ec93b8d9bf1b8565c800db9cd329a339e8a2c5241",
+        "verified_at_utc": "2026-11-19T07:13:08.369072+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:20.244784+00:00"
+    },
+    {
+      "id": "irk-e01992c12d51176a341319",
+      "brand": "SUFIX",
+      "article": "XC1010",
+      "category": "Радиаторы кондиционера",
+      "retail": 7100,
+      "photo": {
+        "filename": "irk-e01992c12d51176a341319-243052dfc63a.jpg",
+        "sha256": "243052dfc63add7fa5a879235f45785f50313a879b719370226d55ca3b0a8afe",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e01992c12d51176a341319-243052dfc63a.jpg",
+        "manufacturer_page_sha256": "0e7577e8ecd324fe8faa4625f3bfe9dd875cd4c1f3a162c2beb7325a2a11f15a",
+        "fitment_page_sha256": "0e7577e8ecd324fe8faa4625f3bfe9dd875cd4c1f3a162c2beb7325a2a11f15a",
+        "verified_at_utc": "2026-11-19T07:13:09.040916+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:21.809015+00:00"
+    },
+    {
+      "id": "irk-24e62aa30bdfdbd7a1c2c8",
+      "brand": "SUFIX",
+      "article": "XC1012",
+      "category": "Радиаторы кондиционера",
+      "retail": 8400,
+      "photo": {
+        "filename": "irk-24e62aa30bdfdbd7a1c2c8-7baa94a5bc0e.jpg",
+        "sha256": "7baa94a5bc0eea0473dd5dcc6a0b77652616e4f416daa5f049bf3aeab1b0a8bd",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-24e62aa30bdfdbd7a1c2c8-7baa94a5bc0e.jpg",
+        "manufacturer_page_sha256": "79b37ee33f456f0898ebaa448644e2f91cfe8ec267b80af37f247d8edd45cab1",
+        "fitment_page_sha256": "79b37ee33f456f0898ebaa448644e2f91cfe8ec267b80af37f247d8edd45cab1",
+        "verified_at_utc": "2026-11-19T07:13:13.088855+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:23.765421+00:00"
+    },
+    {
+      "id": "irk-fb0fce049490f9b414e70a",
+      "brand": "SUFIX",
+      "article": "XC1021",
+      "category": "Радиаторы кондиционера",
+      "retail": 7300,
+      "photo": {
+        "filename": "irk-fb0fce049490f9b414e70a-75c701f40e37.jpg",
+        "sha256": "75c701f40e37e4948ea3c062e3581d0fd182580cfcd5f2ea1891a37e6364fac6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fb0fce049490f9b414e70a-75c701f40e37.jpg",
+        "manufacturer_page_sha256": "938c48bb844554f91d72a56b71abbcdb7ac994cb6feeed209fd2e6347e0d875e",
+        "fitment_page_sha256": "938c48bb844554f91d72a56b71abbcdb7ac994cb6feeed209fd2e6347e0d875e",
+        "verified_at_utc": "2026-11-19T07:13:13.527817+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:25.545396+00:00"
+    },
+    {
+      "id": "irk-3b69ce27b8e090ed16cf35",
+      "brand": "SUFIX",
+      "article": "XC1022",
+      "category": "Радиаторы кондиционера",
+      "retail": 7850,
+      "photo": {
+        "filename": "irk-3b69ce27b8e090ed16cf35-75eec469d76f.jpg",
+        "sha256": "75eec469d76fb594dc744f5f7047a969c8b423d0266e210c9cb0567e16fece14",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3b69ce27b8e090ed16cf35-75eec469d76f.jpg",
+        "manufacturer_page_sha256": "a3fa08b227bd58dee5bb79a9ec6a48e90bca0e5c2cd76abb6aa31204d7560a45",
+        "fitment_page_sha256": "a3fa08b227bd58dee5bb79a9ec6a48e90bca0e5c2cd76abb6aa31204d7560a45",
+        "verified_at_utc": "2026-11-19T07:13:15.488306+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:27.021439+00:00"
+    },
+    {
+      "id": "irk-49ab0b9139c8914a33efb3",
+      "brand": "SUFIX",
+      "article": "XC1034",
+      "category": "Радиаторы кондиционера",
+      "retail": 7550,
+      "photo": {
+        "filename": "irk-49ab0b9139c8914a33efb3-54b0ac3ae098.jpg",
+        "sha256": "54b0ac3ae098998019b3057d986a19463373a0c5a7067b097b6bd7eac56193ea",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-49ab0b9139c8914a33efb3-54b0ac3ae098.jpg",
+        "manufacturer_page_sha256": "4ba1d4aec8f14d924d6b5e4b25ce024cefeba79d5c8c9681066b45cf346462dc",
+        "fitment_page_sha256": "4ba1d4aec8f14d924d6b5e4b25ce024cefeba79d5c8c9681066b45cf346462dc",
+        "verified_at_utc": "2026-11-19T07:13:15.457347+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:28.434600+00:00"
+    },
+    {
+      "id": "irk-973574a7d6d7f74a281524",
+      "brand": "SUFIX",
+      "article": "XC1045",
+      "category": "Радиаторы кондиционера",
+      "retail": 6950,
+      "photo": {
+        "filename": "irk-973574a7d6d7f74a281524-90435449327f.jpg",
+        "sha256": "90435449327f0e7646c5e7bdbb82cf9f891db04f07c2b64f279ff984069ab1c5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-973574a7d6d7f74a281524-90435449327f.jpg",
+        "manufacturer_page_sha256": "dccb1c235ba467c49049adb9d787ead6867fc5c77b9c4f4adde0c27cc9c32c3a",
+        "fitment_page_sha256": "dccb1c235ba467c49049adb9d787ead6867fc5c77b9c4f4adde0c27cc9c32c3a",
+        "verified_at_utc": "2026-11-19T07:13:17.334398+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:29.831218+00:00"
+    },
+    {
+      "id": "irk-e9a6a0010d218f92e288d5",
+      "brand": "SUFIX",
+      "article": "XC1052",
+      "category": "Радиаторы кондиционера",
+      "retail": 7350,
+      "photo": {
+        "filename": "irk-e9a6a0010d218f92e288d5-d343f14538e4.jpg",
+        "sha256": "d343f14538e49c09436a40cea605b6511050e827d5fc8905dcc93333985135f8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e9a6a0010d218f92e288d5-d343f14538e4.jpg",
+        "manufacturer_page_sha256": "6975f15567c3bd9f3c673ebd7a4a5b20838e98c4b5edc4f7ddc5a90686cb605f",
+        "fitment_page_sha256": "6975f15567c3bd9f3c673ebd7a4a5b20838e98c4b5edc4f7ddc5a90686cb605f",
+        "verified_at_utc": "2026-11-19T07:13:17.654387+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:31.493001+00:00"
+    },
+    {
+      "id": "irk-c8fa2d079af71dd3946907",
+      "brand": "SUFIX",
+      "article": "XC1054",
+      "category": "Радиаторы кондиционера",
+      "retail": 7650,
+      "photo": {
+        "filename": "irk-c8fa2d079af71dd3946907-7783c0a3a489.jpg",
+        "sha256": "7783c0a3a4893a3105a823e816f67a24135a116cd5647c9957c0e2295fce0e4c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c8fa2d079af71dd3946907-7783c0a3a489.jpg",
+        "manufacturer_page_sha256": "a77aa2de7f849a5a16c59850095e069dbdb5361dc3174ba28b7074420a206274",
+        "fitment_page_sha256": "a77aa2de7f849a5a16c59850095e069dbdb5361dc3174ba28b7074420a206274",
+        "verified_at_utc": "2026-11-19T07:13:19.130338+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:32.796331+00:00"
+    },
+    {
+      "id": "irk-bad4c5a311286bf886e331",
+      "brand": "SUFIX",
+      "article": "XC1058",
+      "category": "Радиаторы кондиционера",
+      "retail": 6500,
+      "photo": {
+        "filename": "irk-bad4c5a311286bf886e331-1b4c43126d10.jpg",
+        "sha256": "1b4c43126d1009e2a979165dab0f19b331a00ae4fba51dcf9b2bc9f89270558c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bad4c5a311286bf886e331-1b4c43126d10.jpg",
+        "manufacturer_page_sha256": "4ff7b353080636bcaf3d80c051c1b1b0868e2dcc5530ce1db0d1abca9da3d970",
+        "fitment_page_sha256": "4ff7b353080636bcaf3d80c051c1b1b0868e2dcc5530ce1db0d1abca9da3d970",
+        "verified_at_utc": "2026-11-19T07:13:19.474985+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:34.192642+00:00"
+    },
+    {
+      "id": "irk-0c2db69166156864587ad7",
+      "brand": "SUFIX",
+      "article": "XC1059",
+      "category": "Радиаторы кондиционера",
+      "retail": 7450,
+      "photo": {
+        "filename": "irk-0c2db69166156864587ad7-f22d589519f4.jpg",
+        "sha256": "f22d589519f4e38d89aa678cd3ab72426b19db1e09f6e6cc6b32aeb89f35a4e3",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0c2db69166156864587ad7-f22d589519f4.jpg",
+        "manufacturer_page_sha256": "bfcce87fa918e5086ffb5835ae8278a52ca56388936e491305b936fff6adb909",
+        "fitment_page_sha256": "bfcce87fa918e5086ffb5835ae8278a52ca56388936e491305b936fff6adb909",
+        "verified_at_utc": "2026-11-19T07:13:21.143168+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:36.034080+00:00"
+    },
+    {
+      "id": "irk-2956443f69e646630de508",
+      "brand": "SUFIX",
+      "article": "XC1060",
+      "category": "Радиаторы кондиционера",
+      "retail": 7500,
+      "photo": {
+        "filename": "irk-2956443f69e646630de508-b9d9517c0d17.jpg",
+        "sha256": "b9d9517c0d178811991b434e5ad7f44b388150271de244ad9aa892aee70e3512",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2956443f69e646630de508-b9d9517c0d17.jpg",
+        "manufacturer_page_sha256": "162011387a9bbc07e6f7b6bbb65a15a7fa282a3b23dd96a13e15dea2d7305167",
+        "fitment_page_sha256": "162011387a9bbc07e6f7b6bbb65a15a7fa282a3b23dd96a13e15dea2d7305167",
+        "verified_at_utc": "2026-11-19T07:13:21.249427+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:37.679385+00:00"
+    },
+    {
+      "id": "irk-cf44b797ef729a00cb3c30",
+      "brand": "SUFIX",
+      "article": "XG1070",
+      "category": "Радиаторы охлаждения",
+      "retail": 9250,
+      "photo": {
+        "filename": "irk-cf44b797ef729a00cb3c30-34a58e943fa5.jpg",
+        "sha256": "34a58e943fa5c546339a34bac494b449cb6e10a640e27e301903e841ae4b18ce",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-cf44b797ef729a00cb3c30-34a58e943fa5.jpg",
+        "manufacturer_page_sha256": "f1babce3e078ad294622ecdbe523318dbf0d0c2755e238c102da1bae99d67e47",
+        "fitment_page_sha256": "f1babce3e078ad294622ecdbe523318dbf0d0c2755e238c102da1bae99d67e47",
+        "verified_at_utc": "2026-11-19T07:13:23.033359+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:39.134866+00:00"
+    },
+    {
+      "id": "irk-e3c269ad209da0ac0736e4",
+      "brand": "SUFIX",
+      "article": "XG1071",
+      "category": "Радиаторы охлаждения",
+      "retail": 5450,
+      "photo": {
+        "filename": "irk-e3c269ad209da0ac0736e4-ddb06ce83cc6.jpg",
+        "sha256": "ddb06ce83cc67b22bd2bffa32d7e62e2ce7e5b432c56dc67ec692b1aba1d88bd",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e3c269ad209da0ac0736e4-ddb06ce83cc6.jpg",
+        "manufacturer_page_sha256": "5416a93d12a91ce0411d757afd9ac84067bdea7278ca7c06114c406ccce80d60",
+        "fitment_page_sha256": "5416a93d12a91ce0411d757afd9ac84067bdea7278ca7c06114c406ccce80d60",
+        "verified_at_utc": "2026-11-19T07:13:23.172570+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:40.478976+00:00"
+    },
+    {
+      "id": "irk-fa78e6555140d6a6d4d7be",
+      "brand": "SUFIX",
+      "article": "XG1104",
+      "category": "Радиаторы охлаждения",
+      "retail": 9700,
+      "photo": {
+        "filename": "irk-fa78e6555140d6a6d4d7be-fe932722b797.jpg",
+        "sha256": "fe932722b79765bf67a7ca45549ac06a322e4bedf1ea77e93f778e58682a1829",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-fa78e6555140d6a6d4d7be-fe932722b797.jpg",
+        "manufacturer_page_sha256": "dc5fb8955c0b067f0f692cdc48649a7ba343f32603d6f6bc95c7240827422ad7",
+        "fitment_page_sha256": "dc5fb8955c0b067f0f692cdc48649a7ba343f32603d6f6bc95c7240827422ad7",
+        "verified_at_utc": "2026-11-19T07:13:24.916138+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:42.106456+00:00"
+    },
+    {
+      "id": "irk-0536e87f8d27337e7b6110",
+      "brand": "SUFIX",
+      "article": "XC1005",
+      "category": "Радиаторы кондиционера",
+      "retail": 6850,
+      "photo": {
+        "filename": "irk-0536e87f8d27337e7b6110-5cac2717f0ab.jpg",
+        "sha256": "5cac2717f0abb7ea70f2652dcad0f3111b9ad0b82dd3d158b7eca102adeaee96",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0536e87f8d27337e7b6110-5cac2717f0ab.jpg",
+        "manufacturer_page_sha256": "62c112b86c7d660fc7220a28e806fdbdb71cbac81ceae5d89dcf4220e779c074",
+        "fitment_page_sha256": "62c112b86c7d660fc7220a28e806fdbdb71cbac81ceae5d89dcf4220e779c074",
+        "verified_at_utc": "2026-11-19T07:13:25.046878+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:43.674801+00:00"
+    },
+    {
+      "id": "irk-bb879d9556190abf101c43",
+      "brand": "SUFIX",
+      "article": "XC1009",
+      "category": "Радиаторы кондиционера",
+      "retail": 6200,
+      "photo": {
+        "filename": "irk-bb879d9556190abf101c43-5e5a954266be.jpg",
+        "sha256": "5e5a954266be09a6fdbebac914b1719860b0655a4448bf408c3e435d17156f63",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-bb879d9556190abf101c43-5e5a954266be.jpg",
+        "manufacturer_page_sha256": "c0cbc335d48aa5b9eae02914250ba624f9c90d0da204c6498a5496445df4d24c",
+        "fitment_page_sha256": "c0cbc335d48aa5b9eae02914250ba624f9c90d0da204c6498a5496445df4d24c",
+        "verified_at_utc": "2026-11-19T07:13:26.757837+00:00"
+      },
+      "API_checked_at_utc": "2026-11-19T07:14:45.269945+00:00"
     }
   ],
   "skipped": [],
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": true,
-  "release_workflow_run_id": 44279785182,
-  "CDN_exact_bytes_verified": false,
-  "Avito_import_verified": false,
-  "expected_ads": 564,
-  "expected_sha256": "10384f6bc8956022e1a6b67658cf084752afcae42672aa58554c2b7b6258f21a",
-  "expected_bytes": 867216,
-  "raw_exact_bytes_verified": true,
-  "CDN_observed_ads": 494,
-  "CDN_observed_sha256": "4dea08f935bd30d483fa55f2b273856f279a176b6afc72fd76d84f92d8280103",
-  "CDN_recheck_run_id": 44280537152,
-  "CDN_recheck_conclusion": "failure",
-  "block_added_count": 54,
-  "all_original_510_live_and_524_archive_ads_preserved": true,
-  "all_new_54_public_images_exact_bytes_verified": true,
-  "CDN_refresh_step_failed_after_XML_push": true
+  "publication_performed": false
 }
