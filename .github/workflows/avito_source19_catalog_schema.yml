@@ -1,0 +1,22 @@
+name: Avito - read Febest catalog search schema Nov19
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_source19_catalog_schema.yml']
+permissions:
+  contents: read
+jobs:
+  catalog-schema:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - run: |
+          python - <<'PY'
+          import urllib.request,base64
+          for key,url in [('catalog','https://febest.de/en/catalog'),('js','https://febest.de/themes/de/js/custom.js?v=1771253772')]:
+              try:
+                  with urllib.request.urlopen(url,timeout=20) as r:raw=r.read(300001)
+                  assert len(raw)<300000
+                  print('SCHEMA_BASE64',key,base64.b64encode(raw).decode(),flush=True)
+              except Exception as e:print('SCHEMA_ERROR',key,type(e).__name__,flush=True)
+          PY
