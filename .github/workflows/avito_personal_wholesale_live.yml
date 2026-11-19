@@ -46,7 +46,7 @@ jobs:
       - name: Checkout reviewed exact-SKU extension support
         uses: actions/checkout@v4
         with:
-          ref: c5b9d02233083d611f88e3133a871c1789e16aa7
+          ref: 8f53eab3fc60f57bf03c1eafda2cd2721fedd255
           path: verified-extension
           persist-credentials: false
       - name: Load verified additional categories without broadening the approved catalogue
@@ -114,7 +114,7 @@ jobs:
               raise SystemExit("REFUSE: API cost validation expired or invalid")
           checked=api["api_requests_attempted"]
           confirmed=api["api_wholesale_confirmed"]
-          if not (100<=confirmed<=checked<=769 and confirmed/checked>=0.70
+          if not (100<=confirmed<=checked<=836 and confirmed/checked>=0.70
                   and confirmed==r["current_api_verified_skus"]):
               raise SystemExit("REFUSE: missing fresh API personal prices")
           prev=ET.parse("avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml").getroot()
