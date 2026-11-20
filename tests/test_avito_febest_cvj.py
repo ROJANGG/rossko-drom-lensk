@@ -3,7 +3,8 @@ from pathlib import Path
 from xml.etree import ElementTree as E
 from openpyxl import Workbook
 from avito_reviewed_febest_cvj import load_reviewed_febest,validate_source
-from avito_prepared_belts_release import make_ad,append_ads
+from avito_prepared_belts_release import make_ad,append_ads,load_release_records
+from types import SimpleNamespace
 from avito_active_feed_refresh import seller_sku,key,supplier_products
 from avito_wholesale_live_api_refresh import list_approved
 from test_avito_active_feed_refresh import fixture
@@ -32,3 +33,7 @@ class ExactFebestCVJ(unittest.TestCase):
    b=Workbook();w=b.active;w.append(['Бренд','Артикул','Описание','Цена, руб.','Наличие','Срок поставки, дн.','Город склада']);w.append([brand,article,'ШРУС наружный',1000,qty,days,city]);got=supplier_products(b,{'avito':{'pickup_address':'Иркутск'}});b.close();self.assertEqual(key(brand,article) in got,want)
  def test_append_preserves_old_ads_and_API_reader_accepts_all_exact_Febest(self):
   old,_,_=fixture(count=408,absent=0);rs=self.records();ads=[make_ad(r,3000,{'public_url':r['photo_url']},'Иркутск') for r in rs];new=append_ads(old,ads);self.assertEqual(len(list_approved(new)),408+len(rs));self.assertEqual([E.tostring(a) for a in E.fromstring(old)],[E.tostring(a) for a in E.fromstring(new)][:408])
+
+ def test_combined_release_loads_every_brand_before_applying_exact_selection(self):
+  args=SimpleNamespace(manifest=B/'input/avito_reviewed_sufix_drive_belts.json',lynx_manifest=B/'input/avito_reviewed_drive_belts_source09.json',febest_manifest=P,selection=B/'input/avito_release_selection_cvj_20261120.json')
+  rs=load_release_records(args);self.assertEqual(len(rs),94);self.assertEqual(sum(r['brand']=='Febest' for r in rs),20);self.assertEqual(sum(r['brand']=='SUFIX' for r in rs),74);self.assertEqual({(r['brand'],r['article']) for r in rs},{(r['brand'],r['article']) for r in json.loads(args.selection.read_text())['items']})

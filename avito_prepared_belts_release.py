@@ -167,12 +167,15 @@ def filter_selection(records,path):
     if not 1<=len(selected)<=100 or len(keys)!=len(selected) or any(known.get(k)!=v for k,v in keys.items()):raise ValueError('Invalid exact release selection')
     return [r for r in records if key(r['brand'],r['article']) in keys]
 
-def build(args):
+def load_release_records(args):
     records = load_reviewed_sufix_belts(args.manifest) + load_reviewed_belts(args.lynx_manifest)
-    if args.selection is not None:records=filter_selection(records,args.selection)
     if getattr(args,'febest_manifest',None) is not None:
         from avito_reviewed_febest_cvj import load_reviewed_febest
         records += load_reviewed_febest(args.febest_manifest)
+    return filter_selection(records,args.selection) if args.selection is not None else records
+
+def build(args):
+    records = load_release_records(args)
     scope_count = len(records)
     args.out.mkdir(parents=True, exist_ok=True)
     images = args.out/'avito-images'; images.mkdir(exist_ok=True)
