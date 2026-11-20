@@ -1,0 +1,1304 @@
+{
+  "batch_size": 100,
+  "API_requests_attempted": 98,
+  "results": [
+    {
+      "brand": "Febest",
+      "article": "0110008",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:22.918813+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 5000
+    },
+    {
+      "brand": "Febest",
+      "article": "0110009A48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:24.398330+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3250
+    },
+    {
+      "brand": "Febest",
+      "article": "0110010A48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:26.076255+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3500
+    },
+    {
+      "brand": "Febest",
+      "article": "0110054A48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:27.714712+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 4150
+    },
+    {
+      "brand": "Febest",
+      "article": "0110055A48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:29.538342+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4150
+    },
+    {
+      "brand": "Febest",
+      "article": "01101NZFE",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:31.093000+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 4450
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ASV50LA48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:32.534662+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 6150
+    },
+    {
+      "brand": "Febest",
+      "article": "0110AXVA70",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:34.403166+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 10050
+    },
+    {
+      "brand": "Febest",
+      "article": "0110GRN245",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:36.084189+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 6900
+    },
+    {
+      "brand": "Febest",
+      "article": "0110KSP90Z19",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:37.379331+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4100
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ZGX10",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:38.472957+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 10850
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ZZE132A48",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:39.396896+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 5900
+    },
+    {
+      "brand": "Febest",
+      "article": "01111SZFE",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:40.450711+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 4000
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ACV30RH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:41.472194+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 8200
+    },
+    {
+      "brand": "Febest",
+      "article": "0111AZT250LH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:42.814162+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 5450
+    },
+    {
+      "brand": "Febest",
+      "article": "0111GSV40LH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:44.378763+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 5700
+    },
+    {
+      "brand": "Febest",
+      "article": "0111KSP130",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:45.801542+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 5150
+    },
+    {
+      "brand": "Febest",
+      "article": "0111MCX20RH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:46.873262+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 8000
+    },
+    {
+      "brand": "Febest",
+      "article": "0111MHU38R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:48.104364+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 6650
+    },
+    {
+      "brand": "Febest",
+      "article": "0111NZE140",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:49.274185+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 6450
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ST215RH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:50.534400+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 7700
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ZRE142",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:51.967475+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 9050
+    },
+    {
+      "brand": "Febest",
+      "article": "0115090",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:53.000246+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1000
+    },
+    {
+      "brand": "Febest",
+      "article": "01152UZFE",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:54.804058+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1350
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACA20RT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:56.461277+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACA33RT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:57.549632+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2150
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACU35RT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:25:58.844780+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACV30LHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:00.177581+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "Febest",
+      "article": "0115AXAH54RT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:02.437811+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "Febest",
+      "article": "0115AZT251TRH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:03.677709+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2000
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GRJ120T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:04.964640+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1150
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GRJ150T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:06.653872+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2950
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GSU35LHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:08.132305+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1250
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GSX30RHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:09.431259+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "Febest",
+      "article": "0115KLH18",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:10.559526+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1650
+    },
+    {
+      "brand": "Febest",
+      "article": "0115KUN26T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:11.748766+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "Febest",
+      "article": "0115MCV30",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:13.036337+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1250
+    },
+    {
+      "brand": "Febest",
+      "article": "0115MHU38R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:14.496056+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "Febest",
+      "article": "0115PASV70T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:15.784204+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3850
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZNRRHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:17.038317+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZRT270T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:18.120958+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZZE150T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:19.535502+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1150
+    },
+    {
+      "brand": "Febest",
+      "article": "0117074",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:21.543536+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1150
+    },
+    {
+      "brand": "Febest",
+      "article": "0117NCP90",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:23.417950+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 1850
+    },
+    {
+      "brand": "Febest",
+      "article": "0117NGJ10",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:24.972869+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1300
+    },
+    {
+      "brand": "Febest",
+      "article": "0117090",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:26.079733+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1050
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P1NZFE",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:27.965962+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P067",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:29.445522+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P200",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:30.980346+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PACA33R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:32.428214+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1950
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PACV40",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:33.690263+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PAXAH54R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:35.738329+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PGRJ150",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:36.932203+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2250
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PKUN26",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:38.368076+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3200
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PZZE150",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:39.743810+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "Febest",
+      "article": "0210T32R",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:41.329173+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 7800
+    },
+    {
+      "brand": "Febest",
+      "article": "0210V10A44",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:42.697726+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3600
+    },
+    {
+      "brand": "Febest",
+      "article": "0211J32QR25FLH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:44.258045+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 16250
+    },
+    {
+      "brand": "Febest",
+      "article": "0215071T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:45.355694+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "Febest",
+      "article": "0215C11XT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:47.361036+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2700
+    },
+    {
+      "brand": "Febest",
+      "article": "0215F15T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:48.546886+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2850
+    },
+    {
+      "brand": "Febest",
+      "article": "0215J1016",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:49.851443+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "Febest",
+      "article": "0215J32T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:51.802485+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2700
+    },
+    {
+      "brand": "Febest",
+      "article": "0215L32T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:52.991528+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215R51T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:52.991541+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "Febest",
+      "article": "0215S14T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:54.200273+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "Febest",
+      "article": "0215Y62",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:56.183316+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "Febest",
+      "article": "0215Z51T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:57.443423+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2150
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PB30",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:26:59.027338+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2000
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PE11",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:01.386687+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PJ1016",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:02.969337+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PJ1020",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:04.294262+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PN16",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:05.865318+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1850
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PV42",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:07.910642+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2450
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PY62",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:09.367686+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2450
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PZ50",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:11.072485+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2000
+    },
+    {
+      "brand": "Febest",
+      "article": "0310024A50",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:14.183771+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3500
+    },
+    {
+      "brand": "Febest",
+      "article": "0310BE",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:15.416367+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 7500
+    },
+    {
+      "brand": "Febest",
+      "article": "0310CITYAT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:16.402109+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 5100
+    },
+    {
+      "brand": "Febest",
+      "article": "0311CIV5DLH",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:17.567479+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 8500
+    },
+    {
+      "brand": "Febest",
+      "article": "0311GP1",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:18.530897+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "Febest",
+      "article": "0317121",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:18.530907+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1100
+    },
+    {
+      "brand": "Febest",
+      "article": "0317PRE5",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:20.165572+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3000
+    },
+    {
+      "brand": "Febest",
+      "article": "0410013",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:21.588521+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 4500
+    },
+    {
+      "brand": "Febest",
+      "article": "0410CW5",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:23.154570+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 4650
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CU20",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:24.441319+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1350
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CW6LHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:25.808985+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1700
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CY4ALHT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:27.168624+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "Febest",
+      "article": "0415K94",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:29.075647+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 1150
+    },
+    {
+      "brand": "Febest",
+      "article": "0415N94T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:30.920343+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "Febest",
+      "article": "0415PV97WR",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:32.546747+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2500
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PDJ24",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:34.287148+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PKB4",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:35.618777+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV75",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:37.294451+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV97WF",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:38.739895+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV97WR",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:40.951669+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2950
+    },
+    {
+      "brand": "Febest",
+      "article": "0510KEAT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:42.026778+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 5500
+    },
+    {
+      "brand": "Febest",
+      "article": "0515BKT",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:43.309819+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1050
+    },
+    {
+      "brand": "Febest",
+      "article": "0515CX7T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:44.910028+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "Febest",
+      "article": "0515M2T",
+      "category": "ШРУС",
+      "checked_at_utc": "2026-11-20T09:27:46.225609+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1600
+    }
+  ],
+  "status_counts": {
+    "опт_Иркутск_подтвержден": 98,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 2
+  },
+  "ready_for_full_source_review": [
+    {
+      "brand": "Febest",
+      "article": "0110008"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110009A48"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110010A48"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110054A48"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110055A48"
+    },
+    {
+      "brand": "Febest",
+      "article": "01101NZFE"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ASV50LA48"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110AXVA70"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110GRN245"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110KSP90Z19"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ZGX10"
+    },
+    {
+      "brand": "Febest",
+      "article": "0110ZZE132A48"
+    },
+    {
+      "brand": "Febest",
+      "article": "01111SZFE"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ACV30RH"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111AZT250LH"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111GSV40LH"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111KSP130"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111MCX20RH"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111MHU38R"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111NZE140"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ST215RH"
+    },
+    {
+      "brand": "Febest",
+      "article": "0111ZRE142"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115090"
+    },
+    {
+      "brand": "Febest",
+      "article": "01152UZFE"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACA20RT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACA33RT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACU35RT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ACV30LHT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115AXAH54RT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115AZT251TRH"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GRJ120T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GRJ150T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GSU35LHT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115GSX30RHT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115KLH18"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115KUN26T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115MCV30"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115MHU38R"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115PASV70T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZNRRHT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZRT270T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0115ZZE150T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117074"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117NCP90"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117NGJ10"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117090"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P1NZFE"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P067"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117P200"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PACA33R"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PACV40"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PAXAH54R"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PGRJ150"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PKUN26"
+    },
+    {
+      "brand": "Febest",
+      "article": "0117PZZE150"
+    },
+    {
+      "brand": "Febest",
+      "article": "0210T32R"
+    },
+    {
+      "brand": "Febest",
+      "article": "0210V10A44"
+    },
+    {
+      "brand": "Febest",
+      "article": "0211J32QR25FLH"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215071T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215C11XT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215F15T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215J1016"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215J32T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215R51T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215S14T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215Y62"
+    },
+    {
+      "brand": "Febest",
+      "article": "0215Z51T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PB30"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PE11"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PJ1016"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PJ1020"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PN16"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PV42"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PY62"
+    },
+    {
+      "brand": "Febest",
+      "article": "0217PZ50"
+    },
+    {
+      "brand": "Febest",
+      "article": "0310024A50"
+    },
+    {
+      "brand": "Febest",
+      "article": "0310BE"
+    },
+    {
+      "brand": "Febest",
+      "article": "0310CITYAT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0311CIV5DLH"
+    },
+    {
+      "brand": "Febest",
+      "article": "0317121"
+    },
+    {
+      "brand": "Febest",
+      "article": "0317PRE5"
+    },
+    {
+      "brand": "Febest",
+      "article": "0410013"
+    },
+    {
+      "brand": "Febest",
+      "article": "0410CW5"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CU20"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CW6LHT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415CY4ALHT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415K94"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415N94T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0415PV97WR"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PDJ24"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PKB4"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV75"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV97WF"
+    },
+    {
+      "brand": "Febest",
+      "article": "0417PV97WR"
+    },
+    {
+      "brand": "Febest",
+      "article": "0510KEAT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0515BKT"
+    },
+    {
+      "brand": "Febest",
+      "article": "0515CX7T"
+    },
+    {
+      "brand": "Febest",
+      "article": "0515M2T"
+    }
+  ],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}

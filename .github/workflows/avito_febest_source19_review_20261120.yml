@@ -1,0 +1,25 @@
+name: Avito - Nov20 Febest exact primary source and photo review
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_febest_source19_review_20261120.yml']
+permissions:
+  contents: read
+jobs:
+  manufacturer-only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - run: python -m pip install 'requests>=2.31,<3' 'beautifulsoup4>=4.12,<5' 'pillow>=10,<13'
+      - run: python avito_febest_source19_research.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: FEBEST_SOURCE19_NOV20_PRIMARY_ONLY
+          path: review/febest-manufacturer/
+          retention-days: 7
+          if-no-files-found: ignore
