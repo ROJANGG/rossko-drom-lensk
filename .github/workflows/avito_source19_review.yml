@@ -1,4 +1,4 @@
-name: Avito - next 100 Febest CV joints fresh review Nov19
+name: Avito - Nov20 recheck first 100 Febest CV joints
 on:
   workflow_dispatch:
   push:
@@ -78,3 +78,5 @@ jobs:
               except Exception as e:out[name]={'error_class':type(e).__name__}
           print('AVITO_DELIVERY_OBSERVATION',json.dumps(out),flush=True)
           PY
+
+# Fresh 2026-11-20 recheck; prior negative availability was time-specific.
