@@ -1,0 +1,608 @@
+{
+  "batch_id": "source24_20261120",
+  "scope": 100,
+  "publication_performed": false,
+  "retry_reason": "Prior source transport failures or time-specific negative API; all published SKUs and rejected drawings excluded",
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1002",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685624"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1003",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685553"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1006",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685554"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1009",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685625"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1017",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685634"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1018",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685639"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1043",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685587"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1061",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685672"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1062",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685665"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1102",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685567"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1103",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685569"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1124",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685582"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1131",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060908"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1139",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060916"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1141",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060918"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1142",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060919"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1181",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060958"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1190",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060967"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1194",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060971"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1200",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060977"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1201",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060978"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1210",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060987"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1212",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025060989"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1264",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061041"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1266",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061043"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1269",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061046"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1271",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061048"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1272",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061049"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1273",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061050"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1282",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061059"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1295",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061072"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1296",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061073"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1319",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061096"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1320",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061097"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1326",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061103"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1328",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061105"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1329",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061106"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1332",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061109"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1350",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061127"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1352",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061129"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1364",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061141"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1372",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061149"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1373",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061150"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1389",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061166"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1390",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061167"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1396",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061173"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1397",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061174"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1422",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061198"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1425",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061201"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1434",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061210"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1435",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061211"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1436",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061212"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1438",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061214"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1454",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061230"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1455",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061231"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1485",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061261"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1502",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061278"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1504",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061280"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1509",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061285"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1514",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061290"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1517",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061293"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1518",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061294"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1525",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061301"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1527",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061303"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1532",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061308"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1535",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061311"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1541",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061317"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1542",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061318"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1545",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061321"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1547",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061323"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1554",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061330"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1560",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061336"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1561",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061337"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1566",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025061342"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1572",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025648369"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1574",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025648371"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1581",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025648378"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1589",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0025648386"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1601",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026504556"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1633",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680849"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1639",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680830"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1647",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680837"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1649",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680831"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1659",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680827"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1666",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026680892"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1670",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026828113"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1671",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0026828107"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1709",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028920619"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1718",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971106"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1727",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028920626"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1730",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0027944863"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1748",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971093"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1790",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028962172"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1791",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971101"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1792",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971100"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1793",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971099"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1794",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971105"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1797",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971102"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1798",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971097"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1799",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028971092"
+    }
+  ]
+}
