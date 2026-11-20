@@ -121,7 +121,20 @@ def make_sufix_ad(r, retail, photo, address):
     ET.indent(ad, space='  ', level=1)
     return ad
 
+def prepare_febest_photo(r,place):
+    from avito_reviewed_febest_cvj import validate_source as verify_febest
+    page=get(r['manufacturer_page']);verify_febest(r,page)
+    raw=get(r['photo_url'])
+    if hashlib.sha256(raw).hexdigest()!=r['photo_sha256']:raise ValueError('Reviewed Febest image bytes changed')
+    image=Image.open(io.BytesIO(raw));image.load()
+    if list(image.size)!=r['photo_dimensions'] or min(image.size)<200:raise ValueError('Febest photo dimensions changed')
+    ext={'JPEG':'jpg','PNG':'png'}.get(image.format)
+    if not ext:raise ValueError('Unsupported Febest photo format')
+    name=stable_id(r)+'-'+r['photo_sha256'][:12]+'.'+ext;(place/name).write_bytes(raw)
+    return {'filename':name,'sha256':r['photo_sha256'],'public_url':PUBLIC+name,'manufacturer_page_sha256':hashlib.sha256(page).hexdigest(),'fitment_page_sha256':hashlib.sha256(page).hexdigest(),'verified_at_utc':datetime.now(timezone.utc).isoformat()}
+
 def prepare_photo(r,place):
+    if r['brand']=='Febest':return prepare_febest_photo(r,place)
     return lynx_photo(r,place) if r['brand']=='LYNXauto' else prepare_sufix_photo(r,place)
 def make_ad(r,retail,photo,address):
     return lynx_ad(r,retail,photo,address) if r['brand']=='LYNXauto' else make_sufix_ad(r,retail,photo,address)
@@ -157,6 +170,9 @@ def filter_selection(records,path):
 def build(args):
     records = load_reviewed_sufix_belts(args.manifest) + load_reviewed_belts(args.lynx_manifest)
     if args.selection is not None:records=filter_selection(records,args.selection)
+    if getattr(args,'febest_manifest',None) is not None:
+        from avito_reviewed_febest_cvj import load_reviewed_febest
+        records += load_reviewed_febest(args.febest_manifest)
     scope_count = len(records)
     args.out.mkdir(parents=True, exist_ok=True)
     images = args.out/'avito-images'; images.mkdir(exist_ok=True)
@@ -252,6 +268,7 @@ if __name__ == '__main__':
     for name in ('config', 'live', 'archive', 'retail', 'manifest', 'lynx-manifest', 'out'):
         p.add_argument('--'+name, type=Path, required=True)
     p.add_argument('--selection',type=Path)
+    p.add_argument('--febest-manifest',type=Path)
     build(p.parse_args())
 
 

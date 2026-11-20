@@ -54,6 +54,9 @@ def seller_sku(ad):
     if title.startswith("Подшипник ступицы "):
         from avito_reviewed_sufix_bearings import bearing_sku
         return bearing_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
+    if title.startswith('ШРУС ') and brand=='Febest':
+        from avito_reviewed_febest_cvj import febest_sku
+        return febest_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
     if title.startswith(('Ремень ГРМ ', 'Радиатор охлаждения ', 'Радиатор кондиционера ', 'ШРУС ')) and brand == 'SUFIX':
         from avito_reviewed_sufix_drive_belts import sufix_belt_sku
         return sufix_belt_sku(ad, EXTRA_APPROVED_STOCK_CATEGORIES, key)
@@ -142,7 +145,16 @@ if _sufix_drive_path.exists():
         _k = key(_record['brand'], _record['article'])
         if _k in EXTRA_APPROVED_STOCK_CATEGORIES:raise ValueError('Duplicate exact SUFIX drive belt SKU')
         EXTRA_APPROVED_STOCK_CATEGORIES[_k] = _record['category']
-APPROVED_CATALOG_LIMIT = 300 + len(_reviewed_belts) + len(_reviewed_bearings) + len(_reviewed_lynx06) + len(_reviewed_sufix_drive)
+_reviewed_febest = []
+_febest_path=Path(__file__).parent/'input/avito_reviewed_febest_cvj.json'
+if _febest_path.exists():
+    from avito_reviewed_febest_cvj import load_reviewed_febest
+    _reviewed_febest=load_reviewed_febest(_febest_path)
+    for _record in _reviewed_febest:
+        _k=key(_record['brand'],_record['article'])
+        if _k in EXTRA_APPROVED_STOCK_CATEGORIES:raise ValueError('Duplicate exact Febest CVJ SKU')
+        EXTRA_APPROVED_STOCK_CATEGORIES[_k]=_record['category']
+APPROVED_CATALOG_LIMIT = 300 + len(_reviewed_belts) + len(_reviewed_bearings) + len(_reviewed_lynx06) + len(_reviewed_sufix_drive) + len(_reviewed_febest)
 EXTRA_APPROVED_STOCK_SKUS = set(EXTRA_APPROVED_STOCK_CATEGORIES)
 
 

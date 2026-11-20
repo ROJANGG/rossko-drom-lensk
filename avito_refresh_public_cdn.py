@@ -29,7 +29,7 @@ class CDNPurgeThrottled(ValueError):
 
 def refresh(expected, *, getter=fetch, sleeper=time.sleep):
     root=ET.fromstring(expected);count=len(root.findall('Ad'))
-    if root.tag!='Ads' or root.get('formatVersion')!='3' or not 150<=count<=853:raise ValueError('Unexpected validated Avito XML')
+    if root.tag!='Ads' or root.get('formatVersion')!='3' or not 150<=count<=947:raise ValueError('Unexpected validated Avito XML')
     digest=hashlib.sha256(expected).hexdigest()
     def result():return {'ads':count,'sha256':digest,'cdn_exact_bytes_verified':True}
     if hashlib.sha256(getter(CDN)).hexdigest()==digest:return result()

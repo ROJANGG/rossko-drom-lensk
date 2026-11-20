@@ -1,12 +1,12 @@
 """Exact, closed Febest CV joint evidence; public manufacturer facts only."""
 import re,json,hashlib
 from urllib.parse import urlparse,urljoin
-from bs4 import BeautifulSoup
-SCOPE_COUNT=0
-SCOPE_SHA256='PENDING'
+SCOPE_COUNT=20
+SCOPE_SHA256='e760a06d2e420ed5acb9a626bd1923066f8c4ee0146a94a060ca05d7a05bed0e'
 def canon(v):return re.sub('[^A-Z0-9]','',str(v).upper())
 def text(n):return ' '.join(n.get_text(' ',strip=True).split())
 def parse_source(article,url,raw):
+ from bs4 import BeautifulSoup
  if urlparse(url).hostname!='febest.de' or not urlparse(url).path.startswith('/en/details/'):raise ValueError('Non-primary Febest product URL')
  s=BeautifulSoup(raw,'html.parser');node=s.select_one('.detPartCode');h=s.select_one('h1')
  mpn=text(node).split(':',1)[-1].strip() if node else ''
@@ -41,8 +41,8 @@ def load_reviewed_febest(path):
  if len(rs)!=SCOPE_COUNT or len(set(keys))!=SCOPE_COUNT or digest!=SCOPE_SHA256 or d.get('scope_sha256')!=digest:raise ValueError('Unexpected exact Febest scope')
  photos=set()
  for r in rs:
-  if (r['brand']!='Febest' or r['category']!='ШРУС' or not r.get('exact_sku_verified') or not re.fullmatch('[A-Z0-9]+',r['oem']) or '#' in r['OEM_raw'] or not r.get('fitment_rows') or not r.get('fitment') or r.get('photo_review')!='ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED' or not r.get('package_unit_verified') or r.get('primary_product_count_verified')!=1 or r.get('photo_kind')!='PHOTO_MODAL_NOT_SCHEME_OR_3D' or not re.fullmatch('[a-f0-9]{64}',r['photo_sha256']) or r['photo_sha256'] in photos or min(r['photo_dimensions'])<200):raise ValueError('Incomplete exact Febest CV joint evidence')
-  if canon(r['manufacturer_MPN'])!=canon(r['article']) or urlparse(r['manufacturer_page']).hostname!='febest.de' or urlparse(r['photo_url']).hostname!='static.febest.de':raise ValueError('Febest primary identity mismatch')
+  if (r['brand']!='Febest' or r['category']!='ШРУС' or not r.get('exact_sku_verified') or not re.fullmatch('[A-Z0-9]+',r['oem']) or canon(r['OEM_raw'])!=r['oem'] or r.get('OEM_source_kind')!='EXPLICIT_COMPATIBLE_OEM_TABLE_AND_SELECT_ON_EXACT_PRODUCT_PAGE' or '#' in r['OEM_raw'] or not r.get('fitment_rows') or not r.get('fitment') or r.get('photo_review')!='ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED' or not r.get('package_unit_verified') or r.get('primary_product_count_verified')!=1 or r.get('photo_kind')!='PHOTO_MODAL_NOT_SCHEME_OR_3D' or not re.fullmatch('[a-f0-9]{64}',r['photo_sha256']) or r['photo_sha256'] in photos or min(r['photo_dimensions'])<200):raise ValueError('Incomplete exact Febest CV joint evidence')
+  if urlparse(r['manufacturer_page']).scheme!='https' or urlparse(r['photo_url']).scheme!='https' or not urlparse(r['photo_url']).path.startswith('/images/big/') or not re.search(r'_p\d+\.(jpg|png)$',urlparse(r['photo_url']).path,re.I) or canon(r['manufacturer_MPN'])!=canon(r['article']) or urlparse(r['manufacturer_page']).hostname!='febest.de' or urlparse(r['photo_url']).hostname!='static.febest.de':raise ValueError('Febest primary identity mismatch')
   photos.add(r['photo_sha256'])
  return rs
 def febest_sku(ad,approved,key):

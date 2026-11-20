@@ -1,8 +1,8 @@
 """Closed source-reviewed SUFIX scope; no API calls or publication."""
 import hashlib,json,re
 from urllib.parse import urlparse
-SCOPE_SHA256='60782b44984fd1ac4626b025c62b6452f1b93ec8e577002f7cbaecbb3acb8038'
-SCOPE_COUNT=279
+SCOPE_SHA256='6de8acc5d6559cdea193f66218c616515c8f599a3f1e003b777364fedcfc3b29'
+SCOPE_COUNT=353
 CATEGORY='Ремни приводные'
 META={
  'Ремни приводные':('Ремень приводной','Двигатель','EngineSparePartType','Приводные ремни, натяжители'),
