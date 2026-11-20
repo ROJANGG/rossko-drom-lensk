@@ -1,58 +1,1510 @@
 {
-  "as_of_utc": "2026-11-19T09:07:14.822995+00:00",
-  "before": 760,
-  "after": 762,
-  "approved_before": 779,
-  "approved_after": 781,
-  "scope_count": 2,
-  "added_count": 2,
+  "as_of_utc": "2026-11-20T09:46:51.924873+00:00",
+  "before": 762,
+  "after": 855,
+  "approved_before": 781,
+  "approved_after": 874,
+  "scope_count": 94,
+  "added_count": 93,
   "added": [
     {
-      "id": "irk-56517dded502412ea5600b",
+      "id": "irk-7c52d1bb40a5d876b33a58",
       "brand": "SUFIX",
-      "article": "ST1046",
+      "article": "ST1002",
+      "category": "ШРУС",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-7c52d1bb40a5d876b33a58-9a640a84bc9f.jpg",
+        "sha256": "9a640a84bc9f8995d7567af9cfa4ae009af94fc31e41da7517dfc3ef490f9799",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7c52d1bb40a5d876b33a58-9a640a84bc9f.jpg",
+        "manufacturer_page_sha256": "d926f33de5433e559ac6248e35629cfb5d7c8b1836239a4b35803332aa0ddca8",
+        "fitment_page_sha256": "d926f33de5433e559ac6248e35629cfb5d7c8b1836239a4b35803332aa0ddca8",
+        "verified_at_utc": "2026-11-20T09:42:28.011671+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:24.413781+00:00"
+    },
+    {
+      "id": "irk-156058f222a1a82d381f84",
+      "brand": "SUFIX",
+      "article": "ST1003",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-156058f222a1a82d381f84-56dfe25d9c77.jpg",
+        "sha256": "56dfe25d9c77cd98cbc2cba45ced5f1ef03a0fc22a3c9468cae3fca7e3a217d5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-156058f222a1a82d381f84-56dfe25d9c77.jpg",
+        "manufacturer_page_sha256": "04758efddc659eab538b2d878ad429cabc691bdedc0a37a0ebe58334817e7bb8",
+        "fitment_page_sha256": "04758efddc659eab538b2d878ad429cabc691bdedc0a37a0ebe58334817e7bb8",
+        "verified_at_utc": "2026-11-20T09:42:28.012779+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:26.463435+00:00"
+    },
+    {
+      "id": "irk-c0788162709420f58087d6",
+      "brand": "SUFIX",
+      "article": "ST1006",
       "category": "ШРУС",
       "retail": 2200,
       "photo": {
-        "filename": "irk-56517dded502412ea5600b-9092223bbb58.jpg",
-        "sha256": "9092223bbb58471f17673d3f137d34684d7e46d12e8c9da1f1e7d64c536e419a",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-56517dded502412ea5600b-9092223bbb58.jpg",
-        "manufacturer_page_sha256": "21ea685b68219030ddfb8d359fca20ec407c09e0c0463297743d4f870919c30e",
-        "fitment_page_sha256": "21ea685b68219030ddfb8d359fca20ec407c09e0c0463297743d4f870919c30e",
-        "verified_at_utc": "2026-11-19T09:07:08.806559+00:00"
+        "filename": "irk-c0788162709420f58087d6-c0ae5c082eee.jpg",
+        "sha256": "c0ae5c082eee4c895b36752de892d14b4072308c6e06fdd63051f09d6ac6165e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c0788162709420f58087d6-c0ae5c082eee.jpg",
+        "manufacturer_page_sha256": "270464656aa4d70658c37b10cc7e1c3f58f22c85b5ae8fd488d0b4db3b9ac783",
+        "fitment_page_sha256": "270464656aa4d70658c37b10cc7e1c3f58f22c85b5ae8fd488d0b4db3b9ac783",
+        "verified_at_utc": "2026-11-20T09:42:30.723420+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T09:07:12.193201+00:00"
+      "API_checked_at_utc": "2026-11-20T09:44:28.214693+00:00"
     },
     {
-      "id": "irk-127771186725a52078a243",
+      "id": "irk-11a5bad11211c56ebde127",
       "brand": "SUFIX",
-      "article": "ST1048",
+      "article": "ST1009",
       "category": "ШРУС",
-      "retail": 3200,
+      "retail": 2300,
       "photo": {
-        "filename": "irk-127771186725a52078a243-efa317f8e224.jpg",
-        "sha256": "efa317f8e22423a6c1c0bce8322cf6704b645c83337692dae03b0ca53e78a0b3",
-        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-127771186725a52078a243-efa317f8e224.jpg",
-        "manufacturer_page_sha256": "356930f3a1a43b5d209f31dd508cdb5edbf57d0ef696f6816462392b7ba98cbb",
-        "fitment_page_sha256": "356930f3a1a43b5d209f31dd508cdb5edbf57d0ef696f6816462392b7ba98cbb",
-        "verified_at_utc": "2026-11-19T09:07:08.805950+00:00"
+        "filename": "irk-11a5bad11211c56ebde127-06f08a1ea099.jpg",
+        "sha256": "06f08a1ea099d430b4395f737b93cfc0dcf5f34d0c91884f7fb1659ecfef4bdb",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-11a5bad11211c56ebde127-06f08a1ea099.jpg",
+        "manufacturer_page_sha256": "28756b8da1afcda941a0c32c22768a96c380f9f4cecbb9caac1704bded1a6c88",
+        "fitment_page_sha256": "28756b8da1afcda941a0c32c22768a96c380f9f4cecbb9caac1704bded1a6c88",
+        "verified_at_utc": "2026-11-20T09:42:30.690119+00:00"
       },
-      "API_checked_at_utc": "2026-11-19T09:07:13.835084+00:00"
+      "API_checked_at_utc": "2026-11-20T09:44:30.042028+00:00"
+    },
+    {
+      "id": "irk-0e22496709961a925321c3",
+      "brand": "SUFIX",
+      "article": "ST1017",
+      "category": "ШРУС",
+      "retail": 2200,
+      "photo": {
+        "filename": "irk-0e22496709961a925321c3-b5110788460c.jpg",
+        "sha256": "b5110788460c791217a495504b59b6d324fd05b103d9370652a264ff7898adcf",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0e22496709961a925321c3-b5110788460c.jpg",
+        "manufacturer_page_sha256": "c4796b9534c1ae7ed92259fab453320a4b27eeb9a4b0536c91df60b287313e42",
+        "fitment_page_sha256": "c4796b9534c1ae7ed92259fab453320a4b27eeb9a4b0536c91df60b287313e42",
+        "verified_at_utc": "2026-11-20T09:42:34.245269+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:31.662045+00:00"
+    },
+    {
+      "id": "irk-ffcd268fe666d1eb5c7b29",
+      "brand": "SUFIX",
+      "article": "ST1061",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-ffcd268fe666d1eb5c7b29-470ae8adbfb9.jpg",
+        "sha256": "470ae8adbfb927630c4d560dd0d834fc5d2a4842162539ed8f93344af7e8d8e8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ffcd268fe666d1eb5c7b29-470ae8adbfb9.jpg",
+        "manufacturer_page_sha256": "50af1c6aa033abd4a8138648cb3828f4598fd5f449d401fa614a53ffa559dc4d",
+        "fitment_page_sha256": "50af1c6aa033abd4a8138648cb3828f4598fd5f449d401fa614a53ffa559dc4d",
+        "verified_at_utc": "2026-11-20T09:42:33.343745+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:33.331844+00:00"
+    },
+    {
+      "id": "irk-9c23ab6ee6d4376110254c",
+      "brand": "SUFIX",
+      "article": "ST1102",
+      "category": "ШРУС",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-9c23ab6ee6d4376110254c-5d1cd11d9655.jpg",
+        "sha256": "5d1cd11d9655a2941499216df90695d4850b61fbad0ec18000faac8f5655b697",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9c23ab6ee6d4376110254c-5d1cd11d9655.jpg",
+        "manufacturer_page_sha256": "cbaa929cdcb1f6e0d1e2b878117d2a9075ce7a0924019541f3d6f471eaf009e5",
+        "fitment_page_sha256": "cbaa929cdcb1f6e0d1e2b878117d2a9075ce7a0924019541f3d6f471eaf009e5",
+        "verified_at_utc": "2026-11-20T09:42:36.022342+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:35.084888+00:00"
+    },
+    {
+      "id": "irk-f19987a962b5f1296e1ba0",
+      "brand": "SUFIX",
+      "article": "ST1103",
+      "category": "ШРУС",
+      "retail": 2250,
+      "photo": {
+        "filename": "irk-f19987a962b5f1296e1ba0-5ec12325a4c7.jpg",
+        "sha256": "5ec12325a4c78d5ece70bd2f16125084515dca47740882e0e1f249a052d637e7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f19987a962b5f1296e1ba0-5ec12325a4c7.jpg",
+        "manufacturer_page_sha256": "ced682d617592a831e28723efd9f3a2521667223969cd2129fd990c3f6c0ae97",
+        "fitment_page_sha256": "ced682d617592a831e28723efd9f3a2521667223969cd2129fd990c3f6c0ae97",
+        "verified_at_utc": "2026-11-20T09:42:36.777270+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:36.725755+00:00"
+    },
+    {
+      "id": "irk-2aaeca08a59163bef2bbf5",
+      "brand": "SUFIX",
+      "article": "ST1124",
+      "category": "ШРУС",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-2aaeca08a59163bef2bbf5-93be96bff7fa.jpg",
+        "sha256": "93be96bff7fa433f2fde7f827e8e472e0a62d8c95cc72d065f60f4b8d394ea0a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2aaeca08a59163bef2bbf5-93be96bff7fa.jpg",
+        "manufacturer_page_sha256": "53814be7855f5f6dcb8e35c18cdf6b8603d4a849213629cd1011b6d041670853",
+        "fitment_page_sha256": "53814be7855f5f6dcb8e35c18cdf6b8603d4a849213629cd1011b6d041670853",
+        "verified_at_utc": "2026-11-20T09:42:38.390313+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:38.893059+00:00"
+    },
+    {
+      "id": "irk-f8ede234639bdafd9d0280",
+      "brand": "SUFIX",
+      "article": "ST1131",
+      "category": "ШРУС",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-f8ede234639bdafd9d0280-94dac5627d1f.jpg",
+        "sha256": "94dac5627d1f3d86a15873d05f8130bba1c8bcecb2b2b5f4f9956ede4d04c25b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f8ede234639bdafd9d0280-94dac5627d1f.jpg",
+        "manufacturer_page_sha256": "7a0acd2e4359e0b6a4cd81acbabf47ec50c9097ce04f010f27c558899ece40ec",
+        "fitment_page_sha256": "7a0acd2e4359e0b6a4cd81acbabf47ec50c9097ce04f010f27c558899ece40ec",
+        "verified_at_utc": "2026-11-20T09:42:40.688271+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:40.273287+00:00"
+    },
+    {
+      "id": "irk-ea246db673ae5692c065cf",
+      "brand": "SUFIX",
+      "article": "ST1141",
+      "category": "ШРУС",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-ea246db673ae5692c065cf-884f90c479f0.jpg",
+        "sha256": "884f90c479f01fe9e4d0d5cfbb60e6f28a50a7d4a1761fd8bbd06519c9e02c3b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ea246db673ae5692c065cf-884f90c479f0.jpg",
+        "manufacturer_page_sha256": "88caed5605a923de12f138539b566b56871d2ce00751c25f145632cd3b89016f",
+        "fitment_page_sha256": "88caed5605a923de12f138539b566b56871d2ce00751c25f145632cd3b89016f",
+        "verified_at_utc": "2026-11-20T09:42:40.918398+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:41.614677+00:00"
+    },
+    {
+      "id": "irk-c060d6ba79ce0eced66985",
+      "brand": "SUFIX",
+      "article": "ST1142",
+      "category": "ШРУС",
+      "retail": 3050,
+      "photo": {
+        "filename": "irk-c060d6ba79ce0eced66985-85bd73ee8bb8.jpg",
+        "sha256": "85bd73ee8bb8608edfb7227e25f15b2a7a6bb8be8efcae5495406ddb4934f034",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c060d6ba79ce0eced66985-85bd73ee8bb8.jpg",
+        "manufacturer_page_sha256": "72b620c71d726f0b16daa87314521e42985ae2e45398acec40c87717167a8a10",
+        "fitment_page_sha256": "72b620c71d726f0b16daa87314521e42985ae2e45398acec40c87717167a8a10",
+        "verified_at_utc": "2026-11-20T09:42:43.440380+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:43.286498+00:00"
+    },
+    {
+      "id": "irk-013259c1801e570d112b78",
+      "brand": "SUFIX",
+      "article": "ST1190",
+      "category": "ШРУС",
+      "retail": 2700,
+      "photo": {
+        "filename": "irk-013259c1801e570d112b78-2eaa81b87d47.jpg",
+        "sha256": "2eaa81b87d47276274dae20264c6e6a3c98dd36e9351464c4dbd145da383b907",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-013259c1801e570d112b78-2eaa81b87d47.jpg",
+        "manufacturer_page_sha256": "bf5b6356f7f868f1879811ff1b5f3d7c4b50ba9a8e7e5037185be70d759bc22f",
+        "fitment_page_sha256": "bf5b6356f7f868f1879811ff1b5f3d7c4b50ba9a8e7e5037185be70d759bc22f",
+        "verified_at_utc": "2026-11-20T09:42:43.887675+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:44.574204+00:00"
+    },
+    {
+      "id": "irk-85400ef675c04ca2ce1c33",
+      "brand": "SUFIX",
+      "article": "ST1200",
+      "category": "ШРУС",
+      "retail": 3100,
+      "photo": {
+        "filename": "irk-85400ef675c04ca2ce1c33-4352048db766.jpg",
+        "sha256": "4352048db766594de212242b1a0bd79e52c214b1f37fb8635661d814509bb795",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-85400ef675c04ca2ce1c33-4352048db766.jpg",
+        "manufacturer_page_sha256": "d59fad2c0962785074746c65dd7447c50403db1ecf3db2a2ae33495b63224f50",
+        "fitment_page_sha256": "d59fad2c0962785074746c65dd7447c50403db1ecf3db2a2ae33495b63224f50",
+        "verified_at_utc": "2026-11-20T09:42:45.870769+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:46.202548+00:00"
+    },
+    {
+      "id": "irk-647c7daa96cebcd46134ef",
+      "brand": "SUFIX",
+      "article": "ST1201",
+      "category": "ШРУС",
+      "retail": 2700,
+      "photo": {
+        "filename": "irk-647c7daa96cebcd46134ef-e63cfaf2fcb9.jpg",
+        "sha256": "e63cfaf2fcb9b84d0b6aadb041834ef6747324e0f8b488c29dbabe4b6986c03e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-647c7daa96cebcd46134ef-e63cfaf2fcb9.jpg",
+        "manufacturer_page_sha256": "e0b7139f774cdfc08d914d6e1ea71f75ea3871aafb7b8e7ad6cf48a6fdf5796b",
+        "fitment_page_sha256": "e0b7139f774cdfc08d914d6e1ea71f75ea3871aafb7b8e7ad6cf48a6fdf5796b",
+        "verified_at_utc": "2026-11-20T09:42:46.494500+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:47.697719+00:00"
+    },
+    {
+      "id": "irk-d779ae76cf5e32825f57ea",
+      "brand": "SUFIX",
+      "article": "ST1212",
+      "category": "ШРУС",
+      "retail": 2700,
+      "photo": {
+        "filename": "irk-d779ae76cf5e32825f57ea-28692ae24831.jpg",
+        "sha256": "28692ae248311572935f4ede27b3476fa23bf77ea1faba1c6fb44a62ed677ec0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d779ae76cf5e32825f57ea-28692ae24831.jpg",
+        "manufacturer_page_sha256": "0e34e639bb29a73f8e2afb82985c22642a80ba4c0324433a6cb085eb07f540e3",
+        "fitment_page_sha256": "0e34e639bb29a73f8e2afb82985c22642a80ba4c0324433a6cb085eb07f540e3",
+        "verified_at_utc": "2026-11-20T09:42:48.271872+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:49.657298+00:00"
+    },
+    {
+      "id": "irk-a0f825c2f683e929517d00",
+      "brand": "SUFIX",
+      "article": "ST1264",
+      "category": "ШРУС",
+      "retail": 3100,
+      "photo": {
+        "filename": "irk-a0f825c2f683e929517d00-b76c8114c842.jpg",
+        "sha256": "b76c8114c8425bd8c127a360a7f27ea88860171e86e6b3c86fa75a2f0f7d933a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a0f825c2f683e929517d00-b76c8114c842.jpg",
+        "manufacturer_page_sha256": "659ad635f9c246853bf7d8e66cff4f6cf6511b4f263742ec84c334a52070faca",
+        "fitment_page_sha256": "659ad635f9c246853bf7d8e66cff4f6cf6511b4f263742ec84c334a52070faca",
+        "verified_at_utc": "2026-11-20T09:42:49.423602+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:51.256712+00:00"
+    },
+    {
+      "id": "irk-65ec8ab6238f411cd2ca91",
+      "brand": "SUFIX",
+      "article": "ST1266",
+      "category": "ШРУС",
+      "retail": 2150,
+      "photo": {
+        "filename": "irk-65ec8ab6238f411cd2ca91-ebd8f397fe16.jpg",
+        "sha256": "ebd8f397fe1634689bcda182df18b15d78c23b1162b38ed8fca70ab004707d31",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-65ec8ab6238f411cd2ca91-ebd8f397fe16.jpg",
+        "manufacturer_page_sha256": "265c599d5be8b6ba2379ad785f780cb0c93123661d258e74cd9614c2583f184a",
+        "fitment_page_sha256": "265c599d5be8b6ba2379ad785f780cb0c93123661d258e74cd9614c2583f184a",
+        "verified_at_utc": "2026-11-20T09:42:51.959254+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:52.717735+00:00"
+    },
+    {
+      "id": "irk-6b7f57470baa136ba35a9e",
+      "brand": "SUFIX",
+      "article": "ST1269",
+      "category": "ШРУС",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-6b7f57470baa136ba35a9e-4eb97b27a9b0.jpg",
+        "sha256": "4eb97b27a9b06d0ed544f5af5a509d3da2eb858b4fda2bde2928434bfc8c7fe4",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-6b7f57470baa136ba35a9e-4eb97b27a9b0.jpg",
+        "manufacturer_page_sha256": "d330e644ebbac2139edd5bc162fceb3e54871d67fcdb3b2924ee8ae18c38d2db",
+        "fitment_page_sha256": "d330e644ebbac2139edd5bc162fceb3e54871d67fcdb3b2924ee8ae18c38d2db",
+        "verified_at_utc": "2026-11-20T09:42:53.039556+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:54.458920+00:00"
+    },
+    {
+      "id": "irk-2843b51393ccbb2183cfce",
+      "brand": "SUFIX",
+      "article": "ST1271",
+      "category": "ШРУС",
+      "retail": 3550,
+      "photo": {
+        "filename": "irk-2843b51393ccbb2183cfce-f83ded14ec2e.jpg",
+        "sha256": "f83ded14ec2e833fef84972a9a67e5987792d3375c83d87cd4ad001978fd6318",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2843b51393ccbb2183cfce-f83ded14ec2e.jpg",
+        "manufacturer_page_sha256": "4e70a7d504443c090564af961d1086d332dcba5b91a850e8f026db39b248c392",
+        "fitment_page_sha256": "4e70a7d504443c090564af961d1086d332dcba5b91a850e8f026db39b248c392",
+        "verified_at_utc": "2026-11-20T09:42:54.379203+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:56.036256+00:00"
+    },
+    {
+      "id": "irk-9ba78b2c91a8a806c2fcd4",
+      "brand": "SUFIX",
+      "article": "ST1272",
+      "category": "ШРУС",
+      "retail": 2500,
+      "photo": {
+        "filename": "irk-9ba78b2c91a8a806c2fcd4-ad9470fb23d8.jpg",
+        "sha256": "ad9470fb23d8e921c85bd27fbd19daf9734570cff6ee833c86582dbb10778fa9",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9ba78b2c91a8a806c2fcd4-ad9470fb23d8.jpg",
+        "manufacturer_page_sha256": "92a21edabb5783405c967f87ece551576e8fa65449702ddf18744e6ccde0b17b",
+        "fitment_page_sha256": "92a21edabb5783405c967f87ece551576e8fa65449702ddf18744e6ccde0b17b",
+        "verified_at_utc": "2026-11-20T09:42:55.483222+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:57.430516+00:00"
+    },
+    {
+      "id": "irk-3e4459c132431ac21a3388",
+      "brand": "SUFIX",
+      "article": "ST1273",
+      "category": "ШРУС",
+      "retail": 3600,
+      "photo": {
+        "filename": "irk-3e4459c132431ac21a3388-57a386d7c561.jpg",
+        "sha256": "57a386d7c561a95e2dadaeb3fcb67ec006c70e9bf3fc7bf6b37edc9c13314843",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3e4459c132431ac21a3388-57a386d7c561.jpg",
+        "manufacturer_page_sha256": "97495d39d0046ebe3dc142734364b15fa8b2b858cec0a3fe3b719fb3f701fdb5",
+        "fitment_page_sha256": "97495d39d0046ebe3dc142734364b15fa8b2b858cec0a3fe3b719fb3f701fdb5",
+        "verified_at_utc": "2026-11-20T09:42:57.922007+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:44:59.109456+00:00"
+    },
+    {
+      "id": "irk-608b210373ea99c8206524",
+      "brand": "SUFIX",
+      "article": "ST1295",
+      "category": "ШРУС",
+      "retail": 2400,
+      "photo": {
+        "filename": "irk-608b210373ea99c8206524-768493c64ab8.jpg",
+        "sha256": "768493c64ab868a8947f3a060523bb5d14bb68d2d4edaf31e03cc3ec005b2f06",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-608b210373ea99c8206524-768493c64ab8.jpg",
+        "manufacturer_page_sha256": "c13f5eb8a6cbd2bec42ed6453ba46fd16901d18c7013abc92dd848d082625383",
+        "fitment_page_sha256": "c13f5eb8a6cbd2bec42ed6453ba46fd16901d18c7013abc92dd848d082625383",
+        "verified_at_utc": "2026-11-20T09:42:58.100325+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:00.826920+00:00"
+    },
+    {
+      "id": "irk-2765c73cf1804cecc3d653",
+      "brand": "SUFIX",
+      "article": "ST1296",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-2765c73cf1804cecc3d653-2655dbb41986.jpg",
+        "sha256": "2655dbb419868e45a36c22e2bf5656394674bf4c715e3c7036375026c80702b9",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2765c73cf1804cecc3d653-2655dbb41986.jpg",
+        "manufacturer_page_sha256": "32e5b23bc85ce3af6e8b358d2ca9d089687f18715a2da63e439a21e1a9aa8181",
+        "fitment_page_sha256": "32e5b23bc85ce3af6e8b358d2ca9d089687f18715a2da63e439a21e1a9aa8181",
+        "verified_at_utc": "2026-11-20T09:43:00.472681+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:02.778031+00:00"
+    },
+    {
+      "id": "irk-c2bf5a8e4ed3a73ba06559",
+      "brand": "SUFIX",
+      "article": "ST1319",
+      "category": "ШРУС",
+      "retail": 2500,
+      "photo": {
+        "filename": "irk-c2bf5a8e4ed3a73ba06559-e17021d3436c.jpg",
+        "sha256": "e17021d3436cf4bc77b1eaced5b43f8951757d5024a7cc5fe184bf58c53f1337",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c2bf5a8e4ed3a73ba06559-e17021d3436c.jpg",
+        "manufacturer_page_sha256": "f728c43f651433bf85dab2fca755faad513311a23a76356faa908533c9f5a7d3",
+        "fitment_page_sha256": "f728c43f651433bf85dab2fca755faad513311a23a76356faa908533c9f5a7d3",
+        "verified_at_utc": "2026-11-20T09:43:00.772830+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:04.251452+00:00"
+    },
+    {
+      "id": "irk-0cee01a265c94ae25195a1",
+      "brand": "SUFIX",
+      "article": "ST1320",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-0cee01a265c94ae25195a1-4bb39474c530.jpg",
+        "sha256": "4bb39474c530b4d5c538d55d678e35bf3ee8765ce31a893ef7168742a05d192a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0cee01a265c94ae25195a1-4bb39474c530.jpg",
+        "manufacturer_page_sha256": "ab6cd75663c4ec36cb5d7ba3540fcab895bf3fea18d8c6a62d935eb00c21fdf4",
+        "fitment_page_sha256": "ab6cd75663c4ec36cb5d7ba3540fcab895bf3fea18d8c6a62d935eb00c21fdf4",
+        "verified_at_utc": "2026-11-20T09:43:03.314046+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:05.626385+00:00"
+    },
+    {
+      "id": "irk-673d2f9d6d108f6cefdb37",
+      "brand": "SUFIX",
+      "article": "ST1326",
+      "category": "ШРУС",
+      "retail": 2650,
+      "photo": {
+        "filename": "irk-673d2f9d6d108f6cefdb37-c15a789dccbd.jpg",
+        "sha256": "c15a789dccbdc64eacf9ad2345b1826933501b57a602097f0471f4310128ba43",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-673d2f9d6d108f6cefdb37-c15a789dccbd.jpg",
+        "manufacturer_page_sha256": "92b66c523e637bdd32f1ebb656c8148d73e3d5b82aad934f488b558b454e1998",
+        "fitment_page_sha256": "92b66c523e637bdd32f1ebb656c8148d73e3d5b82aad934f488b558b454e1998",
+        "verified_at_utc": "2026-11-20T09:43:03.317905+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:06.944097+00:00"
+    },
+    {
+      "id": "irk-a18304e766081b7a39da7a",
+      "brand": "SUFIX",
+      "article": "ST1328",
+      "category": "ШРУС",
+      "retail": 2750,
+      "photo": {
+        "filename": "irk-a18304e766081b7a39da7a-af8b36429c93.jpg",
+        "sha256": "af8b36429c93cc35d1181c43def0653eddc648a382ad094fb0026145146e87df",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a18304e766081b7a39da7a-af8b36429c93.jpg",
+        "manufacturer_page_sha256": "7f12be99654b6dd1f1aa06e34a89d8e129f729bb828274fe7b8493d7fec11bd4",
+        "fitment_page_sha256": "7f12be99654b6dd1f1aa06e34a89d8e129f729bb828274fe7b8493d7fec11bd4",
+        "verified_at_utc": "2026-11-20T09:43:05.807841+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:08.391826+00:00"
+    },
+    {
+      "id": "irk-dd0b3701cf53d5aa53004f",
+      "brand": "SUFIX",
+      "article": "ST1329",
+      "category": "ШРУС",
+      "retail": 2600,
+      "photo": {
+        "filename": "irk-dd0b3701cf53d5aa53004f-3688df330c78.jpg",
+        "sha256": "3688df330c78c72fa8a1d589bec7923f2d51750902d9e0b4fcfda728ed63d8b6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-dd0b3701cf53d5aa53004f-3688df330c78.jpg",
+        "manufacturer_page_sha256": "c1ab13d9b8a1cc83e5076370ad88a12d3b3e6956b2dab6f1ca90a9df479318e0",
+        "fitment_page_sha256": "c1ab13d9b8a1cc83e5076370ad88a12d3b3e6956b2dab6f1ca90a9df479318e0",
+        "verified_at_utc": "2026-11-20T09:43:05.536385+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:09.746863+00:00"
+    },
+    {
+      "id": "irk-1ec3a47befbf82ccdd3d45",
+      "brand": "SUFIX",
+      "article": "ST1332",
+      "category": "ШРУС",
+      "retail": 2300,
+      "photo": {
+        "filename": "irk-1ec3a47befbf82ccdd3d45-e766881ca6ce.jpg",
+        "sha256": "e766881ca6ce12eb27f075f0c880bf441d7c1fd30f65bafb012dc14ab6e8987f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1ec3a47befbf82ccdd3d45-e766881ca6ce.jpg",
+        "manufacturer_page_sha256": "9570da6d40342b9bfc33259207fd051416eef1e3c11ae11638168393781d9a1a",
+        "fitment_page_sha256": "9570da6d40342b9bfc33259207fd051416eef1e3c11ae11638168393781d9a1a",
+        "verified_at_utc": "2026-11-20T09:43:07.735744+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:11.308281+00:00"
+    },
+    {
+      "id": "irk-a1863c99700bd03413ba36",
+      "brand": "SUFIX",
+      "article": "ST1350",
+      "category": "ШРУС",
+      "retail": 2500,
+      "photo": {
+        "filename": "irk-a1863c99700bd03413ba36-ec12c063d28c.jpg",
+        "sha256": "ec12c063d28cc9731298deb6bc19d4cd32cf04bda5cd26807a10a85fc98874b2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a1863c99700bd03413ba36-ec12c063d28c.jpg",
+        "manufacturer_page_sha256": "9362a3cd3677dcabff7df48feb7336ba08fece3c93b26d688c67b28c60f56c92",
+        "fitment_page_sha256": "9362a3cd3677dcabff7df48feb7336ba08fece3c93b26d688c67b28c60f56c92",
+        "verified_at_utc": "2026-11-20T09:43:08.316541+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:13.182236+00:00"
+    },
+    {
+      "id": "irk-02130b08d6668ac19c3f03",
+      "brand": "SUFIX",
+      "article": "ST1352",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-02130b08d6668ac19c3f03-c4b3029a9ef7.jpg",
+        "sha256": "c4b3029a9ef7991c9a6a73ee08c4a0272a01d05d86678624683049a020cefaab",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-02130b08d6668ac19c3f03-c4b3029a9ef7.jpg",
+        "manufacturer_page_sha256": "6e5a0e9d62efcc6df2b5bbe0dcbbd967927e01ffdd71a414a4051733b9e9e529",
+        "fitment_page_sha256": "6e5a0e9d62efcc6df2b5bbe0dcbbd967927e01ffdd71a414a4051733b9e9e529",
+        "verified_at_utc": "2026-11-20T09:43:11.159295+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:14.702551+00:00"
+    },
+    {
+      "id": "irk-c27b549fa816ebe4b368ea",
+      "brand": "SUFIX",
+      "article": "ST1372",
+      "category": "ШРУС",
+      "retail": 3650,
+      "photo": {
+        "filename": "irk-c27b549fa816ebe4b368ea-6539b4c635e5.jpg",
+        "sha256": "6539b4c635e5a68355cefffc0c21eb966522852e0ad62ece3090d72e306c04d0",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c27b549fa816ebe4b368ea-6539b4c635e5.jpg",
+        "manufacturer_page_sha256": "68bcf4092ed45bca1cc142505a7f9ef2daf5c06b78eb4994e4b703c7f7bcdc75",
+        "fitment_page_sha256": "68bcf4092ed45bca1cc142505a7f9ef2daf5c06b78eb4994e4b703c7f7bcdc75",
+        "verified_at_utc": "2026-11-20T09:43:10.544339+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:16.509045+00:00"
+    },
+    {
+      "id": "irk-a21b30033e7674b9493036",
+      "brand": "SUFIX",
+      "article": "ST1373",
+      "category": "ШРУС",
+      "retail": 2200,
+      "photo": {
+        "filename": "irk-a21b30033e7674b9493036-6249ff9a575a.jpg",
+        "sha256": "6249ff9a575aa7507f7dad6e7ed55d9dffb5673f5b430bf94de1db929f7caf4f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a21b30033e7674b9493036-6249ff9a575a.jpg",
+        "manufacturer_page_sha256": "c9192167d8b08441a84a8b1d9866798c62178ad568355734275afd5a37ac0c54",
+        "fitment_page_sha256": "c9192167d8b08441a84a8b1d9866798c62178ad568355734275afd5a37ac0c54",
+        "verified_at_utc": "2026-11-20T09:43:12.844608+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:18.149264+00:00"
+    },
+    {
+      "id": "irk-7032501f85483a6f14b423",
+      "brand": "SUFIX",
+      "article": "ST1389",
+      "category": "ШРУС",
+      "retail": 5950,
+      "photo": {
+        "filename": "irk-7032501f85483a6f14b423-90b271c85957.jpg",
+        "sha256": "90b271c859571459d3c949c626715ac7db58d10f17b4492986638ed86e1c6ef6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7032501f85483a6f14b423-90b271c85957.jpg",
+        "manufacturer_page_sha256": "788a5dacb73a330190471be5fa656cf083dfeb711e59885b22c1ae878ef11c8e",
+        "fitment_page_sha256": "788a5dacb73a330190471be5fa656cf083dfeb711e59885b22c1ae878ef11c8e",
+        "verified_at_utc": "2026-11-20T09:43:14.369538+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:19.630069+00:00"
+    },
+    {
+      "id": "irk-9481afbb49ed97d578adf8",
+      "brand": "SUFIX",
+      "article": "ST1390",
+      "category": "ШРУС",
+      "retail": 4000,
+      "photo": {
+        "filename": "irk-9481afbb49ed97d578adf8-1f69c2ef3216.jpg",
+        "sha256": "1f69c2ef3216beff6a08ec2ffeee4ebd5fa2d471be4b13f6b91a0fdd7aaf6a22",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9481afbb49ed97d578adf8-1f69c2ef3216.jpg",
+        "manufacturer_page_sha256": "4ab34c7655a0ad76280a44b4dfd30b3ab6f1bb650a632bdad2ad251f6a8f9c72",
+        "fitment_page_sha256": "4ab34c7655a0ad76280a44b4dfd30b3ab6f1bb650a632bdad2ad251f6a8f9c72",
+        "verified_at_utc": "2026-11-20T09:43:15.101212+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:21.147426+00:00"
+    },
+    {
+      "id": "irk-28f717ad7d552905f45393",
+      "brand": "SUFIX",
+      "article": "ST1396",
+      "category": "ШРУС",
+      "retail": 2300,
+      "photo": {
+        "filename": "irk-28f717ad7d552905f45393-b6c9b74d0f1e.jpg",
+        "sha256": "b6c9b74d0f1e79241dbe3b049eba88c48cb0329b23126e9caa70fe1053deb026",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-28f717ad7d552905f45393-b6c9b74d0f1e.jpg",
+        "manufacturer_page_sha256": "5292ff1b4adb7c7423009b0a1c38ae2a51c6e4b55d63c105a7fff4c97be3743c",
+        "fitment_page_sha256": "5292ff1b4adb7c7423009b0a1c38ae2a51c6e4b55d63c105a7fff4c97be3743c",
+        "verified_at_utc": "2026-11-20T09:43:16.716793+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:22.744469+00:00"
+    },
+    {
+      "id": "irk-a0d7bcada03712cb22a5e5",
+      "brand": "SUFIX",
+      "article": "ST1397",
+      "category": "ШРУС",
+      "retail": 2100,
+      "photo": {
+        "filename": "irk-a0d7bcada03712cb22a5e5-98c666b68b42.jpg",
+        "sha256": "98c666b68b42b9969f5341d7e1d79fee8b7fd27ebdbd08e83f79cea48f544845",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a0d7bcada03712cb22a5e5-98c666b68b42.jpg",
+        "manufacturer_page_sha256": "b2c08728371144b865e45c908dfaaee83d386ac004b885b934675a999854cd1c",
+        "fitment_page_sha256": "b2c08728371144b865e45c908dfaaee83d386ac004b885b934675a999854cd1c",
+        "verified_at_utc": "2026-11-20T09:43:17.279077+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:24.366449+00:00"
+    },
+    {
+      "id": "irk-a74ae43ba4843b5b462774",
+      "brand": "SUFIX",
+      "article": "ST1422",
+      "category": "ШРУС",
+      "retail": 2350,
+      "photo": {
+        "filename": "irk-a74ae43ba4843b5b462774-1f52aa4b0a7b.jpg",
+        "sha256": "1f52aa4b0a7ba9eaf2543762349d758206c427fb4fc95affea84eb6c992e527b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a74ae43ba4843b5b462774-1f52aa4b0a7b.jpg",
+        "manufacturer_page_sha256": "785f04440cafb6697e99da135065a3287d37143c49f317d2771a29af5150554e",
+        "fitment_page_sha256": "785f04440cafb6697e99da135065a3287d37143c49f317d2771a29af5150554e",
+        "verified_at_utc": "2026-11-20T09:43:18.918114+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:26.521835+00:00"
+    },
+    {
+      "id": "irk-999fe00e2f129a1260107b",
+      "brand": "SUFIX",
+      "article": "ST1425",
+      "category": "ШРУС",
+      "retail": 3000,
+      "photo": {
+        "filename": "irk-999fe00e2f129a1260107b-4dbea29c11d5.jpg",
+        "sha256": "4dbea29c11d569724d226e4e775edbc21c7a53ca19513ecff27a0802973cd550",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-999fe00e2f129a1260107b-4dbea29c11d5.jpg",
+        "manufacturer_page_sha256": "d8cb44c263f08f714690d7b6072abc819a0601c7edfc79469c0f307c147c25f5",
+        "fitment_page_sha256": "d8cb44c263f08f714690d7b6072abc819a0601c7edfc79469c0f307c147c25f5",
+        "verified_at_utc": "2026-11-20T09:43:19.534748+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:27.864645+00:00"
+    },
+    {
+      "id": "irk-ccd50b2c2116b72b688957",
+      "brand": "SUFIX",
+      "article": "ST1434",
+      "category": "ШРУС",
+      "retail": 2450,
+      "photo": {
+        "filename": "irk-ccd50b2c2116b72b688957-ee89fde72722.jpg",
+        "sha256": "ee89fde727220d0233ce8309d02543230ffbbd998d4e5cbc902d18e8f003d510",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ccd50b2c2116b72b688957-ee89fde72722.jpg",
+        "manufacturer_page_sha256": "ae3596cc8d09f8431827107bbc382ccf0ef13a01d8c792df02d2b5f6f97f63c0",
+        "fitment_page_sha256": "ae3596cc8d09f8431827107bbc382ccf0ef13a01d8c792df02d2b5f6f97f63c0",
+        "verified_at_utc": "2026-11-20T09:43:21.099817+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:29.613829+00:00"
+    },
+    {
+      "id": "irk-f0265e6fff6c0ca51a8c55",
+      "brand": "SUFIX",
+      "article": "ST1435",
+      "category": "ШРУС",
+      "retail": 2900,
+      "photo": {
+        "filename": "irk-f0265e6fff6c0ca51a8c55-23faa161022c.jpg",
+        "sha256": "23faa161022c06910bd9a85e72da9eafd4adbef7b16e084689afcdcaaebae5c6",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f0265e6fff6c0ca51a8c55-23faa161022c.jpg",
+        "manufacturer_page_sha256": "f6f184f923293fa76df859b4058d423217c806e6b3b1dca9cf96ed9e8b5590dd",
+        "fitment_page_sha256": "f6f184f923293fa76df859b4058d423217c806e6b3b1dca9cf96ed9e8b5590dd",
+        "verified_at_utc": "2026-11-20T09:43:24.009605+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:31.457900+00:00"
+    },
+    {
+      "id": "irk-4591694696ab229a9b0fe4",
+      "brand": "SUFIX",
+      "article": "ST1436",
+      "category": "ШРУС",
+      "retail": 3400,
+      "photo": {
+        "filename": "irk-4591694696ab229a9b0fe4-782c192292c8.jpg",
+        "sha256": "782c192292c8b0111389603f4502f9ef34a12e331f0c8dd8ef551a807a28ae36",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4591694696ab229a9b0fe4-782c192292c8.jpg",
+        "manufacturer_page_sha256": "c043f62fbc6b65fd5164211a8f2ecc52c2750594cb316f8bdb57169c1fa456d3",
+        "fitment_page_sha256": "c043f62fbc6b65fd5164211a8f2ecc52c2750594cb316f8bdb57169c1fa456d3",
+        "verified_at_utc": "2026-11-20T09:43:24.401318+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:33.263900+00:00"
+    },
+    {
+      "id": "irk-d799e04f23d8dcbf072cc5",
+      "brand": "SUFIX",
+      "article": "ST1438",
+      "category": "ШРУС",
+      "retail": 3350,
+      "photo": {
+        "filename": "irk-d799e04f23d8dcbf072cc5-00cde37e4c4d.jpg",
+        "sha256": "00cde37e4c4de64d9761676bf5c5b3ff791e55ba4b6c2ba392b77c3b6ade683c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d799e04f23d8dcbf072cc5-00cde37e4c4d.jpg",
+        "manufacturer_page_sha256": "0629e87bb608516a20a1bf740eae8c0eea1d2082502b648c62885a2be06e00b2",
+        "fitment_page_sha256": "0629e87bb608516a20a1bf740eae8c0eea1d2082502b648c62885a2be06e00b2",
+        "verified_at_utc": "2026-11-20T09:43:26.208348+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:34.769305+00:00"
+    },
+    {
+      "id": "irk-c0c74d34ead69d9e5c9546",
+      "brand": "SUFIX",
+      "article": "ST1454",
+      "category": "ШРУС",
+      "retail": 2700,
+      "photo": {
+        "filename": "irk-c0c74d34ead69d9e5c9546-260f5bee7070.jpg",
+        "sha256": "260f5bee7070e459dcf35c0627a1dfe4116b6068514a1d2537de6ce94c709f8f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-c0c74d34ead69d9e5c9546-260f5bee7070.jpg",
+        "manufacturer_page_sha256": "70d842fce296e9f82db211738a1a82a1a88bcd9c5a51512f5d4758ed33c82675",
+        "fitment_page_sha256": "70d842fce296e9f82db211738a1a82a1a88bcd9c5a51512f5d4758ed33c82675",
+        "verified_at_utc": "2026-11-20T09:43:26.531766+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:36.007252+00:00"
+    },
+    {
+      "id": "irk-5f7686d07a9a1ea4c5f03c",
+      "brand": "SUFIX",
+      "article": "ST1455",
+      "category": "ШРУС",
+      "retail": 3550,
+      "photo": {
+        "filename": "irk-5f7686d07a9a1ea4c5f03c-cdea3f611256.jpg",
+        "sha256": "cdea3f6112564f0c48fc2c159e3a01915f6f9a2d7d8361c6ca52266ad953c7ad",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5f7686d07a9a1ea4c5f03c-cdea3f611256.jpg",
+        "manufacturer_page_sha256": "18a7d04ca85fda6ae30580472d06fdeb3291a3dc3e2c36952a9e3d1b99709208",
+        "fitment_page_sha256": "18a7d04ca85fda6ae30580472d06fdeb3291a3dc3e2c36952a9e3d1b99709208",
+        "verified_at_utc": "2026-11-20T09:43:28.316520+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:37.579482+00:00"
+    },
+    {
+      "id": "irk-8647ec3e6bada511ac0bd2",
+      "brand": "SUFIX",
+      "article": "ST1502",
+      "category": "ШРУС",
+      "retail": 2650,
+      "photo": {
+        "filename": "irk-8647ec3e6bada511ac0bd2-da1a2d2c09b2.jpg",
+        "sha256": "da1a2d2c09b25db4e68711b3e4cfc7059700b3c38d0fb831301ee68b5adb5028",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-8647ec3e6bada511ac0bd2-da1a2d2c09b2.jpg",
+        "manufacturer_page_sha256": "e3b00c9865f545beceeab5b668345d66caef660876e4e1456f31c8935de401e9",
+        "fitment_page_sha256": "e3b00c9865f545beceeab5b668345d66caef660876e4e1456f31c8935de401e9",
+        "verified_at_utc": "2026-11-20T09:43:28.783479+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:39.138864+00:00"
+    },
+    {
+      "id": "irk-47f5bf2367a4df757ec3b9",
+      "brand": "SUFIX",
+      "article": "ST1504",
+      "category": "ШРУС",
+      "retail": 2700,
+      "photo": {
+        "filename": "irk-47f5bf2367a4df757ec3b9-ebbaff1f10ef.jpg",
+        "sha256": "ebbaff1f10efc2e640fe1c5e6e6120ff83bbb972b571c372ca0f88e2ff7a1329",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-47f5bf2367a4df757ec3b9-ebbaff1f10ef.jpg",
+        "manufacturer_page_sha256": "d88aca6d8c9cf292581561780d191a6e977a91339d2d823d93ae2d84eb0fb92a",
+        "fitment_page_sha256": "d88aca6d8c9cf292581561780d191a6e977a91339d2d823d93ae2d84eb0fb92a",
+        "verified_at_utc": "2026-11-20T09:43:30.533090+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:40.584176+00:00"
+    },
+    {
+      "id": "irk-5ca6d7d51e320e2e4a356c",
+      "brand": "SUFIX",
+      "article": "ST1509",
+      "category": "ШРУС",
+      "retail": 2900,
+      "photo": {
+        "filename": "irk-5ca6d7d51e320e2e4a356c-26122f7f4d55.jpg",
+        "sha256": "26122f7f4d558d4f87fa10b452ae8d45f89a6862e07695da3813522b4af74812",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5ca6d7d51e320e2e4a356c-26122f7f4d55.jpg",
+        "manufacturer_page_sha256": "7c64e945d7c73ef4de9727e6b513848b2e205d03c4505099f86dcf262e3c019c",
+        "fitment_page_sha256": "7c64e945d7c73ef4de9727e6b513848b2e205d03c4505099f86dcf262e3c019c",
+        "verified_at_utc": "2026-11-20T09:43:30.914217+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:42.391549+00:00"
+    },
+    {
+      "id": "irk-9250999b5232526557a06b",
+      "brand": "SUFIX",
+      "article": "ST1514",
+      "category": "ШРУС",
+      "retail": 4400,
+      "photo": {
+        "filename": "irk-9250999b5232526557a06b-c47505b0fe72.jpg",
+        "sha256": "c47505b0fe721f5ba31f8ba0e451c51b5d8d4e62ac141fc8090d5b35912a53aa",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-9250999b5232526557a06b-c47505b0fe72.jpg",
+        "manufacturer_page_sha256": "c874b584eeee82b3a7662d4cfb71134aa4c4ea0a02b7ee73058fdbaa5584cb3d",
+        "fitment_page_sha256": "c874b584eeee82b3a7662d4cfb71134aa4c4ea0a02b7ee73058fdbaa5584cb3d",
+        "verified_at_utc": "2026-11-20T09:43:32.825423+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:44.073313+00:00"
+    },
+    {
+      "id": "irk-935da229d4b6c22eaea832",
+      "brand": "SUFIX",
+      "article": "ST1517",
+      "category": "ШРУС",
+      "retail": 3500,
+      "photo": {
+        "filename": "irk-935da229d4b6c22eaea832-025251c0ae36.jpg",
+        "sha256": "025251c0ae360032ca9250d1cae6db0077233b135eb55c0dfd1434966177720c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-935da229d4b6c22eaea832-025251c0ae36.jpg",
+        "manufacturer_page_sha256": "725f865f76e9e6e6c358996b7a2e03f489e22e7bdd430489ddeae6104db879a6",
+        "fitment_page_sha256": "725f865f76e9e6e6c358996b7a2e03f489e22e7bdd430489ddeae6104db879a6",
+        "verified_at_utc": "2026-11-20T09:43:34.327282+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:45.670802+00:00"
+    },
+    {
+      "id": "irk-af360cc3f7609b931d95c2",
+      "brand": "SUFIX",
+      "article": "ST1518",
+      "category": "ШРУС",
+      "retail": 3150,
+      "photo": {
+        "filename": "irk-af360cc3f7609b931d95c2-1f75aa7705c4.jpg",
+        "sha256": "1f75aa7705c4c34719f42651bbefb4c7b2f4cd730077b752e894de4d3b563abf",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-af360cc3f7609b931d95c2-1f75aa7705c4.jpg",
+        "manufacturer_page_sha256": "3102dc8f9c22d1a793f5540f8ef2493ae83893c52641855f8b48a2d12c9a9ea0",
+        "fitment_page_sha256": "3102dc8f9c22d1a793f5540f8ef2493ae83893c52641855f8b48a2d12c9a9ea0",
+        "verified_at_utc": "2026-11-20T09:43:35.198656+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:47.066421+00:00"
+    },
+    {
+      "id": "irk-e892792bcc090b2ebbe0ed",
+      "brand": "SUFIX",
+      "article": "ST1525",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-e892792bcc090b2ebbe0ed-da19acdf6ba6.jpg",
+        "sha256": "da19acdf6ba6fe659fa639025a727c9ecc415fcc7311e3dd6969305238def30d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-e892792bcc090b2ebbe0ed-da19acdf6ba6.jpg",
+        "manufacturer_page_sha256": "84c58c9d2916399203c3f0d5b1c6a706a60211ba36d9c68ca8a2b000bcc91e5f",
+        "fitment_page_sha256": "84c58c9d2916399203c3f0d5b1c6a706a60211ba36d9c68ca8a2b000bcc91e5f",
+        "verified_at_utc": "2026-11-20T09:43:36.867685+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:48.653201+00:00"
+    },
+    {
+      "id": "irk-043b031e00a67b266cfcab",
+      "brand": "SUFIX",
+      "article": "ST1527",
+      "category": "ШРУС",
+      "retail": 3550,
+      "photo": {
+        "filename": "irk-043b031e00a67b266cfcab-2d7029f329d2.jpg",
+        "sha256": "2d7029f329d276ba77e42128c5f79908228e16f4e4e36758b35c4c90d5c04c93",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-043b031e00a67b266cfcab-2d7029f329d2.jpg",
+        "manufacturer_page_sha256": "2094ba7af0643747563e53de2089f7437200156de8c3eedba8065c182ce030e2",
+        "fitment_page_sha256": "2094ba7af0643747563e53de2089f7437200156de8c3eedba8065c182ce030e2",
+        "verified_at_utc": "2026-11-20T09:43:37.435959+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:49.850282+00:00"
+    },
+    {
+      "id": "irk-945d51474e00d9ca2c1ac7",
+      "brand": "SUFIX",
+      "article": "ST1532",
+      "category": "ШРУС",
+      "retail": 3350,
+      "photo": {
+        "filename": "irk-945d51474e00d9ca2c1ac7-aa5e8c51309c.jpg",
+        "sha256": "aa5e8c51309c6c61a1097c52d8dc2f51240cfd721a449276a4ef347bee89caaa",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-945d51474e00d9ca2c1ac7-aa5e8c51309c.jpg",
+        "manufacturer_page_sha256": "a7083f5b6e98a43369702e2c347d870f93cc03d8972a7aa145c379ef9f7ca608",
+        "fitment_page_sha256": "a7083f5b6e98a43369702e2c347d870f93cc03d8972a7aa145c379ef9f7ca608",
+        "verified_at_utc": "2026-11-20T09:43:39.466929+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:51.551970+00:00"
+    },
+    {
+      "id": "irk-1559fc550eaf5591bb429f",
+      "brand": "SUFIX",
+      "article": "ST1535",
+      "category": "ШРУС",
+      "retail": 4200,
+      "photo": {
+        "filename": "irk-1559fc550eaf5591bb429f-e2b0a4fef4d7.jpg",
+        "sha256": "e2b0a4fef4d7fc2b1f0121ade5c7a87c1c02538168948f6b7eaa1aedb8580184",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1559fc550eaf5591bb429f-e2b0a4fef4d7.jpg",
+        "manufacturer_page_sha256": "a5d50b75698f74fa0fcfa5f4bfd6e1a89c7cef6909082a651e8ca691a87aacde",
+        "fitment_page_sha256": "a5d50b75698f74fa0fcfa5f4bfd6e1a89c7cef6909082a651e8ca691a87aacde",
+        "verified_at_utc": "2026-11-20T09:43:39.928945+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:52.993955+00:00"
+    },
+    {
+      "id": "irk-7afd24d138bd75afd1f3fd",
+      "brand": "SUFIX",
+      "article": "ST1541",
+      "category": "ШРУС",
+      "retail": 7600,
+      "photo": {
+        "filename": "irk-7afd24d138bd75afd1f3fd-e645d76f5e6d.jpg",
+        "sha256": "e645d76f5e6deb6fe1a1046f6770c916e18360481134b8eda7a4afc32207c8f5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7afd24d138bd75afd1f3fd-e645d76f5e6d.jpg",
+        "manufacturer_page_sha256": "0643cca8f53d31d149ca53eaa0619e20d016e974f81dbb28916d04fb883b4c5c",
+        "fitment_page_sha256": "0643cca8f53d31d149ca53eaa0619e20d016e974f81dbb28916d04fb883b4c5c",
+        "verified_at_utc": "2026-11-20T09:43:42.526884+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:54.276804+00:00"
+    },
+    {
+      "id": "irk-53c90393f933ae71ff12c2",
+      "brand": "SUFIX",
+      "article": "ST1542",
+      "category": "ШРУС",
+      "retail": 4500,
+      "photo": {
+        "filename": "irk-53c90393f933ae71ff12c2-28cffd597fc1.jpg",
+        "sha256": "28cffd597fc19194950e7bbf86f1e108a3eec8d1a24b1d5f0bbc3c3e90b55221",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-53c90393f933ae71ff12c2-28cffd597fc1.jpg",
+        "manufacturer_page_sha256": "528e7dcfb0a734b210e48b5183e950c6045e1643452eefbf502ddd8ac12b7928",
+        "fitment_page_sha256": "528e7dcfb0a734b210e48b5183e950c6045e1643452eefbf502ddd8ac12b7928",
+        "verified_at_utc": "2026-11-20T09:43:43.204689+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:56.595883+00:00"
+    },
+    {
+      "id": "irk-67ef476c8f6cf9b8fdb97d",
+      "brand": "SUFIX",
+      "article": "ST1545",
+      "category": "ШРУС",
+      "retail": 3150,
+      "photo": {
+        "filename": "irk-67ef476c8f6cf9b8fdb97d-3849b7b32ba6.jpg",
+        "sha256": "3849b7b32ba6b48915ce408567518f0514f8ff5e3fce8d82d6d3b30aeee9a09b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-67ef476c8f6cf9b8fdb97d-3849b7b32ba6.jpg",
+        "manufacturer_page_sha256": "f586cee2531305c1ae3e24c9e5b1e0824891613696a342117bc4fe981ad4bcca",
+        "fitment_page_sha256": "f586cee2531305c1ae3e24c9e5b1e0824891613696a342117bc4fe981ad4bcca",
+        "verified_at_utc": "2026-11-20T09:43:45.058793+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:58.280183+00:00"
+    },
+    {
+      "id": "irk-09e665ca6fe94a8b4dd11b",
+      "brand": "SUFIX",
+      "article": "ST1547",
+      "category": "ШРУС",
+      "retail": 4750,
+      "photo": {
+        "filename": "irk-09e665ca6fe94a8b4dd11b-b50553e74cd8.jpg",
+        "sha256": "b50553e74cd83f7a5f0200135d9f549998b5b6d77efad1b83f5526408626c3ce",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-09e665ca6fe94a8b4dd11b-b50553e74cd8.jpg",
+        "manufacturer_page_sha256": "fd2d6837bdcbd575454de44095c50311f77b3c3b63e6839518351c56f96f7531",
+        "fitment_page_sha256": "fd2d6837bdcbd575454de44095c50311f77b3c3b63e6839518351c56f96f7531",
+        "verified_at_utc": "2026-11-20T09:43:45.396212+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:45:59.565482+00:00"
+    },
+    {
+      "id": "irk-ae0b8c813956213c6112f7",
+      "brand": "SUFIX",
+      "article": "ST1554",
+      "category": "ШРУС",
+      "retail": 5750,
+      "photo": {
+        "filename": "irk-ae0b8c813956213c6112f7-3c9efead9810.jpg",
+        "sha256": "3c9efead981071af5084fc9bd0ff6e6abd5d0101d14fbdd1e20a48c1fab4337b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-ae0b8c813956213c6112f7-3c9efead9810.jpg",
+        "manufacturer_page_sha256": "5d81ac5e3d4e18e5af5ae62c4280986ed54869a900fb40b7fcbe8853dc5d6872",
+        "fitment_page_sha256": "5d81ac5e3d4e18e5af5ae62c4280986ed54869a900fb40b7fcbe8853dc5d6872",
+        "verified_at_utc": "2026-11-20T09:43:47.504113+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:01.565003+00:00"
+    },
+    {
+      "id": "irk-d1b9fb1a13c96cd54588d9",
+      "brand": "SUFIX",
+      "article": "ST1560",
+      "category": "ШРУС",
+      "retail": 3600,
+      "photo": {
+        "filename": "irk-d1b9fb1a13c96cd54588d9-a7b6ef888a6c.jpg",
+        "sha256": "a7b6ef888a6cf71b2594ac581bc4d5ba25d2b2017128550b41a32b727e5647af",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-d1b9fb1a13c96cd54588d9-a7b6ef888a6c.jpg",
+        "manufacturer_page_sha256": "b5ce49125c4b19d552c2c78a771d50e140cacde91315b2599704b394f45455de",
+        "fitment_page_sha256": "b5ce49125c4b19d552c2c78a771d50e140cacde91315b2599704b394f45455de",
+        "verified_at_utc": "2026-11-20T09:43:47.623940+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:03.102853+00:00"
+    },
+    {
+      "id": "irk-1f35379ad244d320627822",
+      "brand": "SUFIX",
+      "article": "ST1561",
+      "category": "ШРУС",
+      "retail": 5300,
+      "photo": {
+        "filename": "irk-1f35379ad244d320627822-f73e8f84363a.jpg",
+        "sha256": "f73e8f84363a3601f9ae446adb43b692bcec4114cba9c0d92d1a76cb55befd34",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1f35379ad244d320627822-f73e8f84363a.jpg",
+        "manufacturer_page_sha256": "231dadbfe4d9966661a4bcf84395378912d9ec7c3183087b52369de96ac62851",
+        "fitment_page_sha256": "231dadbfe4d9966661a4bcf84395378912d9ec7c3183087b52369de96ac62851",
+        "verified_at_utc": "2026-11-20T09:43:49.975750+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:04.863946+00:00"
+    },
+    {
+      "id": "irk-2d9e504675ce24fab5d4be",
+      "brand": "SUFIX",
+      "article": "ST1566",
+      "category": "ШРУС",
+      "retail": 2550,
+      "photo": {
+        "filename": "irk-2d9e504675ce24fab5d4be-e907924640f5.jpg",
+        "sha256": "e907924640f5d4d18f53b6c9b030b9df9ec7252922faef261b8ed869dcd6098f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2d9e504675ce24fab5d4be-e907924640f5.jpg",
+        "manufacturer_page_sha256": "e5425b540a924a2bb8ca4ddc13b2214c73d0236d3326b60d0e1cc42ca465575e",
+        "fitment_page_sha256": "e5425b540a924a2bb8ca4ddc13b2214c73d0236d3326b60d0e1cc42ca465575e",
+        "verified_at_utc": "2026-11-20T09:43:50.010283+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:06.058709+00:00"
+    },
+    {
+      "id": "irk-31907c9abd782cce02ced5",
+      "brand": "SUFIX",
+      "article": "ST1572",
+      "category": "ШРУС",
+      "retail": 2500,
+      "photo": {
+        "filename": "irk-31907c9abd782cce02ced5-1929b98b23ec.jpg",
+        "sha256": "1929b98b23ecc0daac80d9ca2aef136e7aa4030dceb6a957a2126b238b1a309f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-31907c9abd782cce02ced5-1929b98b23ec.jpg",
+        "manufacturer_page_sha256": "28fffc6ade5049ae12b1a5a24b559c93801a905c098c11f98ee0123691357ee3",
+        "fitment_page_sha256": "28fffc6ade5049ae12b1a5a24b559c93801a905c098c11f98ee0123691357ee3",
+        "verified_at_utc": "2026-11-20T09:43:52.687993+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:07.929270+00:00"
+    },
+    {
+      "id": "irk-5ae7a77d3952dc36d2d05e",
+      "brand": "SUFIX",
+      "article": "ST1574",
+      "category": "ШРУС",
+      "retail": 1550,
+      "photo": {
+        "filename": "irk-5ae7a77d3952dc36d2d05e-0446e8b10969.jpg",
+        "sha256": "0446e8b109691d35e18bb83762baddc8f7158793aa90161bd585bb27b4faa697",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5ae7a77d3952dc36d2d05e-0446e8b10969.jpg",
+        "manufacturer_page_sha256": "a464069b6669b37f7d8fd5320348fa6196a794a350dabd11b016015855307a6c",
+        "fitment_page_sha256": "a464069b6669b37f7d8fd5320348fa6196a794a350dabd11b016015855307a6c",
+        "verified_at_utc": "2026-11-20T09:43:52.700313+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:09.371035+00:00"
+    },
+    {
+      "id": "irk-21103ebfb227d381031886",
+      "brand": "SUFIX",
+      "article": "ST1589",
+      "category": "ШРУС",
+      "retail": 5050,
+      "photo": {
+        "filename": "irk-21103ebfb227d381031886-a50f52e268b4.jpg",
+        "sha256": "a50f52e268b404cf1d91bccbf3044ab31b88c5775040f47f8fbc724e53eb5700",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-21103ebfb227d381031886-a50f52e268b4.jpg",
+        "manufacturer_page_sha256": "d0f3ce1d80db2280ae90098bb07ca03d7011b68a9a5936c788504bbe73c5ea74",
+        "fitment_page_sha256": "d0f3ce1d80db2280ae90098bb07ca03d7011b68a9a5936c788504bbe73c5ea74",
+        "verified_at_utc": "2026-11-20T09:43:55.063740+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:10.645508+00:00"
+    },
+    {
+      "id": "irk-0c1d66d68f551d6cc7cac5",
+      "brand": "SUFIX",
+      "article": "ST1601",
+      "category": "ШРУС",
+      "retail": 2400,
+      "photo": {
+        "filename": "irk-0c1d66d68f551d6cc7cac5-7854fb753111.jpg",
+        "sha256": "7854fb7531113446eb5112b411d92bdb614a5da7b91bde6121dc1e511613edec",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0c1d66d68f551d6cc7cac5-7854fb753111.jpg",
+        "manufacturer_page_sha256": "e5e98d9602a870ab3cec77e05626681c528441df6cd12735b167684fc1cd8da0",
+        "fitment_page_sha256": "e5e98d9602a870ab3cec77e05626681c528441df6cd12735b167684fc1cd8da0",
+        "verified_at_utc": "2026-11-20T09:43:55.269118+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:12.439843+00:00"
+    },
+    {
+      "id": "irk-7e4848475513ac2f46745c",
+      "brand": "SUFIX",
+      "article": "ST1639",
+      "category": "ШРУС",
+      "retail": 3450,
+      "photo": {
+        "filename": "irk-7e4848475513ac2f46745c-87735c1f206b.jpg",
+        "sha256": "87735c1f206b61f90f8c9f1c5e8ba658f194784414bb41cf075b7b65b6c745b2",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-7e4848475513ac2f46745c-87735c1f206b.jpg",
+        "manufacturer_page_sha256": "d83413b5e54a6193c272dbbd2c9717fa79a134d30990a5eeba636206f3e73b59",
+        "fitment_page_sha256": "d83413b5e54a6193c272dbbd2c9717fa79a134d30990a5eeba636206f3e73b59",
+        "verified_at_utc": "2026-11-20T09:43:57.490295+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:13.929502+00:00"
+    },
+    {
+      "id": "irk-4cc94cb92aafb93362739d",
+      "brand": "SUFIX",
+      "article": "ST1647",
+      "category": "ШРУС",
+      "retail": 2750,
+      "photo": {
+        "filename": "irk-4cc94cb92aafb93362739d-f11a81598c60.jpg",
+        "sha256": "f11a81598c60311eee136ac6f7d9f7cb62eec68f0b9d4fef3263d521f5893f44",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4cc94cb92aafb93362739d-f11a81598c60.jpg",
+        "manufacturer_page_sha256": "09e27854a20e4d5cdc4d76bfc237e84e3161ab888fe29c3d5bbb65c504ed8c50",
+        "fitment_page_sha256": "09e27854a20e4d5cdc4d76bfc237e84e3161ab888fe29c3d5bbb65c504ed8c50",
+        "verified_at_utc": "2026-11-20T09:43:57.540865+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:15.363971+00:00"
+    },
+    {
+      "id": "irk-a638596793357ec90a61d1",
+      "brand": "SUFIX",
+      "article": "ST1649",
+      "category": "ШРУС",
+      "retail": 2650,
+      "photo": {
+        "filename": "irk-a638596793357ec90a61d1-735edb863edb.jpg",
+        "sha256": "735edb863edb51c41c4df70edfd68b11921488bed7d808f24b3b1e984e1d1007",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-a638596793357ec90a61d1-735edb863edb.jpg",
+        "manufacturer_page_sha256": "b58ca3bc660ce2aaf9aa90151dc2885f2b283ca4b46b4965b0cb33b259e87186",
+        "fitment_page_sha256": "b58ca3bc660ce2aaf9aa90151dc2885f2b283ca4b46b4965b0cb33b259e87186",
+        "verified_at_utc": "2026-11-20T09:43:59.916535+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:17.145045+00:00"
+    },
+    {
+      "id": "irk-f86d1c8e1300cf1f1c674c",
+      "brand": "SUFIX",
+      "article": "ST1659",
+      "category": "ШРУС",
+      "retail": 2800,
+      "photo": {
+        "filename": "irk-f86d1c8e1300cf1f1c674c-ab51629cb9e6.jpg",
+        "sha256": "ab51629cb9e6fa396fed9f897acf19ecc27eb1b1c7eb440b16465ad566a53814",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f86d1c8e1300cf1f1c674c-ab51629cb9e6.jpg",
+        "manufacturer_page_sha256": "d1a3f7cebbb3c334b5c6dfded0ce988cf92c8a67b3f3409115a9cd17c171bded",
+        "fitment_page_sha256": "d1a3f7cebbb3c334b5c6dfded0ce988cf92c8a67b3f3409115a9cd17c171bded",
+        "verified_at_utc": "2026-11-20T09:43:59.707442+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:18.689796+00:00"
+    },
+    {
+      "id": "irk-77e2e2c8a2c8927ed88ee4",
+      "brand": "SUFIX",
+      "article": "ST1666",
+      "category": "ШРУС",
+      "retail": 3000,
+      "photo": {
+        "filename": "irk-77e2e2c8a2c8927ed88ee4-a99bc4013c76.jpg",
+        "sha256": "a99bc4013c76c890e604f08496ab111aecc5a8f8086caabfbf336e657ae5b463",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-77e2e2c8a2c8927ed88ee4-a99bc4013c76.jpg",
+        "manufacturer_page_sha256": "44585126c0e55fc74433fc69f1beb0eb51a134c01e24ad8a5ca0347132caf53d",
+        "fitment_page_sha256": "44585126c0e55fc74433fc69f1beb0eb51a134c01e24ad8a5ca0347132caf53d",
+        "verified_at_utc": "2026-11-20T09:44:02.040624+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:20.092801+00:00"
+    },
+    {
+      "id": "irk-5950684936296e2abdb96f",
+      "brand": "SUFIX",
+      "article": "ST1670",
+      "category": "ШРУС",
+      "retail": 2250,
+      "photo": {
+        "filename": "irk-5950684936296e2abdb96f-25c162978de2.jpg",
+        "sha256": "25c162978de21b6cd0d6e70118cccbd83b98dddbe43c5011358ae37c83d00dd7",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-5950684936296e2abdb96f-25c162978de2.jpg",
+        "manufacturer_page_sha256": "37e66a68bbc6bdb1e1ab2d9b79a4b0f08c750eae2dcc1c8e28e1d4107143e07b",
+        "fitment_page_sha256": "37e66a68bbc6bdb1e1ab2d9b79a4b0f08c750eae2dcc1c8e28e1d4107143e07b",
+        "verified_at_utc": "2026-11-20T09:44:02.059607+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:22.119747+00:00"
+    },
+    {
+      "id": "irk-97bd0cf6e25de8f9e69329",
+      "brand": "Febest",
+      "article": "0110008",
+      "category": "ШРУС",
+      "retail": 5000,
+      "photo": {
+        "filename": "irk-97bd0cf6e25de8f9e69329-439379430290.jpg",
+        "sha256": "439379430290eff549c371bab1e87717ef4032f02be76b53f812bb9307e96737",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-97bd0cf6e25de8f9e69329-439379430290.jpg",
+        "manufacturer_page_sha256": "855da80b2fb0375d8dda8f98e39d65a58bf50db7a9b8f53acda8020ad20c5b83",
+        "fitment_page_sha256": "855da80b2fb0375d8dda8f98e39d65a58bf50db7a9b8f53acda8020ad20c5b83",
+        "verified_at_utc": "2026-11-20T09:44:04.321423+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:23.334472+00:00"
+    },
+    {
+      "id": "irk-03c24713989bcd806faa77",
+      "brand": "Febest",
+      "article": "0110010A48",
+      "category": "ШРУС",
+      "retail": 3500,
+      "photo": {
+        "filename": "irk-03c24713989bcd806faa77-2e47ed2b8dc4.jpg",
+        "sha256": "2e47ed2b8dc48c90830c8b3e5b66537eec63d3f2868c697216e7a9be96073b4e",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-03c24713989bcd806faa77-2e47ed2b8dc4.jpg",
+        "manufacturer_page_sha256": "6e57af13eb3b718bebb05fb0f9f46db92b9a12da4d42d1e3472b64ed7ae1739b",
+        "fitment_page_sha256": "6e57af13eb3b718bebb05fb0f9f46db92b9a12da4d42d1e3472b64ed7ae1739b",
+        "verified_at_utc": "2026-11-20T09:44:04.216258+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:24.881100+00:00"
+    },
+    {
+      "id": "irk-3a14cbc08c6e1f1bbb79df",
+      "brand": "Febest",
+      "article": "01101NZFE",
+      "category": "ШРУС",
+      "retail": 4450,
+      "photo": {
+        "filename": "irk-3a14cbc08c6e1f1bbb79df-5ac6dd5ed189.jpg",
+        "sha256": "5ac6dd5ed1895c12c8fb5d130d811f7d7dd8222f22612add5a96a529cf992c7d",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3a14cbc08c6e1f1bbb79df-5ac6dd5ed189.jpg",
+        "manufacturer_page_sha256": "1faf0ff2a7080f355f0ebfb4717ad7cb9020c4ca3e082069301df315cc2b818d",
+        "fitment_page_sha256": "1faf0ff2a7080f355f0ebfb4717ad7cb9020c4ca3e082069301df315cc2b818d",
+        "verified_at_utc": "2026-11-20T09:44:06.453526+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:26.475068+00:00"
+    },
+    {
+      "id": "irk-65fbb327be4a9ea6381eb3",
+      "brand": "Febest",
+      "article": "0110KSP90Z19",
+      "category": "ШРУС",
+      "retail": 4100,
+      "photo": {
+        "filename": "irk-65fbb327be4a9ea6381eb3-31266061b880.jpg",
+        "sha256": "31266061b8806d65e573c2cb01fd4b41cab96e7a78c2c35779221b8dddadbe9f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-65fbb327be4a9ea6381eb3-31266061b880.jpg",
+        "manufacturer_page_sha256": "b162f132b8beb7eafd5478dca50436435150cbd60f8293db152e888bc324df93",
+        "fitment_page_sha256": "b162f132b8beb7eafd5478dca50436435150cbd60f8293db152e888bc324df93",
+        "verified_at_utc": "2026-11-20T09:44:06.491208+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:27.916827+00:00"
+    },
+    {
+      "id": "irk-f53cb802b032b7ccfd6b67",
+      "brand": "Febest",
+      "article": "01111SZFE",
+      "category": "ШРУС",
+      "retail": 4000,
+      "photo": {
+        "filename": "irk-f53cb802b032b7ccfd6b67-fbdae9c9f249.jpg",
+        "sha256": "fbdae9c9f24964375e2f3b245d2997a0c5a886b21296aea4f283f5a8ca08432f",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f53cb802b032b7ccfd6b67-fbdae9c9f249.jpg",
+        "manufacturer_page_sha256": "bcda13fb3ee7be3a5b765236fac3b42eae3dc7c65265f1b51fe038ff73fac343",
+        "fitment_page_sha256": "bcda13fb3ee7be3a5b765236fac3b42eae3dc7c65265f1b51fe038ff73fac343",
+        "verified_at_utc": "2026-11-20T09:44:08.433448+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:29.551108+00:00"
+    },
+    {
+      "id": "irk-4234501191322f4934164d",
+      "brand": "Febest",
+      "article": "0111ACV30RH",
+      "category": "ШРУС",
+      "retail": 8200,
+      "photo": {
+        "filename": "irk-4234501191322f4934164d-e5d4ebd40f43.jpg",
+        "sha256": "e5d4ebd40f43a2b4e98210b0c232c0be83d41502b642f816e2417d5a059ddefb",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-4234501191322f4934164d-e5d4ebd40f43.jpg",
+        "manufacturer_page_sha256": "ac6653f7fbcb6a8d0a4adddea5b4dc42bfaf6e0fd84428b3c8bf306341b02d0f",
+        "fitment_page_sha256": "ac6653f7fbcb6a8d0a4adddea5b4dc42bfaf6e0fd84428b3c8bf306341b02d0f",
+        "verified_at_utc": "2026-11-20T09:44:08.305817+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:31.406053+00:00"
+    },
+    {
+      "id": "irk-869921cdb578600a8b6ca6",
+      "brand": "Febest",
+      "article": "0111GSV40LH",
+      "category": "ШРУС",
+      "retail": 5700,
+      "photo": {
+        "filename": "irk-869921cdb578600a8b6ca6-2daea8685a2d.jpg",
+        "sha256": "2daea8685a2d8f4198aa1340f878cf8269f7fe7889aec9d9edee292d9c101391",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-869921cdb578600a8b6ca6-2daea8685a2d.jpg",
+        "manufacturer_page_sha256": "1b45e72f76c22084a65780479d1b59986b792e3d70a1a60ff2decb04ace0767b",
+        "fitment_page_sha256": "1b45e72f76c22084a65780479d1b59986b792e3d70a1a60ff2decb04ace0767b",
+        "verified_at_utc": "2026-11-20T09:44:10.207576+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:34.040007+00:00"
+    },
+    {
+      "id": "irk-1b79a124b83e4a5eceffad",
+      "brand": "Febest",
+      "article": "0111KSP130",
+      "category": "ШРУС",
+      "retail": 5150,
+      "photo": {
+        "filename": "irk-1b79a124b83e4a5eceffad-5af6ea4ee4b9.jpg",
+        "sha256": "5af6ea4ee4b983cd93e6299eb05bffeb6f687646b5b6c299b9655bfd702a5f01",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1b79a124b83e4a5eceffad-5af6ea4ee4b9.jpg",
+        "manufacturer_page_sha256": "7f4c7231373e52b531c65961e29608c0c48fe2acc207d72c96e558374fd6add9",
+        "fitment_page_sha256": "7f4c7231373e52b531c65961e29608c0c48fe2acc207d72c96e558374fd6add9",
+        "verified_at_utc": "2026-11-20T09:44:10.919627+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:35.414054+00:00"
+    },
+    {
+      "id": "irk-66025dd68bd0878ae48421",
+      "brand": "Febest",
+      "article": "0111MCX20RH",
+      "category": "ШРУС",
+      "retail": 8000,
+      "photo": {
+        "filename": "irk-66025dd68bd0878ae48421-784e640c199f.jpg",
+        "sha256": "784e640c199f2bdb8da30e664fd3a32c8992a9a3d122d876726f91d3f10398fa",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-66025dd68bd0878ae48421-784e640c199f.jpg",
+        "manufacturer_page_sha256": "f5c29ac04084e476a5284f2ca3e52efbcc8056072959befbe1f0f2460b46bfce",
+        "fitment_page_sha256": "f5c29ac04084e476a5284f2ca3e52efbcc8056072959befbe1f0f2460b46bfce",
+        "verified_at_utc": "2026-11-20T09:44:11.904908+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:36.724985+00:00"
+    },
+    {
+      "id": "irk-02c3a9165d96046b88cc23",
+      "brand": "Febest",
+      "article": "0111MHU38R",
+      "category": "ШРУС",
+      "retail": 6650,
+      "photo": {
+        "filename": "irk-02c3a9165d96046b88cc23-517828cf011e.jpg",
+        "sha256": "517828cf011e4ae83f4d0a1e3c6d29391950c3850e80a5b74e705e8e00689f14",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-02c3a9165d96046b88cc23-517828cf011e.jpg",
+        "manufacturer_page_sha256": "c216dd2160e2939a39251e5582695fb829e8bdf99d1d2c732ac58831a4a14e62",
+        "fitment_page_sha256": "c216dd2160e2939a39251e5582695fb829e8bdf99d1d2c732ac58831a4a14e62",
+        "verified_at_utc": "2026-11-20T09:44:12.528051+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:38.216764+00:00"
+    },
+    {
+      "id": "irk-b1cf019e3f9ce933b4de08",
+      "brand": "Febest",
+      "article": "0111NZE140",
+      "category": "ШРУС",
+      "retail": 6450,
+      "photo": {
+        "filename": "irk-b1cf019e3f9ce933b4de08-aaba92536c50.jpg",
+        "sha256": "aaba92536c5041141967d2ec6632b667f857570161bee1126a8285d41c780100",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-b1cf019e3f9ce933b4de08-aaba92536c50.jpg",
+        "manufacturer_page_sha256": "b97b9ebb0ba04e61ececbafcfad9743a28aa0f352d784d45a0a424066facf158",
+        "fitment_page_sha256": "b97b9ebb0ba04e61ececbafcfad9743a28aa0f352d784d45a0a424066facf158",
+        "verified_at_utc": "2026-11-20T09:44:13.527190+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:39.721781+00:00"
+    },
+    {
+      "id": "irk-3a2ccb84436e01bd56d078",
+      "brand": "Febest",
+      "article": "0111ST215RH",
+      "category": "ШРУС",
+      "retail": 7700,
+      "photo": {
+        "filename": "irk-3a2ccb84436e01bd56d078-6cc8e36216b6.jpg",
+        "sha256": "6cc8e36216b69724725b2c07a02349b99d01ea63adecc20d4198cd5552dd2690",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-3a2ccb84436e01bd56d078-6cc8e36216b6.jpg",
+        "manufacturer_page_sha256": "7e969863077855f3a6859e7961b80beeded43beca0e2b86c4efd8d38bacb1566",
+        "fitment_page_sha256": "7e969863077855f3a6859e7961b80beeded43beca0e2b86c4efd8d38bacb1566",
+        "verified_at_utc": "2026-11-20T09:44:14.138085+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:41.010258+00:00"
+    },
+    {
+      "id": "irk-75c6f81e67355ced4e6793",
+      "brand": "Febest",
+      "article": "0210T32R",
+      "category": "ШРУС",
+      "retail": 7800,
+      "photo": {
+        "filename": "irk-75c6f81e67355ced4e6793-198654db62c5.jpg",
+        "sha256": "198654db62c58521b8aab98dc8f3a798a7b204baa37801e57774ef74c270b37a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-75c6f81e67355ced4e6793-198654db62c5.jpg",
+        "manufacturer_page_sha256": "81b6791cbb7938c949339ad453be9e034ec55c9cc5f53040822d3b2e02dd0c9a",
+        "fitment_page_sha256": "81b6791cbb7938c949339ad453be9e034ec55c9cc5f53040822d3b2e02dd0c9a",
+        "verified_at_utc": "2026-11-20T09:44:15.226268+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:42.582426+00:00"
+    },
+    {
+      "id": "irk-51adee3eb8bae1676f2cd2",
+      "brand": "Febest",
+      "article": "0211J32QR25FLH",
+      "category": "ШРУС",
+      "retail": 16250,
+      "photo": {
+        "filename": "irk-51adee3eb8bae1676f2cd2-7b309d4d1685.jpg",
+        "sha256": "7b309d4d168562e7296e87155fe0984cff937e0bf53c9b914122ffb62fdd697a",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-51adee3eb8bae1676f2cd2-7b309d4d1685.jpg",
+        "manufacturer_page_sha256": "d65e1aa381ed82f9219b4f73d1d5fb85175320c12c5a70adc08f7f82ae3394e9",
+        "fitment_page_sha256": "d65e1aa381ed82f9219b4f73d1d5fb85175320c12c5a70adc08f7f82ae3394e9",
+        "verified_at_utc": "2026-11-20T09:44:15.848584+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:43.876605+00:00"
+    },
+    {
+      "id": "irk-1e5d5bf20f2050d05e1ce1",
+      "brand": "Febest",
+      "article": "0310024A50",
+      "category": "ШРУС",
+      "retail": 3500,
+      "photo": {
+        "filename": "irk-1e5d5bf20f2050d05e1ce1-217a8597a949.jpg",
+        "sha256": "217a8597a949b77dc7680121777e0fc76f5cf616f6bf0584399777390bcc2b44",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-1e5d5bf20f2050d05e1ce1-217a8597a949.jpg",
+        "manufacturer_page_sha256": "9e297609e951543f2f490ea001a3d4faa608775b01bd8ba26ee12f5ba3d1347a",
+        "fitment_page_sha256": "9e297609e951543f2f490ea001a3d4faa608775b01bd8ba26ee12f5ba3d1347a",
+        "verified_at_utc": "2026-11-20T09:44:16.813344+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:45.587427+00:00"
+    },
+    {
+      "id": "irk-0dc12a528a0a265b652664",
+      "brand": "Febest",
+      "article": "0310BE",
+      "category": "ШРУС",
+      "retail": 7500,
+      "photo": {
+        "filename": "irk-0dc12a528a0a265b652664-671c3bb2936a.jpg",
+        "sha256": "671c3bb2936abceeddb01ff86d5a2ac9d5c22a3357a72a5ffa46888b3403770c",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0dc12a528a0a265b652664-671c3bb2936a.jpg",
+        "manufacturer_page_sha256": "1cc1f078e22e1b840537fbfb283f024d60663bc00093bb494f632b959b5ccfe9",
+        "fitment_page_sha256": "1cc1f078e22e1b840537fbfb283f024d60663bc00093bb494f632b959b5ccfe9",
+        "verified_at_utc": "2026-11-20T09:44:17.519066+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:46.917461+00:00"
+    },
+    {
+      "id": "irk-0fb6467c748c001ebd7967",
+      "brand": "Febest",
+      "article": "0310CITYAT",
+      "category": "ШРУС",
+      "retail": 5100,
+      "photo": {
+        "filename": "irk-0fb6467c748c001ebd7967-074aa4c921cb.jpg",
+        "sha256": "074aa4c921cb4a83a2cef43e20c437c170a7e9ff8a92700af7597c59fb5861c5",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-0fb6467c748c001ebd7967-074aa4c921cb.jpg",
+        "manufacturer_page_sha256": "44f1943aa6e0b320a211cb3720aad94f45ef6390f78da82d01c6294fd0bc252e",
+        "fitment_page_sha256": "44f1943aa6e0b320a211cb3720aad94f45ef6390f78da82d01c6294fd0bc252e",
+        "verified_at_utc": "2026-11-20T09:44:18.395361+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:48.450076+00:00"
+    },
+    {
+      "id": "irk-f37b962d73a4cb59786a76",
+      "brand": "Febest",
+      "article": "0311CIV5DLH",
+      "category": "ШРУС",
+      "retail": 8500,
+      "photo": {
+        "filename": "irk-f37b962d73a4cb59786a76-349368536d83.jpg",
+        "sha256": "349368536d83ce5b859dfc2adb84376cbff692d722866a971230bfdc1e730b6b",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-f37b962d73a4cb59786a76-349368536d83.jpg",
+        "manufacturer_page_sha256": "8c3ce263626968adeae7dd8f85aa1d705cd842ea5c071e794f14e9ee5260df6d",
+        "fitment_page_sha256": "8c3ce263626968adeae7dd8f85aa1d705cd842ea5c071e794f14e9ee5260df6d",
+        "verified_at_utc": "2026-11-20T09:44:19.105327+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:49.653267+00:00"
+    },
+    {
+      "id": "irk-2190635f5365f1fb897e11",
+      "brand": "Febest",
+      "article": "0510KEAT",
+      "category": "ШРУС",
+      "retail": 5500,
+      "photo": {
+        "filename": "irk-2190635f5365f1fb897e11-acb718e98c79.jpg",
+        "sha256": "acb718e98c7918d6725e40a7286c55390c4ba38ef899d94302c51980daee4eb8",
+        "public_url": "https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/avito-images/irk-2190635f5365f1fb897e11-acb718e98c79.jpg",
+        "manufacturer_page_sha256": "cb42f5bf064129ce1127b8ce3181551ea28a17d89b4bfc54e2c5b0d04e79d0c4",
+        "fitment_page_sha256": "cb42f5bf064129ce1127b8ce3181551ea28a17d89b4bfc54e2c5b0d04e79d0c4",
+        "verified_at_utc": "2026-11-20T09:44:20.034427+00:00"
+      },
+      "API_checked_at_utc": "2026-11-20T09:46:50.961044+00:00"
     }
   ],
-  "skipped": [],
+  "skipped": [
+    {
+      "brand": "Febest",
+      "article": "0111AZT250LH",
+      "reason": "manufacturer_evidence_ValueError"
+    }
+  ],
   "all_original_ads_preserved": true,
   "private_API_costs_published": false,
   "checkout_mode": "account_pickup",
-  "publication_performed": true,
-  "release_workflow_run_id": 44493321947,
-  "delivery_observation_run_id": 44493961624,
-  "CDN_exact_bytes_verified": true,
-  "raw_exact_bytes_verified": true,
-  "raw_ads": 762,
-  "CDN_ads": 762,
-  "CDN_observations_without_extra_purge": 12,
-  "Avito_import_verified": false,
-  "CDN_recovery_run_id": 44534334482,
-  "CDN_recovered_sha256": "07ae51664d94ea1ca455a0285c4634aafbb17ee4cb1d67e45ea0d4c367314244"
+  "publication_performed": false
 }
