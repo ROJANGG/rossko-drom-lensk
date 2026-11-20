@@ -199,3 +199,5 @@ jobs:
           retention-days: 7
           if-no-files-found: ignore
 
+
+# Regression verified: load every reviewed brand before applying the mixed selection.
