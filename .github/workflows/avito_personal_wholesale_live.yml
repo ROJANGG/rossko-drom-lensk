@@ -46,7 +46,7 @@ jobs:
       - name: Checkout reviewed exact-SKU extension support
         uses: actions/checkout@v4
         with:
-          ref: 2e7f744bb7ec8346fabbf25ad1c6446148c9961f
+          ref: 44a4a9b70a933e4fde3f167344befb057d4a30b4
           path: verified-extension
           persist-credentials: false
       - name: Load verified additional categories without broadening the approved catalogue
@@ -54,6 +54,8 @@ jobs:
           cp verified-extension/avito_irkutsk.py generator/
           cp verified-extension/tests/test_avito_price_download.py generator/tests/
           cp verified-extension/avito_active_feed_refresh.py generator/
+          cp verified-extension/avito_reviewed_febest_cvj.py generator/
+          cp verified-extension/input/avito_reviewed_febest_cvj.json generator/input/
           cp verified-extension/avito_reviewed_drive_belts.py verified-extension/avito_reviewed_sufix_bearings.py verified-extension/avito_reviewed_lynx_source06.py verified-extension/avito_reviewed_sufix_drive_belts.py generator/
           cp verified-extension/input/avito_reviewed_drive_belts.json verified-extension/input/avito_reviewed_drive_belts_source05.json verified-extension/input/avito_reviewed_sufix_bearings.json verified-extension/input/avito_reviewed_lynx_source06.json verified-extension/input/avito_reviewed_sufix_drive_belts.json verified-extension/input/avito_reviewed_drive_belts_source09.json generator/input/
           cp verified-extension/tests/test_avito_reviewed_drive_belts.py verified-extension/tests/test_avito_active_feed_refresh.py generator/tests/
@@ -114,7 +116,7 @@ jobs:
               raise SystemExit("REFUSE: API cost validation expired or invalid")
           checked=api["api_requests_attempted"]
           confirmed=api["api_wholesale_confirmed"]
-          if not (100<=confirmed<=checked<=853 and confirmed/checked>=0.70
+          if not (100<=confirmed<=checked<=947 and confirmed/checked>=0.70
                   and confirmed==r["current_api_verified_skus"]):
               raise SystemExit("REFUSE: missing fresh API personal prices")
           prev=ET.parse("avito/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml").getroot()
