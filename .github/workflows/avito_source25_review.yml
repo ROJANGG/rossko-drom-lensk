@@ -1,0 +1,87 @@
+name: Avito - Nov23 review 48 SUFIX and 52 Febest CV joints
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/avito_source25_review.yml'
+permissions:
+  contents: read
+concurrency:
+  group: avito-irkutsk-four-daily-feed
+  cancel-in-progress: false
+jobs:
+  hundred-sku-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      ROSSKO_RUN_PRICE_CACHE: /tmp/rossko_${{ github.run_id }}.xlsx
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 1fc9f5fa1e5b9c791182c71425ea46618bff4eff
+          path: generator
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          path: source
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install 'requests>=2.31,<3' 'openpyxl>=3.1,<4' 'zeep>=4.3,<5'
+      - name: Test batch scope, outage limit and private-price exclusion
+        working-directory: source
+        run: python -m unittest discover -s tests -p test_avito_source25_review.py -v
+      - name: Load only the bounded hundred-SKU review
+        run: |
+          cp source/avito_source25_review.py generator/
+          cp source/avito_irkutsk.py generator/
+          cp source/input/avito_source25_20261123.json generator/input/
+      - name: Bound fresh supplier download latency
+        run: |
+          python - <<'PY2'
+          import json
+          from pathlib import Path
+          p=Path('generator/config.json');c=json.loads(p.read_text());c['rossko']['download_timeout_seconds']=20;p.write_text(json.dumps(c,ensure_ascii=False))
+          PY2
+      - name: Check exact account prices and Irkutsk zero-day stock; never publish
+        working-directory: generator
+        env:
+          ROSSKO_API_KEY1: ${{ secrets.ROSSKO_API_KEY1 }}
+          ROSSKO_API_KEY2: ${{ secrets.ROSSKO_API_KEY2 }}
+        run: python avito_source25_review.py
+      - name: Review primary OEM fitment and actual photo candidates only after a positive API gate
+        working-directory: generator
+        run: |
+          python -m pip install 'beautifulsoup4>=4.12,<5' 'pillow>=10,<13'
+          cp ../source/avito_source25_sufix_source_review.py .
+          python avito_source25_sufix_source_review.py
+      - name: Review exact Febest primary sources for API-confirmed SKUs
+        working-directory: generator
+        run: |
+          cp ../source/avito_reviewed_febest_cvj.py ../source/avito_source25_febest_research.py .
+          python avito_source25_febest_research.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: AVITO_SOURCE25_RETAIL_ONLY_REVIEW
+          path: generator/review/
+          if-no-files-found: ignore
+
+
+      - name: Observe current XML delivery without publishing or purging
+        if: always()
+        working-directory: generator
+        run: |
+          python - <<'PY2'
+          import urllib.request,hashlib,json,xml.etree.ElementTree as E
+          out={}
+          for name,url in [('raw','https://raw.githubusercontent.com/ROJANGG/rossko-drom-lensk/avito-irkutsk-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml'),('cdn','https://cdn.jsdelivr.net/gh/ROJANGG/rossko-drom-lensk@avito-irkutsk-feed/AVITO_PILOT_4_PREVIEW_NOT_LIVE.xml')]:
+              try:
+                  with urllib.request.urlopen(url,timeout=15) as r:raw=r.read(8000001)
+                  out[name]={'ads':len(E.fromstring(raw)),'sha256':hashlib.sha256(raw).hexdigest()}
+              except Exception as e:out[name]={'error_class':type(e).__name__}
+          print('SOURCE25_CURRENT_DELIVERY',json.dumps(out),flush=True)
+          PY2
