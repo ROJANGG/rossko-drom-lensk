@@ -1,5 +1,5 @@
 {
-  "scope_sha256": "143b7aec825e75f0000930902f7e26edf3b367c7d5b396f07b50286647fc2d40",
+  "scope_sha256": "515637290eadee09924165b6a406af20dec9394055f6b311b98a36bf60a56b33",
   "items": [
     {
       "brand": "LYNXauto",
@@ -202,6 +202,3951 @@
       "fitment": "HONDA ACCORD VII (CL, CN) 03-12, 2.2 i-CTDi (CN1) (N22A1), 103 (140), 01/04-05/08, BALSHT; HONDA ACCORD VII Tourer (CM, CN) 03-08, 2.2 i-CTDi (CN2) (N22A1), 103 (140), 01/04-05/08, BALSHT; HONDA CR-V II (RD_) 01-07, 2.2 CTDi (RD9) (N22A2), 103 (140), 02/05-09/06, Alternator",
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
       "package_unit_verified": true
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK1990",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333647",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK1990.html",
+      "source_checked_at_utc": "2026-11-23T08:09:23.618084+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK1990",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "413fecbe8d3de1a38e12a9577d75a741e63f6ad3970e90fe84cc197111a65ac1",
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 7 527 564",
+      "oem": "11287527564",
+      "original_OE_rows": [
+        [
+          "BMW",
+          "11 28 7 527 564"
+        ],
+        [
+          "BMW",
+          "11 28 7 549 150"
+        ],
+        [
+          "BMW",
+          "11 28 7 628 650"
+        ],
+        [
+          "CHRYSLER",
+          "53001 119"
+        ],
+        [
+          "FIAT",
+          "60603101"
+        ],
+        [
+          "FIAT",
+          "60626658"
+        ],
+        [
+          "FIAT",
+          "60663242"
+        ],
+        [
+          "FIAT",
+          "60813206"
+        ],
+        [
+          "FIAT",
+          "71753674"
+        ],
+        [
+          "GENERAL MOTORS",
+          "24462695"
+        ],
+        [
+          "GENERAL MOTORS",
+          "93172395"
+        ],
+        [
+          "GENERAL MOTORS",
+          "93172396"
+        ],
+        [
+          "JAGUAR",
+          "XR844334"
+        ],
+        [
+          "LAND ROVER",
+          "CPLA-6C301-HA"
+        ],
+        [
+          "LAND ROVER",
+          "LR035502"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "002 993 23 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "002 993 60 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "002 993 90 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "266 993 00 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 002 993 23 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 002 993 60 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 002 993 90 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 266 993 00 96"
+        ],
+        [
+          "OPEL",
+          "63 40 602"
+        ],
+        [
+          "UAZ",
+          "3163-1308020-21"
+        ],
+        [
+          "UAZ",
+          "316300-1308020-21"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15855",
+      "fitment_page_sha256": "f75d1edc6dd1733055642a440827b8877c150a2b6a4d439345e6ef59f790df88",
+      "fitment_rows": [
+        [
+          "1 (E81) 06-12",
+          "130 i (N52 B30 A, N52 B30 B, N52 B30 BF)",
+          "190 (258)",
+          "09/06-12/11",
+          ""
+        ],
+        [
+          "1 (E81) 06-12",
+          "130 i (N52 B30 A, N52 B30 B, N52 B30 BF)",
+          "195 (265)",
+          "09/06-12/11",
+          "Alternator"
+        ],
+        [
+          "1 (E87) 04-11",
+          "130 i (N52 B30 A, N52 B30 AF, N52 B30 B, N52 B30 BF)",
+          "190 (258)",
+          "03/07-06/11",
+          ""
+        ],
+        [
+          "1 (E87) 04-11",
+          "130 i (N52 B30 A, N52 B30 AF, N52 B30 BF)",
+          "195 (265)",
+          "09/05-02/07",
+          "Alternator"
+        ],
+        [
+          "1 Coupe (E82) 07-13",
+          "125 i (N52 B30 A, N52 B30 B, N52 B30 BF)",
+          "160 (218)",
+          "03/08-10/13",
+          "Alternator, [+] Electro Power Steering"
+        ]
+      ],
+      "fitment": "BMW 1 (E81) 06-12, 130 i (N52 B30 A, N52 B30 B, N52 B30 BF), 190 (258), 09/06-12/11; BMW 1 (E81) 06-12, 130 i (N52 B30 A, N52 B30 B, N52 B30 BF), 195 (265), 09/06-12/11, Alternator; BMW 1 (E87) 04-11, 130 i (N52 B30 A, N52 B30 AF, N52 B30 B, N52 B30 BF), 190 (258), 03/07-06/11",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK1990.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "c537e8ba7876fd126e885d4f271e0c920b2a9a3f8cf308e7b78d52dd1b85c126",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2013",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019724608",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2013.html",
+      "source_checked_at_utc": "2026-11-23T08:09:23.618626+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2013",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "9e0fefb5bab81c333887e345097e212449c4002ab098905e3f29fbf13283e3bb",
+      "OEM_make": "KIA",
+      "OEM_raw": "0K9A6-15-987",
+      "oem": "0K9A615987",
+      "original_OE_rows": [
+        [
+          "ISUZU",
+          "5-86731-418-0"
+        ],
+        [
+          "KIA",
+          "0K9A6-15-987"
+        ],
+        [
+          "MAZDA",
+          "ZG01-15-909A"
+        ],
+        [
+          "MAZDA",
+          "ZJ01-15-909A"
+        ],
+        [
+          "MAZDA",
+          "ZJ01-15-909A-9F"
+        ],
+        [
+          "SAAB",
+          "43 59 071"
+        ],
+        [
+          "SAAB",
+          "43 95 406"
+        ],
+        [
+          "SSANGYONG",
+          "6729970592"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=KIA&product_id=15858",
+      "fitment_page_sha256": "338db982f6656958769cda746c9bc4bdc91a2c005b63b8e870705b3247c3da81",
+      "fitment_rows": [
+        [
+          "SEPHIA | MENTOR (FA) 95-97",
+          "1.8 i 16V (TP)",
+          "82 (112)",
+          "01/95-10/97",
+          ""
+        ],
+        [
+          "SEPHIA | MENTOR Saloon (FA) 93-97",
+          "1.8 i 16V (TP)",
+          "82 (112)",
+          "01/95-10/97",
+          ""
+        ]
+      ],
+      "fitment": "KIA SEPHIA | MENTOR (FA) 95-97, 1.8 i 16V (TP), 82 (112), 01/95-10/97; KIA SEPHIA | MENTOR Saloon (FA) 93-97, 1.8 i 16V (TP), 82 (112), 01/95-10/97",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2013.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "f827e8f9b0ef300b48bc9f29ede1f1a4062d1851eb98e65a5099d82415c39213",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2053",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727708",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2053.html",
+      "source_checked_at_utc": "2026-11-23T08:09:25.157636+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2053",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "8063dfbea52393017bbd95773a9fe33d6d637826c1a746aecfeb3597c191df02",
+      "OEM_make": "CHRYSLER",
+      "OEM_raw": "05015 593",
+      "oem": "05015593",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "05015 593"
+        ],
+        [
+          "CHRYSLER",
+          "05281 275"
+        ],
+        [
+          "FORD",
+          "1 089 878"
+        ],
+        [
+          "FORD USA",
+          "XS6E-6C301-CB"
+        ],
+        [
+          "GENERAL MOTORS",
+          "92061744"
+        ],
+        [
+          "GENERAL MOTORS",
+          "92061745"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-3E000"
+        ],
+        [
+          "JAGUAR",
+          "5W9Q-6C301-AD"
+        ],
+        [
+          "MAZDA",
+          "ZY18-15-909"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "008 997 33 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "008 997 92 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "010 997 70 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "011 997 18 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "012 997 15 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "601 997 02 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 008 997 33 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 008 997 92 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 010 997 70 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 011 997 18 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 012 997 15 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 601 997 02 92"
+        ],
+        [
+          "OPEL",
+          "18 55 700"
+        ],
+        [
+          "OPEL",
+          "18 55 750"
+        ],
+        [
+          "SSANGYONG",
+          "0119971892"
+        ],
+        [
+          "TOYOTA",
+          "90916-02632"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHRYSLER&product_id=15862",
+      "fitment_page_sha256": "b5e5d4ea3f711ec08a8ca0cf25a2038bdf84cc7d6ff029116a4668730f13df09",
+      "fitment_rows": [
+        [
+          "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+          "2.5 TD (425 CLIRS/X, ENC)",
+          "85 (116)",
+          "01/95-03/01",
+          ""
+        ],
+        [
+          "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+          "2.5 TDiC AWD (ENC)",
+          "85 (116)",
+          "10/95-03/01",
+          ""
+        ],
+        [
+          "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+          "3.0 (EFA)",
+          "112 (152)",
+          "01/95-03/01",
+          ""
+        ]
+      ],
+      "fitment": "CHRYSLER VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01, 2.5 TD (425 CLIRS/X, ENC), 85 (116), 01/95-03/01; CHRYSLER VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01, 2.5 TDiC AWD (ENC), 85 (116), 10/95-03/01; CHRYSLER VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01, 3.0 (EFA), 112 (152), 01/95-03/01",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2053.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "21cd5b4f7846c0b2ee7460b5160b82ef85029f46461e712319381be7c05edc55",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2120",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333721",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2120.html",
+      "source_checked_at_utc": "2026-11-23T08:09:25.201486+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2120",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "fc850ae858dcd5e4913b85f1af1e062216914a7243bff28c264c321b7eb9ff98",
+      "OEM_make": "FORD",
+      "OEM_raw": "1 050 417",
+      "oem": "1050417",
+      "original_OE_rows": [
+        [
+          "FIAT",
+          "55559175"
+        ],
+        [
+          "FORD",
+          "1 050 417"
+        ],
+        [
+          "FORD USA",
+          "98BB-6C301-CA"
+        ],
+        [
+          "GENERAL MOTORS",
+          "93185756"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "007 997 84 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "008 997 34 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "011 997 16 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "011 997 80 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "011 997 85 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 007 997 84 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 008 997 34 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 011 997 16 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 011 997 80 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 011 997 85 92"
+        ],
+        [
+          "OPEL",
+          "13 40 527"
+        ],
+        [
+          "SSANGYONG",
+          "0089973492"
+        ],
+        [
+          "SSANGYONG",
+          "0119978092"
+        ],
+        [
+          "SSANGYONG",
+          "6619974992"
+        ],
+        [
+          "SUZUKI",
+          "95141-84A00"
+        ],
+        [
+          "TOYOTA",
+          "90916-02592"
+        ],
+        [
+          "VAG",
+          "074 903 137 BC"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15869",
+      "fitment_page_sha256": "67d88cbcbeaa49e8bde6bc42985ad798813cddf8ffd664835e687d5cbff891c4",
+      "fitment_rows": [
+        [
+          "MONDEO II (BAP) 96-00",
+          "1.6 i (L1J)",
+          "66 (90)",
+          "08/96-09/00",
+          ""
+        ],
+        [
+          "MONDEO II (BAP) 96-00",
+          "1.6 i 16V (L1L, L1N, L1Q)",
+          "70 (95)",
+          "05/98-09/00",
+          "Alternator, [+] AC Compressor, [+] Manual Transmission, 06/98-"
+        ],
+        [
+          "MONDEO II (BAP) 96-00",
+          "1.8 i (RKB, RKF, RKH, RKJ, RKK)",
+          "85 (115)",
+          "08/96-09/00",
+          ""
+        ],
+        [
+          "MONDEO II (BAP) 96-00",
+          "2.0 i (NGA, NGB, NGC, NGD)",
+          "96 (131)",
+          "08/96-09/00",
+          "Alternator, [+] AC Compressor, [+] Manual Transmission, 06/98-"
+        ],
+        [
+          "MONDEO II Saloon (BFP) 96-00",
+          "1.6 i (L1J)",
+          "66 (90)",
+          "08/96-09/00",
+          ""
+        ]
+      ],
+      "fitment": "FORD MONDEO II (BAP) 96-00, 1.6 i (L1J), 66 (90), 08/96-09/00; FORD MONDEO II (BAP) 96-00, 1.6 i 16V (L1L, L1N, L1Q), 70 (95), 05/98-09/00, Alternator, [+] AC Compressor, [+] Manual Transmission, 06/98-; FORD MONDEO II (BAP) 96-00, 1.8 i (RKB, RKF, RKH, RKJ, RKK), 85 (115), 08/96-09/00",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2120.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "e98aaf30a5ad4afcf97b767cb62f270859abb4765d31591b2c6407f1983dfef7",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2160",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333680",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2160.html",
+      "source_checked_at_utc": "2026-11-23T08:09:26.933998+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2160",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "8855123fa51838077a58af47eb92a3b94cf8019f746cf66c924ea2fbe03ddf9f",
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 7 789 985",
+      "oem": "11287789985",
+      "original_OE_rows": [
+        [
+          "BMW",
+          "11 28 7 789 985"
+        ],
+        [
+          "FORD",
+          "4 187 984"
+        ],
+        [
+          "FORD",
+          "4 188 176"
+        ],
+        [
+          "FORD USA",
+          "1F1E-8620-AB"
+        ],
+        [
+          "FORD USA",
+          "XF2E-8620-JB"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-25010"
+        ],
+        [
+          "MAZDA",
+          "LF17-15-909"
+        ],
+        [
+          "MAZDA",
+          "LF17-15-909A"
+        ],
+        [
+          "MAZDA",
+          "LF17-15-909B"
+        ],
+        [
+          "MAZDA",
+          "LFJ5-15-909B"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "012 997 06 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "012 997 43 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "013 997 26 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "014 997 11 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "014 997 12 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 012 997 06 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 012 997 43 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 013 997 26 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 014 997 11 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 014 997 12 92"
+        ],
+        [
+          "SSANGYONG",
+          "0149971292"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15874",
+      "fitment_page_sha256": "8df85840690cec7649260b4fb1092ccb006ac5e9c1eabf952a3dc12b1901fdf8",
+      "fitment_rows": [
+        [
+          "5 (E60) 01-10",
+          "525 d (M57 D25 (256D2))",
+          "120 (163)",
+          "12/04-03/10",
+          ""
+        ],
+        [
+          "5 (E60) 01-10",
+          "525 d (M57 D25 (256D2))",
+          "130 (177)",
+          "06/04-03/10",
+          "Alternator, [+] EHC"
+        ],
+        [
+          "5 (E60) 01-10",
+          "525 d (M57 D30 (306D3))",
+          "145 (197)",
+          "01/07-03/10",
+          "Alternator, [+] EHC"
+        ],
+        [
+          "5 (E60) 01-10",
+          "525 d xDrive (M57 D30 (306D3))",
+          "145 (197)",
+          "09/07-12/09",
+          "Alternator, [+] EHC"
+        ],
+        [
+          "5 (E60) 01-10",
+          "525 xd (M57 D30 (306D3))",
+          "145 (197)",
+          "11/06-08/07",
+          "Alternator, [+] EHC"
+        ]
+      ],
+      "fitment": "BMW 5 (E60) 01-10, 525 d (M57 D25 (256D2)), 120 (163), 12/04-03/10; BMW 5 (E60) 01-10, 525 d (M57 D25 (256D2)), 130 (177), 06/04-03/10, Alternator, [+] EHC; BMW 5 (E60) 01-10, 525 d (M57 D30 (306D3)), 145 (197), 01/07-03/10, Alternator, [+] EHC",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2160.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "69b39547f234c1e2940d13d993d5f86b024cb820b0c679bb6d3dfba3de085e34",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2138",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725124",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2138.html",
+      "source_checked_at_utc": "2026-11-23T08:09:26.977679+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2138",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "10c7560f3190a384d236636389758c468ebb0d8accc9042c13e66aafa9445c8e",
+      "OEM_make": "HONDA",
+      "OEM_raw": "38920-RCA-A01",
+      "oem": "38920RCAA01",
+      "original_OE_rows": [
+        [
+          "FORD USA",
+          "BR3Z-8620-E"
+        ],
+        [
+          "HONDA",
+          "38920-RCA-A01"
+        ],
+        [
+          "HONDA",
+          "38920-RCA-A03"
+        ],
+        [
+          "HONDA",
+          "38920-RCA-A05"
+        ],
+        [
+          "HONDA",
+          "56992-R70-A01"
+        ],
+        [
+          "HONDA",
+          "56992-RN0-A01"
+        ],
+        [
+          "HONDA",
+          "56992-RV0-A01"
+        ],
+        [
+          "HONDA",
+          "56992-RV0-A03"
+        ],
+        [
+          "HONDA",
+          "56992-RV0-A04"
+        ],
+        [
+          "HONDA",
+          "56992-RV0-A05"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-2B000"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "S2521 22B000"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "002 993 09 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "010 997 06 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "010 997 79 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "010 997 79 92 64"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "010 997 86 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "011 997 17 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "013 997 45 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 002 993 09 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 010 997 06 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 010 997 79 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 010 997 79 92 64"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 010 997 86 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 011 997 17 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 013 997 45 92"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15871",
+      "fitment_page_sha256": "3149f674cabce3573f1fd8867bdf51982c51ad58146f22e54655e3e6b9eb97bf",
+      "fitment_rows": [
+        [
+          "ACCORD IX Saloon (CR) 12-",
+          "2.4 (CR2) (K24W)",
+          "139 (189)",
+          "04/17-",
+          ""
+        ],
+        [
+          "ACCORD VII (CL, CN) 03-12",
+          "3.0 (CM6) (J30A5)",
+          "182 (247)",
+          "04/06-05/08",
+          ""
+        ],
+        [
+          "ACCORD VIII | INSPIRE (CP) 07-12",
+          "3.5 (CP3) (J35A)",
+          "",
+          "12/07-09/12",
+          "Alternator, [+] AC Compressor"
+        ],
+        [
+          "ACCORD VIII | INSPIRE (CP) 07-12",
+          "3.5 (CP3) (J35Z2)",
+          "202 (275)",
+          "09/07-09/12",
+          ""
+        ],
+        [
+          "CROSSTOUR I | ACCORD CROSSTOUR 09-12",
+          "3.5 4WD (TF2) (J35Z2)",
+          "202 (275)",
+          "01/12-",
+          "Alternator"
+        ]
+      ],
+      "fitment": "HONDA ACCORD IX Saloon (CR) 12-, 2.4 (CR2) (K24W), 139 (189), 04/17-; HONDA ACCORD VII (CL, CN) 03-12, 3.0 (CM6) (J30A5), 182 (247), 04/06-05/08; HONDA ACCORD VIII | INSPIRE (CP) 07-12, 3.5 (CP3) (J35A), 12/07-09/12, Alternator, [+] AC Compressor",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2138.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "e0fce7fa77275b81d78a8013ccc4d8c7809518903a0245e9b7811f6895c6a4dd",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2260",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727710",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2260.html",
+      "source_checked_at_utc": "2026-11-23T08:09:28.206606+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2260",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "badb9e1b08d4cf265dc0134fbaa992cb13ea8ee976198ee79dc4eaaff9414b8c",
+      "OEM_make": "MAZDA",
+      "OEM_raw": "LFA1-15-909",
+      "oem": "LFA115909",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "05103 565AA"
+        ],
+        [
+          "CHRYSLER",
+          "53013 298AB"
+        ],
+        [
+          "CHRYSLER",
+          "68027 636AA"
+        ],
+        [
+          "CHRYSLER",
+          "68045 801AA"
+        ],
+        [
+          "FAW",
+          "5DA015909"
+        ],
+        [
+          "FAW",
+          "5DA015909#AP1"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90448002"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90500354"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90501385"
+        ],
+        [
+          "MAZDA",
+          "LFA1-15-909"
+        ],
+        [
+          "MAZDA",
+          "LFA1-15-9099F"
+        ],
+        [
+          "MAZDA",
+          "LFH1-15-909B"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "001 993 86 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "008 997 18 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "008 997 70 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "012 997 48 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "013 997 23 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "014 997 06 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "014 997 07 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "014 997 17 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "014 997 23 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "611 997 22 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "611 997 30 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 001 993 86 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 008 997 18 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 008 997 70 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 012 997 48 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 013 997 23 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 014 997 06 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 014 997 07 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 014 997 17 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 014 997 23 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 611 997 22 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 611 997 30 92"
+        ],
+        [
+          "OPEL",
+          "13 40 615"
+        ],
+        [
+          "OPEL",
+          "18 54 714"
+        ],
+        [
+          "OPEL",
+          "18 54 723"
+        ],
+        [
+          "PORSCHE",
+          "996.102.15193"
+        ],
+        [
+          "SAAB",
+          "46 23 872"
+        ],
+        [
+          "TOYOTA",
+          "90916-02462"
+        ],
+        [
+          "VAG",
+          "078 903 137 K"
+        ],
+        [
+          "VAG",
+          "078 903 137 P"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MAZDA&product_id=15885",
+      "fitment_page_sha256": "2cdef01d6433a53feea235ac71823327c7746e21098f8854deeca5e4591c7c08",
+      "fitment_rows": [
+        [
+          "6 | ATENZA Hatchback (GG) 02-08",
+          "1.8 (L813)",
+          "88 (120)",
+          "08/02-08/07",
+          "Alternator, 02/05-03/07"
+        ],
+        [
+          "6 | ATENZA Hatchback (GG) 02-08",
+          "2.0 (GGES) (LF17, LF18)",
+          "104 (141)",
+          "08/02-08/07",
+          ""
+        ],
+        [
+          "6 | ATENZA Hatchback (GG) 02-08",
+          "2.0 (GGES) (LFF7)",
+          "108 (147)",
+          "03/05-08/07",
+          "Alternator"
+        ],
+        [
+          "6 | ATENZA Saloon (GG) 02-08",
+          "1.8 (L813, L829)",
+          "88 (120)",
+          "08/02-08/07",
+          "Alternator, 02/05-03/07"
+        ],
+        [
+          "6 | ATENZA Saloon (GG) 02-08",
+          "2.0 (GGEP, GG10) (LF17, LF18)",
+          "104 (141)",
+          "06/02-08/07",
+          ""
+        ]
+      ],
+      "fitment": "MAZDA 6 | ATENZA Hatchback (GG) 02-08, 1.8 (L813), 88 (120), 08/02-08/07, Alternator, 02/05-03/07; MAZDA 6 | ATENZA Hatchback (GG) 02-08, 2.0 (GGES) (LF17, LF18), 104 (141), 08/02-08/07; MAZDA 6 | ATENZA Hatchback (GG) 02-08, 2.0 (GGES) (LFF7), 108 (147), 03/05-08/07, Alternator",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2260.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "8df29a629da058bad32fd872bc9b3f20615cfa07ed01bb17a7ca4ec72ffeded7",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2285",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333653",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2285.html",
+      "source_checked_at_utc": "2026-11-23T08:09:28.526550+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2285",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "2ef3760013e6eddf14aac14aa9ab302ddb0f7c17632fe995ffb5e2d918fdb255",
+      "OEM_make": "FORD",
+      "OEM_raw": "1 376 084",
+      "oem": "1376084",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "03032 857AB"
+        ],
+        [
+          "CHRYSLER",
+          "53032 857AB"
+        ],
+        [
+          "CHRYSLER",
+          "53054 449"
+        ],
+        [
+          "FORD",
+          "1 376 084"
+        ],
+        [
+          "FORD USA",
+          "6C1Q-6C301-EA"
+        ],
+        [
+          "GENERAL MOTORS",
+          "10185656"
+        ],
+        [
+          "GENERAL MOTORS",
+          "97130560"
+        ],
+        [
+          "HONGQI",
+          "102301139L"
+        ],
+        [
+          "ISUZU",
+          "8-97130-560-0"
+        ],
+        [
+          "MAZDA",
+          "L336-15-909"
+        ],
+        [
+          "MAZDA",
+          "L336-15-909A"
+        ],
+        [
+          "MAZDA",
+          "L336-15-909B"
+        ],
+        [
+          "MAZDA",
+          "L37G-15-909"
+        ],
+        [
+          "MAZDA",
+          "L3B6-15-909"
+        ],
+        [
+          "MAZDA",
+          "L510-15-909A"
+        ],
+        [
+          "MAZDA",
+          "L510-15-909B"
+        ],
+        [
+          "MAZDA",
+          "L510-15-909C"
+        ],
+        [
+          "MAZDA",
+          "L538-15-909A"
+        ],
+        [
+          "MAZDA",
+          "ZZM1-18-381"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "001 993 17 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "008 997 88 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "012 997 10 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "012 997 11 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 001 993 17 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 008 997 88 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 012 997 10 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 012 997 11 92"
+        ],
+        [
+          "OPEL",
+          "18 54 733"
+        ],
+        [
+          "PORSCHE",
+          "999.192.37950"
+        ],
+        [
+          "VAG",
+          "06E 903 137 AA"
+        ],
+        [
+          "VAG",
+          "078 903 137 C"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15887",
+      "fitment_page_sha256": "e14fed09252d20a1e6f31bf5ef0105fd3244422e4f02c0a0bc9cab3542295879",
+      "fitment_rows": [
+        [
+          "GALAXY II (WA6) 06-15",
+          "2.0 EcoBoost (TNWA)",
+          "149 (203)",
+          "03/10-06/15",
+          "Alternator"
+        ],
+        [
+          "GALAXY II (WA6) 06-15",
+          "2.0 EcoBoost (TNWB)",
+          "146 (199)",
+          "07/10-06/15",
+          "Alternator"
+        ],
+        [
+          "MONDEO V Hatchback (CE) | FUSION 14-",
+          "2.0 EcoBoost (R9CB, R9CF, R9CH)",
+          "176 (240)",
+          "09/14-",
+          "Alternator"
+        ],
+        [
+          "MONDEO V Hatchback (CE) | FUSION 14-",
+          "2.0 EcoBoost (TNCA, TNCB, TNCD, TNCF)",
+          "149 (203)",
+          "09/14-",
+          "Alternator"
+        ],
+        [
+          "MONDEO V Saloon (CD) | FUSION 14-",
+          "2.0 EcoBoost (R9CB, R9CF, R9CH)",
+          "176 (240)",
+          "05/15-",
+          "Alternator"
+        ]
+      ],
+      "fitment": "FORD GALAXY II (WA6) 06-15, 2.0 EcoBoost (TNWA), 149 (203), 03/10-06/15, Alternator; FORD GALAXY II (WA6) 06-15, 2.0 EcoBoost (TNWB), 146 (199), 07/10-06/15, Alternator; FORD MONDEO V Hatchback (CE) | FUSION 14-, 2.0 EcoBoost (R9CB, R9CF, R9CH), 176 (240), 09/14-, Alternator",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2285.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "22b833306ae932258086ce172710d03bbbcacce54003462cacacd5877d7cf291",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2373",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333784",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2373.html",
+      "source_checked_at_utc": "2026-11-23T08:09:29.598444+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2373",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "ffa65ccfc0057606253d74a14707a787c45188ef6cc5e5aabebe7895e3fbb082",
+      "OEM_make": "CHRYSLER",
+      "OEM_raw": "04593 668AA",
+      "oem": "04593668AA",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "04593 668AA"
+        ],
+        [
+          "GENERAL MOTORS",
+          "12590622"
+        ],
+        [
+          "GENERAL MOTORS",
+          "12626222"
+        ],
+        [
+          "JAGUAR",
+          "XR830447"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "000 993 37 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "013 997 87 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "113 997 87 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 000 993 37 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 013 997 87 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 113 997 87 92"
+        ],
+        [
+          "VAG",
+          "071 145 933 H"
+        ],
+        [
+          "VAG",
+          "071 145 933 M"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHRYSLER&product_id=15894",
+      "fitment_page_sha256": "7e746f9bb2b92e2d46e01278515c879d7c20b45fdfbd554dde981b22ec21bea1",
+      "fitment_rows": [
+        [
+          "PACIFICA 03-06",
+          "3.5 AWD (EGN)",
+          "186 (253)",
+          "08/03-12/06",
+          ""
+        ]
+      ],
+      "fitment": "CHRYSLER PACIFICA 03-06, 3.5 AWD (EGN), 186 (253), 08/03-12/06",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2373.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "07b78a731962a44e80f6489c9ebe04aa837a78210067267e797a530707851b7a",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2403",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019730998",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2403.html",
+      "source_checked_at_utc": "2026-11-23T08:09:29.951558+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2403",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "2040a6302b9ee75731a37307627c7cf298e4cd937c3e9a76f15a3b30720ccc60",
+      "OEM_make": "MERCEDES-BENZ",
+      "OEM_raw": "001 993 18 96",
+      "oem": "0019931896",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "04638 133"
+        ],
+        [
+          "GENERAL MOTORS",
+          "25192524"
+        ],
+        [
+          "GENERAL MOTORS",
+          "96628779"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "001 993 18 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "003 993 72 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "015 997 25 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 001 993 18 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 003 993 72 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 015 997 25 92"
+        ],
+        [
+          "OPEL",
+          "48 03 451"
+        ],
+        [
+          "VAG",
+          "059 903 137 H"
+        ],
+        [
+          "VAG",
+          "06E 903 137 AC"
+        ],
+        [
+          "VAG",
+          "06E 903 137 K"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MERCEDES-BENZ&product_id=15897",
+      "fitment_page_sha256": "13fb80c2cd1cfa85c1a4f3dfea9f7250b04d0c8b81db383579e4c8e60b6ef14b",
+      "fitment_rows": [
+        [
+          "C-CLASS (W203) 00-07",
+          "C 230 (203.052) (M 272.920)",
+          "150 (204)",
+          "01/05-02/07",
+          "Alternator"
+        ],
+        [
+          "C-CLASS (W203) 00-07",
+          "C 280 (203.054) (M 272.940)",
+          "170 (231)",
+          "01/05-02/07",
+          "Alternator"
+        ],
+        [
+          "C-CLASS (W203) 00-07",
+          "C 280 4-matic (203.092) (M 272.941)",
+          "170 (231)",
+          "01/05-02/07",
+          "Alternator"
+        ],
+        [
+          "C-CLASS (W203) 00-07",
+          "C 350 (203.056) (M 272.960)",
+          "200 (272)",
+          "01/05-02/07",
+          "Alternator"
+        ],
+        [
+          "C-CLASS (W203) 00-07",
+          "C 350 4-matic (203.087) (M 272.960, M 272.970)",
+          "200 (272)",
+          "01/05-02/07",
+          "Alternator"
+        ]
+      ],
+      "fitment": "MERCEDES-BENZ C-CLASS (W203) 00-07, C 230 (203.052) (M 272.920), 150 (204), 01/05-02/07, Alternator; MERCEDES-BENZ C-CLASS (W203) 00-07, C 280 (203.054) (M 272.940), 170 (231), 01/05-02/07, Alternator; MERCEDES-BENZ C-CLASS (W203) 00-07, C 280 4-matic (203.092) (M 272.941), 170 (231), 01/05-02/07, Alternator",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2403.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "6c77110dd70b7293327314054df6e4124c33080a01f4bdca5da02a23e49501cc",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2460",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134093",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2460.html",
+      "source_checked_at_utc": "2026-11-23T08:09:30.819515+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2460",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "fc3e2e17e68f2e30a1a00ea56e0f3c55ac3c244ae2cdb035851100c66992f68b",
+      "OEM_make": "CHRYSLER",
+      "OEM_raw": "04861 322",
+      "oem": "04861322",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "04861 322"
+        ],
+        [
+          "CHRYSLER",
+          "04861 322AB"
+        ],
+        [
+          "CHRYSLER",
+          "04861 322AC"
+        ],
+        [
+          "CHRYSLER",
+          "05281 276"
+        ],
+        [
+          "CHRYSLER",
+          "53007 539"
+        ],
+        [
+          "FORD USA",
+          "YL3Z-8620-CA"
+        ],
+        [
+          "ISUZU",
+          "1-86750-322-0"
+        ],
+        [
+          "JAGUAR",
+          "9W83-8620-AA"
+        ],
+        [
+          "JAGUAR",
+          "C2D61182"
+        ],
+        [
+          "JAGUAR",
+          "C2P12815"
+        ],
+        [
+          "JAGUAR",
+          "DX23-8620-AA"
+        ],
+        [
+          "JAGUAR",
+          "FX23-8620-AA"
+        ],
+        [
+          "JAGUAR",
+          "T2R10142"
+        ],
+        [
+          "JAGUAR",
+          "T2R16360"
+        ],
+        [
+          "LAND ROVER",
+          "DX23-8620-AB"
+        ],
+        [
+          "LAND ROVER",
+          "LR011345"
+        ],
+        [
+          "LAND ROVER",
+          "LR064185"
+        ],
+        [
+          "LAND ROVER",
+          "LR190101"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "008 997 10 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "009 997 58 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "010 997 84 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "011 997 30 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "113 997 00 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 008 997 10 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 009 997 58 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 010 997 84 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 011 997 30 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 1139970092"
+        ],
+        [
+          "VAG",
+          "059 903 137 AB"
+        ],
+        [
+          "VAG",
+          "059 903 137 AS"
+        ],
+        [
+          "VAG",
+          "059 903 137 BH"
+        ],
+        [
+          "VAG",
+          "059 903 137 P"
+        ],
+        [
+          "VAG",
+          "06E 903 137 N"
+        ],
+        [
+          "VAG",
+          "077 903 137 B"
+        ],
+        [
+          "VAG",
+          "077 903 137 D"
+        ],
+        [
+          "VAG",
+          "077 903 137 E"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHRYSLER&product_id=15901",
+      "fitment_page_sha256": "54e70b68a6e8e51cf75c31f61ddebedda68d328da750060a45fb31b9907a1d17",
+      "fitment_rows": [
+        [
+          "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+          "3.3 i (R00)",
+          "116 (158)",
+          "01/95-03/01",
+          ""
+        ],
+        [
+          "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+          "3.8 i AWD (EGH)",
+          "131 (178)",
+          "01/95-03/01",
+          ""
+        ],
+        [
+          "VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01",
+          "3.8 i AWD (L00)",
+          "122 (166)",
+          "01/95-03/01",
+          ""
+        ],
+        [
+          "VOYAGER IV (RG, RS) 00-08",
+          "3.3 (EGA, EGM)",
+          "128 (174)",
+          "02/00-12/08",
+          ""
+        ],
+        [
+          "VOYAGER IV (RG, RS) 00-08",
+          "3.3 AWD (EGA)",
+          "128 (174)",
+          "02/00-12/08",
+          ""
+        ]
+      ],
+      "fitment": "CHRYSLER VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01, 3.3 i (R00), 116 (158), 01/95-03/01; CHRYSLER VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01, 3.8 i AWD (EGH), 131 (178), 01/95-03/01; CHRYSLER VOYAGER III / GRAND VOYAGER (GS_, NS_) 95-01, 3.8 i AWD (L00), 122 (166), 01/95-03/01",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2460.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "05fc3d41fcb2790b7ffed940a3839bebe57abb37004810bcd4115f5b3261bdd7",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2478",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333670",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2478.html",
+      "source_checked_at_utc": "2026-11-23T08:09:31.810667+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2478",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "dbc48b078658800f0ac6885001c478eaa5549e45fbfd19ee11dfdf4f56db3f44",
+      "OEM_make": "MERCEDES-BENZ",
+      "OEM_raw": "010 997 89 92",
+      "oem": "0109978992",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "53006 870"
+        ],
+        [
+          "CHRYSLER",
+          "53010 269"
+        ],
+        [
+          "FORD USA",
+          "F5AZ-8620-AA"
+        ],
+        [
+          "FORD USA",
+          "F7AZ-8620-AA"
+        ],
+        [
+          "FORD USA",
+          "F8AZ-8620-AA"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-3C100"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-3C111"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-3C200"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "010 997 89 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 010 997 89 92"
+        ],
+        [
+          "PORSCHE",
+          "955.102.93400"
+        ],
+        [
+          "PORSCHE",
+          "958.102.21600"
+        ],
+        [
+          "VAG",
+          "059 903 137 AC"
+        ],
+        [
+          "VAG",
+          "059 903 137 AK"
+        ],
+        [
+          "VAG",
+          "059 903 137 R"
+        ],
+        [
+          "VAG",
+          "06E 903 137 AE"
+        ],
+        [
+          "VAG",
+          "077 903 137 H"
+        ],
+        [
+          "VAG",
+          "077 903 137 L"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MERCEDES-BENZ&product_id=15903",
+      "fitment_page_sha256": "4050b66ff7accaaf465bc1703a92ab786c4588ce2d4aca8663bd29143b7fa315",
+      "fitment_rows": [
+        [
+          "124 Saloon (W124) 84-93",
+          "280 E (124.028) (M 104.942)",
+          "145 (197)",
+          "10/92-06/93",
+          "Alternator, [+] AC Compressor, [+] Manual Transmission, eng. № 005790-"
+        ],
+        [
+          "124 Saloon (W124) 84-93",
+          "280 E (124.028) (M 104.942)",
+          "145 (197)",
+          "10/92-06/93",
+          "Alternator, [+] AC Compressor, [+] Automatic Transmission, eng. № 048697-"
+        ],
+        [
+          "124 Saloon (W124) 84-93",
+          "320 E (124.032) (M 104.992)",
+          "162 (220)",
+          "10/92-06/93",
+          "Alternator, [+] AC Compressor, [+] Manual Transmission, eng. № 005790-"
+        ],
+        [
+          "124 Saloon (W124) 84-93",
+          "320 E (124.032) (M 104.992)",
+          "162 (220)",
+          "10/92-06/93",
+          "Alternator, [+] AC Compressor, [+] Automatic Transmission, eng. № 048697-"
+        ],
+        [
+          "124 T-Model (S124) 85-93",
+          "280 TE (124.088) (M 104.942)",
+          "145 (197)",
+          "10/92-06/93",
+          "Alternator, [+] AC Compressor, [+] Manual Transmission, eng. № 005790-"
+        ]
+      ],
+      "fitment": "MERCEDES-BENZ 124 Saloon (W124) 84-93, 280 E (124.028) (M 104.942), 145 (197), 10/92-06/93, Alternator, [+] AC Compressor, [+] Manual Transmission, eng. № 005790-; MERCEDES-BENZ 124 Saloon (W124) 84-93, 280 E (124.028) (M 104.942), 145 (197), 10/92-06/93, Alternator, [+] AC Compressor, [+] Automatic Transmission, eng. № 048697-; MERCEDES-BENZ 124 Saloon (W124) 84-93, 320 E (124.032) (M 104.992), 162 (220), 10/92-06/93, Alternator, [+] AC Compressor, [+] Manual Transmission, eng. № 005790-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2478.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "25bf7934c410309c299062408af1821147651f18e6e3538d09ad2b424c70d6d6",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2500",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134094",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2500.html",
+      "source_checked_at_utc": "2026-11-23T08:09:32.451661+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2500",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "1cfdd9a7808e48ec7ed94a7fb59d8b9e77ad73d708b36f926ac5b600695db155",
+      "OEM_make": "LAND ROVER",
+      "OEM_raw": "AH32-6C301-AA",
+      "oem": "AH326C301AA",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "53010 027"
+        ],
+        [
+          "CHRYSLER",
+          "53010 279"
+        ],
+        [
+          "HONDA",
+          "38920-PSA-505"
+        ],
+        [
+          "HONDA",
+          "38920-PSA-506"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-2F000"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-2F010"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-2F020"
+        ],
+        [
+          "JAGUAR",
+          "9H23-8620-EA"
+        ],
+        [
+          "LAND ROVER",
+          "AH32-6C301-AA"
+        ],
+        [
+          "LAND ROVER",
+          "CPLA-6C301-FA"
+        ],
+        [
+          "LAND ROVER",
+          "LR012625"
+        ],
+        [
+          "LAND ROVER",
+          "LR018312"
+        ],
+        [
+          "LAND ROVER",
+          "LR036090"
+        ],
+        [
+          "VAG",
+          "059 903 137 AE"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LAND+ROVER&product_id=15905",
+      "fitment_page_sha256": "b1f464007399b03b9bea7d93e6718e7697db3422ee06fb6c2078d66342bc20db",
+      "fitment_rows": [
+        [
+          "RANGE ROVER IV (L405) 12-",
+          "4.4 SDV8 4WD (448DT)",
+          "230 (313)",
+          "08/13-",
+          ""
+        ],
+        [
+          "RANGE ROVER IV (L405) 12-",
+          "4.4 SDV8 4WD (448DT)",
+          "250 (340)",
+          "08/12-",
+          ""
+        ],
+        [
+          "RANGE ROVER SPORT I (L320) 05-13",
+          "3.0 D 4WD (306DT)",
+          "155 (211)",
+          "05/10-03/13",
+          ""
+        ],
+        [
+          "RANGE ROVER SPORT I (L320) 05-13",
+          "3.0 D 4WD (306DT)",
+          "180 (245)",
+          "09/09-03/13",
+          ""
+        ],
+        [
+          "RANGE ROVER SPORT I (L320) 05-13",
+          "3.0 D 4WD (306DT)",
+          "183 (249)",
+          "08/12-03/13",
+          ""
+        ]
+      ],
+      "fitment": "LAND ROVER RANGE ROVER IV (L405) 12-, 4.4 SDV8 4WD (448DT), 230 (313), 08/13-; LAND ROVER RANGE ROVER IV (L405) 12-, 4.4 SDV8 4WD (448DT), 250 (340), 08/12-; LAND ROVER RANGE ROVER SPORT I (L320) 05-13, 3.0 D 4WD (306DT), 155 (211), 05/10-03/13",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2500.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "d0bb28b1bff85624ddb08a67a49453237ed249a325289b8c9f915c5f23f1e6dd",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2550",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333706",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2550.html",
+      "source_checked_at_utc": "2026-11-23T08:09:33.127466+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2550",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "7ee339ab56c53e5121150225b047a4fea761a2e53405cd0e7d4ff674d08f63a4",
+      "OEM_make": "SAAB",
+      "OEM_raw": "40 29 203",
+      "oem": "4029203",
+      "original_OE_rows": [
+        [
+          "CHRYSLER",
+          "04891 598AB"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90490727"
+        ],
+        [
+          "GENERAL MOTORS",
+          "97233969"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-2G700"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-2G750"
+        ],
+        [
+          "ISUZU",
+          "8-97233-969-0"
+        ],
+        [
+          "IVECO",
+          "82850752"
+        ],
+        [
+          "SAAB",
+          "40 29 203"
+        ],
+        [
+          "SAAB",
+          "43 56 903"
+        ],
+        [
+          "SAAB",
+          "43 95 455"
+        ],
+        [
+          "SAAB",
+          "49 04 116"
+        ],
+        [
+          "SAAB",
+          "93185051"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=SAAB&product_id=15908",
+      "fitment_page_sha256": "ef6816b1717e9080f77d6a7c056c3f8fe18ce5933cb66b9db88e9c056a75d5a2",
+      "fitment_rows": [
+        [
+          "9000 85-98",
+          "2.0 -16 (B202I)",
+          "94 (128)",
+          "01/89-01/93",
+          "Alternator, [+] AC Compressor, 01/94-"
+        ],
+        [
+          "9000 85-98",
+          "2.0 -16 CD (B202I, B204I)",
+          "96 (131)",
+          "09/93-12/98",
+          "Alternator, [+] AC Compressor, 01/94-"
+        ],
+        [
+          "9000 85-98",
+          "2.0 -16 CD (B202S, B204E, B204S)",
+          "110 (150)",
+          "09/93-12/98",
+          "Alternator, [+] AC Compressor, 01/94-"
+        ],
+        [
+          "9000 85-98",
+          "2.0 -16 Turbo CD (B202L)",
+          "136 (185)",
+          "09/89-12/98",
+          "Alternator, [+] AC Compressor, 01/94-"
+        ],
+        [
+          "9000 85-98",
+          "2.0 -16 Turbo CD (B202S, B204E)",
+          "108 (147)",
+          "09/92-12/98",
+          "Alternator, [+] AC Compressor, 01/94-"
+        ]
+      ],
+      "fitment": "SAAB 9000 85-98, 2.0 -16 (B202I), 94 (128), 01/89-01/93, Alternator, [+] AC Compressor, 01/94-; SAAB 9000 85-98, 2.0 -16 CD (B202I, B204I), 96 (131), 09/93-12/98, Alternator, [+] AC Compressor, 01/94-; SAAB 9000 85-98, 2.0 -16 CD (B202S, B204E, B204S), 110 (150), 09/93-12/98, Alternator, [+] AC Compressor, 01/94-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2550.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "03ba255a701a0d52040685040cdd5bd7053793b9e850915a5ebcf1d7fc5bb9a7",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2625",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0009984221",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/6PK2625.html",
+      "source_checked_at_utc": "2026-11-23T08:09:33.658213+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "6PK2625",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "10960e710bad330823fe758b01cd169e4e1dfb4ae14ad86e21a4a97355aaba6d",
+      "OEM_make": "MITSUBISHI",
+      "OEM_raw": "4451A062",
+      "oem": "4451A062",
+      "original_OE_rows": [
+        [
+          "FORD USA",
+          "7L3E-8620-GA"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90490452"
+        ],
+        [
+          "GENERAL MOTORS",
+          "90573467"
+        ],
+        [
+          "GENERAL MOTORS",
+          "93185049"
+        ],
+        [
+          "MITSUBISHI",
+          "4451A062"
+        ],
+        [
+          "MITSUBISHI",
+          "4451A115"
+        ],
+        [
+          "MITSUBISHI",
+          "4451A123"
+        ],
+        [
+          "SAAB",
+          "43 59 063"
+        ],
+        [
+          "SAAB",
+          "49 04 728"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MITSUBISHI&product_id=35700",
+      "fitment_page_sha256": "0790185f0ae94817491935c69e2232e29a11c57398725dcd4c83eb47438ad28f",
+      "fitment_rows": [
+        [
+          "LANCER IX | LANCER CEDIA (CS_A, CT_A) 00-13",
+          "2.0 i (4B11)",
+          "113 (154)",
+          "10/07-12/13",
+          ""
+        ],
+        [
+          "LANCER X | GALANT FORTIS (CY_A, CZ_A) 07-",
+          "1.8 (CY3A, CY6A) (4B10)",
+          "103 (140)",
+          "05/10-",
+          ""
+        ],
+        [
+          "LANCER X | GALANT FORTIS (CY_A, CZ_A) 07-",
+          "1.8 (CY3A, CY6A) (4B10)",
+          "105 (143)",
+          "02/08-",
+          ""
+        ],
+        [
+          "LANCER X | GALANT FORTIS (CY_A, CZ_A) 07-",
+          "1.8 Bifuel (CY3A, CY6A) (4B10)",
+          "105 (143)",
+          "01/10-",
+          ""
+        ],
+        [
+          "LANCER X | GALANT FORTIS (CY_A, CZ_A) 07-",
+          "1.8 Flexfuel (CY3A, CY6A) (4B10)",
+          "103 (140)",
+          "03/09-",
+          ""
+        ]
+      ],
+      "fitment": "MITSUBISHI LANCER IX | LANCER CEDIA (CS_A, CT_A) 00-13, 2.0 i (4B11), 113 (154), 10/07-12/13; MITSUBISHI LANCER X | GALANT FORTIS (CY_A, CZ_A) 07-, 1.8 (CY3A, CY6A) (4B10), 103 (140), 05/10-; MITSUBISHI LANCER X | GALANT FORTIS (CY_A, CZ_A) 07-, 1.8 (CY3A, CY6A) (4B10), 105 (143), 02/08-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/6PK2625.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "cddb68abf5b190ff4dca137258fdc58553499ee3b3ba8140668b61ab3974d3db",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1078",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023168801",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1078.html",
+      "source_checked_at_utc": "2026-11-23T08:09:34.118734+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM, Power Max)",
+      "manufacturer_MPN": "7PK1078",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "5bca4c6d54abecf20730e4a6e320a470b648bc763dda0e6217c0e4efe5947797",
+      "OEM_make": "FIAT",
+      "OEM_raw": "500388408",
+      "oem": "500388408",
+      "original_OE_rows": [
+        [
+          "FIAT",
+          "500388408"
+        ],
+        [
+          "FIAT",
+          "60607387"
+        ],
+        [
+          "FIAT",
+          "60617858"
+        ],
+        [
+          "FIAT",
+          "60812329"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FIAT&product_id=15926",
+      "fitment_page_sha256": "5e7a4de2baff3dc19ac2ad061ae396ca0d28c95e051a03dba7bf09b6cb8fcb33",
+      "fitment_rows": [
+        [
+          "DUCATO Bus (244_) 02-06",
+          "2.3 JTD (F1AE0481C)",
+          "81 (110)",
+          "04/02-",
+          "Alternator"
+        ],
+        [
+          "DUCATO Bus (250_) 06-11",
+          "110 Multijet 2,3 D (F1AE3481G)",
+          "83 (113)",
+          "10/11-",
+          ""
+        ],
+        [
+          "DUCATO Bus (250_) 06-11",
+          "120 Multijet 2,3 D (F1AE0481D)",
+          "88 (120)",
+          "07/06-",
+          "Alternator"
+        ],
+        [
+          "DUCATO Bus (250_) 06-11",
+          "130 Multijet 2,3 D (F1AE0481N, F1AE3481D, F1AGL411D)",
+          "96 (131)",
+          "06/11-",
+          ""
+        ],
+        [
+          "DUCATO Bus (250_) 06-11",
+          "130 Multijet 2,3 D 4WD (F1AE0481N, F1AE3481D, F1AGL411D)",
+          "96 (131)",
+          "06/11-",
+          ""
+        ]
+      ],
+      "fitment": "FIAT DUCATO Bus (244_) 02-06, 2.3 JTD (F1AE0481C), 81 (110), 04/02-, Alternator; FIAT DUCATO Bus (250_) 06-11, 110 Multijet 2,3 D (F1AE3481G), 83 (113), 10/11-; FIAT DUCATO Bus (250_) 06-11, 120 Multijet 2,3 D (F1AE0481D), 88 (120), 07/06-, Alternator",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1078.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "6860f8ca5108c461dee22b5350b796857b291c9bca77c65570a8519ac716a764",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1103",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308651",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1103.html",
+      "source_checked_at_utc": "2026-11-23T08:09:35.168858+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1103",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "a1fc35797c4341296b24ba3ffff1c2bd1e855edc22a6fef01d8b8de27a836945",
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 7 560 485",
+      "oem": "11287560485",
+      "original_OE_rows": [
+        [
+          "BMW",
+          "11 28 7 560 485"
+        ],
+        [
+          "BMW",
+          "11 28 7 631 812"
+        ],
+        [
+          "GENERAL MOTORS",
+          "93186955"
+        ],
+        [
+          "GENERAL MOTORS",
+          "93195484"
+        ],
+        [
+          "OPEL",
+          "44 16 361"
+        ],
+        [
+          "OPEL",
+          "44 18 674"
+        ],
+        [
+          "RENAULT",
+          "82 00 465 689"
+        ],
+        [
+          "RENAULT",
+          "82 00 833 574"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15928",
+      "fitment_page_sha256": "c91cf88694e43ea080bc041cf716d4fe0ab07a4c012689ac74a0ed7426f8170c",
+      "fitment_rows": [
+        [
+          "1 (E81) 06-12",
+          "116 i (N43 B16 AA)",
+          "90 (122)",
+          "03/07-12/11",
+          ""
+        ],
+        [
+          "1 (E81) 06-12",
+          "116 i (N43 B20 A)",
+          "90 (122)",
+          "11/08-12/11",
+          ""
+        ],
+        [
+          "1 (E81) 06-12",
+          "118 i (N43 B20 A)",
+          "105 (143)",
+          "09/06-12/11",
+          ""
+        ],
+        [
+          "1 (E81) 06-12",
+          "120 i (N43 B20 A)",
+          "120 (163)",
+          "03/07-12/11",
+          ""
+        ],
+        [
+          "1 (E81) 06-12",
+          "120 i (N43 B20 A)",
+          "125 (170)",
+          "03/07-09/12",
+          ""
+        ]
+      ],
+      "fitment": "BMW 1 (E81) 06-12, 116 i (N43 B16 AA), 90 (122), 03/07-12/11; BMW 1 (E81) 06-12, 116 i (N43 B20 A), 90 (122), 11/08-12/11; BMW 1 (E81) 06-12, 118 i (N43 B20 A), 105 (143), 09/06-12/11",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1103.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "5c9f8de5977d3d1bd6e280bb53b7696a6bb93ea236334e5a099c03dc66615c0b",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1140",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727713",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1140.html",
+      "source_checked_at_utc": "2026-11-23T08:09:35.557065+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM, Power Max)",
+      "manufacturer_MPN": "7PK1140",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "1ecc97586008bb8e009ab931c2f67176369cd035e98d645edc15b58ecf04c3ac",
+      "OEM_make": "MITSUBISHI",
+      "OEM_raw": "MQ 700018",
+      "oem": "MQ700018",
+      "original_OE_rows": [
+        [
+          "MITSUBISHI",
+          "MQ 700018"
+        ],
+        [
+          "NISSAN",
+          "11720-ED000"
+        ],
+        [
+          "NISSAN",
+          "11720-ED00B"
+        ],
+        [
+          "NISSAN",
+          "11720-ED00C"
+        ],
+        [
+          "RENAULT",
+          "11 72 096 38R"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MITSUBISHI&product_id=15930",
+      "fitment_page_sha256": "382ea68a69180dd9d3234f617e3c3c512114e70b029eeb026d5247e840f0ba25",
+      "fitment_rows": [
+        [
+          "DELICA D3 (BVM2_, BM2_) 11-",
+          "1.6 (HR16DE)",
+          "80 (109)",
+          "11/11-",
+          "Alternator, [+] AC Compressor"
+        ]
+      ],
+      "fitment": "MITSUBISHI DELICA D3 (BVM2_, BM2_) 11-, 1.6 (HR16DE), 80 (109), 11/11-, Alternator, [+] AC Compressor",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1140.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "a66c4970a17bb177255464e08e14a7fabb8ccf6d4fccb9a125a60eb28369b166",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1275",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019725128",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1275.html",
+      "source_checked_at_utc": "2026-11-23T08:09:37.992464+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1275",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "3fbb96c1fbb1bbc9a898a932ac4f5c842420a5719c1b84592a562934ee808656",
+      "OEM_make": "NISSAN",
+      "OEM_raw": "11720-1VM0B",
+      "oem": "117201VM0B",
+      "original_OE_rows": [
+        [
+          "NISSAN",
+          "11720-1VM0B"
+        ],
+        [
+          "NISSAN",
+          "11720-EB300"
+        ],
+        [
+          "NISSAN",
+          "11720-EB30A"
+        ],
+        [
+          "NISSAN",
+          "11720-EB310"
+        ],
+        [
+          "NISSAN",
+          "11720-EB70C"
+        ],
+        [
+          "RENAULT",
+          "74 85 122 916"
+        ],
+        [
+          "VAG",
+          "06E 903 137 AB"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=NISSAN&product_id=15935",
+      "fitment_page_sha256": "68ce6ef723c1d6285f5602f0f9a3c0dcf3392a102bc5e39a6bcf174fe0314785",
+      "fitment_rows": [
+        [
+          "CABSTAR | ATLAS (F24M, F24W) 06-13",
+          "28.11 DCI, 32.11 DCI, 35.11 DCI 2.5 (F24M) (YD25DDTi)",
+          "81 (110)",
+          "09/06-12/13",
+          ""
+        ],
+        [
+          "CABSTAR | ATLAS (F24M, F24W) 06-13",
+          "35.13 DCI, 45.13 DCI 2.5 (F24M) (YD25DDTi)",
+          "96 (131)",
+          "09/06-12/12",
+          ""
+        ],
+        [
+          "NAVARA | NP300 | FRONTIER (D40) 04-09",
+          "2.5 dCi (YD25DDTi)",
+          "128 (174)",
+          "12/05-",
+          ""
+        ],
+        [
+          "NAVARA | NP300 | FRONTIER (D40) 04-09",
+          "2.5 dCi 4WD (YD25DDTi)",
+          "128 (174)",
+          "07/05-",
+          ""
+        ],
+        [
+          "NAVARA | NP300 | FRONTIER (D40) 04-09",
+          "2.5 dCi 4WD (D40TT, D40T, D40M, D40BB) (YD25DDTi)",
+          "140 (190)",
+          "12/09-",
+          ""
+        ]
+      ],
+      "fitment": "NISSAN CABSTAR | ATLAS (F24M, F24W) 06-13, 28.11 DCI, 32.11 DCI, 35.11 DCI 2.5 (F24M) (YD25DDTi), 81 (110), 09/06-12/13; NISSAN CABSTAR | ATLAS (F24M, F24W) 06-13, 35.13 DCI, 45.13 DCI 2.5 (F24M) (YD25DDTi), 96 (131), 09/06-12/12; NISSAN NAVARA | NP300 | FRONTIER (D40) 04-09, 2.5 dCi (YD25DDTi), 128 (174), 12/05-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1275.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "e78e58a7f6f312440557fa23c4231a4ecdf2626ab99071f814199a78c1094d5e",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1685",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008675",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1685.html",
+      "source_checked_at_utc": "2026-11-23T08:09:38.670541+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1685",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "86abe1c4872e48be18331cf66daeff3da7ada03f52437473f1546001e9c5cce8",
+      "OEM_make": "HONDA",
+      "OEM_raw": "31110-R5A-A01",
+      "oem": "31110R5AA01",
+      "original_OE_rows": [
+        [
+          "FIAT",
+          "6000616598"
+        ],
+        [
+          "GENERAL MOTORS",
+          "93165542"
+        ],
+        [
+          "HONDA",
+          "31110-R5A-A01"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "622 993 01 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 622 993 01 96"
+        ],
+        [
+          "NISSAN",
+          "11720-00Q3N"
+        ],
+        [
+          "NISSAN",
+          "11720-00Q4A"
+        ],
+        [
+          "NISSAN",
+          "11720-00Q5G"
+        ],
+        [
+          "OPEL",
+          "44 20 655"
+        ],
+        [
+          "RENAULT",
+          "11 72 041 20R"
+        ],
+        [
+          "RENAULT",
+          "11 72 065 99R"
+        ],
+        [
+          "RENAULT",
+          "11 72 083 14R"
+        ],
+        [
+          "RENAULT",
+          "11 72 093 89R"
+        ],
+        [
+          "RENAULT",
+          "82 00 803 446"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=35719",
+      "fitment_page_sha256": "09baae371ad692f606a68a3f2a955916ebca91c9742109da3c58a2c2f3fab469",
+      "fitment_rows": [
+        [
+          "CR-V IV (RE_, RM_) 12-",
+          "2.4 4WD (K24A1)",
+          "136 (185)",
+          "01/12-",
+          ""
+        ],
+        [
+          "CR-V IV (RE_, RM_) 12-",
+          "2.4 AWD (K24W)",
+          "138 (188)",
+          "09/15-",
+          ""
+        ],
+        [
+          "CR-V IV (RE_, RM_) 12-",
+          "2.4 AWD (RM4) (K24Z7)",
+          "138 (188)",
+          "09/12-",
+          ""
+        ],
+        [
+          "CR-V IV (RE_, RM_) 12-",
+          "2.4 AWD (RM4) (K24Z9)",
+          "140 (190)",
+          "01/12-",
+          ""
+        ]
+      ],
+      "fitment": "HONDA CR-V IV (RE_, RM_) 12-, 2.4 4WD (K24A1), 136 (185), 01/12-; HONDA CR-V IV (RE_, RM_) 12-, 2.4 AWD (K24W), 138 (188), 09/15-; HONDA CR-V IV (RE_, RM_) 12-, 2.4 AWD (RM4) (K24Z7), 138 (188), 09/12-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1685.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "ae7e0eebaa6f8e84abe11e53ed14fa22bc7a45ffb036c890a68b087907c9bdb8",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1715",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333739",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1715.html",
+      "source_checked_at_utc": "2026-11-23T08:09:39.111831+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1715",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "8e3108594fa85ad16886dec2a752938d4c2c64a0d413a54c28e7166fb8d3fee8",
+      "OEM_make": "HONDA",
+      "OEM_raw": "31110-6B2-A01",
+      "oem": "311106B2A01",
+      "original_OE_rows": [
+        [
+          "FIAT",
+          "60595446"
+        ],
+        [
+          "FIAT",
+          "60597794"
+        ],
+        [
+          "FIAT",
+          "60604835"
+        ],
+        [
+          "FIAT",
+          "7653808"
+        ],
+        [
+          "HONDA",
+          "31110-6B2-A01"
+        ],
+        [
+          "HONDA",
+          "31110-RL5-A01"
+        ],
+        [
+          "HONDA",
+          "31110-RL5-A02"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-4A410"
+        ],
+        [
+          "HYUNDAI/KIA",
+          "25212-4A411"
+        ],
+        [
+          "LAND ROVER",
+          "PQS101490"
+        ],
+        [
+          "TATA",
+          "0306GAV00030N"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15953",
+      "fitment_page_sha256": "0226926e9ca54e0bd7bb5b5056e4cdcc15a93e74ee47f807ca4ddba36e98c949",
+      "fitment_rows": [
+        [
+          "ACCORD VIII (CU) 08-15",
+          "2.4 i (CU2) (K24Z3)",
+          "148 (201)",
+          "07/08-06/15",
+          "Alternator"
+        ],
+        [
+          "ACCORD VIII Estate (CW) 08-",
+          "2.4 i (CW2) (K24Z3)",
+          "148 (201)",
+          "07/08-",
+          "Alternator"
+        ]
+      ],
+      "fitment": "HONDA ACCORD VIII (CU) 08-15, 2.4 i (CU2) (K24Z3), 148 (201), 07/08-06/15, Alternator; HONDA ACCORD VIII Estate (CW) 08-, 2.4 i (CW2) (K24Z3), 148 (201), 07/08-, Alternator",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1715.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "bcde9288e0f45229cfa07a03e5e8644ac4c82ad2ac260fb0bf07305f758ab16a",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1760",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727715",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1760.html",
+      "source_checked_at_utc": "2026-11-23T08:09:39.628657+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1760",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "1c0079d59405912abc0d942f7cc42ddbab25608c6fc33661aba4b2a2e4048e4e",
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 7 787 897",
+      "oem": "11287787897",
+      "original_OE_rows": [
+        [
+          "BMW",
+          "11 28 7 787 897"
+        ],
+        [
+          "BMW",
+          "11 28 7 796 396"
+        ],
+        [
+          "HONDA",
+          "38920-RBA-E01"
+        ],
+        [
+          "HONDA",
+          "38920-RBA-E02"
+        ],
+        [
+          "HONDA",
+          "38920-RBA-E03"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=15956",
+      "fitment_page_sha256": "4d4fe83d603c11c35934ebedd4906005ae13da33639f024db4386e9d2f8c546b",
+      "fitment_rows": [
+        [
+          "7 (E65, E66, E67) 01-08",
+          "740 d (M67 D39 (398D1))",
+          "190 (258)",
+          "10/02-02/05",
+          ""
+        ],
+        [
+          "7 (E65, E66, E67) 01-08",
+          "745 d (M67 D44 (448D1))",
+          "220 (300)",
+          "03/05-08/05",
+          ""
+        ],
+        [
+          "7 (E65, E66, E67) 01-08",
+          "745 d (M67 D44 (448D1))",
+          "242 (329)",
+          "07/05-07/08",
+          ""
+        ]
+      ],
+      "fitment": "BMW 7 (E65, E66, E67) 01-08, 740 d (M67 D39 (398D1)), 190 (258), 10/02-02/05; BMW 7 (E65, E66, E67) 01-08, 745 d (M67 D44 (448D1)), 220 (300), 03/05-08/05; BMW 7 (E65, E66, E67) 01-08, 745 d (M67 D44 (448D1)), 242 (329), 07/05-07/08",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1760.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "a86b876cceb199e77cc275eef42f0fe05b6ffd0adca712c6a70b649e13024c5f",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1910",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0019727717",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1910.html",
+      "source_checked_at_utc": "2026-11-23T08:09:40.054318+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1910",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "a83acd028d518e54059634884df55b034b49a70c53aa01a816f8eaf5d2aab9cf",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "90916-02563",
+      "oem": "9091602563",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "90916-02563"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15965",
+      "fitment_page_sha256": "5eb0aa52c84d224378ac5311ae667c5a8282b264b6e8f732cf61dec4d70a32a0",
+      "fitment_rows": [
+        [
+          "AVENSIS VERSO | PICNIC | IPSUM (_M2_) 01-11",
+          "2.4 VVTi 4WD (ACM26_) (2AZ-FE)",
+          "118 (160)",
+          "05/01-12/10",
+          ""
+        ],
+        [
+          "CAMRY Saloon (_V3_) 01-06",
+          "2.4 (ACV30, ACV36) (2AZ-FE)",
+          "112 (152)",
+          "11/01-11/06",
+          "Alternator, [+] alternator type V40"
+        ],
+        [
+          "CAMRY Saloon (_V4_) 06-14",
+          "2.4 (ACV40_) (2AZ-FE)",
+          "123 (167)",
+          "01/06-09/11",
+          "Alternator"
+        ],
+        [
+          "ESTIMA II | PREVIA | TARAGO (_R3_, _R4_) 00-06",
+          "2.4 (ACR30) (2AZ-FE)",
+          "115 (156)",
+          "02/00-02/06",
+          ""
+        ],
+        [
+          "ESTIMA II | PREVIA | TARAGO (_R3_, _R4_) 00-06",
+          "2.4 (ACR30) (2AZ-FE)",
+          "125 (170)",
+          "02/00-01/06",
+          ""
+        ]
+      ],
+      "fitment": "TOYOTA AVENSIS VERSO | PICNIC | IPSUM (_M2_) 01-11, 2.4 VVTi 4WD (ACM26_) (2AZ-FE), 118 (160), 05/01-12/10; TOYOTA CAMRY Saloon (_V3_) 01-06, 2.4 (ACV30, ACV36) (2AZ-FE), 112 (152), 11/01-11/06, Alternator, [+] alternator type V40; TOYOTA CAMRY Saloon (_V4_) 06-14, 2.4 (ACV40_) (2AZ-FE), 123 (167), 01/06-09/11, Alternator",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1910.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "a00b44e71a3f5f5e61a6dd3ba5ca1327181c8852a97527798a5c43bfbf445486",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1915",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008680",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1915.html",
+      "source_checked_at_utc": "2026-11-23T08:09:40.588697+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1915",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "632cc5dc0093acca221f44aee460af6a12f700ef187931ba80669b24c7649fb3",
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 7 547 965",
+      "oem": "11287547965",
+      "original_OE_rows": [
+        [
+          "BMW",
+          "11 28 7 547 965"
+        ],
+        [
+          "BMW",
+          "11 28 7 631 809"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=35725",
+      "fitment_page_sha256": "c28227facd4bdc6e92ba856c1d91ed77b6a48644d1ab7b7770da317232b489aa",
+      "fitment_rows": [
+        [
+          "1 (E81) 06-12",
+          "120 i (N43 B20 A)",
+          "120 (163)",
+          "03/07-12/11",
+          ""
+        ],
+        [
+          "1 (E81) 06-12",
+          "120 i (N43 B20 A)",
+          "125 (170)",
+          "03/07-09/12",
+          ""
+        ],
+        [
+          "1 (E87) 04-11",
+          "120 i (N43 B20 A)",
+          "120 (163)",
+          "03/07-06/11",
+          ""
+        ],
+        [
+          "1 (E87) 04-11",
+          "120 i (N43 B20 A)",
+          "125 (170)",
+          "03/07-06/11",
+          ""
+        ],
+        [
+          "3 (E90) 04-11",
+          "320 i (N43 B20 A)",
+          "125 (170)",
+          "09/07-10/11",
+          ""
+        ]
+      ],
+      "fitment": "BMW 1 (E81) 06-12, 120 i (N43 B20 A), 120 (163), 03/07-12/11; BMW 1 (E81) 06-12, 120 i (N43 B20 A), 125 (170), 03/07-09/12; BMW 1 (E87) 04-11, 120 i (N43 B20 A), 120 (163), 03/07-06/11",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1915.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "48083a03e9827439356ddfb29df056c185c156031d05d9178fc7ea378832b871",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1940",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833897",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1940.html",
+      "source_checked_at_utc": "2026-11-23T08:09:41.500855+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1940",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "a9e3ba917813cf4ff3a01383783d53d9a6ebfb43c8c9ef8c56ce1cb632bee278",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "90916-02553",
+      "oem": "9091602553",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "90916-02553"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=49398",
+      "fitment_page_sha256": "842341e726e94cce1f19cb4d19d9542128635069a63ac0568f6b6dd03237aa5b",
+      "fitment_rows": [
+        [
+          "HARRIER (_U3_) 03-13",
+          "2.4 (ACU30_) (2AZ-FE)",
+          "118 (160)",
+          "02/03-12/13",
+          ""
+        ],
+        [
+          "HARRIER (_U3_) 03-13",
+          "2.4 4WD (ACU35_) (2AZ-FE)",
+          "118 (160)",
+          "10/03-06/12",
+          ""
+        ]
+      ],
+      "fitment": "TOYOTA HARRIER (_U3_) 03-13, 2.4 (ACU30_) (2AZ-FE), 118 (160), 02/03-12/13; TOYOTA HARRIER (_U3_) 03-13, 2.4 4WD (ACU35_) (2AZ-FE), 118 (160), 10/03-06/12",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1940.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "3b8fb33fa486870c89c31905afb139fe011233983ec2085876704d4f9bf625ec",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1960",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833898",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK1960.html",
+      "source_checked_at_utc": "2026-11-23T08:09:42.853132+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK1960",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "a9d8330f3de5148b3dce058324a53f78ec30ad88bb2ba4b2e4e1d92c86e2f05e",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "99367-J1960",
+      "oem": "99367J1960",
+      "original_OE_rows": [
+        [
+          "HONDA",
+          "56992-RNA-A01"
+        ],
+        [
+          "HONDA",
+          "56992-RNA-A02"
+        ],
+        [
+          "TOYOTA",
+          "99367-J1960"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=49399",
+      "fitment_page_sha256": "dd477f9ac6ce6d5a4ff71008394956d21b52bb3bd0a464ebb5975b0875b6f7bb",
+      "fitment_rows": [
+        [
+          "CAMRY Saloon (_V5_) 11-17",
+          "2.0 (ACV51_) (1AZ-FE)",
+          "109 (148)",
+          "09/11-",
+          ""
+        ]
+      ],
+      "fitment": "TOYOTA CAMRY Saloon (_V5_) 11-17, 2.0 (ACV51_) (1AZ-FE), 109 (148), 09/11-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK1960.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "8d728b1afd480378d071bc59c3e27ea63a8498e70502a5028fab5b6acd5675af",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2005",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0007308663",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2005.html",
+      "source_checked_at_utc": "2026-11-23T08:09:43.478115+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK2005",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "5d95dc865ef1a3735ab6721d4ba733876d7a26234a9c586b36c33560fc37dda1",
+      "OEM_make": "MERCEDES-BENZ",
+      "OEM_raw": "002 993 50 96",
+      "oem": "0029935096",
+      "original_OE_rows": [
+        [
+          "MERCEDES-BENZ",
+          "002 993 50 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 002 993 50 96"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MERCEDES-BENZ&product_id=15971",
+      "fitment_page_sha256": "b7f96fc109047f33be6347f3659fc4c7c80831dc9f836c1053df09992788629b",
+      "fitment_rows": [
+        [
+          "CLS (C218) 11-17",
+          "CLS 350 BlueTEC / d (218.326) (OM 642.852, OM 642.853)",
+          "185 (252)",
+          "02/13-12/17",
+          ""
+        ],
+        [
+          "CLS (C218) 11-17",
+          "CLS 350 BlueTEC / d (218.326) (OM 642.852, OM 642.853)",
+          "190 (258)",
+          "06/14-12/17",
+          ""
+        ],
+        [
+          "CLS (C218) 11-17",
+          "CLS 350 BlueTEC / d 4-matic (218.394) (OM 642.854, OM 642.858)",
+          "185 (252)",
+          "02/13-12/17",
+          ""
+        ],
+        [
+          "CLS (C218) 11-17",
+          "CLS 350 CDI / d (218.323) (OM 642.852, OM 642.853)",
+          "195 (265)",
+          "01/11-08/14",
+          "Alternator, With Start-stop, ->12/07"
+        ],
+        [
+          "CLS (C218) 11-17",
+          "CLS 350 CDI / d 4-matic (218.393) (OM 642.854, OM 642.858)",
+          "195 (265)",
+          "09/11-08/14",
+          "Alternator, With Start-stop, ->12/07"
+        ]
+      ],
+      "fitment": "MERCEDES-BENZ CLS (C218) 11-17, CLS 350 BlueTEC / d (218.326) (OM 642.852, OM 642.853), 185 (252), 02/13-12/17; MERCEDES-BENZ CLS (C218) 11-17, CLS 350 BlueTEC / d (218.326) (OM 642.852, OM 642.853), 190 (258), 06/14-12/17; MERCEDES-BENZ CLS (C218) 11-17, CLS 350 BlueTEC / d 4-matic (218.394) (OM 642.854, OM 642.858), 185 (252), 02/13-12/17",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2005.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "4c341376eea8e410784e59e4db2f3ca161b4689c26a64e82a8efdddf981c9025",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2045",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0010062710",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2045.html",
+      "source_checked_at_utc": "2026-11-23T08:09:44.009562+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK2045",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "90d07d9964e6cc42e8c0e552ccd2b743c6e98c2cb9ef3cd79e45955f0650fc0d",
+      "OEM_make": "MERCEDES-BENZ",
+      "OEM_raw": "001 993 46 96",
+      "oem": "0019934696",
+      "original_OE_rows": [
+        [
+          "FIAT",
+          "60590385"
+        ],
+        [
+          "FIAT",
+          "71712677"
+        ],
+        [
+          "FIAT",
+          "71736710"
+        ],
+        [
+          "FIAT",
+          "71749454"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "001 993 46 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "003 993 00 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 001 993 46 96"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 003 993 00 96"
+        ],
+        [
+          "TOYOTA",
+          "90916-T2033"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MERCEDES-BENZ&product_id=35728",
+      "fitment_page_sha256": "4b0959218d642c9309f71d290d8b8e55d460796c5e49af2f70f90c81dfcf82d5",
+      "fitment_rows": [
+        [
+          "C-CLASS (W204) 07-14",
+          "C 300 CDI 4-matic (204.092) (OM 642.832)",
+          "170 (231)",
+          "01/11-01/14",
+          ""
+        ],
+        [
+          "C-CLASS (W204) 07-14",
+          "C 320 CDI 4-matic (204.089) (OM 642.961)",
+          "165 (224)",
+          "07/07-01/14",
+          ""
+        ],
+        [
+          "C-CLASS (W204) 07-14",
+          "C 350 CDI 4-matic (204.089) (OM 642.961)",
+          "165 (224)",
+          "07/09-01/14",
+          ""
+        ],
+        [
+          "C-CLASS (W204) 07-14",
+          "C 350 CDI 4-matic (204.092) (OM 642.832)",
+          "170 (231)",
+          "10/09-01/14",
+          ""
+        ],
+        [
+          "C-CLASS T-Model (S204) 07-14",
+          "C 320 CDI 4-matic (204.289) (OM 642.961)",
+          "165 (224)",
+          "08/07-12/11",
+          ""
+        ]
+      ],
+      "fitment": "MERCEDES-BENZ C-CLASS (W204) 07-14, C 300 CDI 4-matic (204.092) (OM 642.832), 170 (231), 01/11-01/14; MERCEDES-BENZ C-CLASS (W204) 07-14, C 320 CDI 4-matic (204.089) (OM 642.961), 165 (224), 07/07-01/14; MERCEDES-BENZ C-CLASS (W204) 07-14, C 350 CDI 4-matic (204.089) (OM 642.961), 165 (224), 07/09-01/14",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2045.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "6ba32a83e2c18b4084057d001cae61e93435387c405e07d73d89da9f574e079b",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2090",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333762",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2090.html",
+      "source_checked_at_utc": "2026-11-23T08:09:44.748197+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK2090",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "d0423ae6c71406c4520c50d7eaacf02f463d401212dd70d867244f8182d646d3",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "90916-A2010",
+      "oem": "90916A2010",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "90916-A2010"
+        ],
+        [
+          "TOYOTA",
+          "99367-C2090"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15975",
+      "fitment_page_sha256": "4dc8bd0b76e07d88d826b749515ffb69bebad3fa17b0a7083db4c2acceab7c18",
+      "fitment_rows": [
+        [
+          "AVALON Saloon (_X3_) 05-12",
+          "3.5 (GSX30_) (2GR-FE)",
+          "198 (269)",
+          "10/05-11/12",
+          ""
+        ],
+        [
+          "AVALON Saloon (_X3_) 05-12",
+          "3.5 (GSX30_) (2GR-FE)",
+          "200 (272)",
+          "01/05-09/12",
+          ""
+        ],
+        [
+          "AVALON Saloon (_X3_) 05-12",
+          "3.5 (GSX30_) (2GR-FE)",
+          "206 (280)",
+          "01/05-09/12",
+          ""
+        ],
+        [
+          "CAMRY Saloon (_V4_) 06-14",
+          "3.5 (GSV40_) (2GR-FE)",
+          "200 (272)",
+          "01/06-12/11",
+          ""
+        ],
+        [
+          "CAMRY Saloon (_V4_) 06-14",
+          "3.5 (GSV40_) (2GR-FE)",
+          "204 (277)",
+          "09/06-12/14",
+          "Alternator"
+        ]
+      ],
+      "fitment": "TOYOTA AVALON Saloon (_X3_) 05-12, 3.5 (GSX30_) (2GR-FE), 198 (269), 10/05-11/12; TOYOTA AVALON Saloon (_X3_) 05-12, 3.5 (GSX30_) (2GR-FE), 200 (272), 01/05-09/12; TOYOTA AVALON Saloon (_X3_) 05-12, 3.5 (GSX30_) (2GR-FE), 206 (280), 01/05-09/12",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2090.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "caa9bf4b8f911d8424091217391b9e51a22914705076743b5a8f7f513143d3b9",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2150",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0023833899",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2150.html",
+      "source_checked_at_utc": "2026-11-23T08:09:45.534116+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK2150",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "670afe148d717dfa1bcc534faed596eeff28ccf06f5ae9542f33f55297f3ff87",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "90916-A2015",
+      "oem": "90916A2015",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "90916-A2015"
+        ],
+        [
+          "TOYOTA",
+          "99367-H2150"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=49400",
+      "fitment_page_sha256": "750663c0032fcb40c7ad1c555813e13381cb382646c5f9f6e5de841018bc82e1",
+      "fitment_rows": [
+        [
+          "4 RUNNER V (_N28_) 09-10",
+          "4.0 (GRN280_) (1GR-FE)",
+          "202 (275)",
+          "01/10-",
+          ""
+        ],
+        [
+          "4 RUNNER V (_N28_) 09-10",
+          "4.0 4WD (GRN285_) (1GR-FE)",
+          "199 (271)",
+          "08/13-",
+          ""
+        ],
+        [
+          "4 RUNNER V (_N28_) 09-10",
+          "4.0 4WD (GRN285_) (1GR-FE)",
+          "201 (273)",
+          "09/10-",
+          ""
+        ],
+        [
+          "FJ CRUISER (GSJ1_) 05-18",
+          "4.0 (GSJ15) (1GR-FE)",
+          "176 (239)",
+          "06/05-10/09",
+          ""
+        ],
+        [
+          "FJ CRUISER (GSJ1_) 05-18",
+          "4.0 (GSJ15) (1GR-FE)",
+          "178 (242)",
+          "01/06-12/11",
+          ""
+        ]
+      ],
+      "fitment": "TOYOTA 4 RUNNER V (_N28_) 09-10, 4.0 (GRN280_) (1GR-FE), 202 (275), 01/10-; TOYOTA 4 RUNNER V (_N28_) 09-10, 4.0 4WD (GRN285_) (1GR-FE), 199 (271), 08/13-; TOYOTA 4 RUNNER V (_N28_) 09-10, 4.0 4WD (GRN285_) (1GR-FE), 201 (273), 09/10-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2150.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "d27bffe070727686df9c13a37a199b447a355bbe154ccf3432fb9c0d62c003aa",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2280",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333811",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2280.html",
+      "source_checked_at_utc": "2026-11-23T08:09:45.671182+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK2280",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "2e5ca5784a462a5595dc4a7d848dce73f1aaa5b2f463828a41138d0f9738bf98",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "90916-02640",
+      "oem": "9091602640",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "90916-02640"
+        ],
+        [
+          "TOYOTA",
+          "90916-02708"
+        ],
+        [
+          "TOYOTA",
+          "99367-C2280"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15982",
+      "fitment_page_sha256": "4fa2d17ad85e1bd7ccb3c5760874ee7e444c12c6ff8a27295c7eeb3476b4fdc2",
+      "fitment_rows": [
+        [
+          "HIACE / COMMUTER V Bus (TRH2__, KDH2__, LH2__, GDH2__) 04-14",
+          "2.0 (TRH200_) (1TR-FE)",
+          "98 (133)",
+          "11/08-",
+          "Alternator, [+] AC Compressor"
+        ],
+        [
+          "HIACE / COMMUTER V Bus (TRH2__, KDH2__, LH2__, GDH2__) 04-14",
+          "2.7 (TRH223_) (2TR-FE)",
+          "",
+          "12/13-",
+          "Alternator"
+        ],
+        [
+          "HIACE / COMMUTER V Bus (TRH2__, KDH2__, LH2__, GDH2__) 04-14",
+          "2.7 (TRH223) (2TR-FE)",
+          "111 (151)",
+          "01/05-",
+          "Alternator"
+        ],
+        [
+          "HIACE / COMMUTER V Bus (TRH2__, KDH2__, LH2__, GDH2__) 04-14",
+          "2.7 4WD (TRH219W) (2TR-FE)",
+          "111 (151)",
+          "01/05-",
+          "Alternator"
+        ],
+        [
+          "HIACE IV Bus | REGIUS (_H1_, _H2_) 95-12",
+          "2.7 (TRH203, TRH213, TRH214, TRH224) (2TR-FE)",
+          "111 (151)",
+          "09/09-",
+          "Alternator"
+        ]
+      ],
+      "fitment": "TOYOTA HIACE / COMMUTER V Bus (TRH2__, KDH2__, LH2__, GDH2__) 04-14, 2.0 (TRH200_) (1TR-FE), 98 (133), 11/08-, Alternator, [+] AC Compressor; TOYOTA HIACE / COMMUTER V Bus (TRH2__, KDH2__, LH2__, GDH2__) 04-14, 2.7 (TRH223_) (2TR-FE), 12/13-, Alternator; TOYOTA HIACE / COMMUTER V Bus (TRH2__, KDH2__, LH2__, GDH2__) 04-14, 2.7 (TRH223) (2TR-FE), 111 (151), 01/05-, Alternator",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2280.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "14d1b7297a988c7a20b0064504ac3ec9af8649b72fa6bbed588d2fe577e142a7",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2300",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134108",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2300.html",
+      "source_checked_at_utc": "2026-11-23T08:09:46.571647+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK2300",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "ff51e4163656cbcc7f295ba77c8f32123ccb98ebf0fdd3bf00394b9000fdbc2f",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "90916-02636",
+      "oem": "9091602636",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "90916-02636"
+        ],
+        [
+          "TOYOTA",
+          "90916-T2024"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15984",
+      "fitment_page_sha256": "a8045b4d1fa55e255028891ae15fab76e42885647e7c02e7e72309bb2ca028a3",
+      "fitment_rows": [
+        [
+          "CROWN COMFORT ( _S10_) 08-",
+          "2.0 LPG (TSS110) (1TR-FPE)",
+          "85 (116)",
+          "08/08-",
+          "Alternator"
+        ],
+        [
+          "CROWN COMFORT (_S1_) 95-08",
+          "2.0 LPG (1TR-FPE)",
+          "83 (113)",
+          "01/96-07/08",
+          "Alternator"
+        ],
+        [
+          "FORTUNER (_N15_, _N16_) 15-",
+          "2.7 (TGN166_, TGN168_) (2TR-FE)",
+          "120 (163)",
+          "01/16-",
+          "Alternator"
+        ],
+        [
+          "FORTUNER (_N15_, _N16_) 15-",
+          "2.7 4WD (TGN156_) (2TR-FE)",
+          "120 (163)",
+          "05/15-",
+          "Alternator"
+        ],
+        [
+          "FORTUNER (_N15_, _N16_) 15-",
+          "2.7 4WD (TGN156_) (2TR-FE)",
+          "122 (166)",
+          "05/15-",
+          ""
+        ]
+      ],
+      "fitment": "TOYOTA CROWN COMFORT ( _S10_) 08-, 2.0 LPG (TSS110) (1TR-FPE), 85 (116), 08/08-, Alternator; TOYOTA CROWN COMFORT (_S1_) 95-08, 2.0 LPG (1TR-FPE), 83 (113), 01/96-07/08, Alternator; TOYOTA FORTUNER (_N15_, _N16_) 15-, 2.7 (TGN166_, TGN168_) (2TR-FE), 120 (163), 01/16-, Alternator",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2300.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "bb380f2db25abc00fca9547f33428c1367eefc1302620f1d17a1f87bc4b00945",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2682",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0023134110",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/7PK2682.html",
+      "source_checked_at_utc": "2026-11-23T08:09:46.660735+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "7PK2682",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "c11b521341df98d5d385a97d955a4952fa49d3b3fef372adda128671f873819c",
+      "OEM_make": "FORD",
+      "OEM_raw": "1 376 751",
+      "oem": "1376751",
+      "original_OE_rows": [
+        [
+          "FORD",
+          "1 376 751"
+        ],
+        [
+          "FORD",
+          "1 440 086"
+        ],
+        [
+          "FORD USA",
+          "6C1Q-6C301-GB"
+        ],
+        [
+          "FORD USA",
+          "6C1Q-6C301-GC"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=15994",
+      "fitment_page_sha256": "d2df2d31b200f788ada4b82c79ce23adc32a1554f03d244e2dc5715b8c40bd23",
+      "fitment_rows": [
+        [
+          "TRANSIT Bus (F_ _) 06-14",
+          "2.4 TDCi (H9FD)",
+          "103 (140)",
+          "04/06-08/14",
+          "Alternator, [-] AC Compressor, [+] OE № 6C1Q6C301GB/GC"
+        ],
+        [
+          "TRANSIT Bus (F_ _) 06-14",
+          "2.4 TDCi (JXFA, JXFC)",
+          "85 (115)",
+          "04/06-08/14",
+          "Alternator, [-] AC Compressor, [+] OE № 6C1Q6C301GB/GC"
+        ],
+        [
+          "TRANSIT Bus (F_ _) 06-14",
+          "2.4 TDCi (PHFA, PHFC)",
+          "74 (100)",
+          "04/06-08/14",
+          "Alternator, [-] AC Compressor, [+] OE № 6C1Q6C301GB/GC"
+        ],
+        [
+          "TRANSIT Bus (F_ _) 06-14",
+          "2.4 TDCi 4WD (H9FB)",
+          "103 (140)",
+          "11/06-08/14",
+          ""
+        ],
+        [
+          "TRANSIT Platform/Chassis (F_ _) 06-14",
+          "2.4 TDCi 4WD (H9FB)",
+          "103 (140)",
+          "11/06-08/14",
+          "Alternator, [-] AC Compressor, [+] OE № 6C1Q6C301GB/GC"
+        ]
+      ],
+      "fitment": "FORD TRANSIT Bus (F_ _) 06-14, 2.4 TDCi (H9FD), 103 (140), 04/06-08/14, Alternator, [-] AC Compressor, [+] OE № 6C1Q6C301GB/GC; FORD TRANSIT Bus (F_ _) 06-14, 2.4 TDCi (JXFA, JXFC), 85 (115), 04/06-08/14, Alternator, [-] AC Compressor, [+] OE № 6C1Q6C301GB/GC; FORD TRANSIT Bus (F_ _) 06-14, 2.4 TDCi (PHFA, PHFC), 74 (100), 04/06-08/14, Alternator, [-] AC Compressor, [+] OE № 6C1Q6C301GB/GC",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/7PK2682.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "00af6ef92172ec79cbe2403f86d801d6c7597bc7d194868b62c722e0f20c1f51",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK1786",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008689",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/8PK1786.html",
+      "source_checked_at_utc": "2026-11-23T08:09:48.105921+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "8PK1786",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "5b4d92d762e27a2fa38a35f35dbea93c04ef3539b6905a21a3cf05beb4124e98",
+      "OEM_make": "BMW",
+      "OEM_raw": "11 28 7 590 148",
+      "oem": "11287590148",
+      "original_OE_rows": [
+        [
+          "BMW",
+          "11 28 7 590 148"
+        ],
+        [
+          "BMW",
+          "11 28 7 628 658"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=BMW&product_id=35740",
+      "fitment_page_sha256": "c15686df746f25d3c5faf4127f557060f44468ebacdf4dd8d4b11e3e5d76180e",
+      "fitment_rows": [
+        [
+          "5 (F10) 09-16",
+          "523 i (N53 B30 A)",
+          "150 (204)",
+          "06/09-08/11",
+          "Alternator"
+        ],
+        [
+          "5 (F10) 09-16",
+          "528 i (N53 B30 A)",
+          "190 (258)",
+          "03/10-08/11",
+          "Alternator"
+        ],
+        [
+          "5 (F10) 09-16",
+          "530 i (N52 B30 A, N52 B30 AF, N52 B30 BF)",
+          "190 (258)",
+          "03/10-06/13",
+          ""
+        ],
+        [
+          "5 (F10) 09-16",
+          "530 i (N53 B30 A)",
+          "200 (272)",
+          "05/11-06/13",
+          ""
+        ],
+        [
+          "5 Touring (F11) 09-17",
+          "523 i (N53 B30 A)",
+          "150 (204)",
+          "11/09-08/11",
+          "Alternator"
+        ]
+      ],
+      "fitment": "BMW 5 (F10) 09-16, 523 i (N53 B30 A), 150 (204), 06/09-08/11, Alternator; BMW 5 (F10) 09-16, 528 i (N53 B30 A), 190 (258), 03/10-08/11, Alternator; BMW 5 (F10) 09-16, 530 i (N52 B30 A, N52 B30 AF, N52 B30 BF), 190 (258), 03/10-06/13",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/8PK1786.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "ab02b6548be784ccd7013801420c9dbe7f7d21a4b2cf3ab8589bd3dad25a010a",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2093",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSII0013008691",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/8PK2093.html",
+      "source_checked_at_utc": "2026-11-23T08:09:49.374041+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "8PK2093",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "4082c5b3b9c410f2541423effed3a0ed84f9b227599f79de71f7ff4aef00cc67",
+      "OEM_make": "LAND ROVER",
+      "OEM_raw": "PQS500370",
+      "oem": "PQS500370",
+      "original_OE_rows": [
+        [
+          "LAND ROVER",
+          "PQS500370"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LAND+ROVER&product_id=35742",
+      "fitment_page_sha256": "82d5ac6fb7526be1903b17b3092eb606e23f27da1dca035c839a6b45077642ad",
+      "fitment_rows": [
+        [
+          "DISCOVERY III (L319) 04-09",
+          "2.7 TD 4WD (276DT)",
+          "140 (190)",
+          "07/04-09/09",
+          ""
+        ],
+        [
+          "RANGE ROVER SPORT I (L320) 05-13",
+          "2.7 D 4WD (276DT)",
+          "140 (190)",
+          "02/05-03/13",
+          ""
+        ]
+      ],
+      "fitment": "LAND ROVER DISCOVERY III (L319) 04-09, 2.7 TD 4WD (276DT), 140 (190), 07/04-09/09; LAND ROVER RANGE ROVER SPORT I (L320) 05-13, 2.7 D 4WD (276DT), 140 (190), 02/05-03/13",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/8PK2093.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "fc3d69c340854a16209f4e85fa2b96a7e5885756ac12a982ee27fe7d68f5ff3a",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "9PK2250",
+      "category": "Ремни приводные",
+      "supplier_nomenclature": "NSIN0022333813",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/9PK2250.html",
+      "source_checked_at_utc": "2026-11-23T08:09:50.373769+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Poly V-Belt (EPDM)",
+      "manufacturer_MPN": "9PK2250",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "7d9eef6421ce51c3755d87c4b7b831aee06b884faeac28944dd1f4285add5403",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "99369-K2250",
+      "oem": "99369K2250",
+      "original_OE_rows": [
+        [
+          "MERCEDES-BENZ",
+          "012 997 25 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "013 997 62 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 012 997 25 92"
+        ],
+        [
+          "MERCEDES-BENZ",
+          "A 013 997 62 92"
+        ],
+        [
+          "TOYOTA",
+          "99369-K2250"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=16057",
+      "fitment_page_sha256": "880e2d9c99c009f90cab99a82c7ad17048a86e86f735f39833782cd0d74b7950",
+      "fitment_rows": [
+        [
+          "LAND CRUISER 200 (_J2_) 07-",
+          "4.5 D V8 (VDJ200) (1VD-FTV)",
+          "210 (286)",
+          "01/08-",
+          ""
+        ],
+        [
+          "LAND CRUISER 200 (_J2_) 07-",
+          "4.5 D4-D (VDJ200_) (1VD-FTV)",
+          "183 (249)",
+          "08/15-",
+          ""
+        ],
+        [
+          "LAND CRUISER 200 (_J2_) 07-",
+          "4.5 D4-D (VDJ200) (1VD-FTV)",
+          "171 (232)",
+          "01/13-",
+          ""
+        ],
+        [
+          "LAND CRUISER 200 (_J2_) 07-",
+          "4.5 D4-D (VDJ200) (1VD-FTV)",
+          "173 (235)",
+          "08/07-",
+          "Alternator"
+        ],
+        [
+          "LAND CRUISER 200 (_J2_) 07-",
+          "4.5 D4-D (VDJ200) (1VD-FTV)",
+          "195 (265)",
+          "09/07-",
+          ""
+        ]
+      ],
+      "fitment": "TOYOTA LAND CRUISER 200 (_J2_) 07-, 4.5 D V8 (VDJ200) (1VD-FTV), 210 (286), 01/08-; TOYOTA LAND CRUISER 200 (_J2_) 07-, 4.5 D4-D (VDJ200_) (1VD-FTV), 183 (249), 08/15-; TOYOTA LAND CRUISER 200 (_J2_) 07-, 4.5 D4-D (VDJ200) (1VD-FTV), 171 (232), 01/13-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/9PK2250.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "0992cd2da8337a2d6843e48d203ec251475515d8a672f54d1d9733a361a8b908",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
     }
   ]
 }

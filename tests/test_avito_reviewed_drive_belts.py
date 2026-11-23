@@ -68,7 +68,7 @@ class ReviewedBeltsTest(unittest.TestCase):
         self.assertEqual(len(ET.fromstring(result).findall('Ad')), 330)
         self.assertEqual([ET.tostring(a) for a in ET.fromstring(result).findall('Ad')], before)
         self.assertEqual(report['repriced'], 0)
-        self.assertEqual(APPROVED_CATALOG_LIMIT, 962)
+        self.assertEqual(APPROVED_CATALOG_LIMIT, 998)
 
     def test_supplier_gate_rejects_wrong_city_delivery_stock_and_unknown_sku(self):
         from openpyxl import Workbook

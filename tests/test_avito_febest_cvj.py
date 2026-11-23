@@ -36,4 +36,4 @@ class ExactFebestCVJ(unittest.TestCase):
 
  def test_combined_release_loads_every_brand_before_applying_exact_selection(self):
   args=SimpleNamespace(manifest=B/'input/avito_reviewed_sufix_drive_belts.json',lynx_manifest=B/'input/avito_reviewed_drive_belts_source09.json',febest_manifest=P,lynx06_manifest=B/'input/avito_reviewed_lynx_source06.json',selection=B/'input/avito_release_selection_20261123.json')
-  rs=load_release_records(args);self.assertEqual(len(rs),15);self.assertEqual(sum(r['brand']=='Febest' for r in rs),2);self.assertEqual(sum(r['brand']=='SUFIX' for r in rs),3);self.assertEqual({(r['brand'],r['article']) for r in rs},{(r['brand'],r['article']) for r in json.loads(args.selection.read_text())['items']})
+  rs=load_release_records(args);self.assertEqual(len(rs),51);self.assertEqual(sum(r['brand']=='Febest' for r in rs),2);self.assertEqual(sum(r['brand']=='SUFIX' for r in rs),3);self.assertEqual({(r['brand'],r['article']) for r in rs},{(r['brand'],r['article']) for r in json.loads(args.selection.read_text())['items']})
