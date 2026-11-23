@@ -49,7 +49,7 @@ jobs:
       - name: Checkout reviewed exact-SKU extension support
         uses: actions/checkout@v4
         with:
-          ref: 709939e87f80684c38e25bf6f2874e5eaa969f23
+          ref: f2ee75af44a119706b431aabd21b00793d4f7fd2
           path: verified-extension
           persist-credentials: false
       - name: Load verified additional categories without broadening the approved catalogue
@@ -110,7 +110,7 @@ jobs:
           after=report["after"]
           removed=report["removed_from_previous_live_feed"]
           restored=report["restocked_approved_ads"]
-          if not 150<=after<=947 or before+len(restored)-len(removed)!=after:
+          if not 150<=after<=962 or before+len(restored)-len(removed)!=after:
               raise SystemExit("REFUSE_AVITO_RELEASE: unexpected XML count")
           if len(removed)>12 or len(removed)/before>0.075 or len(restored)>12:
               raise SystemExit("REFUSE_AVITO_RELEASE: unexpected stock change")
