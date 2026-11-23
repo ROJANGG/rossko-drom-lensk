@@ -1,5 +1,5 @@
 {
-  "scope_sha256": "6de8acc5d6559cdea193f66218c616515c8f599a3f1e003b777364fedcfc3b29",
+  "scope_sha256": "842e61fa7d2e8ce249c867736350b052ca5f416e11c7adc5c81d2654d3e38e0a",
   "items": [
     {
       "brand": "SUFIX",
@@ -39505,6 +39505,419 @@
       "package_unit_verified": true,
       "primary_product_count_verified": 1,
       "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1045",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685596",
+      "source_checked_at_utc": "2026-11-23T07:46:53.986615+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1045.html",
+      "page_captured_at_utc": "2026-11-23T07:46:55.292442+00:00",
+      "manufacturer_page_sha256": "d58c722826e371e3a3c25986e3046f63291de7aa2adb78349825f1b40d72edc6",
+      "manufacturer_MPN": "ST-1045",
+      "product_title": "ШРУС наружный (Z 26x25, ABS 48) Арт. ST-1045",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "TOYOTA",
+          "43410-02250"
+        ],
+        [
+          "TOYOTA",
+          "43410-02270"
+        ],
+        [
+          "TOYOTA",
+          "43410-05350"
+        ],
+        [
+          "TOYOTA",
+          "43410-05370"
+        ],
+        [
+          "TOYOTA",
+          "43410-05380"
+        ],
+        [
+          "TOYOTA",
+          "43410-05430"
+        ],
+        [
+          "TOYOTA",
+          "43420-02280"
+        ],
+        [
+          "TOYOTA",
+          "43420-02300"
+        ],
+        [
+          "TOYOTA",
+          "43420-05280"
+        ],
+        [
+          "TOYOTA",
+          "43420-05320"
+        ],
+        [
+          "TOYOTA",
+          "43420-05331"
+        ],
+        [
+          "TOYOTA",
+          "43420-05380"
+        ],
+        [
+          "TOYOTA",
+          "43460-09611"
+        ],
+        [
+          "TOYOTA",
+          "43460-09621"
+        ],
+        [
+          "TOYOTA",
+          "43460-09A21"
+        ],
+        [
+          "TOYOTA",
+          "43460-09A22"
+        ],
+        [
+          "TOYOTA",
+          "43460-09P05"
+        ],
+        [
+          "TOYOTA",
+          "43460-09P50"
+        ],
+        [
+          "TOYOTA",
+          "43460-09P70"
+        ],
+        [
+          "TOYOTA",
+          "43470-09A15"
+        ],
+        [
+          "TOYOTA",
+          "43470-09A38"
+        ],
+        [
+          "TOYOTA",
+          "43470-09A39"
+        ],
+        [
+          "TOYOTA",
+          "43470-09N90"
+        ],
+        [
+          "TOYOTA",
+          "43470-09P00"
+        ],
+        [
+          "TOYOTA",
+          "43470-09P10"
+        ],
+        [
+          "TOYOTA",
+          "43470-09Q50"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "TOYOTA": 19
+      },
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "43410-02250",
+      "OEM": "4341002250",
+      "fitment_rows": [
+        {
+          "model": "TOYOTA AVENSIS (_T25_) 03-08",
+          "modification": "2.0 (AZT250_) (1AZ-FSE) 108кВт/147лс 03.2003-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17345"
+        },
+        {
+          "model": "TOYOTA AVENSIS (_T25_) 03-08",
+          "modification": "2.0 D-4D (ADT250_) (1AD-FTV) 93кВт/126лс 03.2006-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19830"
+        },
+        {
+          "model": "TOYOTA AVENSIS (_T25_) 03-08",
+          "modification": "2.0 D-4D (CDT250_) (1CD-FTV) 85кВт/116лс 04.2003-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=17347"
+        },
+        {
+          "model": "TOYOTA AVENSIS (_T25_) 03-08",
+          "modification": "2.0 VVTi (AZT250_) (1AZ-FE) 114кВт/155лс 04.2003-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=27321"
+        },
+        {
+          "model": "TOYOTA AVENSIS (_T25_) 03-08",
+          "modification": "2.2 D-4D (ADT251_) (2AD-FTV) 110кВт/150лс 10.2005-11.2008",
+          "url": "https://sufix.pro/selection_parts.html?na_id=19246"
+        }
+      ],
+      "applicability_make": "TOYOTA",
+      "OEM_group_label_as_on_manufacturer_page": "TOYOTA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1045.jpg",
+      "photo_sha256": "3945bd5fb5f149316e1587bda09481502777b312b86fc56163966269e6fa59d6",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "4341002250",
+      "fitment": "TOYOTA AVENSIS (_T25_) 03-08 2.0 (AZT250_) (1AZ-FSE) 108кВт/147лс 03.2003-11.2008; TOYOTA AVENSIS (_T25_) 03-08 2.0 D-4D (ADT250_) (1AD-FTV) 93кВт/126лс 03.2006-11.2008; TOYOTA AVENSIS (_T25_) 03-08 2.0 D-4D (CDT250_) (1CD-FTV) 85кВт/116лс 04.2003-11.2008",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1065",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685586",
+      "source_checked_at_utc": "2026-11-23T07:46:54.526358+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1065.html",
+      "page_captured_at_utc": "2026-11-23T07:46:55.482604+00:00",
+      "manufacturer_page_sha256": "8a878eb10f98f6a571a680859cf719cc5da0c937ad65f87be3c7b5abf0632301",
+      "manufacturer_MPN": "ST-1065",
+      "product_title": "ШРУС наружный (Z 33x31) Арт. ST-1065",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "GENERALMOTORS",
+          "13318006"
+        ],
+        [
+          "GENERALMOTORS",
+          "93745994"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "CHEVROLET": 6
+      },
+      "OEM_make": "GENERALMOTORS",
+      "OEM_raw": "13318006",
+      "OEM": "13318006",
+      "fitment_rows": [
+        {
+          "model": "CHEVROLET CRUZE (J300) 09-",
+          "modification": "1.6 (LDE) 91кВт/124лс 05.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=8711"
+        },
+        {
+          "model": "CHEVROLET CRUZE (J300) 09-",
+          "modification": "1.8 (2H0) 104кВт/141лс 05.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=31470"
+        },
+        {
+          "model": "CHEVROLET CRUZE Hatchback (J305) 11-",
+          "modification": "1.6 (LDE) 91кВт/124лс 06.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10352"
+        },
+        {
+          "model": "CHEVROLET CRUZE Hatchback (J305) 11-",
+          "modification": "1.8 (2H0) 104кВт/141лс 06.2011-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=10351"
+        },
+        {
+          "model": "CHEVROLET CRUZE Station Wagon (J308) 12-",
+          "modification": "1.6 (LDE) 91кВт/124лс 08.2012-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=55799"
+        }
+      ],
+      "applicability_make": "CHEVROLET",
+      "OEM_group_label_as_on_manufacturer_page": "GENERALMOTORS",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1065.jpg",
+      "photo_sha256": "5dc5dbd3850b0dd54241275a65b1575c2d3a8af928ee51e59774af99f6664f1c",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "13318006",
+      "fitment": "CHEVROLET CRUZE (J300) 09- 1.6 (LDE) 91кВт/124лс 05.2009-; CHEVROLET CRUZE (J300) 09- 1.8 (2H0) 104кВт/141лс 05.2009-; CHEVROLET CRUZE Hatchback (J305) 11- 1.6 (LDE) 91кВт/124лс 06.2011-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1074",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0024685652",
+      "source_checked_at_utc": "2026-11-23T07:46:56.308305+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_page": "https://sufix.pro/ST-1074.html",
+      "page_captured_at_utc": "2026-11-23T07:46:57.118359+00:00",
+      "manufacturer_page_sha256": "e7a6646ee4b927b3bd964de56f16ad041dede25787f726294d5c03403bfc5b80",
+      "manufacturer_MPN": "ST-1074",
+      "product_title": "ШРУС наружный (Z 27x24, ABS 48) Арт. ST-1074",
+      "exact_sku_verified": true,
+      "automaker_reference_rows": [
+        [
+          "HYUNDAIKIA",
+          "49500-2S200"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2S300"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2Y200"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2Y300"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2S200"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2S250"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2S300"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2Y200"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2Y250"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2Y210"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2Y610"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2Y710"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-2Y800"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49500-3W200"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2S201"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2Y300"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2Y660"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-2Y760"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-3W200"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49501-3W250"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49591-2Y210"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49591-2Y250"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49591-2Y300"
+        ],
+        [
+          "HYUNDAIKIA",
+          "49591-2Y310"
+        ]
+      ],
+      "OEM_source_kind": "AUTOMAKER_ROWS_IN_MANUFACTURER_MIXED_REFERENCE_TABLE",
+      "applicability_make_counts": {
+        "HYUNDAI": 6,
+        "KIA": 4
+      },
+      "OEM_make": "HYUNDAIKIA",
+      "OEM_raw": "49500-2S200",
+      "OEM": "495002S200",
+      "fitment_rows": [
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 (G4KD) 120кВт/163лс 01.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33131"
+        },
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 4WD (G4KD) 120кВт/163лс 01.2010-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=33132"
+        },
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 CVVT (G4KD) 110кВт/150лс 08.2009-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=114089"
+        },
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 CVVT AWD (G4KD) 110кВт/150лс 08.2009-07.2013",
+          "url": "https://sufix.pro/selection_parts.html?na_id=118799"
+        },
+        {
+          "model": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15",
+          "modification": "2.0 GDi (G4NC) 122кВт/166лс 08.2013-",
+          "url": "https://sufix.pro/selection_parts.html?na_id=100807"
+        }
+      ],
+      "applicability_make": "HYUNDAI",
+      "OEM_group_label_as_on_manufacturer_page": "HYUNDAIKIA",
+      "fitment_status": "MANUFACTURER_APPLICABILITY_VERIFIED",
+      "OEM_applicability_binding": "SAME_EXACT_PRODUCT_PAGE_WITH_AUTOMAKER_OR_GROUP_LABEL",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_url": "https://sufix.pro/image/ST-1074.jpg",
+      "photo_sha256": "d5559a17b839bba442f2b99ddb2a06147f7e10e979490537ca346838fd369943",
+      "photo_dimensions": [
+        800,
+        800
+      ],
+      "photo_format": "JPEG",
+      "oem": "495002S200",
+      "fitment": "HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15 2.0 (G4KD) 120кВт/163лс 01.2010-; HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15 2.0 4WD (G4KD) 120кВт/163лс 01.2010-; HYUNDAI ix35 | TUCSON (LM, EL, ELH) 09-15 2.0 CVVT (G4KD) 110кВт/150лс 08.2009-",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
     }
   ]
 }

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "brand": "SUFIX",
+      "article": "ST1045",
+      "category": "ШРУС"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1065",
+      "category": "ШРУС"
+    },
+    {
+      "brand": "SUFIX",
+      "article": "ST1074",
+      "category": "ШРУС"
+    },
+    {
+      "brand": "Febest",
+      "article": "0711JTRH",
+      "category": "ШРУС"
+    },
+    {
+      "brand": "Febest",
+      "article": "1211AD",
+      "category": "ШРУС"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "104CL22",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL19",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL25",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "113FL17",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117EL22",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "121AL21",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "123FL29",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "179EL20",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "211AL32",
+      "category": "Ремни ГРМ"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "96EL17",
+      "category": "Ремни ГРМ"
+    }
+  ]
+}

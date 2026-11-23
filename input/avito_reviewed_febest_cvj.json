@@ -1,5 +1,5 @@
 {
-  "scope_sha256": "e760a06d2e420ed5acb9a626bd1923066f8c4ee0146a94a060ca05d7a05bed0e",
+  "scope_sha256": "f64ea8c1b25fec58d5ffca5cb04eb8627a5eef9fdfa42be8b39ab4d7131b7dc4",
   "items": [
     {
       "brand": "Febest",
@@ -1364,6 +1364,106 @@
       "package_unit_verified": true,
       "primary_product_count_verified": 1,
       "unit_review_basis": "ONE_PRIMARY_CV_JOINT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "Febest",
+      "article": "0711JTRH",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028814340",
+      "source_checked_at_utc": "2026-11-23T07:46:58.439606+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_MPN": "0711-JTRH",
+      "product_title": "INNER CV JOINT RIGHT 24X40X26",
+      "oem": "4411478K01",
+      "OEM_raw": "44114-78K01",
+      "OEM_make": "EXPLICIT_OEM_COMPATIBILITY_AS_LABELLED_BY_FEBEST",
+      "OEM_source_kind": "EXPLICIT_COMPATIBLE_OEM_TABLE_AND_SELECT_ON_EXACT_PRODUCT_PAGE",
+      "automaker_reference_rows": [
+        "44114-78K01"
+      ],
+      "fitment_rows": [
+        "SUZUKI GRAND VITARA JB416X-4",
+        "SUZUKI GRAND VITARA JB416X-5",
+        "SUZUKI GRAND VITARA JB419WD-4",
+        "SUZUKI GRAND VITARA JB419WD-5",
+        "SUZUKI GRAND VITARA JB419WD-6",
+        "SUZUKI GRAND VITARA JB419XD-4",
+        "SUZUKI GRAND VITARA JB419XD-5",
+        "SUZUKI GRAND VITARA JB419XD-6",
+        "SUZUKI GRAND VITARA JB420W-4",
+        "SUZUKI GRAND VITARA JB420W-5",
+        "SUZUKI GRAND VITARA JB420W-6",
+        "SUZUKI GRAND VITARA JB424W (MY:09-12)",
+        "SUZUKI GRAND VITARA JB424W-4",
+        "SUZUKI GRAND VITARA JB424W-5",
+        "SUZUKI GRAND VITARA JB424W-6",
+        "SUZUKI GRAND VITARA JB424X-4",
+        "SUZUKI GRAND VITARA JB424X-5",
+        "SUZUKI GRAND VITARA JB424X-6",
+        "SUZUKI GRAND VITARA JB632W (MY:09-10)",
+        "SUZUKI GRAND VITARA JB632W-4"
+      ],
+      "fitment": "SUZUKI GRAND VITARA JB416X-4; SUZUKI GRAND VITARA JB416X-5; SUZUKI GRAND VITARA JB419WD-4",
+      "photo_url": "https://static.febest.de/images/big/z/z5e21j9_p0.jpg",
+      "photo_kind": "PHOTO_MODAL_NOT_SCHEME_OR_3D",
+      "exact_sku_verified": true,
+      "manufacturer_page": "https://febest.de/en/details/inner_cv_joint_right_24x40x26-0711_jtrh",
+      "manufacturer_page_sha256": "e051d0f5d1e2cb3495c2dab7e499bf4e113163ceac138541a69c1e36dad37d25",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "27bcf1a72c14757493b993e47782b11ef53e5d7d31787bc3ec50eed54d9cac83",
+      "photo_dimensions": [
+        1005,
+        1200
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "Febest",
+      "article": "1211AD",
+      "category": "ШРУС",
+      "supplier_nomenclature": "NSII0028986531",
+      "source_checked_at_utc": "2026-11-23T07:47:05.415755+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "manufacturer_MPN": "1211-AD",
+      "product_title": "INNER CV JOINT 30X30X27",
+      "oem": "49582F3100",
+      "OEM_raw": "49582-F3100",
+      "OEM_make": "EXPLICIT_OEM_COMPATIBILITY_AS_LABELLED_BY_FEBEST",
+      "OEM_source_kind": "EXPLICIT_COMPATIBLE_OEM_TABLE_AND_SELECT_ON_EXACT_PRODUCT_PAGE",
+      "automaker_reference_rows": [
+        "49582-F3100"
+      ],
+      "fitment_rows": [
+        "HYUNDAI ELANTRA 16 (ALABAMA PLANT-CAN) 2016-2018 [HAC]",
+        "HYUNDAI ELANTRA 16 (ALABAMA PLANT-EUR) 2016-2018 [EUR]",
+        "HYUNDAI ELANTRA 16 (ALABAMA PLANT-USA) 2015-2018 [HMA]",
+        "HYUNDAI ELANTRA 16 2016-2018 [EUROPE + RUSSIA]",
+        "HYUNDAI ELANTRA 19 (ALABAMA PLANT-EUR) 2018-2020 [EUR]",
+        "HYUNDAI ELANTRA 19 (ALABAMA PLANT-USA) 2018-2020 [HMA]",
+        "HYUNDAI ELANTRA 19 2018-2020 [EUROPE + RUSSIA]",
+        "HYUNDAI ELANTRA 19 2018-2020 [EUROPE]"
+      ],
+      "fitment": "HYUNDAI ELANTRA 16 (ALABAMA PLANT-CAN) 2016-2018 [HAC]; HYUNDAI ELANTRA 16 (ALABAMA PLANT-EUR) 2016-2018 [EUR]; HYUNDAI ELANTRA 16 (ALABAMA PLANT-USA) 2015-2018 [HMA]",
+      "photo_url": "https://static.febest.de/images/big/l/l4nybs6_p0.jpg",
+      "photo_kind": "PHOTO_MODAL_NOT_SCHEME_OR_3D",
+      "exact_sku_verified": true,
+      "manufacturer_page": "https://febest.de/en/details/inner_cv_joint_30x30x27-1211_ad",
+      "manufacturer_page_sha256": "e995ff618912b9e43bdce981daa51c53b7cb39e9fca144e45433682a7a8d4fac",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "4454f62c5ab9efc63a48c8b64f96ccae11390309f89e6bb0a888e5f417313544",
+      "photo_dimensions": [
+        1065,
+        1200
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
     }
   ]
 }

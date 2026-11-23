@@ -51,3 +51,4 @@ def belt_sku(ad, approved, key):
         raise ValueError('Belt outside reviewed exact SKU scope')
     return sku, CATEGORY
 
+

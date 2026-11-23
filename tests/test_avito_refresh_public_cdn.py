@@ -22,7 +22,7 @@ class PublicCDNTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'different XML'):
             refresh(self.xml(330),getter=lambda u:b'{"status":"finished"}' if u==PURGE else self.xml(245),sleeper=lambda _:None)
         with self.assertRaisesRegex(ValueError,'Unexpected validated'):
-            refresh(self.xml(948),getter=lambda _:self.fail('No network for invalid XML'))
+            refresh(self.xml(963),getter=lambda _:self.fail('No network for invalid XML'))
 
     def test_throttled_path_is_rejected_despite_finished_global_status(self):
         raw=self.xml(564);calls=[]

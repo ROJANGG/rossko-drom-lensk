@@ -1,8 +1,8 @@
 """Closed manufacturer and visually reviewed LYNX source06 scope."""
 import hashlib,json,re
 from urllib.parse import urlparse
-SCOPE_SHA256='d697a87e9d014d472f601eda8c0ecad451bc0ccbf4b71633364611c71fda3ea3'
-SCOPE_COUNT=12
+SCOPE_SHA256='4d638ece0f20fd0f6aee47405efd7868eec9b441afd5f91c19ad79c744a86777'
+SCOPE_COUNT=22
 META={
  'Ремни ГРМ':('Ремень ГРМ','новый','Двигатель','Ремни, цепи, элементы ГРМ'),
  'Прокладки ГБЦ':('Прокладка ГБЦ','новая','Двигатель','Прокладки и ремкомплекты'),
@@ -35,3 +35,4 @@ def lynx_sku(ad,approved,key):
       or ad.findtext('EngineSparePartType')!=engine or approved.get(k)!=group):raise ValueError('Unreviewed LYNX SKU or category')
   return k,group
  raise ValueError('Unrecognized exact LYNX source06 title')
+

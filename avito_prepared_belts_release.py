@@ -134,9 +134,15 @@ def prepare_febest_photo(r,place):
     return {'filename':name,'sha256':r['photo_sha256'],'public_url':PUBLIC+name,'manufacturer_page_sha256':hashlib.sha256(page).hexdigest(),'fitment_page_sha256':hashlib.sha256(page).hexdigest(),'verified_at_utc':datetime.now(timezone.utc).isoformat()}
 
 def prepare_photo(r,place):
+    if r['brand']=='LYNXauto' and r['category']!='Ремни приводные':
+        from avito_lynx_source06_release import prepare_photo as other_lynx_photo
+        return other_lynx_photo(r,place)
     if r['brand']=='Febest':return prepare_febest_photo(r,place)
     return lynx_photo(r,place) if r['brand']=='LYNXauto' else prepare_sufix_photo(r,place)
 def make_ad(r,retail,photo,address):
+    if r['brand']=='LYNXauto' and r['category']!='Ремни приводные':
+        from avito_lynx_source06_release import make_ad as other_lynx_ad
+        return other_lynx_ad(r,retail,photo,address)
     return lynx_ad(r,retail,photo,address) if r['brand']=='LYNXauto' else make_sufix_ad(r,retail,photo,address)
 
 def append_ads(original, ads):
@@ -172,6 +178,9 @@ def load_release_records(args):
     if getattr(args,'febest_manifest',None) is not None:
         from avito_reviewed_febest_cvj import load_reviewed_febest
         records += load_reviewed_febest(args.febest_manifest)
+    if getattr(args,'lynx06_manifest',None) is not None:
+        from avito_reviewed_lynx_source06 import load_reviewed_lynx
+        records += load_reviewed_lynx(args.lynx06_manifest)
     return filter_selection(records,args.selection) if args.selection is not None else records
 
 def build(args):
@@ -272,6 +281,8 @@ if __name__ == '__main__':
         p.add_argument('--'+name, type=Path, required=True)
     p.add_argument('--selection',type=Path)
     p.add_argument('--febest-manifest',type=Path)
+    p.add_argument('--lynx06-manifest',type=Path)
     build(p.parse_args())
+
 
 

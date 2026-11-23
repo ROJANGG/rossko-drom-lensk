@@ -1,8 +1,8 @@
 """Closed source-reviewed SUFIX scope; no API calls or publication."""
 import hashlib,json,re
 from urllib.parse import urlparse
-SCOPE_SHA256='6de8acc5d6559cdea193f66218c616515c8f599a3f1e003b777364fedcfc3b29'
-SCOPE_COUNT=353
+SCOPE_SHA256='842e61fa7d2e8ce249c867736350b052ca5f416e11c7adc5c81d2654d3e38e0a'
+SCOPE_COUNT=356
 CATEGORY='Ремни приводные'
 META={
  'Ремни приводные':('Ремень приводной','Двигатель','EngineSparePartType','Приводные ремни, натяжители'),
@@ -41,3 +41,4 @@ def sufix_belt_sku(ad,approved,key):
         if ad.findtext('Brand')!='SUFIX' or ad.findtext('SparePartType')!=part or ad.findtext('EngineSparePartType')!=(detail_value if detail_tag=='EngineSparePartType' else None) or ad.findtext('TransmissionSparePartType')!=(detail_value if detail_tag=='TransmissionSparePartType' else None) or approved.get(k)!=category:raise ValueError('Unreviewed SUFIX SKU/category')
         return k,category
     raise ValueError('Unrecognized exact SUFIX belt title')
+

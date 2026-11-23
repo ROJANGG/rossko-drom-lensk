@@ -1,8 +1,8 @@
 """Exact, closed Febest CV joint evidence; public manufacturer facts only."""
 import re,json,hashlib
 from urllib.parse import urlparse,urljoin
-SCOPE_COUNT=20
-SCOPE_SHA256='e760a06d2e420ed5acb9a626bd1923066f8c4ee0146a94a060ca05d7a05bed0e'
+SCOPE_COUNT=22
+SCOPE_SHA256='f64ea8c1b25fec58d5ffca5cb04eb8627a5eef9fdfa42be8b39ab4d7131b7dc4'
 def canon(v):return re.sub('[^A-Z0-9]','',str(v).upper())
 def text(n):return ' '.join(n.get_text(' ',strip=True).split())
 def parse_source(article,url,raw):
@@ -49,3 +49,4 @@ def febest_sku(ad,approved,key):
  m=re.fullmatch(r'ШРУС Febest ([A-Za-z0-9.+/\-]+) новый',ad.findtext('Title',''));k=key('Febest',m[1]) if m else None
  if not m or ad.findtext('Brand')!='Febest' or approved.get(k)!='ШРУС' or ad.findtext('SparePartType')!='Трансмиссия и привод' or ad.findtext('TransmissionSparePartType')!='Приводные валы, полуоси и ШРУСы' or ad.find('EngineSparePartType') is not None:raise ValueError('Unreviewed Febest CV joint or wrong type')
  return k,'ШРУС'
+

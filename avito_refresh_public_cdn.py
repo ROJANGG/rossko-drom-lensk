@@ -29,11 +29,12 @@ class CDNPurgeThrottled(ValueError):
 
 def refresh(expected, *, getter=fetch, sleeper=time.sleep):
     root=ET.fromstring(expected);count=len(root.findall('Ad'))
-    if root.tag!='Ads' or root.get('formatVersion')!='3' or not 150<=count<=947:raise ValueError('Unexpected validated Avito XML')
+    if root.tag!='Ads' or root.get('formatVersion')!='3' or not 150<=count<=962:raise ValueError('Unexpected validated Avito XML')
     digest=hashlib.sha256(expected).hexdigest()
     def result():return {'ads':count,'sha256':digest,'cdn_exact_bytes_verified':True}
     if hashlib.sha256(getter(CDN)).hexdigest()==digest:return result()
     response=json.loads(getter(PURGE))
+    print('AVITO_CDN_PURGE_RECEIPT',json.dumps(response,ensure_ascii=False),flush=True)
     if response.get('status') not in ('finished','pending','processing'):raise ValueError('CDN refresh request not accepted')
     statuses=response.get('paths',{})
     if any(isinstance(v,dict) and v.get('throttled') for v in statuses.values()):
@@ -49,5 +50,6 @@ if __name__ == '__main__':
     parser.add_argument('--xml', type=Path, required=True)
     args = parser.parse_args()
     print('AVITO_PUBLIC_CDN_REFRESH', json.dumps(refresh(args.xml.read_bytes())))
+
 
 

@@ -1,9 +1,5 @@
 {
-  "date": "2026-11-18",
-  "source_batch": "source06",
-  "scope_sha256": "d697a87e9d014d472f601eda8c0ecad451bc0ccbf4b71633364611c71fda3ea3",
-  "scope_count": 12,
-  "OEM_group_policy": "Original OE table; direct same make or explicit manufacturer group VAG/GENERAL MOTORS/HYUNDAI-KIA/TOYOTA. Applicability independently taken from the linked manufacturer table; no VIN claim.",
+  "scope_sha256": "4d638ece0f20fd0f6aee47405efd7868eec9b441afd5f91c19ad79c744a86777",
   "items": [
     {
       "brand": "LYNXauto",
@@ -1139,6 +1135,866 @@
       "exact_sku_verified": true,
       "fitment": "CHERY A5 | ELARA | FORA 06-, 1.6 (SQR481F), 88 (120), 01/11-12/12; CHERY A5 | ELARA | FORA 06-, 2.0 (SQR484F), 95 (129), 01/06-; CHERY CROSSEASTAR 07-, 2.0 (SQR484F), 100 (136), 06/07-",
       "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "104CL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0007308725",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/104CL22.html",
+      "source_checked_at_utc": "2026-11-23T07:56:03.565791+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "104CL22",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "94ec46d95889cbb369c89abadca7ff81abec8a31c2642c4f67b7d2d4f86a89e6",
+      "OEM_make": "HONDA",
+      "OEM_raw": "14400-PLM-014",
+      "oem": "14400PLM014",
+      "original_OE_rows": [
+        [
+          "HONDA",
+          "14400-PLM-014"
+        ],
+        [
+          "HONDA",
+          "14400-PMM-A01"
+        ],
+        [
+          "HONDA",
+          "14400-PMM-A02"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=HONDA&product_id=15018",
+      "fitment_page_sha256": "cd35d2be0a3b99a6fcf2ccecc749b10b4826602137c76d31bd90f799f3bed516",
+      "fitment_rows": [
+        [
+          "CIVIC VII Coupe (EM2) 01-05",
+          "1.6 i (EM1) (D16V1)",
+          "81 (110)",
+          "02/01-12/05",
+          ""
+        ],
+        [
+          "CIVIC VII Coupe (EM2) 01-05",
+          "1.7 i (EM2) (D17A8)",
+          "88 (120)",
+          "05/01-12/05",
+          ""
+        ],
+        [
+          "CIVIC VII Coupe (EM2) 01-05",
+          "1.7 i VTEC (EM2) (D17A5, D17A9)",
+          "92 (125)",
+          "05/01-12/05",
+          ""
+        ],
+        [
+          "CIVIC VII Hatchback (EU, EP, EV) 00-05",
+          "1.6 i (EP2, EU6, EU8) (D16V1, D16W7)",
+          "81 (110)",
+          "02/01-09/05",
+          ""
+        ],
+        [
+          "CIVIC VII Hatchback (EU, EP, EV) 00-05",
+          "1.7 (EU3) (D17A6)",
+          "92 (125)",
+          "01/00-08/05",
+          ""
+        ]
+      ],
+      "fitment": "HONDA CIVIC VII Coupe (EM2) 01-05, 1.6 i (EM1) (D16V1), 81 (110), 02/01-12/05; HONDA CIVIC VII Coupe (EM2) 01-05, 1.7 i (EM2) (D17A8), 88 (120), 05/01-12/05; HONDA CIVIC VII Coupe (EM2) 01-05, 1.7 i VTEC (EM2) (D17A5, D17A9), 92 (125), 05/01-12/05",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/104CL22.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "4b976bfc32104d4488f984876a9b20b28447907e1f86819633c4533005012314",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL19",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019709695",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/111CL19.html",
+      "source_checked_at_utc": "2026-11-23T07:56:05.190617+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "111CL19",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "5c42ae1d66edc52cef1d7a2daa75747da41678e987f78255da45378913e59ef6",
+      "OEM_make": "LADA",
+      "OEM_raw": "2108-1006040-10",
+      "oem": "2108100604010",
+      "original_OE_rows": [
+        [
+          "LADA",
+          "2108-1006040-10"
+        ],
+        [
+          "LADA",
+          "2108-1006040-11"
+        ],
+        [
+          "LADA",
+          "21080-1006040-10"
+        ],
+        [
+          "LADA",
+          "21080-1006040-11"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=LADA&product_id=15116",
+      "fitment_page_sha256": "f57d9151b149a240bd8e1a8ffc74365a62f7c60bdafba126f6c1e58e836d8235",
+      "fitment_rows": [
+        [
+          "110 (2110) 95-12",
+          "1.5 (2110)",
+          "54 (73)",
+          "01/95-12/05",
+          ""
+        ],
+        [
+          "110 (2110) 95-12",
+          "1.5 (2111)",
+          "52 (71)",
+          "06/96-09/04",
+          ""
+        ],
+        [
+          "110 (2110) 95-12",
+          "1.5 (2111)",
+          "56 (76)",
+          "10/00-12/05",
+          ""
+        ],
+        [
+          "110 (2110) 95-12",
+          "1.5 (2111)",
+          "57 (78)",
+          "01/95-12/05",
+          ""
+        ],
+        [
+          "110 (2110) 95-12",
+          "1.6 (21114)",
+          "60 (82)",
+          "01/00-12/12",
+          ""
+        ]
+      ],
+      "fitment": "LADA 110 (2110) 95-12, 1.5 (2110), 54 (73), 01/95-12/05; LADA 110 (2110) 95-12, 1.5 (2111), 52 (71), 06/96-09/04; LADA 110 (2110) 95-12, 1.5 (2111), 56 (76), 10/00-12/05",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/111CL19.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "79ae6e083fed09ba883c6ccc8cbcf579f1132fa073d759d402f9bb5fe7f9e41d",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL25",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0022333702",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/111CL25.html",
+      "source_checked_at_utc": "2026-11-23T07:56:05.214657+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "111CL25",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "e27db32f3c6b1a2c091126c8443eeceb568ed23e764636c577252c8af640a8c5",
+      "OEM_make": "DAIHATSU",
+      "OEM_raw": "13514-97201",
+      "oem": "1351497201",
+      "original_OE_rows": [
+        [
+          "DAIHATSU",
+          "13514-97201"
+        ],
+        [
+          "DAIHATSU",
+          "13514-97204"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DAIHATSU&product_id=15117",
+      "fitment_page_sha256": "1eb5337b5e45dc3aa4f6000f3e1514530272bfbbbf0702a34e17be82844862ea",
+      "fitment_rows": [
+        [
+          "CUORE VI (L251, L250_, L260_) 03-",
+          "1.0 (EJ-VE)",
+          "43 (58)",
+          "05/03-",
+          ""
+        ],
+        [
+          "MOVE (L9_) 94-02",
+          "1.0 i (EJ-DE)",
+          "41 (55)",
+          "10/98-09/02",
+          ""
+        ],
+        [
+          "SIRION | STORIA (M1) 98-05",
+          "1.0 i (M100) (EJ-DE)",
+          "41 (56)",
+          "04/98-09/00",
+          ""
+        ],
+        [
+          "SIRION | STORIA (M1) 98-05",
+          "1.0 i (M101) (EJ-VE)",
+          "43 (58)",
+          "09/00-01/05",
+          ""
+        ],
+        [
+          "SIRION | STORIA (M1) 98-05",
+          "1.0 i 4WD (M110) (EJ-DE)",
+          "41 (56)",
+          "04/99-09/00",
+          ""
+        ]
+      ],
+      "fitment": "DAIHATSU CUORE VI (L251, L250_, L260_) 03-, 1.0 (EJ-VE), 43 (58), 05/03-; DAIHATSU MOVE (L9_) 94-02, 1.0 i (EJ-DE), 41 (55), 10/98-09/02; DAIHATSU SIRION | STORIA (M1) 98-05, 1.0 i (M100) (EJ-DE), 41 (56), 04/98-09/00",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/111CL25.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "d7cf2d57608375f44756debda4a43d55437418ba59454f7d766e3029238795be",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "113FL17",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0007151846",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/113FL17.html",
+      "source_checked_at_utc": "2026-11-23T07:56:07.193014+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "113FL17",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "b24cdf391c0caf1d4f75edcb11b68c5329e402e74fec04a2dc9ab07b29117bae",
+      "OEM_make": "DATSUN",
+      "OEM_raw": "16806-5PA0A",
+      "oem": "168065PA0A",
+      "original_OE_rows": [
+        [
+          "DATSUN",
+          "16806-5PA0A"
+        ],
+        [
+          "LADA",
+          "21116-1006040"
+        ],
+        [
+          "LADA",
+          "21116-1006040-00"
+        ],
+        [
+          "LADA",
+          "21116-1006040-02"
+        ],
+        [
+          "LADA",
+          "21116-1006040-82"
+        ],
+        [
+          "LADA",
+          "8450056255"
+        ],
+        [
+          "LADA",
+          "8450077772"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=DATSUN&product_id=15126",
+      "fitment_page_sha256": "ce2f53fd4c5a563e90ef06a93170d6b89c46976d03dae890d468f7a8120a88f4",
+      "fitment_rows": [
+        [
+          "mi-DO (HB_) 14-",
+          "1.6 (HBD0, HBD0R) (16LW, 16LW8V)",
+          "64 (87)",
+          "08/14-",
+          ""
+        ],
+        [
+          "on-DO (BD_) 14-17",
+          "1.6 (BD0) (16HW)",
+          "60 (82)",
+          "08/14-05/17",
+          ""
+        ],
+        [
+          "on-DO (BD_) 14-17",
+          "1.6 (BD0) (16LW, 16LW8V)",
+          "64 (87)",
+          "08/14-05/17",
+          ""
+        ]
+      ],
+      "fitment": "DATSUN mi-DO (HB_) 14-, 1.6 (HBD0, HBD0R) (16LW, 16LW8V), 64 (87), 08/14-; DATSUN on-DO (BD_) 14-17, 1.6 (BD0) (16HW), 60 (82), 08/14-05/17; DATSUN on-DO (BD_) 14-17, 1.6 (BD0) (16LW, 16LW8V), 64 (87), 08/14-05/17",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/113FL17.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "b22f55da1729900cfddcce8d1a1e4b4a60ce0427824a82b3c2a27627a6fb939d",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117EL22",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0013008517",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/117EL22.html",
+      "source_checked_at_utc": "2026-11-23T07:56:07.241726+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "117EL22",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "9401cdc43ad72587783a105f3f29747c8bcbbe5c700eed19a06d7d5cf31d495a",
+      "OEM_make": "FORD",
+      "OEM_raw": "1 675 963",
+      "oem": "1675963",
+      "original_OE_rows": [
+        [
+          "FORD",
+          "1 675 963"
+        ],
+        [
+          "FORD USA",
+          "BM5G-6K288-AA"
+        ],
+        [
+          "VOLVO",
+          "31330410"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=FORD&product_id=35519",
+      "fitment_page_sha256": "904ecd737f72e9e57602484009c957e1bddd7c018084064f58001ac9bf1ae856",
+      "fitment_rows": [
+        [
+          "C-MAX (DM2) 07-10",
+          "1.6 (HWDA, HWDB, SHDA, SHDB, SHDC)",
+          "74 (100)",
+          "02/07-09/10",
+          ""
+        ],
+        [
+          "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "1.5 EcoBoost (M8DB, M8DF)",
+          "110 (150)",
+          "03/15-",
+          ""
+        ],
+        [
+          "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "1.5 EcoBoost (M9DB)",
+          "134 (182)",
+          "03/15-",
+          ""
+        ],
+        [
+          "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "1.6 EcoBoost (JQDA, JQDB)",
+          "110 (150)",
+          "12/10-",
+          ""
+        ],
+        [
+          "C-MAX II (DXA/CB7, DXA/CEU) 10-",
+          "1.6 EcoBoost (JTDA, JTDB)",
+          "134 (182)",
+          "12/10-",
+          ""
+        ]
+      ],
+      "fitment": "FORD C-MAX (DM2) 07-10, 1.6 (HWDA, HWDB, SHDA, SHDB, SHDC), 74 (100), 02/07-09/10; FORD C-MAX II (DXA/CB7, DXA/CEU) 10-, 1.5 EcoBoost (M8DB, M8DF), 110 (150), 03/15-; FORD C-MAX II (DXA/CB7, DXA/CEU) 10-, 1.5 EcoBoost (M9DB), 134 (182), 03/15-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/117EL22.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "3d0afdf8bed4a868fa9347806dce8985fc7a70b9f5669247f889712dc65c6fa1",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "121AL21",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018766045",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/121AL21.html",
+      "source_checked_at_utc": "2026-11-23T07:56:09.868371+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "121AL21",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "35f791c645bc18c357b575b9466b20b0c68ddcc1fa5e14e7b20ee067ef5fa329",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "13568-09030",
+      "oem": "1356809030",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "13568-09030"
+        ],
+        [
+          "TOYOTA",
+          "13568-16060"
+        ],
+        [
+          "TOYOTA",
+          "13568-16061"
+        ],
+        [
+          "TOYOTA",
+          "13568-16070"
+        ],
+        [
+          "TOYOTA",
+          "13568-19055"
+        ],
+        [
+          "TOYOTA",
+          "13568-19056"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15149",
+      "fitment_page_sha256": "9b621bb1186ccbf818d6084dd1229ef01d59621bc5bda302b606a1f4a3dc6cca",
+      "fitment_rows": [
+        [
+          "AVENSIS (_T22_) 97-03",
+          "1.8 (AT221_) (7A-FE)",
+          "81 (110)",
+          "09/97-10/00",
+          ""
+        ],
+        [
+          "AVENSIS Estate (_T22_) 97-03",
+          "1.8 (AT221_) (7A-FE)",
+          "81 (110)",
+          "09/97-10/00",
+          ""
+        ],
+        [
+          "AVENSIS Liftback (_T22_) 97-03",
+          "1.8 (AT221_) (7A-FE)",
+          "81 (110)",
+          "09/97-10/00",
+          ""
+        ],
+        [
+          "CALDINA Estate (_T19_) 92-02",
+          "1.8 (AT191) (7A-FE)",
+          "79 (107)",
+          "02/92-09/97",
+          ""
+        ],
+        [
+          "CALDINA Estate (_T21_) 97-02",
+          "1.8 (AT211G_) (7A-FE)",
+          "85 (116)",
+          "10/97-08/02",
+          ""
+        ]
+      ],
+      "fitment": "TOYOTA AVENSIS (_T22_) 97-03, 1.8 (AT221_) (7A-FE), 81 (110), 09/97-10/00; TOYOTA AVENSIS Estate (_T22_) 97-03, 1.8 (AT221_) (7A-FE), 81 (110), 09/97-10/00; TOYOTA AVENSIS Liftback (_T22_) 97-03, 1.8 (AT221_) (7A-FE), 81 (110), 09/97-10/00",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/121AL21.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "820828037aafa7ebc56c14c1e6ce6fad7eafd2de4ca74c8edaea23370edbf69a",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "123FL29",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018630674",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/123FL29.html",
+      "source_checked_at_utc": "2026-11-23T07:56:10.037287+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "123FL29",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "b815f7b3b7d5d5edb69fb41a750cd3c1d2d01d1ef59c48d3bca39403ec375efe",
+      "OEM_make": "CHERY",
+      "OEM_raw": "8595-3025",
+      "oem": "85953025",
+      "original_OE_rows": [
+        [
+          "CHERY",
+          "8595-3025"
+        ],
+        [
+          "GREAT WALL",
+          "SMD182293"
+        ],
+        [
+          "GREAT WALL",
+          "SMD336149"
+        ],
+        [
+          "MITSUBISHI",
+          "MB 182293"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 182293"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 197141"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 336149"
+        ],
+        [
+          "MITSUBISHI",
+          "MD 338288"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=CHERY&product_id=15168",
+      "fitment_page_sha256": "000d666f1b9169c23401ca3072d20614b0fba100b2b9e61a1b6ac6511fb9c109",
+      "fitment_rows": [
+        [
+          "TIGGO T11 05-14",
+          "2.0 4WD (4G63-S4M)",
+          "92 (125)",
+          "03/05-11/09",
+          ""
+        ],
+        [
+          "TIGGO T11 05-14",
+          "2.4 (4G64-S4M)",
+          "95 (129)",
+          "03/05-12/08",
+          ""
+        ],
+        [
+          "TIGGO T11 05-14",
+          "2.4 AWD (4G64-S4M)",
+          "95 (129)",
+          "11/05-12/08",
+          ""
+        ]
+      ],
+      "fitment": "CHERY TIGGO T11 05-14, 2.0 4WD (4G63-S4M), 92 (125), 03/05-11/09; CHERY TIGGO T11 05-14, 2.4 (4G64-S4M), 95 (129), 03/05-12/08; CHERY TIGGO T11 05-14, 2.4 AWD (4G64-S4M), 95 (129), 11/05-12/08",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/123FL29.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "3df11543e74f57e436fce1ec23fe893eeedef8b0e8e9b95841bde47d1211117f",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "179EL20",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSII0013008538",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/179EL20.html",
+      "source_checked_at_utc": "2026-11-23T07:56:12.707843+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "179EL20",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "bfadbce317ec9785cd07cd19de0f74f84a79d72d7942c6c5539ee4156898934f",
+      "OEM_make": "MITSUBISHI",
+      "OEM_raw": "1145A034",
+      "oem": "1145A034",
+      "original_OE_rows": [
+        [
+          "MITSUBISHI",
+          "1145A034"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=MITSUBISHI&product_id=35585",
+      "fitment_page_sha256": "a1332679dbe85c7aedd38159dd68ddc5bd5f8b7bac78dc1be2107ccbc2c9202a",
+      "fitment_rows": [
+        [
+          "OUTLANDER II (CW_W) 06-12",
+          "3.0 4WD (CW6W) (6B31)",
+          "162 (220)",
+          "11/06-11/12",
+          ""
+        ],
+        [
+          "OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-",
+          "3.0 4WD (GF4W) (6B31)",
+          "165 (224)",
+          "03/14-",
+          ""
+        ],
+        [
+          "OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-",
+          "3.0 4WD (GF4W) (6B31)",
+          "169 (230)",
+          "03/14-",
+          ""
+        ],
+        [
+          "OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-",
+          "3.0 GT 4WD (GF4W) (6B31)",
+          "167 (227)",
+          "08/12-",
+          ""
+        ],
+        [
+          "PAJERO SPORT II | MONTERO SPORT (KH_, KG_) 08-15",
+          "3.0 4WD (6B31)",
+          "162 (220)",
+          "09/08-",
+          ""
+        ]
+      ],
+      "fitment": "MITSUBISHI OUTLANDER II (CW_W) 06-12, 3.0 4WD (CW6W) (6B31), 162 (220), 11/06-11/12; MITSUBISHI OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-, 3.0 4WD (GF4W) (6B31), 165 (224), 03/14-; MITSUBISHI OUTLANDER III (GG_W, GF_W, ZJ, ZL, ZK) 12-, 3.0 4WD (GF4W) (6B31), 169 (230), 03/14-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/179EL20.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "965493a9cd729eaa55a18af02565ebb2d775d0df1c20ff223c12e8d7ba2eba8a",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "211AL32",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0018630860",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/211AL32.html",
+      "source_checked_at_utc": "2026-11-23T07:56:13.799983+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "211AL32",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "4403c27114b4f4ab8b350b873d0b39e5444c274ad45c3dbb05b17138c93f65fa",
+      "OEM_make": "TOYOTA",
+      "OEM_raw": "13568-09050",
+      "oem": "1356809050",
+      "original_OE_rows": [
+        [
+          "TOYOTA",
+          "13568-09050"
+        ],
+        [
+          "TOYOTA",
+          "13568-09080"
+        ],
+        [
+          "TOYOTA",
+          "13568-20010"
+        ],
+        [
+          "TOYOTA",
+          "13568-29015"
+        ],
+        [
+          "TOYOTA",
+          "13568-29025"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=TOYOTA&product_id=15408",
+      "fitment_page_sha256": "ce2c5709571f952773df6ff9a589efe1084e1fd60aa5849423591daa789f8c57",
+      "fitment_rows": [
+        [
+          "ALPHARD I (_H1_) 03-08",
+          "3.0 (MNH10) (1MZ-FE)",
+          "162 (220)",
+          "04/03-04/08",
+          ""
+        ],
+        [
+          "AVALON | PRONARD Saloon (_X2_) 99-05",
+          "3.0 (MCX20_) (1MZ-FE)",
+          "145 (197)",
+          "04/00-06/05",
+          ""
+        ],
+        [
+          "AVALON | PRONARD Saloon (_X2_) 99-05",
+          "3.0 (MCX20) (1MZ-FE)",
+          "157 (214)",
+          "09/99-12/04",
+          ""
+        ],
+        [
+          "AVALON Saloon (_X1_) 94-05",
+          "3.0 (MCX10_) (1MZ-FE)",
+          "140 (190)",
+          "03/95-05/05",
+          ""
+        ],
+        [
+          "AVALON Saloon (_X1_) 94-05",
+          "3.0 (MCX10_) (1MZ-FE)",
+          "145 (197)",
+          "04/00-06/05",
+          ""
+        ]
+      ],
+      "fitment": "TOYOTA ALPHARD I (_H1_) 03-08, 3.0 (MNH10) (1MZ-FE), 162 (220), 04/03-04/08; TOYOTA AVALON | PRONARD Saloon (_X2_) 99-05, 3.0 (MCX20_) (1MZ-FE), 145 (197), 04/00-06/05; TOYOTA AVALON | PRONARD Saloon (_X2_) 99-05, 3.0 (MCX20) (1MZ-FE), 157 (214), 09/99-12/04",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/211AL32.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "87844087969c60d5df7996c60dd7814b085da80d373ba4245f1ffe3fae04b974",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "96EL17",
+      "category": "Ремни ГРМ",
+      "supplier_nomenclature": "NSIN0019725089",
+      "manufacturer_page": "https://ecatalogue.lynxauto.jp/96EL17.html",
+      "source_checked_at_utc": "2026-11-23T07:56:16.750099+00:00",
+      "source_status": "MANUFACTURER_FACTS_VERIFIED",
+      "product_title": "Timing belt (extra strong)",
+      "manufacturer_MPN": "96EL17",
+      "exact_sku_verified": true,
+      "manufacturer_page_sha256": "ae610cb042b9f0dd4e9b84d174ed07b3b642b170d2d4be3076c13f453d4adf04",
+      "OEM_make": "RENAULT",
+      "OEM_raw": "60 01 543 400",
+      "oem": "6001543400",
+      "original_OE_rows": [
+        [
+          "NISSAN",
+          "16806-00QAR"
+        ],
+        [
+          "NISSAN",
+          "16806-00QBD"
+        ],
+        [
+          "RENAULT",
+          "60 01 543 400"
+        ],
+        [
+          "RENAULT",
+          "77 00 273 279"
+        ],
+        [
+          "RENAULT",
+          "77 00 273 280"
+        ],
+        [
+          "RENAULT",
+          "77 00 273 611"
+        ],
+        [
+          "RENAULT",
+          "77 00 273 650"
+        ],
+        [
+          "RENAULT",
+          "82 00 537 021"
+        ]
+      ],
+      "fitment_page": "https://ecatalogue.lynxauto.jp/index.php?route=product/product/getApplicability&mark=RENAULT&product_id=16048",
+      "fitment_page_sha256": "8474f95709ca39ecd670692386ae5dff16e65b300f2cef59f931110ca8bdd1fc",
+      "fitment_rows": [
+        [
+          "CLIO II (BB_, CB_) 98-09",
+          "1.4 (B/CB0C, B/CB0S) (E7J 634, E7J 635, E7J 780, K7J 700)",
+          "55 (75)",
+          "09/98-05/05",
+          ""
+        ],
+        [
+          "CLIO II (BB_, CB_) 98-09",
+          "1.6 (B/CB0D) (K7M 744, K7M 745, K7M 746)",
+          "66 (90)",
+          "09/98-05/05",
+          ""
+        ],
+        [
+          "KANGOO (KC0/1_) 97-10",
+          "1.4 (KC0C, KC0H, KC0B, KC0M) (E7J 634, E7J 635, E7J 780, K7J 700, K7J 701)",
+          "55 (75)",
+          "08/97-",
+          ""
+        ],
+        [
+          "KANGOO (KC0/1_) 97-10",
+          "1.6 (K7M 746)",
+          "66 (90)",
+          "09/99-06/01",
+          ""
+        ],
+        [
+          "KANGOO / GRAND KANGOO II (KW0/1_) 08-",
+          "1.6 (KW00, KW0Y, KW0E, KW0N, KW0P) (K7M 750)",
+          "64 (87)",
+          "02/08-",
+          ""
+        ]
+      ],
+      "fitment": "RENAULT CLIO II (BB_, CB_) 98-09, 1.4 (B/CB0C, B/CB0S) (E7J 634, E7J 635, E7J 780, K7J 700), 55 (75), 09/98-05/05; RENAULT CLIO II (BB_, CB_) 98-09, 1.6 (B/CB0D) (K7M 744, K7M 745, K7M 746), 66 (90), 09/98-05/05; RENAULT KANGOO (KC0/1_) 97-10, 1.4 (KC0C, KC0H, KC0B, KC0M) (E7J 634, E7J 635, E7J 780, K7J 700, K7J 701), 55 (75), 08/97-",
+      "photo_url": "https://ecatalogue.lynxauto.jp/image/96EL17.jpg",
+      "photo_status": "DOWNLOADED_AWAITING_VISUAL_REVIEW",
+      "photo_sha256": "f90dbe35b98cf1257d7beae17fd31dcc0d7f14041dded3c3b724dc1aedb3e514",
+      "photo_dimensions": [
+        800,
+        600
+      ],
+      "photo_format": "JPEG",
+      "photo_review": "ACTUAL_EXACT_PRODUCT_PHOTO_VERIFIED",
+      "package_unit_verified": true,
+      "primary_product_count_verified": 1,
+      "unit_review_basis": "ONE_PRIMARY_PRODUCT_WITH_ACCESSORIES_ON_EXACT_MANUFACTURER_PAGE"
     }
   ]
 }
