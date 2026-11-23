@@ -1,0 +1,33 @@
+name: Avito - Nov23 corrected Poly V-Belt source review 42 SKUs
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/avito_source26_poly_v_retry_20261123.yml']
+permissions:
+  contents: read
+jobs:
+  primary-only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - run: python -m pip install 'requests>=2.31,<3' 'beautifulsoup4>=4.12,<5' 'pillow>=10,<13'
+      - name: Verify Poly V-Belt category alias before reviewing sources
+        run: |
+          python - <<'PY'
+          import re
+          p=r'ремень|drive belt|poly[ -]*v[ -]*belt|v[ -]*ribbed[ -]*belt|serpentine belt'
+          for title in ['Poly V-Belt','Poly V-Belt (EPDM)','Poly V-Belt (EPDM, Power Max)']:assert re.search(p,title,re.I)
+          for title in ['Timing belt (extra strong)','Страница, запрошенная Вами, не найдена!']:assert not re.search(p,title,re.I)
+          print('POLY_V_CATEGORY_REGRESSION_PASS')
+          PY
+      - run: python avito_source26_lynx_poly_v_retry.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: LYNX_POLY_V_SOURCE_RETRY_NOV23
+          path: review/lynx26/
+          retention-days: 7

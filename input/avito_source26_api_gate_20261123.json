@@ -1,0 +1,1244 @@
+{
+  "batch_size": 100,
+  "API_requests_attempted": 88,
+  "results": [
+    {
+      "brand": "LYNXauto",
+      "article": "6PK1990",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:05.770038+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2013",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:07.928282+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2053",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:09.701932+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1200
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2120",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:11.667312+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1250
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2160",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:13.158538+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2138",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:14.787550+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2238",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:17.507046+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2260",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:17.507108+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2285",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:19.529539+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2315",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:21.130914+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2373",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:21.130944+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1650
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2403",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:22.449606+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2460",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:24.484845+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2478",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:26.048389+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2500",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:27.386867+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2550",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:29.223133+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2625",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:30.726022+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1650
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1051EL",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:31.948731+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1078",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:31.948759+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 950
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1103",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:34.151517+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 850
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1140",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:35.376557+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1165",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:37.830513+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1200
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1243",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:39.209932+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1275",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:40.502740+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1400
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1685",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:41.988171+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1850
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1701",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:43.532325+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1715",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:43.532348+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1750SP",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:44.807256+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1550
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1760",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:46.261507+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1400
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1905SP",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:47.662273+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1910",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:49.598479+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1915",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:50.902300+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1000
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1920",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:52.449010+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1933",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:52.449038+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1940",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:52.449043+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2350
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1953",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:53.866671+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1960",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:55.210903+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2005",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:56.474176+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2300
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2045",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:53:58.183357+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1850
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2090",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:00.117183+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2120",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:01.735574+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2150",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:01.735592+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2280",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:02.938420+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3100
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2300",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:04.903737+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2050
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2682",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:06.329929+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 2650
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK3170",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:07.819291+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2550
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK1786",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:09.259608+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1800
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2093",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:10.491230+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1750
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2155",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:12.113773+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2400
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2166",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:14.032716+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "9PK2250",
+      "category": "Ремни приводные",
+      "checked_at_utc": "2026-11-23T07:54:15.910145+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4350
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "104CL22",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:17.344278+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "105FL22",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:19.008807+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1350
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL19",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:20.896605+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1050
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL25",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:22.607556+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2200
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "113FL17",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:23.675693+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 1500
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117EL22",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:25.369299+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1600
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117FL22XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:26.743302+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1350
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "121AL21",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:36.734600+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1450
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "123FL29",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:38.603325+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1950
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "129FL254",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:40.213919+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "134CL254",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:41.596350+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1700
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "137AL254",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:42.733152+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4200
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "163CL267",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:44.314004+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "163EL20",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:44.314029+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2250
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "177AL25",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:45.787629+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "177EL254",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:45.787657+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "179EL20",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:45.787661+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3000
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "187BL32XS",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:47.208279+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4400
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "211AL32",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:49.053422+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3850
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "281BL30",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:50.801832+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 6350
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "65BL127",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:52.676646+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 850
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "96CL173",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:54.322947+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 900
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "96EL17",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:55.904689+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 900
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "97CL216",
+      "category": "Ремни ГРМ",
+      "checked_at_utc": "2026-11-23T07:54:57.970035+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2150
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0006",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:54:59.225658+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2800
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0061",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:00.552356+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0085",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:00.552386+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 800
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0087",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:02.538124+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2650
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0096",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:04.364971+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3900
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0121",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:05.877230+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2100
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0128",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:07.358886+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2850
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0137",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:09.219460+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4750
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0144",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:10.918622+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 5450
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0145",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:12.374535+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3150
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0156",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:13.419851+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1950
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0186",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:14.615382+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2600
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0193",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:16.041056+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 5300
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0202",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:17.444136+00:00",
+      "api_status": "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0209",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:17.444164+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0273",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:18.892422+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 2,
+      "avito_retail_rub": 3550
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0346",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:20.160403+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3500
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0347",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:21.863665+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3550
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0365",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:23.138652+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 1900
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0378",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:24.624742+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 4,
+      "avito_retail_rub": 3500
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0380",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:27.056576+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2800
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0420",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:28.911770+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 3,
+      "avito_retail_rub": 3100
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0450",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:30.441422+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 2350
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0491",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:32.402703+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 4050
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0512",
+      "category": "Прокладки ГБЦ",
+      "checked_at_utc": "2026-11-23T07:55:34.297208+00:00",
+      "api_status": "опт_Иркутск_подтвержден",
+      "supplier_zero_day_stock": 1,
+      "avito_retail_rub": 3450
+    }
+  ],
+  "status_counts": {
+    "опт_Иркутск_подтвержден": 88,
+    "NO_FRESH_SUPPLIER_ZERO_DAY_STOCK": 12
+  },
+  "ready_for_full_source_review": [
+    {
+      "brand": "LYNXauto",
+      "article": "6PK1990"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2013"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2053"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2120"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2160"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2138"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2260"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2285"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2373"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2403"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2460"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2478"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2500"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2550"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "6PK2625"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1078"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1103"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1140"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1165"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1243"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1275"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1685"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1715"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1750SP"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1760"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1905SP"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1910"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1915"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1940"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1953"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK1960"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2005"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2045"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2090"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2150"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2280"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2300"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK2682"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "7PK3170"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK1786"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2093"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2155"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "8PK2166"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "9PK2250"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "104CL22"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "105FL22"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL19"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "111CL25"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "113FL17"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117EL22"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "117FL22XS"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "121AL21"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "123FL29"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "129FL254"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "134CL254"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "137AL254"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "163EL20"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "179EL20"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "187BL32XS"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "211AL32"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "281BL30"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "65BL127"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "96CL173"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "96EL17"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "97CL216"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0006"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0085"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0087"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0096"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0121"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0128"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0137"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0144"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0145"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0156"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0186"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0193"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0209"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0273"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0346"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0347"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0365"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0378"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0380"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0420"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0450"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0491"
+    },
+    {
+      "brand": "LYNXauto",
+      "article": "SH0512"
+    }
+  ],
+  "source_review_policy": "Full OEM/fitment/photo verification follows only a successful fresh zero-day API gate",
+  "no_XML_changes": true,
+  "no_private_buying_prices_written": true,
+  "publication_performed": false
+}
